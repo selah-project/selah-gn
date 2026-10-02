@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Aravo eheka hag̃ua, ha aravo ekañy hag̃ua; aravo eñongatu hag̃ua, ha aravo embokuai hag̃ua.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Aravo"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "eheka hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ekañy hag̃ua"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "eñongatu hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "embokuai hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T19:48:15.201858361Z",
+  "model": "glm-5.3"
+}

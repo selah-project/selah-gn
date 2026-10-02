@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 3:13",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Peñehendu ha peñemoñeʼẽ Jaakov ⟨óga⟩ rehe — Adonai Jahve ñeʼẽ, Elohim Tsevaot.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Peñehendu"
+    },
+    {
+      "surface": "והעידו",
+      "gloss": "ha peñemoñeʼẽ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "óga rehe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-02T19:45:53.116317625Z",
+  "model": "glm-5.3"
+}

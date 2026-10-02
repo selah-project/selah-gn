@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 92,
+  "translation": "Yvypóra mymba rekoitéva ndoikuaái, ha navío ndoikuaái ⟨את⟩ kóva.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mymba rekoitéva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…ái"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ikuaái"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ha navío"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…ái"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ikuaái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kóva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:48:04.577029668Z",
+  "model": "glm-5.3"
+}

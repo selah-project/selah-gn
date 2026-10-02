@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Che Elohim, che rekove oñembyasy che ryepýpe; upéaré che manduʼa nde rehe Yarden yvýgui, ha Chermonokuéra-gui, Mitsar yvtygui.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Che Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ryepýpe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "על",
+      "gloss": "upéaré"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéaré"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "che manduʼa nde rehe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ha Chermonokuéra-gui"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "yvtygui"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:02.142450836Z",
+  "model": "glm-5.3"
+}

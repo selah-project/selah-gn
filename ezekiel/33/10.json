@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 33:10",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha nde, yvypóra raʼýpe, eñeʼẽ ⟨את⟩ Jisrael óga reheguápe: Koʼáicha peẽ peñeʼẽ: Ore jeikarãi ha ore jareko vai ore rehe, ha jañemomichĩ hesekuéra; mbaʼéichapa jaikove haguã?",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reheguápe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Koʼáicha"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "peñeʼẽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ore jeikarãi"
+    },
+    {
+      "surface": "וחטאתינו",
+      "gloss": "ha ore jareko vai"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "ובם",
+      "gloss": "hesekuéra"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ja-"
+    },
+    {
+      "surface": "נמקים",
+      "gloss": "ñemomichĩ"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "jaikove haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:35.786493902Z",
+  "model": "glm-5.3"
+}

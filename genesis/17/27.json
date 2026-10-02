@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "gn",
   "chapter": 17,
-  "translation": "Ha opaite umi kuimbaʼe (men of) iñogagua (his house), heñóiva (born) iñógape (in his house), ha ojoguavaʼekue (bought) kuatia (with money) rehe ⟨את⟩ (from) tetãygua raʼýgui (son of a foreigner) — oñemongarakuaa (were circumcised) ⟨את⟩ hese (with him)",
+  "translation": "Ha opaite umi kuimbaʼe iógapegua — heñóivaʼekue hógape ha ojoguavaʼekue pirapire rehe ⟨את⟩ jepeʼahára raʼýpe — oñemongakuaa hikuái ⟨את⟩ hendive.",
   "tokens": [
     {
       "surface": "וכל",
@@ -17,45 +17,47 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "iñogagua"
+      "gloss": "iógapegua"
     },
     {
       "surface": "יליד",
-      "gloss": "heñóiva"
+      "gloss": "heñóivaʼekue"
     },
     {
       "surface": "בית",
-      "gloss": "iñógape"
+      "gloss": "hógape"
     },
     {
       "surface": "ומקנת",
-      "gloss": "ojoguavaʼekue"
+      "gloss": "ha ojoguavaʼekue"
     },
     {
       "surface": "כסף",
-      "gloss": "kuatia"
+      "gloss": "pirapire rehe"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩gui"
+      "gloss": "⟨את⟩ rehe",
+      "marks": "jepeʼahára raʼy"
     },
     {
       "surface": "בן",
-      "gloss": "raʼýgui"
+      "gloss": "raʼy"
     },
     {
       "surface": "נכר",
-      "gloss": "tetãygua"
+      "gloss": "jepeʼahára"
     },
     {
       "surface": "נמלו",
-      "gloss": "oñemongarakuaa"
+      "gloss": "oñemongakuaa hikuái"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hese"
+      "gloss": "⟨את⟩ hendive",
+      "marks": "Avraham"
     }
   ],
-  "timestamp": "2026-10-02T07:39:00.013799928Z",
+  "timestamp": "2026-10-02T19:43:46.568100134Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Ejapopa reipotáicha ⟨את⟩ Tsion peve; emopuʼã Jerusalaim óga okakuéra.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "ejapopa"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "reipotáicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "emopuʼã"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "óga okakuéra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T19:45:25.543975316Z",
+  "model": "glm-5.3"
+}

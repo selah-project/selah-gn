@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha Jahve oipytyvõ chuguikuéra, osãingo chuguikuéra; osãingo umi ivaikuarãva apytégui, ha oporoñangareko, oñemoĩgui hese.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "oipytyvõ chuguikuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "ha osãingo chuguikuéra"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "osãingo"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "umi ivaikuarãva apytégui"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ha oporoñangareko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oviarã"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T19:45:38.539717156Z",
+  "model": "glm-5.3"
+}

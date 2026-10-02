@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Mbaʼépa oiko vaekue — oñembohéra arakaʼe guive iñembohéra, ha ojeikuaa mbaʼépa haʼeha: haʼeha yvypóra; ha ndaikatúi oñehaʼã ⟨pe⟩ ipuʼakavévandi, ha gueteri ipuʼakave hese.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "oiko vaekue"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "arakaʼe guive"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "oñembohéra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iñembohéra"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ha ojeikuaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaikatúi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ovenda"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "oñehaʼã"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨pe⟩ … ndi"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "ipuʼakavévandi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T19:48:19.573073765Z",
+  "model": "glm-5.3"
+}

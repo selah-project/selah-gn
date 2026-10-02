@@ -5,29 +5,29 @@
   "book": "genesis",
   "lang": "gn",
   "chapter": 33,
-  "translation": "Ha omboʼy ⟨את⟩ iñakãguasu raʼãnga — he lifted ⟨את⟩ his eyes, and saw ⟨את⟩ the kuñanguéra and ⟨את⟩ the mitãnguéra, and said: —Mávapa koʼã nde ndive? And he said: —Umi mitã Elohim oiporã ⟨את⟩ nde tembiguái haguépe.",
+  "translation": "Ha upéi, ombojasuvo ⟨את⟩ iñakãnguéra, ohecha ⟨את⟩ kuñanguéra ha ⟨את⟩ mitãnguéra, ha heʼi: Mávapa koʼáva nde ndive? Ha jaʼe: Umi mitã Elohim omeʼẽ vaʼekue ⟨את⟩ cherembojárare.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "he lifted up"
+      "gloss": "ombojasuvo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iñakãguasu — his eyes"
+      "marks": "iñakãnguéra"
     },
     {
       "surface": "עיניו",
-      "gloss": "his eyes"
+      "gloss": "iñakãnguéra"
     },
     {
       "surface": "וירא",
-      "gloss": "and saw"
+      "gloss": "ohecha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuñanguéra — the women"
+      "marks": "kuñanguéra"
     },
     {
       "surface": "הנשים",
@@ -35,8 +35,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "mitãnguéra — the children"
+      "gloss": "ha ⟨את⟩",
+      "marks": "mitãnguéra"
     },
     {
       "surface": "הילדים",
@@ -44,15 +44,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "and said"
+      "gloss": "ha heʼi"
     },
     {
       "surface": "מי",
-      "gloss": "Máva"
+      "gloss": "mávapa"
     },
     {
       "surface": "אלה",
-      "gloss": "koʼã"
+      "gloss": "koʼáva"
     },
     {
       "surface": "לך",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "and said"
+      "gloss": "ha jaʼe"
     },
     {
       "surface": "הילדים",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "pe"
+      "gloss": "vaʼekue"
     },
     {
       "surface": "חנן",
-      "gloss": "oiporã — has shown favor"
+      "gloss": "omeʼẽ"
     },
     {
       "surface": "אלהים",
@@ -81,13 +81,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nde tembiguái — your servant"
+      "marks": "cherembojárare"
     },
     {
       "surface": "עבדך",
-      "gloss": "nde tembiguái"
+      "gloss": "cherembojárare"
     }
   ],
-  "timestamp": "2026-10-02T07:51:40.686657890Z",
+  "timestamp": "2026-10-02T19:44:43.778650535Z",
   "model": "glm-5.3"
 }

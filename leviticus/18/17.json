@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "gn",
   "chapter": 18,
-  "translation": "⟨⟨Erva⟩⟩ of a woman and of her daughter, you shall not reveal; ⟨את⟩ the daughter of her son and ⟨את⟩ the daughter of her daughter you shall not take to reveal her ⟨erva⟩ — they are her close kin; it is wickedness.",
+  "translation": "Kuña ha irajy iñakunuʼũ ani ehechauka; ⟨את⟩ iraʼy rajy ha ⟨את⟩ irajy rajy ani regueru, ehechauka haguã iñakunuʼũ; ituguaípeguáva umía; tekovai upéva.",
   "tokens": [
     {
       "surface": "ערות",
-      "gloss": "erva"
+      "gloss": "iñakunuʼũ"
     },
     {
       "surface": "אשה",
-      "gloss": "kuñáme"
+      "gloss": "kuña"
     },
     {
       "surface": "ובתה",
-      "gloss": "ha iñakymi"
+      "gloss": "ha irajy"
     },
     {
       "surface": "לא",
@@ -25,33 +25,33 @@
     },
     {
       "surface": "תגלה",
-      "gloss": "rehechauka"
+      "gloss": "ehechauka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iñakymi raʼy mbaʼéra"
+      "marks": "iraʼy rajy"
     },
     {
       "surface": "בת",
-      "gloss": "akymi"
+      "gloss": "rajy"
     },
     {
       "surface": "בנה",
-      "gloss": "raʼy mbaʼéra"
+      "gloss": "iraʼy"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "iñakymi iñakymi mbaʼéra"
+      "gloss": "ha ⟨את⟩",
+      "marks": "irajy rajy"
     },
     {
       "surface": "בת",
-      "gloss": "akymi"
+      "gloss": "rajy"
     },
     {
       "surface": "בתה",
-      "gloss": "iñakymi mbaʼéra"
+      "gloss": "irajy"
     },
     {
       "surface": "לא",
@@ -59,33 +59,33 @@
     },
     {
       "surface": "תקח",
-      "gloss": "rejapysaka"
+      "gloss": "regueru"
     },
     {
       "surface": "לגלות",
-      "gloss": "hechauka hag̃ua"
+      "gloss": "ehechauka haguã"
     },
     {
       "surface": "ערותה",
-      "gloss": "iñerva"
+      "gloss": "iñakunuʼũ"
     },
     {
       "surface": "שארה",
-      "gloss": "iñypy真正"
+      "gloss": "ituguaípeguáva"
     },
     {
       "surface": "הנה",
-      "gloss": "umíva"
+      "gloss": "umía"
     },
     {
       "surface": "זמה",
-      "gloss": "mbaʼe vaiete"
+      "gloss": "tekovai"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨upe⟩"
+      "gloss": "upéva"
     }
   ],
-  "timestamp": "2026-10-02T08:56:05.323762904Z",
+  "timestamp": "2026-10-02T19:45:54.906729932Z",
   "model": "glm-5.3"
 }

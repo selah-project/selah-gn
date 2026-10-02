@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Che monguʼỹpyre, che gũ memby: mbaʼe che hayhúva ⟨את⟩ Jahve Tsevaot, Jisrael Elohim, ndive, che moñeʼẽ peẽpe.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "che monguʼỹpyre"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "che gũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "che hayhúva"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot, Jisrael Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "che moñeʼẽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:46.075007149Z",
+  "model": "glm-5.3"
+}

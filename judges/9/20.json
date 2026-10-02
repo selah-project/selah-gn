@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha nahániri katu, tata osẽta Avimélej-gui ha oʼúta ⟨את⟩ Chekem járakuéra ha ⟨את⟩ Milo óga; ha tata osẽta Chekem járakuéra-gui ha Milo óga-gui, ha oʼúta ⟨את⟩ Avimélej.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha … katu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "osẽta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Avimélej-gui"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ha oʼúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chekem járakuéra"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "járakuéra"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Milo óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ha osẽta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "járakuéra-gui"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Chekem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ha … -gui"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo óga"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ha oʼúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimélej"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimélej"
+    }
+  ],
+  "timestamp": "2026-10-02T19:44:32.954802363Z",
+  "model": "glm-5.3"
+}

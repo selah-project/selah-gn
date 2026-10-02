@@ -5,37 +5,42 @@
   "book": "proverbs",
   "lang": "gn",
   "chapter": 10,
-  "translation": "Iñeʼẽjakãha korasõre ñemonguʼeñemombaʼe ñemohendaméva, ha nambae of lips oikóta oñeg̃uahẽi vai.",
+  "translation": "Iñatõa korasõva ojapyhy ⟨את⟩ mboajypyrekuéra, ha evíl iñeʼẽraipohýva oñembyai.",
   "tokens": [
     {
       "surface": "חכם",
-      "gloss": "iñeʼẽjakãha"
+      "gloss": "iñatõa"
     },
     {
       "surface": "לב",
-      "gloss": "korasõre"
+      "gloss": "korasõva"
     },
     {
       "surface": "יקח",
-      "gloss": "ñemonguʼeñemombaʼe"
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboajypyrekuéra"
     },
     {
       "surface": "מצות",
-      "gloss": "ñemohendaméva"
+      "gloss": "mboajypyrekuéra"
     },
     {
       "surface": "ואויל",
-      "gloss": "ha nambae"
+      "gloss": "ha evíl"
     },
     {
       "surface": "שפתים",
-      "gloss": "of lips"
+      "gloss": "iñeʼẽraipohýva"
     },
     {
       "surface": "ילבט",
-      "gloss": "oikóta oñeg̃uahẽi vai"
+      "gloss": "oñembyai"
     }
   ],
-  "timestamp": "2026-10-02T19:24:58.549384606Z",
+  "timestamp": "2026-10-02T19:48:00.296805891Z",
   "model": "glm-5.3"
 }

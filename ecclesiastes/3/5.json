@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Aravo embokuapi hag̃ua itakuéra, ha aravo embyaty hag̃ua itakuéra; aravo ajopy hag̃ua, ha aravo epyta hag̃ua ajopygui.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Aravo"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "embokuapi hag̃ua"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "itakuéra"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "embyaty hag̃ua"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "itakuéra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ajopy hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "epyta hag̃ua"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ajopygui"
+    }
+  ],
+  "timestamp": "2026-10-02T19:48:15.201630170Z",
+  "model": "glm-5.3"
+}

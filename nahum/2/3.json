@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Haʼe niko Jahve ojevy ⟨את⟩ Jaakov ñeguatarã rehe, Jisrael ñeguatarã jaichagua; haʼe niko umíva omonandíva omonandi ⟨את⟩ chupekuéra, ha ombyai ⟨את⟩ hikuái yva rogue rakã.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼe niko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeguatarã"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ñeguatarã"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "ñeguatarã jaichagua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe niko"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "umíva omonandíva"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ha yva rogue rakã"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ombyai"
+    }
+  ],
+  "timestamp": "2026-10-02T19:45:42.143686590Z",
+  "model": "glm-5.3"
+}

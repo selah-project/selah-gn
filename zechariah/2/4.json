@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "gn",
   "chapter": 2,
-  "translation": "Ha aheʼi: mbaʼépa koʼã oúva ojapo hag̃ua? Ha haʼe ohechauka heʼívo: Koʼã haʼe umi taso osaỹijóva ⟨את⟩ Jihuda, upévare ndaipóri yvypóra ojupíva iñakã; ha koʼã ou ⟨את⟩ omongyhyje hag̃ua ⟨אתם⟩, ⟨את⟩ oipeʼa hag̃ua ⟨את⟩ umi tetãnguéra taso, umi ombotuʼíva itaso Jihuda yvy ári, osaỹijo hag̃ua hese.",
+  "translation": "Ha aheʼi che: mbaʼépa koʼãva ou ojapo haguã? Ha oñeʼẽ hikuái heʼívo: Koʼãva haʼe umi keren ojesapeʼóva ⟨את⟩ Jehuda, ni peteĩ tapicha ojupíri iñakã; upévare koʼãva ou oombokachĩ haguã chuguikuéra, oity hag̃ua ⟨את⟩ umi tetã keren, umi oñohẽva iñakã keren Jehuda yvy ári, ojesapeʼo hag̃ua chupe.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "Ha aheʼi"
+      "gloss": "aheʼi"
     },
     {
       "surface": "מה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "koʼã"
+      "gloss": "koʼãva"
     },
     {
       "surface": "באים",
-      "gloss": "oúva"
+      "gloss": "ou"
     },
     {
       "surface": "לעשות",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ha haʼe ohechauka"
+      "gloss": "oñeʼẽ"
     },
     {
       "surface": "לאמר",
@@ -37,48 +37,44 @@
     },
     {
       "surface": "אלה",
-      "gloss": "koʼã"
+      "gloss": "koʼãva"
     },
     {
       "surface": "הקרנות",
-      "gloss": "umi taso"
+      "gloss": "umi keren"
     },
     {
       "surface": "אשר",
-      "gloss": "saʼe"
+      "gloss": "ojesapeʼóva"
     },
     {
       "surface": "זרו",
-      "gloss": "osaỹijóva"
+      "gloss": "ojesapeʼo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jihuda"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": ""
+      "marks": "Jehuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jihuda"
+      "gloss": "Jehuda"
     },
     {
       "surface": "כפי",
-      "gloss": "upévare"
+      "gloss": "icha"
     },
     {
       "surface": "איש",
-      "gloss": "yvypóra"
+      "gloss": "peteĩ tapicha"
     },
     {
       "surface": "לא",
-      "gloss": "ndaipóri"
+      "gloss": "nahániri"
     },
     {
       "surface": "נשא",
-      "gloss": "ojupíva"
+      "gloss": "ojupi"
     },
     {
       "surface": "ראשו",
@@ -86,45 +82,45 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "ha koʼã ou"
+      "gloss": "ou"
     },
     {
       "surface": "אלה",
-      "gloss": "koʼã"
+      "gloss": "koʼãva"
     },
     {
       "surface": "להחריד",
-      "gloss": "⟨את⟩ omongyhyje hag̃ua"
+      "gloss": "ombokachĩ hag̃ua"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "umi taso osaỹijóva Jihuda"
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
     },
     {
       "surface": "לידות",
-      "gloss": "⟨את⟩ oipeʼa hag̃ua"
+      "gloss": "oity hag̃ua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "umi tetãnguéra taso"
+      "marks": "umi tetã keren"
     },
     {
       "surface": "קרנות",
-      "gloss": "taso"
+      "gloss": "keren"
     },
     {
       "surface": "הגוים",
-      "gloss": "umi tetãnguéra"
+      "gloss": "umi tetã"
     },
     {
       "surface": "הנשאים",
-      "gloss": "umíva ombotuʼíva"
+      "gloss": "oñohẽva"
     },
     {
       "surface": "קרן",
-      "gloss": "itaso"
+      "gloss": "keren"
     },
     {
       "surface": "אל",
@@ -136,13 +132,13 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jihuda"
+      "gloss": "Jehuda"
     },
     {
       "surface": "לזרותה",
-      "gloss": "osaỹijo hag̃ua hese"
+      "gloss": "ojesapeʼo hag̃ua chupe"
     }
   ],
-  "timestamp": "2026-10-02T19:20:23.061577877Z",
+  "timestamp": "2026-10-02T19:45:43.916298591Z",
   "model": "glm-5.3"
 }

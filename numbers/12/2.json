@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha heʼi: ¿Jahve oñeʼẽ Moche año rehe? ¿Ndaipóri iñeʼẽ ore avei rehe? Ha Jahve ohendu ⟨upe⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "¿...año rehe?"
+    },
+    {
+      "surface": "אך",
+      "gloss": "año"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿Ndaipóri?"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T19:43:57.178361391Z",
+  "model": "glm-5.3"
+}

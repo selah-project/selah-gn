@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Avram ogueru ⟨את⟩ Sarai, hembireko, ha ⟨את⟩ Lot, ikyvy taʼyra, ha ⟨את⟩ opaite mbaʼe oñembyatýva hikuái, ha ⟨את⟩ umi tekove ojapovaʼekue hikuái Karan-pe; osẽ hikuái oho hag̃ua Kenaan retãme, ha og̃uahẽ Kenaan retãme.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "taʼyra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ikyvy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "mbaʼekuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "oñembyatýva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi tekove"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "tekovekuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Karan-pe"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "osẽ hikuái"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "oho hag̃ua"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og̃uahẽ hikuái"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-02T19:45:04.655227418Z",
+  "model": "glm-5.3"
+}

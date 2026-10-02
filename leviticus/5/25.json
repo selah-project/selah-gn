@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha ogueru ⟨את⟩ iñašam Jahve-pe: peteĩ ayil ijyʼỹre, ovecha apytégui, nde arã reramo, ašam ramo, pe paʼi renondépe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ogueru ⟨את⟩",
+      "marks": "iñašam"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "iñašam"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ayil"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ijyʼỹre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "nde arã reramo"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ašam ramo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T19:44:25.139175817Z",
+  "model": "glm-5.3"
+}

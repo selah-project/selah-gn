@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Umi ohayhúva Jahve, ndaijaʼéi chupe pe vai; Jahve oñangareko umi imarangatúva rekove ári, omosãso hesekuéra umi vaiapohára pógui.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Umi ohayhúva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "ndaijaʼéi chupe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pe vai"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "umi imarangatúva"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vaiapohára"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "omosãso hesekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:48:57.158142613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha David ohecha ⟨את⟩ tavakuéra oĩva ⟨את⟩ hese, ha omoĩ hikuái ári mburuvichakuéra su-kuéra rehegua ha mburuvichakuéra sa-kuéra rehegua.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hese"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hikuái ári"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su-kuéra"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ha mburuvichakuéra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:44:22.737155534Z",
+  "model": "glm-5.3"
+}

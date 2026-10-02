@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ahendu ⟨את⟩ Adonai iñeʼẽ heʼiha: ⟨את⟩ mávapa ahejava, ha mávapa ohóta ñandéve g̃uarã? Ha aheʼi: Che koʼápe, ehejava che.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Ha ahendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼiha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mávapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ahejava"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ohóta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve g̃uarã"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ha aheʼi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Che koʼápe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ehejava che"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:08.779266645Z",
+  "model": "glm-5.3"
+}

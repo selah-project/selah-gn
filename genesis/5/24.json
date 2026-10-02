@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Haʼe haguépe, Janoj oikove ipyahápe Elohim ndive, ha ndojeguapovéima, jabereiha Elohim ogueraha ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "oikove ipyahápe… ndive"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ndojeguapovéima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jabereiha"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T19:43:36.883583423Z",
+  "model": "glm-5.3"
+}

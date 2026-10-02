@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Nde rekóga opyta japu apytépe; japu rupi omboyke oikuaa ⟨את⟩ che rehe, heʼi Jahve.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "nde rekóga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "japu"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "japu rupi"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "omboyke"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ che",
+      "marks": "che rehe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:23.787082292Z",
+  "model": "glm-5.3"
+}

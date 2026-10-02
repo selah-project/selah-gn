@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ojokuai che jurúre, ha heʼi: Ehecha, ko ojokuai ne ñeʼẽrape ári, ha ne mbaʼevai oñemonguʼéta, ha ne jeguara oñembojahoʼíta.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ojokuai"
+    },
+    {
+      "surface": "על",
+      "gloss": "re"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ojokuai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "re"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ne ñeʼẽrape"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "oñemonguʼéta"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ne mbaʼevai"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "ne jeguara"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "oñembojahoʼíta"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:08.778972310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha heñói peteĩ mitãkuñaʼi, ha Moche ohenói ⟨את⟩ héra: Gereshom, rehe oñeʼẽgui: Ahẽguáva aiko peteĩ yvýpe che rehe ndahaʼéiva.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ha heñói peteĩ mitãkuñaʼi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mitãkuñaʼi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha Moche ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehe oñeʼẽgui"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "Ahẽguáva"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "peteĩ yvýpe"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "che rehe ndahaʼéiva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:44:08.422555442Z",
+  "model": "glm-5.3"
+}

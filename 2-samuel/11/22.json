@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upéicharõ pe maranduʼíva ohóvo, ou ha oñemomarandu David-pe ⟨את⟩ opaite mbaʼe Joab omondo vaʼekue chupe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "pe maranduʼíva"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "oñemomarandu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "omondo vaʼekue chupe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    }
+  ],
+  "timestamp": "2026-10-02T19:44:14.554658582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha tsedek ohaʼãjóta chugui iñakãguýpe, ha heséi ohaʼãjóta iñakãguasúpe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha upéva oikóta"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ohaʼãjóha"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "iñakãguýpe"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ha heséi"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ohaʼãjóha"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "iñakãguasúpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:12.476200867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Y guasu ohenói ambue y guasu rehe, nde ysyrykuéra ñeʼẽ rupive; opaite nde y ojepysokéva ha nde y oipysóva cherehe ári ohasa.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Y guasu"
+    },
+    {
+      "surface": "אל",
+      "gloss": " rehe"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ambue y guasu"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ñeʼẽ rupive"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "nde ysyrykuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "nde y ojepysokéva"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ha nde y oipysóva"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "cherehe ári"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ohasa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:46:02.142704730Z",
+  "model": "glm-5.3"
+}

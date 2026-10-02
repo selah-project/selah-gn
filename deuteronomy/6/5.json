@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ereháicha rehayhu ⟨את⟩ Jahve, nde Elohim, nde rekove pukukue rerãitépe, nde pyporã reheitépe, nde puʼaka rapykuérepaite.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ereháicha rehayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "rerãitépe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde rekove pukukue"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "reheitépe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde pyporã"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "rapykuérepaite"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "nde puʼaka"
+    }
+  ],
+  "timestamp": "2026-10-02T19:43:50.581337706Z",
+  "model": "glm-5.3"
+}

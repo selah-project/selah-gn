@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha che, ndaikwáiicha, ndahendúi; ha ndaiñeʼẽkuaaʼỹvaicha, noipeʼai ⟨hikuái⟩ iñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ndaikwáiicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hendúi"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ha ndaiñeʼẽkuaaʼỹvaicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "noipeʼai"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "iñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T19:45:31.881547905Z",
+  "model": "glm-5.3"
+}

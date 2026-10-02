@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Yvytykuéra osyry Jahve renondépe, kóava Sinái, Jahve renondépe, Jisrael Elohim.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "osyry"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóava"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinái"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T19:44:01.460319312Z",
+  "model": "glm-5.3"
+}

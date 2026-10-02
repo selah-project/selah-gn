@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Nde niko, Jahve, nde Elyón opaite yvy ári; eñemombaʼe heta opaite tupã ári.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyón"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "eñemombaʼe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tupã"
+    }
+  ],
+  "timestamp": "2026-10-02T19:48:57.157301515Z",
+  "model": "glm-5.3"
+}
