@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Epo, eho ha ereko ⟨את⟩ yvy ipukukue ha ipekue peve, che aheja neangatúpe ⟨נָתַן⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Epo"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "eho ha ereko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "ipukukue peve"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "hapekue peve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neangatúpe"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "aheja chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:07.498178703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Adam, Chet, Enoch.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoch"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:06.883938158Z",
+  "model": "glm-5.3"
+}

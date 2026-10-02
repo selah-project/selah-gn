@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha David ojapo ⟨את⟩ ko ñeʼẽasýi Shaúl rehe ha Jehonatan, iñemoñarã, rehe.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ojapo ñeʼẽasýi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽasýi"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ko ñeʼẽasýi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha … rehe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iñemoñarã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:17:59.862545017Z",
+  "model": "glm-5.3"
+}

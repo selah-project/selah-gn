@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Paroh omongu'ẽ ⟨את⟩ opavave ijayvakuéra rehe, he'ívo: Opa mitã kuimba'e oñemoñare vaʼekuépe, pemytỹ ysyrýpe; ha opa mitã kuña, peñangareko iporãmbápe haguã.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "omongu'ẽ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ijayvakuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mitã kuimba'e"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "oñemoñare vaʼekuépe"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "ysyrýpe"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "pemytỹ ysyrýpe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "mitã kuña"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "peñangareko iporãmbápe haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:11.415271724Z",
+  "model": "glm-5.3"
+}

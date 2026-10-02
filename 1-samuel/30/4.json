@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "David ha umi tetãygua oĩva hese ⟨את⟩ omboypy hyapu ha oikirirĩ, peve hikuái ndaiporãi chuguikuéra pósa oikirirĩ hag̃ua.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "omboypy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ha umi tetãygua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hese ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyapu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hyapu"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ha oikirirĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaiporãi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "כח",
+      "gloss": "pósa"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "oikirirĩ hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:56.258301766Z",
+  "model": "glm-5.3"
+}

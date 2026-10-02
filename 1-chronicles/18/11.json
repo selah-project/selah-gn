@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Umi mbaʼe avei David mburuvicha omoĩ marangatu Jahve-pe, umi kuarepoti ha itaju ndive ogueraha hague opaite tetãnguéra pegua — Edom-gui, Moav-gui, Amón membykuéra-gui, Pelisteokuéra-gui ha Amalek-gui.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼe"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "omoĩ marangatu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ha itaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra pegua"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edom-gui"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "Moav-gui"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "membykuéra-gui"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "Pelisteokuéra-gui"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "Amalek-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T18:12:15.738114400Z",
+  "model": "glm-5.3"
+}

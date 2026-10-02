@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Aharon omyendývo ⟨את⟩ umi tendy ka'aru jave, ohetúta hese ku ketoret tapia Jahve renondépe, pene ñemoñare apytépe.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "omyendývo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tendy"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "umi tendy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ka'aru jave"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ohetúta hese"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ketoret"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pene ñemoñare apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:14.859960724Z",
+  "model": "glm-5.3"
+}

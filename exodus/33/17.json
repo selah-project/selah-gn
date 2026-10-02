@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Jahve heʼi Mochépe: Che ajapóta avei ⟨את⟩ ko ñeʼẽ remombeʼuvaʼekue, nde rejuhu haguére mbaʼe porã che resápe, ha che aikuaa nde rérape.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mochépe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "remombeʼuvaʼekue"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "remombeʼu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "rejuhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "che resápe"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "che aikuaa nde"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nde rérape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:43.986350528Z",
+  "model": "glm-5.3"
+}

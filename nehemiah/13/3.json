@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha oiko, ohecha rire kuéra ⟨את⟩ Tora, oipeʼaite opaite jeheja yvypóra Jisrael-gui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ohecha rire kuéra… Tora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "oipeʼaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jeheja yvypóra"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisrael-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T17:58:18.637573300Z",
+  "model": "glm-5.3"
+}

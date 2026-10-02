@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jahve ou hekojoja rehe umi itujavévande ipepo itetãnguéra ndive, ha imburuvichakuéra ndive; ha peẽ peikaru ⟨pe⟩ yva kóga: umi oguejy vaʼerã mbaʼe pejopypy oĩ pendeóga apytépe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojoja rehe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "itujavévande ipepo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itetãnguéra"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ha imburuvichakuéra"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ha peẽ"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "peikaru"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "yva kóga"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "mbaʼe pejopypy"
+    },
+    {
+      "surface": "העני",
+      "gloss": "oguejy vaʼerã"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "pendeóga apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:27:59.904762782Z",
+  "model": "glm-5.3"
+}

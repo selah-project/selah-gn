@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha katu nde, ho ⟨paha⟩ peve; upéi embopytuʼu ha opyta nde raʼãme ára kuéra paha peve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ha katu nde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "paha peve"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "embopytuʼu"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "nde raʼãme"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "paha peve"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ára kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:41:23.747208996Z",
+  "model": "glm-5.3"
+}

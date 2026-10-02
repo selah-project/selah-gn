@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Che pytyvõ tái Jahve ndive, apohápe ⟨á⟩ yvága ha ⟨á⟩ yvy.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "che pytyvõ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "tái — ndive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "apohápe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ha ⟨á⟩ yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:57.744742989Z",
+  "model": "glm-5.3"
+}

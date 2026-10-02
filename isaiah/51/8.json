@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Upeichahápe ojapu hikuái: angaumba ojapu chuguikuéra aovahaicha, ha tuguʼi ojapu chuguikuéra ovechaguehaicha; hákatu che tsedek opaʼỹre opyta, ha che jeipeʼa ñemoñarépe ñemoñare kuérare opyta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upeichahápe"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "aovahaicha"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ojapu chuguikuéra"
+    },
+    {
+      "surface": "עש",
+      "gloss": "angaumba"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "ha ovechaguehaicha"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ojapu chuguikuéra"
+    },
+    {
+      "surface": "סס",
+      "gloss": "tuguʼi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ha che tsedek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaʼỹre"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ha che jeipeʼa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ñemoñarépe"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ñemoñare kuérare"
+    }
+  ],
+  "timestamp": "2026-10-02T12:59:41.159606104Z",
+  "model": "glm-5.3"
+}

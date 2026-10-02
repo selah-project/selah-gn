@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Ha che, aheja akatu che pyʼanopenápe: opaite yvypóra haʼe ñeʼẽrap.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "che pyʼanopenápe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "haʼe ñeʼẽrap"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:56.286071632Z",
+  "model": "glm-5.3"
+}

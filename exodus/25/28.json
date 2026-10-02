@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha rejapóta ⟨את⟩ umi takua shitim yvyra mba'égui, ha embojere ⟨אתם⟩ chukuéra kuarepoti ju reheve, ha ojegueraháta chukuéra rehe ⟨את⟩ pe mesa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi takua"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "umi takua"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "embojere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chukuéra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti ju"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ojegueraháta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chukuéra rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pe mesa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:10.487129691Z",
+  "model": "glm-5.3"
+}

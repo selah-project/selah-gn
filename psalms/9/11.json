@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Umi kuaaitéva ne réra oñemongypyʼúta nde rehe, haʼégui nahániri rejapohaguerei umi nde rekaíva, Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "oñemongypyʼúta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "umi kuaaitéva"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼégui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "rejapohaguerei"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "umi nde rekaíva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:46.952126088Z",
+  "model": "glm-5.3"
+}

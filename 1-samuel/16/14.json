@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ruah Jahve osẽ Saúl-gui, ha peteĩ ruah vai Jahve pegua ojepy'apysóvo chupe.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ha ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "ojepy'apysóvo chupe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:24.598856199Z",
+  "model": "glm-5.3"
+}

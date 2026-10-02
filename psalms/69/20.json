@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Nde reikuaa che jeja'o, che verã ha che werãrã; opaite che ñorairõhára oĩ nde renondépe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "che jeja'o"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "che verã"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "che werãrã"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "che ñorairõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:15.224668510Z",
+  "model": "glm-5.3"
+}

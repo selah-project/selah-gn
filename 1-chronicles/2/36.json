@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Atai resarei ⟨את⟩ Natan, ha Natan resarei ⟨את⟩ Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Ha Atai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "resarei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ha Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "resarei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-10-02T18:00:06.762611792Z",
+  "model": "glm-5.3"
+}

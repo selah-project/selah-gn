@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "kañaʼaneguápe kuarahy resẽ ha kuarahy reikévo, ha emoreanguápe, jitiaguápe, periseanguápe, jevuseanguápe yvyty ryepýpe, ha jivíguape Chermon yguy gotyo, Mitspa yvýpe.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "kañaʼanegua"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ha kuarahy reikévo"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ha emoreangua"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ha jitiagua"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ha periseangua"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ha jevuseangua"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty ryepýpe"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ha jivígua"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yguy gotyo"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-10-02T10:25:30.802031149Z",
+  "model": "glm-5.3"
+}

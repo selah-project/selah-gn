@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ojapo pe óga marangatuete marangatuetépe mokõi keruvim, taʼanga apopyre rembiapo; ha oñembosakoʼi ⟨אתם⟩ kuarepoti ju rehe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "pe ógape"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatuete"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "marangatuetépe"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruvim mokõi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "taʼanga apopyre"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "oñembosakoʼi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "pe mokõi keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti ju rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:19:44.124004965Z",
+  "model": "glm-5.3"
+}

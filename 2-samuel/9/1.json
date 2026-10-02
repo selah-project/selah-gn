@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha David he'i: pa oĩ gueteri oĩva Shaúl óga guive, ajapo hag̃ua hesed chupe Yehonatan rehegua?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "guive"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ajapo hag̃ua"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:45.046785680Z",
+  "model": "glm-5.3"
+}

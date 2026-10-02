@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Nde mba'apoharahakuéra ra'ỹi oikóta hetãme, ha iñemoñarã nde renondépe oñemopyendáta.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mba'apoharahakuéra"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "oikóta hetãme"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ha iñemoñarã"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "oñemopyendáta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:06.629870510Z",
+  "model": "glm-5.3"
+}

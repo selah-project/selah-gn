@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ijyvyraʼakuʼẽ oñemboty hikuái; iñeʼẽ rupi oñeʼẽ hikuái jeʼeguasu reheve.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ijyvyraʼakuʼẽ"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "oñemboty hikuái"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "iñeʼẽ rupi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "oñeʼẽ hikuái"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "jeʼeguasu reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:47.645699002Z",
+  "model": "glm-5.3"
+}

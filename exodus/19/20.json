@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Jahve oguejy yvyty Sinái ári, yvyty iñakã gotyo; ha Jahve ohenói Mochepe, yvyty iñakã gotyo; ha Moche ou yvateve.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mochepe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ou yvateve"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:39.377590868Z",
+  "model": "glm-5.3"
+}

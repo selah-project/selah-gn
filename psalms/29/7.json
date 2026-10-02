@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve ñeʼẽ oikuaipa tata juruja.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "oikuaipa"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "juruja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:30.307428608Z",
+  "model": "glm-5.3"
+}

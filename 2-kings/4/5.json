@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha haʼe osẽ ⟨את⟩ hese, omboty ⟨את⟩ rokẽ iñakãre ha iñemoñarãre; umíva oguereko hese mbaʼe yvypyre, ha haʼe omonguʼe.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ hese"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "omboty"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "rokẽ"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "iñakãre"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ha … rehe"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "iñemoñarãre"
+    },
+    {
+      "surface": "הם",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "oguereko hese"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "upe"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "omonguʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:05:09.569546119Z",
+  "model": "glm-5.3"
+}

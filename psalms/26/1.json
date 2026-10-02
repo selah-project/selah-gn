@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "David rembiapopegua. Emoañetépa che, Jahve, cheko che aguata che tomimba'e ndive, ha Jahve-pe aheja cherehe, upévare ndaku'yimo'ãi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapopegua"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "emoañetépa che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cheko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "che tomimba'e ndive"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aguata"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ha Jahve-pe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aheja cherehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-...-i"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ndaku'yimo'ãi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:52.050424746Z",
+  "model": "glm-5.3"
+}

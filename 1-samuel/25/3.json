@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 25:3",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha kuimbaʼe réra Nabal, ha hembiayhu réra Avigayil; ha kuñakára iñapytuʼũ porã ha iporãva rete; ha pe kuimbaʼe hatã ha ivaíva ijapópe; ha haʼe Kaleb raʼýichagua.",
+  "tokens": [
+    {
+      "surface": "וְשֵׁם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "הָאִישׁ",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "נָבָל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וְשֵׁם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "אִשְׁתּוֹ",
+      "gloss": "hembiayhu"
+    },
+    {
+      "surface": "אֲבִיגָיִל",
+      "gloss": "Avigayil"
+    },
+    {
+      "surface": "וְהָאִשָּׁה",
+      "gloss": "ha kuñakára"
+    },
+    {
+      "surface": "טוֹבַת",
+      "gloss": "iñapytuʼũ porã"
+    },
+    {
+      "surface": "שֶׂכֶל",
+      "gloss": "apytuʼũ"
+    },
+    {
+      "surface": "וִיפַת",
+      "gloss": "ha iporãva"
+    },
+    {
+      "surface": "תֹּאַר",
+      "gloss": "rete"
+    },
+    {
+      "surface": "וְהָאִישׁ",
+      "gloss": "ha pe kuimbaʼe"
+    },
+    {
+      "surface": "קָשֶׁה",
+      "gloss": "hatã"
+    },
+    {
+      "surface": "וְרַע",
+      "gloss": "ha ivaíva"
+    },
+    {
+      "surface": "מַעֲלָלִים",
+      "gloss": "ijapópe"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "כִּלְבִו",
+      "gloss": "Kaleb raʼýichagua"
+    }
+  ],
+  "timestamp": "2026-10-02T11:13:49.159203427Z",
+  "model": "glm-5.3"
+}

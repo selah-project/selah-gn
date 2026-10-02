@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Apurahéi purorãme Elohem réra — amomba'eguasu chupe aguyje ndive.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Apurahéi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Elohem réra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim réra pegua"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "purorãme"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "amomba'eguasu chupe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "aguyje ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:34.797885658Z",
+  "model": "glm-5.3"
+}

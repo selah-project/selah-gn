@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha omandáʼa ⟨את⟩ tavayguakuérare heʼívo: Pehecháramo ⟨את⟩ Jahve — ne Elohim — ñeʼẽmeʼẽ mbaʼeyru, ha pe kohen levíta kuéra ogueraha ⟨את⟩ hikuái, peẽ katu pehetave peikóha haguégui, ha peho hapykuerípe.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "omandáʼa hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavayguakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "pehecháramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽmeʼẽ mbaʼeyru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mbaʼeyru"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ne Elohim"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ha pe kohen kuéra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levíta"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ogueraha hikuái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "mbaʼeyru"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "peẽ katu"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "pehetave"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "peikóha haguégui"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "peho"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hapykuerípe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:18:05.158159909Z",
+  "model": "glm-5.3"
+}

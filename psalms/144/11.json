@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Eipeʼa chéve ha eñemoĩ chéve pe pytaguára pógui, umíva iñeʼẽ oñeʼẽ guaʼu, ha ipo akatúa haʼe po akatúa ojapo guaʼúva.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "eipeʼa chéve"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "eñemoĩ chéve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "pytaguára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "guaʼu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ipo akatúa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "po akatúa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ojapo guaʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:53.205293794Z",
+  "model": "glm-5.3"
+}

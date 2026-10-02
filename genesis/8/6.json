@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha upéi, irundyhapa ára pahápe, Noach oipeʼa ⟨את⟩ pe yga rovetã haʼe ojapovaʼekue.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundyhapa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yga rovetã"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "rovetã"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "pe yga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:28.620249777Z",
+  "model": "glm-5.3"
+}

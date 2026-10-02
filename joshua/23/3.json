@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 23:3",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha peẽ pehecha ⟨את⟩ opaite pe Jahve, pe Elohim, ojapovaʼekue koʼã tetã opaite rehe peẽ mbaʼerã, Jahve, pe Elohim, haʼe voi oñorairõ vaʼekue peẽ rehehape.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite pe Jahve ojapovaʼekue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe ... ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite ... rehe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "peẽ mbaʼerã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe voi"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "oñorairõ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ rehehape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:02.716654154Z",
+  "model": "glm-5.3"
+}

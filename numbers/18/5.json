@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha peẽ peñangarekóta ⟨את⟩ mba'e marangatu ñangareko rehe ha ⟨את⟩ altár ñangareko rehe, upéicharõ naipekõiima rere Jisrael ta'ýrakuére.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "peñangarekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'e marangatu ñangareko"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ñangareko"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mba'e marangatu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altár ñangareko"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ñangareko"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "noĩmo'ãvéima"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ve"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "rere"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta'ýrakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T09:29:55.199481416Z",
+  "model": "glm-5.3"
+}

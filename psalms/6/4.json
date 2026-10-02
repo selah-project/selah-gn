@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha che rekove ojekyhyje tuichaiterei; ha nde, Jahve, ¿araka'e peve?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ha che rekove"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ojekyhyje"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "araka'e"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:23.085934036Z",
+  "model": "glm-5.3"
+}

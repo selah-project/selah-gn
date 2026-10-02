@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oguahẽvo ⟨el⟩ kõi pokõiha, ha Jisrael membykuéra oĩ umi tavaguasúpe, ha umi tavayguakuéra ojoaju peteĩ avaicha Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "oguahẽvo"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kõi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "pokõiha"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "umi tavaguasúpe"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavayguakuéra"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "peteĩ avaicha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T17:45:29.954514281Z",
+  "model": "glm-5.3"
+}

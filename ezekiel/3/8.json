@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Mahe: ameʼẽ ⟨את⟩ ne rova hatãva chupekuéra rovakuéra rehe, ha ⟨את⟩ ne akãrague hatãva chupekuéra akãrague rehe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Mahe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne rova hatãva"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ne rova"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "hatãva"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "chupekuéra ... rehe"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "rovakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne akãrague hatãva"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ne akãrague"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hatãva"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "akãrague"
+    }
+  ],
+  "timestamp": "2026-10-02T13:58:25.783213706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde mbaʼejerurekuéragui aikũmbye, upévare andaijaʼei opa tape japu.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "nde mbaʼejerurekuéragui"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aikũmbye"
+    },
+    {
+      "surface": "על",
+      "gloss": "upe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vare"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "andaijaʼei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tape"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "japu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:59.136346224Z",
+  "model": "glm-5.3"
+}

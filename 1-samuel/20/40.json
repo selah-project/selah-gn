@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Jehonatan ome'ẽ ⟨את⟩ i-mba'e'oka pe mitãrusu oĩva hendivévape, ha he'i chupe: Eho, egueru távape.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba'e'oka"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imba'e'oka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pe mitãrusu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hendivévape"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "távape"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:57.297530866Z",
+  "model": "glm-5.3"
+}

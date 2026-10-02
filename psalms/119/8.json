@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "⟨את⟩ Nde kuai arekóta; ani cherehe jeguerovi opaitaitépe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde kuai"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "nde kuai"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "arekóta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "cherehe jeguerovi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "opaitaitépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:03.725717216Z",
+  "model": "glm-5.3"
+}

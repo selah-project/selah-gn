@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Elazar omongakuaa ⟨את⟩ Pinchas; Pinchas omongakuaa ⟨את⟩ Avichua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avichua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avichua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:02:31.380223216Z",
+  "model": "glm-5.3"
+}

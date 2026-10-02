@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Che ára opaite ou tatatimbo ramo, ha che ruguyrakangue ojy tataguy rangue.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mbaʼéreiga"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "opaite ou"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "tatatimbo ramo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "che ára"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ha che ruguyrakangue"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "rangue"
+    },
+    {
+      "surface": "קד",
+      "gloss": "tataguy"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ojy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:48.475675537Z",
+  "model": "glm-5.3"
+}

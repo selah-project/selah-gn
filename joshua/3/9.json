@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jehochua he'i Jisrael mitãnguéra pe: Pejeiko ko'ápe ha pehendu ⟨את⟩ Jahve ñe'ẽ, pe Elohim peñandejarýva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ... he'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Pejeiko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ko'ápe"
+    },
+    {
+      "surface": "וְשִׁמְע֕וּ",
+      "gloss": "ha pehendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñe'ẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim peñandejarýva"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:04.337376960Z",
+  "model": "glm-5.3"
+}

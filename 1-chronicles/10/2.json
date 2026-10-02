@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha pelishtikuéra ojepysosó Shaúl ha iñemoñare kuéra ári, ha pelishtikuéra ojukakuaa ⟨את⟩ Ionatan, ⟨את⟩ Avinadav, ⟨את⟩ Malki-chúa, Shaúl raʼýkuéra.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ojepysosó"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ári"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñare kuéra"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ojukakuaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ionatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Ionatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-chúa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "chúa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-10-02T18:06:49.582137853Z",
+  "model": "glm-5.3"
+}

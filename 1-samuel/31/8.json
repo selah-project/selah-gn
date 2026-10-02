@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha koʼẽtaha árape, Pelishtikuéra ou oipe'a hag̃ua ⟨את⟩ umi omanóva rogue, ha ojuhu ⟨את⟩ Shaúl ha ⟨את⟩ iropy mboapy raʼýpe oñenoiva Gilboa yvytype.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "koʼẽtaha árape"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikuéra"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "oipe'a hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi omanóva rogue"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "umi omanóva"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iropy mboapy raʼýpe"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mboapy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "oñenoiva"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvytype"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-02T11:19:10.366394555Z",
+  "model": "glm-5.3"
+}

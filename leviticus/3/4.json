@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ⟨את⟩ mokõi kelaiot, ha ⟨את⟩ pe kyra oĩva ikuéra ári, keselim ári oĩva, ha ⟨את⟩ iterat kaved ári, kelaiot ykére oipeʼutaʼerã.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mokõi kelaiot"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kelaiot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe kyra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "pe kyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ikuéra ári"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "keselim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iterat"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "iterat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kaved"
+    },
+    {
+      "surface": "על",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "kelaiot"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "oipeʼutaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:11.935630475Z",
+  "model": "glm-5.3"
+}

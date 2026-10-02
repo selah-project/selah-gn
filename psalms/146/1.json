@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Ejahverai Ja; ejahverai ⟨את⟩ Jahve, che tekove.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ejahverai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ejahverai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che tekove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:56.048755248Z",
+  "model": "glm-5.3"
+}

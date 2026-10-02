@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Che, Kohelet, aikóva'ekue mburuvicha ramo Jisrael ári, Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aikóva'ekue"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:18:56.998741598Z",
+  "model": "glm-5.3"
+}

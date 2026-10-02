@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ojuka ⟨את⟩ pe kavara, pe rendápe ojukahague ⟨את⟩ pe chatat ha ⟨את⟩ pe ola, marangatu rendápe; upévare, chatat icha, pe acham ha'e kohen mba'e; marangatu marangatuete ha'e.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kavara"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "pe kavara"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "pe rendápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojukahague"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe chatat"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "pe chatat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe ola"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "pe rendápe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu rendápe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "chatat icha"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "pe acham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohen mba'e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatuete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:45.828571305Z",
+  "model": "glm-5.3"
+}

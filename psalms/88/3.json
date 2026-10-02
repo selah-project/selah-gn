@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "Oúke che ñemboʼe nde renondépe; emombegue nde apysa che ryrei ndívope.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "oúke"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñemboʼe"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "emombegue"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nde apysa"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "che ryrei ndívope"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:18.418033511Z",
+  "model": "glm-5.3"
+}

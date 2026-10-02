@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Jahve ohendáta ⟨את⟩ nde ndive ⟨את⟩ ñembovyʼa ne kogaʼakuérape ha opa mbaʼe apopyrépe ne po moõva, ha oñembovyʼáta nde yvýpe pe Jahve, nde Elohim, omeʼẽta ndeve.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "ohendáta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde ndive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñembovyʼa"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ñembovyʼa"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "ne kogaʼakuérape"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha opa mbaʼe"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "apopyrépe... moõva"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ha oñembovyʼáta nde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:08:21.682474135Z",
+  "model": "glm-5.3"
+}

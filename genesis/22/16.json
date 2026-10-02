@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha heʼi: Che reheañomi che añeʼẽmeʼẽ, heʼi Jahve, nde rejapo ⟨את⟩ ko mbaʼe rehegua ha nderejaʼéi reipeʼa ⟨את⟩ nde raʼýpe, ⟨את⟩ nde peteĩnte vaʼekue, upévare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che reheañomi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "che añeʼẽmeʼẽ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יען",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mbaʼe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nderejaʼéi"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde raʼýpe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde raʼýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde peteĩnte vaʼekue"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "nde peteĩnte vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:55.909843400Z",
+  "model": "glm-5.3"
+}

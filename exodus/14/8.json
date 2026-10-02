@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Jahve omoĩmba ⟨את⟩ korasõ Paroh, Mitsraim mburuvichavete, ha ohapykueho Jisrael membykuéra rapykue; ha Jisrael membykuéra osẽ ipo yvate ndive.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "omoĩmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korasõ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvichavete"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ohapykueho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rapykue"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha ... membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יצאאים",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "yvate"
+    }
+  ],
+  "timestamp": "2026-10-02T08:16:30.002666658Z",
+  "model": "glm-5.3"
+}

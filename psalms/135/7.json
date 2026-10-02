@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Omboypy nimakuéra yvy rembe'ýgui, ojapo taramandási ama g̃uarã, ogueru ruah iñongatuha guive.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "omboypy"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "nimakuéra"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "yvy rembe'ýgui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "taramandási"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ama g̃uarã"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "iñongatuha guive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:17.948993744Z",
+  "model": "glm-5.3"
+}

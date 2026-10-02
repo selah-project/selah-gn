@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 150,
+  "translation": "Pe momorãmba chupe tysãmbo ñanirũ ndive, pe momorãmba chupe tysãmbo taparaingue ndive.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pe momorãmba chupe"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "tysãmbo ndive"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ñanirũ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pe momorãmba chupe"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "tysãmbo ndive"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "taparaingue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:07.756485320Z",
+  "model": "glm-5.3"
+}

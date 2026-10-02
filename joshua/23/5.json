@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Jahve, peẽ Elohim, haʼe ohundi ⟨את⟩ umívape peẽ renondépe, ha oipeʼo ⟨את⟩ umíva peẽ renondéguio; ha peẽ pejoguata ⟨את⟩ umíva yvy, oheʼa haguáicha peẽme Jahve peẽ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ha Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "ohundi ⟨את⟩ umívape"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "peẽ renondépe"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "ha oipeʼo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umíva"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "peẽ renondéguio"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ha peẽ pejoguata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umíva yvy"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "umíva yvy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "oheʼa haguáicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oheʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:49.870147057Z",
+  "model": "glm-5.3"
+}

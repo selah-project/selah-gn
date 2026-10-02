@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Haʼe cherehe peteĩ uku ojekyreʼỹva, peteĩ jaguarete oñomi hópe.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ojekyreʼỹva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "jaguarete"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "oñomi hópe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:15:36.086502150Z",
+  "model": "glm-5.3"
+}

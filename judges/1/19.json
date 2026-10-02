@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jahve oĩ ⟨את⟩ Jehuda ndive, ha ohupyty ⟨את⟩ yvyty guasu; yvyape rembeʼýpe katu ndaikatúi oñenohẽ ⟨את⟩ umi oikóva-pe, orekógui hikuái karréta kuarepotĩgui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda ndive"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvyty guasu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty guasu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "oñenohẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi oikóva"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "umi oikóva"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "yvyape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "orekógui"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karréta"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "kuarepotĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:04.455057508Z",
+  "model": "glm-5.3"
+}

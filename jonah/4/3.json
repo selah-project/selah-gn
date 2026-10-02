@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha koʼág̃a, Jahve, egueraha koʼág̃a ⟨את⟩ che pytu chehegui, pérõ iporãve che manomba che rekovégui.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "egueraha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che pytu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che pytu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chehegui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pérõ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "che manomba"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "che rekovégui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:03:17.917365584Z",
+  "model": "glm-5.3"
+}

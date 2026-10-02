@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve omopuʼã peteĩ ñorãirõhára Shelomo rehe: ⟨את⟩ Hadad, Edom-ygua, mburuvicha ñemoñarégui, haʼe Edom-pe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edom-ygua"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ñemoñarégui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:47.886847462Z",
+  "model": "glm-5.3"
+}

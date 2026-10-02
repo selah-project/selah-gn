@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojapo ⟨את⟩ ⟨הג⟩ mesa itaʼỹi shítim gua; ipukukue mokõi ama, ipekue peteĩ ama, ha ipytuʼusakue peteĩ ama ha mbohapy mbyte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itaʼỹi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shítim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "mokõi ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha mbohapy mbyte"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ipytuʼusakue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:57.092211835Z",
+  "model": "glm-5.3"
+}

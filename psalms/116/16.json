@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Añetegua, Jahve, che che nde mbaʼeapo; che che nde mbaʼeapo, nde kuñakaraʼi raʼỹra; remboja che jokoha.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che rekoitépe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "che nde mbaʼeapo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "che nde mbaʼeapo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼỹra"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nde kuñakaraʼi"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "remboja"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "che jokoha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:42.006068806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ahaʼãʼe ndéve: emondo ⟨את⟩ che raʼý ombaʼapo hag̃ua che rehe; ha reboyke oñemondo hag̃ua; peinesakã, che ajukáta ⟨את⟩ nde raʼý, nde raʼy tenondegua.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ha ahaʼãʼe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "emondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che raʼý"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che raʼý"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ombapo hag̃ua che rehe"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "reboyke"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "oñemondo hag̃ua"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "peinesakã"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ajukáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde raʼý"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde raʼý"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "nde raʼy tenondegua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:58.038432959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jokta oñemoñeʼẽ ⟨את⟩ Almodad-re, ⟨את⟩ Chelef-re, ⟨את⟩ Jatsarmavet-re ha ⟨את⟩ Ieraj-re.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ha Jokta"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "oñemoñeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Chelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Jatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ieraj"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Ieraj"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:17.250811444Z",
+  "model": "glm-5.3"
+}

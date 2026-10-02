@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Upe aravópe, Nevukadnetsar — Bavel mburuvicha — rembiguái kuéra ou Jerusalaim ári, ha ⟨pe⟩ táva oike joko ryepýpe.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Upe aravópe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguái kuéra"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "oike"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "joko ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:15.744073965Z",
+  "model": "glm-5.3"
+}

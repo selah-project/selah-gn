@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Jisrael, ehaʼãrõ Jahve rehe, tuichaiterei Jahve ndive oĩ hesed, ha hese oĩ jeipeʼa hetaiterei.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ehaʼãrõ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "oĩ hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ha hetaiterei"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "jeipeʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:23.852758770Z",
+  "model": "glm-5.3"
+}

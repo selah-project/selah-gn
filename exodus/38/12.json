@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha kuarahy rere yke — paraná yke — aovai pohõipa amah, mbopicuakuéra pa, ha ipykuéra pa; kallha ha mbopicua jokoha itaju.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "ha yke"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kuarahy rere — paraná"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "aovai"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pohõipa"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amah"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "mbopicuakuéra"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ha ipykuéra"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ואוי",
+      "gloss": "kallha"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mbopicua"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "ha jokoha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "itaju"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:32.122040229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Elohim ombojere ⟨את⟩ pe tavayguakuéra tape kaʼaguy reheguávo, Suf ýpa gotyo; ha Jisrael raʼýkuéra osẽ Mitsraim yvygui oñembopokóva haguãicha.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Ha ombojere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tavayguakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ýpa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "oñembopokóva haguãicha"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "osẽ (osẽvoi)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:18:46.102147467Z",
+  "model": "glm-5.3"
+}

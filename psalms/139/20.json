@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Umi oñeʼẽva nde rehe mbaʼe vai rekópe, nde ñorãirõhára kuéra oiporu nde réra zape.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Umi"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "oñeʼẽva nde rehe"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "mbaʼe vai rekópe"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "oiporu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "zape"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "nde ñorãirõhára kuéra nde réra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:59.431803585Z",
+  "model": "glm-5.3"
+}

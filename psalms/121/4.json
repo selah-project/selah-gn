@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Pe'aña: naiñandueta che'a, ndaikéi avei, ñangarekóhāpe Jisrael rehegua.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Pe'aña"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naiñandueta"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "che'a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndaikéi avei"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "—"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ñangarekóhāpe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:57.745055554Z",
+  "model": "glm-5.3"
+}

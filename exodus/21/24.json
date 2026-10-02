@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Resa rangápe resa, tãi rangápe tãi, po rangápe po, py rangápe py.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "resa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangápe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "resa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tãi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangápe"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tãi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangápe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "py"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangápe"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "py"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:43.683309159Z",
+  "model": "glm-5.3"
+}

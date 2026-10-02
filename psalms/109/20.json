@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Kóva pe mba'e ojapo ⟨את⟩ Jahve che ñorairõhárape g̃uarã, ha umi oñe'ẽva mba'evai che rekove ári.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mb'e ojapo"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "che ñorairõhárape"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "che ñorairõhára — Jahve guive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ha umi oñe'ẽva"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mba'evai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:01.942554558Z",
+  "model": "glm-5.3"
+}

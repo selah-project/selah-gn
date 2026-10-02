@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha omoĩ ⟨את⟩ Haman pe yvyra ári ombosako'i va'ekue Mardojaipe g̃uarã, ha mburuvicha ñañaro'y oñenoke.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Ha omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pe yvyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ombosako'i"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mardojaipe g̃uarã"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ha mburuvicha ñañaro'y"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "oñenoke"
+    }
+  ],
+  "timestamp": "2026-10-02T17:28:49.607465829Z",
+  "model": "glm-5.3"
+}

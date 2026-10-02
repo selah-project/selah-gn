@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha oiko, opahápe Moche ohai hag̃ua ⟨את⟩ Tora kóva ñeʼẽnguéra peteĩ kuatia ári, opa paha peve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "opahápe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ohai hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora kóva ñeʼẽnguéra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "opa paha"
+    }
+  ],
+  "timestamp": "2026-10-02T10:14:28.495552005Z",
+  "model": "glm-5.3"
+}

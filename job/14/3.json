@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha upévare, peichahápe reipeʼa nde resa, ha che ⟨את⟩ rejere hekojojaha-pe nde ndive?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ha upévare"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "peichahápe"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "nde resa"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "rejere"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojojaha-pe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:52:35.481614678Z",
+  "model": "glm-5.3"
+}

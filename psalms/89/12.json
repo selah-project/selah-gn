@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Nde mbaʼe yvága, avei nde mbaʼe yvy; yvy ha opa iñreko, nde remopyenda chukuéra.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nde mbaʼe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde mbaʼe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ha opa iñreko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "remopyenda chukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:49.283354037Z",
+  "model": "glm-5.3"
+}

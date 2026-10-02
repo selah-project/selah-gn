@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Jaakov ou vove Mitsraim-pe, peẽ túvakuéra okarai Jahve-pe, ha Jahve omondo ⟨את⟩ Moche ha ⟨את⟩ Aharon, ha umikuéra ogueru ⟨את⟩ peẽ túvakuéra Mitsraim-gui ha omoĩ chupekuéra oiko hag̃ua ko tendápe.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "vove"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ha okarai"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "peẽ túvakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ha omondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ túvakuéra"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "peẽ túvakuéra"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:49.464462802Z",
+  "model": "glm-5.3"
+}

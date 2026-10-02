@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Nondoʼei hikuái imbohováigui; gueteri oĩ karu iñeʼẽme.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nanĩ"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ndoʼei hikuái"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "imbohováigui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "karu"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "iñeʼẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:11.555873345Z",
+  "model": "glm-5.3"
+}

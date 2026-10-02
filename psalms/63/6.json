@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Che ñe'ã oiko ka'uru eirete ha ñandy ichaguáicha; ñe'ẽ vy'apavẽ ndive che jururo'y ombohyaku nde.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ichaguáicha"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "eirete"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ha ñandy"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "oiko ka'uru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che ñe'ã"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ha che jururo'y"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ñe'ẽ vy'apavẽ"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ombohyaku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "nde"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:54.272700810Z",
+  "model": "glm-5.3"
+}

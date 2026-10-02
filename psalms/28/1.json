@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "David rembiapópe. Ndeve, o Jahve, aikumby, che itaita, anive ere'ỹ cherehe, ani che rehe neñe'ẽrõ, ani ajogua umi ohóva yvykuápe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapópe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aikumby"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "che itaita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anive"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ere'ỹ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "neñe'ẽrõ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ajogua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ohóva"
+    },
+    {
+      "surface": "בור",
+      "gloss": "yvykuápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:31.874647237Z",
+  "model": "glm-5.3"
+}

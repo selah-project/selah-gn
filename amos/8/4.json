@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Eñuhẽ kóva, peẽ pehupíva ⟨את⟩ aveirã, pejapo hag̃ua opa ⟨את⟩ yvy tarova.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Eñuhẽ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "pehupíva"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "aveirã",
+      "marks": "aveirã"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "pejapo hag̃ua opa"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "tarova",
+      "marks": "yvy tarova"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T19:17:58.196974106Z",
+  "model": "glm-5.3"
+}

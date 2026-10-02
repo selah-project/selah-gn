@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oheja-ta ⟨את⟩ Jisrael Yarovam ñeʼẽgũkuéra rehe, pe oñeʼẽgũ vaʼekue ha pe omoñeʼẽgũ vaʼekue ⟨את⟩ Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "oheja-ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ñeʼẽgũkuéra"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "oñeʼẽgũ vaʼekue"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "omoñeʼẽgũ vaʼekue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T19:04:12.734061933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 7:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ere chupe: Eñangareko, ha eñepyrũ pyʼaguapy; ani reñasãi, ani ne pyʼa ojueheguai koʼã mokõi tatakachi tapykuegua ojukýva reheguápe, Retzin ñarõ tuicháva, Aram ha Remaljas raʼy.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Eñangareko"
+    },
+    {
+      "surface": "והשקט",
+      "gloss": "ha eñepyrũ pyʼaguapy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "reñasãi"
+    },
+    {
+      "surface": "ולבבך",
+      "gloss": "ha ne pyʼa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ojueheguai"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "זנבות",
+      "gloss": "tapykuegua"
+    },
+    {
+      "surface": "האודים",
+      "gloss": "tatakachi"
+    },
+    {
+      "surface": "העשנים",
+      "gloss": "ojukýva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "ñarõ rehe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tuicháva"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ha raʼy"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljas"
+    }
+  ],
+  "timestamp": "2026-10-02T12:30:29.475000692Z",
+  "model": "glm-5.3"
+}

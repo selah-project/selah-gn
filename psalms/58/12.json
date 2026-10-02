@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Ha kuimbaʼe heʼíta: Añetehápe oĩ vyre ryguasúpe marangatupe g̃uarã; añetehápe oĩ peteĩ Elohim ojokuaikuaáva yvy ári.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼíta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Añetehápe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vyre ryguasúpe"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "marangatupe g̃uarã"
+    },
+    {
+      "surface": "אך",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ojokuaikuaáva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ári"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:44.081567978Z",
+  "model": "glm-5.3"
+}

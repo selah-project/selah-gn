@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Paroh oheʼáta Jisrael membykuéra rehe: Oñembyasy hikuái ⟨yvy⟩ ryepýpe, pe yvy guasu omboty chupekuéra ijere.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "oheʼáta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "membykuéra rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "oñembyasy hikuái"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ryepýpe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "omboty"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chupekuéra ijere"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pe yvy guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:52.026159835Z",
+  "model": "glm-5.3"
+}

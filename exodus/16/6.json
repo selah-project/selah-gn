@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Moche ha Aharon he'i opaite Jisrael mitakuérape: Ko ka'aru peikuaáta Jahve ha'e voi ⟨את⟩ peẽ Mitsraim yvýgui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ha Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Ko ka'aru"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "peikuaáta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaheichagua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ha'e voi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:44.063529950Z",
+  "model": "glm-5.3"
+}

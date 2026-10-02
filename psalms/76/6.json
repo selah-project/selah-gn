@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Oñembyai umi iñakã hatãva, oke hogue kesu, ha opa kuimbaʼe ipuʼakáva ndojuhu ⟨ipo⟩.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "imbarakatu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iñakã hatãva"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "oke"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "hogue kesu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ipo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:18.079302270Z",
+  "model": "glm-5.3"
+}

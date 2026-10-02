@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "And I will make ⟨את⟩ Jerusalem heaps, a den of jackals, and ⟨את⟩ the cities of Judah I will make a desolation, without an inhabitant.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I will make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "heaps"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "a den"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "of jackals"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "the cities of Judah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "the cities"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Judah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "I will make"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "a desolation"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "without"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "an inhabitant"
+    }
+  ],
+  "timestamp": "2026-10-02T13:15:40.794617971Z",
+  "model": "glm-5.3"
+}

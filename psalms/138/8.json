@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "Jahve omboguataitéta che mbaʼe; Jahve, re hesed opaite ára peve; re pó mbaʼe apopyre ani reheja.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "omboguataitéta"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "che mbaʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "re hesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára peve"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mbaʼe apopyre"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "re pó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "reheja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:26.647714242Z",
+  "model": "glm-5.3"
+}

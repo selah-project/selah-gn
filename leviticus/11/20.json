@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Opaite guyra repíva okóva irundy ⟨po⟩ ári — haʼe ⟨vyrorei⟩ peẽme.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "repíva"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "okóva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "vyrorei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:32.296865529Z",
+  "model": "glm-5.3"
+}

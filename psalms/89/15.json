@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Tsedek ha hekojojaha ⟨nehã⟩ ne trono joykeʼy; hesed ha emet ojuahúta ne árag̃uape.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha hekojojaha"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "joykeʼy"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ne trono"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ha emet"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ojuahúta tenonde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ne árag̃uape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:56.192573688Z",
+  "model": "glm-5.3"
+}

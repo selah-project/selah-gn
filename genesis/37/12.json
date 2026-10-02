@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ijoyke'ykuéra oho oñangareko hag̃ua ⟨את⟩ ovechakuéra irúpe g̃uarãva Shejem-pe.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "oñangareko hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovechakuéra"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovechakuéra"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "irúpe g̃uarãva"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shejem-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:37.498346853Z",
+  "model": "glm-5.3"
+}

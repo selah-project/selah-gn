@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Avchalom ha opaite kuéra — Jisrael yvypóra kuéra — ou Jerusalaim-pe, ha Ajitofel ⟨את⟩ ichugua.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Ajitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ichugua",
+      "marks": "Ajitofel"
+    }
+  ],
+  "timestamp": "2026-10-02T11:28:03.315589026Z",
+  "model": "glm-5.3"
+}

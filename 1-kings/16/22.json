@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha pe tetãygua oha'ãva'ekue Omri ipu'akave ⟨את⟩ pe tetãygua oha'ãva'ekue Tibni, Ginat ra'y, rehe; ha Tibni omano, ha Omri isãso mburuvicháramo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ipu'akave"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãygua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha'éva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "oha'ãva'ekue"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tetãygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãygua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha'éva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "oha'ãva'ekue"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "isãso mburuvicháramo"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-10-02T11:55:24.292630390Z",
+  "model": "glm-5.3"
+}

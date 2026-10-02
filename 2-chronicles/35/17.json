@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Upe árape, Jisrael membykuéra oĩva upépe ojapo ⟨את⟩ Pésaj ha ⟨את⟩ Chag haMatzot, poapy ára pukukue.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "oĩva upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésaj"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésaj"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "upe árape"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chag haMatzot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "chaga"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "haMatzot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "poapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára pukukue"
+    }
+  ],
+  "timestamp": "2026-10-02T18:38:38.525349260Z",
+  "model": "glm-5.3"
+}

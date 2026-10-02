@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha mburuvicha ha opaite kuéra ⟨את⟩ ichugua ou keraháicha, ha upépe opytuʼu pytuʼu porãme.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-va"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ichugua",
+      "marks": "opaite kuéra ichugua"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "keraháicha"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "opytuʼu pytuʼu porãme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:28:03.315425025Z",
+  "model": "glm-5.3"
+}

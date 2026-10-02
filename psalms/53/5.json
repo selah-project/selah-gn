@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 53,
+  "translation": "Ndaikuaapápa umi mbaʼe apovaíva? Umi hoʼúva che retãme, hoʼu chugupe kuimbeʼe raʼỹicha; Elohim-pe katu ani oguerohory.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "na…pápa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "apovaíva"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "hoʼúva"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãme"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hoʼu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kuimbeʼe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "oguerohory"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:12.499216621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Jahve, embojy ⟨את⟩ neñandejyvága ha eguahẽ ñande py蒂; eñenõ umi yvyty rehe ha ojetyypyrota hikuái.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "embojy"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "neñandejyvága"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ha eguahẽ ñande pype"
+    },
+    {
+      "surface": "גע",
+      "gloss": "eñenõ"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "umi yvyty rehe"
+    },
+    {
+      "surface": "ותעשנו",
+      "gloss": "ha ojetyypyrota hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:56.138333141Z",
+  "model": "glm-5.3"
+}

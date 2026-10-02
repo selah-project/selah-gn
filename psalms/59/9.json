@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Ha nde, Jahve, reretsaʼi chupekuéra rehe; rejokuaikái opaite tetãnguéra rehe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "reretsaʼi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chupekuéra rehe"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "rejokuaikái"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite ... rehe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:16.742895555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha rereroaha ⟨את⟩ umi Leviita Jahve renondépe, ha Jisrael memby kuéra omoĩ ⟨את⟩ i po kuéra umi Leviita ári.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "rereroaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Leviita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i po kuéra"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "po kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviita"
+    }
+  ],
+  "timestamp": "2026-10-02T09:21:45.624341073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ehaíta chupekuéra nde róga rogykuéra ári ha nde rokẽnguéra ári.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ehaíta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "rogykuéra"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde róga"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "nde rokẽnguéra ári"
+    }
+  ],
+  "timestamp": "2026-10-02T09:48:55.232566941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jahve rehe che rekove ojeguerohory; umi iñakãguasu'ỹva ohendúta ha ovy'áta.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ojeguerohory"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ohendúta"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "umi iñakãguasu'ỹva"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ha ovy'áta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:57.122316742Z",
+  "model": "glm-5.3"
+}

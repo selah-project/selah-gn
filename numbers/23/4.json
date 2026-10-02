@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Elohim ojuhu Bileam, ha ha'e he'i chupe: ⟨את⟩ pokõi ofrendaha amohenda chéve, ha ame'ẽ vaka ha kavara kuimba'e ofrendaháre.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ha ojuhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokõi ofrendaha"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "ofrendaha"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "amohenda"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ha ame'ẽ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ha kavara kuimba'e"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "ofrendaháre"
+    }
+  ],
+  "timestamp": "2026-10-02T09:35:45.627291971Z",
+  "model": "glm-5.3"
+}

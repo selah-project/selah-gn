@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 150,
+  "translation": "Momorãpe chupe chofar oñembopúvo, momorãpe chupe nevel ha kinor ndive.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "momorãpe chupe"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "oñembopúvo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "momorãpe chupe"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevel ndive"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ha kinor"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:07.366987363Z",
+  "model": "glm-5.3"
+}

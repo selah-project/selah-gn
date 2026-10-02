@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ogueru ⟨את⟩ ne tsedek kuarahy raʼangáicha, ha ⟨את⟩ ne hekojojaha arasunguéicha.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Ha ogueru"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "kuarahy raʼangáicha"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ne tsedek"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ha ne hekojojaha"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "arasunguéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:16.760081095Z",
+  "model": "glm-5.3"
+}

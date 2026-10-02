@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Chejàra, ndéve añetehápe remoñepyrũma pe marangatúpe, Jahve: reñoirũ ⟨chumbo⟩ haʼeháicha pe gracia ndive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "remoñepyrũma"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "chumbo haʼeháicha"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "gracia"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "reñoirũ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:27.307729231Z",
+  "model": "glm-5.3"
+}

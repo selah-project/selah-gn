@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Nde ave, ⟨את⟩ nde ñeʼẽmeʼẽ ruguýpe, che amondo ne kaʼirõkuéra yvyʼatu-gui, upépe niko ndaipóri y.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ñeʼẽmeʼẽ ruguýpe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ruguýpe"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "nde ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "che amondo"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "ne kaʼirõkuéra"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "yvyʼatu-gui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "בו",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:19:03.316767597Z",
+  "model": "glm-5.3"
+}

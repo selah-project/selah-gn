@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Moche katu oiko oikóvo oñangarekóvo ⟨את⟩ kavara rapyta rehegua Yitro, ita'ýra-ru'ã, Midian pa'i rógape; ha omondo ⟨את⟩ kavara kuéra yvy guasu pahápe gotyo, ha ou Evoim yvyty, Chorev peve.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moche katu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "oñangarekóvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kavara rapyta rehegua"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kavara rapyta rehegua"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ita'ýra-ru'ã"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kavara kuéra"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kavara kuéra"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pahápe gotyo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yvy guasu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloim rógape"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Chorev"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:29.000090021Z",
+  "model": "glm-5.3"
+}

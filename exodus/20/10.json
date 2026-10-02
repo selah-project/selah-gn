@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha pe ára pokõiha haʼe Chabat Jahve, nde Elohim peg̃uarã; nderejapomoʼãi mbaʼeve tembiapo: nde, nde raʼy, nde rajy, nde tembiguái, nde tembiguái kuña, nde mymbakuéra, ha nde pytagua oĩva nde okẽnguéra ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "ha pe ára"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "pokõiha"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve peg̃uarã"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri (ndo-…-moʼãi)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ha nde raʼy"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "nde rajy"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde tembiguái"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nde tembiguái kuña"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "nde mymbakuéra"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ha nde pytagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ova"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nde okẽnguéra ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:17.296660173Z",
+  "model": "glm-5.3"
+}

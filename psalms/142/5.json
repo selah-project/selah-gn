@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 142,
+  "translation": "Ehecha che akatúa ári ha ehecha, ha ndaipóri oikuaáva cherehe; oñembyái che mombyryrã; ndaipóri ohekáva che rekovére.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "che akatúa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "oikuaáva"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "oñembyái"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "che mombyryrã"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "che rehegui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ohekáva"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "che rekovére"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:04.206982332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 1:33",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha mburuvicha he'i chupekuéra: Egueru pende jára rembiguaikuéra ndive ⟨את⟩, ha pejupi ⟨את⟩ Shelomoh, che memby, che mula ári, ha pegueraha mbegue Gichon-pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pende ndive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pende jára rembiguaikuéra"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguaikuéra"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "pende jára"
+    },
+    {
+      "surface": "והרכבתם",
+      "gloss": "ha pejupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che memby"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הפרדה",
+      "gloss": "che mula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cheva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cheva"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "ha pegueraha mbegue"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "Gichon"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:51.501490925Z",
+  "model": "glm-5.3"
+}

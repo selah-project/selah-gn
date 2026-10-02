@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ani emoĩ ⟨את⟩ nde kuñaimi peteĩ Belial tajýi renondépe; petche che ñembyasy ha che jepyʼapy hetaguere añeʼẽ koʼãgáite peve.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde kuñaimi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nde kuñaimi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tajýi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "petche"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "hetaguere"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "che ñembyasy"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "ha che jepyʼapy"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "añeʼẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…peve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼãgáite peve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:53:47.487453438Z",
+  "model": "glm-5.3"
+}

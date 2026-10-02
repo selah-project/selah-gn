@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Jahve oaipurure ãe'ẽ añete David-pe, ndoje'eremo'ãi upégui: nde ra'ỹikuéra, nde ryeguágui osẽva apytégui, amoháta nde varaitýpe.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "oaipurure ãe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ãe'ẽ añete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ndoje'eremo'ãi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ra'ỹikuéra apytégui"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "nde ryegua"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "amoháta"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "nde varaitýpe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehechaukávo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:40.390404974Z",
+  "model": "glm-5.3"
+}

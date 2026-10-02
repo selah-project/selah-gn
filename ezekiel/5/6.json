@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha katu ndojaposetéi che hekojojaha, ojapo vaive umi tetãnguéra uíka, ha che jepokuaa korapýpe umi yvy oĩva ijerére apytépegui;cheneko che hekojojaha oheja hikuái, ha che jepokuaa ryepýpe ndoguata hikuái.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "ojaposetéi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che hekojojaha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "che hekojojaha"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "ojapo vai hagua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che jepokuaa"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "che jepokuaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "umi yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cheneko"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "che hekojojaha"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "oheja hikuái"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "ha che jepokuaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "oguata hikuái"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:58:39.830816567Z",
+  "model": "glm-5.3"
+}

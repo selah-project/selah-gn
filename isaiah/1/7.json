@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Pene yvy oĩ nandi, pene táva ojehai tata rehe; pene tekohape ypyvýra kuéra oʼu ⟨את⟩, pene ñandavoipe, ha oĩ nandi icha ojekapýva ypyvýra kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "pene yvy"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "oĩ nandi"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "pene táva"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "ojehai"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "pene tekoha"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "pene ñandavoipe"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ypyvýra kuéra"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "oʼu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pene tekoha"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ha oĩ nandi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "icha ojekapýva"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ypyvýra kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:27.004852832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha i.ysyrykuéra oñemoambuéta zefet-pe, ha i.y oikóta gafrit-pe, ha i.yvy oikóta zefet opyréva.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "oñemoambuéta"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "i.ysyrykuéra"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "zefet-pe"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ha i.y"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "gafrit-pe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "i.yvy"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "zefet-pe"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "opyréva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:46:54.783902822Z",
+  "model": "glm-5.3"
+}

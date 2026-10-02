@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve heʼi: Ahecha añetehápe ahecha ⟨את⟩ che tavayguakuéra iverapyrã, oikóva Mitsraim-pe; ha ⟨את⟩ ihyapu ahendu ombaʼapoukava hikuái rekóre; che aikuaa ⟨את⟩ imbaʼasýkuéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ahecha añetehápe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che tavayguakuéra iverapyrã"
+    },
+    {
+      "surface": "עני",
+      "gloss": "iverapyrã"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che tavayguakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihyapu"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ihyapu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ahendu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rekóre"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ombaʼapoukava hikuái"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "che aikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼasýkuéra"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "imbaʼasýkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:30.220513068Z",
+  "model": "glm-5.3"
+}

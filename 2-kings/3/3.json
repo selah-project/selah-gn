@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Haʼeháicha Yaravoam, Nevat raʼýi, jejavykuépe — haʼéva ojejavýkavakue ⟨את⟩ Jisrael — oñemombaʼe vaʼerã hese; ndohesei henyhẽmbaite upégui.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "jejavykuépe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravoam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ojejavýkavakue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "oñemombaʼe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndohesei"
+    },
+    {
+      "surface": "סר",
+      "gloss": "henyhẽmbaite"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "upégui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:13.106242025Z",
+  "model": "glm-5.3"
+}

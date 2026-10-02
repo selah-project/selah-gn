@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ndoñemosẽirï kuarepoti amundúi munda ára jave, ni kuarepoti amundúi tata pyhare jave, tavaygua kuéra renondépe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndo…ï"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ndoñemosẽirï"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "kuarepoti amundúi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ára jave"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ni kuarepoti amundúi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare jave"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:00.737569634Z",
+  "model": "glm-5.3"
+}

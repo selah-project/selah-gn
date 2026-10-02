@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Mecha, Moav mburuvicha, oĩ oñangarekóva orarakuéra rehe; ha oheja Jisrael mburuvichápe sa su ovevymichĩ ha sa su typycha kuarepe ndive.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Ha Mecha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "oñangarekóva orarakuéra rehe"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichápe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ovevymichĩ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ha sa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "typycha"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "kuarepe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:13.106413151Z",
+  "model": "glm-5.3"
+}

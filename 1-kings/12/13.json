@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha mburuvicha oñembohovái ⟨את⟩ ára rehe vaieterei, ha oheja ⟨את⟩ ituja kuéra ñeʼẽmeʼẽ omeʼẽ hague chupe.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "oñembohovái"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ára"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ára"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "vaieterei"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ituja kuéra ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ituja kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "omeʼẽ hague chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:52:34.647811179Z",
+  "model": "glm-5.3"
+}

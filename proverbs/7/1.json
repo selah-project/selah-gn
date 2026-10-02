@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Che raʼy, eñangareko che ñeʼẽnguéra rehe, ha che ñeʼẽmeʼẽnguéra eñongatu ⟨את⟩ nde ndive.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "che raʼy"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "che ñeʼẽnguéra"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ha che ñeʼẽmeʼẽnguéra"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "eñongatu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde ndive",
+      "marks": "nde ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:31:02.515288260Z",
+  "model": "glm-5.3"
+}

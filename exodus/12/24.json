@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha peẽ peñangareko ⟨את⟩ ko ñe'ẽre, tekotevẽháicha peẽ ha peẽ ra'ykuéra g̃uarã, opave'ỹre.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñe'ẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "tekotevẽháicha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "peẽ g̃uarã"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ha peẽ ra'ykuéra g̃uarã"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opave'ỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:18.806318347Z",
+  "model": "glm-5.3"
+}

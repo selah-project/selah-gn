@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 113,
+  "translation": "Ominguãʼẽ Jahve téra, koʼág̃a guive saʼiʼỹ peve.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ominguãʼẽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ominguãʼẽ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "koʼág̃a guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "saʼiʼỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:02.799726612Z",
+  "model": "glm-5.3"
+}

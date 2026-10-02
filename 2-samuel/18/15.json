@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha ojere pa mitãrusu orekóva Joav mbaʼekuéra, oity ⟨את⟩ Avchalom ha ojuka chupe.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mitãrusu"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "orekóva"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼekuéra"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avchalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ojuka chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:32:32.410888286Z",
+  "model": "glm-5.3"
+}

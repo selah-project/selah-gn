@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Para ykuéra ombopu, ojy upéichante ove yvatévo, yvytykuéra ojerejere iñañuãnguápe. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ombopu"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ojy upéichante ove"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "para ykuéra"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ojerejere"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "iñañuãnguápe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:06.491784903Z",
+  "model": "glm-5.3"
+}

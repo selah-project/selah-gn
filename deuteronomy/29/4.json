@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha che aguata ha ahenói ⟨את⟩ peẽ mokõipa ary pukukuévo yvy guasu ryepýpe: peẽ aokuéra ndovaíri peẽ rehe, ha peẽ isãrã ndovaíri peẽ py ári.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "aguata ha ahenói"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mokõipa ary"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "pukukuévo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvy guasu ryepýpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "vaíri"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "peẽ aokuéra"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "peẽ rehe"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ha peẽ isãrã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "vaíri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "py ári"
+    }
+  ],
+  "timestamp": "2026-10-02T10:10:30.438075514Z",
+  "model": "glm-5.3"
+}

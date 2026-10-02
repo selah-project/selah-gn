@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Mba'érepa ajesare'óta ára vai aja, mba'evai ojere haguã che py rupíva cherehe?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mba'érepa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ajesare'óta"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ára aja"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mba'evai"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "che py rupíva"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ojere cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:36.987919281Z",
+  "model": "glm-5.3"
+}

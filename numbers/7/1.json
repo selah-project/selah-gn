@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Oiko pe árape Moche opahápe omoĩ ⟨את⟩ Michkan, ha oñohẽ hiʼári ⟨את⟩ ha omoñemarangatu ⟨את⟩, ha ⟨את⟩ opaite i-mbaʼekuéra, ha ⟨את⟩ Mizbeaj ha ⟨את⟩ opaite i-mbaʼekuéra; ha oñohẽ hiʼári chupekuéra ha omoñemarangatu ⟨את⟩ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pe árape"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "opahápe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "oñohẽ hiʼári"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "omoñemarangatu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite i-mbaʼekuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i-mbaʼekuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mizbeaj"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Mizbeaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite i-mbaʼekuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i-mbaʼekuéra"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "oñohẽ hiʼári chupekuéra"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "omoñemarangatu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:17:39.400920733Z",
+  "model": "glm-5.3"
+}

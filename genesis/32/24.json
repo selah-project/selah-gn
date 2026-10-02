@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha ogueru chuguikuéra, ha ohasa chuguikuéra ⟨את⟩ ysyry ári, ha ohasa ⟨את⟩ hembaʼe opaitembyre.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "ogueru chuguikuéra"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ohasa chuguikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ysyry"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembaʼe opaitembyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hembýva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hembaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:08.037612989Z",
+  "model": "glm-5.3"
+}

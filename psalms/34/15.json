@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Eheja mbaʼe vai ha ejapo mbaʼe porã; eheka pyʼaguapy ha ejerereko hese.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Eheja"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ha ejapo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "eheka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ha ejerereko hese"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:42.652146780Z",
+  "model": "glm-5.3"
+}

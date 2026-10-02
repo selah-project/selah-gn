@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Peipeʼa ⟨את⟩ akã Jisrael mitãnguéra aty opaite, iñoteʼẽnguéra rupi, itúva róga rupi, téra papapy rupi, kuimbaʼe opaite, iñakãague rupi.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Peipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akã"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "aty"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "iñoteʼẽnguéra rupi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "róga rupi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "papapy rupi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "téra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "iñakãague rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:06.095499476Z",
+  "model": "glm-5.3"
+}

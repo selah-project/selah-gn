@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Jahve oisãmbyhy opaite ára pukukuévo, nde Elohim, Sion, tekoiteraitépe; ejaheja jahai Ja-pe.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára pukukuévo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tekoiteraitépe"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ha tekoiteraitépe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ejaheja jahai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:01.041509333Z",
+  "model": "glm-5.3"
+}

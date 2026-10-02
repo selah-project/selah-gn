@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 110,
+  "translation": "Nde pu'aka mbara'y Jahve omondo Tsiyon guive: eñesãmbyhy nde rivákuéra mbytépe.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "mbara'y"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nde pu'aka"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyon guive"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "eñesãmbyhy"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "nde rivákuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:03.877144646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Che haʼe Jahve, pende Marangatu, Jisrael ñemoheñoihára, pende mburuvicha.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "pende Marangatu"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ñemoheñoihára"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "pende mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:56.582139761Z",
+  "model": "glm-5.3"
+}

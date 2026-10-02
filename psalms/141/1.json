@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 141,
+  "translation": "Mizmor David-pe g̃uarã. Jahve, ambohéra ndeve: ene che rehe; eñahendá che ñeʼẽ, che ambohéra aja ndeve.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ambohéra ndeve"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ene"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "eñahendá"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "che ambohéra aja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:31.178631640Z",
+  "model": "glm-5.3"
+}

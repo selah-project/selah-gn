@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Reuven, Chimon, Levi ha Jehuda.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ha Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:51.636365467Z",
+  "model": "glm-5.3"
+}

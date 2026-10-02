@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Amboguapy chuguikuéra mba'asy pukukuíre, ha amosãso ⟨את⟩ chuguikuéra; ha ajapóta ⟨את⟩ ndeve tetã tuichaitereíva, ipu'akaitereívape, kueraháicha.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Amboguapy chuguikuéra"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mba'asy pukukuíre"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ha amosãso"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ha ajapóta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ndeve tetã tuichaitereívape"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuichaitereíva"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ipu'akaitereíva"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kueraháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T09:23:50.772995205Z",
+  "model": "glm-5.3"
+}

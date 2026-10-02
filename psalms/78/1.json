@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ñemoarandu purahéi Asaf-pe g̃uarã. Eñehendu, che tavakuéra, che Tora; embovy'a peẽ apysa che juru ñe'ẽnguérape.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ñemoarandu purahéi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf-pe g̃uarã"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "eñehendu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che tavakuéra"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "che Tora"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "embovy'a"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "peẽ apysa"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ñe'ẽnguérape"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:23.594666777Z",
+  "model": "glm-5.3"
+}

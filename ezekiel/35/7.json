@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha che amohã ⟨את⟩ Seʼir yvyty oñembyai ha oñembyai hag̃uáicha, ha aikuchipa hese ohóva ha ojevyva.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "amohã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seʼir yvyty"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seʼir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "oñembyai hag̃uáicha"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ha oñembyai"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "aikuchipa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohóva"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ha ojevyva"
+    }
+  ],
+  "timestamp": "2026-10-02T14:33:42.896040753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve oñeʼẽ cherehe: Ehecha, amoñepyrũma omeʼẽ nde peve ⟨את⟩ Sijon ha ⟨את⟩ hetetã; eñepyrũ eñembyaty hikuái hag̃ua hetetã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "amoñepyrũma"
+    },
+    {
+      "surface": "תת",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde peve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sijon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sijon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hetetã"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hetetã"
+    },
+    {
+      "surface": "החל",
+      "gloss": "eñepyrũ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "eñembyaty"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hikuái hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hetetã"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hetetã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:47.947818951Z",
+  "model": "glm-5.3"
+}

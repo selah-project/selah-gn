@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Omoĩ ⟨את⟩ pe peteĩha Beit-El-pe, ha ⟨את⟩ pe ambuéva omoĩ Dan-pe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe peteĩha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "pe peteĩha"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beit-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe ambuéva"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "pe ambuéva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Dan-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:51:58.993772285Z",
+  "model": "glm-5.3"
+}

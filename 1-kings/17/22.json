@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Jahve ohendu Eliahu ñe'ẽ, ha mitã ñe'ã jevy hetekuépe, ha oikove jey.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "jevy"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ñe'ã"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "hetekue"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "oikove jey"
+    }
+  ],
+  "timestamp": "2026-10-02T11:54:15.984416302Z",
+  "model": "glm-5.3"
+}

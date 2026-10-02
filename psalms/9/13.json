@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Upévare upe oheka tunga, omanduʼa ⟨את⟩ chuguikuéra; nahániri nomanuʼoi pe ñoʼẽ umi oñembyasyvéva mbaʼégui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "omanduʼa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "nomanuʼoi"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ñoʼẽ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "oñembyasyvéva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:58.527458261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Upéi opáma pokõi ára, Jahve oipysó rire ⟨את⟩ Ysyry.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "opáma"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "oipysó rire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ysyry"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Ysyry"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:02.379839384Z",
+  "model": "glm-5.3"
+}

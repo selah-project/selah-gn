@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Evyʼauka nde mbaʼapoʼýhára rekove, nendive che Adonai che rekove ajupyseýha rupi.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Evyʼauka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde mbaʼapoʼýhára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nendive"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ajupyseýha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:20.462667525Z",
+  "model": "glm-5.3"
+}

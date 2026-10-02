@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Epapa ⟨את⟩ Levi membykuéra, iñakãguasu rógua ko'ẽnguéva, oi ko'ẽnguéva rupive; kuimba'e opavave, memby peteĩ jasy oguerekóva guive hetavevévape, epapa chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Epapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iñakãguasu rógua"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ko'ẽnguéva"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "oi ko'ẽnguéva rupive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "peteĩ jasy oguerekóva"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "guive hetavevévape"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "epapa chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:37.469646716Z",
+  "model": "glm-5.3"
+}

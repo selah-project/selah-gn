@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Yvy kuʼi hakýpe, Tsyón pegua, reity ⟨את⟩ pytaguépe ñeʼẽrongatu; haku ypykue, yvyra akuápe, umi mbaretekuéra purahei oñemboguejýta.",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "yvy kuʼi hakýpe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsyón pegua"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ñeʼẽrongatu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "pytaguépe"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "reity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pytaguépe ñeʼẽrongatu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "haku"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "yvyra akuápe"
+    },
+    {
+      "surface": "עב",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "purahei"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "mbaretekuéra"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "oñemboguejýta"
+    }
+  ],
+  "timestamp": "2026-10-02T19:07:26.920128699Z",
+  "model": "glm-5.3"
+}

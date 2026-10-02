@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Ha Nevozaredán, tajýihárakuéra ruvicha, ogueru ⟨את⟩ chuguikuéra ha ogueraha ⟨את⟩ chuguikuéra Bavel mburuvicha meve, Ribláhape.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra (umíva ojegueru vaʼekue)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevozaredán"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ruvicha"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tajýihárakuéra"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribláhape"
+    }
+  ],
+  "timestamp": "2026-10-02T13:54:38.356774119Z",
+  "model": "glm-5.3"
+}

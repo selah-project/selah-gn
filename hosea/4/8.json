@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Umi paꞌi okaru hikuái che retãyguakuéra jejavýre, ha hi jejavýpe ohupi hikuái hi tekove.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "jejavýre"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãyguakuéra"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hi jejavýpe"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hi tekove"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:05.846237709Z",
+  "model": "glm-5.3"
+}

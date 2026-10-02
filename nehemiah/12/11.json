@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Joiada heñói ⟨את⟩ Jonatan, Jonatan heñói ⟨את⟩ Jadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Joiada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jadua"
+    }
+  ],
+  "timestamp": "2026-10-02T17:56:49.679297060Z",
+  "model": "glm-5.3"
+}

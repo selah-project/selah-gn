@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha oje'u jave mbohapyha árape, mba'e vai hína pigul; nojerohamo'ãi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha... jave"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "oje'u"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jave"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "mbohapyha"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "mba'e vai pigul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no-"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "jerohamo'ãi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:31.171826955Z",
+  "model": "glm-5.3"
+}

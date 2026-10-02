@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha nde, ejupi, ehóke nde ógape; nde py oguahẽvo távape, pe mitã omanóta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ejupi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ehóke"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "nde ógape"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "oguahẽvo"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "nde py"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "távape"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "omanóta"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pe mitã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:52:42.031048305Z",
+  "model": "glm-5.3"
+}

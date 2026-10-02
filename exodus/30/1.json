@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha rejapóta peteĩ mboapegua kuʼẽ pytũmbe haguãre; itaʼỹi jepeʼapeguáicha rejapóta ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mboapegua"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "kuʼẽ pytũmbe haguãre"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "pytũmbe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "jepeʼapeguáicha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "itaʼỹi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "mboapegua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:46:13.217922661Z",
+  "model": "glm-5.3"
+}

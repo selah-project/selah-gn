@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Kalev he'i: Oipe'áva ⟨את⟩ Kiryat Sefer ha ogueraháva chupe, ame'ẽne chupe ⟨את⟩ Aksa, che rajy, hembirekorã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Oipe'áva"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ha ogueraháva chupe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ame'ẽne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "che rajy"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "hembirekorã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:27:25.410704812Z",
+  "model": "glm-5.3"
+}

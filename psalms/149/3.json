@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 149,
+  "translation": "Omomba'eguasu hikuái hete téra ñembokachi rupive; mbu'u pu rupive ha kinnora rupive oiporu hikuái purahei chupe.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "omomba'eguasu hikuái"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hete téra"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ñembokachi rupive"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "mbu'u pu rupive"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ha kinnora rupive"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "oiporu hikuái purahei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.805297482Z",
+  "model": "glm-5.3"
+}

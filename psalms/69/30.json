@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Che katu che aĩ ha che asy; nde jeipyrahã, Elohim, chemo'yvate chéve.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "che aĩ"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "ha che asy"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "nde jeipyrahã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "chemo'yvate chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:34.797741913Z",
+  "model": "glm-5.3"
+}

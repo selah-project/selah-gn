@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha kuimbaʼe oipeʼũramo ⟨את⟩ itembiguái térã ⟨את⟩ ikuñambiguái takuárape, ha omano ipo rypýpe, ojeherukiavaʼerãete.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ha... ramo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "oipeʼũramo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itembiguái"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "itembiguái"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuñambiguái"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ikuñambiguái"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "takuárape"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ha omano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rypýpe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ojeherukia"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "vaʼerãete"
+    }
+  ],
+  "timestamp": "2026-10-02T08:25:22.068385892Z",
+  "model": "glm-5.3"
+}

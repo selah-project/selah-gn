@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Tuicháva Jahve, ha ojeguerohoryvaʼerã hetaite ore Elohim távape, ⟨pe⟩ yvyty marangatu.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "tuicháva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ojeguerohoryvaʼerã"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:55.195957174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Pe ojapóva ⟨הַ⟩ yvága tesaʼarõrehegua, hesed ijeiko opaite ára.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Pe ojapóva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨הַ⟩ yvága"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "tesaʼarõrehegua"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed ijeiko"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:14.148856474Z",
+  "model": "glm-5.3"
+}

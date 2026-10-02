@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha Yosef ikuaa ⟨את⟩ ijoykeʼýkuéra, ha umínte ndaikuaái chupe.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ikuaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoykeʼýkuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼýkuéra"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha umínte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...ãi"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "kuaa chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:01:05.769357839Z",
+  "model": "glm-5.3"
+}

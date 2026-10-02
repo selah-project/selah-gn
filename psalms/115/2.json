@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Mbaʼérepa umi tetãnguéra oñeʼẽta: «Mamo paʼe oĩ hikuái Elohim?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "איה",
+      "gloss": "mamo paʼe oĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨añetehápe⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hikuái Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:04.901122261Z",
+  "model": "glm-5.3"
+}

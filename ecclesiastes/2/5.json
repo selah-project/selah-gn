@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ajapo chereheĝua ñemitỹha kuéra ha yva ka'aguy kuéra, ha amõ ipépe yvyra, opaite yva rekokatu.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chereheĝua"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ñemitỹha kuéra"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ha yva ka'aguy kuéra"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ha amõ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ipépe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yva rekokatu"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:21.678958087Z",
+  "model": "glm-5.3"
+}

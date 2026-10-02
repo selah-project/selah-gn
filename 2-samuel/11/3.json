@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha David omondo ha oheka pe kuña rehegua; ha oje'e chupe: Nda'isépa ko Bat-Sheva, Eliam ra'ỹi, Uria hitita rembireko?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ha omondo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ha oheka"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pe kuña rehe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oje'e"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nda'isépa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "rembireko"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hitita"
+    }
+  ],
+  "timestamp": "2026-10-02T11:26:10.040688592Z",
+  "model": "glm-5.3"
+}

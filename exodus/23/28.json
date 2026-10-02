@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha amondóta ⟨את⟩ Jaiguasuvai ne tenonderã, ha omboguejýta ⟨את⟩ Jaiví-tavaygua, ⟨את⟩ Kenaní-tavaygua, ⟨את⟩ Jaití-tavaygua ne rembeʼygotyo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ha amondóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaiguasuvai"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "Jaiguasuvai"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ne tenonderã"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ha omboguejýta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaiví-tavaygua"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Jaiví-tavaygua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaní-tavaygua"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaní-tavaygua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaití-tavaygua"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Jaití-tavaygua"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ne rembeʼygotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:23.241904405Z",
+  "model": "glm-5.3"
+}

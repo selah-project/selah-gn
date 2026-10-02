@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Añeteháme ⟨את⟩ Levi manduʼarei ani rejapo, ha ⟨את⟩ iñakãnguéra ani reguereko, Jisrael raykuakuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Añeteháme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi manduʼarei"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "manduʼarei"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãnguéra"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "iñakãnguéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "reguereko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raykuakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T09:13:14.513675646Z",
+  "model": "glm-5.3"
+}

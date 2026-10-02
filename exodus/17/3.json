@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha upépe pe tavayguakuéra ohasa asy y'ỹre, ha pe tavayguakuéra oimo'ã Moise rehe, ha he'i: Mba'ére piko reipysóru ñandéve Egipto-gui, rejapo haguã ⟨את⟩ che, ⟨את⟩ che ra'akuéra ha ⟨את⟩ che mba'ekuéra, tekove'ỹre?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "ohasa asy y'ỹre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavayguakuéra"
+    },
+    {
+      "surface": "למים",
+      "gloss": "y rehe"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "oimo'ã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavayguakuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moise"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mba'ére piko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "reipysóru ñandéve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Egipto-gui"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "rejapo haguã tekove'ỹ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che ra'akuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che ra'akuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che mba'ekuéra"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "che mba'ekuéra"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "y'ỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:56.471140500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha itúva oñeʼẽ chupekuéra: Mbaʼe tape pype oho hague? Ha itaʼýraguéra hecha ⟨את⟩ tape oho hague kuimbaʼe Elohim, ou vaʼekue Jehuda-gui.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho hague"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "hecha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "itaʼýraguéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tape"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho hague"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou vaʼekue"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Jehuda-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:12.523583773Z",
+  "model": "glm-5.3"
+}

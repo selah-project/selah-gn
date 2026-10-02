@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Nde nde rei Pe El apoha mbaʼeiterei rehe, reikuaauka umi tetãme ne ipuʼaka.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Pe El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "apoha"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mbaʼeiterei rehe"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "reikuaauka"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "umi tetãme"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ne ipuʼaka"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:59.484151891Z",
+  "model": "glm-5.3"
+}

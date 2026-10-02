@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Moise oenónde Jahve-pe, ojerurevo: Mba'épa ajapóta ko tavayguakuéra-re? Sapy'ami jey, ha oityta yvyrakuéra che rehe.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "oenónde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ojerurevo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'épa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ko tavayguakuéra-re"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sapy'ami jey"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sapy'ami"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "oityta yvyrakuéra che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:56.471299821Z",
+  "model": "glm-5.3"
+}

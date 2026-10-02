@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha mburuvicha Shelomo mburuvicha opaite Jisrael ári.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T11:39:31.904315372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha Moche ogueru ha omoĩ ⟨את⟩ jeʼe rejagua aronga-pe, omoĩ ⟨את⟩ imbaʼeju kuéra aronga ári, ha omoĩ ⟨את⟩ kaporet aronga ári yvategua.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeʼe rejagua"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "jeʼe rejagua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronga"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼeju kuéra"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "imbaʼeju kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronga"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yvategua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:18.285326948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve heʼi Moche pe: Eipysõ nde po Mitsraim yvy ári tuku rehe, ha tou oipyta Mitsraim yvy ári, ha oʼu ⟨את⟩ opaite kaʼavo yvy pegua, ⟨את⟩ opaite pe yrypy oheja vaʼekue.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ... heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Eipysõ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "tuku rehe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ha tou oipyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ha oʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite kaʼavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kaʼavo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy pegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite pe yrypy oheja vaʼekue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "oheja vaʼekue"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "yrypy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:05.865675642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Che ñeʼẽmeʼẽ Jahve-pe che amohuʼã, koʼág̃a, opaite iñemoñare renondépe.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "che amohuʼã"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:49.919341594Z",
+  "model": "glm-5.3"
+}

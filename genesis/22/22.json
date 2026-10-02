@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha ⟨את⟩ Keched, ⟨haʼe⟩ ha ⟨את⟩ Chazo, ⟨haʼe⟩ ha ⟨את⟩ Pildach, ⟨haʼe⟩ ha ⟨את⟩ Jidlaf, ⟨haʼe⟩ ha ⟨את⟩ Betuel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Keched"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Keched"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Chazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Pildach"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jidlaf"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Jidlaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Betuel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:27.108114052Z",
+  "model": "glm-5.3"
+}

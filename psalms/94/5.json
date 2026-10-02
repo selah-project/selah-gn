@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Ne retãmehetáva, Jahve, ohundi ⟨⟨⟩⟩, ha neñemoñare ohundipa hikuái.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ne retãmehetáva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ohundi hikuái"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ha neñemoñare"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ohundipa hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:53.069700565Z",
+  "model": "glm-5.3"
+}

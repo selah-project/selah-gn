@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Koʼág̃a katu ahechaukáta ⟨את⟩ i-kyʼa i-rayhuhakuéra resãitépe, ha avavete ndoipysyrõmoʼãi chupe che pógui.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Koʼág̃a katu"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ahechaukáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-kyʼa"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "i-kyʼa"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "resãitépe"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "i-rayhuhakuéra"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "avavete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "ipysyrõmoʼãi chupe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "che pógui"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:37.981213486Z",
+  "model": "glm-5.3"
+}

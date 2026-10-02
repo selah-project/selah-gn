@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 149,
+  "translation": "Jahve iporãvare iñemoñare rehe; omomba'eguerohory umi ivai'ỹvévape ñemoã rupive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "iporãvare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "iñemoñare rehe"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "omomba'eguerohory"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "umi ivai'ỹvéva"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ñemoã rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.805452613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Jisrael, ekeregua Jahve rehe; ⟨hikuái⟩ pytyvõha ha ijeva'ãha peve haʼe.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ekeregua"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pytyvõha"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ijeva'ãha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:52.871674835Z",
+  "model": "glm-5.3"
+}

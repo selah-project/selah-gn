@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pa'i ojapóta ⟨את⟩ chattat haʼe haguáicha ojapo jekupyty oñemopotĩvape ivaiʼẽgui, ha upéi ojukáta ⟨את⟩ olah.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chattat"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chattat"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ojapo jekupyty"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "oñemopotĩva"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "ivaiʼẽgui"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ojukáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:10.408403304Z",
+  "model": "glm-5.3"
+}

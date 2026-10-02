@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 54,
+  "translation": "Ani reñemondýi, túva nde rejavasamoʼãi; ani reñembyahýi, túva nde rejavyvymoʼãi; túva ne mitãrusu ára javasa reikuaaveʼẽta, ha ne rembirekóre omanóva javyvy ani reñemanduʼa jey.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "reñemondýi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "túva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "rejavasa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "reñembyahýi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "túva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "rejavyvy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "túva"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "javasa"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "ne mitãrusu ára"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "reikuaaveʼẽta"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "ha javyvy"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "ne rembirekóre omanóva mbaʼe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "reñemanduʼa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    }
+  ],
+  "timestamp": "2026-10-02T13:00:44.732026365Z",
+  "model": "glm-5.3"
+}

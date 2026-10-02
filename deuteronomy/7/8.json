@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Jahve rayhógui ⟨את⟩ peẽre ha oñangarekógui ⟨את⟩ ñeʼẽmeʼẽre ojapo iñeʼẽmeʼẽ vaʼekue pe ruvichakuérape, Jahve oguenoʼẽ ⟨את⟩ peẽ ipo hatã rupive, ha ojeipeʼa peẽ tembiguái rógagui, Parao pógui, Mitsraim mburuvichagui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "rayhógui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽre"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "oñangarekógui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽmeʼẽre"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ñeʼẽmeʼẽre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "iñeʼẽmeʼẽ vaʼekue"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "pe ruvichakuérape"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "oguenoʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hatã rupive"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "ojeipeʼa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "rógagui"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguái"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T09:51:25.483811925Z",
+  "model": "glm-5.3"
+}

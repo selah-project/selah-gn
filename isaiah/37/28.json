@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha che aikuaa ne ñeno, ne ñesẽ ha ne jeike, ha ⟨את⟩ neremonguero cherehe.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ne ñeno"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ne ñesẽ"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ne jeike"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neremonguero cherehe"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "neremonguero"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:47:36.464130274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha umi óga kuã jehasa korapõ ojerevy hikuái pe ohenóiva iñe'ẽ rupive, ha óga omyanyhẽ pirasû.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "ojerevy hikuái"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "korapõ"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "óga kuã jehasa"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "iñe'ẽ rupive"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "pe ohenóiva"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "omyanyhẽ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "pirasû"
+    }
+  ],
+  "timestamp": "2026-10-02T12:30:40.253023035Z",
+  "model": "glm-5.3"
+}

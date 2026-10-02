@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha peẽ peheja voi ⟨את⟩ Jisrael membykuéra iñembaʼekuaaʼỹgui, ani omano hikuái iñembaʼekuaaʼỹ rehe, oñembyai hikuái ramo ⟨את⟩ che Michkan, oĩva iñepytũme.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "Ha peẽ peheja voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "iñembaʼekuaaʼỹgui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "omano hikuái"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "iñembaʼekuaaʼỹ rehe"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "oñembyai hikuái ramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che Michkan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "che Michkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "iñepytũme"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:30.074992911Z",
+  "model": "glm-5.3"
+}

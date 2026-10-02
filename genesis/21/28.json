@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Avraham omoĩ jepeʼã ⟨את⟩ pokõi ovechami ovecha apytégui, oĩ hikuái iñakãvore.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "omoĩ jepeʼã"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokõi ovechami"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ovechami"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ovecha apytégui"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "iñakãvore"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:34.507384122Z",
+  "model": "glm-5.3"
+}

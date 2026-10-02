@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Adam oihai jey ⟨את⟩ iñembireko, ha ñembireko heñói peteĩ mitãkuimbaʼe, ha ohenói ⟨את⟩ héra Set, heʼívo: Elohom omoĩ chéve peteĩ tarova ambue Hevel rangue, Kajin ojukágui chupe.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "oihai jey"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñembireko"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iñembireko"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mitãkuimbaʼe"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarova"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangue"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ojukágui"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:02.072029803Z",
+  "model": "glm-5.3"
+}

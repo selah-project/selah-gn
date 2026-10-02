@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha upéi Jahve mbaʼerendu oiko Pelichtim yvýpe pokõi jasy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi oiko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mbaʼerendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistim-kuéra"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jasy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:57:49.188043Z",
+  "model": "glm-5.3"
+}

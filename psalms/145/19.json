@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Iporãséva ijeroviahápe chupe ojapóta, ha ⟨את⟩ iñe'ẽ jarýipe ohendúta ha oipysórongatáta chukuéra.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Iporãséva"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ijeroviahápe chupe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñe'ẽ jarýipe"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "iñe'ẽ jarýipe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohendúta"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ha oipysórongatáta chukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:49.151126835Z",
+  "model": "glm-5.3"
+}

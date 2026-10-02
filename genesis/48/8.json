@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Ha Jisrael ohecha ⟨את⟩ Josef raʼýi, ha heʼi: Mávapa peẽpa?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ha ohecha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef raʼýi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "peẽpa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:05:06.800001044Z",
+  "model": "glm-5.3"
+}

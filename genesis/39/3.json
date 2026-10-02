@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ijára hecha Jahve oĩha ⟨את⟩ hendive, ha opa mbaʼe ojapóva Jahve ombopukuaa ipo rupi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ha hecha"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ijára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oĩha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hendive",
+      "marks": "hendive (Josef ndive)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ombopukuaa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipo rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:59:15.797605603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Bavel mburuvicha ojuka ⟨אתם⟩ chupekuéra ha omombaʼevarã chupekuéra Rivlápe, Chamat yvýpe; ha Jihuda ojegueraha ijeýgui.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩kuéra",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "omombaʼevarã chupekuéra"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivlápe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ojegueraha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ijeýgui"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ijyvy"
+    }
+  ],
+  "timestamp": "2026-10-02T12:26:46.379337423Z",
+  "model": "glm-5.3"
+}

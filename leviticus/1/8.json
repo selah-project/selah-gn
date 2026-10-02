@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Aharon raʼýkuéra, umi paʼikuéra, omoĩporã ⟨את⟩ umi pokã, ⟨את⟩ akã ha ⟨את⟩ ʼỹrape yvyra ári oĩva pe tata ári, oĩva pe mbaʼejerére ári.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "omoĩporã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi paʼikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi pokã"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "umi pokã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akã"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ʼỹrape"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ʼỹrape"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האש",
+      "gloss": "pe tata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe mbaʼejerére"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:34.538799360Z",
+  "model": "glm-5.3"
+}

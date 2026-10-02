@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Upeicha rupi, ha'e oñeʼẽ ha ⟨peva⟩ oiko; ha'e omanda ha ⟨peva⟩ opyta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upeicha rupi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omanda"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "opyta"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:01.593461831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha okaru vaʼerã umi mbaʼe ⟨אתם⟩ ojepurúva ojueheguijey hag̃ua, ichupekuéra po oñemyanyhẽ hag̃ua, oñemorarangatu hag̃ua ⟨אתם⟩; okaraguáva ndokarúi, pévicha marangatu niko haʼekuéra.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "okaru vaʼerã"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umi mbaʼe ojepurúva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-va ojepurúva"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ojueheguijey hag̃ua"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ojepuru"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "oñemyanyhẽ hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "po"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "po"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "oñemorarangatu hag̃ua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ichupekuéra"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "okaraguáva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pévicha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "haʼekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:40.322350926Z",
+  "model": "glm-5.3"
+}

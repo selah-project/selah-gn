@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ome'ẽ ndeve nde rekove pota, ha opaite nde apopyrã ojapopa.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "nde rekove pota"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "nde apopyrã"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ojapopa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:11.109812890Z",
+  "model": "glm-5.3"
+}

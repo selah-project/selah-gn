@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Iñañãrange omombaʼese vai upe ndojojáiva, ha umi ndaijaʼéiva chaʼi marangatúre oñembyai.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "omombaʼese"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "upe ndojojáiva"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "iñañãrange"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "umi ndaijaʼéiva"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chaʼi marangatu"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "oñembyai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:43.883657335Z",
+  "model": "glm-5.3"
+}

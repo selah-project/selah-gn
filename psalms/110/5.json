@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 110,
+  "translation": "Adonai, nde akatúa ykére, ojovyry mburuvichakuéra iñangirãi árape.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nde akatúa"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ojovyry"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iñangirãi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mburuvichakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:34.992485829Z",
+  "model": "glm-5.3"
+}

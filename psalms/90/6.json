@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Koʼẽtetãme oñembokapoty ha ohasa; kaʼarupe oñembyai ha okanguy.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽtetãme"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "oñembokapoty"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ha ohasa"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "kaʼarupe"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ha okanguy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:48.303378070Z",
+  "model": "glm-5.3"
+}

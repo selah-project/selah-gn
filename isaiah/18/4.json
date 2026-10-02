@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Upevégui Jahve heʼi chéve upéicha: Aguapy che rekóhape ha ahecha, kuarahakuʼi javéicha kuarahy ári, arapyai okukueguáicha kuarahakuʼípe ñemitỹ aravo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upevégui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "Aguapy"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ha ahecha"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "che rekóhape"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "kuarahakuʼi javéicha"
+    },
+    {
+      "surface": "צח",
+      "gloss": "javechaitéva"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ári"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "arapyai okukueguáicha"
+    },
+    {
+      "surface": "טל",
+      "gloss": "okukue"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "kuarahakuʼípe"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ñemitỹ aravo"
+    }
+  ],
+  "timestamp": "2026-10-02T12:37:34.230576144Z",
+  "model": "glm-5.3"
+}

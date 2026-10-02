@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Oĩta ju nderehe táva ryepýpe, ha oĩta ju nderehe kokue guýpe.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "oĩta ju nderehe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "táva ryepýpe"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ha oĩta ju nderehe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokue guýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:34.869997849Z",
+  "model": "glm-5.3"
+}

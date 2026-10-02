@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 117,
+  "translation": "Pejapora ⟨את⟩ Jahve, opavave tetãnguéra; emombaʼeguasu chupe opavave tavayguakuéra.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pejapora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "emombaʼeguasu chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "tavayguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:50.329097830Z",
+  "model": "glm-5.3"
+}

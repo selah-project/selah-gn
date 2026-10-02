@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Jahve oñeʼẽ Moichépe ha Aharon-pe, heʼívo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moiche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha -pe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:53.311872353Z",
+  "model": "glm-5.3"
+}

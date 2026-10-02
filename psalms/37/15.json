@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ijapyaype voi oikéta ijhaimbe, ha ikogue ijysaja kuéra oñembyaipyta.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ijhaimbe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "oikéta"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ijapyaype voi"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ikogue ijysaja kuéra"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "oñembyaipyta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:46.714380952Z",
+  "model": "glm-5.3"
+}

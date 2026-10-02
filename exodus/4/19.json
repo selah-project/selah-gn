@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Jahve he'i Moche-pe Midian-pe: eho, ejevy Mitsraim-pe, tomeñuãite opaite umi kuimba'e ohekáva ⟨את⟩ nde rekove.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moche-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midian-pe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tomeñuãite"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "omano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimba'e"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "ohekáva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rekove"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:33.913083666Z",
+  "model": "glm-5.3"
+}

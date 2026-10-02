@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha koʼág̃a emyatyõ ⟨את⟩ koʼã yvy tekoerã ramo porundýpe taváme g̃uarã, ha Menašhe táva mbyte.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼág̃a"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "emyatyõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "tekoerã ramo"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "porundýpe g̃uarã"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha mbyte"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "táva"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menašhe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:25:27.333519367Z",
+  "model": "glm-5.3"
+}

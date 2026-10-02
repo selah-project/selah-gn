@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 43:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha heʼi chupe: Cerõi pendeve, ani peñemosyrõi; pende Elohim ha pende ru Elohim omeʼẽ peẽme viru ñemiháme pende mbaʼeroguape apytépe; pende viru ou cherehe. Ha ogueru chupekuéra ⟨את⟩ Chimón.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "cerõi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pendeve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "peñemosyrõi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pende Elohim"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "pende ru Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "מטמון",
+      "gloss": "viru ñemiháme"
+    },
+    {
+      "surface": "באמתחתיכם",
+      "gloss": "pende mbaʼeroguape apytépe"
+    },
+    {
+      "surface": "כספכם",
+      "gloss": "pende viru"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chimón"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimón"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:39.582536097Z",
+  "model": "glm-5.3"
+}

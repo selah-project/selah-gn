@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Nde reruvia ore ñañãnguéra gui, ha remboavy umi oreraiʼũvape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "eruvia"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ore ñañãnguéra gui"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "umi oreraiʼũvape"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "remboavy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:20.854546891Z",
+  "model": "glm-5.3"
+}

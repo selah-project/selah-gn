@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ohenóita yvágape, yvágagui yvateveguio, ha yvy rehe, ojapo hag̃ua hekojoja hetã rehe.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Ohenóita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yvateveguio"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy rehe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ojapo hag̃ua hekojoja"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hetã rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:53.751815406Z",
+  "model": "glm-5.3"
+}

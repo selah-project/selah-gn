@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upérõ jaipuru ⟨את⟩ ⟨׼the⟩ yvy mokõi emorikuéra mburuvicha guasu ipoguigui, umíva oĩva Jarden ypa yvyrápe, Arnon guive Hermón yvyty peve.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Ha jaipuru"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "upérõ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ipoguigui"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorikuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "oĩva ... yvyrápe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "Arnon guive"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermón"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:00.010938064Z",
+  "model": "glm-5.3"
+}

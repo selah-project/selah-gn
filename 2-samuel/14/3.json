@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ere mburuvicha rendápe ha ere chupe koichagua ñeʼẽ; ha Joav omoĩ ⟨את⟩ umi ñeʼẽ ijurua ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ere"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "koichagua ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ijurua ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:27:01.299905195Z",
+  "model": "glm-5.3"
+}

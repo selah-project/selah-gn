@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Iporãve oñemoĩ Jahve ipýpe, jeroviaʼyve umi mburuvichaguasúre.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "oñemoĩ... ipýpe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "jeroviaʼyve"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "umi mburuvichaguasúre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:11.566200160Z",
+  "model": "glm-5.3"
+}

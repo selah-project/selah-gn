@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Jisrael mburuvicha he'i: Egueru ⟨את⟩ Mikhiahu, ha emondo jey chupe Amon ndie, táva sãmbyhyhára, ha Joach, mburuvicha ra'y ndie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhiahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhiahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "ha emondo jey chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndie (upe ápe)"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sãmbyhyhára"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ... ndie"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:00:11.571043290Z",
+  "model": "glm-5.3"
+}

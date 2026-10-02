@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha upéi Amalek ou, ha oñorairõ Jisrael rehe Refidim-pe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ha oñorairõ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "Refidim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:52.477598508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Jahve heʼi: ¿Emokañýpa che Avraham-gui pe ⟨mbaʼe⟩ che ajapótava?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ha Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "emokañýpa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Avraham-gui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ajapótava"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:48.091717742Z",
+  "model": "glm-5.3"
+}

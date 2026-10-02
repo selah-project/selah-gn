@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Eju, jajoropa ⟨את⟩ ore ru vinu rehe, jañeno hendive, jaikove hag̃ua orugui taʼỹra.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Eju"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "jajoropa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore ru"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ore ru"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "jañeno"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "jaikove hag̃ua"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "orugui"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taʼỹra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:40:34.900007127Z",
+  "model": "glm-5.3"
+}

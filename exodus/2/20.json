@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha heʼi imembykuñánguéra peve: Mbaʼéropĩpa oĩ? Mbaʼérepa peheja ⟨את⟩ ko kuimbaʼe? Ehenói chupe, ha karuha mbujape.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "imembykuñánguéra"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Mbaʼéropĩpa oĩ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mbaʼérepa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "peheja kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko kuimbaʼe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ko kuimbaʼe"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "ehenói chupe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "karuha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:11.135411625Z",
+  "model": "glm-5.3"
+}

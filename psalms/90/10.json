@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Ñande ary ára apytépe oĩ pokoĩpa ary ha, imbarete rupive, poapypa ary; ha imbaretéva haʼe kyrakuʼe ha vai; ojepeʼa pyʼeite ha jahererei ñande.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "ñande ary"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pokoĩpa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha, … rupive"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "imbarete rupive"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "poapypa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ha imbaretéva"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kyrakuʼe"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ha vai"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "גז",
+      "gloss": "ojepeʼa"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "pyʼeite"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "jahererei ñande"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:31.394007430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ogueru avei ⟨את⟩ Lot — Avram joykeʼy raʼy, haʼéva oiko Sodoma-pe — ha ⟨את⟩ hembiape, ha oho.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hembiape"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "hembiape"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "joykeʼy"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Sodoma-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:21.550134763Z",
+  "model": "glm-5.3"
+}

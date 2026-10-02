@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Jahve, eipysyrõ ⟨את⟩ pe mburuvicha guasu; pe mburuvicha guasu eñanduka ñande ára rohenói hague.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "eipysyrõ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha guasu"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "eñanduka ñande"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "rohenói hague"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:58.173218424Z",
+  "model": "glm-5.3"
+}

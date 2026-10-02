@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha umi kuimbaʼe onohẽ ⟨את⟩ ipó, ogueru ⟨את⟩ Lot orendápe, ógape, ha ⟨את⟩ pe kutia omboty.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "onohẽ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipó"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ipó"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "orendápe"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe kutia"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pe kutia"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "omboty"
+    }
+  ],
+  "timestamp": "2026-10-02T07:39:33.016212698Z",
+  "model": "glm-5.3"
+}

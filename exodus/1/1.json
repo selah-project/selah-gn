@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha koʼã haʼe ⟨umíva⟩ téra Jisrael membykuéra oguahẽva Mitsraim-pe: ⟨את⟩ Jaakov, kuimbaʼe ha iñegoáupe, ou hikuái.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ha koʼã"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "téra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "oguahẽva"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ha iñegoáupe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:51.636116810Z",
+  "model": "glm-5.3"
+}

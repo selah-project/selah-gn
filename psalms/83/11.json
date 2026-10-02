@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Oñembyai Ein Dor-pe; oiko ŷ ramo ⟨yvy⟩ g̃uarã.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Oñembyai"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor-pe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ŷ ramo"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "yvy g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:25.854772472Z",
+  "model": "glm-5.3"
+}

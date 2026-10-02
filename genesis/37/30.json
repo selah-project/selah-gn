@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojevy joykeʼýpe, ha heʼi: Pe mitã ndaipóri; ha che, amópa ahasáta che jehegui?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—pe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "joykeʼýpe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "amópa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ahasáta"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:28.761287462Z",
+  "model": "glm-5.3"
+}

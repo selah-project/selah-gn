@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Che katu, cheko potĩme ambulatáta; esãso cherehe ha eñemig̃uarã cherehe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "cheko potĩme"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambulatáta"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "esãso cherehe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ha eñemig̃uarã cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:13.109427355Z",
+  "model": "glm-5.3"
+}

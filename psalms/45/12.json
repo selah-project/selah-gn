@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Ha mburuvicha oipotáta ne porangue; ha'e niko ne jára, eñembo'a chupe.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ha oipotáta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ne porangue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ne jára"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "eñembo'a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:27.208389126Z",
+  "model": "glm-5.3"
+}

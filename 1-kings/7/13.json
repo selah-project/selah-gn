@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha mburuvicha Chelomo omondo ha ogueru ⟨את⟩ Chiram Tzor-gui.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "Tzor-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:44:08.580686703Z",
+  "model": "glm-5.3"
+}

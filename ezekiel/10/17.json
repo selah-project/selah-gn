@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Oĩ jave oĩ hikuái, ojupi jave ojupi ⟨את⟩ hikuái; tekove ruah oiko iñpytepýpe.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "oĩ jave"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "oĩ hikuái"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "ojupi jave"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "כי — koʼape ojehecha pe ojupíva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe rupi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iñpytepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:00:49.790332968Z",
+  "model": "glm-5.3"
+}

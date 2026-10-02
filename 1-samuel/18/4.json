@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Jehonatan oipeʼa ⟨את⟩ pe ao oĩva hese, ha omeʼẽ David-pe, ha iñaoʼakuéra, hiʼái peve, mbaʼu peve ha isaʼiju peve.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ao"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "pe ao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oĩva hese"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ha omeʼẽ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ha iñaoʼakuéra"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "hiʼái"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "mbaʼu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "isaʼiju"
+    }
+  ],
+  "timestamp": "2026-10-02T11:09:47.137922377Z",
+  "model": "glm-5.3"
+}

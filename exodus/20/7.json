@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ani ere′ Jahve, nde Elohim, téra nandípe; Jahve nomoñemeg̃uahãivoi pe oerekóvape ⟨את⟩ pe oiporúva ⟨את⟩ i téra nandípe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ere′"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nandípe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "nomoñemeg̃uahãivoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe oiporúva i téra nandípe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe oiporúva"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "oiporúva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i téra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "i téra"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nandípe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:28.847946664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Che ⟨aháchumi⟩ Jahve, ne Elohim, aguenʼẽkuri nde Mitsraim yvýgui, tembiguái rógagui.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ne Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "aguenʼẽkuri nde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "rógagui"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguaikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:49:06.004669310Z",
+  "model": "glm-5.3"
+}

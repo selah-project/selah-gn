@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ohecha ⟨את⟩ opaite ojapova'ekue, ha jeguáke: iporãeterei. Ha oiko ka'aru, ha oiko ko'ẽ, ára poteha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ha ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ojapova'ekue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapova'ekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha jeguáke"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ka'aru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "poteha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:52.487120138Z",
+  "model": "glm-5.3"
+}

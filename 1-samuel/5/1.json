@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha umi pelishtí ogueraha ⟨את⟩ Elohim mba'eryru, ha ogueru Eben guive ha-Ezer Asdod pe.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ha umi pelishtí"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mba'eryru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mba'eryru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Eben guive"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Asdod pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:57:42.866225519Z",
+  "model": "glm-5.3"
+}

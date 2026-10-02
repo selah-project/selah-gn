@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha ko'ág̃a, emondo ha embyaty cherehe ⟨את⟩ Jisrael opavave Karmel yvyty pe, ha ⟨את⟩ Baal nabi kuéra — irundy sa ha mbohapy pa po — ha Acherah nabi kuéra irundy sa, umi Izavel mesápekarã.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha ko'ág̃a"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "emondo"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "embyaty"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael opavave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Baal nabi kuéra"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi kuéra"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ha mbohapy pa po"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "ha ... nabi kuéra"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Acherah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "karãva"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesápekarã"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izavel"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:35.119443835Z",
+  "model": "glm-5.3"
+}

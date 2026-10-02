@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha pe tembiguái omoĩ ⟨את⟩ i po Avraham — i jára — yveka ruguýpe, ha oñeʼẽmeʼẽ chupe ko mbaʼe rehe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "pe tembiguái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i po"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i po"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yveka ruguýpe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yveka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "i jára"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "oñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T07:43:39.367555060Z",
+  "model": "glm-5.3"
+}

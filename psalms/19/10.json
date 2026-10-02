@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Jahve jerovia iñapekã, opyta opaʼỹ; Jahve hekojojaha kuéra añetegua, ijuijaʼẽpa opavague ojoajuhápe.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "jerovia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "iñapekã"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "opaʼỹ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hekojojaha kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ijuijaʼẽpa opavague"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojoajuhápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:08.822810171Z",
+  "model": "glm-5.3"
+}

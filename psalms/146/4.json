@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Osẽ hese ruah, ojevy hese iñyvy pehẽngue; upéva árape oñembyai opaite imoʼãha.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "hese iñyvy pehẽngue"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "upéva árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "opaite imoʼãha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:56.049389040Z",
+  "model": "glm-5.3"
+}

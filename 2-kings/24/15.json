@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha oho mongakuaa ⟨את⟩ Jehoiakhin Bavel-pe, ha ⟨את⟩ mburuvicha sy, ha ⟨את⟩ mburuvicha kuñanguéra, ha ⟨את⟩ imbaʼeapohahára kuñarogue rógagua, ha ⟨את⟩ yvy ipuʼakavévape — ogueraha mongakuaaháramo Jerusalaim-gui Bavel-pe.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "oho mongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoiakhin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehoiakhin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavel-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mburuvicha sy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mburuvicha kuñanguéra"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "kuñanguéra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imbaʼeapohahára"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "imbaʼeapohahára kuñarogue rógagua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "yvy ipuʼakavéva"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ipuʼakavéva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "mongakuaaháramo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusalaim-gui"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavel-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:25:50.944404164Z",
+  "model": "glm-5.3"
+}

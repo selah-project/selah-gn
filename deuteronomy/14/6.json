@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha opaite mymba oguerekóva ⟨את⟩ karapã ipýpe, ojejokóva mokõi vore, ha oguerujeyva hembiʼurã ijatýpe — umi mymba ojapekaru.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "oguerekóva… ojejokóva"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "karapã"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ojejokóva"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "vore"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "karapã"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "oguerujeyva"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ijatýpe hembiʼurã"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mymba apytépe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "umi mymba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ojapekaru"
+    }
+  ],
+  "timestamp": "2026-10-02T09:58:07.348992169Z",
+  "model": "glm-5.3"
+}

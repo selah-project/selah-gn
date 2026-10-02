@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Purahéi Jahve rayhupýpe, Tsiyon-pe oikóva; eñemomarandu tetãnguéra apytépe hembiapokuéra.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rayhupýpe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon-pe"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "eñemomarandu"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tetãnguéra apytépe"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hembiapokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:46.952302801Z",
+  "model": "glm-5.3"
+}

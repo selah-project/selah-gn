@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha ome'ẽ umi ojapóva apo poípe, umi oñemboja'óva Jahve óga rehe; ha umi apohára ojapóva Jahve óga ryepýpe ome'ẽ ⟨את⟩ chupe, ohechaségui ha omoĩjeypy hagua ⟨את⟩ óga.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "oñemboja'óva"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "umi apohára"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "umi apohára"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "ohechaségui hagua"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "omoĩjeypy hagua"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    }
+  ],
+  "timestamp": "2026-10-02T18:38:44.126257468Z",
+  "model": "glm-5.3"
+}

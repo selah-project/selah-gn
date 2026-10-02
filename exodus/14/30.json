@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha upéramo Jahve oñemoïrã ko ára Jisrael-re ⟨את⟩ Mitsraim po apegui, ha Jisrael ohecha ⟨את⟩ Mitsraim-kuéra omanova'ekue para rembe'ýpe.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "oñemoïrã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po apegui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim-kuéra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "omanova'ekue"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rembe'ýpe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:28.531697475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Upépe oñongatusékuri ⟨את⟩ Avraham ha ⟨את⟩ Sara, hembikatu; upépe oñongatusékuri ⟨את⟩ Jitshak ha ⟨את⟩ Rivka, hembikatu; ha upépe che añongatusékuri ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "oñongatusékuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembikatu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "oñongatusékuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembikatu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ha upépe"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "che añongatusékuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:46.573394572Z",
+  "model": "glm-5.3"
+}

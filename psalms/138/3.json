@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "Aenói árape, ne ñembohovái ou chéve; nemboguapy chéve pu'aka rehe che py'ape.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ára…-pe"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aenói jave"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ha nemonbohovái chéve"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "nemboguapy chéve"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "che py'ape"
+    },
+    {
+      "surface": "עז",
+      "gloss": "pu'aka rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:30.487362529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Eñamanduʼa umi mbaʼe iñapañuʼãva ojapo hague, iñandu kuéra ha iñhekojojaha ijurupegua.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Eñamanduʼa"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mbaʼe iñapañuʼãva kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo hague"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "iñandu kuéra"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ha iñhekojojaha kuéra"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ijurupegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:41.829396267Z",
+  "model": "glm-5.3"
+}

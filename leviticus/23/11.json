@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha omyandi ⟨את⟩ omer Jahve renondépe, ojehejapyrã haguã peẽme; Chabat rire ambue árape paʼi omyandi chupe.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "omyandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ojehejapyrã haguã peẽme"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "rire ambue árape"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "omyandi chupe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:39.873267517Z",
+  "model": "glm-5.3"
+}

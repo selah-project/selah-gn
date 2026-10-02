@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha erekóke vy'apavẽ Jahve rehe, ha ome'ẽta ndéve nde py'apota mba'erã.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "ha erekóke vy'apavẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha ome'ẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "mba'erã"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde py'apota"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:11.125908394Z",
+  "model": "glm-5.3"
+}

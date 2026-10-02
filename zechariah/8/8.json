@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 8:8",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha aguahẽta ⟨את⟩ chuguikuéra, ha oikóta Jerusalaim mbytépe; ha ojapóta cherehe avanoʼõ ramo, ha che aserã chuguikuéra Elohim ramo, taʼẽme ha tsedek rupi.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "ha aguahẽta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chuguikuéra",
+      "marks": "ojapóta hikuái Jerusalaim mbytépe"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha ojapóta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "avanoʼõ ramo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "aserã"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ramo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "taʼẽme"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "ha tsedek rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:16:36.798686845Z",
+  "model": "glm-5.3"
+}

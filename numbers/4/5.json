@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ou Aharon ha iñemoñarã, ojeguata jave pe kampamento, ha oguebo ⟨את⟩ pe manto pe tapi rehegua, ha ojahoʼi ichupe ⟨את⟩ pe arka jehechauka rehegua.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ha iñemoñarã"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ojeguata jave"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pe kampamento"
+    },
+    {
+      "surface": "והורידו",
+      "gloss": "oguebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe manto"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pe manto"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "pe tapi"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ojahoʼi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe arka jehechauka rehegua"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "pe arka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "jehechauka rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:48:20.776207264Z",
+  "model": "glm-5.3"
+}

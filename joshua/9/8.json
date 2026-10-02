@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha oñeʼẽ hikuái Jehochua rehe: Nde mbaʼapohára roĩ hikuái. Ha Jehochua oñeʼẽ chupekuéra: Mávapa peẽ, ha moõguipa peẽ ou?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha oñeʼẽ hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mbaʼapohára"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "roĩ hikuái"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oñeʼẽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "ha moõguipa"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "peẽ ou"
+    }
+  ],
+  "timestamp": "2026-10-02T18:53:29.505524625Z",
+  "model": "glm-5.3"
+}

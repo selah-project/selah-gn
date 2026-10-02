@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Heta ojerure che rehe: Ndaipóri chupe jeguerovia Elohim rupive. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ndaipóri"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "jeguerovia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim rupive"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:39.164681909Z",
+  "model": "glm-5.3"
+}

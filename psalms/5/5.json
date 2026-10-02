@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ngaʼu nde nahániri El ojaposéiva mbaʼe vai; maymáva ivaíva ndaikutuéi ndendive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngaʼu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ojaposéiva"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ndaikutuéi ndendive"
+    },
+    {
+      "surface": "רע",
+      "gloss": "maymáva ivaíva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:36.745681250Z",
+  "model": "glm-5.3"
+}

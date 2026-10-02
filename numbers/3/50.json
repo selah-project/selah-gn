@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "⟨את⟩-gui Jisrael mitãnguéra sukuyiguegua apytégui ohupyty ⟨את⟩ ⟨ה⟩ kuarepoti: poteĩsa mbohapypa po poha chekel — peteĩ su, mbohapysa, poteĩpa po poha — marangatu chekel-me.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-gui"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sukuyiguegua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po poha"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "poteĩpa"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mbohapysa"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "peteĩ su"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "chekel-me"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:47.363412760Z",
+  "model": "glm-5.3"
+}

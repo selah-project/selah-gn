@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha pa'i ojepyso ⟨את⟩ chupekuéra lechu mbokatuva rehe, tenufa ramo Jahve renondépe, mokõi kaura rehe; marangatu-tupãta Jahvégui g̃uarã pe pa'i.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra — umi kaura ha lechu mbokatuva"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechu"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "mbokatuva"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenufa ramo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kaura"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu-tupã"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvégui"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pa'i g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:48:44.273959453Z",
+  "model": "glm-5.3"
+}

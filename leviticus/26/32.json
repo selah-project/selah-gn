@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha che, che añónte, ambyaipa ⟨את⟩ yvy, ha peẽ ñorãirõhára kuéra — umi ipype oikóva — ovaimbáta hese.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ambyaipa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che, che añónte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ovaimbáta hese"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "peẽ ñorãirõhára kuéra"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "umi ipype oikóva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:26.289733468Z",
+  "model": "glm-5.3"
+}

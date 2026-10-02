@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ⟨את⟩ umi tyra — pe vakara mbaʼégui ha pe ovecha kuimbaʼe mbaʼégui: pe tagu tyra, pe oñembojaháva hyepýpe, umi raki kuéra, ha pe pehẽ pyʼa guasu ári oguahẽva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi tyra"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "umi tyra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mbaʼégui"
+    },
+    {
+      "surface": "השור",
+      "gloss": "pe vakara"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha mbaʼégui"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "pe ovecha kuimbaʼe"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "pe tagu tyra"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "pe oñembojaháva hyepýpe"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "umi raki kuéra"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "pe pehẽ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pyʼa guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:59.447426871Z",
+  "model": "glm-5.3"
+}

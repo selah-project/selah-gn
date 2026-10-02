@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha peénte ndereipotái ojupi hikuái, ha penoʼõ ⟨את⟩ Jahve penande Elohim juru rehe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha ndeʼẽ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "peénte ndereipotái"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ojupi haguã"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "penoʼõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve penande Elohim juru"
+    },
+    {
+      "surface": "פי",
+      "gloss": "juru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "penande Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T09:47:58.307535752Z",
+  "model": "glm-5.3"
+}

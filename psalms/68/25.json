@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Ohecha ⟨umikuéra⟩ ⟨את⟩ nde jeikutipa, Elohim, che El jeikutipa, che mburuvicha, marangatu réra iñypyképe.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "nde jeikutipa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "jeikutipa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "che mburuvicha"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu réra iñypyképe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:50.301685286Z",
+  "model": "glm-5.3"
+}

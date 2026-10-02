@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha ndéve, Jahve, ani reñemombyaty; che ipuʼaka, eg̃uahu pyaʼe che pytyvõpe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha ndéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "reñemombyaty"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "che ipuʼaka"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "che pytyvõpe"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "eg̃uahu pyaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:44.237391872Z",
+  "model": "glm-5.3"
+}

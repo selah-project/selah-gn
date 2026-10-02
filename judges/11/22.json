@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oykeko hikuái ⟨את⟩ opaite Amorí rembe'y, Arnon-gui Jabok peve, ha ka'aguýgui Jordan peve.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "oykeko hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Amorí rembe'y"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rembe'y"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorí"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "Arnon-gui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ka'aguýgui"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ka'aguy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    }
+  ],
+  "timestamp": "2026-10-02T10:45:15.090824693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Jahve omoî oky itape'ỹ ha tata Sodom ári ha Amora ári, ⟨את⟩ Jahve-gui, yvágagui.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ha Jahve"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "omoî oky"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha... ári"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "itape'ỹ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ha tata"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágagui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:39:16.876997985Z",
+  "model": "glm-5.3"
+}

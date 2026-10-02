@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Che roʼysã oiko che mbujape ramo ára ha pyhare pukukue, oúvo chéve opaite ára aja: Mbaʼépe oĩ ne Elohim?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "che roʼysã"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape ramo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ára pukukue"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "oúvo ñeʼẽme"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Mbaʼépe oĩ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ne Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:12.855889587Z",
+  "model": "glm-5.3"
+}

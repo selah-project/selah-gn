@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Akô umi marangatukuéra omomba'éta ne réra; umi jeiko jojáva oikóta ⟨את⟩ nde renondépe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Akô"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marangatukuéra"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "omomba'éta"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ne réra"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "jeiko jojáva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde renondépe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:18.260860026Z",
+  "model": "glm-5.3"
+}

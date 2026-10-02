@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Upéicha averako nde che rekove pukukue aja, nde rérape ajupi che po.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "averako nde"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "che rekove pukukue aja"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nde rérape"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ajupi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "che po"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:54.272436998Z",
+  "model": "glm-5.3"
+}

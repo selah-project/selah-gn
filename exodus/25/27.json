@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ojuehe pe jereha rehe oĩta umi apo'ã, takua ñemohenda rã, ojegueraha ⟨את⟩ pe mesa hag̃ua.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ojuehe"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "pe jereha"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "umi apo'ã"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ñemohenda rã"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "takua"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ojegueraha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pe mesa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:10.486980358Z",
+  "model": "glm-5.3"
+}

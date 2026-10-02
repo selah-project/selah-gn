@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve mensajero oñeʼẽ Eliahu rehe: Eguejy ⟨את⟩ hese, ani rekyhyje chugui. Ha ⟨Eliahu⟩ ojupi, oguejy ⟨את⟩ hese ⟨pe⟩ mburuvichápe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensajero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Eguejy"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "hese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "rekyhyje"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "hese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨pe⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T19:04:40.432117873Z",
+  "model": "glm-5.3"
+}

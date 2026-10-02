@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Ha haʼe ojeipeʼáta ⟨את⟩ Jisrael opaite iñangaipagui.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ha haʼe"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ojeipeʼáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite…gui"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "iñangaipa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:23.852932410Z",
+  "model": "glm-5.3"
+}

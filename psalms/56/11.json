@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Elohim rehe amombaʼeguasu ⟨i⟩ñeʼẽ; Jahve rehe amombaʼeguasu ⟨i⟩ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "amombaʼeguasu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "amombaʼeguasu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:29.788799510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde ñeʼẽmeʼẽ kuéra katu che vyʼa rehegua, che moirũ kuéra ñemanduʼãrã.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "katu"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "nde ñeʼẽmeʼẽ kuéra"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "che vyʼa rehegua"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "che moirũ kuéra"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ñemanduʼãrã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:24.005731050Z",
+  "model": "glm-5.3"
+}

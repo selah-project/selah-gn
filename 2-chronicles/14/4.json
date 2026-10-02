@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oipeʼu Juida táva kuéra opaite guive ⟨את⟩ umi yvate ñemongarai renda ha ⟨את⟩ umi kuarahy taʼanga; ha pe tetã rekuái oñepytyʼũ henondepe.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ha oipeʼu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite guive"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva kuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi yvate ñemongarai renda"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "yvate ñemongarai renda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi kuarahy taʼanga"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "kuarahy taʼanga"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "oñepytyʼũ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "pe tetã rekuái"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "henondepe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:34:46.184277144Z",
+  "model": "glm-5.3"
+}

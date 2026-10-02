@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha kóva pe jopa omeʼẽ Moche, Elohim yvypóra, ⟨את⟩ Jisrael raʼýpe, omanō mboyve.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "pe jopa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael raʼýpe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "omanō"
+    }
+  ],
+  "timestamp": "2026-10-02T10:12:39.715530859Z",
+  "model": "glm-5.3"
+}

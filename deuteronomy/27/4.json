@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha oikóta peẽ hasãvo rire ⟨את⟩ Yarden, peẽ emopepirũta ⟨את⟩ koʼã ita, che mboajéva ⟨את⟩ peẽme ko árape, Eival yvyty ári; ha embosakoʼita ⟨את⟩ ichupekuéra chyryrỹi reheve.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "peẽ hasãvo rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "emopepirũta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã ita"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ita"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che mboajéva"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mboajéva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽme"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty ári"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "embosakoʼita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ichupekuéra"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "chyryrỹi reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:42.675057979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Og rembeʼy, Bashan réi, Refaim apytégui opaʼỹva, oikóva Achtarotpe ha Edreʼipe.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "Ha rembeʼy"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "réi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "opaʼỹva"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "Achtarotpe"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "ha Edreʼipe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:25:39.141671019Z",
+  "model": "glm-5.3"
+}

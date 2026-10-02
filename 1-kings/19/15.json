@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Jahve heʼi chupe: Eho, ejevy ne rape rehe Damashek kaʼaguy gotyo; ha reg̃uahẽvo upépe, reñohẽta ⟨את⟩ Chazael ñandy hiʼári, mburuvicha ramo Aram yvýri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ne rape rehe"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "kaʼaguy gotyo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "reg̃uahẽvo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "reñohẽta ñandy hiʼári"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvicha ramo"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvýri"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:24.173683737Z",
+  "model": "glm-5.3"
+}

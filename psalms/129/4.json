@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Jahve ojapovaʼerã hekojoja; oipeʼa umi ñeʼẽryapu ikoʼẽvaʼekuáva.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ojapovaʼerã hekojoja"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "umi ñeʼẽryapu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ikoʼẽvaʼekuáva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:26.669038878Z",
+  "model": "glm-5.3"
+}

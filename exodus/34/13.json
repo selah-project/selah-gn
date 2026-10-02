@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Upeichépe, ⟨את⟩ i altar-kuéra peẽpeʼapáta, ⟨את⟩ ituʼichakuéra oñemohendahápe peẽjopipáta, ha ⟨את⟩ i Ashera-kuéra peẽkyʼipáta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upeichépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i altar-kuéra"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "i altar-kuéra"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "peẽpeʼapáta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ituʼichakuéra oñemohendahápe"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "ituʼichakuéra oñemohendahápe"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "peẽjopipáta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "i Ashera-kuéra"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "i Ashera-kuéra"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "peẽkyʼipáta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:23.426584726Z",
+  "model": "glm-5.3"
+}

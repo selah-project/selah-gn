@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Che katu, Jahve, nde rehe che añemoĩ; aha'ã: Elohim, nde che Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "che añemoĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aha'ã"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim, nde che Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:37.784406494Z",
+  "model": "glm-5.3"
+}

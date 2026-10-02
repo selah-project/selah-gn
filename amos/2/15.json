@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha pe ogueraháva ⟨pe⟩ igua ndoĩri, ha pe pyaʼetéva ipýpe nosãsoi, ha pe okavajúva nosãsoi itekove.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "ha ogueraháva"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "igua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…i"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ndoĩri"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "ha pyaʼetéva"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ipýpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…i"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "nosãsoi"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ha okavajúva"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…i"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "nosãsoi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "itekove"
+    }
+  ],
+  "timestamp": "2026-10-02T14:53:44.423259058Z",
+  "model": "glm-5.3"
+}

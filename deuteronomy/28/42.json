@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Nde yvyra opaite ha ne yvy rekove rehegua huʼã ojapyse chelachel.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "nde yvyra"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ha huʼã"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ne yvy rekove rehegua"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ojapyse"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "chelachel"
+    }
+  ],
+  "timestamp": "2026-10-02T18:51:13.750026538Z",
+  "model": "glm-5.3"
+}

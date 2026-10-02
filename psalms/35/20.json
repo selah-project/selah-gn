@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha katu py'aguapy ñe'ẽ ndojapói hikuái; yvýpe py'aguapýpe oguerekóvakuéra rehe hikuái omoha'ãnga ñe'ẽ yguaita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha katu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo... -i"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "py'aguapy"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ojapo ñe'ẽ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "py'aguapýpe oguerekóva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "yguaita"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "omoha'ãnga"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:07.329455089Z",
+  "model": "glm-5.3"
+}

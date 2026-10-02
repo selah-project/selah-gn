@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Tembiguái ʼopotápe, Jehochafat ojapo ⟨את⟩ iñakã Jahve rekoharãrã; ohechauka jeʼurã Jehovái opaite Jehuda apytuépe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Tembiguái ʼopotápe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehochafat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "rekoharãrã"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohechauka jeʼurã"
+    },
+    {
+      "surface": "צום",
+      "gloss": "jeʼurã"
+    },
+    {
+      "surface": "על",
+      "gloss": "Jehovái"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda apytuépe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:29:11.819395372Z",
+  "model": "glm-5.3"
+}

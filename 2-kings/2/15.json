@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 2:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha ohecha chupe umi nabi memby oĩva Jerijópe, amo vove, ha heʼi: Eliahu ruah oñemona Elisa ári. Ha ou hendápe ha oñemombaʼe chupe yvypeve.",
+  "tokens": [
+    {
+      "surface": "ויראהו",
+      "gloss": "ohecha chupe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "ביריחו",
+      "gloss": "Jerijópe"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "amo vove"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "oñemona"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ári"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oñemombaʼe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvypeve"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:39.802945223Z",
+  "model": "glm-5.3"
+}

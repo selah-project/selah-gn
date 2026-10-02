@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha upéi avei umíva árape, heʼi Jahve, na ajapomoʼãi ⟨את⟩ peẽme peteĩ ñembyaipa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ha upéi avei"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "umíva árape"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "upe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapomoʼãi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽme",
+      "marks": "peẽme"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "peteĩ ñembyaipa"
+    }
+  ],
+  "timestamp": "2026-10-02T13:14:17.208137691Z",
+  "model": "glm-5.3"
+}

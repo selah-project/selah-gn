@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve he'i Moiche-pe: «Parao nohendumo'ãi peẽme, ikatu hag̃ua che mba'e jahyvovaita hetave ⟨את⟩ Mitsraim yvýpe».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moiche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohendumo'ãi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃ua"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "hetave"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "che mba'e jahyvovaita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:33.480039670Z",
+  "model": "glm-5.3"
+}

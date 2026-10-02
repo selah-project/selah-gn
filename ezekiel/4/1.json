@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha nde, yvypóra raʼy, egueru nde réirã peteĩ ita kuʼi, ha emoĩ ⟨את⟩ upéva nde renondépe, ha ehai hese peteĩ táva — ⟨את⟩ Jerusalaim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "קח",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde réirã"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ita kuʼi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "upéva (nde renondépe)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ha ehai"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T13:59:11.787161675Z",
+  "model": "glm-5.3"
+}

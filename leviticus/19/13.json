@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani reimo hikuái ⟨את⟩ ne irũnguéra, ani emonda; ani erejoko pytuʼu pe ombaʼapóva jepepýre mbaʼe upéichape koʼẽ meve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "reimo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne irũnguéra"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ne irũnguéra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "emonda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "erejoko pytuʼu"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mbaʼe ombaʼapóva"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "jepepýre"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:21.942743428Z",
+  "model": "glm-5.3"
+}

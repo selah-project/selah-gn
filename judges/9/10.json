@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha umi yvyrakuéra he'i pe iguera'y: Eju, ejeko mburuvicha ramo ore ári.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha … he'i"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "umi yvyrakuéra"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "pe iguera'y"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "eju"
+    },
+    {
+      "surface": "את",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ejeko mburuvicha ramo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore ári"
+    }
+  ],
+  "timestamp": "2026-10-02T10:41:42.384244524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 128,
+  "translation": "Rembaʼapokue rembeʼýgui rekarusemba, ha upéicharupi vyʼapavẽ nderehe ha iporãta ndéve g̃uarã.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "rembaʼapokue"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "rembeʼýgui"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "rekarusemba"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "vyʼapavẽ nderehe"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "iporãta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:18.749099894Z",
+  "model": "glm-5.3"
+}

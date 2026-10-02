@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha Paroh heʼi Josef-pe: Elohim omboikuaa rire ⟨את⟩ ⟨אותך⟩ ⟨את⟩ koʼã mbaʼe mayma, ndaipóri pyʼaguapy ha arandu ndeicha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "omboikuaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã mbaʼe mayma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mayma"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼã mbaʼe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ha arandu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ndeicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:54.133514298Z",
+  "model": "glm-5.3"
+}

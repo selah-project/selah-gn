@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 141,
+  "translation": "Ha che resẽ oĩ nde rejára, Jahve, Adonai; nde che aipymongeta; ani reisaʼy ⟨e⟩ che tekove.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resẽ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "che aipymongeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תער",
+      "gloss": "reisaʼy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che tekove"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:51.661914247Z",
+  "model": "glm-5.3"
+}

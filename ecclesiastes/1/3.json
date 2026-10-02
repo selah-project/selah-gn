@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Mbaʼépa iporãve yvypórape g̃uarã ipoʼapañuãi ojapóvagui, kuja guýpe ojapóva?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "yvypórape g̃uarã"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ojapóvagui (opaite)"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ipoʼapañuãi"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuja"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:58.146134588Z",
+  "model": "glm-5.3"
+}

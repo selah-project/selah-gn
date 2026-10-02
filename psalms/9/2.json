@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ahechakatúta Jahve che korasõ oĩmbápe; amombeʼúta opaite nde mbaʼe iñakãnanduʼỹva.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ahechakatúta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "che korasõ oĩmbápe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "amombeʼúta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "nde mbaʼe iñakãnanduʼỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:25.181012625Z",
+  "model": "glm-5.3"
+}

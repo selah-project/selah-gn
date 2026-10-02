@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Uziahu mburuvicha omano ary aja, ahecha ⟨את⟩ Adonai oguapy peteĩ apysã yvate ha ojekacháiva rehe, ha iñao mbyte omyanyhẽ ⟨את⟩ heikal.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ary aja"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziahu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oguapy"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "apysã"
+    },
+    {
+      "surface": "רם",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ojekacháiva"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "iñao mbyte"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "omyanyhẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heikal"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikal"
+    }
+  ],
+  "timestamp": "2026-10-02T12:30:40.252497646Z",
+  "model": "glm-5.3"
+}

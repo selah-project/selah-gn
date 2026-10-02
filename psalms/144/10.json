@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Haʼe omeʼẽ ñemonguera mburuvichakuérape, ha oipeʼa ⟨את⟩ David, imbaʼapohára, pe mboka vaígui.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ñemonguera"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "mburuvichakuérape"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "imbaʼapohára"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "pe mboka gui"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:53.205086698Z",
+  "model": "glm-5.3"
+}

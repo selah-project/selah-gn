@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Azariahu oke ňandevévo itúva kuéra ndive, ha oñeñotỹ itúva kuéra ndive David távape; ha Yotam, itaʼyra, isãmbyhy hovái rupi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "oke ňandevévo"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azariahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúva kuéra"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "oñeñotỹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "haʼe (Azariahu)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúva kuéra"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼyra"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hovái rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:42.357683535Z",
+  "model": "glm-5.3"
+}

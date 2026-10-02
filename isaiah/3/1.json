@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Che renondépe, haʼe Adonai, Jahve Tsevaot, oipeʼóta Jerusalaim-gui ha Jehudá-gui tapiaguasúpe jepeve, opaite tapiaguasu mbujape g̃uarã ha opaite tapiaguasu y g̃uarã.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Che renondépe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "oipeʼóta"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusalaim-gui"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "ha Jehudá-gui"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tapiaguasu"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "jepeve tapiaguasu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tapiaguasu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape g̃uarã"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tapiaguasu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T12:26:15.226749742Z",
+  "model": "glm-5.3"
+}

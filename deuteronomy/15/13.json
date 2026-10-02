@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha eheja ramo chupe sãso nde rendégui, ani reheja chupe nandi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ha…ramo"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "eheja chupe"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "sãso"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "nde rendégui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "reheja chupe"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nandi"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:14.335918348Z",
+  "model": "glm-5.3"
+}

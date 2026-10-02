@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨את⟩ peẽ Jahve ogueraha vaʼekue, ha oguehe ⟨את⟩ peẽ kuarepoti tataguasúgui — Mitsraimgui — orekó hag̃ua chuguipe tavakuéra raʼãyháramo, koʼág̃a guáicha.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ogueraha vaʼekue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "oguehe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "tataguasúgui"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimgui"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "orekó hag̃ua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chuguipe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tavakuéra ramo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "raʼãyháramo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "koʼág̃a ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "guáicha"
+    }
+  ],
+  "timestamp": "2026-10-02T09:51:04.737841775Z",
+  "model": "glm-5.3"
+}

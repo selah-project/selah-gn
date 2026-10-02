@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 100,
+  "translation": "Purahéi toa rehegua: Ehenyhẽ Jahve rérape, opaite yvy.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "toa rehegua"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ehenyhẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rérape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:25.743120907Z",
+  "model": "glm-5.3"
+}

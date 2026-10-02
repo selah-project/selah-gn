@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Eipurahéi Elohim rehe, eñembokuatia héra rehe, emoĩ yvate pe oikundaháva yvy okahápe — Ja-pe ⟨haʼe⟩ héra — ha embovyʼaite iñakã renondépe.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "eipurahéi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "eñembokuatia"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra rehe"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "emoĩ yvate"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "pe oikundaháva"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "yvy okahápe"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Ja-pe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "ha embovyʼaite"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñakã renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:50.776234131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Pe omohendáva yvy y rupi ári, hesed ijeiko opaite ára.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Pe omohendáva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y rupi"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed ijeiko"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:14.149070625Z",
+  "model": "glm-5.3"
+}

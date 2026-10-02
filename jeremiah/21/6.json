@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha che ambojoʼa ⟨את⟩ ko táva rekoha kuéra, ⟨את⟩ yvypóra kuéra ha ⟨את⟩ mymba kuéra: mbaʼasy guasýpe omanóta.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "che ambojoʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko táva rekoha kuéra"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "rekoha kuéra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ko táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko pegua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra kuéra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mymba kuéra"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mymba kuéra"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mbaʼasy guasýpe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "omanóta"
+    }
+  ],
+  "timestamp": "2026-10-02T13:26:25.437011133Z",
+  "model": "glm-5.3"
+}

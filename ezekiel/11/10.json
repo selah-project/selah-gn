@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Mbaʼe pukúpe peẽ karẽhóta; Jisrael rembeʼý rehe ambojapóta ⟨את⟩ peẽ hekojojaha, ha upéicha peẽ kuaáta che Jahve haʼeha.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "mbaʼe pukúpe"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "peẽ karẽhóta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rembeʼý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ambojapóta hekojojaha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ha peẽ kuaáta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che... haʼeha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T14:00:40.190810895Z",
+  "model": "glm-5.3"
+}

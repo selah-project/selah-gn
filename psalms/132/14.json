@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Kóva che pytuʼu renda opaite ára peve; ápe aiko, upévare aipota chupe.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "che pytuʼu renda"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ápe"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "aipota chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:15.861911833Z",
+  "model": "glm-5.3"
+}

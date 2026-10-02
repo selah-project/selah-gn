@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Ikatu oporãvo kuña pyʼa hasývape, ha omboja oñembyasy hikuái.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Ikatu oporãvo"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "hasývape kuña pyʼa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ha omboja"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "oñembyasy hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:52.710393182Z",
+  "model": "glm-5.3"
+}

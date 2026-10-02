@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Jopói ñepyrũrãguáramo peẽ ogueru ⟨את⟩ umíva Jahve-pe; ha katu ani o'ẽ pe mizbeaj ári rei ha'ẽ'ỹ hag̃ua.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "Jopói"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ñepyrũrãgua"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "peẽ ogueru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umíva (Jahve-pe guarã)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha...pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "o'ẽ"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ha'ẽ'ỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T18:47:03.049917991Z",
+  "model": "glm-5.3"
+}

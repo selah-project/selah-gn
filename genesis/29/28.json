@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha Jaakov ojapo upéicha, ha omohuʼã ko arapokõi; ha omeʼẽ chupe ⟨את⟩ Rajel, itaʼýra, chupe hembirekorã.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "omohuʼã"
+    },
+    {
+      "surface": "שבוע",
+      "gloss": "arapokõi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rajel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "hembirekorã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:48:39.366678445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha umi vaka soʼo michĩva ha ivaíva hoʼu hikuái ⟨את⟩ ⟨pe⟩ pokõi vaka ñepyrũguáva, soʼo hetáva.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Ha … hoʼu hikuái"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "soʼo michĩva"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "ha ivaíva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokõi vaka ñepyrũguáva, soʼo hetáva"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "ñepyrũguáva"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "soʼo hetáva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:58:55.642220740Z",
+  "model": "glm-5.3"
+}

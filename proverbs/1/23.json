@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Pejevy che ñembopotĩrãme; maʼe, amboasãi penderehe che ruah, aikuaaukáta che ñeʼẽnguéra ⟨את⟩ penderehe.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "pejevy"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "che ñembopotĩrãme"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "maʼe"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "amboasãi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "penderehe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "aikuaaukáta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "che ñeʼẽnguéra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "penderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:45.442994497Z",
+  "model": "glm-5.3"
+}

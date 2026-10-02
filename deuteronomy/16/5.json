@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ndaikatúi rejuka ⟨את⟩ Pésach peteĩva nde okẽnguéra apytépe, umíva Jahve nde Elohim omeʼẽ ndéve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "rejuka"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "rejuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "peteĩva"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "nde okẽnguéra apytépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:49.503615840Z",
+  "model": "glm-5.3"
+}

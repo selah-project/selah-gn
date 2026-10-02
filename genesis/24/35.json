@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Jahve omborayhu ⟨את⟩ che jára hetaite, ha ha'e tuichave; ha ome'ẽ chupe ovecha ha vaka, kuarepoti ha kuarepoti ju, kuimba'e tembiguái ha kuña tembiguái, kamera ha kavaju.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ha Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "omborayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jára"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ha tuichave"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha ome'ẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ha vaka"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kuarepoti ju"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "kuimba'e tembiguái"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "kuña tembiguái"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "kamera"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "kavaju"
+    }
+  ],
+  "timestamp": "2026-10-02T07:44:42.855512664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ani reipeʼa ne sy pehẽngue kuña isoʼõ; haʼe ne sy roʼo ⟨hikuái⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "isoʼõ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "pehẽngue kuña"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ne sy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "roʼo"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ne sy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:55:41.268558998Z",
+  "model": "glm-5.3"
+}

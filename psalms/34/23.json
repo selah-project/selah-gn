@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jahve omoñepyrũ jevy ⟨את⟩ tekove imbaʼapohára kuérape, ha opaite umi ichupe oikéva ndojavýi.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "omoñepyrũ jevy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imbaʼapohára kuéra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "javýi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "umi ichupe oikéva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ichupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:43.883786412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Irundykejoja ⟨is⟩ oguerekóta, jopypyre; peteĩ zeret ipukukue, ha peteĩ zeret ipekue.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Irundykejoja"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oguerekóta"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "jopypyre"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "zeret"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ha peteĩ zeret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipekue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:30.951592845Z",
+  "model": "glm-5.3"
+}

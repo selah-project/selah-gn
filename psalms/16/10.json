@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Nderehejamoʼãi che rekove Cheol-pe, ani emeʼẽ nde marangatuva ohecha hag̃ua ñembyai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nde...ʼãi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "reheja"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Cheol-pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "nde marangatuva"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ohecha hag̃ua"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ñembyai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:54.116090987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Léi reheháicha, mbaʼépa jajapóta Vachti kuñakarai guasu rehe, nojapóirõ gueteri ⟨את⟩ mbaʼeʼẽ Ajashveroch mburuvicha guasu mboʼepy, sarisakuéra rupive?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "léi reheháicha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "jajapóta"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "kuñakarai guasu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vachti"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rõ gueteri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n–"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ojapói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼeʼẽ"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "mbaʼeʼẽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu ⟨pe⟩"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashveroch"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarisakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:30:05.836502382Z",
+  "model": "glm-5.3"
+}

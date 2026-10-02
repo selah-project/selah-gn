@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ohupi ⟨את⟩ Jahve arón, ⟨את⟩ Moed ñembyaty oga ha ⟨את⟩ opaite marangatu mbaʼekuéra ogaitépe oĩva; paʼikuéra ha Levikuéra ohupi ⟨את⟩ umíva.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve arón"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Moed ñembyaty oga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "oga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed ñembyaty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼekuéra"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ogaitépe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ umíva"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Levikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:26.635246508Z",
+  "model": "glm-5.3"
+}

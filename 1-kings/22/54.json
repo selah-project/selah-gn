@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha omombaʼe ⟨את⟩ Baal ha oñemboʼe chupe, ha omboʼañãi ⟨את⟩ Jahve-pe, Jisrael Elohim-pe, ojapovaʼekue itúvaichapa opa mbaʼe.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "omombaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "oñemboʼe chupe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "omboʼañãi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opa mbaʼe icha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T11:59:27.576557255Z",
+  "model": "glm-5.3"
+}

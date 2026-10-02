@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Emoĩ ichugua, Elohim; toity iñakãrongatuégui, hetaiterei hikuái jeikovai rehe, egueraha mombyry chupekuéra, ha oporoñembojavy hikuái nde rehe.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "emoĩ ichugua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "toity"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "iñakãrongatuégui"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "jeikovai rehe"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "egueraha mombyry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "oporoñembojavy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:11.495519415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Jehotsadak oho sevoiape, Jahve omondo ⟨את⟩ Jihuda ha Jerusalaim amo Nevukadnetsar pópe.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Ha Jehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "sevoiape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jihuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ha Jerusalaim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar"
+    }
+  ],
+  "timestamp": "2026-10-02T18:01:38.086455159Z",
+  "model": "glm-5.3"
+}

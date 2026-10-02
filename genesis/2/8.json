@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Upéicha Jahve Elohim oñotỹ peteĩ ñotyha Eden-pe, kuarahy resẽ gotyo, ha omoĩ upépe ⟨את⟩ yvypóra pe oha'ãngáva'ekue.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "oñotỹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ñotyha"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Eden-pe"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "oha'ãngáva'ekue"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:39.239675217Z",
+  "model": "glm-5.3"
+}

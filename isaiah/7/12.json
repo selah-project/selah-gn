@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Ajas heʼi: Ndaejeruremoʼãi, ha ndaamohaʼãmoʼãi ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Ajas heʼi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…moʼãi"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ejerure"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda…moʼãi"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "amohaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T19:06:14.619486510Z",
+  "model": "glm-5.3"
+}

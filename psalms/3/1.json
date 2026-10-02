@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Psalmo David mbaʼéva, oñemonda aja Avshalom — iñaŷ — resape.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼéva"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "oñemonda aja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "resape"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iñaŷ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:39.164360822Z",
+  "model": "glm-5.3"
+}

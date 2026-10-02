@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Nde tsedek-pe emonañõ cherehe ha eipeʼa cheve; embovy nde apysa cherehe ha eipysyrõ cherehe.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Nde tsedek-pe"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "emonañõ cherehe"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "eipeʼa cheve"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "embovy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nde apysa"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "eipysyrõ cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:09.195152163Z",
+  "model": "glm-5.3"
+}

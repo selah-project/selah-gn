@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha mbói he'i kuñápe: Nahániri, peikamo'ãsápa peimano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha mbói he'i"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mbói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nahániri"
+    },
+    {
+      "surface": "מות",
+      "gloss": "peimano"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "peikamo'ãsápa peimano"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:29.817074076Z",
+  "model": "glm-5.3"
+}

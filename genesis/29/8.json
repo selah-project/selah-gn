@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha heʼi hikuái: Ndaikatúi; opaite ovecha aty oñembyaty peve, ha ojerereka rire ⟨את⟩ ⟨pe⟩ ita ykuʼa jurúgui, upéi ñameʼe ý ovechakuérape.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha heʼi hikuái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ndaikatúi"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "ovecha aty"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "ojerereka rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ita"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "pe ita"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "פי",
+      "gloss": "jurúgui"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ykuʼa"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "ñameʼe ý"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ovechakuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T07:48:11.713783900Z",
+  "model": "glm-5.3"
+}

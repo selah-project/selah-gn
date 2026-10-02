@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Omongakuaa opaite kokuē mymba kuéra; kavaju kaʼaguy kuéra oju hikuái hiʼare.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mymba kuéra"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kokuē"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "oju"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "kavaju kaʼaguy kuéra"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "hiʼare"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:55.327353441Z",
+  "model": "glm-5.3"
+}

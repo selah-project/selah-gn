@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Py ojepysónte hese — umi oĩva'ẽva py, umi imboriahúva jeipoha.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ojepysónte hese"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "py"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "py"
+    },
+    {
+      "surface": "עני",
+      "gloss": "oĩva'ẽva"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "jeipoha"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "imboriahúva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:39:21.488957579Z",
+  "model": "glm-5.3"
+}

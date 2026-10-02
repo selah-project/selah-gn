@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Ara pukukue rehe ahenoʼi chupe ha ahechauka chupe che jeipeʼaha.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ahenoʼi chupe"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ha ahechauka chupe"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "che jeipeʼaha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:29.397319943Z",
+  "model": "glm-5.3"
+}

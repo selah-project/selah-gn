@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Elohim, nde resẽ rire nde retã ypykuéra renondépe, nde rejeguata aja yvyguasu nandi yvype — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nde resẽ rire"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retã ypykuéra"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "nde rejeguata aja"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "yvyguasu nandi yvype"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:50.776778728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve oñeʼẽ Moche ha Aharon rehe, heʼívo chupekuéra:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha …rehe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:30.961056246Z",
+  "model": "glm-5.3"
+}

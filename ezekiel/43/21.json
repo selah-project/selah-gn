@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha upéi rejuhu ⟨את⟩ ⟨pe⟩ vakara jovaírã, ha oñembosykóta pe óga ojeiporavópe, okápe ⟨pe⟩ michkan gui.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "rejuhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vakara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pe vakara"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jovaírã"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "oñembosyko"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "ojeiporavópe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "okápe"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "michkan gui"
+    }
+  ],
+  "timestamp": "2026-10-02T14:40:12.760344826Z",
+  "model": "glm-5.3"
+}

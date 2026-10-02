@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Mahalalel oiko po pa poteÿ ary, ha omemby ⟨את⟩ Jared.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "pa poteÿ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jared"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jared"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:55.999893987Z",
+  "model": "glm-5.3"
+}

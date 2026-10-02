@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha oky yvy ári mbohapipa ára ha mbohapipa pyhare.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oky \/ oiko"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "oky"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mbohapipa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ha mbohapipa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:18.489902447Z",
+  "model": "glm-5.3"
+}

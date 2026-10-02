@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Ezra opuʼã ha ombojerure ñeʼẽmeʼẽ ⟨את⟩ paʼiruvichakuéra, Levitakuéra ha Jisrael opavavépe, ojapo hag̃ua ko ñeʼẽ heʼívaicha; ha umi ojerure ñeʼẽmeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ombojerure ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paʼiruvichakuéra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼiruvichakuéra paʼikuéra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitakuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavavépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ko ñeʼẽ heʼívaicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ojerure ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T17:47:55.476685231Z",
+  "model": "glm-5.3"
+}

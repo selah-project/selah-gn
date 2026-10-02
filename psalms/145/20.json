@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Jahve oñangareko ⟨את⟩ opaite iñrayhuháre, ha ⟨את⟩ opaite umi ivaietáva ombotýta.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite iñrayhuháre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "iñrayhuháre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ivaietáva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "umi ivaietáva"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ombotýta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:49.151287623Z",
+  "model": "glm-5.3"
+}

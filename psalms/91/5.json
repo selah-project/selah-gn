@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Nde nderejujetámoʼãi pyhare mbaʼetĩ guasúgui, cheva oveve ára javegua rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda...moʼãi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nde rejujeta"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "mbaʼetĩ guasúgui"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "cheva rehe"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "oveve"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ára javegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:30.465449950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha emoĩta ⟨את⟩ chupekuéra peteĩ kyse ári, ha eguerúta chupekuéra kyse ryepýpe, ha ⟨את⟩ vakara ha ⟨את⟩ umi mokõi carnero.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ha emoĩta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "ha eguerúta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "kyse ryepýpe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "vakara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "vakara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi mokõi carnero"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "umi carnero"
+    }
+  ],
+  "timestamp": "2026-10-02T08:32:09.582072110Z",
+  "model": "glm-5.3"
+}

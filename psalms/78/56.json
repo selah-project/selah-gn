@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha oñehaʼã hikuái ha omboyke ⟨את⟩ Elohim Ijyvatevéva, ha iñeʼẽmeʼẽ tee ndojapoporãi hikuái.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "oñehaʼã hikuái"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "omboyke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Ijyvatevéva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ijyvatevéva"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ha iñeʼẽmeʼẽ tee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "japoporãi hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:25.434205399Z",
+  "model": "glm-5.3"
+}

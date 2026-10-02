@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ejapo mbarete ha ejapo pyʼaguasu, ndéva taʼãhára ⟨את⟩ ko avakuéra rehe ⟨את⟩ ko yvy, cherory hague che añeʼẽmeʼẽ haguépe ituakuéra, ameʼẽ hag̃ua chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "ejapo mbarete"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ejapo pyʼaguasu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndéva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "taʼãhára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko avakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ko avakuéra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cherory hague"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "che añeʼẽmeʼẽ haguépe"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ituakuéra"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ameʼẽ hag̃ua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:19:15.418832304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Che korasõ ojepytuʼo ñeʼẽ porãre, ahaʼã che apopy mburuvichape; che arakuaa haʼe ⟨haʼe⟩ kuatiaʼái haihara ipyaʼéva.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ojepytuʼo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ahaʼã"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "che apopy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichape"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "che arakuaa"
+    },
+    {
+      "surface": "עט",
+      "gloss": "kuatiaʼái"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "haihara"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "ipyaʼéva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:18.184803262Z",
+  "model": "glm-5.3"
+}

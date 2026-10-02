@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Umi voguatyre jeitysy rehe, umi okenondóva ñeʼẽasýi rehe, koʼág̃a aipesãimbo, heʼi Jahve; amoĩta chupe tekasõme, ohenyhẽsetévape g̃uarã.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "jeitysy"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "umi voguatyre"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ñeʼẽasýi"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "umi okenondóva"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "aipesãimbo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "amoĩta"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "tekasõme"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ohenyhẽsetévape"
+    },
+    {
+      "surface": "לו",
+      "gloss": "guarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:24.765973998Z",
+  "model": "glm-5.3"
+}

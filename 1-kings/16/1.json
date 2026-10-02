@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha upéi, Jahve ñeʼẽ ou Jehu ári, Janani raʼýpe, Baasha rehe, oheʼa haguã.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Janani"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oheʼa haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:55:03.953929302Z",
+  "model": "glm-5.3"
+}

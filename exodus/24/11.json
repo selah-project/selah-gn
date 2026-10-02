@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Jisrael membykuéra iñambai'úvare, noñemondói ipo; ha ohecha ⟨את⟩ Elohim, ha okaru ha ogu'u.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "vare"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "iñambai'úva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "noñemondói"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ogu'u"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:21.620920280Z",
+  "model": "glm-5.3"
+}

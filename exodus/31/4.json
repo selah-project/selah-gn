@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "oñembosakoʼi hag̃ua apopyrã kuarepoti júpe, kuarepoti morotĩme ha itakuarepotíme japo hag̃ua.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "oñembosakoʼi hag̃ua"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "apopyrã"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "japo hag̃ua"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "kuarepoti júpe"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "kuarepoti morotĩme"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "itakuarepotíme"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:35.749879575Z",
+  "model": "glm-5.3"
+}

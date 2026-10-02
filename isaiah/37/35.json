@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha añañangarekóta ko táva rehe, ahovaségui hag̃ua chupe, che rehegua ha che tembiguái David rehegua.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "Ha añañangarekóta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "ahovaségui hag̃ua chupe"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "che rehegua"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ha … rehegua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che tembiguái"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:31.300404480Z",
+  "model": "glm-5.3"
+}

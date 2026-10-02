@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jahvepe oĩ ⟨את⟩ jeipytahã; ne jopói oĩ ne retãmimbiáre ári. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvepe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "jeipytahã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne retãmimbiáre"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ne jopói"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:39.708473046Z",
+  "model": "glm-5.3"
+}

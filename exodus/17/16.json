@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha heʼi: poyvi — po Ja kes ári oĩ hag̃ua, ñorãirõ Jahve Amalek rehe, ñemoñare guive ñemoñare meve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poyvi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כס",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "Amalek rehe"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "ñemoñare guive"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ñemoñare meve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:04.542460689Z",
+  "model": "glm-5.3"
+}

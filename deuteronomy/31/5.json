@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Jahve ome'ẽta chupekuéra peẽ muñãme, ha peẽ ajapóta chupekuéra opaite mba'e joajúpe — che ahenói haguéicha ⟨את⟩ peẽme.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ome'ẽta chupekuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "peẽ muñãme"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ha peẽ ajapóta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite ... hagueicha"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "mba'e joajúpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haguéicha"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "che ahenói"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T10:14:50.126120692Z",
+  "model": "glm-5.3"
+}

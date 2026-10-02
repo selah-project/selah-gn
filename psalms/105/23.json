@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Ha Jisrael ou Mitsraim-pe, ha Jaakov oiko oikóra ramo Cham yvýpe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ha Jaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "oiko oikóra ramo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:37.563415256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Oheja mymbakuéra hikuái chyryryípe, ha vakuakuéra hikuái tatatimbópe.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Oheja"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "chyryryípe"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "mymbakuéra hikuái"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "ha vakuakuéra hikuái"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "tatatimbópe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:00.729136995Z",
+  "model": "glm-5.3"
+}

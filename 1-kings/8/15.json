@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha heʼi: Marangatu Jahve, Elohim Jisrael-gua, oñeʼẽhague ⟨את⟩ David che ru rehe iñurũpýpe, ha ipópe ojapouka ojapóvaʼerã heʼívo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim Jisrael-gua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽhague"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iñurũpýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David che ru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ha ipópe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ojapouka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:47:14.616916017Z",
+  "model": "glm-5.3"
+}

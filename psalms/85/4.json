@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Rembyaty opaite ne ñyrõ, ejevy jey ne ñyrõ aku mbytégui.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "rembyaty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ne ñyrõ"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "ejevy jey"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ne ñyrõ"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:27.808877039Z",
+  "model": "glm-5.3"
+}

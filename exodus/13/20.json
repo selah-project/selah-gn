@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha osẽvoi Sukot-gui, ha oñemuña Etam-pe, kaʼaguy rembeʼýpe.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ha osẽvoi"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukot-gui"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "oñemuña"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etam-pe"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "rembeʼýpe"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kaʼaguy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:18:46.102534420Z",
+  "model": "glm-5.3"
+}

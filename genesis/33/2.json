@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Omoĩ ⟨את⟩ umi tembiguái kuña ha ⟨את⟩ imitãnguéra tenondeve, ⟨את⟩ Lea ha ⟨את⟩ imitãnguéra uperire, ⟨את⟩ Raél ha ⟨את⟩ Josef pahápe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tembiguái kuña"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "umi tembiguái kuña"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imitãnguéra"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "imitãnguéra"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "tenondeve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ha imitãnguéra"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "uperire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Rael"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "pahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:41.298060428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 28:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha pe mbojoajuha oguerekóva hese, efod mbojeguaháha, ijapopy ojueheguáva, chugui voi ojapótava: kuarepoti, tekelet, argaman, tolaat chani ha chesh mochzar.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "mbojoajuha"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "efod mbojeguaháha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oguerekóva"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "ijapopy ojueheguáva"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui voi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ojapótava"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ha argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ha tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "chani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha chesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mochzar"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:17.439829691Z",
+  "model": "glm-5.3"
+}

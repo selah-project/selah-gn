@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha mburuvicha Koresh ogueraha ⟨את⟩ umi mba'e'yapu Jahve óga mba'e — umíva Nevukadnetsar ogueraha va'ekue Jerusalaim-gui ha omohẽ va'ekue iñElohim rógape.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mba'e'yapu Jahve óga mba'e"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mba'e'yapu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ogueraha va'ekue"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusalaim-gui"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "omohẽ va'ekue"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "rógape"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iñElohim"
+    }
+  ],
+  "timestamp": "2026-10-02T17:43:42.727918684Z",
+  "model": "glm-5.3"
+}

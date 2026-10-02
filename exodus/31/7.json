@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "⟨את⟩ Ohel Moed, ha ⟨את⟩ aron ñeʼẽmeʼẽrã, ha ⟨את⟩ kaporet oĩva hese, ha ⟨את⟩ opaite Ohel mbaʼeaporenguéra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ohel Moed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ñeʼẽmeʼẽrã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oĩva hese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼeaporenguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼeaporenguéra"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "Ohel"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:06.487092754Z",
+  "model": "glm-5.3"
+}

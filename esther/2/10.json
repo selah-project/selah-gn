@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ester noñemombe'úi ⟨את⟩ itavaygua ha ⟨את⟩ iñemoñare, Mordokai ojapo rupi chupe ñe'ẽme'ẽ ani hag̃ua ñamombe'u.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "noñemombe'úi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itavaygua"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "itavaygua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñemoñare"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojapo ñe'ẽme'ẽ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ñamombe'u"
+    }
+  ],
+  "timestamp": "2026-10-02T17:26:25.292127056Z",
+  "model": "glm-5.3"
+}

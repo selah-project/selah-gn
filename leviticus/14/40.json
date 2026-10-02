@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pe paʼi omandáʼo, ha oipeʼa ⟨את⟩ umi ita iguýpe oĩva pe mbaʼevai, ha omondo umi ⟨את⟩ táva okápe, peteĩ tenda nañemarangatuóipe.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "omandáʼo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ita"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "umi ita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "iguýpe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "pe mbaʼevai"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "umi ⟨את⟩",
+      "marks": "umi ita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "táva okápe"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "peteĩ tenda"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nañemarangatuóipe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:31.368776162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Avraham oñehenói sãso ⟨את⟩ Avimelek rehe peteĩ yaku ysyrýre, umi Avimelek rembiguáikuéra osevaʼekue hikuái.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "oñehenói sãso"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "reheguáre"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "המים",
+      "gloss": "yaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "oseva"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguáikuéra"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:34.506826045Z",
+  "model": "glm-5.3"
+}

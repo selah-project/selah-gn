@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Emimbã nde, imbaretevéva yvyty apyrapeguaitégui.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "emimbã"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "imbaretevéva"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "yvyty apyrapeguaitégui"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "apyra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:18.079021694Z",
+  "model": "glm-5.3"
+}

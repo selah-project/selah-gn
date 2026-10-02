@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha koʼág̃a, che ru omoĩ peẽre pe joky imbareitéva, ha che ambojoapy peẽ joky ári; che ru opena ⟨את⟩ peẽ soky kuéra rehe, ha che che opena ⟨את⟩ peẽ tetambu kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "omoĩ peẽre"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽre"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe joky"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "imbareitéva"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ambojoapy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "peẽ joky"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "opena"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "soky kuéra rehe"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "soky kuéra rehe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "che opena"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "tetambu kuéra rehe"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "tetambu kuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:53.005106863Z",
+  "model": "glm-5.3"
+}

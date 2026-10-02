@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Yvypóra, iñara kuéra kapiʼícha; kaʼaguýgua poty raʼãngáicha, upéicha opotĩ.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kapiʼícha"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iñara kuéra"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "poty raʼãngáicha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kaʼaguýgua"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "opotĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:33.580874435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oñemohenda yvate ⟨את⟩ umi kolúna ⟨ההיכל⟩ renondépe, peteĩ akatúa gotyo ha peteĩ asu gotyo; ha ohenói téra pe akatúa pegua javéicha Jakin, ha pe asu pegua javéicha Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "oñemohenda yvate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kolúna"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "umi kolúna"
+    },
+    {
+      "surface": "על",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨ההיכל⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "akatúa gotyo"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ha peteĩ"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "asu gotyo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "pe akatúa pegua"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ha téra"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "pe asu pegua"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-02T18:18:54.375036915Z",
+  "model": "glm-5.3"
+}

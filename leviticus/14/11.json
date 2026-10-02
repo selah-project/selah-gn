@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pe paʼi oñemopotĩva ojapéta ⟨את⟩ kuimbaʼe oñemopotĩtava opytávo chikuái ⟨את⟩ Jahve ñanderape, pe ñembojaruha ogua rokẽme.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ojapéta opytávo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "oñemopotĩva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuimbaʼe oñemopotĩtava"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "oñemopotĩtava"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩ chikuái",
+      "marks": "chikuái (mbaʼe jeporavo kuéra)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñanderape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "rokẽme"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ogua"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ñembojaruha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:56.812466049Z",
+  "model": "glm-5.3"
+}

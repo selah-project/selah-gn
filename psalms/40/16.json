@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Toñemondyi iñeʼẽme vaígui umi che rehe heʼíva: ¡Heaj! ¡Heaj!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Toñemondyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rekápe"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "rire"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "iñeʼẽme vai"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "umi heʼíva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heaj"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heaj"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:39.838240638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha Tsefanhjah pa'i omoñe'ẽ ⟨את⟩ ko kuatiañe'ẽ Yirmejah nabi apysápe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "omoñe'ẽ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanhjah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko kuatiañe'ẽ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kuatiañe'ẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "apysápe"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-02T13:34:33.710807311Z",
+  "model": "glm-5.3"
+}

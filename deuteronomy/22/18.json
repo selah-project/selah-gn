@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Upéicha rupi, ko tavaygua karai tuja kuéra ojapyhy ⟨את⟩ ku kuimbaʼe ha opena chupe.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "karai tuja kuéra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku kuimbaʼe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ku kuimbaʼe"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "opena"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:04:36.171246729Z",
+  "model": "glm-5.3"
+}

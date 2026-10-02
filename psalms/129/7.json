@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Ndaipóri chupe kuaty oipyhovápe pe kokatu apoha, nahániri ijykuápe pe amandajuvyha.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "oipyhovápe"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "kuaty"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "pe kokatu apoha"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "nahániri ijykuápe"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "pe amandajuvyha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:58.784511342Z",
+  "model": "glm-5.3"
+}

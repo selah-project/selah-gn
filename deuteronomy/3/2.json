@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve he'i chéve: Ani rekyre'ỹ ⟨את⟩ chupe rehe, upévare nde pópe ameʼẽ ⟨את⟩ chupe, ha ⟨את⟩ opaite iavakuéra, ha ⟨את⟩ iñyvy; rejapóta chupe pe ejapohagueicha Sijon-pe, emori mburuvichápe, oikóva Cheshbon-pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "rekyre'ỹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nde pópe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite iavakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iavakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñyvy"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iñyvy"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pe ejapohagueicha"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ejapo"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sijon-pe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "האמORI",
+      "gloss": "emori mburuvicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Cheshbon-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:48:25.912393660Z",
+  "model": "glm-5.3"
+}

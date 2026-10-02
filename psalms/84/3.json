@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Che rekove oñuhẽ ha ojepochy Jahve korapópe; che korasõ ha che rugui ojapukatu El ovávape.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "oñuhẽ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ojepochy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Che rekove"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "korapópe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ha che rugui"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ojapukatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ováva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:30.311967739Z",
+  "model": "glm-5.3"
+}

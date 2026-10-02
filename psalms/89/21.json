@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ajuhu David, che mba'apohára; che jey'i marangatu añohẽ hi'ári.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "ajuhu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che mba'apohára"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "che jey'i"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "añohẽ hi'ári"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:46.026594959Z",
+  "model": "glm-5.3"
+}

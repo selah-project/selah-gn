@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oiko che rehe, ahendu jave ⟨את⟩ koʼã ñeʼẽnguéra: aity chéve, avai asy, ha ambyasy heta ara; ha aime jeguaruʼỹme ha añemboʼe yvága Elohim renondépe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko che rehe"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "ahendu jave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã ñeʼẽnguéra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aity chéve"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "avai asy"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "ambyasy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "heta ara"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ha aime"
+    },
+    {
+      "surface": "צם",
+      "gloss": "jeguaruʼỹme"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "ha añemboʼe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    }
+  ],
+  "timestamp": "2026-10-02T17:50:00.272504255Z",
+  "model": "glm-5.3"
+}

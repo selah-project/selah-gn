@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Ojoko ñorãirõnguéra ⟨hasta⟩ yvy rembeʼýpe peve; ohundi ⟨the⟩ jyva ha okarãi ⟨the⟩ hendi, ha karréta ojy tata ryepýpe.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Ojoko"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ñorãirõnguéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "yvy rembeʼýpe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jyva"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ohundi"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ha okarãi"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "hendi"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "karréta"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ojy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:02.085277937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Jahve omondo nde peteĩ tape rupi ha heʼi: Eho, ha ejapóke ñembyai tee umi jejapovai rehe ⟨את⟩, ⟨את⟩ Amalek-pe, ha eñorairõ hesekuéra peve opapa hikuái.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "omondo nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape rupi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "ejapóke ñembyai tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi jejapovai"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "umi jejapovai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "eñorairõ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hesekuéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "opapa hikuái"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:43.857824468Z",
+  "model": "glm-5.3"
+}

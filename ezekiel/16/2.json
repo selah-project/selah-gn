@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Yvypóra raʼýpe, eikuaauka ⟨את⟩ Jerusalaimpe ⟨את⟩ iñjavyʼykuéra.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "eikuaauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaimpe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaimpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñjavyʼykuéra"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "iñjavyʼykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T14:11:03.392945934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha amoĩta che ñeʼẽmeʼẽ che ha nde apytépe, ha ambohetaiterei ⟨את⟩ nde, hetaitereípe, hetaiterei.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ha amoĩta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ha nde apytépe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ha ambohetaiterei"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "hetaitereípe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T07:40:43.767112205Z",
+  "model": "glm-5.3"
+}

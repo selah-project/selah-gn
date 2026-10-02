@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani peñembohasa taʼangakuéra rendápe, ani pejapo peve Elohim kuarepoti oñomenunguéva; che aí Jahve, pe Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "peñembohasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "taʼangakuéra"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "kuarepoti oñomenunguéva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pejapo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:48:36.021082039Z",
+  "model": "glm-5.3"
+}

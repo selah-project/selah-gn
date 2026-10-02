@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Pe ñu Avraham ojogua ⟨את⟩ Jet membykuéra ndive; upépe oñekoʼi Avraham ha Sara, iñembireko.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "pe ñu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojoguaʼỹva"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ojogua"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jet membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Jet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "oñekoʼi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "ha Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iñembireko"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:21.148740844Z",
+  "model": "glm-5.3"
+}

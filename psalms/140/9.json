@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Ani emeʼẽ, Jahve, umi mbaʼe oipotáva ivaikuéva; ani eheja oñemotenonde iñeʼẽpyahu vai; ani hikuái opuʼã yvate. Selá.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "umi mbaʼe oipotáva"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ivaikuéva"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "iñeʼẽpyahu vai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "eheja oñemotenonde"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "opuʼã yvate"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:41.010461835Z",
+  "model": "glm-5.3"
+}

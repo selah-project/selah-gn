@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Ome'ẽ ⟨את⟩ ne angirũnguéra rete karu ramo yvagapegua guyra kuérape, ne iporãva kuéra so'o ka'aguy mymbakuéra guarã yvy ape ári.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne angirũnguéra rete"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "rete"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ne angirũnguéra"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "karu ramo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "guyra kuérape"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvagapegua"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "so'o"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ne iporãva kuéra"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ka'aguy mymbakuéra guarã"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:51.624657192Z",
+  "model": "glm-5.3"
+}

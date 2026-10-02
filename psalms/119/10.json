@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che korasõ pavẽgui aheka nderehe; ani ahaguerei nde ñeʼẽmeʼẽgui.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "pavẽgui"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "aheka nderehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ahaguerei"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "nde ñeʼẽmeʼẽgui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:05.162907211Z",
+  "model": "glm-5.3"
+}

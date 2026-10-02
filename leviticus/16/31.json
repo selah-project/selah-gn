@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Chabat — Chabat tuichavéva — ⟨haʼe⟩ peẽme g̃uarã; pehundy ⟨את⟩ pe rekovégui; chukat opaite árape.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Chabat tuichavéva"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme g̃uarã"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ha pehundy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rekove"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "pe rekovégui"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chukat"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opaite ára"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:29.003825668Z",
+  "model": "glm-5.3"
+}

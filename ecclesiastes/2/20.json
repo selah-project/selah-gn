@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha che ajererejey aheja hag̃ua ⟨את⟩ che korasõ ojekuaaʼỹpa opaite amoñemúgui che amoñemu haguépe kuarahýpe.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ajererejey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "aheja hag̃ua ojekuaaʼỹpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che korasõ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "על",
+      "gloss": "gui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "amoñemúgui"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "che amoñemu haguépe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kuarahýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahý"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:39.960169952Z",
+  "model": "glm-5.3"
+}

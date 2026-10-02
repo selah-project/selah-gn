@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Purahéi pe ate guasívape g̃uarã. Heta jey ojopy cherehe che mitãkuñamí guive — jaʼe koʼag̃aite Jisrael.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pe ate guasívape g̃uarã"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "heta jey"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ojopy cherehe"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "che mitãkuñamí guive"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jaʼe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼag̃aite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:26.668459287Z",
+  "model": "glm-5.3"
+}

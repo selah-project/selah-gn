@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Eñangareko che rekove ári ha eñemongora cherehe; ani ajavyʼa che akãme, che amboyke haguã nde rehe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove ári"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ha eñemongora cherehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ajavyʼa che akãme"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "che amboyke haguã"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:13.698067053Z",
+  "model": "glm-5.3"
+}

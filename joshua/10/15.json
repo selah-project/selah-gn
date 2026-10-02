@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jochua ohóvo jey, ha Jisrael opavagui hendive, ohóvo pe tenda Guilgala rendápe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ohóvo jey"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jochua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavagui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pe tenda"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Guilgala rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:21:50.773335251Z",
+  "model": "glm-5.3"
+}

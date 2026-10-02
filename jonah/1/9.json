@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha heʼi chupekuéra: Ebreo che, ha ⟨את⟩ Jahve, yvága Elohim, che jakyrreʼõ hese — haʼéva ojapo ⟨את⟩ paraguasu ha ⟨את⟩ yvy yʼỹva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ebreo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágapegua"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "jakyrreʼõ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paraguasu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "paraguasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvy yʼỹva"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "yvy yʼỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:03:15.561752814Z",
+  "model": "glm-5.3"
+}

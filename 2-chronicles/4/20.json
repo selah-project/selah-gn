@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨את⟩ umi kandil ha itujaáva, ikandikuéra oñemboty hag̃ua hekojojaháicha pe óga marangatu mboyveguasu, itajápe ojejapo porãmbápe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi kandil"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "umi kandil"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "ikandikuéra"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "oñemboty hag̃ua"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "hekojojaháicha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mboyveguasu"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "pe óga marangatu mboyveguasu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itajápe"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ojejapo porãmbápe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:19:15.462599720Z",
+  "model": "glm-5.3"
+}

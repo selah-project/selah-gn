@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Pe omboajéva ⟨את⟩ umi tetãnguéra, ¿nomoĩporãimoʼãi? Pe omoñeʼẽva yvypóape kuaarã, ¿ndaikuaaimoʼãi?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Pe omboajéva"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nomoĩporãimoʼãi"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "moĩporã"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Pe omoñeʼẽva"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóape"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kuaarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:04.630436058Z",
+  "model": "glm-5.3"
+}

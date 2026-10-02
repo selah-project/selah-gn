@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Esav heʼi: ña Guatajey, ha ñaguata; ha aguata nde rendaitépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "ña Guatajey"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ha ñaguata"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ha aguata"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "nde rendaitépe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:42.131472491Z",
+  "model": "glm-5.3"
+}

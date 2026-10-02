@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ojapo pe a'o guasu rembére rimón kuéra, hovy, hovyũ ha pytã juígui, ojehasapyréva.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "rembére"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "rembe"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "pe a'o guasu"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "rimón kuéra"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "hovy"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ha hovyũ"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ha pytã"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pytã"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ojehasapyréva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:42.617642480Z",
+  "model": "glm-5.3"
+}

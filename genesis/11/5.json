@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve oguejy ohecha hag̃ua ⟨את⟩ táva ha ⟨את⟩ yvateóga omoheñóiva yvypóra ñemoñare.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ohecha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "yvateóga"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "yvateóga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omoheñóiva"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "omoheñói"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:11.497929203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ajapóta nde tetã guasu ramo, ajopyta nderehe, ambotuicháta nde réra, ha ere koʼãga jopy.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "ajapóta nde"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tetã ramo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ajopyta nderehe"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ambotuicháta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "jopy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:31.462149524Z",
+  "model": "glm-5.3"
+}

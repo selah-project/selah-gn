@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ⟨the⟩ mitã okambúva ocha ⟨the⟩ mbói kyha ári, ha ⟨the⟩ omboyva mitã oity ipo ⟨the⟩ mbói chovi kyha ári.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "ocha"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "mitã okambúva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "חר",
+      "gloss": "kyha"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "mbói"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "kyha"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "mbói chovi"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "omboyva mitã"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "oity"
+    }
+  ],
+  "timestamp": "2026-10-02T19:05:20.900989477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Oñemboja ⟨את⟩ jeʼapy ojehekýivaʼekue rehe, ha nombojerurei ⟨את⟩ ijeʼapykuéra.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "jeʼapy"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "ojehekýivaʼekue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha no"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mombojerurei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijeʼapykuéra"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ijeʼapykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:07.663352874Z",
+  "model": "glm-5.3"
+}

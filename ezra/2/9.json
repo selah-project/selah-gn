@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Zakai taʼýra, papo pote sa ⟨á⟩ irundy ha po pa po pote.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Zakai"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "papo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ha pote"
+    }
+  ],
+  "timestamp": "2026-10-02T17:41:55.345782799Z",
+  "model": "glm-5.3"
+}

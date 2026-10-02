@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve Elohim ohenói ⟨א־⟩ yvypórare, ha oheʼi chupe: Mbaʼe répe reimépa?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Mbaʼe répe reimépa?"
+    }
+  ],
+  "timestamp": "2026-10-02T07:28:58.915076573Z",
+  "model": "glm-5.3"
+}

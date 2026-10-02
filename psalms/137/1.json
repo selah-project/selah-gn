@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Bavel ysyrykuéra yképe, upépe roguapy, avei rog̃uai, manduʼakuévo ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "yképe"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ysyrykuéra"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "יָשַׁבְנוּ",
+      "gloss": "roguapy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "rog̃uai"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "manduʼakuévo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:21.201899728Z",
+  "model": "glm-5.3"
+}

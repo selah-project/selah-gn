@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha upévare hikuái py osā vai rehe, ha onohẽ pyaʼe hikuái tuguy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha upévare"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hikuái py"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "vai rehe"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "osā"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ha onohẽ pyaʼe"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "tuguy ñeno hag̃ua"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tuguy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:41.966159301Z",
+  "model": "glm-5.3"
+}

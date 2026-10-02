@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 18:22",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Shaúl okuã ⟨את⟩ imba'apoháre: Eñe'ẽ David-pe ñemíme, he'ívo: Ningo mburuvicha oiporã ndeve, ha imba'apohakuéra opavave nde rayhu; upéicha ko'ágã erejeko mburuvicha ra'y-menhína.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ha okuã"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba'apoháre"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "imba'apohára"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "ñemíme"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oiporã"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imba'apohakuéra"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "nde rayhu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ha ko'ágã"
+    },
+    {
+      "surface": "התחתן",
+      "gloss": "erejeko ra'y-menhína"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mburuvicha rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:58:33.316675316Z",
+  "model": "glm-5.3"
+}

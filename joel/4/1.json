@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Chaguara, peẽ, upéichagua kuéra árape, ha upéicha aravópe, aja che ajevy ⟨את⟩ che rekove Juháa pegua ha Jerusalen pegua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaguara"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kuéra árape"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "upéichagua"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ha upéicha aravópe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "upéichagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aja"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "che ajevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che rekove"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juháa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ha Jerusalen"
+    }
+  ],
+  "timestamp": "2026-10-02T14:54:25.835095858Z",
+  "model": "glm-5.3"
+}

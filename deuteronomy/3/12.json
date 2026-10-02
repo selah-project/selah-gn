@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 3:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ko yvy jañemombaʼe vaʼekue ⟨את⟩ upépe, Aroér-gui, oĩva Arnon ysyry ári, oguahẽ meve Gilead yvyty vogue ha umi táva — ameʼẽ vaʼekue Reuveni-yguárape ha Gad-yguárape.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "ירשנו",
+      "gloss": "jañemombaʼe vaʼekue"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "Aroér-gui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha vogue"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "ha umi táva"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽ vaʼekue"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reuveni-yguárape"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ha Gad-yguárape"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:56.693525250Z",
+  "model": "glm-5.3"
+}

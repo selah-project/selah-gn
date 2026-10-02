@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Moche omonguʼe chupekuéra ⟨את⟩ heʼívo: pokõi ary pahápe, aravo oĩháme ary jepeʼa pegua, Sukot ára guasu-pe,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "omonguʼe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra — paʼi ha ruvichakuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "aravo oĩháme"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ary"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "jepeʼa"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ára guasu-pe"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-10-02T10:14:01.438329439Z",
+  "model": "glm-5.3"
+}

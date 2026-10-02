@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha oiko pe mavul irundy pa ára yvy ári, ha ⟨pe⟩ y okakuaa ha ombotye ⟨את⟩ ⟨pe⟩ ygarata, ha osẽ yvy ári guive.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "pe mavul"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundy pa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ha okakuaa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ha ombotye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ygarata"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ygarata"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ári guive"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:41.944477877Z",
+  "model": "glm-5.3"
+}

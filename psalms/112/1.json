@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Emombaʼeguasu Ja! Vyʼaiterei oguereko ⟨peteĩ⟩ kuimbaʼe ojaʼe ⟨את⟩ Jahve rehe, ha ohayhu eterei iñeʼẽmeʼẽkuéra.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Emombaʼeguasu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "vyʼaiterei"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ojaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "iñeʼẽmeʼẽkuéra rehe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:20.823057327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "David oheka ⟨את⟩ Elohim pe mitã rekove rã; David ojapo je'u'ỹ, ohóu hóga ryepýpe, oke ha oke yvy ári.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "rekove rã"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "ojapo je'u'ỹ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "je'u'ỹ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ohóu"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "oke"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvy ári"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:56.642691575Z",
+  "model": "glm-5.3"
+}

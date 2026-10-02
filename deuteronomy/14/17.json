@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ⟨el⟩ qaʼat, ha ⟨את⟩ ⟨el⟩ rahama, ha ⟨את⟩ ⟨el⟩ chalak.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ha ⟨el⟩ qaʼat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "rahama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "chalak"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "chalak"
+    }
+  ],
+  "timestamp": "2026-10-02T09:55:21.167342131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Iñañõ ojahoʼi che korasõ, ha voi che aĩ; ahaʼã ichugui ñemboʼegueruha, ha ndaipóri; ñemoñangarekoháragui, ndahechái.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "iñañõ"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "ojahoʼi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ha voi che aĩ"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ahaʼã"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ichugui ñemboʼegueruha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "ñemoñangarekoháragui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ndahechái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:13.650476860Z",
+  "model": "glm-5.3"
+}

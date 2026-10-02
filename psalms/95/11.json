@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 95,
+  "translation": "Upévare aheja che eneʼỹme jaʼe: Anhõ ne ñag̃uahýta che pytuʼu hendápe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "che eneʼỹme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anhõ"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ne ñag̃uahýta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "che pytuʼu hendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:57.120133864Z",
+  "model": "glm-5.3"
+}

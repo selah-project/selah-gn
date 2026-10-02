@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Michtam David-pe g̃uarã. Eñangareko cherehe, El, che amboyke hague nde rehe.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Michtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "eñangareko cherehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "amboyke"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:55.828432575Z",
+  "model": "glm-5.3"
+}

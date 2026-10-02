@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Opaite koʼãva aiporu che arandúpe che ahaʼãro: aheja che ñeʼẽ amboty arandu, ha katu haʼe oĩ mombyry chendive.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "ahaʼãro"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "arandúpe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aheja che ñeʼẽ"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "amboty arandu"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ha katu haʼe"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "oĩ mombyry"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chendive"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:28.525076680Z",
+  "model": "glm-5.3"
+}

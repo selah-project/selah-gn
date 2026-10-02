@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Avimelej omyatyrõ ojapo chupe ⟨את⟩ opavave umi tavaygua, heʼívo: oporoʼũva ko kuimbaʼe rehe térã hembireko rehe, omanótaite.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "omyatyrõ ojapo chupe"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opavave umi tavaygua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavaygua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "oporoʼũva"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ko kuimbaʼe rehe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "hembireko rehe"
+    },
+    {
+      "surface": "מות",
+      "gloss": ""
+    },
+    {
+      "surface": "יומת",
+      "gloss": "omanótaite"
+    }
+  ],
+  "timestamp": "2026-10-02T07:46:20.954347399Z",
+  "model": "glm-5.3"
+}

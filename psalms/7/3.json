@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ani oikóvaʼerã ⟨oheja⟩ ⟨⟨ójehecha⟩⟩ koʼápe… Ani oikóta pe mbaguari ombyaipa che rekove, ojeka ha ndaipóri oisãsóva.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ani oikóta"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ombyaipa"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "mbaguari rajy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ojeka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "oisãsóva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:39.832508804Z",
+  "model": "glm-5.3"
+}

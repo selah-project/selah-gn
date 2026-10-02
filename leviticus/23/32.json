@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Chabat pytuʼu guasu hína peñemeʼẽ hag̃uáicha; ha peñembovymi ⟨את⟩ pe rekove. Jasýpe porundyha ára, kaʼarúpe, kaʼarúgui kaʼaru peve, peipytaʼéta pe Chabat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "pytuʼu guasu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hína"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peñemeʼẽ hag̃uáicha"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ha peñembovymi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rekove"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "pe rekove"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "porundyha ára"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kaʼarúpe"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "kaʼarúgui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kaʼaru"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "peipytaʼéta"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "pe Chabat"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:38.931663958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha che ameʼẽta peẽme karakuã, ha akarakuãta ⟨את⟩ peẽ, ha ambojevyta ⟨את⟩ peẽ peẽ yvy teépe.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ha ameʼẽta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "karakuã"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ha akarakuãta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ha ambojevyta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "peẽ yvy teépe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:14:19.247866513Z",
+  "model": "glm-5.3"
+}

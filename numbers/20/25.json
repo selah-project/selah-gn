@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Egueru ⟨את⟩ Aharon ha ⟨את⟩ Elazar iñemoñare, ha eheupi ⟨את⟩ chupekuéra Hor yvyty ári.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ha eheupi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    }
+  ],
+  "timestamp": "2026-10-02T09:31:54.050725344Z",
+  "model": "glm-5.3"
+}

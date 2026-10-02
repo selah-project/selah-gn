@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha osẽ ⟨את⟩ ñande upégui, oigueroike hag̃ua ñande, omeʼẽ hag̃ua ñandépe ⟨את⟩ ⟨pe⟩ yvy oñemeʼẽ hague ñande ruakuérape.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩",
+      "marks": "ñande"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "oigueroike"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ñande"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨pe⟩"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "oñemeʼẽ hague"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ñande ruakuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T18:51:50.398772983Z",
+  "model": "glm-5.3"
+}

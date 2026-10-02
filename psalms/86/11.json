@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Ehechauka chéve neʼẽrape, Jahve; aiguata ta neʼẽkoʼẽmeʼẽpe; embojoaju che korasõo ojapo hag̃ua nde rerã. Jahve, ehechauka chéve nde rape.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ehechauka chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nde rape"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aiguata ta"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "neʼẽkoʼẽmeʼẽpe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "embojoaju"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "che korasõo"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ojapo hagʼua nde rerã"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde raʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:40.540025119Z",
+  "model": "glm-5.3"
+}

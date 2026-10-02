@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Añetegua, tselem ári oikundaha ⟨opa⟩ kuimbaʼe; añetegua nandi pehẽnguepe ojepyhy monoʼõ; onohẽ heta mbaʼe oñembyatýva, ha ndaikuaái máva pe oñembyatytavaʼekue umíva.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Añetegua"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "tselem ári"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "oikundaha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nandi pehẽnguepe"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ojepyhy monoʼõ"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "onohẽ oñembyaty"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaikuaái"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ndaikuaái"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "oñembyatytavaʼekue umíva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:02.755366825Z",
+  "model": "glm-5.3"
+}

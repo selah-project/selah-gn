@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Umíva ohecha Jahve rembiapokue, ha hembaʼe tuichaitereíva y pyʼýpe.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Umíva"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "rembiapokue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ha hembaʼe tuichaitereíva"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "y pyʼýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:25.679963437Z",
+  "model": "glm-5.3"
+}

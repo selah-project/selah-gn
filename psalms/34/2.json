@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Che ajupi'iporaitéta ⟨את⟩ Jahve opa aravópe, iñe'ẽporãi opa ára che jurúpe.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "ajupi'iporaitéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravópe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opa ára"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "iñe'ẽporãi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "che jurúpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:57.122123056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ho'úva omondóta iñangaipa, Jahve ⟨את⟩ mba'e marangatu oñembyai haguére; ha pe yvypóra oñeipe'aitéta itavyguakuéra apytégui.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ha ho'úva"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "iñangaipa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "omondóta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'e marangatu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mba'e marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "oñeipe'aitéta"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "pe yvypóra"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "itavyguakuéra apytégui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:31.172002830Z",
+  "model": "glm-5.3"
+}

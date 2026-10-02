@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Emombaʼeguasu Jahve, opaite umi iñehérsito kuéra; hembiguái kuéra, ojapóva iñembovyʼa.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Emombaʼeguasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "umi iñehérsito kuéra"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "hembiguái kuéra"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "iñembovyʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:18.540288507Z",
+  "model": "glm-5.3"
+}

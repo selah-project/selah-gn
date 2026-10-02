@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim heʼi: Oiko va'erã tesapỹi yvaga pakamby mbytépe, ojejuju hag̃ua ára ha pyhare, ha oiko va'erã techaukaha ramo, aravoñemohendaha ramo, ára ha ary ñemohendaháramo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Elohim heʼi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Oiko va'erã"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "tesapỹi"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "yvaga pakamby mbytépe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "ojejuju hag̃ua"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…rekápe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha… rekápe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha oiko va'erã"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "techaukaha ramo"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "aravoñemohendaha ramo"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ary ñemohendaháramo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:07.061239826Z",
+  "model": "glm-5.3"
+}

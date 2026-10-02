@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Avei ⟨את⟩ Ashur-pe ojererahata, che—mbovaiha ramo Yarev mburuvichápe g̃uarã; ojapyhy verẽ Efraim, ha Jisrael oñemborayhúta iñeʼẽnguéra apytégui.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Avei"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur-pe ojererahata"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Ashur-pe"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ojererahata"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mbovaiha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichápe g̃uarã"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "verẽ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "ותבוש",
+      "gloss": "oñemborayhúta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "iñeʼẽnguera apytégui"
+    }
+  ],
+  "timestamp": "2026-10-02T14:50:19.697551240Z",
+  "model": "glm-5.3"
+}

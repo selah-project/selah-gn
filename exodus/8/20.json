@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Jahve ojapo upéicha; ha ou tahýi aty hetaitereíva Paroh óga rupi, hembiaporãkuéra óga rupi, ha Mitsraim yvy tuichakue javeve; yvy oñembyai tahýi aty reheguaiterei.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tahýi aty"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "hetaitereíva"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "Paroh óga rupi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ógakuéra rupi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hembiaporãkuéra"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "tuichakue javeve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "reheguaiterei"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tahýi aty"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:26.149093401Z",
+  "model": "glm-5.3"
+}

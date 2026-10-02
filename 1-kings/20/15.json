@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha ⟨Axav⟩ oha'ãjey ⟨את⟩ umi tetãvore isãmbyhyhárakuéra mitãrusukuéra, ha oukuéra mokõi sa mbohapypa mokõi; ha umi rire oha'ãjey ⟨את⟩ opavave tavayguakuéra, opavave Jisrael taʼýra, pokoĩ su.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "oha'ãjey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tetãvore isãmbyhyhárakuéra mitãrusukuéra"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mitãrusukuéra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "isãmbyhyhárakuéra"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "tetãvore-kuéra"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "oukuéra"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapypa"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "umi rire"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "oha'ãjey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opavave tavayguakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokoĩ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:54.819012372Z",
+  "model": "glm-5.3"
+}

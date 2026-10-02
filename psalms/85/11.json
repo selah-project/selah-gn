@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Hesed ha emet ojuhu hikuái ojuehe; tsedek ha py'aguapy ojopói hikuái ojuehe.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ha emet"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ojuhu hikuái"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ha py'aguapy"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "ojopói hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:15.285125803Z",
+  "model": "glm-5.3"
+}

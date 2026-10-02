@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Oiko Shaúl omano rire, David ojevy ojuka rire ⟨את⟩ Amalek-ygua, ha David oiko Tsiklag-pe mokõi ára.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mano"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ojuka rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek-ygua"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek-ygua"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Tsiklag-pe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    }
+  ],
+  "timestamp": "2026-10-02T11:19:55.845317916Z",
+  "model": "glm-5.3"
+}

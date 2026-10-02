@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Aheʼa: che El, ani rejuhu cherehe che ára pukukue mbytépe; teñoiña teñoiñápe ikoépe oĩ ne arakuéra.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aheʼa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "rejuhu cherehe"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "che ára pukukue"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "teñoiña"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "teñoiñápe"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ne arakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:47.874096144Z",
+  "model": "glm-5.3"
+}

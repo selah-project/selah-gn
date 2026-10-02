@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Mbaʼasy pytuʼumbýpe okuʼéva rehe, aso mbytépe ojavyʼaivaíva rehe.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "mbaʼasy"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "pytuʼumbýpe"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "okuʼéva"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ojavyʼaivaíva rehe"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ojavyʼaivaíva"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "aso mbytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:30.465685264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Ne pa'ikuéra toñemborurai ⟨את⟩ tsedek rehe, ha ne marangatukuéra tosapukai vy'ápe.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "ne pa'ikuéra"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "toñemborurai"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ha ne marangatukuéra"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "tosapukai vy'ápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:40.389831530Z",
+  "model": "glm-5.3"
+}

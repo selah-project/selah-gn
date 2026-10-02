@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 10:23",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Haʼe avei umi levíta apytégui: Jozavad, Chimí, Kelaiá — haʼe Kelitá —, Petajiá, Jehudá ha Eliézer.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "haʼe avei ... apytégui"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "umi levíta"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "Jozavad"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "Chimí"
+    },
+    {
+      "surface": "וקליה",
+      "gloss": "Kelaiá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Kelitá"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "Petajiá"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudá"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ha Eliézer"
+    }
+  ],
+  "timestamp": "2026-10-02T19:30:54.730043067Z",
+  "model": "glm-5.3"
+}

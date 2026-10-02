@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ehendu, Jahve, ha ehechaporã che rehe; Jahve, eiko che pytyvõhára ramo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ha ehechaporã che rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "eiko"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pytyvõhára"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che… ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:54.070689675Z",
+  "model": "glm-5.3"
+}

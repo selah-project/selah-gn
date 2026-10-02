@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Embovýna nde apysa, Jahve, ha ehendu; eipeʼa nde resa, Jahve, ha ehecha; ha ehendu ⟨את⟩ Sanjerib ñeʼẽ, omondo hague hapichápe oñembovera vai haguã Elohim oikovéva.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Embovýna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nde apysa"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ha ehendu"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "eipeʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "nde resa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ha ehendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sanjerib ñeʼẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanjerib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omondo hague"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hapichápe"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "oñembovera vai haguã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikovéva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:18:24.121444058Z",
+  "model": "glm-5.3"
+}

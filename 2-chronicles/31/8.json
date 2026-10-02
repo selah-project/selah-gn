@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Oúvo Jizkiahu ha umi mburuvicha, hecha hikuái ⟨את⟩ umi ñemyatyrõ, ha oñemboʼe hikuái ⟨את⟩ Jahve ha ⟨את⟩ ipepo Jisrael-rei.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Oúvo"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jizkiahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ha umi mburuvicha"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "hecha hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñemyatyrõ"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "umi ñemyatyrõ"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ha oñemboʼe hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ipepo Jisrael-rei"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ipepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael-rei"
+    }
+  ],
+  "timestamp": "2026-10-02T19:36:40.041924219Z",
+  "model": "glm-5.3"
+}

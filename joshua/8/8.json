@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oĩta: pejapysyrõrõ ⟨את⟩ pe táva, petambaʼita ⟨את⟩ pe táva tatápe; Jahve ñeʼẽ rehegua pejapóta. Pehecha: acheʼu ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha oĩta"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "pejapysyrõrõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "petambaʼita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatápe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ñeʼẽ rehegua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pejapóta"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "acheʼu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:21:36.330679371Z",
+  "model": "glm-5.3"
+}

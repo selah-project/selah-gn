@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ohójevy umi Kehat-gua, umi oguerováva ⟨את⟩ marangatukuaa mbaʼe; umi ambue katu omopuʼã ⟨את⟩ Michkan hoʼu hikuái peve.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ohójevy hikuái"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "umi Kehat-gua"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "oguerováva"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "marangatukuaa mbaʼe"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "omopuʼã hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "באם",
+      "gloss": "hoʼu hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T09:20:43.971993776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Korasõ arandukuéra mbaʼéva oĩ ⟨hóga⟩ ñembyasýipe, ha korasõ aranduʼỹkuéra mbaʼéva oĩ ⟨hóga⟩ vyʼape.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "arandukuéra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "hóga-pe"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ñembyasýi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ha korasõ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "aranduʼỹkuéra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "hóga-pe"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vyʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:57.212094830Z",
+  "model": "glm-5.3"
+}

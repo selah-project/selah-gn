@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ojapo ñembojoja ⟨את⟩ tekoha marangatuete, ha ⟨את⟩ oñombyatýha róga, ha ⟨את⟩ altar okyporãta; ha pa'ikuéra rehe, ha opaite tavaygua aty rehe okyporãta.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ojapo ñembojoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekoha marangatuete"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tekoha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatuete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oñombyatýha róga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "róga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oñombyatýha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ojapo ñembojoja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ojapo ñembojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T08:55:49.558291752Z",
+  "model": "glm-5.3"
+}

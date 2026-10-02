@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha Moche ojapo opaite Jahve omandáva ⟨את⟩ hese; upéicha ojapo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekuéva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omandáva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hese ⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:19.235001311Z",
+  "model": "glm-5.3"
+}

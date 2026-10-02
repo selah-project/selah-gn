@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde hesed jahechaháicha, emombaʼe cherekove ha ambaʼapóta nde juru ñeʼẽmeʼẽ",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "nde hesed jahechaháicha"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "emombaʼe cherekove"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ambaʼapóta"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "nde juru"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:08.231444851Z",
+  "model": "glm-5.3"
+}

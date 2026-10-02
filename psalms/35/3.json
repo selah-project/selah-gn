@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha esẽ pe ñorãirõha ha ejoko pe tape che jupiʼasehárakuéra pe; eñeʼẽ che rekove rérape: «Nde ñemoʼãrã che ahã.»",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Ha esẽ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "pe ñorãirõha"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ha ejoko pe tape"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pe"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "che jupiʼasehárakuéra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "che rekove rérape"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "nde ñemoʼãrã"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che ahã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:37.867532287Z",
+  "model": "glm-5.3"
+}

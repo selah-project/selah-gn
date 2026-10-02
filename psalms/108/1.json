@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 108,
+  "translation": "Purahéi, mizmor David pegua.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David pegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:20.847609673Z",
+  "model": "glm-5.3"
+}

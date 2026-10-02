@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Umarã aguereko ndéve osẽvo yvy Mitsraim-gui, ha tembiguái hógagui ajokupyty ndéve, ha amondo nde moĩmbyrã ⟨את⟩ Moche, Aharon ha Miriam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Umarã"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "aguereko ndéve osẽvo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvy ... -gui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ha ... hógagui"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguái"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ajokupyty ndéve"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ha amondo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde moĩmbyrã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ha Miriam"
+    }
+  ],
+  "timestamp": "2026-10-02T15:08:55.609745939Z",
+  "model": "glm-5.3"
+}

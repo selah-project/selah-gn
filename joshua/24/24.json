@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha pe avano'õ ohecha Jehosua-pe: ⟨את⟩ Jahve, ñande Elohim, ñañemomba'apo, ha hemi'ẽ roñuhãkuaa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe avano'õ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, ñande Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ñañemomba'apo"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "hemi'ẽ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "roñuhãkuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:15.417633366Z",
+  "model": "glm-5.3"
+}

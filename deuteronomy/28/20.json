@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Jahve omondo nde ári ⟨את⟩ ñeʼẽ mbaʼevaíva, ⟨את⟩ ñembyahýi ha ⟨את⟩ ñeʼẽporangue opa mbaʼe rehe nepo ajapo hagua, nde oñembyai meve ha nde oñangarekoʼỹ meve sapyʼaite, ne mbaʼevai apopy reheguápe, ikatúpe reheja che.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde ári"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽ mbaʼevaíva"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "ñeʼẽ mbaʼevaíva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñembyahýi"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "ñembyahýi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ñeʼẽporangue"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "ñeʼẽporangue"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa mbaʼe rehe"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nepo ajapo hagua"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nepo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ikatúpa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "nde oñembyai"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha meve"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "nde oñangarekoʼỹ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "sapyʼaite"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "reheguápe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "ne apopy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ikatúpe"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "reheja che"
+    }
+  ],
+  "timestamp": "2026-10-02T10:10:04.755303177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde ñeʼẽnguéra jepeʼa ombojera tesapẽ; omoikuaa porã ⟨umíape⟩ umi ndaikuaaivape.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "jepeʼa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "nde ñeʼẽnguéra"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ombojera tesapẽ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "omoikuaa porã"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "umi ndaikuaaivape"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:20.543006509Z",
+  "model": "glm-5.3"
+}

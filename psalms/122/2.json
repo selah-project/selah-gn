@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Ore pykuéra opytáma ñembojarépe nde okẽme, Jerusalaim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ñembojarépe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "opytáma"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ore pykuéra"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nde okẽme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:53.557784783Z",
+  "model": "glm-5.3"
+}

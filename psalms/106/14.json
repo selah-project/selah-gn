@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha oipotaiterei pyʼemongeta yvy ñu guasúpe, ha oñehaʼã El rehe yvy nandíme.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "oipotaiterei"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "pyʼemongeta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvy ñu guasúpe"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "oñehaʼã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El rehe"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "yvy nandíme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:20.515109831Z",
+  "model": "glm-5.3"
+}

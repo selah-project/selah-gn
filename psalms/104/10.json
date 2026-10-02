@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Omonoʼõ ysyry kuéra ñu apytépe, yvyty kuéra mbytépe oiko hikuái.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "omonoʼõ"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ysyry kuéra"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "ñu apytépe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvyty kuéra"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "oiko hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:55.327205854Z",
+  "model": "glm-5.3"
+}

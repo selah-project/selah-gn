@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha upéi, oimévo peteĩ oityvo yvyrarakã, ⟨את⟩ kuarepoti hoʼa ýpe; ha ohetũ ha heʼi: Añetehá, che jára, ha kóva mbaʼe jeheruréva!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "oityvo"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "yvyrarakã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "hoʼa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ohetũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Añetehá"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "mbaʼe jeheruréva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:03:16.069147749Z",
+  "model": "glm-5.3"
+}

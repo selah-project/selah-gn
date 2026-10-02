@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha umi pelishtokuéra oheja upi ⟨את⟩ umi taʼangakuéra, ha David ha ikuimbaʼekuéra ogueru ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi taʼangakuéra"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "umi taʼangakuéra"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ha ikuimbaʼekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:02.281893673Z",
+  "model": "glm-5.3"
+}

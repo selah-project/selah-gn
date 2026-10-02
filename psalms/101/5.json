@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 101,
+  "translation": "Pe oñeʼẽva ñemiháme iñirũ rehe ivaípe, ⟨אתו⟩ aipeʼojáta; pe iñakãguasu hesãi ha pyʼa guasúva, ⟨אתו⟩ ndaijakatumoʼãi.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "oñeʼẽva ivaípe"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ñemiháme"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iñirũ rehe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨אתו⟩",
+      "marks": "pe oñeʼẽva ivaípe"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "aipeʼojáta"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "hesãi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ha pyʼa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "guasúva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "pe iñakãguasu hesãi ha pyʼa guasúva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aijakatumoʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:28.612911195Z",
+  "model": "glm-5.3"
+}

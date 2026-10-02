@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha oiméramo ojeova hese voi chugui, omboguata ijárape.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha oiméramo"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ojeova hese voi"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ojeova chugui"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "omboguata"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ijárape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:20.719674282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéicha nde juhu jopói ha tembikuaa porã, Elohim ha yvypóra resápe.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ha nde juhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jopói"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ha tembikuaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ha yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:28:37.213074354Z",
+  "model": "glm-5.3"
+}

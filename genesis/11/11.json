@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Sem ekove ⟨את⟩ Arpakshad mongaraire rire 500 ary, ha omombaʼy memby kuimbaʼe ha memby kuña.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ekove"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "mongaraire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "500"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "500"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omombaʼy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "memby kuimbaʼe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha memby kuña"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:20.494789149Z",
+  "model": "glm-5.3"
+}

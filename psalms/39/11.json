@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Epeʼa che rehegui nde pohẽ; nde po ñorãirõgui che añembyai.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "epeʼa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "che rehegui"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "nde pohẽ"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "che añembyai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:17.576046431Z",
+  "model": "glm-5.3"
+}

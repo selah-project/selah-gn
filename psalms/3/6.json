@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Che, ahẽnoi ha ake, ajepyahavo ahecha che rehe — Jahve oipytyvõ rupi cherehe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ahẽnoi"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ha ake"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ajepyahavo ahecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…rupi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "oipytyvõ cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:53.809607312Z",
+  "model": "glm-5.3"
+}

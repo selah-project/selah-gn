@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Pe ñe'ẽporã ja'e ha'e japu, pe porãngue ha'e reínte; pe kuña oñemomba'éva Jahve rehe, ha'e oguerohoryta.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "japu"
+    },
+    {
+      "surface": "החן",
+      "gloss": "pe ñe'ẽporã ja'e"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ha pe porãngue ha'e reínte"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "pe porãngue"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pe kuña"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "oñemomba'éva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "oguerohoryta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:45:47.404035902Z",
+  "model": "glm-5.3"
+}

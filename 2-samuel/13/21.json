@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha mburuvicha David ohendu ⟨את⟩ opaite umi ñe'ẽ ko'ã, ha iñapyeterei chupe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ha mburuvicha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñe'ẽ ko'ã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñe'ẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "iñapyeterei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ete"
+    }
+  ],
+  "timestamp": "2026-10-02T11:23:55.531062600Z",
+  "model": "glm-5.3"
+}

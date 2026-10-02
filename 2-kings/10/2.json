@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha koʼág̃a, kuatiañeʼẽ og̃uahẽrõ peẽme — ⟨את⟩ peẽ ndive peẽ jára raʼýkuéra, ⟨את⟩ peẽ ndive kavaraaju ha kavaju kuéra, ha táva mbarete ha huguái kuéra —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "og̃uahẽrõ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ peẽ ndive",
+      "marks": "peẽ jára raʼýkuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "peẽ jára"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ peẽ ndive",
+      "marks": "kavaraaju ha kavaju kuéra"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kavaraaju"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ha kavaju kuéra"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ha táva"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ha huguái kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:07:50.501811299Z",
+  "model": "glm-5.3"
+}

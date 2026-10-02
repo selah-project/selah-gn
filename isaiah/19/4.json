@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ameʼẽta ⟨את⟩ Mitsraim járarã ñandeʼáva poguýpe, ha mburuvicha ipuʼakáva oisãvãta ichupekuéra; heʼi Adonai Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "ameʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "poguýpe"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "járarã"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ñandeʼáva"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "oisãvãta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ichupekuéra"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-02T12:38:49.765089706Z",
+  "model": "glm-5.3"
+}

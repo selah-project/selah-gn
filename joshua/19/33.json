@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 19:33",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ore jevyte ou Helef-gui, Elón-gui Chaananim-pe, Adami-nekeb ha Javneel, Lakum peve; ha osẽha haʼe ⟨את⟩ Jarden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ore jevyte"
+    },
+    {
+      "surface": "מחלף",
+      "gloss": "Helef-gui"
+    },
+    {
+      "surface": "מאלון",
+      "gloss": "Elón-gui"
+    },
+    {
+      "surface": "בצעננים",
+      "gloss": "Chaananim-pe"
+    },
+    {
+      "surface": "ואדמי",
+      "gloss": "ha Adami"
+    },
+    {
+      "surface": "הנקב",
+      "gloss": "nekeb"
+    },
+    {
+      "surface": "ויבנאל",
+      "gloss": "ha Javneel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "Lakum"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "osẽha"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    }
+  ],
+  "timestamp": "2026-10-02T18:53:31.586530862Z",
+  "model": "glm-5.3"
+}

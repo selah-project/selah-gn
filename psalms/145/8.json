@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Jahve, ipyʼaporãva ha iporiahuverekóva, haimbye puku vaʼerã hína, ha hesed tuichaiterei.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ipyʼaporãva"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ha iporiahuverekóva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "puku vaʼerã"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "haimbye"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ha tuichaiterei"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:10.833960710Z",
+  "model": "glm-5.3"
+}

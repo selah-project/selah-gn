@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Gideón ou Yarden-pe, ohasa hikuái haʼe ha mbohapysa kuimbaʼe hese ⟨את⟩, asy hikuái ha ojahoʼi hína hikuái.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideón"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yarden-pe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasa hikuái"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ha mbohapysa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hese (Gideón ndive)"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "asy hikuái"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "ha ojahoʼi hína"
+    }
+  ],
+  "timestamp": "2026-10-02T10:42:32.067909639Z",
+  "model": "glm-5.3"
+}

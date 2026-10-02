@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Aisere vaʼekue oreraʼã okañývaicha; eheka nde tembiguái; namonguʼeʼỹ vaʼekue nde ñemohenda.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "aisere vaʼekue"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "oreraʼã"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "okañývaicha"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "eheka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde tembiguái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nde ñemohenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "monguʼeʼỹ vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:18.362705276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha omondo Natán nabi po rupive, ha ohenói ⟨את⟩ héra Jedidija, Jahve rehegua.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po rupive"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natán"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenoikuavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidija"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:23:49.455084453Z",
+  "model": "glm-5.3"
+}

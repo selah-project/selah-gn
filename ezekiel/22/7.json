@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 22:7",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Túva ha sy oñemomba'egue'y nde apytépe; tapia oúvape ojapo vai nde pokochýpe; ita'ỹravaíva ha itaju ndojeikuaapávape oñembyasy nde rehe.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "túva"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha sy"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "oñemomba'egue'y"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde apytépe"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "tapia oúvape"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "vai (mba'e niléigare) "
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "nde pokochýpe"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ita'ỹravaíva"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ha itaju ndojeikuaapávape"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:17:10.888856979Z",
+  "model": "glm-5.3"
+}

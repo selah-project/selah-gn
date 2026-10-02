@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 24:11",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha koʼag̃a, emondoʼo nde rehe, eho nde rekohápe; aiñeʼẽ vaʼekue: amombaʼeguasu nde etehápe, ha peína Jahve omonẽ ndeve mombaʼeguasúgui.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼag̃a"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "emondoʼo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eho"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "nde rekohápe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aiñeʼẽ vaʼekue"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אכבדך",
+      "gloss": "amombaʼeguasu nde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha peína"
+    },
+    {
+      "surface": "מנעך",
+      "gloss": "omonẽ ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "mombaʼeguasúgui"
+    }
+  ],
+  "timestamp": "2026-10-02T09:34:04.661129429Z",
+  "model": "glm-5.3"
+}

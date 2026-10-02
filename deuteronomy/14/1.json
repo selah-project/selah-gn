@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Membykuéra peẽ Jahve, peñaneʼõ Elohim-pe guarã; ani peẽ peheyúi hiʼári ha ani peẽ jajapo kyraʼi peñakã ári pe omanótava repyrire.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peñaneʼõ Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "peheyúi hiʼári"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "jajapo"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kyraʼi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "peñakã ári"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "peñakã"
+    },
+    {
+      "surface": "למת",
+      "gloss": "pe omanótava repyrire"
+    }
+  ],
+  "timestamp": "2026-10-02T09:55:34.523220102Z",
+  "model": "glm-5.3"
+}

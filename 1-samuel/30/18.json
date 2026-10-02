@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "David ojevy ⟨את⟩ opa Amalek ogueraha vaʼekue ári, ha ⟨את⟩ imokõi kuñakuaireʼĩ oipeʼa jevy David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ojevy ári"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa Amalek ogueraha vaʼekue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ogueraha vaʼekue"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imokõi kuñakuaireʼĩ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "imokõi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "kuñakuaireʼĩ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "oipeʼa jevy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:36.277576066Z",
+  "model": "glm-5.3"
+}

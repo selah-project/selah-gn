@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 100,
+  "translation": "Peike hyepýpe iñokẽkuéra toa ndive, ha ikarahápe ojehayhu ndive; agradesi peẽ chupe, emombaʼeguasu peẽ hetéra.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "peike"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "iñokẽkuéra"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "toa ndive"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ikarahápe"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ojehayhu ndive"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "agradesi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "emombaʼeguasu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hetéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:25.743683525Z",
+  "model": "glm-5.3"
+}

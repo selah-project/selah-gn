@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Joosef oñemongarai peteĩ mongarai ha oñeʼẽ ijoyke'ykuérape, ha upéi umi ndaijaʼéva chupe ojapo jey hetave omoñeʼẽ ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "oñemongarai"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "peteĩ mongarai"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ijoyke'ykuérape"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ojapo jey hetave"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "omiñeʼẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:42.970312544Z",
+  "model": "glm-5.3"
+}

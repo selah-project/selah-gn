@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha iñapytuʼũ ou pe teko Jahve rekópe, ha upéi avei oipeʼa ⟨את⟩ umi tenda yvategua ha ⟨את⟩ umi Acherah Juda-gui.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ou pe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñapytuʼũ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "rekópe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "upéi avei"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tenda yvategua"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "umi tenda yvategua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi Acherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "umi Acherah"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Juda-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T18:26:50.917817653Z",
+  "model": "glm-5.3"
+}

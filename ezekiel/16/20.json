@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha reipuru ⟨את⟩ nde memby kuimbaʼe ha ⟨את⟩ nde memby kuña eg̃uaraʼãva chéve, rejuka hikuái umívape ohekysẽvo hag̃ua. ¿Michĩpa nde jeko?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "reipuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde memby kuimbaʼe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nde memby kuimbaʼe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde memby kuña"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "nde memby kuña"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eg̃uaraʼãva"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "ereñói"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "rejuka hikuái"
+    },
+    {
+      "surface": "להם",
+      "gloss": "umívape"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ohekysẽvo hag̃ua"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "¿Michĩpa?"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "nde jeko"
+    }
+  ],
+  "timestamp": "2026-10-02T14:11:47.556629536Z",
+  "model": "glm-5.3"
+}

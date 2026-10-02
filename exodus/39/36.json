@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "⟨את⟩ pe mesa, ⟨את⟩ opaite imbaʼe apopyre, ha ⟨את⟩ apỹi mbaʼerã jehechaukarã.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite imbaʼe apopyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imbaʼe apopyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "apỹi mbaʼerã jehechaukarã"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "apỹi mbaʼerã"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "jehechaukarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:00.071559856Z",
+  "model": "glm-5.3"
+}

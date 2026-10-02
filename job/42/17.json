@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha upéi Ijob omano, tuja ha ⟨ohenyhẽmbaite⟩ ára rehe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tuja"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ohenyhẽmbaite"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T17:07:44.465750704Z",
+  "model": "glm-5.3"
+}

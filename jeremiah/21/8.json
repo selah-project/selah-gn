@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ere ko tavaygua kuérape: upéicha heʼi Jahve: Maʼerã, ameʼẽ peẽ mboyve ⟨את⟩ tekove rape ha ⟨את⟩ manó rape.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua kuérape"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko pegua"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ere"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Maʼerã"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "peẽ mboyve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekove rape"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rape"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manó rape"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rape"
+    },
+    {
+      "surface": "המות",
+      "gloss": "manó"
+    }
+  ],
+  "timestamp": "2026-10-02T13:26:25.437484835Z",
+  "model": "glm-5.3"
+}

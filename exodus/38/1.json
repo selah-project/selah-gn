@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ojapo ⟨את⟩ pe jupiha — oñembyaʼi haguã ojejapóva — shitim yvyra gui; ipukukue poteĩ ama, iperekue poteĩ ama — irundy yakã joja — ha iñakã reteẽ mbohapy ama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jupiha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jupiha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "oñembyaʼi haguã ojejapóva"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "iperekue"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "irundy yakã joja"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "iñakã reteẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:03.149712436Z",
+  "model": "glm-5.3"
+}

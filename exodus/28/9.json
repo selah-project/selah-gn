@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha eguerú ⟨את⟩ mokõi ita choham, ha emohaʼanga hyvape umi téra Jisrael membykuéra.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "eguerú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi ita choham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ita"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "choham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "emohaʼanga"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hyvape"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "umi téra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:45:55.233808437Z",
+  "model": "glm-5.3"
+}

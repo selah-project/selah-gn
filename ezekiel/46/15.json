@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Ha ojapóta ⟨את⟩ kurami ha ⟨את⟩ minha ha ⟨את⟩ yra koʼẽrente koʼẽrente, peve chupe jopói tataípe g̃uarã tapia.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurami"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kurami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yra"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽrente"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽrente"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "jopói tataípe g̃uarã"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapia"
+    }
+  ],
+  "timestamp": "2026-10-02T14:41:35.662498391Z",
+  "model": "glm-5.3"
+}

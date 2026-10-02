@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Boaz omboʼa ⟨את⟩ Oved-pe; ha Oved omboʼa ⟨את⟩ Ichai-pe.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Ha Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omboʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ha Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omboʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ichai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ichai"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:50.129018118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve oĩta yty ramo umi ojeipohýiva g̃uarã, yty ramo kyʼa árape g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "yty"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "umi ojeipohýiva g̃uarã"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "yty"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ára"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kyʼa ára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:46.951977524Z",
+  "model": "glm-5.3"
+}

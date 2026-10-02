@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha eve ome'ẽ jey hese: Nde reípa ko'e che ra'ay Esav? Ha ha'e katu he'i: Che aikuaa che añetépa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha'e jey hese"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "reípa ko'e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che ra'ay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha'e katu he'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che aikuaa che añetépa"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:26.528335269Z",
+  "model": "glm-5.3"
+}

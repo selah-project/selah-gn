@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ñemoñare ojapo mbaʼapo hese; Adonai rehegua oñemombeʼu amandajépe.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ojapo mbaʼapo hese"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "oñemombeʼu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai rehegua"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "amandajépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:28.575507618Z",
+  "model": "glm-5.3"
+}

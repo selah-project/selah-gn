@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Jehoajaz ojerure ⟨את⟩ Jahve rova ári, ha Jahve ohendu chupe, upévare ohecha ⟨את⟩ Jisrael jejopy, upéva rehe omboyopy ⟨את⟩ chuguakuéra Aram mburuvicha.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoajaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve rova"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael jejopy"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "jejopy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéva rehe"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "omboyopy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguakuéra (Aram mburuvicha ojopy vaʼekue)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T12:15:02.886523383Z",
+  "model": "glm-5.3"
+}

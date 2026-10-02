@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Ahãmbýta Jahve: che moakãha ha che korapy; che Elohim, cherochia hese.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ahãmbýta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "che moakãha"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "che korapy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "cherochia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:53.238831813Z",
+  "model": "glm-5.3"
+}

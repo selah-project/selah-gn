@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha peteĩ nabi rupi Jahve ohupi ⟨את⟩ Jisrael Mitsraim-gui, ha peteĩ nabi rupi oñangareko hese.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "ha peteĩ nabi rupi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ha peteĩ nabi rupi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "oñangareko hese"
+    }
+  ],
+  "timestamp": "2026-10-02T14:47:36.971834720Z",
+  "model": "glm-5.3"
+}

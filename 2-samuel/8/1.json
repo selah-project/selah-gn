@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Upéicha rire, David ojuka ⟨את⟩ pelishtikuéra ha omombaʼe hesekuéra; ha David gueru ⟨את⟩ meteg haʼama pelishtikuéra pógui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "upéicha rire oiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéicha rire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelishtikuéra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "omombaʼe hesekuéra"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gueru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meteg haʼama"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "meteg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "haʼama"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:26.351242058Z",
+  "model": "glm-5.3"
+}

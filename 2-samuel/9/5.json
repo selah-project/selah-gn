@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Upéi mburuvicha guasu David omondo ha ogueru chupe Machir ógagui, Amiel raʼýgui, Lo-Devar-gui.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ogueru chupe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ógagui"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:42.572024552Z",
+  "model": "glm-5.3"
+}

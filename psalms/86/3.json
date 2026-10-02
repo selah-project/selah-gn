@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Ehecharamo cherehe, che Adonai, che nendive ahenói haʼeha rupi ára opaite aja.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ehecharamo cherehe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "che nendive"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ahenói haʼeha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára... aja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:20.462566526Z",
+  "model": "glm-5.3"
+}

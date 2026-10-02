@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Che poriahuve cherehe, Jahve, che kane'õgui ningo; che pohanauka, Jahve, che chuguakuéra ojekyhyje ningo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Che poriahuve cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "che kane'õgui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "che pohanauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ojekyhyje"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "che chuguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:23.085798184Z",
+  "model": "glm-5.3"
+}

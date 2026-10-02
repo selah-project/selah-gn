@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Péro ndesẽi hikuái Yeravam óga jejavygui, omoñembyahýiva ⟨את⟩ Jisrael; upévape hikuái oiko, ha avei pe Asera opyta Shomron-pe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Péro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ndesẽi hikuái"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "jejavygui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omoñembyahýiva"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "omoñembyahýi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "upévape"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "pe Asera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomron-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:51.856530071Z",
+  "model": "glm-5.3"
+}

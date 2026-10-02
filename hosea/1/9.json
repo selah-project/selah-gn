@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha heʼi: Ehenói héra Lo-Ami, nahániri che retãyguakuéra, péicha nderejetái che retãyguakuéra ramo, ha che nahániri aháyta peendévo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ehenói"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãyguakuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nderejetái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãyguakuéra ramo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "aháyta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peendévo"
+    }
+  ],
+  "timestamp": "2026-10-02T14:43:20.112835699Z",
+  "model": "glm-5.3"
+}

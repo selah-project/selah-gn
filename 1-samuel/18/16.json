@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha opaite Jisrael ha Jehuda ohayhu ⟨את⟩ David, haʼehápe osẽ ha ou haguekuéra renondépe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ha Jehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼehápe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "haguekuéra renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:01.791033484Z",
+  "model": "glm-5.3"
+}

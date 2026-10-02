@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Kóva che py'aguapy che asykópe, nde ñe'ẽ omomba'e chéve che reikovejey.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "che py'aguapy"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "che asykópe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "nde ñe'ẽ"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "omomba'e chéve che reikovejey"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:58.025278575Z",
+  "model": "glm-5.3"
+}

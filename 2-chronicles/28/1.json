@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 28:1",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ajás oreko mokõipa ary isãmbyhy ko'ãga guare, ha pokõi pa ary isãmbyhy Jerusalaim-pe; ha ndojapói pe iporãva Jahve resápe, David itúvaichagua.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ary oreko guare"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajás"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "isãmbyhy ko'ãga"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha pokõi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda…i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapói"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "pe iporãva"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדויד",
+      "gloss": "Davidichagua"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:31:52.987880015Z",
+  "model": "glm-5.3"
+}

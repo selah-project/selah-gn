@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Upévare Jahve omeʼẽjey chéve che tsedek reheháicha, che po mongerahaicha iñaesã renondépe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "omeʼẽjey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "che tsedek reheháicha"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "haicha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po mongera"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iñaesã"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:22.840787439Z",
+  "model": "glm-5.3"
+}

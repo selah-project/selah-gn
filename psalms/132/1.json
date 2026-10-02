@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Purahéi jeupáva. Jahve, eñaminduʼu David rehe ⟨את⟩ opa iñakãnoroʼõnguéra.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "jeupáva"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "eñaminduʼu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa iñakãnoroʼõnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "iñakãnoroʼõnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:32.330781237Z",
+  "model": "glm-5.3"
+}

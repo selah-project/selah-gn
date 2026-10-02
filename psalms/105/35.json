@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Okaru opaite ka'a oĩva iñyvýpe, ha okaru yva iñyvy.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Okaru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ka'a oĩva"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "iñyvýpe"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yva"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "iñyvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:18.933953726Z",
+  "model": "glm-5.3"
+}

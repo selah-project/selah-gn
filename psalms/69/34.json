@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Jahve ohendu ⟨את⟩ umi poriahúva, ha ⟨את⟩ ikañyguyrãkuéra ndomomba'eguasuerãi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jagueroviava'erã"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe rehe"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "umi poriahúva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikañyguyrãkuéra"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ikañyguyrãkuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…ãi"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ndomomba'eguasuerãi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:34.723027419Z",
+  "model": "glm-5.3"
+}

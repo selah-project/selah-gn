@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Rejapóta ⟨את⟩ epod aʼo, ijapópaite haguégui.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Rejapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epod aʼo"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "aʼo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "epod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ijapópaite"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "haguégui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:41.960045501Z",
+  "model": "glm-5.3"
+}

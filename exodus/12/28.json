@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jisrael taʼãrakuéra ou ha ojapo, Jahve ojapo haguéicha ⟨את⟩ Moiche ha ⟨את⟩ Aharõ ndive; upéicha ojapo hikuái.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼãrakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haguéicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojapo haguéicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moiche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moiche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharõ ndive"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:30.181673740Z",
+  "model": "glm-5.3"
+}

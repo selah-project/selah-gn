@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve ohenói Moche-pe ha oñeʼẽ chupe tenda juajuha gui, heʼívo:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "juajuha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:15.583856609Z",
+  "model": "glm-5.3"
+}

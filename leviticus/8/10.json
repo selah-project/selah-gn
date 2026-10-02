@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Moche ogueru ⟨את⟩ pe ñemoñandy kyra, ha oñandy ⟨את⟩ pe Michkan ha ⟨את⟩ opa mbaʼe oĩva hendápe, ha omombaʼe ⟨את⟩ umi marangatu ramo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñemoñandy kyra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "kyra"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ñemoñandy"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "oñandy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "pe Michkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "omombaʼe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ umi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:46.786329534Z",
+  "model": "glm-5.3"
+}

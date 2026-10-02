@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 3:43",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha opaite kuimbaʼe peteĩha raʼy, téra papapy rupive, peteĩ jasýgui hiʼárive, ojeipapaháicha, haʼe hína ⟨mokõipa mokõi su⟩ mokõi sa pokõipa mbohapy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "haʼe hína"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "peteĩha raʼy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "papapy rupive"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "téra"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "peteĩ jasýgui"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "hiʼárive"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ojeipapaháicha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "pokõipa"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "mokõi sa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:27.478559949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha ogueru chéve yvate kuʼey ñarõguasúgui, yvypoʼi ndy guiguí, ha omoĩ che py ita ári, ha omopyendã che py tapysãi.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "ogueru chéve yvate"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "kuʼey"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ñarõguasu"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "yvypoʼi"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ndy"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ita"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "che py"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "omopyendã"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "che py tapysãi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:39.985708234Z",
+  "model": "glm-5.3"
+}

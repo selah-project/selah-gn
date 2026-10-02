@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Mbaʼépa ahepymeʼẽta Jahve-pe, opaite iporãreko rehegua che rehegua?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ahepymeʼẽta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "iporãreko rehegua"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:56.286259172Z",
+  "model": "glm-5.3"
+}

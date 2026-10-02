@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Ha umi ohekaseva che rekove oñehundi hag̃ua, ohótama yvy pysã ryepýpe.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ha umi"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "oñehundi hag̃ua"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ohekaseva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ohótama"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "yvy pysã ryepýpe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:35.103126362Z",
+  "model": "glm-5.3"
+}

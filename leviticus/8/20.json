@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ⟨את⟩ pe tara opehẽngue ipehẽnguérape, ha Moche omondobo tatape ⟨את⟩ pe akã ha ⟨את⟩ umi pehẽngue ha ⟨את⟩ pe andy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "pe tara"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "pe tara"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "opehẽngue"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ipehẽnguérape"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "omondobo tatape"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe akã"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pe akã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi pehẽngue"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "umi pehẽngue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe andy"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "pe andy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:34.276572488Z",
+  "model": "glm-5.3"
+}

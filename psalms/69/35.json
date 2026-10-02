@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Yvága ha yvy ojakuaa chupe, yguasukuéra ha opa mba'e oguata ohóva upépe.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ojakuaa chupe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ha yvy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yguasukuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opa mba'e"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "oguata ohóva"
+    },
+    {
+      "surface": "בם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:34.723181223Z",
+  "model": "glm-5.3"
+}

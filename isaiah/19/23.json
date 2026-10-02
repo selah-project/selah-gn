@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Upéicha árape oĩta peteĩ tape guasu Mitsraim-gui Achura-peve, ha Achur outa Mitsraim-pe, ha Mitsraim Achura-pe, ha omba'apóta yuaju Mitsraim ⟨את⟩ Achur ndive.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "tape guasu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Achura-peve"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "outa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ha Mitsraim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "Achura-pe"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "omba'apóta yuaju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ndive",
+      "marks": "Achur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achur"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:26.174107268Z",
+  "model": "glm-5.3"
+}

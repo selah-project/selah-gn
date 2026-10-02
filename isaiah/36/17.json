@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Che ára ñesẽ meve ha agueru ⟨את⟩ peẽ peteĩ yvy-pe, peẽ yvyicha; yvy avatígui ha yva karpoguýgui jukýva, yvy mbujapígui ha yva guýragui.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "באי",
+      "gloss": "che ára ñesẽ"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ha agueru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peteĩ yvy-pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "peẽ yvyicha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "avatígui"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ha yva karpoguýgui jukýva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujapígui"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "ha yva guýragui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:47:55.476776481Z",
+  "model": "glm-5.3"
+}

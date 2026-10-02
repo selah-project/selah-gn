@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Tsoan mburuvichakuéra ojehujukuaáma, Nof mburuvichakuéra oñehendu hapy; ha omoĩ ⟨את⟩ Mitsraim hape vai, umíva apytépe oĩ ita jojaha'ỹ'asy ijoykeguagua.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "ojehujukuaáma"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "oñehendu hapy"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "omoĩ hape vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ita jojaha'ỹ'asy"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "ijoykeguagua"
+    }
+  ],
+  "timestamp": "2026-10-02T12:36:48.810696896Z",
+  "model": "glm-5.3"
+}

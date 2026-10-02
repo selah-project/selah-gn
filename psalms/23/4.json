@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Upéicha avei, che ao jave yvyty pytũ-manóre hypyʼũvape, ndaikyhyjéi mbaʼe vaíre, ndégui niko che ndive rei. Nde itaka ha nde takuã pytyvõha — umíva oñemoirũ chéve.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "upéicha avei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jave"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "che ao"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "pytũ-manóre hypyʼũva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndaikyhyjéi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndégui"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "che ndive"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "nde itaka"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "nde takuã pytyvõha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "oñemoirũ chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:35.733237324Z",
+  "model": "glm-5.3"
+}

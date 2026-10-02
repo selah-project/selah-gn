@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Ivytuporã pe tavaygua oguerekóva upéicha; ivytuporã pe tavaygua iñElohim Jahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivytuporã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavaygua"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "oguerekóva upéicha"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ivytuporã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavaygua"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iñElohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:41.881542686Z",
+  "model": "glm-5.3"
+}

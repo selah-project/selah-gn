@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ehendu Jahve ñeʼẽ, Sodoma mburuvichakuéra; eapytuʼũ ore Elohim Tora, Amorra retãyguakuéra.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "eapytuʼũ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "retãyguakuéra"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:33.388041589Z",
+  "model": "glm-5.3"
+}

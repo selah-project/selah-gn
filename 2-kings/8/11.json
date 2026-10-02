@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha omohenda ⟨את⟩ ijecha hese ha ojapo upéicha isarambí peve, ha Elohim kuimbaʼe osóʼo.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "omohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijecha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ijecha"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ojapo upéicha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בש",
+      "gloss": "isarambí peve"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "osóʼo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T12:08:46.097378409Z",
+  "model": "glm-5.3"
+}

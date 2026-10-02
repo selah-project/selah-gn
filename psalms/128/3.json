@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 128,
+  "translation": "Nde membykuña haʼéta yva guasu opyvúvaicha nde roga yakã rehe, ha nde raʼýkuéra kuaray yva raʼýicha nde mesa apére.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Nde membykuña"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "yva guasu ... haʼecha"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "opyvúva"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "yakã rehe"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde roga"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nde raʼýkuéra"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "... raʼýicha"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "kuaray yva"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ape"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "nde mesa ... rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:18.749265292Z",
+  "model": "glm-5.3"
+}

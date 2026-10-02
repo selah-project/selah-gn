@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ojapóta ⟨את⟩ peteĩ pykasu michĩnguéra gui térã pykasu raʼỹi gui, pe ohupytyháicha ipo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "pykasu michĩnguéra"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼỹi"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pykasu"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ohupytyháicha"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:19.311233932Z",
+  "model": "glm-5.3"
+}

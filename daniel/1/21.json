@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Daniel opyta Koréch mburuvicha guasu arapy mboyvegua peve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "arapy"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mboyvegua"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Koréch"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T17:28:23.647985856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Adonai Jahve Tsevaot — pe ohendúva ⟨pe⟩ yvy ári, ha ⟨yvy⟩ okangy, ha opaite oikóva ipype ojekuaaveʼẽ; ha osypyry ojehechaite ysyry guáicha, ha ondyry ysyry Mitsraim guáicha.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Ha Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "ohendúva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "okangy"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ojekuaaveʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "osypyry"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ysyry guáicha"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ojehechaite"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "ondyry"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ysyry guáicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:01:32.127063126Z",
+  "model": "glm-5.3"
+}

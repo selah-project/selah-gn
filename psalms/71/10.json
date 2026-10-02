@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Ha upévare, che ñorarõhára kuéra oñe'ẽ che rehe, ha che rekove mo'ãhára kuéra oñemoñe'ẽ ojoapykuéra ndive,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha upévare"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "che ñorarõhára kuéra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ha ... mo'ãhára kuéra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che tekove"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "oñemoñe'ẽ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojoapykuéra ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:52.161952852Z",
+  "model": "glm-5.3"
+}

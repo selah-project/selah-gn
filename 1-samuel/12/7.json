@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha koʼágã katu, peẽ opytáke, ha ajaʼo ⟨את⟩ peẽ ndive Jahve renondépe ⟨את⟩ Jahve tsedek opaite, ojapo vaʼekue ⟨את⟩ peẽ rehe ha ⟨את⟩ peẽ túvakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼágã katu"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "peẽ opytáke"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ha ajaʼo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ ndive",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsedek opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ rehe",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "peẽ túvakuéra rehe"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "peẽ túvakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:49.464227347Z",
+  "model": "glm-5.3"
+}

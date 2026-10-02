@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ja omombaʼeguera hikuái Jahve-pe ihesed rehe, ha hembiʼarañuʼã yvypóra raʼýkuéra rehe.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "omombaʼeguera hikuái"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ihesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "hembiʼarañuʼã"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yvypóra raʼýkuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:58.530117917Z",
+  "model": "glm-5.3"
+}

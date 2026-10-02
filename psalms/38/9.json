@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Che apañuãi, che jejopy peve tuichaiterei; che py'aguy pu'usy rehe ahũ.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "che apañuãi"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "che jejopy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ahũ"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "pu'usy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che py'aguy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:55.433875255Z",
+  "model": "glm-5.3"
+}

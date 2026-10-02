@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha omoĩ umi ⟨את⟩ amudkuéra heikál rokẽme; ha omoĩ ⟨את⟩ amud akatúa, ha ombohéra ⟨את⟩ héra Jakín; ha omoĩ ⟨את⟩ amud asuáigua, ha ombohéra ⟨את⟩ héra Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi amudkuéra"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "umi amudkuéra"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "rokẽme"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikál"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amud"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "amud"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "akatúa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ombohéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakín"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amud"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "amud"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "asuáigua"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ombohéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-02T11:43:16.354678060Z",
+  "model": "glm-5.3"
+}

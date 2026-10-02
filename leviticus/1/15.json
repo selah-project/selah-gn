@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha pa'i oguerúta altárpe, omonguʼíta ⟨את⟩ iñakã ha ombatavyta ⟨הַמִּזְבֵּחָה⟩-pe, ha henguéra oñehetyũta altár rembeýpe.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "oguerúta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "altárpe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "omonguʼíta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ombatavyta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altárpe"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "oñehetyũta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "henguéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "rembe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:01.972477201Z",
+  "model": "glm-5.3"
+}

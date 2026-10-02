@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Iporã Jahve opavavépe g̃uarã, ha iñemongarai ⟨opaite⟩ hembiapóre.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Iporã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavavépe g̃uarã"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ha iñemongarai"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hembiapóre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:45.413281341Z",
+  "model": "glm-5.3"
+}

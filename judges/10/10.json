@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jisrael mitãnguéra ohenoi Jahve pe, heʼívo: Rojavy nderehe, roheja haguére ⟨את⟩ ore Elohim ha rombaʼapo haguére ⟨את⟩ umi Baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ohenoi jeypy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Rojavy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nderehe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "...haguére"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "roheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ha rombaʼapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "umi Baal"
+    }
+  ],
+  "timestamp": "2026-10-02T10:40:53.099419178Z",
+  "model": "glm-5.3"
+}

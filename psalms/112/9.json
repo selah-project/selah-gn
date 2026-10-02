@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Oñomongeta, omeʼẽ ⟨את⟩ umi orekóvape; iñtsedek opytuʼu opaʼỹre; hogue puku pyʼaguapýpe ojepyso.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "oñomongeta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "umi orekóvape"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "iñtsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "opytuʼu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "opaʼỹre"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "hogue puku"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "pyʼaguapýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:26.167480217Z",
+  "model": "glm-5.3"
+}

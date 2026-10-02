@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Joav, Tseruja memby, oikuaa pe mburuvicha korasõha Avshalom rehe.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-10-02T11:27:01.299465717Z",
+  "model": "glm-5.3"
+}

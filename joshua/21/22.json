@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ⟨את⟩ Kibtza'im ha ⟨את⟩ iguara migraš, ha ⟨את⟩ Bet-Choron ha ⟨את⟩ iguara migraš: táva irundy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Kibtza'im"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtza'im"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iguara migraš"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iguara migraš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Bet-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iguara migraš"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iguara migraš"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:32.853676892Z",
+  "model": "glm-5.3"
+}

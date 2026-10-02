@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha che amoʼã chupekuéra ⟨את⟩ pe plata ha ⟨את⟩ pe oro ha ⟨את⟩ umi mbaʼeʼoka — torumápe ou haguã Evohim ñane rógape, omoenimbóva pe mburuvicha guasu, hembojaohára kuéra, iñambukuéra kuéra, ha Jisrael opavavete oĩva upépe.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "che amoʼã chupekuéra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe plata"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pe plata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe oro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "pe oro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼeʼoka"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "umi mbaʼeʼoka"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "torumápe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rogápe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ñande"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "omoenimbóva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "hembojaohára kuéra"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "iñambukuéra kuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavavete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "oĩva upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:47:44.761855428Z",
+  "model": "glm-5.3"
+}

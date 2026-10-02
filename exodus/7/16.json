@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ereátape chupe: Jahve, Elohim haʼeva ebreokuéragua, omondoma che nde rehe, heʼívo: Emondo ⟨את⟩ che avakuéra ha ombaʼapotáta che rehe kaʼaguy yvategua; ha peína, koʼag̃aite peve nderehéina.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ereátape"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "haʼeva ebreokuéragua"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "omondoma che"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "emondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che avakuéra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che avakuéra"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ha ombaʼapotáta che rehe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguy yvategua"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha peína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "-reheína"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-peve"
+    },
+    {
+      "surface": "כה",
+      "gloss": "koʼag̃aite"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:56.276073760Z",
+  "model": "glm-5.3"
+}

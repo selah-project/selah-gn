@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha ⟨את⟩ peangirũkuéra michĩva peipyty che gotyo, ha upéicha ojehechajeyta pe ñe'ẽ, ha peẽ ndapeimo'ãi. Ha ojapo upéicha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peangirũkuéra michĩva"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "peangirũkuéra"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "michĩva"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "peipyty"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che gotyo"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ojehechajeyta"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "pe ñe'ẽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "pemano"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:53.902474212Z",
+  "model": "glm-5.3"
+}

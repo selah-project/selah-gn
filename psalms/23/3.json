@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Che nepo ojevy jey; ohaitýpe chéve tsedek rapópe, itéra réirã.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "che nepo"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "ojevy jey"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ohaitýpe chéve"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "rapópe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "réirã"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "itéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:35.733081635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Jahve ⟨haʼe⟩ mburuvicha guasu koʼẽg̃uare ha sapyʼanteve; umi tetãnguéra oñembyai hese ⟨i⟩ yvygui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "koʼẽg̃uare"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha sapyʼanteve"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "hese yvygui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:48.066817928Z",
+  "model": "glm-5.3"
+}

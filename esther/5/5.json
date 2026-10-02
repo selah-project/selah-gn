@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha mburuvicha he'i: Eñani ⟨את⟩ Haman rehe, ejapo haguã ⟨את⟩ Ester mba'ejerure. Ha mburuvicha ha Haman ou jy'aguasu pe Ester ojapova'ekue.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Eñani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ejapo haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester mba'ejerure"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mba'ejerure"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ha Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "jy'aguasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapova'ekue"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-02T17:26:40.020049406Z",
+  "model": "glm-5.3"
+}

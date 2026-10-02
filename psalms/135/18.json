@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Upeichagua hína umi apohára; opaite umi ojerovia vaʼekue hesekuéra.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "upeichagua"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hína"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "umi apohára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi... vaʼekue"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ojerovia"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hesekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:06.154678301Z",
+  "model": "glm-5.3"
+}

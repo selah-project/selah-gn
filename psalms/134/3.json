@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 134,
+  "translation": "Ojopa ndeve Jahve Tsiyóngui, pe ojapóva yvága ha yvy.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Ojopa ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyóngui"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pe ojapóva"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ha yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:34.867500839Z",
+  "model": "glm-5.3"
+}

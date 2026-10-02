@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Peteĩ ñemoñare henói ñemomba'e ambue ñemoñarépe nde mba'apokuéra rehe, ha nde ipu'akakuéra omombe'u.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Peteĩ ñemoñare"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ambue ñemoñarépe"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "henói ñemomba'e"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nde mba'apokuéra"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ha nde ipu'akakuéra"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "omombe'u"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:38.648232223Z",
+  "model": "glm-5.3"
+}

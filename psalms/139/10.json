@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Upépe avei nde po cheguataha, ha nde po akatúa che japyhy.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "cheguataha"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "che japyhy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nde po akatúa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:39.403530860Z",
+  "model": "glm-5.3"
+}

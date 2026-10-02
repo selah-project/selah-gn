@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Elohim ojapo ⟨את⟩ mokõi tesapỹi guasu, ⟨את⟩ tesapỹi guasu ára mburuvicharã ha ⟨את⟩ tesapỹi michĩ pyhare mburuvicharã, ha ⟨את⟩ mbyja kuéra.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi tesapỹi guasu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "tesapỹi"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tesapỹi guasu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "tesapỹi"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "tesapỹi michĩ"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "tesapỹi"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "michĩ"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mbyja kuéra"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "mbyja kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:07.061573834Z",
+  "model": "glm-5.3"
+}

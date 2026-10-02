@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha okyrũ chupekuéra ári ⟨את⟩ man karãi hag̃ua, ha ⟨את⟩ avati yvágagui omeʼẽ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "okyrũ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chupekuéra ári"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "karãi hag̃ua"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ha avati"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:54.453602038Z",
+  "model": "glm-5.3"
+}

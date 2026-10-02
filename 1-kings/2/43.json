@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha mbaʼérepa nderejapói cheservi Jahve ⟨את⟩ ñeʼẽmeʼẽ ha ⟨את⟩ pe mboʼe che ameʼevaʼekue ndeve?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Ha mbaʼérepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "rejapói cheservi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe mboʼe"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pe mboʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "che ameʼevaʼekue"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:39:17.146370539Z",
+  "model": "glm-5.3"
+}

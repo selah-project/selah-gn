@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Eheja nde py ojesapyrã umi oñembyaimípe opaevévove; opa mba'e vai ojapóva ñorãirõhára ⟨araka'eve⟩ ⟨marangatu⟩ ⟨ rendápe⟩.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Eheja nde py ojesapyrã"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "nde jeguata"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "umi oñembyaimípe"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "opaevévove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa mba'e"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:02.699257594Z",
+  "model": "glm-5.3"
+}

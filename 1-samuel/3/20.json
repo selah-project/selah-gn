@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha opaite Jisrael oikuaa, Dan guive Berchava peve, Shemuel haʼeha nabi ramo Jahvégui.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "chava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "haʼe jevy'akopyre"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "nabi ramo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvégui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:15.493725099Z",
+  "model": "glm-5.3"
+}

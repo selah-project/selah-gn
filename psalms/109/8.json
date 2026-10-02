@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Oikó hag̃ua michĩnte hembikuéra, ha ambue ogueraháta iñangareko.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Oikó hag̃ua"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hembikuéra"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "michĩnte"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "iñangareko"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:13.967340285Z",
+  "model": "glm-5.3"
+}

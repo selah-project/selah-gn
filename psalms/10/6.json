@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "He'i ikorasõme: nahániri, nañembyasy mo'ãi; ñemoñare guive ñemoñare me, oiméva nahániri ivaíva che rehe.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "He'i"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ikorasõme"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nañembyasy mo'ãi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ñemoñare guive"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ñemoñare me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ivaíva che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:34.363889109Z",
+  "model": "glm-5.3"
+}

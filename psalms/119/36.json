@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Emombegue che korasõ nde jeʼekuéra gotyo, ani mbaʼe jokoʼi gotyo.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Emombegue"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "nde jeʼekuéra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mbaʼe jokoʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:23.087617902Z",
+  "model": "glm-5.3"
+}

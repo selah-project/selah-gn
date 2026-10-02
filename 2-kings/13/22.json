@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Jazael, Aram mburuvicha, ojopy ⟨את⟩ Jisrael Jehoajas ára opaite aja.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Ha Jazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoajas"
+    }
+  ],
+  "timestamp": "2026-10-02T19:06:11.986148849Z",
+  "model": "glm-5.3"
+}

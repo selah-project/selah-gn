@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Jahve ohendu Jisrael ñe'ẽ, ha ome'ẽ ⟨את⟩ pe kanaanita; ha Jisrael oboykepaí ⟨אתהם⟩ ha ⟨את⟩ umi tavakuéra; ha ohenói tenda réra Chorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kanaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "pe kanaanita"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "oboykepaí"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨אתהם⟩",
+      "marks": "pe kanaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi tavakuéra"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "umi tavakuéra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tenda réra"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-10-02T09:31:27.294467169Z",
+  "model": "glm-5.3"
+}

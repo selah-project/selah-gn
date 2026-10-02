@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha umi pa'i retevu oha'a tatápe umi hembiporu mbovihápe, ha oipotu ⟨את⟩ Juhudia ha ⟨את⟩ Jerusalaim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "ha retevu"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "oha'a tatápe"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "mbovihakuéra pe"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "oipotu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juhudia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juhudia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:38:47.303368039Z",
+  "model": "glm-5.3"
+}

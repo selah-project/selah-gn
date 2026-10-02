@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Chẽ ⟨che py'a⟩ nde ñe'ẽme'ẽnguéra rehe, Jahve; ani che mbovy'ai.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "chẽ"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "nde ñe'ẽme'ẽnguéra rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "che mbovy'ai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:37.790859849Z",
+  "model": "glm-5.3"
+}

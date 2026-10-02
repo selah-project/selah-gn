@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ani remaʼerã, che ⟨את⟩ ndive che ajégui; kuarahy resẽyguio aguerúta ⟨את⟩ nde raʼỹi, ha kuarahy oikehágui ambyatyta ⟨את⟩ nde.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "remaʼerã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che ajégui"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ che ndive",
+      "marks": "che (ani)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuarahy resẽyguio"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "aguerúta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nde raʼỹi"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ha kuarahy oikehágui"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ambyatyta nde"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:51.881272507Z",
+  "model": "glm-5.3"
+}

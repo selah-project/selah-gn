@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Moav pohýi: pyhare pyte iko Ar Moav oñembyai, Moav oñemomichĩ; pyhare pyte iko Kir Moav oñembyai, Moav oñemomichĩ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pohýi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "pyhare pyte"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "oñemomichĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "pyhare pyte"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "oñemomichĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:36:20.565818754Z",
+  "model": "glm-5.3"
+}

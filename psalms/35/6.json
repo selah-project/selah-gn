@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Oiko va'erã iñe'ẽrata pytũmbýpe ha eguasu okapeguáva, ha Jahve malangatu omongeta va'erã chuguãkuéra.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Oiko va'erã"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "iñe'ẽrata"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytũmbýpe"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ha eguasu okapeguáva"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ha ⟨malak⟩ marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "omongeta va'erã chuguãkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:39.206365779Z",
+  "model": "glm-5.3"
+}

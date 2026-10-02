@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha oiko, Shelomo rembiapópe, ojapo rire ⟨את⟩ Jahve óga ha ⟨את⟩ mburuvicha óga, ha ⟨את⟩ Shelomo mbaʼerechakuaa opaite oipotáva rejapo",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "rembiapópe, ojapo rire"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mburuvicha óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite mbaʼerechakuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "mbaʼerechakuaa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oipotáva"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "rejapo"
+    }
+  ],
+  "timestamp": "2026-10-02T19:01:54.637712385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Epytuʼu pyʼa veragui, ha eheja ne pyʼahetu; ani reñembyasy — mbaʼe vai jejapópe año.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Epytuʼu"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "pyʼa vera rehegui"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ha eheja"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ne pyʼahetu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "reñembyasy"
+    },
+    {
+      "surface": "אך",
+      "gloss": "año"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "mbaʼe vai jejapópe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:16.760457710Z",
+  "model": "glm-5.3"
+}

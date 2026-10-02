@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha David ohupyty ⟨את⟩ umi ñuʼã itaju oĩvaʼekue Hadadezer mbokuarahára ijavýpe, ha ogueru Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ha ohupyty"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñuʼã itaju"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ñuʼãnguéra"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩvaʼekue"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oĩvaʼekue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ijavýpe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mbokuarahára"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:36.998670899Z",
+  "model": "glm-5.3"
+}

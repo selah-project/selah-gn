@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Mba'érepa emokañy ⟨nde hova⟩, ha remongueruvi ore asýre ha ore jopýre?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mba'érepa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde hova"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "emokañy"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "remongueruvi"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ore asy"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "ha ore jopy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:33.851875462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 50:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha iña ra'ỹikuéra ogueraha ⟨את⟩ chupe Kenaan yvýpe, ha oñenohẽ ⟨את⟩ chupe Makhpelah ñu'ĩ kuarirogua ryepýpe, pe Avraham ojogua ⟨את⟩ pe ñu'ĩ oñenohẽ hag̃ua rendárõ, ⟨את⟩ Efron pe hitita pegua, Mamre renondépe.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "iña ra'ỹikuéra ogueraha hikuái"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iña ra'ỹikuéra"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ha oñenohẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Makhpelah ñu'ĩ kuarirogua ryepýpe"
+    },
+    {
+      "surface": "במערת",
+      "gloss": "kuarirogua ryepýpe"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ñu'ĩ"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "Makhpelah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ojogua"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñu'ĩ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pe ñu'ĩ"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "rendárõ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "oñenohẽ hag̃ua"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ pegua"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "pe hitita"
+    },
+    {
+      "surface": "על",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:10.261321839Z",
+  "model": "glm-5.3"
+}

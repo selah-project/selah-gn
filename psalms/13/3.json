@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Mboy peve amoĩta jeikatu che pytu ryepýpe, py'aguapy'ỹ che korasõme ara arapa'ũme? Mboy peve che ñorairõhára oguatakyta che ári?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mboy peve"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "אשית",
+      "gloss": "amoĩta"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "jeikatu"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "che pytu ryepýpe"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "py'aguapy'ỹ"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "che korasõme"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ara arapa'ũme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Mboy peve"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ירום",
+      "gloss": "oguatakyta"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "che ñorairõhára"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:49.195648805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Chizkia omeʼẽ ⟨את⟩ opaite kuarepoti ojejuhúva Jahve rógape ha mburuvicha róga mbaʼerepykuéra rógape.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite kuarepoti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ojejuhúva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rógape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ha mbaʼerepykuéra rógape"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:02.792001859Z",
+  "model": "glm-5.3"
+}

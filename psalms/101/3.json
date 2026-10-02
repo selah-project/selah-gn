@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 101,
+  "translation": "Che resaite renondépe ndaamoĩmoʼãi mbaʼe Belial rehegua; umi ojejaityva apopy che ndaijaʼei, upéva ndoñemombaʼemoʼãi che rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda-…moʼãi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "amoĩ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resaite"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "apopy"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "umi ojejaityva"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "che ndaijaʼei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd…oʼãi"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "oñemombaʼe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:30.737292502Z",
+  "model": "glm-5.3"
+}

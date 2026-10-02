@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Oguahẽta ñande Elohim ha anoĩ kaneʼỹ̀ ndojukysãi: tata ikuéra pe oʼu, ha ijerére oñembovyvy yvytu rasy ete.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Oguahẽta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "anoĩ kaneʼỹ̀ ndojukysãi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ikuéra pe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "oʼu"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "oñembovyvy yvytu rasy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ete"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:53.751669635Z",
+  "model": "glm-5.3"
+}

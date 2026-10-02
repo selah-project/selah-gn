@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jisrael raʼýkuéra oiko umi Kenaani, Jeti, Emori, Perizi, Jivi ha Jevusi apytépe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ha … raʼýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "umi Kenaani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Jeti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ha Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ha Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ha Jivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ha Jevusi"
+    }
+  ],
+  "timestamp": "2026-10-02T10:34:01.270631190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ivytu iporãva oguereko pe kuimbaʼe ojapóva Jahve itokyha, ha ndojepyso vaʼeku umi rehavai rehe, umi ojepysóva iñeʼẽrãvai ñeʼẽvyre rehe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivytu iporãva oguereko"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "itokyha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ojepyso vaʼeku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "umi rehavai"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "umi ojepysóva"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "iñeʼẽrãvai ñeʼẽvyre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:55.398857855Z",
+  "model": "glm-5.3"
+}

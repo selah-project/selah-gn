@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ára hetakuéma rire, umi Amon raʼýkuéra oñorairõ Jisrael rehe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ára hetakuéma rire"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "oñorairõ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:46:41.207075944Z",
+  "model": "glm-5.3"
+}

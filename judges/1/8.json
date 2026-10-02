@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Juhda raʼykuéra oñorãirõ Jerusalaim rehe, ha oipeʼu ⟨את⟩ chupe, ha oiporuku ⟨pereve jurúpe⟩, ha ⟨את⟩ táva omondo tatape.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juhda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim rehe"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "oipeʼu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "oiporuku"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jurúpe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pereve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:13.802288721Z",
+  "model": "glm-5.3"
+}

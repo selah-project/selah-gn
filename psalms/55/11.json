@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Asaje araque ha pyhare kue ojeréreko hese ku'i ári, ha ñemoĩ'ỹ ha jeviava'erã oĩ iñapytũnguépe.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "asaje araque"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare kue"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ojeréreko hese"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku'i ári"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "iñaku'i"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ha ñemoĩ'ỹ"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ha jeviava'erã"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "iñapytũnguépe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:59.203940043Z",
+  "model": "glm-5.3"
+}

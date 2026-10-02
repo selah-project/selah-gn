@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 11:20",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve Tsevaot, oiporojoeʼẽva tsedek, ohecháva pyʼa ruguai ha korasõ, ahechase ne ñemonguera chuguikuéra rehe, che amoñeʼẽ rupi ndehegui ⟨את⟩ che jehupytyrã.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "oiporojoeʼẽva"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "ohecháva"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "pyʼa ruguai"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ha korasõ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ahechase"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "ne ñemonguera"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che amoñeʼẽ rupi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndehegui"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "amoñeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jehupytyrã"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "che jehupytyrã"
+    }
+  ],
+  "timestamp": "2026-10-02T13:18:15.535010205Z",
+  "model": "glm-5.3"
+}

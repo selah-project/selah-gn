@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ⟨את⟩ umi pyrenda pa, ha ⟨את⟩ umi jepohéiha pa oĩva umi pyrenda ári.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pyrenda pa"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pyrenda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jepohéiha pa"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "jepohéiha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pyrenda"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:56.568836271Z",
+  "model": "glm-5.3"
+}

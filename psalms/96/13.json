@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Jahve renondépe; haʼe ou haguãre, ou haguãre ojuehehápe ⟨את⟩ yvy. Haʼe ojuehéta ⟨את⟩ yvy ape tsedek rehe, ha tetãnguéra heʼíva ichupe arakaʼeve ndoikoporãi ramo.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguãre"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ojuehehápe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ojuehéta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yvy ape"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tsedek rehe"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ha tetãnguéra"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "heʼíva ichupe arakaʼeve ndoikoporãi ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:41.946041335Z",
+  "model": "glm-5.3"
+}

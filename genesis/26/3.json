@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 26:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Eiko tapiaichagua ko yvýpe, ha aháta ndive ndeve ha ambarete ndeve; che ameʼẽta ndéve ha nde raʼý kuéra pe ⟨את⟩ opaite ko yvy, ha ajapóta ijapysaka ⟨את⟩ pe ñeʼẽmeʼẽ che añeʼẽmeʼẽ vaʼekue Avraham, nde ru.",
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "eiko tapiaichagua"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "aháta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive ndeve"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ambarete ndeve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "nde raʼý kuéra pe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ameʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ko yvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "ajapóta ijapysaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "añeʼẽmeʼẽ vaʼekue"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham pe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    }
+  ],
+  "timestamp": "2026-10-02T07:46:55.515651388Z",
+  "model": "glm-5.3"
+}

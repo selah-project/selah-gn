@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Emondo nde ruah, ojapojey; ha emboajey yvy rakã.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Emondo"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "nde ruah"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ojapojey"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "ha emboajey"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rakã"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:50.099005372Z",
+  "model": "glm-5.3"
+}

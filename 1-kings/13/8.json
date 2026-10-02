@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Elohim-rape kuimbaʼe ohecha pe mburuvicha rehe: Emeʼẽramo chéve ⟨את⟩ nde óga mokõiha, nachegueromoʼãi nde ndive, ha nachekaruãi mbujape, ha nahekaruʼãi y ko térape.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohecha... rehe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-rape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde óga mokõiha"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde óga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na...ãi"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "nachegueromoʼãi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde ndive"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha na...ãi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nachekaruãi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha na...ãi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "nahekaruʼãi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "térape"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:42.357098505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha pe kuaa yvyrágui — iporã ha ivaíva kuaa rehe — ndere'umo'ãi chugui; pe árape re'úramo chugui, reikotáma, reikópa.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "Ha pe ... yvyrágui"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ha ivaíva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...mo'ãi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dere'u"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pe árape"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "re'úramo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "מות",
+      "gloss": "reikotáma"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "reikópa"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:23.841321018Z",
+  "model": "glm-5.3"
+}

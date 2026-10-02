@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 2:3",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha ohóta, ou ha ojopysy ⟨the⟩ ñu-pe ⟨pe⟩ kuaakuéra rere, ha ojehúva chupe — ⟨the⟩ ñu voreʼígui Boaz mbaʼéva, Elimélej ogagua pegua.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ohóta"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ותלקט",
+      "gloss": "ojopysy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ñu-pe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rere"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "kuaakuéra"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ojehúva"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ojehúva chupe"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "voreʼígui"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ñu"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boaz mbaʼéva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pegua"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "ogagua pegua"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimélej"
+    }
+  ],
+  "timestamp": "2026-10-02T17:14:32.517123638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ojesáta hikuái maʼẽhára jejopyrãva; mbaʼe che ndaikuaaʼýva che jerure hikuái.",
+  "tokens": [
+    {
+      "surface": "יקומוני",
+      "gloss": "ojesáta hikuái"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "maʼẽhára"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jejopyrãva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaikuaaʼýva"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "che jerure hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:21.885648700Z",
+  "model": "glm-5.3"
+}

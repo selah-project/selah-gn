@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Anive rembojoaju cherehe umi marangako'ỹva ndive ha umi mba'e vai japoséva ndive, oñe'ẽva py'aguapy iñirũnguéra ndive, oĩramo jepe vai i py'ápe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Anive"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "rembojoaju cherehe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi marangako'ỹva"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha ndive"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "umi japoséva"
+    },
+    {
+      "surface": "און",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "oñe'ẽva"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "py'aguapy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "iñirũnguéra"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "i py'ápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:31.875114304Z",
+  "model": "glm-5.3"
+}

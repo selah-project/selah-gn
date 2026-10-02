@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha irundypa ijavaʼukuéra viru mbaʼégui: mokõi javaʼu peteĩ kerech guýpe, ha mokõi javaʼu ambue kerech guýpe.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ha irundyapa"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "ijavaʼukuéra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "viru mbaʼégui"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "javaʼu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "peteĩ kerech"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha mokõi"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "javaʼu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ambue kerech"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ambue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:26:52.189977990Z",
+  "model": "glm-5.3"
+}

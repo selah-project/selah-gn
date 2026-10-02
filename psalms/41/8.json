@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Oñondivepa umi che ndaijaʼéivakuéra oñeʼẽmbegue che rehe; che rehe ojaposéi mbaʼe vai che reheguã.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "oñondivepa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "oñeʼẽmbegue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "umi…kuéra"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "che ndaijaʼéivakuéra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ojaposéi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che reheguã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:37.431578076Z",
+  "model": "glm-5.3"
+}

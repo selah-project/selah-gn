@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ha upéi, ajevyta ⟨את⟩ Amón mitãkuéra remananógui, heʼi Jahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ajevyta"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ajevyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amón mitãkuéra remananógui"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "temananógui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãkuéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T13:49:16.582433903Z",
+  "model": "glm-5.3"
+}

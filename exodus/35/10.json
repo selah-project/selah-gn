@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha peẽ apytépegui opavave apytuʼũ rokýva, ou ha ojapo ⟨את⟩ opa mbaʼe Jahve ojerure.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ha opavave"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "apytuʼũ rokýva"
+    },
+    {
+      "surface": "לב",
+      "gloss": "apytuʼũ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "peẽ apytépegui"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ha ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:40.201584489Z",
+  "model": "glm-5.3"
+}

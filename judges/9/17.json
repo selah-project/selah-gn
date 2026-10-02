@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Che ru oñorãirõ peẽre, ha omondo'i ⟨את⟩ hekove ⟨pe'ãhápe⟩, ha oipe'a ⟨את⟩peẽ Madián ipógui.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽre"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ha omondo'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekove"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hekove"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "⟨pe'ãhápe⟩"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ha oipe'a"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩peẽ",
+      "marks": "Madián ipógui"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ipógui"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Madián"
+    }
+  ],
+  "timestamp": "2026-10-02T18:56:28.442763548Z",
+  "model": "glm-5.3"
+}

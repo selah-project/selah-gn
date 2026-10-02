@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha lishkakuéra renondépe oĩ peteĩ guataha ipekue pa ama ryepy gotyo, tape peteĩ ama; ha ijeikeha kuéra oĩ yvate gotyo.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "ha renondépe"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "lishkakuéra"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "guataha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ryepy gotyo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "ha ijeikeha kuéra"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "yvate gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T14:37:20.015681280Z",
+  "model": "glm-5.3"
+}

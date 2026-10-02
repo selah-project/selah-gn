@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 98,
+  "translation": "Mizmor. Ejahei Jahve-pe purahéi pyahu, ha'e niko ojapo mba'e porã ijavypáva: ipo akatúa ha ipo rapyta marangatu ogueru chupe ipu'aka.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Ejahei"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mba'e porã ijavypáva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ogueru ipu'aka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ipo akatúa"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ha ipo rapyta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:32.957277750Z",
+  "model": "glm-5.3"
+}

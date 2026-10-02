@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jahve ombohasa'asy ⟨את⟩ Paroh mba'asy guasúre, ha ⟨את⟩ hoga'ỹva, Sarai — Avram rembireko — rehegua.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "ombohasa'asy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "mba'asy guasúre"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hoga'ỹva"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hoga'ỹva"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "rembireko"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:25.863378961Z",
+  "model": "glm-5.3"
+}

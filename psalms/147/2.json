@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Jahve omopuʼã Jerusalaim; oñembyaty umi oñemosẽva Jisrael-gui.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "umi oñemosẽva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael-gui"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "oñembyaty"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:52.710167995Z",
+  "model": "glm-5.3"
+}

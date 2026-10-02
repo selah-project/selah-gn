@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 2:4",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha aheʼi: mbaʼépa koʼã oúva ojapo hag̃ua? Ha haʼe ohechauka heʼívo: Koʼã haʼe umi taso osaỹijóva ⟨את⟩ Jihuda, upévare ndaipóri yvypóra ojupíva iñakã; ha koʼã ou ⟨את⟩ omongyhyje hag̃ua ⟨אתם⟩, ⟨את⟩ oipeʼa hag̃ua ⟨את⟩ umi tetãnguéra taso, umi ombotuʼíva itaso Jihuda yvy ári, osaỹijo hag̃ua hese.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ha aheʼi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "באים",
+      "gloss": "oúva"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha haʼe ohechauka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "umi taso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "saʼe"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "osaỹijóva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jihuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ojupíva"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha koʼã ou"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "להחריד",
+      "gloss": "⟨את⟩ omongyhyje hag̃ua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umi taso osaỹijóva Jihuda"
+    },
+    {
+      "surface": "לידות",
+      "gloss": "⟨את⟩ oipeʼa hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tetãnguéra taso"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "taso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "umíva ombotuʼíva"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "itaso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "לזרותה",
+      "gloss": "osaỹijo hag̃ua hese"
+    }
+  ],
+  "timestamp": "2026-10-02T19:20:23.061577877Z",
+  "model": "glm-5.3"
+}

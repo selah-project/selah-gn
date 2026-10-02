@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Rejavyrõ, mbaʼépa rejapo chupe; ha heta jey rejavyrõ, mbaʼépa rejapo chupe?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "rejavy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ha heta jey"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "nderapekorãkuéra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:04:47.750968902Z",
+  "model": "glm-5.3"
+}

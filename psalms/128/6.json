@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 128,
+  "translation": "Ha ereʼejáta nde raʼýra raʼýra. Tekoete opa Jisrael rehe.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ha ereʼejáta"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "raʼýra"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "nde raʼýra"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Tekoete"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:01.414373097Z",
+  "model": "glm-5.3"
+}

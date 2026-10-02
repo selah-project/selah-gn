@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Jahechápe haʼe oikuaaite ñande raʼanga; ohayhu manduʼa ñande rehe, jaikuéicha yvyguy ñande jaikove.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jahechápe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaaite"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ñande raʼanga"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ohayhu manduʼa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaikuéicha"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "yvyguy"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñande"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:33.580710713Z",
+  "model": "glm-5.3"
+}

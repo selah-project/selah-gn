@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha oñeʼẽ hikuái Moche rehe, heʼi hag̃ua: hetaiterei pe kuéra ogueru hína, hetave tembiaporã rehe tekotevẽhái, pe tembiapóre Jahve ojerure ojapo hag̃ua ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "oñeʼẽ hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hag̃ua"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "hetaiterei ogueru hína"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe kuéra"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ogueru hag̃ua"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "hetave tekotevẽhái"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tembiaporã rehe"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "tembiapópe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe tembiapóre"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe tembiapo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:23.499832807Z",
+  "model": "glm-5.3"
+}

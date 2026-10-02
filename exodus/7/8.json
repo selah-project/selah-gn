@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Jahve oñeʼẽ Moche rehe ha Aharon rehe, heʼi haguã:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:16.284017456Z",
+  "model": "glm-5.3"
+}

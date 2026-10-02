@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha heʼi: Che pyʼarõme ahenói Jahve rehe, ha cheneʼẽantekuri; Cheol iñakãratĩguiguive ahenói, ha nderechakuaa che ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "che pyʼarõme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehegua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "cheneʼẽantekuri"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "iñakãratĩguiguive"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nderechakuaa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:44.974702827Z",
+  "model": "glm-5.3"
+}

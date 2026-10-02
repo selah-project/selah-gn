@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Jahve ombogue ⟨את⟩ tetãnguéra ñemoõirã, omboyke ⟨את⟩ tapichakuéra aporape.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "ombogue"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ñemoõirã"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "omboyke"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "aporape"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tapichakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:01.593700848Z",
+  "model": "glm-5.3"
+}

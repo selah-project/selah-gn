@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Umi che jereregua iñakãguasu, ijyvake mbaʼe vai oñembotýta chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "che jereregua"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ijyvake"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "oñembotýta chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:41.010681923Z",
+  "model": "glm-5.3"
+}

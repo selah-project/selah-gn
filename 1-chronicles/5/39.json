@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Shallum omoñemoñare ⟨את⟩ Chilhijah, ha Chilhijah omoñemoñare ⟨את⟩ Azarjah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ha Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omoñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilhijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilhijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ha Chilhijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omoñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-10-02T18:01:42.987609324Z",
+  "model": "glm-5.3"
+}

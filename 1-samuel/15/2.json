@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Upéicha heʼi Jahve Tsevaot: Che ahecha ⟨את⟩ pe ojapovaʼekue Amalek Jisrael-pe, pe omoĩvaʼekue chupe tape ápe, osẽvo Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "che ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ojapovaʼekue Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "omoĩvaʼekue"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape ápe"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "osẽvo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:07:07.649850501Z",
+  "model": "glm-5.3"
+}

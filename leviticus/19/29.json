@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani rembojuruja ⟨את⟩ neñemoñare ani hag̃ua ojeporu kuña reheve, ha ani ojeporu yvy kuña reheve, ani oñemyenyhẽ yvy mbaʼevai rehe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "rembojuruja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neñemoñare"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "neñemoñare"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "ani hag̃ua ojeporu kuña reheve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ojapóta jeporu kuña rehe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ha oñemyenyhẽta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mbaʼevai rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:31.641976767Z",
+  "model": "glm-5.3"
+}

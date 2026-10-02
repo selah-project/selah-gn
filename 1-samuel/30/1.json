@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Upéi oiko: David ha ikuimba'ekuéra og̃uahẽvo Tsiklag-pe, mbohapyha árape, Amaleki-kuéra oñemosarambi Negev-pe ha Tsiklag-pe, oity ⟨את⟩ Tsiklag ha omondyi ⟨את⟩ chupe tataĩme.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Upéi oiko"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "og̃uahẽvo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ha ikuimba'ekuéra"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag-pe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "mbohapyhápe"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "Amaleki-kuéra"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "oñemosarambi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha -pe"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ha omondyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (Tsiklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tataĩme"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:56.257690325Z",
+  "model": "glm-5.3"
+}

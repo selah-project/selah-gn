@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha upéi Ever oiko oñemoñari rire ⟨את⟩ Peleg, mbohapypa ha irundy sa ary, ha omombaʼapypo taʼýra kuñataĩ ha kuimbaʼéra.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéi rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "oñemoñari rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ha irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omombaʼapo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kuimbaʼéra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha kuñataĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:38.863210626Z",
+  "model": "glm-5.3"
+}

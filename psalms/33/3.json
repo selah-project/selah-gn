@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Purahéi chupe purahéi pyahu; iporãmbápe epu púro tarara reheve.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "iporãmbápe"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "epu púro"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "tarara reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:34.225686299Z",
+  "model": "glm-5.3"
+}

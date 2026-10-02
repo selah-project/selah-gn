@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha pe mburuvicha oipeʼa ⟨את⟩ itaju joʼa ohóiva Haman pegua, omeʼẽ Mordojaípe; ha Ester omoĩ Mordojai ⟨את⟩-pe Haman óga ári.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaju joʼa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "itaju joʼa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohóiva"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "oguiyy"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Haman pegua"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordojaípe"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordojai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordojai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-10-02T17:29:53.905676008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ojapo ⟨את⟩ pe ju mbytegua, ohasa hag̃ua umi yvyra pehẽ iñapytu'ũme, peteĩ ñasakã guive pe ambue ñasakã peve.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ju mbytegua"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "pe ju"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "mbytegua"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ohasa hag̃ua"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iñapytu'ũme"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "umi yvyra pehẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "peteĩ ñasakã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "pe ambue ñasakã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:08.417942205Z",
+  "model": "glm-5.3"
+}

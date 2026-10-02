@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha pe yvy oñembyai, ha amoĩ ichupe imbaʼevai, ha pe yvy onohẽ hiʼágui ⟨את⟩ umi ipype oikóva.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "amoĩ ichupe"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "imbaʼevai"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "onohẽ hiʼágui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ipype oikóva"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "umi ipype oikóva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:15.169539873Z",
+  "model": "glm-5.3"
+}

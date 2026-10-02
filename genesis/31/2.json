@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Jaakov ohecha ⟨את⟩ Lvan jose ha, nemanduʼávo, peẽ, ndahaʼéi chondive kuehe ha kuehe mboyveguáicha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan jose"
+    },
+    {
+      "surface": "פני",
+      "gloss": "jose"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha, nemanduʼávo, peẽ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "chondive"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kuehe"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ha kuehe mboyveguáicha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:29.511234886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ohenói hikuái ⟨את⟩ Binjamín membykuéra rehe, heʼívo: Eho, peẽ kaneʼõʼỹme kaʼaguýpe pendeñembyaty.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ha ohenói hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamín membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamín"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "peẽ kaneʼõʼỹme... pendeñembyaty"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "kaʼaguýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:52:48.264534720Z",
+  "model": "glm-5.3"
+}

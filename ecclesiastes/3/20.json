@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Opaite oho peteĩ tendápe; opaite osẽ yvyguygui, ha opaite ojevy jey yvyguy pe.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "peteĩ tendápe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היה",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yvyguygui"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "yvyguy"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ojevy jey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "yvyguy"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:20.536758933Z",
+  "model": "glm-5.3"
+}

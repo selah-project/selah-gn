@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Upeichaháicha Jahve ojapouka Mochepe ⟨את⟩, upéicha ojapo Tselofejad taʼýakuéra.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "upeichaháicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojapouka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "taʼýakuéra"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofejad"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:40.808267651Z",
+  "model": "glm-5.3"
+}

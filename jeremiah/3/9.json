@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéicha, iñemoñakã mbeguekatúgui, ⟨את⟩ yvy oñembyai, ha ojapo ñemoñakã ⟨את⟩ ita rehe ha ⟨את⟩ yvyra rehe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha upéicha"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "iñemoñakã mbeguekatúgui"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "iñemoñakã"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ojapo ñemoñakã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ita"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvyra"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "yvyra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:07:41.167814980Z",
+  "model": "glm-5.3"
+}

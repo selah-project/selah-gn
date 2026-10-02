@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Che ahenói nderehe, péicharupi reñembohovái chéve, El; embovyʼa ne apysa cheve, nerendu che ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ahenói nderehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "péicharupi"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "reñembohovái chéve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "embovyʼa"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ne apysa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nerendu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "che ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:52.265801059Z",
+  "model": "glm-5.3"
+}

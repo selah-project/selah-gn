@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Mána, roñehendu chupe Efratape, rojuju chupe ka'aguý ñu kuérape.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mána"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "roñehendu chupe"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efratape"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "rojuju chupe"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "ñu kuérape"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ka'aguý"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:43.146214773Z",
+  "model": "glm-5.3"
+}

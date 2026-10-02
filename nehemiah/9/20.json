@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 9:20",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ne ruah porãva eme'ẽ chupekuéra omo'akaa hag̃ua, ha ne man ndeipe'ei iñjuruguive, ha y eme'ẽ chupekuéra oikotevẽ haguére.",
+  "tokens": [
+    {
+      "surface": "ורוחך",
+      "gloss": "ha ne ruah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "porãva"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "eme'ẽ"
+    },
+    {
+      "surface": "להשכילם",
+      "gloss": "omo'akaa hag̃ua chupekuéra"
+    },
+    {
+      "surface": "ומנך",
+      "gloss": "ha ne man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "reipe'ei"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "iñjuruguive"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ha y"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "eme'ẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "לצמאם",
+      "gloss": "oikotevẽ haguére"
+    }
+  ],
+  "timestamp": "2026-10-02T17:57:30.226281434Z",
+  "model": "glm-5.3"
+}

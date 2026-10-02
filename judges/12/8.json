@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha iñakã rire, ohai'o ⟨את⟩ Jisrael rehe Ibsan, Bet Léjem-gua.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ohai'o"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "iñakã rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Léjem-gua"
+    }
+  ],
+  "timestamp": "2026-10-02T10:46:29.149078367Z",
+  "model": "glm-5.3"
+}

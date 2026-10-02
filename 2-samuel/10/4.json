@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Upévare Janun oguereko ⟨את⟩ David iñangirũnguéra, oikuaa heta pe hũetaita oguerekóva, ha oikutu hikuái iao mbytépe, hetymápe peve, ha omondyi chkuéra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Janun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David iñangirũnguéra"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "iñangirũnguéra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "oikuaa pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hũetaita"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "heta"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "hũetaita oguerekóva"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "oikutu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iao"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "iao"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "hetymápe"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "omondyi chkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:59:26.612934048Z",
+  "model": "glm-5.3"
+}

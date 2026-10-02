@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha che ajokuái ⟨את⟩ peẽ Mitsraim po gui, ha opaite peẽ jejaruhárape po gui; ha ahenói ⟨את⟩ chuguãkuéra peẽ renondépe, ha ameʼẽ peẽme ⟨את⟩ ikuéra yvy.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "ajokuái"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "Mitsraim po gui"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ha opaite ... po gui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "peẽ jejaruhárape"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chuguãkuéra",
+      "marks": "peẽ renondépe"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "peẽ renondépe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuéra yvy"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ikuéra yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:36:30.841294578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 6:18",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ani ema'ẽ ko'águi, che jeju peve ndéve, ha ahenói ⟨את⟩ che minha ha amohenda nde renondépe. Ha ohe'i chupe: Che ag̃uapy nde jevy peve.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמש",
+      "gloss": "ema'ẽ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko'águi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "באי",
+      "gloss": "che jeju"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "והצאתי",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che minha"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "che minha"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "amohenda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ag̃uapy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "nde jevy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:38:08.473796784Z",
+  "model": "glm-5.3"
+}

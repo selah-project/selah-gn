@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Chemuʼel oñemotenode ha ojupi Guilgal-gui, Guivʼat Binyamín-pe; ha Chaúl ojopa ⟨את⟩ umi tavaygua ijykére oĩva, poteĩsa kuimbaʼeElimina añónte rupi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "oñemotenode"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuʼel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Guilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Guivʼat"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamín"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ojopa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tavaygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavaygua"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ijykére"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "poteĩsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:57.035911875Z",
+  "model": "glm-5.3"
+}

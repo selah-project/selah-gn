@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojapo ⟨את⟩ umi kuarepoti jesareko yvyra chavaru yguygui, ha oñemboʼa ⟨את⟩ hikuái itaju rehe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kuarepoti jesareko"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "umi kuarepoti jesareko"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chavaru yguygui"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "oñemboʼa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hikuái"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:20.957618425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 98,
+  "translation": "Eñapymi Jahve kinor ndive, kinor ndive ha ⟨ñeʼẽ⟩ purahéi mimbipa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "eñapymi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor ndive"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor ndive"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ha ⟨ñeʼẽ⟩"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "purahéi mimbipa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:22.842140500Z",
+  "model": "glm-5.3"
+}

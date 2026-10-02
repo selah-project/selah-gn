@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Che pyʼaguy ojepyso pyʼỹi, che puʼãrã oheja che; ha che resãi jachyhai, umíva avei — ndaipóri ⟨את⟩ che ykére.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "che pyʼaguy"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ojepyso pyʼỹi"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "oheja che"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "che puʼãrã"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ha jachyhai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resãi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הם",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che ykére"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:55.434256899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ohaʼarõ jey pokõi ára ambuéva, ha ojapo jey omondo ⟨את⟩ pe yvyrarakã pe yvahágui.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ohaʼarõ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambuéva"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ojapo jey"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvyrarakã"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "yvyrarakã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "yvahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:10.660466009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Hai umi ñangarekohára omboráva ha ombojaóva ⟨את⟩ che tropechũ — heʼi Jahve.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hai"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ñangarekohára"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "omboráva"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "ombojaóva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che tropechũ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tropechũ"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "che tropechũ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T13:26:34.570835625Z",
+  "model": "glm-5.3"
+}

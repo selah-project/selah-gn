@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Jahve ojapoita ⟨את⟩ mbaʼasỹ ndivete, opaite peve ⟨את⟩ nde yvy mbaʼégui reikehápe upépe reñembyaty hagua.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "ojapoita ndivete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndivete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼasỹ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mbaʼasỹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בא",
+      "gloss": "reike"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "reñembyaty hagua"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:44.138448422Z",
+  "model": "glm-5.3"
+}

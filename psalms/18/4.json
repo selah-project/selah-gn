@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ojeherohávape aheno Jahve, ha upéva rehe che orairõhárakuéra apyte ajesãso.",
+  "tokens": [
+    {
+      "surface": "מהולל",
+      "gloss": "ojeherohávape"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aheno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha ... apyte"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "che orairõhárakuéra"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ajesãso"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:48.089013209Z",
+  "model": "glm-5.3"
+}

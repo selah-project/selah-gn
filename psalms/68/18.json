@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Elohim guataha hetaiterei, su hetáva jeyjey; Adonai oĩ hikuái apytépe, Sinai-pe, marangatu apytépe.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "guataha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "su hetáva"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "jeyjey"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hikuái apytépe"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai-pe"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:05.156320332Z",
+  "model": "glm-5.3"
+}

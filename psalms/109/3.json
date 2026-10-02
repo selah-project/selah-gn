@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ha umi ndaijaʼéi ñeʼẽ ojerereche cherehe, oñorairõ cherehe mbaʼeve reheʼỹre.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Ha umi ñeʼẽ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ndaijaʼéi"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ojerereche cherehe"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "oñorairõ cherehe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mbaʼeve reheʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:28.748758815Z",
+  "model": "glm-5.3"
+}

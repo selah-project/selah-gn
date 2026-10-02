@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upe oikundaháva oñeʼẽvo mbaʼe vai yvypóra rehegua, ohechauka mbaʼe ñemi; ha upe ruah jeroviaha, ohapejoko ⟨the⟩ ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "oikundaháva"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "oñeʼẽva mbaʼe vai yvypóra rehegua"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "mbaʼe ñemi"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "ha jeroviaha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ohapejoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:33:08.961541396Z",
+  "model": "glm-5.3"
+}

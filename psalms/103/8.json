@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Jahve iporiahuvereko ha ipyʼaporã, iñeno pyreg̃ua ⟨eno pyʼeite⟩, ha hesed tuichaitereíva.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "iporiahuvereko"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ha ipyʼaporã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pyreg̃ua"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "iñeno"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ha tuichaitereíva"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:54.840914002Z",
+  "model": "glm-5.3"
+}

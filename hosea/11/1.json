@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upeichaguare Jisrael mitã guare, ahaʼayhu chupe, ha Mitsraim-gui ahenói che raʼýpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upeichaguare"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ahaʼayhu chupe"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "che raʼýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:49:39.498683728Z",
+  "model": "glm-5.3"
+}

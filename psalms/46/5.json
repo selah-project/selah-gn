@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Peteĩ ygua, i-ysakuéra ombovy'a Elohim táva, Elyón Michkakuéra marangatu.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "ygua"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "i-ysakuéra"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ombovy'a"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Michkakuéra"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyón"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:51.548019629Z",
+  "model": "glm-5.3"
+}

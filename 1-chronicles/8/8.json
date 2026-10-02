@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Chajaráim omoheñói Moav ýpe, oimondo rire ⟨אתם⟩ chupekuéra — Chuchim ha ⟨את⟩ Baara — haʼe hembirekokuéra.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "ha Chajaráim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omoheñói"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "oimondo rire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Chuchim ha Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chuchim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hembirekokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:04:17.693969335Z",
+  "model": "glm-5.3"
+}

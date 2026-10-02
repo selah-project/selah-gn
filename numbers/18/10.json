@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Marangatuitereíva kotýpe reʼúta chugui ⟨את⟩; katuete kuimbaʼe kaiha oʼúta chugui ⟨את⟩; marangatu ndéve g̃uarã ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Marangatuitereíva kotýpe"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "marangatuitereíva"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "reʼúta chugui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katuete"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe kaiha"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oʼúta chugui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "marangatu (kuimbaʼe kaiha oʼúta chugui)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:28:02.086842148Z",
+  "model": "glm-5.3"
+}

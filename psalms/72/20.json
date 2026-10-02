@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Opáma David, Jichai raʼy, ñeʼẽjerurekuéra.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Opáma"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ñeʼẽjerurekuéra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jichai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:44.161413637Z",
+  "model": "glm-5.3"
+}

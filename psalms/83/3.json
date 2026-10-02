@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Nahániri, peẽ: nde ñorairõhára kuéra oñe'ẽ tuichaiterei hikuái, ha umi ndaija'éiva ndeve omyakã yvate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "nde ñorairõhára kuéra"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "oñe'ẽ tuichaiterei hikuái"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "umi ndaija'éiva ndeve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "omyakã"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "yvate"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:04.639455253Z",
+  "model": "glm-5.3"
+}

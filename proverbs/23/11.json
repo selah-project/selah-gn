@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Upévare, ijogueroviaʼãhára ipuʼakáva, haʼe oñorairõ ⟨את⟩ iñorairõ nde rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ijogueroviaʼãhára"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñorairõ"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "⟨את⟩ iñorairõ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nde rehe ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T16:40:31.830893568Z",
+  "model": "glm-5.3"
+}

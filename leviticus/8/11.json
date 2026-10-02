@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ombichichi michĩ upe kyrágui pe jemboykeháre, pokoĩ jey, ha oñandy ⟨את⟩ pe jemboykeha ha ⟨את⟩ opa imbaʼekue, ha ⟨את⟩ pe y ñemoĩha ha ⟨את⟩ iñypyrenda, omombaʼe haguã umi marangatu ramo.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "ombichichi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "upe kyrágui"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe jemboykeha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokoĩ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jey"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "oñandy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jemboykeha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe jemboykeha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa imbaʼekue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imbaʼekue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe y ñemoĩha"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "pe y ñemoĩha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñypyrenda"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "iñypyrenda"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "omombaʼe haguã marangatu ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:46.786522032Z",
+  "model": "glm-5.3"
+}

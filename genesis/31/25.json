@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Lavan ohupyty ⟨את⟩ Jaakov; Jaakov katu ohaʼã ⟨את⟩ ioty yvyty-pe, ha Lavan ohaʼã ⟨את⟩ ijoykeʼykuéra yvyty Gilad-pe.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Jaakov katu"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ohaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ioty"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ioty"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty-pe"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ha Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ohaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoykeʼykuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼykuéra"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty-pe"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:41.026614854Z",
+  "model": "glm-5.3"
+}

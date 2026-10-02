@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ani reñembyaraitéi esẽ hovagui, ani epyta mbaʼe vai rehe; haʼéichape opa mbaʼe oipota ojapo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "reñembyaraitéi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "hovagui"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "esẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "epýta"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mbaʼe rehe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼéichape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:29.937640243Z",
+  "model": "glm-5.3"
+}

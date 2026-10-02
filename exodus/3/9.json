@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéi, ni ha'e: pe ñe'ẽ tararaỹi Jisrael mitãnguéra mboyve che gotyo oguahẽ, ha ahecha avei ⟨את⟩ pe ñembohape opehẽva Mitsraim-yguára ojapo ⟨את⟩ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ni ha'e"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "pe ñe'ẽ tararaỹi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "oguahẽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che gotyo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñembohape"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "pe ñembohape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "opehẽva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-yguára"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:17.431231873Z",
+  "model": "glm-5.3"
+}

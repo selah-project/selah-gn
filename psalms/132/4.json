@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "ani ameʼẽ ke che jesápe, ani uhã che jesái guereikuérape;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "che jesápe"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "che jesái guereikuérape"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "uhã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:32.331319688Z",
+  "model": "glm-5.3"
+}

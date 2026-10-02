@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Upéicha Jahve oipeʼa ⟨את⟩ Jechikiahu ha ⟨את⟩ Jerusalaim rekoharape Sanjerivu, Asur mburuvicha guasu pógui, ha opavavégui pógui, ha oñangareko chukuéra ijerére.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jechikiahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jechikiahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim rekoharape"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "rekoharape"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanjerivu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ha ...pógui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavégui"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "oñangareko chukuéra"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T18:36:19.860718895Z",
+  "model": "glm-5.3"
+}

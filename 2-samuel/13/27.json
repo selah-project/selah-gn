@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Avchalom ojopy chupe, ha omondo ⟨את⟩ chupe ndive ⟨את⟩ Amnon ha ⟨את⟩ mburuvicha ra'ýkuéra opaite.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe ndive",
+      "marks": "Amnon ha mburuvicha ra'ýkuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mburuvicha ra'ýkuéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:26:05.808551480Z",
+  "model": "glm-5.3"
+}

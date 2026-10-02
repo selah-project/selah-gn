@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Jahve oikutúne opaite ijurukuaa korapỹ, pe ñeʼẽ oñeʼẽva mbaʼetuichaiterei.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "oikutúne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ijurukuaa"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "korapỹ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "oñeʼẽva"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mbaʼetuichaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:02.961442442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "haggai 1:14",
+  "book": "haggai",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jahve omokyreʼỹ ⟨את⟩ ruah Zerubavel peg̃uarã, Shaltiel raʼýpe, Jehuda pechat, ha ⟨את⟩ ruah Yehoshua peg̃uarã, Yehotsadak raʼýpe, paʼi tuichavéva, ha ⟨את⟩ ruah opavave tavakuéra apytuʼu rehegua; ha ou ha ojapo tembiapo Jahve Tsevaot rog̃uépe, iñElohim apytépe.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "ha omokyreʼỹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "שלתיאל",
+      "gloss": "Shaltiel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "pechat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ruah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "tuichavéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ruah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "apytuʼu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ha ojapo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "rog̃uépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "iñElohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:10:15.741846239Z",
+  "model": "glm-5.3"
+}

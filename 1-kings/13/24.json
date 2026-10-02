@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha oho, ha peteĩ jaguarete ojuhu chupe tape pype ha omanomba; ha i manórõ oñenohẽ tape pype, ha pe mburika oĩhína pyape ijykére, ha pe jaguarete oĩ pyape pe manórõ ijykére.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "ojuhu chupe"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "jaguarete"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape pype"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "omanomba"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "i manórõ"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "oñenohẽ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape pype"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "ha pe mburika"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "oĩhína pyape"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "ijykére"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "ha pe jaguarete"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "oĩ pyape"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ijykére"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "pe manórõ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:40.477634450Z",
+  "model": "glm-5.3"
+}

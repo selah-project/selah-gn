@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Jahve nde Elohim oikytỹta ⟨את⟩ nde korasõ ha ⟨את⟩ nde raʼýi korasõ, ehayhu hag̃ua ⟨את⟩ Jahve nde Elohim nde korasõ tuichakue javeve ha nde tekove tuichakue javeve, nde rekove hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "oikytỹta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde korasõ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde raʼýi korasõ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nde raʼýi"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ehayhu hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve nde Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tuichakue javeve"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "tuichakue javeve avei"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde tekove"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "nde rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T10:11:10.314861676Z",
+  "model": "glm-5.3"
+}

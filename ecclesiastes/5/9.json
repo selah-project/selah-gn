@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ohayhúva kuatia ndojavýʼái kuatia rehe, ha ohayhúva hetaiterei mbaʼégui ndojuhúi ⟨the⟩ jereikoha; kóva avei haʼe hevel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ohayhúva"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuatia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…ái"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ojavýʼa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuatia rehe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha ohayhúva"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ohayhúva"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "hetaiterei mbaʼégui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…i"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "juhu jereikoha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:33.306975774Z",
+  "model": "glm-5.3"
+}

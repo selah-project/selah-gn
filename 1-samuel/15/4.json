@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Shaúl ombohendu ⟨את⟩ ⟨the⟩ aty, ha ohecha ijaty Telaím-pe: mokõi sa su guatahára, ha pa su kuimbaʼe Yehuda-gua.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ombohendu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aty"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ aty"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ohecha ijaty"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "Telaím-pe"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "guatahára"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "ha pa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuimbaʼe Yehuda-gua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T11:07:07.650254147Z",
+  "model": "glm-5.3"
+}

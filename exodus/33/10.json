@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha tavayguakuéra paite ohecha ⟨את⟩ ararã pilar opepokehápe ⟨told⟩ jepeʼa, ha tavayguakuéra opuʼã paite ha oñemboyvyra, peteĩteĩ kuimbaʼe itold jepeʼápe.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ha ohecha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "paite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ararã pilar"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pilar"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ararã"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "opepoke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jepeʼa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "told"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ha opuʼã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "paite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ha oñemboyvyra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩ kuimbaʼe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jepeʼa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "itold"
+    }
+  ],
+  "timestamp": "2026-10-02T08:36:51.789912453Z",
+  "model": "glm-5.3"
+}

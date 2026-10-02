@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha amanduʼata ⟨את⟩ che ñeʼẽmeʼẽ Jaakov rehegua, ha avei ⟨את⟩ che ñeʼẽmeʼẽ Jitshak rehegua, ha avei ⟨את⟩ che ñeʼẽmeʼẽ Avraham rehegua amanduʼáta, ha ⟨את⟩ yvy amanduʼáta.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "amanduʼata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ Jaakov rehegua"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ Jitshak rehegua"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ Avraham rehegua"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "amanduʼáta"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ha ⟨את⟩ yvy"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "amanduʼáta"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:20.408206280Z",
+  "model": "glm-5.3"
+}

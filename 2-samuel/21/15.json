@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha oiko jey ñorãirõ pelishtikuéra rehe ⟨את⟩ Jisrael-g̃uarã; ha David oguejy ha iñangirõi kuéra hendivekuéra, ha oñorãirõ ⟨את⟩ pelishtikuéra rehe, ha David okerairõ.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "oiko jey"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "pelishtikuéra rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael-g̃uarã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "iñangirõi kuéra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendivekuéra"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelishtikuéra rehe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "okerairõ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T11:32:44.975346866Z",
+  "model": "glm-5.3"
+}

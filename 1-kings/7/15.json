@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ojapo ⟨את⟩ mokõi pilar mbujakovyai rehegua: papoapy pa ama pukukue peteĩ pilar, ha peteĩ jukaʼi mokõi pa ama pukukue ojere ⟨את⟩ ambue pilar rehe.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi pilar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pilar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mbujakovyai"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "papoapy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pilar"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "jukaʼi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambue pilar"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pilar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ambue"
+    }
+  ],
+  "timestamp": "2026-10-02T11:44:08.581216143Z",
+  "model": "glm-5.3"
+}

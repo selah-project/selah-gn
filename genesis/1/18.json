@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oisãmbyhy hag̃ua arakue ha pyhare, ha ombojaʼo hag̃ua verágui ha pytũmygui; ha Elohim ohecha iporãha.",
+  "tokens": [
+    {
+      "surface": "וילמשול",
+      "gloss": "oisãmbyhy hag̃ua"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "arakue"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ombojaʼo hag̃ua"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…gui"
+    },
+    {
+      "surface": "האור",
+      "gloss": "vera"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha …gui"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "pytũmy"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:34.048039613Z",
+  "model": "glm-5.3"
+}

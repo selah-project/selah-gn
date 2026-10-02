@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Purahéi yvate jeipysópe, Dávid g̃uarã. Aguerovy'a ahayhúvo chéve ojehechauka jave: «Jahve ógape jaho.»",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yvate jeipysópe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid g̃uarã"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Aguerovy'a"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "ojehechauka jave"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "jaho"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:53.557571750Z",
+  "model": "glm-5.3"
+}

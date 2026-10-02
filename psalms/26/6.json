@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ajohéi che po naimarãva ndive, ha ahererei ⟨את⟩ nemboajuha jerére, Jahve.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Ajohéi"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "naimarãva"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "ahererei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nemboajuha"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "nemboajuha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:48.868291025Z",
+  "model": "glm-5.3"
+}

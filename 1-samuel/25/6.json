@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha péicha peje'éta: ¡Tekove! Ha nde — pyʼaguapy; nde róga — pyʼaguapy; ha opa mbaʼe nde mbaʼéva — pyʼaguapy.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Ha péicha peje'éta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "¡Tekove!"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "nde róga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde mbaʼéva"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    }
+  ],
+  "timestamp": "2026-10-02T11:13:43.041289035Z",
+  "model": "glm-5.3"
+}

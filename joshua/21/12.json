@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ⟨את⟩ táva kokué ha ⟨את⟩ umi óga ijerére ome Kalev Jefuneh ra'ýpe imba'éraramo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "táva kokué"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kokué"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi óga ijerére"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "umi óga ijerére"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ome"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalevpe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefuneh"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "imba'éraramo"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:39.644337093Z",
+  "model": "glm-5.3"
+}

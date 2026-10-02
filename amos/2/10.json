@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha che aguereka ⟨את⟩ peẽ Mitsraim yvýgui, ha aguataha ⟨את⟩ peẽ yvy nandíme irundy tapýpe ary, rejapo hag̃ua ⟨את⟩ pe Haʼemori retã.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ha che"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "aguereka yvateve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "aguataha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvy nandíme"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundy tapýpe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "rejapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haʼemori retã"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haʼemori"
+    }
+  ],
+  "timestamp": "2026-10-02T19:19:06.757174890Z",
+  "model": "glm-5.3"
+}

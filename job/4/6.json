@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "¿Nahániri pa nde kyhyje ne jerovia, nde ñehaʼãrõ ha nde tape tekoiterape?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿Nahániri pa"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "nde kyhyje"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "ne jerovia"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "ne ñehaʼãrõ"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "ha tekoiterape"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nde tape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:45:26.523317836Z",
+  "model": "glm-5.3"
+}

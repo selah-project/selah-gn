@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha ombyai ⟨את⟩ Tofet, oĩva Gue Hinom raʼýkuéra yvyguápe, ani hag̃ua peteĩ kuimbaʼe ohasa ⟨את⟩ i raʼy ha ⟨את⟩ iñakãvyku tata rupi Molej-pe.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ombyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "yvyguápe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i raʼy"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "i raʼy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñakãvyku"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iñakãvyku"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata rupi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molej-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:22:44.115808881Z",
+  "model": "glm-5.3"
+}

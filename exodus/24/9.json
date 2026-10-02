@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha upéi, Moche ojupi, Aharon, Nadav, Avihu, ha mokõi pa porundy Jisrael ruvichaguégui.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mokõi pa porundy"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ruvichaguégui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:21.620480802Z",
+  "model": "glm-5.3"
+}

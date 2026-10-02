@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Elihu ohaʼãrõ ⟨את⟩ Ijov ñeʼẽme, haʼekuéra haʼégui tuichave ára rehegua.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Ha Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ohaʼãrõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ñeʼẽme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼekuéra haʼégui"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "tuichave"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "haʼégui"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ára rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T17:02:49.202978963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha aguerekóta ⟨את⟩ peẽ pe yvy pe che pópe aupeʼa ⟨את⟩ hague, ameʼẽ hag̃ua ⟨את⟩ chupe Avrahampe, Jitshakpe ha Jaakovpe; ha ameʼẽta ⟨את⟩ chupe peẽme mbaʼerã ramo; che Jahve.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "aguerekóta peẽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aupeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che pópe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che pópe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ameʼẽ hag̃ua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ chupe"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahampe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshakpe"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ha Jaakovpe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ha ameʼẽta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ chupe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "mbaʼerã ramo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:42.002028272Z",
+  "model": "glm-5.3"
+}

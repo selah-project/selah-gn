@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha irundy pa ary pahápe, ou Kedarlaomer ha umi mburuvicha oĩva ⟨את⟩ hese, ha oipohýi ⟨את⟩ Refaim-pe Ashterot Karnaime-pe, ha ⟨את⟩ Zuzim-pe Hem-pe, ha ⟨את⟩ Emim-pe Chave Kirataime-pe.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "ha irundy-pe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "ha umi mburuvicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hese"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "oipohýi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Refaim"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Ashterot-pe"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "Karnaime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Zuzim"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "Zuzim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "Hem-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Emim"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "Emim"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "Chave-pe"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirataime"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:17.961842899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ogueru ⟨את⟩ umi ñemohendaita Baal ógagui, ha ombotyvytã chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñemohendaita"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "umi ñemohendaita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ombotyvytã chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:06:59.091516782Z",
+  "model": "glm-5.3"
+}

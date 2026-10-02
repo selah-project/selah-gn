@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Jahve nohejamoʼãi chupe ipópe, ha nombojaʼomoʼãi chupe oñembojajahápe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-…moʼãi"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "nohejamoʼãi chupe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha na-…moʼãi"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "nombojaʼomoʼãi chupe"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "oñembojajahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:19.748834578Z",
+  "model": "glm-5.3"
+}

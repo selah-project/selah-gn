@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha peikuaaukã hag̃ua ⟨את⟩ Jisrael membykuéra, ⟨את⟩ opaite tekorã omohaʼãngáva Jahve oñeʼẽvaʼekue chupekuéra Moche po rupive.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "ha peikuaaukã hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tekorã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "tekorã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omohaʼãngáva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽvaʼekue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po rupive"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:47.416644806Z",
+  "model": "glm-5.3"
+}

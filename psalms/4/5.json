@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Pejepy'aguẽ, ani pejavy; pe'e pe korasõpype pe kera rendápe ári ha pejepyta. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "pejepy'aguẽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "pejavy"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "pe'e"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "pe korasõpype"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "pe kera rendápe"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ha pejepyta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:22.492955744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha pe paʼi oguerúta pe mbaʼeryru nde pógui, ha omoĩta mizveaj renondépe — Jahve, nde Elohim mbaʼéva.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ha oguerúta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "pe mbaʼeryru"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nde pógui"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "ha omoĩta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizveaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:33.453304786Z",
+  "model": "glm-5.3"
+}

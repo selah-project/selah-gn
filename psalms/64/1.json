@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Peteĩ tapichápe omyakãva hag̃ua ko purahéi. Purahéi David rembiapokue.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "omyakãva hag̃ua"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapokue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:42.749547856Z",
+  "model": "glm-5.3"
+}

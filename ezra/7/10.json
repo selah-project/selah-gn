@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Che Era omoĩ ikorasõ oheka hag̃ua ⟨את⟩ Jahve Tora, ha ojapo hag̃ua, ha ombo'e hag̃ua Jisrael-pe tekorã ha hekojojaha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Era"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ikorasõ"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "oheka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ha ojapo hag̃ua"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ha ombo'e hag̃ua"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "tekorã"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha hekojojaha"
+    }
+  ],
+  "timestamp": "2026-10-02T17:45:26.199996176Z",
+  "model": "glm-5.3"
+}

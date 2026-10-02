@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Amandarei ⟨את⟩ ára ymaguare kuéra; opaite nde rembiapópe amomba'apo, nde po rembiapo rehe añemongeta.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Amandarei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ymaguare"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "amomba'apo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite…pe"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "nde rembiapo"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "…rehe"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "añemongeta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:34.591286697Z",
+  "model": "glm-5.3"
+}

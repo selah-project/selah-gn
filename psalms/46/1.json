@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Purahéi ñangarekohápe g̃uarã, Korach raʼýkuérape g̃uarã, kuñataĩkuéra ári; peteĩ purahéi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "purahéi ñangarekohápe g̃uarã"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "kuñataĩkuéra"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:06.491271248Z",
+  "model": "glm-5.3"
+}

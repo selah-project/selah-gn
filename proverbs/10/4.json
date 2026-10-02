@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Pe po mbegue ojapóva oikoñaña poriahu, ha po mbarete katu ojapo viru.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "poriahu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כף",
+      "gloss": "po"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mbegue"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ha po"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ojapo viru"
+    }
+  ],
+  "timestamp": "2026-10-02T16:31:24.198168693Z",
+  "model": "glm-5.3"
+}

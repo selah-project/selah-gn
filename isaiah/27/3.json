@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Che Jahve, che arekóta chupe; mombyry'ỹ amongetáta chupe; ani oĩ ojerure va'erã tekojoja ichupe rehe; pyhare ha ára aro'ãta chupe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "che arekóta chupe"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "mombyry'ỹ"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "amongetáta chupe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ojerure tekojoja"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ichupe rehe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ha ára"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "aro'ãta chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:54.834649770Z",
+  "model": "glm-5.3"
+}

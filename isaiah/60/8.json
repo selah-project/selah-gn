@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Mávapa koʼãva oveve yvaguaicha, ha paloma-kuéra ijana-kuéra rendápe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "yvaguaicha"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "oveve"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "ha paloma-kuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "ijana-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:03:31.380722386Z",
+  "model": "glm-5.3"
+}

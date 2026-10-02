@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ⟨את⟩ Yehu, Nimshi raʼýpe, reñohẽta ñandy mburuvicha ramo Jisrael yvýri; ha ⟨את⟩ Elisha, Shafat raʼýpe, Abel-Mejola-gua, reñohẽta ñandy nabi ramo nde riré.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "reñohẽta ñandy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvicha ramo"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvýri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "Abel-"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mejola-gua"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "reñohẽta ñandy"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "nabi ramo"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "nde riré"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:24.173888389Z",
+  "model": "glm-5.3"
+}

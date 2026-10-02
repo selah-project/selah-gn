@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Omoĩ ⟨tekojoja⟩ ne rembeʼýpe; trigo iporãvéva oimeháicha oñemoĩ ne retãme.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ne rembeʼýpe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨tekojoja⟩"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "iporãvéva oimeháicha"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "oñemoĩ ne retãme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:51.503369523Z",
+  "model": "glm-5.3"
+}

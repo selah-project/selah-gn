@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha oiko ramo mbaʼevai, emeʼẽta tekove tekove rangápe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha oiko ramo"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ojehúta"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "emeʼẽta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangápe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:43.683139710Z",
+  "model": "glm-5.3"
+}

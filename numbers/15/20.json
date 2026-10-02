@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Peẽ pejysýgui iñepyrũrã, pejupi peteĩ chala terumá ramo; goren terumá ojueheguáicha, upéicha pejupi ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "iñepyrũrã"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "peẽ pejysýgui"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "chala"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "pejupi"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumá"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "ojueheguáicha"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "goren"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "pejupi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:50:27.839629298Z",
+  "model": "glm-5.3"
+}

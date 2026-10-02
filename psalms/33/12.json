@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Vy'apavẽ ⟨pe⟩ tetã oĩva Jahve ichugui Elohim; ⟨pe⟩ avano'õ ha'e oiporavo mba'eguasurãrã ichupe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Vy'apavẽ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avano'õ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "oiporavo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "mba'eguasurãrã"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:57.388345465Z",
+  "model": "glm-5.3"
+}

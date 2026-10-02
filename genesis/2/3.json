@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Elohim omboporãvera ⟨את⟩ ⟨pe⟩ ara pokõiha, haombojuehe marangatúpe ⟨את⟩ chupe, péro ⟨pe⟩ arape upépe opysapie opaite imbaʼapo apégui — Elohim ojapo vaʼekue ojapo hagua.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "omboporãvera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨pe⟩ ara pokõiha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ara"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "pokõiha"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ombojuehe marangatúpe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "⟨pe⟩ ara pokõiha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "péro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "opysapie"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "imbaʼapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ojapo vaʼekue"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hagua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:36.882425308Z",
+  "model": "glm-5.3"
+}

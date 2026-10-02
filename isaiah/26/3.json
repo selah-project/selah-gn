@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Pe arandu Nde rehe oñemoĩva, Nde ñongatúta py'aguapýpe — py'aguapýpe —, Nde rehe oñemoĩ haguére.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "arandu"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "oñemoĩva"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ñongatúta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "py'aguapýpe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "py'aguapýpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nde rehe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Nde rehe"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "oñemoĩ haguére"
+    }
+  ],
+  "timestamp": "2026-10-02T12:39:57.715237478Z",
+  "model": "glm-5.3"
+}

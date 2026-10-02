@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Nde ndive oĩ ⟨ko⟩ ñemboguevi, ikatu hag̃uáicha reñemombaʼeguasu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(ndéve g̃uarã)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde ndive"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ñemboguevi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃uáicha"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "reñemombaʼeguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:00.775034629Z",
+  "model": "glm-5.3"
+}

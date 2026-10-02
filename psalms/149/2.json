@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 149,
+  "translation": "Jisrael vy'a ijapoja rehe; Tsiyon memby kuéra ovy'aitépe iñarõgua rehe.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "vy'a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "ijapoja rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby kuéra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ovy'aitépe"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "iñarõgua rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.805113436Z",
+  "model": "glm-5.3"
+}

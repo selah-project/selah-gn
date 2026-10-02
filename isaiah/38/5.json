@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Eho ha eʼe Chizkiahu-pe: upéicha heʼi Jahve, Elohim David-gui, nde ru: che ahendu ⟨את⟩ nde ñeʼẽjerure, ahecha ⟨את⟩ nde resay; che ahape, ambojoapy nde ára rehe papopo ary.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha eʼe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "che ahendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ñeʼẽjerure"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "nde ñeʼẽjerure"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde resay"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "nde resay"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "che ahape"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ambojoapy"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "nde ára"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:41.144899639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 93,
+  "translation": "Jahve oisãmbyhy, je guasu ojahoʼi; Jahve ojahoʼi ipuʼaka ha ojokarai hese; yvy avei oñemoĩ hatã, arakaʼeve oguenói.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "je guasu"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ojahoʼi"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ojahoʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ipuʼaka"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "ojokarai hese"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "oñemoĩ hatã"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "arakaʼeve"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "oguenói"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:58.875067128Z",
+  "model": "glm-5.3"
+}

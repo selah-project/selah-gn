@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ani reñembyaʼe ichuguakuéra rehe; eñaminduʼu porã ⟨את⟩ Jahve, nde Elohim, ojapovaʼekue Paráo rehe ha Mitsraim opavave rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "reñembyaʼe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ichuguakuéra rehe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "eñaminduʼu"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "eñaminduʼu porã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojapovaʼekue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paráo rehe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:31.303272338Z",
+  "model": "glm-5.3"
+}

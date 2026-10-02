@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Nde ñorãirõ eñorãirõ ⟨את⟩ nde irũ ndive, ha ambue ñemiha ani rehechauka.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "nde ñorãirõ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "eñorãirõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde irũ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "nde irũ"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ha ñemiha"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "rehechauka"
+    }
+  ],
+  "timestamp": "2026-10-02T16:39:54.283229718Z",
+  "model": "glm-5.3"
+}

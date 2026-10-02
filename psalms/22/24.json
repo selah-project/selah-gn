@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Peẽ Jahve rayhukuéra, pejopói chupe; opaite Jaakov raʼỹiguasukuéra, pemomba'eguasu chupe; ha peju pepeyu chugui, opaite Jisrael raʼỹiguasukuéra.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "rayhukuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pejopói chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "raʼỹigua"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "pemomba'eguasu chupe"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "ha pepeyu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "raʼỹigua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:02.833260016Z",
+  "model": "glm-5.3"
+}

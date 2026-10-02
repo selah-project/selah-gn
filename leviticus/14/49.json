@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ogueru ombokatia hag̃ua ⟨את⟩ ⟨óga⟩ mokõi guyra, ha yvyra arazare, ha shaní toláat, ha ezov.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ombokatia hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ha yvyra"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "arazare"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha shaní"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "toláat"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ha ezov"
+    }
+  ],
+  "timestamp": "2026-10-02T08:51:38.768007590Z",
+  "model": "glm-5.3"
+}

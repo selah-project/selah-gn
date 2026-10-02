@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Reu oikove mokõi ary ha mbohapypa ary, ha hogue ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapypa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "hogue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:16.854146503Z",
+  "model": "glm-5.3"
+}

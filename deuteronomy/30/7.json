@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Jahve nde Elohim omeʼẽta ⟨את⟩ jerereikuéra opaite nde ñorairõhára ári ha umi ndaijaʼéiva nderehe ári, ova ndetapykueho vaʼekue nde.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jerereikuéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "jerereikuéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "nde ñorairõhára"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ári avei"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "umi ndaijaʼéiva nderehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ova"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ndetapykueho vaʼekue nde"
+    }
+  ],
+  "timestamp": "2026-10-02T10:11:10.315045513Z",
+  "model": "glm-5.3"
+}

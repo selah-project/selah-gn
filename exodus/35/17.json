@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "⟨את⟩ umi ahoja korapygua, ⟨את⟩ yvyraatykuéra ha ⟨את⟩ iñypykuéra, ha ⟨את⟩ pe jahoja korapy rokẽgua.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ahoja korapygua"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "umi ahoja"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapygua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvyraatykuéra"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "yvyraatykuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñypykuéra"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "iñypykuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe jahoja korapy rokẽgua"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pe jahoja"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rokẽ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:45.410917472Z",
+  "model": "glm-5.3"
+}

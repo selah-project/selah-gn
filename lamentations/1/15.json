@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Adonai oipe'a opaite che ipu'akáva che apytépe; ohenói peteĩ ára cherehe ombyai haguã che mitãrusukuéra; Adonai ojopy yva jopyhápe kuñataĩ ra'ỹi, Jehuda rajy.",
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "che ipu'akáva"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "che apytépe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "peteĩ ára"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ombyai haguã"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "che mitãrusukuéra"
+    },
+    {
+      "surface": "גת",
+      "gloss": "yva jopyha"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "kuñataĩ ra'ỹi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "rajy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T17:17:46.787838062Z",
+  "model": "glm-5.3"
+}

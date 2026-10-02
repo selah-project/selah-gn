@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "Jahve yvate, ha katu ohecha ⟨umípe⟩ oñemomichĩva; umi ivaikatuvaʼekuépe oikuaa mombyry guive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jaiko"
+    },
+    {
+      "surface": "רם",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ha oñemomichĩva"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ha ivaikatuvape"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "mombyry guive"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "oikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:26.647420954Z",
+  "model": "glm-5.3"
+}

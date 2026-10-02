@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha ani remombaʼe oporombaireʼỹva iñorãirõme.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "Ha oporombaireʼỹva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "remombaʼe"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "iñorãirõme"
+    }
+  ],
+  "timestamp": "2026-10-02T08:25:26.299637277Z",
+  "model": "glm-5.3"
+}

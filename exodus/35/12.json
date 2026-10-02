@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "⟨את⟩ ⟨the⟩ arka ha ⟨את⟩ ivou, ⟨את⟩ ⟨the⟩ kaporet, ha ⟨את⟩ porechet embosaʼãha.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ivou"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ivou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "porechet embosaʼãha"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "porechet"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "embosaʼãha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:40.201918498Z",
+  "model": "glm-5.3"
+}

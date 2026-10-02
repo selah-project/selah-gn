@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Pe paʼi osẽ ogágui, oga jeikehápe, ha omboñemboty ⟨את⟩ pe oga pokõi ára pukukue.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ogágui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeikehápE"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "oga jeikehápE"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "omboñemboty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe oga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe oga"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi ára"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára pukukue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:31.368501593Z",
+  "model": "glm-5.3"
+}

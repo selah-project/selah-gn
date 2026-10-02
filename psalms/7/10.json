@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Opa, peẽ, umi ivaietéva ivaíre; ha ejapo pytuʼu umi marangatu rehe; Elohim marangatu, oha'ãva korasõ ha py'aguasu.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "opa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ivaíre"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaietéva"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ha ejapo pytuʼu... rehe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umi marangatu rehe"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "ohá'ã"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "py'aguasu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:16.116699007Z",
+  "model": "glm-5.3"
+}

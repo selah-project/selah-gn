@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Josef omano, ha imokõnguéra opaite, ha upe ñemoñarare ymaguare opaite avei.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "imokõnguéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "upe ñemoñarare"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ymaguare"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:37.943935040Z",
+  "model": "glm-5.3"
+}

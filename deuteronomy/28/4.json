@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Oñeme'ẽporãta nde pyti'ũ ra'ýi, nde yvy ra'ýi ha nde mymba ra'ýi: nde vakakuéra ra'ýikuéra ha nde ovecha iñara pyahukuéra.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Oñeme'ẽporãta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ra'ýi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "nde pyti'ũ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "nde yvy ra'ýi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ra'ýi"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "nde mymba"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ra'ýikuéra"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "nde vakakuéra"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "iñara pyahukuéra"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "nde ovecha"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:55.418805911Z",
+  "model": "glm-5.3"
+}

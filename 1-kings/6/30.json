@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ⟨את⟩ óga yvy ape oñenohẽ kuarepoti rehe — hyʼãipe ha okápe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "óga yvy ape"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "yvy ape"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "oñenohẽ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "hyʼãipe"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ha okápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:35.486941624Z",
+  "model": "glm-5.3"
+}

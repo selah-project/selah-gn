@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Upéicha rupi, manópe ndaipóri nemandu'a; Cheol-pe, mávapa nomba'ereta nde?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upéicha rupi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "במות",
+      "gloss": "manópe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "nemandu'a"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Cheol-pe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "nomba'ereta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:44.453475231Z",
+  "model": "glm-5.3"
+}

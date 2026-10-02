@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Opaite ⟨pe⟩ yvága ha ⟨pe⟩ yvy, ha opaite umi isãva ipype.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ha ⟨pe⟩ yvy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "umi isãva ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:36.881926810Z",
+  "model": "glm-5.3"
+}

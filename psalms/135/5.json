@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Che aikuaa Jahve tuichaha, ha ñande Adonai opavave elohim ári.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che aikuaa…ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuichaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ha ñande Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opavave … ári"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:17.948579062Z",
+  "model": "glm-5.3"
+}

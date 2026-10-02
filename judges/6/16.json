@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Jahve he'i chupe: — Añeteháme che aĩta ndive, ha nde epohẽnota ⟨את⟩ Midian peteĩ yvypóra cha'ãcha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añeteháme"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "che aĩta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ha epohẽnota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "yvypóra cha'ãcha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:37:42.768495976Z",
+  "model": "glm-5.3"
+}

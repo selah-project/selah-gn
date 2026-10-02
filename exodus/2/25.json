@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Elohim ohecha ⟨את⟩ Jisrael mitãnguéra, ha Elohim oikuaa chuguakuéra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:05:35.379318260Z",
+  "model": "glm-5.3"
+}

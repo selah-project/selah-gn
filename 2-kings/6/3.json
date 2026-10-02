@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha peteĩva heʼi: Eimoĩ̃, ehóke ⟨את⟩ nde mbaʼapóharakuéra ndive. Ha haʼe heʼi: Che aha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩva"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Eimoĩ̃"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "ולך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde mbaʼapóharakuéra"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mbaʼapóharakuéra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:05:46.401440532Z",
+  "model": "glm-5.3"
+}

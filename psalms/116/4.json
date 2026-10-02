@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Ha Jahve rérape ahenói: Na, Jahve, ehupi che rekove.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ehupi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:42.582652425Z",
+  "model": "glm-5.3"
+}

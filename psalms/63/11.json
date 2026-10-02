@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Ojehu hikuái pe kyse ryepýpe, agua'i mba'erãraʼanga oikóta hikuái.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ojehu hikuái"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe... rehe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kyse pópe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mba'erã"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "agua'i kuéra"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "oikóta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:35.103353016Z",
+  "model": "glm-5.3"
+}

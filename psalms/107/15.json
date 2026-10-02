@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ome'ẽke aguyje Jahve-pe hesed rehe, ha iñaporãi mba'e tuichavévape yvypóra taʼýrakuéra renondépe.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ome'ẽke aguyje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "iñaporãi mba'e tuichavévape"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "taʼýrakuéra renondépe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:09.270833352Z",
+  "model": "glm-5.3"
+}

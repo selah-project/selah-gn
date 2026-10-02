@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha upéicha Moche ohaí ⟨את⟩ purorýi kóva upe arápe, ha omboʼe ⟨את⟩ Jisrael taʼýrakuéra.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ohaí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "purorýi kóva"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "purorýi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "arápe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "ha omboʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael taʼýrakuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýrakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:14:28.495104704Z",
+  "model": "glm-5.3"
+}

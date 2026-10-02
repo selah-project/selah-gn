@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "⟨את⟩ mávape ohekomboʼe kuaa rehegua, ha ⟨את⟩ mávape oikuaauka ñehendu? Umi kambýgui osẽvaʼekue, umi titégui ojekuaáva.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mávape"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávape"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ohekomboʼe"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mávape"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávape"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "oikuaauka"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ñehendu"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "umi osẽvaʼekue"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kambýgui"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "umi ojekuaáva"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "titégui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:13.376019827Z",
+  "model": "glm-5.3"
+}

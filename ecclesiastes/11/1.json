@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Emeʼẽ ne rembiʼu ⟨yvága⟩ y rendápe, hetaiterei ára rire katu ehayhúta chupe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Emeʼẽ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ne rembiʼu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hetaiterei rire"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ehayhúta chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:35.491801124Z",
+  "model": "glm-5.3"
+}

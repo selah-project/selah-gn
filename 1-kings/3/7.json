@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha koʼágã, Jahve che Elohim, nde remoĩ ⟨את⟩ nde mbaʼaporahára mburuvicháramo David che ru rire; ha che amirĩ michĩete, che ndaikuaái ñesẽ ha jeike.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼágã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "remoĩ mburuvicháramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde mbaʼaporahára"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde mbaʼaporahára"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "נער",
+      "gloss": "amirĩ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "michĩete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…ãi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "che kuaa"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ñesẽ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ha jeike"
+    }
+  ],
+  "timestamp": "2026-10-02T11:39:12.672524996Z",
+  "model": "glm-5.3"
+}

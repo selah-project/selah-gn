@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che tekove oñembojoaju yvy po'i rehe; emomba'apo chéve nde ñe'ẽ reheguaitépe.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "oñembojoaju"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "yvy po'i rehe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che tekove"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "emomba'apo chéve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "nde ñe'ẽ reheguaitépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:28.385011076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Upéicha Jirmeiahu, pe nabi, oñe'ẽ Tsidkiahu, Jehuda mburuvicha, ndive ⟨את⟩ ko'ã ñe'ẽ opaite Jerusalaimepe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmeiahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pe nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'ã ñe'ẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ko'ã ñe'ẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaimepe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:37:16.171658081Z",
+  "model": "glm-5.3"
+}

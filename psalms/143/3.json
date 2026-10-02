@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Niko che vaírõ ojuka seve che rekove, omonguʼi yvýre che tekove, omoĩ cherehe pytũnguérape, saʼi yma umi manambaʼéreicha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ojuka seve"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "che vaírõ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "omonguʼi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvýre"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "che tekove"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "omoĩ cherehe"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "pytũnguérape"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "umi manambaʼéreicha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "saʼi yma"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:55.543030996Z",
+  "model": "glm-5.3"
+}

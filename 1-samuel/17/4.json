@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha osẽ peteĩ ñorãirõhára ojueheguaíva Pelishtim atykuéra apytégui; héra Goliat, Gat-gui; ipukukue: poteĩ amo ha peteĩ kuã.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ñorãirõhára ojueheguaíva"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "atykuéra apytégui"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "Gat-gui"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ha peteĩ kuã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:43.964448708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Mboy árape piko, Jahve, remboyke ⟨opaitépe⟩? Nde kena'ẽ ovetãta piko tataicha?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mboy árape"
+    },
+    {
+      "surface": "מה",
+      "gloss": "piko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "remboyke"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "opaitépe"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ovetãta piko"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tatacha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "nde kena'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:11.994473069Z",
+  "model": "glm-5.3"
+}

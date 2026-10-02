@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ohayhu tsedek ha hekojoja; Jahve hesed omyenyhẽ ⟨la⟩ yvy.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha hekojoja"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "omyenyhẽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:14.956373014Z",
+  "model": "glm-5.3"
+}

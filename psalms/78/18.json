@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha hikuái oñeha'ã El rehe iñpy'ãme, jerure hag̃ua karu itekove g̃uarã.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "oñeha'ã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "iñpy'ãme"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "jerure hag̃ua"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "karu"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "itekove g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:00.976159333Z",
+  "model": "glm-5.3"
+}

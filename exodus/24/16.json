@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 24:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Jahve iporãnguasu oiko Sinai yvyty ári, ha upe amandáy ojahoʼi chupe poteĩ ára aja; ha pokõiha árape ohenói Moche upe amandáy mbytégui.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "iporãnguasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ári"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ojahoʼi chupe"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "upe amandáy"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára aja"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…árape"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "pokõiha"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mbytégui"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "upe amandáy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:23.825755561Z",
+  "model": "glm-5.3"
+}

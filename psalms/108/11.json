@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 108,
+  "translation": "Mávapa ohejóta cheke tavaitá ikorasõme? Mávapa ohendúta cheve Edom peve?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ohejóta cheke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tavaitá"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ikorasõme"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ohendúta cheve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:44.710039235Z",
+  "model": "glm-5.3"
+}

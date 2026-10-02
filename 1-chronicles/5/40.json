@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Azarjah omoñemoñare ⟨את⟩ Serajah, ha Serajah omoñemoñare ⟨את⟩ Jehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ha Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omoñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ha Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omoñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehotsadak"
+    }
+  ],
+  "timestamp": "2026-10-02T18:01:42.987775350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Purahéi David mbaʼe. Emeʼẽ pe Jahve-pe, El raʼýpe, emeʼẽ pe Jahve-pe iñakãnguera ha ipuʼakapa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "emeʼẽ pe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "emeʼẽ pe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "iñakãnguera"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ha ipuʼakapa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:42.152358021Z",
+  "model": "glm-5.3"
+}

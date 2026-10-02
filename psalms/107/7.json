@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha omboja hikuái tape jojápe, ohóvo ⟨amo⟩ táva ikatuha hikuái oiko hape.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "omboja hikuái"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "jojápe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨amo⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ikatuha hikuái oiko hape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:58.529979340Z",
+  "model": "glm-5.3"
+}

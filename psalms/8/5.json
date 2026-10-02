@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Mbaʼépa yvypóra manomba, nde remomanduʼágui chupe, ha adam raʼýpe, nde rehechague hese?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yvypóra manomba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde remomanduʼágui"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "remomanduʼa chupe"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ha raʼýpe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde rehechague hese"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "rehecha chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:49.970176624Z",
+  "model": "glm-5.3"
+}

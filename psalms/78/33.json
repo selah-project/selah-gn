@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Upévare omohu'ã hikuái javýpe ⟨את⟩ ikuati ára, ha ikuati ary jahy'opýpe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "omohu'ã"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "javýpe"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ikuati ára",
+      "marks": "ikuati ára"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ha ikuati ary"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "jahy'opýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:04.812138935Z",
+  "model": "glm-5.3"
+}

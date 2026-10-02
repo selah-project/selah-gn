@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Moiche ojapo peteĩ korapy ha ombohéra chupe Jahve Nisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moiche"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ombohéra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:04.542336082Z",
+  "model": "glm-5.3"
+}

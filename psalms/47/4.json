@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Omoĩ ⟨את⟩ umi tetãnguéra ñande guýpe, ha ⟨את⟩ umi tetã rekoypykuéra ñande py guýpe.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Omoĩ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ñande guýpe"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ha umi tetã rekoypykuéra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ñande py"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:47.795605912Z",
+  "model": "glm-5.3"
+}

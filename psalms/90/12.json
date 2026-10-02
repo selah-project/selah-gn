@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Ehechauka ñandéve jaipapa hag̃ua ñande ára hekopete, ha upéicharõ ñane pyʼa ohóta tekokatua apytépe.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "jaipapa hag̃ua"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ñande ára"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hekopete"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "Ehechauka ñandéve"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ohóta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tekokatua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:31.394329355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Upéva ojehayhuve Jahve-pe vakara'y guasu, iñakãme tỹrã ha ipýpe jaha'i tũnguéra.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "ojehayhuve"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "vakara'y guasu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vakara'y"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "iñakãme tỹrã"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ipýpe tũnguéra ojueheguáva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:34.798014386Z",
+  "model": "glm-5.3"
+}

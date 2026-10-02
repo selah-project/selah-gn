@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Oñembyasy ha okangy ⟨the⟩ yvy, ohasypa ha okangy ⟨the⟩ arapy, ohasypa umi yvate, ⟨the⟩ yvy tavyporuã.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "okangy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ohasypa"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "okangy"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "arapy"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ohasypa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "umi yvate"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavyporuã"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T12:41:20.480556288Z",
+  "model": "glm-5.3"
+}

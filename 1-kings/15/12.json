@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha oipeʼa umi oñemboja vai yvygui, ha omboypa ⟨את⟩ opaite taʼanga jera itúvakuéra ojapo vaʼekue.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "umi oñemboja vai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "omboypa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite taʼanga jera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "taʼanga jera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúvakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:53:34.327314987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Oved oguereko ra'y ⟨את⟩ Jehú, ha Jehú oguereko ra'y ⟨את⟩ Azaria.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Ha Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "oguereko ra'y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehú"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ha Jehú"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "oguereko ra'y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:55.180568575Z",
+  "model": "glm-5.3"
+}

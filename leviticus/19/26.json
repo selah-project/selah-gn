@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani peẽkaru ta ⟨tuguy ári⟩; ani peẽjapo ta ñemoañe'ẽ mbyja'íre, ani avei peẽjapo ta ñemoañe'ẽ yvyraty rehegua.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "peẽkaru ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "peẽjapo ta ñemoañe'ẽ mbyja'íre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani avei"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "peẽjapo ta ñemoañe'ẽ yvyraty rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:36.121650604Z",
+  "model": "glm-5.3"
+}

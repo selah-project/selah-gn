@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ehenói Yishai-pe jopói aja, ha che amombe'úta ndéve ⟨את⟩ mba'e rejapóta; ha reñohẽ hi'ári ñandy che g̃uarã ⟨את⟩ pe ahe'íta ndéve.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "ha ehenói"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishai-pe"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "jopói aja"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "amombe'úta ndéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'e rejapóta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "reñohẽ hi'ári ñandy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che g̃uarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ahe'íta ndéve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ahe'íta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:31.070079102Z",
+  "model": "glm-5.3"
+}

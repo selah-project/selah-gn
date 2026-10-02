@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim heʼi: Oñembyaty vaʼerã ⟨y⟩ oĩva yvaga guýpe peteĩ tendápe, ha ojehecha vaʼerã yvy kuʼi; ha upéicha oiko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "oñembyaty vaʼerã"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨y⟩"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "ojehecha vaʼerã"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "yvy kuʼi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:01.188889913Z",
+  "model": "glm-5.3"
+}

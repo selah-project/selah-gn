@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Jaakov ojerurekuaa ha oheʼi: Eʼínte chéve ne réra. Ha ⟨el⟩ oheʼi: Mbaʼérepa rejerure che réra? Ha oñemboʼeraʼã ⟨את⟩ chupe upépe.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ojerurekuaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oheʼi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "eʼínte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nte"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oheʼi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "koʼãga"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "rejerure"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "che réra"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "oñemboʼeraʼã"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:10.358327619Z",
+  "model": "glm-5.3"
+}

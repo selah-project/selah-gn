@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha ou umi Jisrael membykuéra mbokuatiahára, ha ojekaratai hikuái Paroh rendápe heʼívo: Mbaʼérepa rejapo koʼáicha nde mbaʼeapoharekuéra rehe?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "mbokuatiahára kuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "ojekaratai hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mbaʼérepa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "koʼáicha"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "nde mbaʼeapoharekuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:44.662255711Z",
+  "model": "glm-5.3"
+}

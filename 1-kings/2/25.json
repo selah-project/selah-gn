@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Upéicharõ, mburuvicha Chelomoh omondo Benajahu, Jehojada ra'y, po rupive, ha ⟨ojuka⟩ chupe, ha omano.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po rupive"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    }
+  ],
+  "timestamp": "2026-10-02T11:40:27.630597148Z",
+  "model": "glm-5.3"
+}

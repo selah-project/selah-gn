@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha ombohovái ha heʼi: Nahániri ⟨את⟩ pe Jahve omoĩva che jurúpe, ⟨את⟩ pe che amoañuʼu amoñeʼẽ hag̃ua?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ha ombohovái"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Jahve omoĩva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "omoĩva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "che jurúpe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe che amoañuʼu"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "amoañuʼu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "amoñeʼẽ hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T09:34:32.789925215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Shajal ha péten ári reguata; kafir ha tanin remombo ja hese.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "Shajal"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ha péten"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "reguata"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "remombo ja"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "kafir"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ha tanin"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:29.396721494Z",
+  "model": "glm-5.3"
+}

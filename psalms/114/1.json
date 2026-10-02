@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 114,
+  "translation": "Oúsêvo Jisrael Mitsraim-gui, Jaakov óga yguasu ñe'ẽ ojekuaa'ỹvágui.",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Oúsêvo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "yguasúgui"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "iñe'ẽ ojekuaa'ỹvagui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:56.985486461Z",
+  "model": "glm-5.3"
+}

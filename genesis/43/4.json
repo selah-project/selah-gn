@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Remondo ramo ⟨את⟩ ñande kyvy ⟨את⟩ ñande ndive, ñahéta ñandevévo ha ñajoguáta ndéve mbaʼeʼu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "⟨rejapo rupi⟩"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "Remondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande kyvy"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ñande kyvy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñande ndive"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "ñahéta ñandevévo"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ha ñajoguáta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mbaʼeʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:41.348761519Z",
+  "model": "glm-5.3"
+}

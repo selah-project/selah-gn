@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Cháko ára Sukot peg̃uarã ejapóta ndevénte pokõi árape, eñongatu aja nde garãnagui ha nde yekevgui.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "cháko ára"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Sukot peg̃uarã"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ejapóta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndevénte"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "eñongatu aja"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "nde garãnagui"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "ha nde yekevgui"
+    }
+  ],
+  "timestamp": "2026-10-02T09:58:21.017253498Z",
+  "model": "glm-5.3"
+}

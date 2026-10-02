@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha Yehuda heʼi ijoykeýkuérape: Mbaʼépa japyturã, jajuka jave ⟨את⟩ ore joyke'y ha jañomi ⟨את⟩ iñare?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeýkuéra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "japyturã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jave"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "jajuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore joyke'y"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ore joyke'y"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "jañomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñare"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iñare"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:00.862930791Z",
+  "model": "glm-5.3"
+}

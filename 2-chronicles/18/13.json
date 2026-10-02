@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha upéite Mikaiahu he'i: Jahve rekóive, ⟨את⟩ mba'e che Elohim he'i, upéva añe'ẽta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha upéite he'i"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaiahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rekóive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'e che Elohim he'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "upéva añe'ẽta"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "añe'ẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T18:27:42.982257492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Romanupĩ ndeve, Elohim, romanupĩ; ha ne réra oĩ pyty; oñemombeʼu ne mbaʼe porãíta kuéra.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "romanupĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "romanupĩ"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ha oĩ pyty"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "oñemombeʼu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ne mbaʼe porãíta kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:45.539520473Z",
+  "model": "glm-5.3"
+}

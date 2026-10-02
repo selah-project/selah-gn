@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "Jahve, Elohim che ñemoñarũ pytyvõrã, ara ha pyharumi aikyhyi nde renondépe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "che ñemoñarũ pytyvõrã"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ara"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "aikyhyi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pyharumi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "nde renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:18.417895074Z",
+  "model": "glm-5.3"
+}

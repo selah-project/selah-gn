@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 24:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Jaéicha oikóta yvy mbytépe, tetãnguéra apytépe, peteĩ yva karambóicha ojekarambórõ guare, ha vichimby raʼẽicha arahaku pahape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "כנקף",
+      "gloss": "ojekarambórõ guare raʼãngaháicha"
+    },
+    {
+      "surface": "זית",
+      "gloss": "yva karambo"
+    },
+    {
+      "surface": "כעוללת",
+      "gloss": "raʼẽicha"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pahape"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "arahaku"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:16.073716398Z",
+  "model": "glm-5.3"
+}

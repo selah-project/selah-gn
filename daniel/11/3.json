@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ojupíta peteĩ mburuvicha ipu'akáva, ha isâso mburuvicharã tuichaitereíva rehe, ha ojapóta iñakãrakuã rehe.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "ojupíta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ipu'akáva"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "isâso... rehe"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tuichaitereíva"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "iñakãrakuã rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:43:17.738867230Z",
+  "model": "glm-5.3"
+}

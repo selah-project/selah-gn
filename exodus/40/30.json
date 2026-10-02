@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha omohẽ ⟨את⟩ pe jahuha Oho Atuãi ha pe mizbeaj mbytépe, ha omohẽ upépe y oñemoĩ hag̃ua oñejahuhag̃uarã.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omohẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jahuha"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "jahuha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oho"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Atuãi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omohẽ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "oñejahuhag̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:40.002784897Z",
+  "model": "glm-5.3"
+}

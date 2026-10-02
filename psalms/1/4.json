@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ndaipóri upéicha ivaipávape guarã: tuichaháicha chacha kuára, pe ruah ohopyipa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndaipóri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ivaipávape guarã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tuichaháicha"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "chacha kuára ichagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ohopyipa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:36.320498365Z",
+  "model": "glm-5.3"
+}

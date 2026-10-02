@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Oĩ peteĩ mba'e oje'ẽ va'erã hese: Ehecha, kóva ha'e pyahu; oĩma ⟨va'ekue⟩ ymaite guive, umi ára oiko va'ekue ñande mboyvépe.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peteĩ mba'e"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "oje'ẽ va'erã hese"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ymaite guive"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩma va'ekue"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "ára pukukuépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oha'ãva"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko va'ekue"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "ñande mboyvépe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:18:56.998408637Z",
+  "model": "glm-5.3"
+}

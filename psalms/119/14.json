@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde je'arãrã rapekuéra rehe che aikovyʼa, opaite hoviarape ári.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "rape"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "nde je'arãrã kuéra"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "che aikovyʼa"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הון",
+      "gloss": "hoviarape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:55.257310239Z",
+  "model": "glm-5.3"
+}

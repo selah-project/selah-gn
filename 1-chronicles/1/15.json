@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ chivikuéra, ha ⟨את⟩ arkikuéra, ha ⟨את⟩ sinikuéra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "chivikuéra"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "chivikuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "arkikuéra"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkikuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "sinikuéra"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "sinikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:40.467667303Z",
+  "model": "glm-5.3"
+}

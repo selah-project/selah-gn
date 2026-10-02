@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Maerapa oĩ Chamat mburuvicha, ha Arpad mburuvicha, ha táva Sefarvaim mburuvicha, Hena ha Iva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Maerapa oĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ו מלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvaim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ha Iva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:18:24.120771849Z",
+  "model": "glm-5.3"
+}

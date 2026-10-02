@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Haʼehaguére Jisrael óga ha Jehuda óga oñembyai ha oñembyaiete chéve, heʼi Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼehaguére"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "oñembyaiete"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "בי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ha … óga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T13:11:28.596277915Z",
+  "model": "glm-5.3"
+}

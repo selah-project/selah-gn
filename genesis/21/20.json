@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Elohim oĩ ⟨את⟩ pe mitã ndive, ha okakuaa ha oiko kaʼaguyype, ha oiko chugui yvyrapã puruhára.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitã ndive"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "okakuaa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguyype"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko chugui"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "okakuaaitereívo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yvyrapã puruhára"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:50.775230381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Toiko che korasõ opaiteitépe nde rekoháre, ani hag̃úa aikuarãi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Toiko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "opaiteitépe"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nde rekoháre"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ani hag̃úa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "aikuarãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:39.556030796Z",
+  "model": "glm-5.3"
+}

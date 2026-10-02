@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ara jave Jahve omanda i hesed rehe, ha pyhare katu purahei che ndive, peteĩ ñembo'e El, che rekove peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ara jave"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "omanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "i hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ha pyhare katu"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "purahei"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che ndive"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "peteĩ ñembo'e"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "che rekove peg̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:05.897814269Z",
+  "model": "glm-5.3"
+}

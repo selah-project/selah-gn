@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Avei, opaite umi nde rekotúva ndojapyʼarory vaímoʼã; umi ojavyvy vaʼekuépe ñeʼẽmeʼẽ, mbaʼeve repyʼỹre, ojepyʼarory vaíta.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Avei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nde rekotúva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo… moʼã"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ojepyʼarory vai"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ojepyʼarory vaíta"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ojavyvy vaʼekuépe ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "mbaʼeve repyʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:45.903819722Z",
+  "model": "glm-5.3"
+}

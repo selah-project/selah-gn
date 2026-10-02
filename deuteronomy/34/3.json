@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha ⟨את⟩ Neguev, ⟨את⟩ kichã — Jerihó ka'aguy yvy ape, pindó táva — Tsoar peve.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Neguev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kichã"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ka'aguy"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jerihó"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "pindó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-02T10:13:58.509533124Z",
+  "model": "glm-5.3"
+}

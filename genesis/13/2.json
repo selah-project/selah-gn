@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Avram oguereko hetaiterei — mymba, kuarepoti ha itaju apytépe.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Ha Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "oguereko hetaiterei"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "mymba apytépe"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kuarepoti apytépe"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "itaju apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:04.346159042Z",
+  "model": "glm-5.3"
+}

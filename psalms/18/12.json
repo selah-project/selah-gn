@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Omoĩ pytũ iñemokañyha ramo, ha itapyi ijerére: ýpytũ, arapoko apuʼa yvagape.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytũ"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "iñemokañyha"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "itapyi"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ýpytũ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "arapoko apuʼa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "yvagape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:03.951502165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Añoite Elohim peve che napẽ opytuʼu; chugui ou che ñemongarai.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "opytuʼu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che napẽ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "che ñemongarai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:08.052499508Z",
+  "model": "glm-5.3"
+}

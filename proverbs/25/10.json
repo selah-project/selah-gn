@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Peno pe ohendúva nemboguarukáta, ha ne ñeʼẽ vai ndo⟨gue⟩moãi.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "peno"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "nemboguarukáta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pe ohendúva"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "ha ne ñeʼẽ vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "guemoãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:39:54.283570781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha oñembyaty ⟨את⟩ Jisrael mburuvichakuérapa, umi paʼikuéra ha umi levíta kuéra.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mburuvichakuérapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "umi paʼikuéra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "umi levíta kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:14:04.859485010Z",
+  "model": "glm-5.3"
+}

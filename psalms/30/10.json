@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Mbaʼe pyporũ oĩ che rugýpe, che ahóvo yvy guápe? ¿Yvykuʼi ohechakuaáta nde rehe? ¿Omombeʼúta nde ete?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼe"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "pyporũ"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "che rugýpe"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "che ahóvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "yvy guápe"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ohechakuaáta nde rehe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "yvykuʼi"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "omombeʼúta"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nde ete"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:54.070568141Z",
+  "model": "glm-5.3"
+}

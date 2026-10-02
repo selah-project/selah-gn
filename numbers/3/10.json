@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ereháta ⟨את⟩ Aharon ha ⟨את⟩ iñemoñarã, ha oñangarekóta ⟨את⟩ ipaʼi rekóre; ha pe okáigua oipeg̃uahẽva, ojejukapóta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñarã"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ereháta"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "oñangarekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipaʼi reko"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ipaʼi reko"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ha pe okáigua"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "oipeg̃uahẽva"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ojejukapóta"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:24.080021654Z",
+  "model": "glm-5.3"
+}

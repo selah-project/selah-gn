@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Jisrael membykuéra oñemoĩ hikuái Gilgal-pe, ha ojapo hikuái ⟨את⟩ ⟨the⟩ Pésach jasy pa irundy árape, ka'arũháme, Jerijo sabanakuérape.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "oñemoĩ hikuái"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgal-pe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ka'arũháme"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "sabanakuérape"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerijo"
+    }
+  ],
+  "timestamp": "2026-10-02T18:53:48.561716437Z",
+  "model": "glm-5.3"
+}

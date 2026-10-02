@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 12:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha umípe omoĩva yvýre, ha umípe ojoháva ita, ha ojogua haguã yvyra ha ita jopyre, oñemombaʼe haguã ⟨את⟩ iñapañuãi Jahve roga, ha opavavépe oĩva osẽva pe roga rehe, oñemombaʼe haguã.",
+  "tokens": [
+    {
+      "surface": "ולגדרים",
+      "gloss": "ha umípe omoĩva yvýre"
+    },
+    {
+      "surface": "ולחצבי",
+      "gloss": "ha umípe ojoháva ita"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "pe ita"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ha ojogua haguã"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ha ita"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "jopyre"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "oñemombaʼe haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñapañuãi Jahve roga"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "iñapañuãi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opavavépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽva"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe roga"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "oñemombaʼe haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:04.812720702Z",
+  "model": "glm-5.3"
+}

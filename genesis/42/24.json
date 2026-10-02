@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha isãso chuguikuéra, ha oikirrĩ; ha ojevy chuguikuéra oñeʼẽ haguã chupekuéra, ha ogueru chuguikuéra ⟨את⟩ Chimón, ha omoĩ hiʼári ferokuéra tenonderãpe.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "isãso chuguikuéra"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "oikirrĩ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "chuguikuéra ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chimón"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimón"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "omoĩ hiʼári fero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Chimón"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "okuarahára tenonderãpe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:57.834811400Z",
+  "model": "glm-5.3"
+}

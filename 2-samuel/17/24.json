@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha David ou Majanaím-pe, ha Avchalom ohasa ⟨את⟩ Yarden — ha opavavete Jisraél-yvypóra iñandípe.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ha David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Majanaím-pe"
+    },
+    {
+      "surface": "ואבשלום",
+      "gloss": "ha Avchalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavavete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iñandípe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:29:04.082482481Z",
+  "model": "glm-5.3"
+}

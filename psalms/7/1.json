@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Chiguaion David-pe g̃uarã, opurahéi vaʼekue Jahve-pe, Kuch — Jemini raʼý — ñeʼẽnguéra rehe.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Chiguaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "opurahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼý"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Jeminí-ype"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:39.831961763Z",
+  "model": "glm-5.3"
+}

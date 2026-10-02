@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Térã oñatiʼõ memby kuimbaʼe, térã oñatiʼõ memby kuñái — ko tekojojaicha ojejapóta hese.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Térã"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby kuimbaʼe"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "oñatiʼõ"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "בת",
+      "gloss": "memby kuñái"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "oñatiʼõ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ko tekojojaicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojejapóta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T08:25:18.960876712Z",
+  "model": "glm-5.3"
+}

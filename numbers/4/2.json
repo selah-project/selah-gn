@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Eipeapa ⟨את⟩ akóngaʼu Kehat raʼýpe, Levi raʼý apytégui, iñemoñare rupi ha itúva rógárupi.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Eipeapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akóngaʼu Kehat raʼýpe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akóngaʼu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼý"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼý"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "iñemoñare rupi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "rógárupi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:54.658260464Z",
+  "model": "glm-5.3"
+}

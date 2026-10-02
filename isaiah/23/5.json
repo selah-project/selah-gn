@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Oĩháicha ñeʼẽ Mitsraim-pe, ojepyʼapy hikuái ohecha jave Tsor ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "oĩháicha"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ojepyʼapy hikuái"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ohecha jave"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:39:53.699877540Z",
+  "model": "glm-5.3"
+}

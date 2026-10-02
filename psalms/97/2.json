@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Arara'y ha pytũngy ijerére; tsedek ha hekojoja ⟨⟩ hikuái iñakã sãmbyhyrã.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "arara'y"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ha pytũngy"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha hekojoja"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "sãmbyhyrã moingeha"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "iñakã sãmbyhyrã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:35.768254638Z",
+  "model": "glm-5.3"
+}

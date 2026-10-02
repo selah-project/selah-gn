@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha pekaneʼõ hikuái penande toldo rupi-pe, ha peheʼi: Jahve ndaijaʼéi ñanderehe haguã, ohosẽ ⟨את⟩ ore Mitsraim yvygui, omeʼẽ haguã ⟨את⟩ ore Emori-kuéra ipo rupive, ore ombue haguã.",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "pekaneʼõ hikuái"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "penande toldo rupi-pe"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "peheʼi"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "ndaijaʼéi ñanderehe haguã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ore ohosẽva"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "ohosẽ ore"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "omeʼẽ haguã"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ore Emori-kuéra ipo rupive"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ipo rupive"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori-kuéra"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "ore ombue haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:47:58.307682361Z",
+  "model": "glm-5.3"
+}

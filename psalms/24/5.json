@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ogueru ñemongarai Jahve ⟨את⟩-gui ha tsedek pe Elohim iñesãirõguágui.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ñemongarai"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-gui",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ha tsedek"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohim-gui"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "iñesãirõ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:24.290137043Z",
+  "model": "glm-5.3"
+}

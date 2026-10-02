@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Nde jokypy'égui okañy hikuái, nde ñuãngue rerapýgui oho py'aite.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "nde jokypy'égui"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "okañy hikuái"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rerapýgui"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "nde ñuãngue"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "oho py'aite"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:54.247573803Z",
+  "model": "glm-5.3"
+}

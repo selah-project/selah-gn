@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 9:9",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha heʼíta haʼekuéra oheja haguére ⟨את⟩ Jahve, i Elohim — haʼe ohoséi haguére ⟨את⟩ itúva kuéra Mitsraim retãgui — ha ojopy haguére tupã ambuéva rehe, oñemboʼe ha ombaʼapo haguére chupekuéra; upévare Jahve ogueru hyvíape ⟨את⟩ opaite ko ivaivarã.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ha heʼíta"
+    },
+    {
+      "surface": "על",
+      "gloss": "haguére rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ohoséi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva kuéra"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "itúva kuéra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "retãgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ויחזקו",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "tupã rehe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambuéva"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ויעבדם",
+      "gloss": "ombaʼapo chupekuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hyvíape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ko ivaivarã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ko ivaivarã"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:45:55.285387885Z",
+  "model": "glm-5.3"
+}

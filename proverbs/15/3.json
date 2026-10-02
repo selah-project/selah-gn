@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Opa hendápe Jahve renda tuja, ohecha umi vai ha umi marangatu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "renda tuja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "umi vai"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ha umi marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:35:16.684495592Z",
+  "model": "glm-5.3"
+}

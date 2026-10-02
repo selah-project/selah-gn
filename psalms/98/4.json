@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 98,
+  "translation": "Opaite yvy, pehu Jahve rehe; pesãso, pesarambi vy'ápe ha epurahéi.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "pehu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "pesãso"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ha pesarambi vy'ápe"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "ha epurahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:52.880057912Z",
+  "model": "glm-5.3"
+}

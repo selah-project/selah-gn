@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha mburuvicha heʼi kuñápe: Eho nde rógape, ha che amoĩta ñeʼẽ nde rehegua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuñápe"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "eho"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "nde rógape"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "amoĩta ñeʼẽ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T11:26:45.195786253Z",
+  "model": "glm-5.3"
+}

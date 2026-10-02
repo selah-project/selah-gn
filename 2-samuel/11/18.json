@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Joav omondo peteĩ maranduʼasãhára omombeʼu David-pe ⟨את⟩ ñorãirõ rehegua opaite mbaʼe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "omombeʼu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe ñorãirõ rehegua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõ rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:59:21.003435085Z",
+  "model": "glm-5.3"
+}

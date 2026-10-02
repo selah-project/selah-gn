@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Peteĩ gefén rejeroke Mitsraim-gui, remondo tetãnguéra ha rejoty chupe.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "gefé"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "rejeroke"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "remondo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ha rejoty chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:22.242538417Z",
+  "model": "glm-5.3"
+}

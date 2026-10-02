@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Mor, ahalot ha ketsiot — opaite ne aokuéra ⟨iñimpypa⟩ ⟨mor⟩ rehe; heikal chen-gua apytegui mbopuha kuéra ombovy'ã ⟨nde⟩ rehe.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mor"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ahalot"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "ketsiot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "ne aokuéra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytegui"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "heikal"
+    },
+    {
+      "surface": "שן",
+      "gloss": "chen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mbopuha"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "ombovy'ã ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:27.207818127Z",
+  "model": "glm-5.3"
+}

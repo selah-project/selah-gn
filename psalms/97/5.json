@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Yvytykuéra ojekangy chẽra ramo Jahve renondépe, Adonai — opaite yvýpa iñakãráre — renondépe.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "chẽra ramo"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "ojekangy"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvýpa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:44.665971235Z",
+  "model": "glm-5.3"
+}

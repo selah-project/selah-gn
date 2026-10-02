@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha ⟨את⟩ itaʼýraukuéra egueru tenonde, ha emoĩ chupekuéra kutonet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itaʼýraukuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "itaʼýraukuéra"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "egueru tenonde"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "emoĩ chupekuéra"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kutonet"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:39.030042124Z",
+  "model": "glm-5.3"
+}

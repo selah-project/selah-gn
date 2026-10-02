@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha ⟨את⟩ imemby mokõi, peteĩ réra Gerchom, ha'e haguére: che aikóva'ekue jererekuára ramo yvy iñambuévape.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imemby mokõi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "imemby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerchom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'e haguére"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "גר",
+      "gloss": "jererekuára"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "che aikóva'ekue"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy...pe"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "iñambuéva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:58.850780622Z",
+  "model": "glm-5.3"
+}

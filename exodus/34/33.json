@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha upéi Moche opa oñe'ẽ ⟨את⟩ hikuái ndive, ha omoĩ hova ári masve.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hikuái (Jisrael mitãnguéra)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hova"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "masve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:22.082285805Z",
+  "model": "glm-5.3"
+}

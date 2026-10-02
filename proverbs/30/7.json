@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Mokõi mba'e che jerure ⟨את⟩ ndeve; ani eipe'ã cheve che mano mboyve.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Mokõi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "che jerure"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩",
+      "marks": "ndeve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "eipe'ã"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "che mano mboyve"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amano"
+    }
+  ],
+  "timestamp": "2026-10-02T16:43:56.817715613Z",
+  "model": "glm-5.3"
+}

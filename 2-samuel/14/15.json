@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 14:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha upéarõ, aju amoñeʼẽ hagua che jára mburuvicha guasúpe ⟨את⟩ ko ñeʼẽ, umi tapicha omesuʼũ rupi cherehe; ha kuñambopi heʼi: amoñeʼẽta mburuvicha guasúpe; ikatúne mburuvicha guasu ojapo ⟨את⟩ che kuñambopi ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha upéarõ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe rehe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aju"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "amoñeʼẽ hagua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "omesuʼũ cherehe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tapicha"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "kuñambopi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "amoñeʼẽta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼag̃a na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ikatúne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che kuñambopi ñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "che kuñambopi"
+    }
+  ],
+  "timestamp": "2026-10-02T19:02:26.280963502Z",
+  "model": "glm-5.3"
+}

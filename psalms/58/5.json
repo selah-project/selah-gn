@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Hi'ãngerã hikuái ñanandi hi'ãngerãicha; tuicha pethén ndohendúva ojoko haguã hi'apysa.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "hi'ãngerã"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "icha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hi'ãngerã"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ñanandi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "pethén"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ndohendúva"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ojoko"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "hi'apysa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:13.502435375Z",
+  "model": "glm-5.3"
+}

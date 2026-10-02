@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha mburuvicha ohendúvo ⟨את⟩ Tora ñeʼẽ, oisuʼi ⟨את⟩ iao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ohendúvo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora ñeʼẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "oisuʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iao"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iao"
+    }
+  ],
+  "timestamp": "2026-10-02T18:39:00.973458850Z",
+  "model": "glm-5.3"
+}

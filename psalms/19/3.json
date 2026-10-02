@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ára peteĩ ára reheve omoñeʼẽ ñeʼẽnguéra, ha pyhare peteĩ pyhare reheve ohechauka kuaa.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "peteĩ ára reheve"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "omoñeʼẽ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "peteĩ pyhare reheve"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:03.364448816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Cham, Kenaan ru, ohecha ⟨את⟩ iñakãrata aku pegua ha omombe'u ijoyke'y kuérape, okaháre.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ru"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãrata aku pegua"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "iñakãrata aku pegua"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "omombe'u"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kuérape"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'y"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "okaháre"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:40.373364771Z",
+  "model": "glm-5.3"
+}

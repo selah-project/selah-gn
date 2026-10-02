@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Yvy retãnguéra, penande Elohim rehe; pehyapu Adonai rehe. Chela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Yvy retãnguéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "penande"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pehyapu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai rehe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:55.895524360Z",
+  "model": "glm-5.3"
+}

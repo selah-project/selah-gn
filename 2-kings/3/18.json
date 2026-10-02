@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha kóva Jahve resápe mbaʼe michĩnte; ha omeʼẽta ⟨את⟩ Moav peñipópe.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ha ... mbaʼe michĩnte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "peñipópe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:58.428599758Z",
+  "model": "glm-5.3"
+}

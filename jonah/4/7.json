@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Elohim omohenda peteĩ tolaʼat ko'ẽ osẽvo mokõiha árape, ha oity ⟨את⟩ ⟨kikayon⟩, ha okuare'ỹ.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "ha omohenda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaʼat"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "osẽvo"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "mokõiha árape"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ha oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "⟨kikayon⟩"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ha okuare'ỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:04:35.336151209Z",
+  "model": "glm-5.3"
+}

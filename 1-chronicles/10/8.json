@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Upéicha oiko ambue árape: pelishtikuéra ou oipe'a hag̃ua ⟨את⟩ umi omanova'ekue, ha ohu'ã ⟨את⟩ Shaúl ha ⟨את⟩ imembykuéra voíva Gilboa yvypýpe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Upéicha oiko"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ambue árape"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "oipe'a hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi omanova'ekue"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "umi omanova'ekue"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ohu'ã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imembykuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "voíva"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvypýpe"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-02T18:07:06.429698915Z",
+  "model": "glm-5.3"
+}

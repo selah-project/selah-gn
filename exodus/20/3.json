@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ndaipóri nde rehegagua ambue Elohim che ári, che akã rogue.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ohaʼarõiterei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehegagua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "על",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che akã rogue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:14.939411367Z",
+  "model": "glm-5.3"
+}

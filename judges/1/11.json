@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha upégui oho Devir iñemoñarenguéra rehe — Devir réra tenondeguare haʼe Kiryat Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "iñemoñarenguéra"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ha réra"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "tenondeguare"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-10-02T10:31:29.470772233Z",
+  "model": "glm-5.3"
+}

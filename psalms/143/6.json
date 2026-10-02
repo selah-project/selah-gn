@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Aipeju che po kuéra ndeve; che rekove yvy hasyiete ichága nde rehe. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Aipeju"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po kuéra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "yvy…ichága"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "hasyiete"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:34.591532Z",
+  "model": "glm-5.3"
+}

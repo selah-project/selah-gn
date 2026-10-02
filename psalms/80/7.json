@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Remoĩ ⟨את⟩ ñandéve ñorãirõ ramo ñande vecino kuérape, ha ñande vaívape omboʼeʼẽ hikuái ñande rehe.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Remoĩ ñandéve"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ñorãirõ ramo"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ñande vecino kuérape"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ha ñande vaívape"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "omboʼeʼẽ hikuái"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ñande rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:07.001170778Z",
+  "model": "glm-5.3"
+}

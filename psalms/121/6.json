@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Arakuérape kuarahy ndoguapychói ⟨nde⟩; jasy katu pyharépe.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "arakuérape"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…i"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "doguapychói"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "jasy katu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pyharépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:39.162887795Z",
+  "model": "glm-5.3"
+}

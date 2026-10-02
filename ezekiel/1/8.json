@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ipo — yvypóra pó — oĩ ipepo kuéra guýpe, irundy ijavoré vorekuéra rehe; ha iova kuéra ha ipepo kuéra, irundykuéra.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ha ipo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ipepo kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "ijavoré vorekuéra"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ha iova kuéra"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ha ipepo kuéra"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "irundykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:53:32.317758572Z",
+  "model": "glm-5.3"
+}

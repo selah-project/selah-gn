@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Upéicha Jochua omboporoity chupe, ha ome'e ⟨את⟩ Chevron Kalev-pe, Jefune ra'y, teñoiarã ramo.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "omboporoity chupe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jochua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ome'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev-pe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "teñoiarã ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T10:24:14.784664325Z",
+  "model": "glm-5.3"
+}

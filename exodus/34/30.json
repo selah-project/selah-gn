@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Aharon ha Jisraël membykuéra opa ohecha ⟨את⟩ Moche, ha ningo pe vera osẽ hovapiregui, ha oñemokyryrỹi og̃uahẽse hese.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha ningo"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "osẽ vera"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pire"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hova"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "oñemokyryrỹi"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "og̃uahẽse rehe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:53.571737679Z",
+  "model": "glm-5.3"
+}

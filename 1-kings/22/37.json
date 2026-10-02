@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Pe mburuvicha omano, ha ogueru Shomron-pe, ha oñeñongatu ⟨את⟩ pe mburuvicha Shomron-pe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron-pe"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "oñeñongatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomron-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:00:00.099112557Z",
+  "model": "glm-5.3"
+}

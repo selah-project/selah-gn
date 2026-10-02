@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Peikiri, umi ypa yvy pegua; Tsidon ñemuha, y hasáva hove, onohẽ nderehe heta mbaʼe kuéra.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "peikiri"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "umi ypa yvy pegua"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ypa"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "ñemuha"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "y hasáva hove"
+    },
+    {
+      "surface": "ים",
+      "gloss": "y"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "onohẽ nderehe heta mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:54.731666152Z",
+  "model": "glm-5.3"
+}

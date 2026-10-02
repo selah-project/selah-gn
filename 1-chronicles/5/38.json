@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Achitub omoñemoñare ⟨את⟩ Tsadok, ha Tsadok omoñemoñare ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ha Achitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omoñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ha Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omoñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-10-02T18:01:42.987459083Z",
+  "model": "glm-5.3"
+}

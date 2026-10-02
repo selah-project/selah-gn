@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Neñemoñe'ẽ, nesẽ ha nejeike aikuaa, ha ⟨את⟩ nepy'arovy chéve aikuaa.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "neñemoñe'ẽ"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "nesẽ"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "nejeike"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nepy'arovy"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "nepy'arovy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T12:21:09.985341987Z",
+  "model": "glm-5.3"
+}

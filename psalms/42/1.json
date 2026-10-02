@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Pe moñeʼẽhára ñangarekohárape g̃uarã — machil, Korah raʼýkuéra ñeʼẽpoty.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "moñeʼẽhára ñangarekohárape"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "machil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼýkuéra pe g̃uarã"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:12.855286109Z",
+  "model": "glm-5.3"
+}

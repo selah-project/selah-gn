@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha upéigui ojevy, ha omoĩ jey ⟨את⟩ umi tembiguái kuéra ha ⟨את⟩ umi kuña tembiguái omondovaʼekue sãso, ha ojokopa chuguikuéra tembiguái ha kuña tembiguái ramo.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Ha upéigui ojevy"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéigui"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "omoĩ jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tembiguái kuéra"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "umi tembiguái kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi kuña tembiguái"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "umi kuña tembiguái"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omondovaʼekue"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "sãso"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "ojokopa chuguikuéra"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "tembiguái ramo"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "kuña tembiguái ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T13:37:01.736754200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 124,
+  "translation": "Jahve ndoĩriramo ore ndive, yvypóra oñemosẽ ramo ore rehe,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ndoĩriramo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore ndive"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "oñemosẽ ramo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:46.737681889Z",
+  "model": "glm-5.3"
+}

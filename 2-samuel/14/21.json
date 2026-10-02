@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pe mburuvicha oheja iñeʼẽ Joav rehe: Eñanduka, ajapo ⟨את⟩ ko ñeʼẽ; eho ha embojevy ⟨את⟩ mitãrusu ⟨את⟩ Avchalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oheja iñeʼẽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eñanduka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "eñanduka ryepýpe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "השב",
+      "gloss": "embojevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitãrusu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mitãrusu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avchalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    }
+  ],
+  "timestamp": "2026-10-02T11:27:18.399246081Z",
+  "model": "glm-5.3"
+}

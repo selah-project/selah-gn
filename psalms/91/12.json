@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "I pópe peʼa nde, ani rejoko nde py itáre.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כפים",
+      "gloss": "I pópe"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "peʼa nde"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "rejoko"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "itáre"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "nde py"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:12.001741448Z",
+  "model": "glm-5.3"
+}

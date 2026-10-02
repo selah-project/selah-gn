@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha pe mbovymi tajýpe Menashepegua, ⟨את⟩ Taanakh ha ⟨את⟩ hese okaháre, ⟨את⟩ Gat Rimon ha ⟨את⟩ hese okaháre; táva mokõi.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "pe mbovymi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tajýpe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashepegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakh"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "okaháre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hese okaháre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gat Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "okaháre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hese okaháre"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mokõi"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:56.072085210Z",
+  "model": "glm-5.3"
+}

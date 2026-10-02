@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Amoña opaite che kanguekuéra; umía omaʼẽ ha ohecha cherehe.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Amoña"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "che kanguekuéra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umía"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "omaʼẽ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:44.237120516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Pe oiko vaʼekue, koʼág̃a oĩma; ha pe oikótava, oiko vaʼekuema saʼygue; ha Elohim oheka ⟨את⟩ pe oñemboyke vaʼekue.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "oiko vaʼekue"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "saʼygue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "koʼág̃a oĩma"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "oikótava"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "saʼygue"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko vaʼekuema"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ha Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe oñemboyke vaʼekue"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "pe oñemboyke vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:51.674590995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha pe pa'i oñemu ⟨אתם⟩ pe ñemuha rendápe, tatagueha ramo Jahve-pe; asham haʼe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Ha pe pa'i oñemu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umi jepeʼe ha pytiʼanga (umi mbaʼe oñemúva)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe pa'i"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe ñemuha rendápe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tatagueha ramo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:44:27.860298203Z",
+  "model": "glm-5.3"
+}

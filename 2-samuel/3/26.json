@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Joav osẽ David gotyo, ha omondo ñe'ẽguataha kuéra Avner rearogue, ha omoĩ jey ⟨את⟩ chupe Sirah ykua guive; ha David ndaikuaái.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ha omondo"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ñe'ẽguataha kuéra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rearogue"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ha omoĩ jey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "chupe (Avner)"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ykua"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Sirah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ha David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T11:20:01.823922457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha David heʼi: Jahve, Jisrael Elohim, ne mbaʼapohára ohendu porã vaʼekue Shaúl ohekaha ou Keilá-pe omboguejy hagua táva che rekóre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "porã vaʼekue"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ne mbaʼapohára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ohekaha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilá"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "omboguejy hagua"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "che rekóre"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:58.929655682Z",
+  "model": "glm-5.3"
+}

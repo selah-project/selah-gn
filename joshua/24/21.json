@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha pe avano'õ ohecha Jehosua-pe: Nahániri; ⟨את⟩ Jahve rosimbahína.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe avano'õ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nahániri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-hína"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "rosimbahína"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:15.416986791Z",
+  "model": "glm-5.3"
+}

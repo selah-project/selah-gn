@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Elohim oñeʼẽ Noach rehe ha iñañuaranguéra rehe ⟨את⟩ hi'ándive, heʼívo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Elohim oñeʼẽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñañuaranguéra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hi'ándive",
+      "marks": "Noach ha iñañuaranguéra — oĩ hikuái oñondive"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:43.047126001Z",
+  "model": "glm-5.3"
+}

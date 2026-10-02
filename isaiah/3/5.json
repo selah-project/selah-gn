@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha tavaygua ojopýta oñondive, kuimbaʼe kuimbaʼe rehe, ha kuimbaʼe iñirũnguéra rehe; mitã oñemboavýta kuéra ruvicháre, ha michĩvéva tuichavévare.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ojopýta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kuimbaʼe rehe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimbaʼe"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "iñirũnguéra rehe"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "oñemboavýta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "kuéra ruvicháre"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ha michĩvéva"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "tuichavévare"
+    }
+  ],
+  "timestamp": "2026-10-02T12:26:17.567668113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha ojapu chupekuéra vaka michĩ icha; Levanon ha Sirion, teju guasu raʼýicha.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Ha ojapu chupekuéra"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "icha"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vaka michĩ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ha Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "icha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýicha"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "teju guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:30.307182188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha peñotývo ⟨את⟩ pe ñoty pe yvy pegua, aníkena pejopyrudaiterei pe kokué rembe'y ñotývo jave, ha umi tory'o ñoty riregua aníkena peñembyaty opaite.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ha peñotývo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñoty"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "pe ñoty"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "pe yvy pegua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aníkena"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "pejopyrudaiterei"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pe rembe'y"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "nde kokué pegua"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "ñotývo jave"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ha umi mongaraijavére"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "nde ñoty riregua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aníkena"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "peñembyaty opaite"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:46.568054281Z",
+  "model": "glm-5.3"
+}

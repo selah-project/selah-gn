@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Moche ha Aharon ohóvo, ha oñembyaty ⟨את⟩ umi tuichakueva Jisrael mitãnguéra apytégui.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tuichakueva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "umi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tuichakueva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:17.495817886Z",
+  "model": "glm-5.3"
+}

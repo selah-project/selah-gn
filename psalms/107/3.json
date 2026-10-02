@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha oñembyaty umi yvy kuéra gui, kuarahy resẽ guive ha kuarahy ñemano peve, yvate guive ha para ñemby peve.",
+  "tokens": [
+    {
+      "surface": "וּמֵאֲרָצוֹת",
+      "gloss": "umi yvy kuéra gui"
+    },
+    {
+      "surface": "קִבְּצָם",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "מִמִּזְרָח",
+      "gloss": "kuarahy resẽ guive"
+    },
+    {
+      "surface": "וּמִמַּעֲרָב",
+      "gloss": "ha kuarahy ñemano peve"
+    },
+    {
+      "surface": "מִצָּפוֹן",
+      "gloss": "yvate guive"
+    },
+    {
+      "surface": "וּמִיָּם",
+      "gloss": "ha para ñemby peve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:15.055461831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 61,
+  "translation": "Aiko nde Michkan ryepýpe tapiaitépe, añemoʼã nde japepokue kañyhápe — Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "nde Michkan ryepýpe"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "tapiaitépe"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "añemoʼã"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kañyhápe"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nde japepokue"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:43.158558078Z",
+  "model": "glm-5.3"
+}

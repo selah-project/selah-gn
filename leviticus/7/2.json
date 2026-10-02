@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ojejukahápe ⟨את⟩ pe ola, ojejukáta ⟨את⟩ pe acham, ha ⟨את⟩ iñange ohesaʼỹijóta pe altár rehe, ijerérepa.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Ojejukahápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ojejuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe ola"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ojejukáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe acham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "pe acham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñange"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iñange"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ohesaʼỹijóta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe altár"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerérepa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:40.244649992Z",
+  "model": "glm-5.3"
+}

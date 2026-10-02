@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ohayhúva ñemoarandu, ohayhu kuaa; ha pe ñembojakakuaa ndaijaʼéiva, haʼe tavy.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Ohayhúva"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ñemoarandu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ha ndaijaʼéi"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ñembojakakuaa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "tavy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:33:06.442123494Z",
+  "model": "glm-5.3"
+}

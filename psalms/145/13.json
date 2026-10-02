@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Nde mburuvicharã ⟨haʼe⟩ mburuvicharã opaite ára pukukuéra peg̃uarã, ha nde mburuvicha opaite ñemoñare aja ha ñemoñare aja.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Nde mburuvicharã"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "ára pukukuéra peg̃uarã"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "ha nde mburuvicha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite … aja"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ha ñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:59.825953159Z",
+  "model": "glm-5.3"
+}

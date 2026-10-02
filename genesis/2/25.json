@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Haʼekuéra mokõive oĩ opyahẽ hendypeʼỹme, ku yvypóra ha ikuñañirã, ha ndorangyrikói hikuái.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "oĩ hikuái"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "opyahẽ hendypeʼỹme"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ku yvypóra"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ha ikuñañirã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "rangyrikói hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T07:28:44.727881176Z",
+  "model": "glm-5.3"
+}

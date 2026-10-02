@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 10:40",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Yehochua oipysyrõ ⟨את⟩ opaite pe yvy — yvytyguasu, ñemby gotyo, yvy huʼã, yvyty rovyʼã — ha ⟨את⟩ opaite iñamburuviicha kuéra; ndahejái oporavivéima; ha ⟨את⟩ opaite opytuʼúva ohaipa, Jahve, Jisrael Elohim, ohejakuaaháicha.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "oipysyrõ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite pe yvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvytyguasu"
+    },
+    {
+      "surface": "והנגב",
+      "gloss": "ñemby gotyo"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "yvy huʼã"
+    },
+    {
+      "surface": "והאשדות",
+      "gloss": "yvyty rovyʼã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite iñamburuviicha kuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "iñamburuviicha kuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hejái"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "oporavivéima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite opytuʼúva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "opytuʼúva"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ohaipa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ohejakuaaháicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ohejakuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:25:13.223667824Z",
+  "model": "glm-5.3"
+}

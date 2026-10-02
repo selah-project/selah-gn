@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Edom toldokuéra, Yichmaelgua, Moav ha Hagaragua.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "toldokuéra"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ha Yichmaelgua"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ha Hagaragua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:33.348996166Z",
+  "model": "glm-5.3"
+}

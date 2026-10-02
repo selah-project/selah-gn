@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha pe ñeʼẽ ou porã Abchalom resápe, ha opaite Jisrael ruvichakuéra resápe.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ou porã"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abchalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T11:27:41.456901253Z",
+  "model": "glm-5.3"
+}

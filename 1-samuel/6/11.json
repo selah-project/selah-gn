@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha omoĩ ⟨את⟩ Jahve mbaʼeryru kareta ári, ha ⟨את⟩ pe ryru, ha ⟨את⟩ umi anguja kuarepoti, ha ⟨את⟩ umi taʼãnga iñkunuʼũ vaʼekue.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve mbaʼeryru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mbaʼeryru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe ryru"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "ryru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi anguja kuarepoti"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "umi anguja"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi taʼãnga iñkunuʼũ"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "umi taʼãnga"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "iñkunuʼũ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:58:13.819423232Z",
+  "model": "glm-5.3"
+}

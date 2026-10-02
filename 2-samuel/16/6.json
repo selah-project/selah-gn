@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ojererei ita ⟨את⟩ David rehe ha ⟨את⟩ opaite mburuvicha guasu David mbaʼapoʼarekohára rehe; ha opaite tavaygua ha opaite ipuʼakáva oĩ iñakatúape ha iñasúpe.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "ojererei ita"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite mburuvicha guasu David mbaʼapoʼarekohára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mbaʼapoʼarekohára"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "iñakatúape"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "iñasúpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:01:42.653508812Z",
+  "model": "glm-5.3"
+}

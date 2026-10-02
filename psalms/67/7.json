@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 67,
+  "translation": "Yvy ome'ẽ ⟨את⟩ ivosa; Elohim, ore Elohim, omboporãveta ñanderehe.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Yvy"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ivosa"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "omboporãveta ñanderehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:26.651013433Z",
+  "model": "glm-5.3"
+}

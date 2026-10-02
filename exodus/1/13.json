@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Mitsraim-gua kuéra omba'apo jurujáramo ⟨את⟩ Jisrael memby kuéra-pe, hare'itereípe.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "omba'apo jurujáramo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-gua kuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael memby kuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby kuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "hare'itereípe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:38.355716777Z",
+  "model": "glm-5.3"
+}

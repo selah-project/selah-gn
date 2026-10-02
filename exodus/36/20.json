@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ojapo ⟨את⟩ umi yvyrakuéra Michkan g̃uarã, chitim yvyra, yvate gotyo oĩva.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi yvyrakuéra"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "umi yvyrakuéra"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Michkan g̃uarã"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "yvate gotyo oĩva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:02.987592178Z",
+  "model": "glm-5.3"
+}

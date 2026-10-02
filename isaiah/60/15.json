@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Sê nde reiko rire ojejarekóva ha ojerovahéíva, ha ningo ndaipóri ohasáva, amoĩta nde roviararã pukukue areguápe, ñemoñare ha ñemoñare mbaʼerã vyʼa.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "sê nde reiko rire"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "nde reiko"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "ojajarekóva"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "ha ojerovahéíva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ningo ndaipóri"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ohasáva"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "amoĩta nde"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "roviararã"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pukukue areguápe"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "vyʼa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ha ñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T13:03:42.024973417Z",
+  "model": "glm-5.3"
+}

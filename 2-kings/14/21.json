@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha opaite Yehuda tavaygua ogueru ⟨את⟩ Azariah, haʼéva pokõi pa ary rekópe, ha omoĩ mburuvicha ramo itúva Amatsiahu rendápe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azariah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azariah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ary rekópe"
+    },
+    {
+      "surface": "שש",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "omoĩ mburuvicha ramo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Azariah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:06.536751116Z",
+  "model": "glm-5.3"
+}

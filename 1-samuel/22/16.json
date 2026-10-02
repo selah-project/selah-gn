@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha mburuvicha heʼi: Nde reikota añete, Ahimélek, nde ha nde ru óga opavére.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "añete"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "reikota"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimélek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavére"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    }
+  ],
+  "timestamp": "2026-10-02T19:00:44.328103506Z",
+  "model": "glm-5.3"
+}

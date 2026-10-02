@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "¿Rejapo mboute mbaʼe raʼãvúva ⟨pe⟩ manombývape? ¿Refaím ojupíta omombaʼe hag̃ua nde rehe? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "manombývape"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mbaʼe raʼãvúva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaím"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ojupíta"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "omombaʼe nde rehe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:11.016261606Z",
+  "model": "glm-5.3"
+}

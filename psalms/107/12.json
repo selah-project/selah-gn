@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha omokenoirõ i pyʼa mbaʼapo asýpe, ovoy ha ndaipóri pytyvõhára.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Ha omokenoirõ"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "mbaʼapo asýpe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "i pyʼa"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ovoy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pytyvõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:09.170206481Z",
+  "model": "glm-5.3"
+}

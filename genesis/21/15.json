@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Opa pe y pe y raʼỹígui, ha haʼe omondoi ⟨את⟩ pe mitã peteĩ kaʼavo guýpe.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "opa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "pe y raʼỹi"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "omondoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitã"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "kaʼavo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:33.365320038Z",
+  "model": "glm-5.3"
+}

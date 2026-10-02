@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha umi iñakãmeʼẽva ojapýta yvy, ha oguerovyʼáta pyʼaguapy hetakuére rehe.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ha umi iñakãmeʼẽva"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ojapýta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ha oguerovyʼáta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetakuére"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:33.128255080Z",
+  "model": "glm-5.3"
+}

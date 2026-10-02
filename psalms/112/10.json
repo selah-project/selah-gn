@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Pe iñapañuãi ohecha ha inyʼỹ; iñeĩnguéra ogueru oiʼypýpe ha omomonai; umi iñapañuãivakuéra rekoasýrõ oñehundi.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "pe iñapañuãi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ha inyʼỹ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "iñeĩnguéra"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "ogueru oiʼypýpe"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ha omomonai"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "rekoasýrõ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi iñapañuãivakuéra"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "oñehundi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:26.167767428Z",
+  "model": "glm-5.3"
+}

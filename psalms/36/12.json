@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ani che gotyo ou jeikoiva'erã py, ha umi vai rekóva po, ani che monge'i.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "che gotyo ou"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "py"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "jeikoiva'erã"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ha ... po"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi vai rekóva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "che monge'i"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:15.841525989Z",
+  "model": "glm-5.3"
+}

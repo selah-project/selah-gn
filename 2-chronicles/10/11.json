@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha koʼag̃a, che ru omyanyhẽ ⟨העל⟩ peve pehe jokoha pohýi, ha che ambojoapýta pepe jokoháre. Che ru opena ⟨את⟩ peve tairakuéra ndive, ha che aikokuéra ndive.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼag̃a"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "omyanyhẽ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pehe"
+    },
+    {
+      "surface": "על",
+      "gloss": "jokoha"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pohýi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ambojoapýta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "pepe jokoha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Che ru"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "opena"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peve",
+      "marks": "peve"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "tairakuéra ndive"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "aikokuéra ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:46.640257638Z",
+  "model": "glm-5.3"
+}

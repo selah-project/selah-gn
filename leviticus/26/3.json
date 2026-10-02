@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Pehendúramo che rekochaukakuéra peẽikatu hese ha ⟨את⟩ che mboʼe kuéra peẽ jeheka ha pejapo ⟨את⟩ chukuéra.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Pehendúramo"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "che rekochaukakuéra peẽikatu hese"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "peẽikatu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che mboʼe kuéra"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "che mboʼe kuéra"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "peẽ jeheka"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ha pejapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:05:27.010326757Z",
+  "model": "glm-5.3"
+}

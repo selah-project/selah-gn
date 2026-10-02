@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Mbaʼérepa ñande opa nde rairoʼýpe, ha nde verekoʼĩme ñande jepyʼapy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "ñande opa"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nde rairoʼýpe"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ha nde verekoʼĩme"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "ñande jepyʼapy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:48.303508195Z",
+  "model": "glm-5.3"
+}

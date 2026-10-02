@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Upévare che avirũ ⟨את⟩ umi manóba — umíva omano koʼẽ guive — umíva oiko gueteri tekovéva apytégui.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "avirũ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi manóba"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "umi manóba"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "koʼẽ guive"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "manóma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "umi oikovéva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "oikovéva"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "gueteri"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:48.659510662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Resampáta ko árape, ha pe nabi avei osampáta ndive pyharepe; ha che amoñembyaíta nde sy.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "resampáta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "וכששל",
+      "gloss": "osampáta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyharepe"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "amoñembyaíta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nde sy"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:05.845560541Z",
+  "model": "glm-5.3"
+}

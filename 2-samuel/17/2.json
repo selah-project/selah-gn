@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha che ambohováita hese, ha haʼe ⟨haʼe⟩ hasy ha iñpo rory, ha amongaʼíta chupe ⟨את⟩, ha okañýta opaite tavayga oĩva ⟨את⟩ hendive, ha ambyaita ⟨את⟩ mburuvicha haʼe año.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ambohováita hese"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "hasy"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "rory"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "po"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "amongaʼíta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "amongaʼíta hese \/ okañy (ונס)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "okañýta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hendive"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ambyaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "haʼe año"
+    }
+  ],
+  "timestamp": "2026-10-02T11:27:41.456603565Z",
+  "model": "glm-5.3"
+}

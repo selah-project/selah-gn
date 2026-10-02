@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Che akãngetã'ỹ ha oikotevẽvape, che korasõ ojekua'i che ryepýpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עני",
+      "gloss": "akãngetã'ỹ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "oikotevẽva"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ו לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ojekua'i"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "che ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:03.811518569Z",
+  "model": "glm-5.3"
+}

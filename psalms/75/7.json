@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Ha pẽmẽ'ã pe ijupíva ndoúiva kuarahy resẽ gotyo, kuarahy ou gotyo, ha ndoúi ka'aguy yvategui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha pẽmẽ'ã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndoúiva"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kuarahy ou gotyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoúi"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ka'aguy"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvategui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:38.091674158Z",
+  "model": "glm-5.3"
+}

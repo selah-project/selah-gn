@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Omoĩ Jahve name teresakue, ha omombe'u iteresa ypa'ûkuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "name teresakue"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ha ... iteresa"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "ypa'ûkuéra apytépe"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "omombe'u"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:40.542821654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Adonai Jahve ojurujai iñeʼẽ marangatu rehe: Hína, ára kuéra ou hikuái pende ári, ha ogueraháta ⟨את⟩ pende tũi kuéra rehe, ha pende rapykuere pira tũi rehe.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ojurujai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "iñeʼẽ marangatu rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "henguetépe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hína"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ou hikuái"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pende ári"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pende"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "tũi kuéra rehe"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "ha pende rapykuere"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "pira tũi rehe"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "pira tũi"
+    }
+  ],
+  "timestamp": "2026-10-02T14:55:14.620485655Z",
+  "model": "glm-5.3"
+}

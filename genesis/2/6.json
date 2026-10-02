@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha peteĩ kyrai osẽ yvate yvy gui, ha omongu'y ⟨את⟩ opaite yvy ape.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ha peteĩ kyrai"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "osẽ yvate"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ha omongu'y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite yvy ape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ape"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:39.239342467Z",
+  "model": "glm-5.3"
+}

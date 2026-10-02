@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Eiporojechapa che, Jahve che Elohim, nde tsedek reheve; ha ani ovyʼa cherehe.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Eiporojechapa che"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "nde tsedek reheve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:01.050207420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Umi ára Shelomoh oisãmbyhy hague Jerusalaim-pe, opa Jisrael ári, irundy ary poa ⟨ova⟩.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Umi ára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hague"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundy ary poa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨ova⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:13.360718284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Ha umi jukapohára ruvicha ogueru ⟨את⟩ Seraja, paʼi tuichavéva, ha ⟨את⟩ Tsefanja, paʼi mokõiha, ha ⟨את⟩ umi jeikeha jeguerekohára mbohapy.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ruvicha"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "jukapohára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tuichavéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanja"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbohapy jeguerekohára"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "jeguerekohára"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "jeikeha"
+    }
+  ],
+  "timestamp": "2026-10-02T13:53:36.871739289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha ko'ãva ⟨⟩ ko'ã Jitshak ra'y kuéra ñepyrũrã, Avraham ra'y: Avraham omongueraí ⟨את⟩ Jitshak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ha ko'ãva"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ñepyrũrã kuéra"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omongueraí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:37.847931441Z",
+  "model": "glm-5.3"
+}

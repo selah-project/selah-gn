@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Moche ohai ⟨את⟩ ko Tora ha ome chupe umi paʼikuéra-pe, Leví taʼýra, ogueraháva ⟨את⟩ Jahve ñeʼẽmeʼẽ arón, ha opavave Jisrael ruvichakuéra-pe.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ome chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leví"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ogueraháva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽmeʼẽ arón"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha opavave…-pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:14:01.438058292Z",
+  "model": "glm-5.3"
+}

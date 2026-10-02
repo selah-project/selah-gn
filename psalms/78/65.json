@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Upéicharõ Adonai oñesambyhy korerêguáicha, ha mbaretepáva ohenyhẽijey hague kaguyjy rehegui.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "oñesambyhy"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "korerêguáicha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "mbaretepáva guáicha"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "ohenyhẽijey"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kaguyjy rehegui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:35.540024323Z",
+  "model": "glm-5.3"
+}

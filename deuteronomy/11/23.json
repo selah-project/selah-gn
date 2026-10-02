@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve omonambýta ⟨את⟩ opa ko tetãnguéra peẽ kuéra renondéguiguíme, ha peẽ kuéra isãmbyhyta tetãnguéra ituichavévare ha ipuʼakavévare peẽ kuéra yvýguiguívagui.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "omonambýta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa ko tetãnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ko tetãnguéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "peẽ kuéra renondéguiguíme"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "peẽ kuéra isãmbyhyta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ituichavévare"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ha ipuʼakavévare"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "peẽ kuéra yvýguiguívagui"
+    }
+  ],
+  "timestamp": "2026-10-02T09:53:49.650449585Z",
+  "model": "glm-5.3"
+}

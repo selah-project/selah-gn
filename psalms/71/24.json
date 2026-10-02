@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Che ñe'ẽ avei, opaite ára, oñe'ẽta nde tsedek rehe; hikuái oñembo'y hikuái, ovy'a'ỹre hikuái umi ohekáva che mba'evaírã.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "che ñe'ẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "oñe'ẽta"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "nde tsedek"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בשו",
+      "gloss": "oñembo'y hikuái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ovy'a'ỹre hikuái"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ovy'a'ỹre hikuái"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "umi ohekáva"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "che mba'evaírã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:45.651077591Z",
+  "model": "glm-5.3"
+}

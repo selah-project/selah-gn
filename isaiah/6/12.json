@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Jahve omoĩ mombyry ⟨את⟩ yvypóra, ha ojehu heta ojejeja vaʼekue yvy mbytépe.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "omoĩ mombyry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ojehu heta"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ojejeja vaʼekue"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T12:29:32.649239675Z",
+  "model": "glm-5.3"
+}

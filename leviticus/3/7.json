@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Oĩramo ovecha michĩ haʼe ogueru ⟨את⟩ i-mba'eporãrã ramo, oguerúta ⟨את⟩ upéva Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Oĩramo"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ovecha michĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-mba'eporãrã"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "i-mba'eporãrã"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "oguerúta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "upéva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:27.229805361Z",
+  "model": "glm-5.3"
+}

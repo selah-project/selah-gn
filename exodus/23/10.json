@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha poteĩ ary rupi reñoty ⟨את⟩ ne yvy ha reguereko ⟨את⟩ heñóivaʼekue.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "reñoty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yvy"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ne yvy"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ha reguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heñóivaʼekue"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "heñóivaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:48.639863671Z",
+  "model": "glm-5.3"
+}

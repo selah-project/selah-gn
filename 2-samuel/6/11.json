@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Aron Jahve opyta Oved-Edom gatigua rógape mbohapy jasy pukukue; ha Jahve oñemongarai ⟨את⟩ Oved-Edom-re ha ⟨את⟩ opaite iñóga rehe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rógape"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gatigua"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jasy pukukue"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ha oñemongarai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite iñóga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iñóga"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:13.304319917Z",
+  "model": "glm-5.3"
+}

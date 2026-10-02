@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 30:7",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha oikóramo oiko kuimba'ére, ha iñe'ẽme'ẽkuéra ijupe, térã ijurupegui osẽ pya'e va'ekue, ojoko va'ekue itekovére —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oikóramo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kuimba'ére"
+    },
+    {
+      "surface": "ונדריה",
+      "gloss": "ha iñe'ẽme'ẽkuéra"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ijupe"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "osẽ pya'e va'ekue"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "ijurupegui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ojoko"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "itekove"
+    }
+  ],
+  "timestamp": "2026-10-02T09:42:13.927345775Z",
+  "model": "glm-5.3"
+}

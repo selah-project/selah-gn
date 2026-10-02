@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "Aingoyvyta nde óga guasu marangatu peve, ha aaguyje ⟨את⟩ nde réra nde hesed ha nde añeteguáre; jaiko emoñakuirũ ⟨את⟩ nde ñe'ẽ opaite nde réra ári.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "aingoyvyta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…peve"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "óga guasu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nde marangatu"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ha aaguyje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde réra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "על",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaiko"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "emoñakuirũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "nde ñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:30.487206351Z",
+  "model": "glm-5.3"
+}

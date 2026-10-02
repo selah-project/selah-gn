@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha oporoʼã chupekuéra umi ndaijaʼéiva chupe i po pegui, ha ojogua jey chupekuéra ñorãirõhára po pegui.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "oporoʼã chupekuéra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po pegui"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "umi ndaijaʼéiva chupe"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "ojogua jey chupekuéra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po pegui"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorãirõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:29.688398392Z",
+  "model": "glm-5.3"
+}

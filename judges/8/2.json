@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 8:2",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oheʼi chupekuéra: Mbaʼépa ajapo koʼag̃a peẽichagua rehe? ¿Efráim yva raʼã nda iporãvepa Abiʼezer tyguã ñeinpõgui?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oheʼi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "koʼag̃a"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "peẽichagua rehe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nda... pa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "yva raʼã"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráim"
+    },
+    {
+      "surface": "מבציר",
+      "gloss": "tyguã ñeinpõgui"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiʼezer"
+    }
+  ],
+  "timestamp": "2026-10-02T10:42:32.067500335Z",
+  "model": "glm-5.3"
+}

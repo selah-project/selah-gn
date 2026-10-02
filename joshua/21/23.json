@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Dan táva ñemeñáme guiguive, ⟨את⟩ Eltekeh ha ⟨את⟩ iguara migraš, ⟨את⟩ Gibeton ha ⟨את⟩ iguara migraš.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "táva ñemeñáme guiguive"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iguara migraš"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iguara migraš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibeton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iguara migraš"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iguara migraš"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:32.853860730Z",
+  "model": "glm-5.3"
+}

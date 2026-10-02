@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha Ribka ohendu Jitshak oñe'ẽvo Esav, ita'ýrare; ha Esav oho ka'aguýpe juka hag̃ua so'o, ogueru hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Ha Ribka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "oñe'ẽvo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-re"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ita'ýrare"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ka'aguýpe"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "juka hag̃ua"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "so'o"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ogueru hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:00.478820453Z",
+  "model": "glm-5.3"
+}

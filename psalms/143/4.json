@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Ha che ruah oñemomichĩ cherehe, che pyʼa che ryepype oñandu vaiete.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "oñemomichĩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "che ryepype"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "oñandu vaiete"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che pyʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:55.543145964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Eñembohovái cherehe, Jahve, nde hesed iporã haguere; nde rekoasãi hetakue rehe, eñembojou che gotyo.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "eñembohovái cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguere"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "hetakue rehe"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "nde rekoasãi"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "eñembojou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:15.224117767Z",
+  "model": "glm-5.3"
+}

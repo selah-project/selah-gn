@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Adonai, eñuhẽ che ñeʼẽ; ne apysa toĩ mbeguekatu che jejerure ñeʼẽ rehe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "eñuhẽ"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "toĩ"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ne apysa"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "mbeguekatu (ojepyapỹiva)"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "che jejerure ñeʼẽ rehe"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "che jejerurekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:00.774682041Z",
+  "model": "glm-5.3"
+}

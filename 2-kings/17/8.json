@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha oiko hikuái umi tetãnguéra rekópe, Jahve oipeʼa vaʼekue Jisrael mitakuéra ñepyrũrã guive, ha umi Jisrael mburuvichakuéra rekópe hikuái ojapo hague.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ha oiko hikuái"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "rekópe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñepyrũrã guive"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "ha umi mburuvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hague"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T19:06:39.457178254Z",
+  "model": "glm-5.3"
+}

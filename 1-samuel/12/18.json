@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Shemuel ohenói Jahve rehe, ha Jahve omeʼe ñeʼẽkuéra hatã ha oky upe áraperã; ha opaite tavayguakuéra ojekyhyje eterei ⟨את⟩ Jahve rehe ha ⟨את⟩ Shemuel rehe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "ñeʼẽkuéra hatã"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "oky"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "upe ára"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "áraperã"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "ojekyhyje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-10-02T11:02:38.360071613Z",
+  "model": "glm-5.3"
+}

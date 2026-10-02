@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Nde niko, Jahve, che moʼãha rei; Elyon remoĩ nde rekoha ramo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "che moʼãha rei"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "remoĩ"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "nde rekoha ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:12.001024748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ⟨את⟩ pe guero, ⟨את⟩ pe rokãha, ⟨את⟩ pe tubi ra'ã — ojeipe'úva pe tubi-gui — pe jejavy mbohasarãgui ohundi tata-pe pe altar ári, upeichaitépe Jahve omandá ⟨את⟩ Moche.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe guero"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "pe guero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe rokãha"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "pe rokãha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe tubi ra'ã"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "pe tubi ra'ã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pe tubi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "pe jejavy mbohasarã"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "ohundi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar ári"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upeichaitépe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omandá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:12.037514087Z",
+  "model": "glm-5.3"
+}

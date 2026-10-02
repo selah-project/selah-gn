@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ejerure chugui che rehe, ha che ameʼẽta ndeve umi tetã nde reimbaʼe ramo, ha yvy apyvu nde mbaʼerã.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ejerure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chugui che rehe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ha che ameʼẽta ndeve"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetã"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "nde reimbaʼe"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "nde mbaʼerã"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "apyvu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:50.299876797Z",
+  "model": "glm-5.3"
+}

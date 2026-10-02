@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Yma guive avavete ndohendúi, apysakuéra ndohendúi; resá ohechaʼỹva Elohim nde rejeguípe, ojapótava pe ohaʼãrõva chupe.",
+  "tokens": [
+    {
+      "surface": "ומעולם",
+      "gloss": "yma guive"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ohendu apysakuéra"
+    },
+    {
+      "surface": "עין",
+      "gloss": "resá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "nde rejeguípe oimbaʼevevape"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapótava"
+    },
+    {
+      "surface": "למחכה",
+      "gloss": "ohaʼãrõvape"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:02:49.699675328Z",
+  "model": "glm-5.3"
+}

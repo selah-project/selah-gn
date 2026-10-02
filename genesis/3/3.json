@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Pe yvyra hua'gui koku mbytépe oĩva hína, Elohim he'i: ani penguaru pese, ani pejoko chupe, peikatu'ãrã peimano.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Ha pe yvyra hua'gui"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "koku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "penguaru"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pese"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani avei"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "pejoko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "peikatu'ãrã"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "peimano"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:29.816969096Z",
+  "model": "glm-5.3"
+}

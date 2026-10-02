@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ha yvága ohechakuaáta ne mba'e poraite, Jahve; nde hekoete avei ⟨atype⟩ marangatukuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "ha ohechakuaáta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ne mba'e poraite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "nde hekoete"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "aty apytépe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:55.200778063Z",
+  "model": "glm-5.3"
+}

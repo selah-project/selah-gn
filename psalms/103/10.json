@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Nahániri ñande rewáicha ojapo ñande rehe, ha nahániri ñande javy guasuichagua ohepymeʼẽ ñande rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "ñande rewáicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñande rehe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "ñande javy guasuichagua"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ohepymeʼẽ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñande rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:48.724088171Z",
+  "model": "glm-5.3"
+}

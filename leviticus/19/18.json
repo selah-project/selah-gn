@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani reñehaʼã ñembohovái, ha ani ereko nde korachõ ⟨את⟩ umi taʼýra nde retãyguanguéra apytépe; ha rehayhu nde rovayguápe ndechéicha; che Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "reñehaʼã ñembohovái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "ereko nde korachõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi taʼýra nde retãyguanguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umi taʼýra"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retãyguanguéra"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "ha rehayhu"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "nde rovayguápe"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ndechéicha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:48.905623530Z",
+  "model": "glm-5.3"
+}

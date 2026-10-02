@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha upépe oiko upe árape: Jehuda oguejy ⟨את⟩ ijoykeʼykuéra mbytégui, ha oho oñemoĩ peteĩ Adulami kuimbaʼe ndive, Hira hérava.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "upe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ijoykeʼykuéra mbytégui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼykuéra"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ohóvo oñemoĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "upe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adulami"
+    },
+    {
+      "surface": "ו שמו",
+      "gloss": "hérava"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hira"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:34.836603065Z",
+  "model": "glm-5.3"
+}

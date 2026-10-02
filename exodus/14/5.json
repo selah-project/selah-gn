@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ojekuaaukuri Mitsraim mburuvichavetépe okañyhague pe tavaygua, ha oñemoambue Paroh ha imbaʼaporakuéra apytuʼu pe tavayguáre, ha heʼi: Mbaʼépa jajapo koʼápe, jaheja rague ⟨את⟩ Jisrael ñande mbokuatiahágui?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ojekuaaukuri"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichavetépe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oĩhague"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "okañyhague"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavaygua"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ha oñemoambue"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "apytuʼu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ha imbaʼaporakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavayguáre"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼápe"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "jajapo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rague"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "jaheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "ñande mbokuatiahágui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:16:30.002103340Z",
+  "model": "glm-5.3"
+}

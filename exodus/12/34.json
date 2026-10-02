@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ⟨the⟩ avano'õ ogueru ⟨את⟩ arapoha ku'i mbujegu oikomboyve; imbojaoha oñemboja iñao kuérape ha ojekua ⟨the⟩ akãpngo ári.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ avano'õ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arapoha ku'i"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "arapoha ku'i"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "oikomboyve"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "mbujegu oiko"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "imbojaoha"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "iñao kuérape"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "⟨the⟩ akãpngo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:21.617137641Z",
+  "model": "glm-5.3"
+}

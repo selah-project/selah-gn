@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha okuaraivévo oñeʼẽ hikuái Jahve-pe iñeñangarekópe, ha oipeʼa chuguikuái iñapañuãikuéragui.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "okuaraivévo oñeʼẽ hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iñeñangarekópe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "iñapañuãikuéragui"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "oipeʼa chuguikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:58.529801161Z",
+  "model": "glm-5.3"
+}

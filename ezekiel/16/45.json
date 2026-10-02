@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Imemby nde sy mbaʼéva ⟨את⟩ nde, omboguejúva ikuimbaʼẽ ha imembykuéra; ha tujakue nde tujakuekuéra mbaʼéva ⟨את⟩ pe, umi omboguejúva ikuimbaʼẽkuéra ha imembykuéra. Pende sy ⟨haʼe⟩ Hiti, ha pende ru ⟨haʼe⟩ Emori.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "imemby"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nde sy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "omboguejúva"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ikuimbaʼẽ"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "ha imembykuéra"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ha tujakue"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "nde tujakuekuéra mbaʼéva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi…va"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "omboguejúva"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "ikuimbaʼẽkuéra"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "ha imembykuéra"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "pende sy"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "ha pende ru"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Emori"
+    }
+  ],
+  "timestamp": "2026-10-02T14:12:52.157178257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 95,
+  "translation": "I pópe oĩ yvy iñakũnguy hague kuéra, ha yvyty iñakatuakuéra haʼe mbaʼe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "I pópe"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "iñakũnguy hague kuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ha iñakatuakuéra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "לו",
+      "gloss": "haʼe mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:09.530296017Z",
+  "model": "glm-5.3"
+}

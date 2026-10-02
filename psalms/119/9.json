@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Mbaʼépa oñemopotĩ peteĩ mitãrusu ⟨את⟩ ihuarape? Oñangareko hag̃ua ne ñeʼẽ reheve.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "יזככה",
+      "gloss": "oñemopotĩ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitãrusu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihuarape"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ihuarape"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "oñangareko hag̃ua"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ne ñeʼẽ reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:05.162633201Z",
+  "model": "glm-5.3"
+}

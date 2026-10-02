@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ha Tsion heʼi: Chembaʼeterã Jahve, che ruvicha Adonai avei cheñemongarai.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "Chembaʼeterã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "cheñemongarai"
+    }
+  ],
+  "timestamp": "2026-10-02T19:08:20.489402809Z",
+  "model": "glm-5.3"
+}

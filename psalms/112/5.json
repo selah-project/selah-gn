@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Iporã kuimbeʼe ojopói ha omuñā; omoañete hemimoĩrã hekojojahápe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Iporã"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbeʼe"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ojopói"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ha omuñā"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "omoaanete"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hemimoĩrã"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojojahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:26.499764730Z",
+  "model": "glm-5.3"
+}

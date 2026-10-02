@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Chemuel omoĩ tenonde ⟨את⟩ opaite Jisrael tetãygua atykuéra, ha ojeipysó Biniamin aty.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "omoĩ tenonde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Jisrael tetãygua atykuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tetãygua atykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ha ojeipysó"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aty"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Biniamin"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:42.068589029Z",
+  "model": "glm-5.3"
+}

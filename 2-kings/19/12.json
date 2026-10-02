@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "¿Oñemongaraipa ⟨את⟩ umívape umi tetãnguéra tupãkuéra, che ruvakuéra omboguetéva'ekue — ⟨את⟩ Gosán, ⟨את⟩ Harán, ha Resef, ha Eden ra'ýkuéra, Telasar pe oĩvape?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "¿Oñemongaraipa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umívape"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tupãkuéra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "omboguetéva'ekue"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "che ruvakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gosán"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gosán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Harán"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harán"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ha Resef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha ra'ýkuéra"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telasar pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:20.387388770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Poapy emoĩ ⟨את⟩ opa ne ñemitỹrã mbaʼe, pe osẽva kokuegui, arýpe arýpe.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "poapy"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "emoĩ poapy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa ne ñemitỹrã mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ñemitỹrã mbaʼe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ne ñemitỹrã"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "osẽva"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokuegui"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:56:51.815755625Z",
+  "model": "glm-5.3"
+}

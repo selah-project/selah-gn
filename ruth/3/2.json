@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha koʼág̃a, ¿Boaz haʼe vaʼekue nde jaquaa ore apytépe, nde vaʼekue ⟨את⟩ iñmitãkuñakuéra ndive? Ehecha, haʼe ko pyhare oipeʼa ⟨את⟩ hakuʼi ára sevugagua.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿…pa"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "nde jaquaa ore apytépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "nde vaʼekue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñmitãkuñakuéra"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "iñmitãkuñakuéra ndive"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hakuʼi ára sevugagua"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "hakuʼi ára"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "sevugagua"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ko pyhare"
+    }
+  ],
+  "timestamp": "2026-10-02T17:13:34.986361379Z",
+  "model": "glm-5.3"
+}

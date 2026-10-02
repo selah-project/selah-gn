@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Purahéi, mizmor, Korach raʼýpe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼýpe g̃uarã"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:55.195698531Z",
+  "model": "glm-5.3"
+}

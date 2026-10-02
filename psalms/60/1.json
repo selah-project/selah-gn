@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Pe oporombokatúpe, Chuchan Edut rehe — micham David mba'ete, oñemoarandu hag̃ua.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe oporombokatúpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Chuchan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "micham"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mba'ete"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "oñemoarandu hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:26.264394152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Upéi Joav ou oho pe mburuvicha hogaʼape, ha heʼi: Ko árape reñemoĩ vai ⟨את⟩ ova opaite nde mbaʼapohárakuéra peguarã, umi omongatúva ⟨את⟩ nde rekove ko árape, ha ⟨את⟩ nde membykuéra rekove, nde raʼãikuéra rekove, nde kuñanguéra rekove, ha nde kuñakaraikuéra rekove.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou oho"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hogaʼa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "reñemoĩ vai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ova"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mbaʼapohárakuéra"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "umíva omongatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rekove"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde rekove"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "nde membykuéra rekove"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nde membykuéra"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "nde raʼãikuéra"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ha rekove"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "nde kuñanguéra"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ha rekove"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "nde kuñakaraikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:33:45.231658598Z",
+  "model": "glm-5.3"
+}

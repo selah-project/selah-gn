@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Efron ombohovái ⟨את⟩ Avraham, heʼívo chupe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ha ombohovái"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:58.565000843Z",
+  "model": "glm-5.3"
+}

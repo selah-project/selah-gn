@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Yvate ha ñemby, nde rejapo umi; Tavor ha Chermon ne rérape ovyʼaiterei.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ha ñemby"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "rejapo umi"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ha Chermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ne rérape"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ovyʼaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:56.192159216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ogueraha hikuái ⟨את⟩ Yirmeiahu sã rehe, ha omyengói ⟨את⟩ chupe yvykuʼégui, ha Yirmeiahu oiko tekomeʼẽharã korapýpe.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "ogueraha hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeiahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "sã rehe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ha omyengói"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "yvykuʼé"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "korapýpe"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "tekomeʼẽharã"
+    }
+  ],
+  "timestamp": "2026-10-02T13:41:29.790674641Z",
+  "model": "glm-5.3"
+}

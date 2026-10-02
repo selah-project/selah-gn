@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ehecha ⟨את⟩ Elohim mbaʼeapo, mávapa ikatu ojaposãso pe ojavypyvaʼekue?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mbaʼeapo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mbaʼeapo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ikatu"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ojaposãso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ojavypyvaʼekue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "ojavypyvaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:02.423629812Z",
+  "model": "glm-5.3"
+}

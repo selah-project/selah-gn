@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Upévague oñembojavy El ñeʼẽ rehe ha ohechakangy Elyón ñeʼẽngatu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upévague"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "oñembojavy"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ha ñeʼẽngatu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyón"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ohechakangy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:09.170067137Z",
+  "model": "glm-5.3"
+}

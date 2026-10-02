@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "⟨את⟩ umi ysoka Michkan-pe g̃uarã ha ⟨את⟩ umi ysoka korapygua, ha ⟨את⟩ umi guembukuéra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ysoka Michkan-pe g̃uarã"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "umi ysoka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan-pe g̃uarã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi ysoka korapygua"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "umi ysoka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapygua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi guembukuéra"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "umi guembukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:45.411152507Z",
+  "model": "glm-5.3"
+}

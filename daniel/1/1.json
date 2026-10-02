@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Yehojakim, Yehuda mburuvicha, isái mbohapyhápe, Nevukadnetsar, Bavel mburuvicha, ou Jerusalaim-pe ha ojoko jerére chupe.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "isái ... -pe"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "mbohapyhá"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehojakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ojoko jerére"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:30:58.439796753Z",
+  "model": "glm-5.3"
+}

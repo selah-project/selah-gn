@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ⟨el⟩ tesape heʼẽ, ha iporã hesakuéra-pe g̃uarã echahague ⟨את⟩ ⟨el⟩ kuarahy.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "Ha heʼẽ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "⟨el⟩ tesape"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ha iporã"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "hesakuéra-pe g̃uarã"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "echahague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨el⟩ kuarahy"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨el⟩ kuarahy"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:19.987528474Z",
+  "model": "glm-5.3"
+}

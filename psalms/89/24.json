@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ha aitytyhãi iñakãre umi iñandýva chupe, ha umi ndaijaʼéiva chupe agoʼã.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "aitytyhãi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "iñakãre"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "umi iñandýva chupe"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "umi ndaijaʼéiva chupe"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "agoʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:46.027384929Z",
+  "model": "glm-5.3"
+}

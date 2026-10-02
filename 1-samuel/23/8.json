@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Chaúl ohenói ⟨את⟩ opavavete tavayguakuéra ñorãirõhápe ogueraha hag̃ua, oguahẽ hagua Keilá-pe ojoko hag̃ua David ha ikuimbaʼekuéra.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opavavete tavayguakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavete"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõhápe"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "oguahẽ hagua"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilá-pe"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ojoko hag̃ua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ikuimbaʼekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:44.863650529Z",
+  "model": "glm-5.3"
+}

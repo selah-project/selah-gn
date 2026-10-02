@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Kóva rehe ñeʼẽpeʼẽ pe membykuérare, ha pe membykuéra ñeʼẽpeʼẽ iñemembykuérare, ha umi iñememby kuéra opaite umi ñemoñare oúvape.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Kóva rehe"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "pe membykuérare"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ñeʼẽpeʼẽ"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ha pe membykuéra"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "iñemembykuérare"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ha umi iñememby kuéra"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ñemoñarépe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "oúvape"
+    }
+  ],
+  "timestamp": "2026-10-02T14:50:24.398489566Z",
+  "model": "glm-5.3"
+}

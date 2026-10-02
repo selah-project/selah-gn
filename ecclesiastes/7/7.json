@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Katuete, ojeipeʼa rei vaí ombojavy kuimbaʼe arandu, ha jopói omboguete ⟨את⟩ korasõ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katuete"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ojeipeʼa rei vaí"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ombojavy"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "kuimbaʼe arandu"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ha omboguete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korasõ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "jopói"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:24.266519779Z",
+  "model": "glm-5.3"
+}

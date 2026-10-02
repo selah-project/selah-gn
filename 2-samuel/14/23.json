@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Joav opuʼã, oho Guechur-pe, ha ogueru ⟨את⟩ Avchalom Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Guechur-pe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avchalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:27:18.399676758Z",
+  "model": "glm-5.3"
+}

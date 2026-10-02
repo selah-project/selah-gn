@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Betah-gui ha Berotaí-gui, Hadadezer itávagui, mburuvicha David ohupyty kobre hetaite, hetaiterei.",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "ha Betah-gui"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "ha Berotaí-gui"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "itávagui"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kobre"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:36.998804098Z",
+  "model": "glm-5.3"
+}

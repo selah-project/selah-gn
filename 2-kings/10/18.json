@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Yehu ombotyaty ⟨את⟩ opaite tavayguakuéra, ha he'i chupekuéra: Ajav omba'po ⟨את⟩ Baal-pe sa'imi, Yehu katu omba'póta hese hetaite.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ombotyaty"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tavayguakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ombapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal-pe"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sa'imi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ombapóta hese"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hetaite"
+    }
+  ],
+  "timestamp": "2026-10-02T12:08:19.982318644Z",
+  "model": "glm-5.3"
+}

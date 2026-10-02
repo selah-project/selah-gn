@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Oporoñemuharãme g̃uarã — ani ejejoka — David-pe g̃uarã jehai mandu'arã, ova aja Shaúl renondepegui, itakuárape.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "oporoñemuharãme g̃uarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ejejoka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "jehai mandu'arã"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ova aja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondepegui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "itakuárape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:38.564374594Z",
+  "model": "glm-5.3"
+}

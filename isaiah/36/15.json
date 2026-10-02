@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ani Chizkiahu omoĩ peẽme jerovia Jahve-pe, ohe'ívo: Jahve ñepysõrã oñepysõta ore; ko tava na ome'ẽta mo'ã Ashur mburuvicha pópe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ha ani"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "omoĩ jerovia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ohe'ívo"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Ñepysõrã"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "oñepysõta ore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ome'ẽta mo'ã"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tava"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:34.860725488Z",
+  "model": "glm-5.3"
+}

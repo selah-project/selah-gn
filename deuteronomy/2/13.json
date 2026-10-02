@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ko'ág̃a, hesãingo, ha hasa ⟨peẽ⟩ ⟨את⟩ yrape Zered. Ha upéi ñahasa ⟨את⟩ yrape Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "hesãingo"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ha hasa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨peẽ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yrape Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "yrape"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ha ñahasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yrape Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "yrape"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:39.081273253Z",
+  "model": "glm-5.3"
+}

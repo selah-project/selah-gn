@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha che ameʼẽ ndéve ⟨את⟩ nde jára óga, ha ⟨את⟩ nde jára kuñanguéra nde apysápe; ha che ameʼẽ ndéve ⟨את⟩ Jisrael ha Yehuda óga; ha mbeguekatúramo, che ambojoajúta ndéve péicha ha péicha.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ha che ameʼẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde jára óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nde jára"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde jára kuñanguéra"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "kuñanguéra"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nde jára"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "nde apysápe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ha che ameʼẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael ha Yehuda óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mbeguekatúramo"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "che ambojoajúta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ha péicha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:58.685836778Z",
+  "model": "glm-5.3"
+}

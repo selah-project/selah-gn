@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 113,
+  "translation": "Kuarahy osẽ hágui oñemohenda meve, oñemombaʼeguasu Jahve téra.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "kuarahy osẽ hágui"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "oñemohenda meve"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "oñemombaʼeguasu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:02.799842069Z",
+  "model": "glm-5.3"
+}

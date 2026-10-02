@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Tuichaiterei ñande Adonai, ipuʼaka hetaite; ijukuaa rehegua katu ndaipóri ⟨moõmbytéva⟩.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Tuichaiterei"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ñande Adonai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ipuʼaka"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ijukuaa rehegua"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨moõmbytéva⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:21.056710754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Upépe rupi orerekovaʼekuépe kuéra ojerure ñandéve purahéi ñeʼẽ, ha umi orojopyvaʼekuépe kuéra vyʼa, heʼívo: Epurahéi ñandéve peteĩ Tsiyon purahéi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upépe rupi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "ojerure ñandéve"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "orerekovaʼekuépe kuéra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "ha umi orojopyvaʼekuépe kuéra"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vyʼa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Epurahéi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "peteĩ purahéi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:21.202246797Z",
+  "model": "glm-5.3"
+}

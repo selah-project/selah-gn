@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha nondoikói ohendu hese iñeʼẽ; ha ojopy chupe, ipuʼaka tuichave rupi, ha ohundi chupe, ha oirũ ⟨אתה⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha na…i"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nondoikói"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "hese iñeʼẽ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ipuʼaka tuichave rupi"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ohundi chupe"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "oirũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:45.480357559Z",
+  "model": "glm-5.3"
+}

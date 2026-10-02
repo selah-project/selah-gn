@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 33:16",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Upe ára kuérape Yehuda ojeipysóta, ha Jerusalaim oikóta pyʼaguapýpe; ha kóva pe téra ojeherótä chupe: Jahve Tsidkenu.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "upe ára kuérape"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "upekuéra"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "ojeipysóta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ha Jerusalaim"
+    },
+    {
+      "surface": "תשכון",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "pyʼaguapýpe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ojeherótä"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "Tsidkenu"
+    }
+  ],
+  "timestamp": "2026-10-02T13:36:15.135156039Z",
+  "model": "glm-5.3"
+}

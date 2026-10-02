@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ani ovy'a che ñorãirõhára cherehe ja'eipa'ỹre, ani umi ndaija'éiva cherehe ava'arãre ojapepo resa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ovy'a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "che ñorãirõhára"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ja'eipa'ỹre"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "umi ndaija'éiva cherehe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ava'arãre"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "ojapepo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "resa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:07.329315255Z",
+  "model": "glm-5.3"
+}

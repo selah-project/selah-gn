@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha Jisrael ohayhu ⟨את⟩ Jusef opaite i raʼýkuéra apytépe guare hetavéva, haʼeʼyhaguére ituja peteĩha ramo; ha ojapo chupe peteĩ kamisa heta saʼy ojohuehegua.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Ha Jisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jusef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jusef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite i raʼýkuéra apytépe guare hetavéva"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeʼyhaguére"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼý"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "itujapahague"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kamisa"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "heta saʼy ojohuehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:57.724533944Z",
+  "model": "glm-5.3"
+}

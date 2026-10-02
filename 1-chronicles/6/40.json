@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ome ichupekuéra ⟨את⟩ Chevron, Jehuda yvýpe, ha ⟨את⟩ imichĩ yvy ijerérepa.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ha ome"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ichupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imichĩ yvy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imichĩ yvy"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ijerérepa"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:58.433175703Z",
+  "model": "glm-5.3"
+}

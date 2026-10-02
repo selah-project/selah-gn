@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Mbaʼérepa umi tetã ojepyhy, ha umi ñemoñare oñeʼẽ mbaʼe nandi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mbaʼérepa"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ojepyhy"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetã"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ha umi ñemoñare"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "mbaʼe nandi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:46.264756041Z",
+  "model": "glm-5.3"
+}

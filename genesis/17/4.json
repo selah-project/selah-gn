@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Che, ma ehecha: che ñeʼẽmeʼẽ ⟨את⟩ nde ndive, ha nde taʼe heta tetãnguéra ru.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ma ehecha"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde ndive"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ha nde taʼe"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ru"
+    },
+    {
+      "surface": "המון",
+      "gloss": "heta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:40:43.767359742Z",
+  "model": "glm-5.3"
+}

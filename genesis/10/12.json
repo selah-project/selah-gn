@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ⟨את⟩ Resen, Nineve ha Kela mbytépe — haʼe ⟨⟨haʼe⟩⟩ táva guasuete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "guasuete"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:32.216425320Z",
+  "model": "glm-5.3"
+}

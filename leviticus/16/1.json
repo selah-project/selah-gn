@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Jahve oñeʼẽ Moche rehe, Aharon raʼýkuéra mokõiva manóme rire, oñemboʼajávo Jahve renondépe ha omanohaʼegui.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "מות",
+      "gloss": "manóme"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõiva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "oñemboʼajávo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "omanohaʼegui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:58:50.664872704Z",
+  "model": "glm-5.3"
+}

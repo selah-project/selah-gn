@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Elohim haʼe ñande aguapeha ha ñande puʼakaha, pytyvõ ojejuhúva heta apuruhaʼỹhápe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "aguapeha"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ha puʼakaha"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "pytyvõ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "apuruhaʼỹhápe"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ojejuhúva"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "heta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:06.491519693Z",
+  "model": "glm-5.3"
+}

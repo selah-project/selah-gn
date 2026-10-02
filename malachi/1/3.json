@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ Esav che ndaijaʼékuri, ha amohenda ⟨את⟩ i yvytyrysýikuéra tekorusũme, ha ⟨את⟩ iñarete umi yvy kúi oikópe kaʼaguy ypytũme.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "che ndaijaʼékuri"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ha amohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i yvytyrysýikuéra"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "i yvytyrysýikuéra"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tekorusũme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñarete"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "iñarete"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "umípe g̃uarã"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kaʼaguy ypytũ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:19:55.473238695Z",
+  "model": "glm-5.3"
+}

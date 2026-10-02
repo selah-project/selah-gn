@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Yvágape guive osē hikuái, ha ijerére ojapo hikuái hováta yvágape pahápe; ndaipóri kañymby iñakãnandu guive.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "pe guive"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "osē hikuái"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ha ijerére ojapo hikuái hováta"
+    },
+    {
+      "surface": "על",
+      "gloss": "re"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "yvágape pahápe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "kañymby"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "iñakãnandu guive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:18.135889562Z",
+  "model": "glm-5.3"
+}

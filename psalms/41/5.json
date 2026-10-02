@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Che aheʼi: Jahve, eiporiahuvereko che rehe; emongera che rekove, che ajarei nde rehe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aheʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "eiporiahuvereko che rehe"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "emongera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "( motive )"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "che ajarei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:37.430896160Z",
+  "model": "glm-5.3"
+}

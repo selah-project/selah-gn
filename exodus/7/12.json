@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ohapykueho peteĩteĩva imota, ha oikó mbói ramo; ha Aharon imota ouʼu ⟨את⟩ umi imota.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ohapykueho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩva"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "imota"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "oikó"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "mbói ramo"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "ouʼu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "imota"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi imota"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "umi imota"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:45.041098029Z",
+  "model": "glm-5.3"
+}

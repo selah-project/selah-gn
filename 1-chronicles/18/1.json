@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oiko upéi rire, David oity ⟨את⟩ Pelishto-kuéra ha omondýi chupekuéra, ha ogueraha ⟨את⟩ Gat ha imichĩva tavakuéra Pelishto-kuéra pógui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéi rire"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oity"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishto-kuéra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishto-kuéra"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "omondýi chupekuéra"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ha imichĩva tavakuéra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishto-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:10.540538518Z",
+  "model": "glm-5.3"
+}

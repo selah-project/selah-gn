@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Ha iporã avei hemegua héra opa arakaʼeve; hemegua tojemyandy ⟨את⟩ opaite yvy. Añetehápe, añetehápe.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Ha iporã avei"
+    },
+    {
+      "surface": "שם",
+      "gloss": "héra"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hemegua"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa arakaʼeve"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "tojemyandy"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hemegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite yvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Añetehápe"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "añetehápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:44.161286515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojapo mokõi kerubi itaju; oñembovu jave ojejapóva ⟨את⟩ chkuéra, mbotyha mokõi paha rupi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubikuéra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "oñembovu jave ojejapóva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kerubikuéra"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "pahakuéra"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "mbotyha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:26.310395441Z",
+  "model": "glm-5.3"
+}

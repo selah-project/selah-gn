@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Ha Jaakov oñemongu'e Beer Chevagui, ha Jisrael ra'ýi ogueru ⟨את⟩ Jaakov itúvape, ha ⟨את⟩ umi mitãnguéra, ha ⟨את⟩ umi kuña imembykuéra, umi kareta pe Paroh omondoípe ogueru hag̃ua ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "oñemongu'e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Beer Chevagui"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer Cheva"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov itúvape"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "itúvape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi mitãnguéra"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "umi mitãnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi kuña imembykuéra"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "umi kuña imembykuéra"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "umi kareta ryepýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omonói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ogueru hag̃ua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:12.496201608Z",
+  "model": "glm-5.3"
+}

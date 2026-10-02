@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Ha Elohim ohyppyi chupekuéra peteĩ kuyma rupive; sapyʼaite oiko chupekuéra ñembokapu.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Ha ... ohyppyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "peteĩ kuyma"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "sapyʼaite"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "chupekuéra ñembokapu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:24.524887456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Che hekojojaha ⟨את⟩ peẽ jajapo, che ñemohendakuéra ⟨את⟩ peẽ jangareko, jahata hag̃ua hiʼári; che Jahve, peẽ Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che hekojojaha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "che hekojojaha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "peẽ jajapo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che ñemohendakuéra"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "che ñemohendakuéra"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "peẽ jangareko"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "jahata hag̃ua"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hiʼári"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:13.992969464Z",
+  "model": "glm-5.3"
+}

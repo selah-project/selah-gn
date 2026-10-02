@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha pejoatývo ⟨את⟩ ⟨umi⟩ aty, pejepytu — ha ani pejere terua.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "pejoatývo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aty"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "pejepytu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "pejere terua"
+    }
+  ],
+  "timestamp": "2026-10-02T09:21:58.287108405Z",
+  "model": "glm-5.3"
+}

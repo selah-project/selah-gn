@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Koʼãva haʼe Sem ñemoñare: Sem oreko 100 ary ramo, ha omombaʼy ⟨את⟩ Arpakshad, mokõi ary Y tuicháva rire.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oreko ... ramo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "100"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omombaʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "mokõi ary"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "rire"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Y tuicháva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:20.494627593Z",
+  "model": "glm-5.3"
+}

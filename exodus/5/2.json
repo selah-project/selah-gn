@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Parao heʼi: Máva pa Jahve, amaʼẽ hag̃ua hiʼañeʼẽ, egueraha hag̃ua ⟨את⟩ Jisrael? Che aikuaaʼ ⟨את⟩ Jahve, ha ⟨את⟩ Jisrael avei nda chemondo moʼãi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "amaʼẽ hag̃ua"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "hiʼañeʼẽ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "egueraha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaʼ…moʼãi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "che aikuaaʼ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaʼ…moʼãi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "chemondo moʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:50.637937112Z",
+  "model": "glm-5.3"
+}

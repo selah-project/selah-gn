@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha iñorairõhára aty, ha umi oñemohendavaʼekue hikuái: irundypa po su ha poteĩ ⟨sa⟩ ha papo.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ha iñorairõhára aty"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ha umi oñemohendavaʼekue hikuái"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ha irundypa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha poteĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ha papo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:47.677786917Z",
+  "model": "glm-5.3"
+}

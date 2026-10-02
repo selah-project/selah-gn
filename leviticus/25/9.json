@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 25:9",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha rombohaséta hyapu chopar, jasýpe pokõiha, jasýpa ⟨arápe⟩; ijukai árape peombohaséta hyapu chopar opaite peẽ yvy ari.",
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "rombohaséta"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chopar"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "hyapu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "pokõiha"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "jasýpa aravo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "arápe"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "jukai"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "peombohaséta"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chopar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "peẽ yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:07.893594970Z",
+  "model": "glm-5.3"
+}

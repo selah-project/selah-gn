@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha eñangarekóta ⟨את⟩ ko tekojoja ára oñemohendahápe, ary guive arýpe.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "eñangarekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko tekojoja"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "ára oñemohendahápe"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "arýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:16:59.465125518Z",
+  "model": "glm-5.3"
+}

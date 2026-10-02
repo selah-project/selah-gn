@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Oúvo Doeg, pe edomita-gua, omombe'u Shaúl-pe ha ohe'̃ chupe: David ou Ajimélek óga pehe.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Oúvo"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "pe edomita-gua"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "omombe'u"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl-pe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ohe'̃"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pehe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ajimélek"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:37.693317449Z",
+  "model": "glm-5.3"
+}

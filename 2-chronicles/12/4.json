@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ohapykueho ⟨את⟩ Jehuda táva ñemohaguasukuéra, ha ou Jerusalaim peve.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Ha ohapykueho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda táva ñemohaguasukuéra"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ñemohaguasukuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehuda mbaʼe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:13.019243572Z",
+  "model": "glm-5.3"
+}

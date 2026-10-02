@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Kyra arãite ovyʼáta ohecháramo ñembohovái; iñakãrague kuéra ojohéita tee raʼy pytãme, umíva ojapo vaivaʼekue.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ovyʼáta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kyra arãite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ohecháramo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ñembohovái"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "iñakãrague kuéra"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ojohéita"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "raʼy pytãme"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "umíva ojapo vaivaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:44.081311010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha upéi aháta jopói renda peve, Elohim órã; El, che vyʼa guasu peve aháta; ha ajeychaukáta nde rehe kenor rehe, Elohim, che Elohim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Ha aháta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jopói renda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "che vyʼa"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ha ajeychaukáta nde rehe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kenor rehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:12.752784544Z",
+  "model": "glm-5.3"
+}

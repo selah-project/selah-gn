@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha táva yvyporakuéra osẽ oñorãirõ ⟨את⟩ Joav rehe, ha ohasa heta David rembiguaikuéra apytégui; ha omano avei Uria, hetepehẽngue.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yvyporakuéra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "העם",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "rembiguaikuéra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetepehẽngue"
+    }
+  ],
+  "timestamp": "2026-10-02T18:59:21.003209899Z",
+  "model": "glm-5.3"
+}

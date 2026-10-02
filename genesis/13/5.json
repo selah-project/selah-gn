@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha avei Lot, ohóva ⟨את⟩ Avram ndive, oguereko kavara kuéra, vaka kuéra ha tenda kuéra.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ohóva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kavara kuéra"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "vaka kuéra"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "tenda kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:52.773452897Z",
+  "model": "glm-5.3"
+}

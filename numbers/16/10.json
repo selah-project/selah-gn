@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ogueraha ⟨את⟩ nde, ha ⟨את⟩ opaite ne irũnguéra, Levi raʼýra, ⟨את⟩ ndive; ha peẽ reka avei ⟨pe⟩ pa'irape?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ha ogueraha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ne irũnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ne irũnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ha peẽ reka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "pa'irape"
+    }
+  ],
+  "timestamp": "2026-10-02T09:27:28.498251375Z",
+  "model": "glm-5.3"
+}

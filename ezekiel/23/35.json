@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 23:35",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Upémarã, upéicha heʼi Adonai Jahve: chererejaréi rupi ha neruguái apépe cheremoĩ rupi, nde avei ereko ⟨את⟩ nde mba'evai jekopyty ha ⟨את⟩ nde kunu'ũ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upémarã"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "chererejaréi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "chererejaréi (Jahve)"
+    },
+    {
+      "surface": "ותשליכי",
+      "gloss": "neruguái apépe cheremoĩ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "cheremoĩ (Jahve)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apépe"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "neruguái"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nde avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "nde"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "ereko"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "nde mba'evai jekopyty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde kunu'ũ"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "nde kunu'ũ"
+    }
+  ],
+  "timestamp": "2026-10-02T14:20:34.227991Z",
+  "model": "glm-5.3"
+}

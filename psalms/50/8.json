@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Nda che yaʼe nde jopói kuéra rehe chende aitypota haguã; nde jepokuaa kuéra oĩ che rekópe tapiaite.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nda"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "nde jopói kuéra"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "chende aitypota haguã"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "nde jepokuaa kuéra"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "che rekópe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:21.018862678Z",
+  "model": "glm-5.3"
+}

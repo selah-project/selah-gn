@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oikóta pevépa, peíra kuñataĩnguéra — taʼãra pe raʼypykuéra — heʼíta peẽme: Mbaʼépa ko tembiapópe peẽme g̃uarã?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oikóta pevépa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "peíra"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "heʼíta"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pe raʼypykuéra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:30.181322548Z",
+  "model": "glm-5.3"
+}

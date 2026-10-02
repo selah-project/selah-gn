@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha omoĩ peteĩ jarýi Jaakov-pe, ha Tora omoĩ Jisrael-pe, omyakã ⟨את⟩ ñande ru-kuérape, omboikuaauka hag̃ua ñande raʼy-kuérape.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "jarýi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakov-pe"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ha Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekuépe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omyakã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande ru-kuéra"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ñande ru-kuéra"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "omboikuaauka hag̃ua"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ñande raʼy-kuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:34.180066628Z",
+  "model": "glm-5.3"
+}

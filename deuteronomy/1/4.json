@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ojuka rire ⟨את⟩ Sijon, emoreo mburuvicha, oikóva Chechvón-pe, ha ⟨את⟩ Og, Baván mburuvicha, oikóva Achtarot-pe, Edrei-pe;",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ojuka rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sijon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sijon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "האמורי",
+      "gloss": "emoreo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Chechvón-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baván-gua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Achtarot-pe"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edrei-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:52:07.264556267Z",
+  "model": "glm-5.3"
+}

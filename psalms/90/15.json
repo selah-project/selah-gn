@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Embovy'a oréve umi ára ojueheguáva noreinohẽ hague, ha umi ary rohecha va'ekue mba'evaírehe.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Embovy'a oréve"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "umi ára ojueheguáva"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "noreinohẽ hague"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "umi ary"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "rohecha va'ekue"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mba'evaírehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:48.785719291Z",
+  "model": "glm-5.3"
+}

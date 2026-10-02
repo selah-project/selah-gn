@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Jisrael mburuvicha he'i Elisa-pe, ohecha rire ⟨את⟩ chupekuéra: Che ru, aikutupa chupekuéra, aikutupa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ohecha rire"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "aikutupa"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "aikutupa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    }
+  ],
+  "timestamp": "2026-10-02T12:04:20.327770366Z",
+  "model": "glm-5.3"
+}

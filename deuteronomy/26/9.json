@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha oguerahú ⟨את⟩ nde've ko tendápe, ha omonei oréve ⟨את⟩ ko yvy, yvy osyryry Kamby ha Eíra rehe.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "oguerahú nde've"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ko tendá"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha omonei"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "osyryry"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "Kamby"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ha Eíra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:05:17.256586286Z",
+  "model": "glm-5.3"
+}

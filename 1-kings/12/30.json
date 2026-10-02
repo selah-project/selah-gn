@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ko ñeʼẽ oiko ⟨tekovai⟩ ramo: pe tetãygua oho pe peteĩha renondépe, Dan peve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "tekovai ramo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tetãygua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "pe peteĩha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-10-02T11:51:58.994036376Z",
+  "model": "glm-5.3"
+}

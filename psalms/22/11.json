@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Nde rérape che amondo che ajáka guive; che sy ryru guive, nde che El che neʼẽra.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "nde rérape"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "che amondo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "che ajáka guive"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "che sy ryru guive"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "che sy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "che neʼẽra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:23.385768953Z",
+  "model": "glm-5.3"
+}

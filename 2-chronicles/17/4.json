@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Haʼe oheka rupi itúva Elohim rehe, ha oiko hague iñeʼẽmeʼẽme, ha ndoiko Jisrael rekópe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼe oheka rupi"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "itúva Elohim rehe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "iñeʼẽmeʼẽme"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoiko"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "rekópe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:26:34.046601602Z",
+  "model": "glm-5.3"
+}

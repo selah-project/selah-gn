@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Pe omanóva Ajav apytuʼũkuéra apytégui távape, yagua kuéra oʼúta chupe; ha pe omanóva kokuépe, yvaga guyra kuéra oʼúta chupe.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "pe omanóva"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ajav apytuʼũkuéra apytégui"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "oʼúta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "yagua kuéra"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ha pe omanóva"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokuépe"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "oʼúta"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "guyra kuéra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:18.391355074Z",
+  "model": "glm-5.3"
+}

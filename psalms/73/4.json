@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Ndaipóri chuguikuéra iñandu vai omano jave, ha hetã ipukúva mbarete.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "iñandu vai"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "omano jave"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "hetã ipukúva"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "mbarete"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:50.700393805Z",
+  "model": "glm-5.3"
+}

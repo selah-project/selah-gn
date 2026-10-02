@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ho'ã! Táva tysỹirãgua, opaite ihenyhẽ embe'u ha jeikerãgui; je'urã katu ndojetýi.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho'ã!"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tysỹirãgua"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "embe'u"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "jeikerã"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ihenyhẽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...i"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "dojetýi"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "je'urã"
+    }
+  ],
+  "timestamp": "2026-10-02T19:20:42.460852420Z",
+  "model": "glm-5.3"
+}

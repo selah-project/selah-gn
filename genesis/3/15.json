@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha amoĩta jaʼopy nde ha kuña apytépe, ha nde kundy ha i kundy apytépe; ha'e ysopóta nde akã, ha nde ysopóta chupe tysypype.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "ha jaʼopy"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "amoĩta"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "nde apytépe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha…apytépe"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha…apytépe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nde kundy"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha…apytépe"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "i kundy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "ysopóta nde"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "ysopóta chupe"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tysypy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:21.048070830Z",
+  "model": "glm-5.3"
+}

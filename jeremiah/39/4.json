@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 39:4",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha oiko peichahápe: Tsidkiahu, Jehudah mburuvicha, ha orairõhára kuéra opaite ohecha rire chupekuéra, okañy ha osẽ pyhare tavakuagui, mburuvicha kaʼaguýpe rape rehe, itakuéra mokõi apytuʼũpe ñeg̃uahẽhápe, ha osẽ Araba rape rehe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "peichahápe … rire"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…kuéra"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "orairõhára kuéra"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "okañy"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…gui"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tavakua"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rape"
+    },
+    {
+      "surface": "גן",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ñeg̃uahẽhápe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytuʼũpe"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "itakuéra (mokõi)"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rape"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    }
+  ],
+  "timestamp": "2026-10-02T13:40:47.967496538Z",
+  "model": "glm-5.3"
+}

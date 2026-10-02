@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha ogueru ⟨את⟩ itúva mbaʼe marangatu ha i-mbaʼe marangatu Elohim ógape: tajy, itaju ha mbaʼeuru kuéra.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva mbaʼe marangatu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "itúva mbaʼe marangatu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "i-mbaʼe marangatu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tajy"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "mbaʼeuru kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:25:49.458438671Z",
+  "model": "glm-5.3"
+}

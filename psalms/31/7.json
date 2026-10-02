@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Che ndaijaʼéi umi ojeruréva apañuãi mbaʼe rai; ha che, Jahve che rekove hembiasa pype, che jerovia.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "che ndaijaʼéi"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "umi ojeruréva"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "apañuãi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mbaʼe rai"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אל",
+      "gloss": "che... rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "che jerovia"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:50.307649142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve omeʼẽmbáta mbareteguasu imembykuérape; Jahve omeʼẽta ⟨את⟩ hembiguái tekojoja pyʼaporãme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mbareteguasu"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "imembykuérape"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽmbáta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "omeʼẽta... pyʼaporãme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembiguái"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hembiguái"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tekojoja pyʼaporãme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:45.560082989Z",
+  "model": "glm-5.3"
+}

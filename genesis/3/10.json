@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Haʼe heʼi: Nde rerory ⟨את⟩ che ahendu kuʼekue kaʼaguy rehegua, ha che jahyʼo, che katupyryʼỹ haguére; ha che añañemi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rerory"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "nde rerory"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "che ahendu"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "kaʼaguy rehegua"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "che jahyʼo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "che katupyryʼỹ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "che añañemi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:28:58.915462547Z",
+  "model": "glm-5.3"
+}

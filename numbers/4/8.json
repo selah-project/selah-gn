@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha oñemosarõta hikuái umi mbaʼe ári peteĩ ao pytã tolaʼat gui, ha oñemonguʼíta chupe ⟨את⟩ peteĩ monguʼiha tajas pire reheve, ha omoĩta ⟨את⟩ umi takuakuéra.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "ha oñemosarõta hikuái"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "umi ári"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaʼat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pytã"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ha oñemonguʼíta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "peteĩ monguʼiha"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pire"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tajas"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ha omoĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi takua"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "takuakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:48:22.680313464Z",
+  "model": "glm-5.3"
+}

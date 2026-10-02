@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ko'ã mba'e avei chejapó hikuái: ojoky ⟨את⟩ che michkan amove árape, ha ⟨את⟩ che Chabat kuéra omoñañañã hikuái.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "avei"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko'ã mba'e"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapó hikuái"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ojoky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che michkan"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "che michkan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "amove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che Chabat kuéra"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "che Chabat kuéra"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "omoñañañã hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T19:15:39.759632219Z",
+  "model": "glm-5.3"
+}

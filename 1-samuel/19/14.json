@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Shaúl omondo umi mondo-hára oguerahávo ⟨את⟩ David-gui, ha haʼe kuñakarai heʼi: Mbaʼasygui oĩ haʼe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "umi mondo-hára"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ogueraha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "mbaʼasygui oĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:28.703781311Z",
+  "model": "glm-5.3"
+}

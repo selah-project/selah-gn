@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 124,
+  "translation": "Ore rekove guyraicha osẽvaʼekue japygui, guyra japy apohára reígui; ⟨⟨japy⟩⟩ oñembyai, ha ñande ñandesẽma.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ore rekove"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "guyraicha"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "osẽvaʼekue"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "japygui"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "guyra japy apohára reígui"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "japy"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ha ñande"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "ñandesẽma"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:06.685463586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde hekojojahakuéragui ndaesẽri, nde haguére che mboʼe cherehe.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "nde hekojojahakuéragui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…ri"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ndaesẽri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "che mboʼe cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:59.135901508Z",
+  "model": "glm-5.3"
+}

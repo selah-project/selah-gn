@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 6:50",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ome'ẽ hikuái jeiporavo rupi Jehuda ra'ýkuéra ñemoĩrégui, Shimón ra'ýkuéra ñemoĩrégui ha Binjamin ra'ýkuéra ñemoĩrégui ⟨את⟩ umi táva ko'ãva, oñembohérava hikuái ⟨את⟩ chuguãkuéra herakuéra reheve.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ha ome'ẽ hikuái"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "jeiporavo rupi"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ñemoĩrégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "ha ... ñemoĩrégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimón"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "ha ... ñemoĩrégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi táva ko'ãva"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "umi táva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ãva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñembohérava"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "hikuái oñembohéra"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ chuguãkuéra",
+      "marks": "herakuéra reheve"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "herakuéra reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:41.277727088Z",
+  "model": "glm-5.3"
+}

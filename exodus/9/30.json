@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha nde ha nde mbokuara'angue, che aikuaa nahániri pe nde teme'irã gueteri Jahve Elohim renondépe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ha nde mbokuara'angue"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "che aikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-pa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "pe nde teme'irã"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:52.193438512Z",
+  "model": "glm-5.3"
+}

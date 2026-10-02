@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ojapo peteĩ jopói renda kuarepotígui, mokõipa ama ipukukue, mokõipa ama ipekue, ha pa ama ijyvatekue.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jopói renda"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kuarepotígui"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "ו עשרים",
+      "gloss": "ha mokõipa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "ו עשר",
+      "gloss": "ha pa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ijyvatekue"
+    }
+  ],
+  "timestamp": "2026-10-02T19:35:31.024254404Z",
+  "model": "glm-5.3"
+}

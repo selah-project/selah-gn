@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Che kangue ryepýpe tajygúicha che rivakuéra cheme'ẽ vai, he'ikuévo che rehe opaite árape: moõpa ne Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "tajygúicha"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "che kangue ryepýpe"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "cheme'ẽ vai"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "che rivakuéra"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "he'ikuévo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "איה",
+      "gloss": "moõpa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ne Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:05.898401193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Yehochafat, Jihuda mburuvicha, ojevy hógape pytuʼurãme Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hógape"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "pytuʼurãme"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:28:03.229783219Z",
+  "model": "glm-5.3"
+}

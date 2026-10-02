@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jur omemby ⟨את⟩ Uri; ha Uri omemby ⟨את⟩ Betzalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ha Jur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Ha Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betzalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    }
+  ],
+  "timestamp": "2026-10-02T18:00:29.023809610Z",
+  "model": "glm-5.3"
+}

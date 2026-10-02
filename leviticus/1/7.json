@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Aharon raʼýkuéra, umi paʼikuéra, omoĩ tata pe mbaʼejerére ape ha omoĩporã yvyra kuéra pe tata ári.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umi paʼikuéra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ape"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe mbaʼejerére"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "omoĩporã"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yvyra kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האש",
+      "gloss": "pe tata"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:34.538618526Z",
+  "model": "glm-5.3"
+}

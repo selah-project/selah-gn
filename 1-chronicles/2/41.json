@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Shalum heñói ⟨את⟩ Jekamjah, ha Jekamjah heñói ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Ha Shalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamjah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamjah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ha Jekamjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:29.875866762Z",
+  "model": "glm-5.3"
+}

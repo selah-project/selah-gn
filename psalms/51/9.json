@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Emopotĩ chéve ezovo rehe, ha aimbopotĩta; embosyry chéve, ha aimbopota yrypýicha.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "emopotĩ chéve"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ezovo rehe"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "ha aimbopotĩta"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "embosyry chéve"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "ha yrypýicha"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "aimbopota"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:15.016923869Z",
+  "model": "glm-5.3"
+}

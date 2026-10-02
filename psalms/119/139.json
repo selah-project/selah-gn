@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che py'aguasu ojuka chéve, che verañonguéra ohayvi rupi nde ñe'ẽnguéra.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "ojuka chéve"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "che py'aguasu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ohayvi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "nde ñe'ẽnguéra"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "che verañonguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:30.928593161Z",
+  "model": "glm-5.3"
+}

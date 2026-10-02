@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ñañani ñu Kereti rehe, avei Jihuda rekoha rehe, ha Kalev ñu rehe; ha ⟨את⟩ Tsikelag rojyke tata ndive.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "ñañani"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "jañani jey"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñu"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "avei... rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rekoa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha... rehe"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñu"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsikelag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsikelag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "rojyke"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:53.775848907Z",
+  "model": "glm-5.3"
+}

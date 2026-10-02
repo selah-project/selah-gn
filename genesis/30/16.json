@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 30:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Jaakov ou kokuegui kaʼarupe, ha Lea osẽ oñemongeta haguã chupe, ha heʼi chupe: Che ndive reikevaʼerã, añetehápe che ajogue nde che raʼy duddaʼikuéra rehe. Ha oke hendive ko pyharĩme.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokuegui"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kaʼarupe"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "oñemongeta haguã chupe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "reikevaʼerã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "che ajogue"
+    },
+    {
+      "surface": "שכרתיך",
+      "gloss": "ajogue nde"
+    },
+    {
+      "surface": "בדודאי",
+      "gloss": "duddaʼikuéra rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che raʼy"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ha oke"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pyharĩme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:20.148630401Z",
+  "model": "glm-5.3"
+}

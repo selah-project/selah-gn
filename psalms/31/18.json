@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Jahve, aníke añemboygue, che akarai ndeve haguã; umi ivaíva katu tañemboygue, tañe'ẽve Cheol-pe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aníke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "añemboygue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguã"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "che akarai ndeve"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "tañemboygue"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "tañe'ẽve"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Cheol-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:16.407530613Z",
+  "model": "glm-5.3"
+}

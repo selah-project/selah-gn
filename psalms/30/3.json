@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Jahve, che Elohim, achejakuaa ndeve, ha nde chepohano.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "achejakuaa ndeve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ha nde chepohano"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:29.848754444Z",
+  "model": "glm-5.3"
+}

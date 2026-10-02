@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha oheraguere ⟨את⟩ ikuʼikuéra ikavajukuéra ári, ha osẽ upégui.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "oheraguere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuʼikuéra"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ikuʼikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ikavajukuéra"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:02:07.534425945Z",
+  "model": "glm-5.3"
+}

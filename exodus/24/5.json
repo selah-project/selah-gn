@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Moche omondo ⟨את⟩ Jisrael ra'ýkuéra mitãkuimba'éva, ha umíva omoĩ olot, ha ojapo zevahim chelamim Jahve-pe — torykuéra.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael ra'ýkuéra mitãkuimba'éva"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mitãkuimba'éva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "omoĩ hikuái"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olot"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "zevahim"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "chelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "torykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:25:45.561902947Z",
+  "model": "glm-5.3"
+}

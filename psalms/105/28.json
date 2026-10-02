@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Omondo pytũ, ha opytũite; ha ndojohovéi ⟨את⟩ iñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Omondo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytũ"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ha opytũite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ojohóivaʼekue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽ"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "iñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:40.094218619Z",
+  "model": "glm-5.3"
+}

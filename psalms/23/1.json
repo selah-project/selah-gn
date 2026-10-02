@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Purahéi David mbaʼe. Jahve haʼe che ñangarekohára; nahániri chembaʼe menguarã.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "che ñangarekohára"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "chembaʼe menguarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:35.732661506Z",
+  "model": "glm-5.3"
+}

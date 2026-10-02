@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Ajab omondo Jisrael membykuéra apytépe, ha ombotyaty ⟨את⟩ nabi kuéra Karmel yvyty pe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ha ombotyaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi kuéra"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi kuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:35.119585904Z",
+  "model": "glm-5.3"
+}

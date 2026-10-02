@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha umi oiko va'ekue ruah ohaságui hese oikuaáta ⟨arandu⟩, ha umi oñe'ẽ asýva oñemoarandúta mbo'e apopyréva.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "oikuaáta"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "umi oiko va'ekue ohaságui hese"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "arandu"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "ha umi oñe'ẽ asýva"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "oñemoarandúta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mbo'e"
+    }
+  ],
+  "timestamp": "2026-10-02T12:44:17.362301394Z",
+  "model": "glm-5.3"
+}

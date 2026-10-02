@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 7:38",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Omoañete Jahve Moichépe Sinaí yvyty ári, ára omoañete hague Jisrael membykuérape omoĩ hag̃ua ⟨את⟩ ijeiporuaha Jahve rehepe, Sinaí kaʼaguy yvy apytépe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Omoañete"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Jahve omoañete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moichépe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moichépe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty ári"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "צותו",
+      "gloss": "omoañete hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "omoĩ hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijeiiporuaha"
+    },
+    {
+      "surface": "קרבניהם",
+      "gloss": "ijeiiporuaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehepe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguy yvy apytépe"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaí"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:13.023583839Z",
+  "model": "glm-5.3"
+}

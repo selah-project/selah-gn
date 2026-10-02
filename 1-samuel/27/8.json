@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha David ha ikuimbaʼéry ojupi, ha oñehaʼã ⟨hikuái⟩ ⟨hakuéra⟩ rehe: ⟨hakuéra⟩ Guechuri, Guerzi ha Amaleki rehe; umía ⟨hikuái⟩ ko yvy rekohára yma guive, reikévo Chur-pe ha peve Mitsraim yvy.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ha ikuimbaʼéry"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "oñehaʼã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Guechuri"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "ha Guerzi"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "ha Amaleki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "umía"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "rekohára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "yma guive"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "reikévo"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:59:38.328334296Z",
+  "model": "glm-5.3"
+}

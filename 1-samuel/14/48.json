@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ojapo mbareteháicha: oipay ⟨את⟩ Amalek, ha ogenoʼẽ ⟨את⟩ Jisrael omondaháva ipo guive.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mbareteháicha"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oipay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ogenoʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ipo guive"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "omondaháva"
+    }
+  ],
+  "timestamp": "2026-10-02T11:04:06.249589462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Sheva kuñakarai guasu ohecha ⟨את⟩ opa Shlomo kuaakatu, ha ⟨את⟩ pe óga ojapova'ekue.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ha ohecha"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kuñakarai guasu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa Shlomo kuaakatu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kuaakatu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ha ⟨את⟩ pe óga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ojapova'ekue"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:15.676182797Z",
+  "model": "glm-5.3"
+}

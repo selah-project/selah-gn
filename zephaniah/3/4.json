@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Inabi kuéra nanambýiva, ñeʼẽ vai apohakuéra; ipaʼikuéra ombopaita marangatu, ojapo Tora-re vai.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "Inabi kuéra"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "nanambýiva"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "apohakuéra"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "ñeʼẽ vai"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "ipaʼikuéra"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ombopaita"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ojapo vai"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    }
+  ],
+  "timestamp": "2026-10-02T15:12:35.178151535Z",
+  "model": "glm-5.3"
+}

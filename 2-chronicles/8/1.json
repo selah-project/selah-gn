@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oĩ upéva, opávo umi mokõipa ary Shelomoh ojapo ⟨את⟩ Jahve óga ha ⟨את⟩ jeýnte ipe óga rire.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oĩ upéva"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "opávo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ipe óga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ipe óga"
+    }
+  ],
+  "timestamp": "2026-10-02T18:23:11.235886465Z",
+  "model": "glm-5.3"
+}

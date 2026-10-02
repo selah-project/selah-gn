@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ohyeguasu jey ha oguereko peteĩ taʼýra; ha ohenói ⟨את⟩ héra Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ohyeguasu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "oguereko memby"
+    },
+    {
+      "surface": "בן",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra Onan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:34.837204726Z",
+  "model": "glm-5.3"
+}

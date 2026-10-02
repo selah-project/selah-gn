@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "⟨את⟩ ruah ñemby oipapa — poha sua kane, moõha kane rehe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah ñemby"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ñemby"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "oipapa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "poha"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sua"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kane"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "kane rehe"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "moõha"
+    }
+  ],
+  "timestamp": "2026-10-02T14:37:04.310128731Z",
+  "model": "glm-5.3"
+}

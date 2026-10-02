@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Rehayhu mbaʼe vai marangatu rehevéva, ha ñeʼẽ oikoʼỹva tsedek ñeʼẽgui rehasavéva. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Rehayhu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "marangatu rehevéva"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ñeʼẽ oikoʼỹva"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ñeʼẽgui rehasavéva"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:36.206053904Z",
+  "model": "glm-5.3"
+}

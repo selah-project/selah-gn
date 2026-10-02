@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ramo añoite reñehaʼã rehendu hag̃ua Jahve, nde Elohim, iñeʼẽ, eñangareko hag̃ua ejapo ⟨את⟩ opaite ko mitzva, pe che nde mboʼéva ko árape.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ramo añoite"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "reñehaʼã"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rehendu hag̃ua"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eñangareko hag̃ua"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ejapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ko mitzva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ko mitzva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nde mboʼéva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:51.203983444Z",
+  "model": "glm-5.3"
+}

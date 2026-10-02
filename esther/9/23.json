@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha hudíokuéra omoneĩ ⟨את⟩ pe ojapo oñepyrũ hague rehe, ha ⟨את⟩ pe Mordekai ohai chupekuéra.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "omoneĩ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "hudíokuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ojapo oñepyrũ hague"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ojapo oñepyrũ hague"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe Mordekai ohai chupekuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:30:09.702616114Z",
+  "model": "glm-5.3"
+}

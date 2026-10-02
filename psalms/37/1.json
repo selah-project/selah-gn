@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "David ñe'ẽporã. Ani reñembyasy ⟨umi⟩ ivaíva rehe, ani reñemoĩ py'arory umi jejapovaíva rehe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David ñe'ẽporã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "reñembyasy"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "umi ivaíva rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "reñemoĩ py'arory"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "umi jejapovaíva rehe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "vaíva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:11.125452712Z",
+  "model": "glm-5.3"
+}

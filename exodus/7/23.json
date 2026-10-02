@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Paroh ojere ha oike hóga rendápe, ha ndomoĩri iñe'ẽ upévape voi.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hóga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndomoĩri"
+    },
+    {
+      "surface": "שת",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "upévape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:13.632082844Z",
+  "model": "glm-5.3"
+}

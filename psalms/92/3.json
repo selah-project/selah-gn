@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 92,
+  "translation": "Ehechauka hag̃ua ko koʼẽme nde hesed, ha nde jerovia pyharekuérape.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ehechauka hag̃ua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko koʼẽme"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ha nde jerovia"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "pyharekuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:57.336865711Z",
+  "model": "glm-5.3"
+}

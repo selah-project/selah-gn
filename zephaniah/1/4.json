@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha amyesakãta che po Jehuda ári ha Jerusalaim opaite oikóva ári; ha aipeʼaporã̃ta ko tendágui ⟨את⟩ Baal oipysóva, ⟨את⟩ umi chemarim réra, paʼikuéra ndive.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "ha amyesakãta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ha aipeʼaporã̃ta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ko tendá"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal oipysóva"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "oipysóva"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi chemarim réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "umi chemarim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:13:06.684351992Z",
+  "model": "glm-5.3"
+}

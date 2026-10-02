@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Ohẽ ha oñeʼẽ ñeʼẽ vai iñakãguasúpe; opaite mbaʼevai apohára oñemombaʼe.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "ohẽ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "oñemombaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "apohára"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaʼevai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:54.437251521Z",
+  "model": "glm-5.3"
+}

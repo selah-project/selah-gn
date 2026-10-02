@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha omondo ñeʼẽguataha kuéra Achav peve, Jisrael mburuvicha, táva ñepyrũme.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ñeʼẽguataha kuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "táva ñepyrũme"
+    }
+  ],
+  "timestamp": "2026-10-02T11:58:04.464267644Z",
+  "model": "glm-5.3"
+}

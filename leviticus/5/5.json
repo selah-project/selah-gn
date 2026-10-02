@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha upéva oikóta: ojavykérõ peteĩ umíva rehe, ohechakaita pe ojavy vaʼekue hese.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha upéva oikóta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "umíva rehe"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "ohechakaita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ojavy vaʼekue"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T08:46:28.958355470Z",
+  "model": "glm-5.3"
+}

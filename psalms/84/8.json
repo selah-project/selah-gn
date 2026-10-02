@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Ou hikuái puʼaka guive puʼaka peve — ojehecha hikuái Elohim renondépe Tsiyónpe.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Ou hikuái"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "puʼaka guive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "puʼaka"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ojehecha hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyónpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:22.693575408Z",
+  "model": "glm-5.3"
+}

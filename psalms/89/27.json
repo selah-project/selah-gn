@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Haʼe ohenói chèche: 'Che ru nde, che El, ha itápa che jeipeʼaha.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ohenói chèche"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "che jeipeʼaha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:19.628353470Z",
+  "model": "glm-5.3"
+}

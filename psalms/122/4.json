@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Amópe ohupi umi tayvetu — Jah tayvetukuéra —, Jisraelpa g̃uarã je'ỹme'ẽ ramo, Jahve réra aguyje hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Amópe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "umi tayvetu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tayvetukuéra"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "je'ỹme'ẽ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelpa g̃uarã"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "aguyje hag̃ua"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:53.558080865Z",
+  "model": "glm-5.3"
+}

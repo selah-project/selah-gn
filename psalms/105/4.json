@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Eheka Jahve ha ipuʼakakue; eheka hovái opaite árape.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "eheka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ha ipuʼakakue"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "eheka"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hovái"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opaite árape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:42.070131779Z",
+  "model": "glm-5.3"
+}

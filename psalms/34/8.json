@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jahve ñeʼẽrã oñemohenda hikuái ijerére, umi ohayhúva chupe ha imarangatúva rehe, ha oipeʼa chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ñeʼẽrã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "umi ohayhúva chupe ha imarangatúva rehe"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "ha oipeʼa chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:08.238885230Z",
+  "model": "glm-5.3"
+}

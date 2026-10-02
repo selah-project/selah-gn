@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oipeʼa ⟨את⟩ umi mbaʼeorairõguasu rape ha ⟨את⟩ umi yvate tenda, ha ombota ⟨את⟩ umi taʼanga pytoʼi ha oikytĩ ⟨את⟩ umi Achera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼeorairõguasu rape"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "umi mbaʼeorairõguasu rape"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "mbaʼeorairõguasu"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ha umi yvate tenda"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ombota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi taʼanga pytoʼi"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "umi taʻanga pytoʼi"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "oikytĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Achera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "umi Achera"
+    }
+  ],
+  "timestamp": "2026-10-02T19:35:13.617833333Z",
+  "model": "glm-5.3"
+}

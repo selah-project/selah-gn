@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ohenói ⟨pe⟩ rakiá Yvága; ha oiko kaʼaru, ha oiko koʼẽ — ára mokõiha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "pe rakiá"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Yvága"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kaʼaru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõiha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:26.371748933Z",
+  "model": "glm-5.3"
+}

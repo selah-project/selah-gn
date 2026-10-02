@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Ha upéicha ndajajeremoʼãi nde reheiguí; emombarete oréko, ha nde rérape roñeʼẽta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha ndajajeremoʼãi"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ndajajeremoʼãi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nde reheiguí"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "emombarete oréko"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "ha nde rérape"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "roñeʼẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:14.381937436Z",
+  "model": "glm-5.3"
+}

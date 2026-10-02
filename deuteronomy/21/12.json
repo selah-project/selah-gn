@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "ereino nde roga mbytépe, ha oikymba ⟨את⟩ iñakã, ha oity ⟨את⟩ ipysãnguéra.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "ereino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde roga"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "ha oikymba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ha oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipysãnguéra"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ipysãnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:11.653535304Z",
+  "model": "glm-5.3"
+}

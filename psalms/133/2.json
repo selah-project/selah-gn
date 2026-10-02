@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 133,
+  "translation": "Rygue porãicha ojeheraguapúva iñakã ári, osyry osyryhýivo iñakãrague ári, Aharon iñakãrague, osyry hese iñao rembeʼy peve.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "rygue porãicha"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "osyry osyryhýivo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "iñakãrague"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "iñakãrague"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "osyry hese"
+    },
+    {
+      "surface": "על",
+      "gloss": "…peve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tembeʼy"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "iñao rembeʼy peve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:58.372682737Z",
+  "model": "glm-5.3"
+}

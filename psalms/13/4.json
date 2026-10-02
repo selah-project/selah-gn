@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ema'ẽ chéve, eñandu chéve, Jahve che Elohim; embody'u che jesa, ani hag̃ua amoñe'ẽ che moñe'ẽ mano rehegua;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Ema'ẽ chéve"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eñandu chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "embody'u"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che jesa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "amoñe'ẽ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mano rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:49.195808545Z",
+  "model": "glm-5.3"
+}

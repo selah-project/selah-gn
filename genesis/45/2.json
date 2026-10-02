@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Ha omonoʼõ ⟨את⟩ iñeʼẽ oisasuakuévo, ha Mitsraim-yguára ohendu, ha Paroh óga ohendu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omonoʼõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "oisasuakuévo"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-yguára"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:48.646630235Z",
+  "model": "glm-5.3"
+}

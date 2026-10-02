@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha umíva nde mbaʼapohárakuéra ha nde avakuéra, rejoguapa vaʼekue nde puʼaka guasu rehe ha nde po hatã rehe.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ha umíva"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mbaʼapohárakuéra"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ha nde avakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "rejoguapa vaʼekue"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "nde puʼakápe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ha nde pópe"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "hatã"
+    }
+  ],
+  "timestamp": "2026-10-02T17:48:56.429568862Z",
+  "model": "glm-5.3"
+}

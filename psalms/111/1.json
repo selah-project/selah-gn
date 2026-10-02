@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 111,
+  "translation": "Pealabenai Ja! Che, opaite che korasõgui, achakuru Jahve rehe; che ñemiguasu apytépe umi tekojojáva ndive, ha ⟨aty⟩ ndive.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pealabenai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "achakuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "che korasõgui"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "che ñemiguasu apytépe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "umi tekojojáva ndive"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ha ⟨aty⟩ ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:18.088669243Z",
+  "model": "glm-5.3"
+}

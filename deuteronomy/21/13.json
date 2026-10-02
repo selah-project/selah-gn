@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 21:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha oipeʼo ⟨את⟩ ijao sevía rehegua hese, ha opyto nde rógape, ha ovasy ⟨את⟩ iñu ha ⟨את⟩ isy peteĩ jasy ⟨ára⟩ aja, ha upéi rehegua reho hese, ereko chupe kuñakárã, ha haʼéta ndeve rembirekorã.",
+  "tokens": [
+    {
+      "surface": "והסירה",
+      "gloss": "oipeʼo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijao sevía rehegua"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "ijao"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "sevía"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "opyto"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nde rógape"
+    },
+    {
+      "surface": "ובכתה",
+      "gloss": "ovasy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñu"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "iñu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "isy"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "isy"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "peteĩ jasy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨ára⟩"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "reho"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ובעלתה",
+      "gloss": "ereko chupe kuñakárã"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "haʼéta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "rembirekorã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:01:52.499093073Z",
+  "model": "glm-5.3"
+}

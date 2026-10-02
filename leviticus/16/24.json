@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ojohõita ⟨את⟩ hetête ýpe, marangatu rendápe, ha oenóta ⟨את⟩ iñao, ha osēta, ha ojapóta ⟨את⟩ iñemboypy ha ⟨את⟩ tavayguakuéra ñemboypy, ha ojapokatúta ichupe guarã ha tavayguakuéra guarã.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ojohõita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hetête"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hetête"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "oenóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñao"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iñao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osēta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñemboypy"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "iñemboypy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tavayguakuéra ñemboypy"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ñemboypy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ojapokatúta"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ichupe guarã"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ha ... guarã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:57.453078389Z",
+  "model": "glm-5.3"
+}

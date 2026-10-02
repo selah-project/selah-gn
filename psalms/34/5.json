@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Aheka ⟨את⟩ Jahve, ha chereñembohasa, ha che russu opa che jepy'amongetarãgui.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Aheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ha chereñembohasa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "che jepy'amongetarãgui"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "che russu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:08.238349853Z",
+  "model": "glm-5.3"
+}

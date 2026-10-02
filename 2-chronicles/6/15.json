@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Pe rejapo porãva nde mbaʼapohára David, che ru, rehe ⟨את⟩ pe ere hese; ha ere nde jurúpe ha nde pópe rejapopáma, koʼág̃a araicha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "rejapo porãva"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "nde mbaʼapohára rehe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ere hese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "nde jurúpe"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ha nde pópe"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "rejapopáma"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "araicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "koʼág̃a"
+    }
+  ],
+  "timestamp": "2026-10-02T19:35:37.762089620Z",
+  "model": "glm-5.3"
+}

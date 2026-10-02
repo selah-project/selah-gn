@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Zevul, táva jára, ohendu ⟨את⟩ Gaal, Ebed ra'y, ñe'ẽkuéra, ha vera ipy'a.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "jára"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñe'ẽkuéra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñe'ẽkuéra"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "vera"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ipy'a"
+    }
+  ],
+  "timestamp": "2026-10-02T10:42:25.913384545Z",
+  "model": "glm-5.3"
+}

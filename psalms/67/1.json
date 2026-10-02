@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 67,
+  "translation": "Pe oisãmbyhy haguã, neguina apopyrépe. Mizmor, purahéi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe oisãmbyhy haguã"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "neguina apopyrépe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:19.156610491Z",
+  "model": "glm-5.3"
+}

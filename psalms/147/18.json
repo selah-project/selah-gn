@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Omondo iñe'ẽ ha omanoi chupekuéra; omboypyru iñruah, ha y osyry.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Omondo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ha omanoi chupekuéra"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "omboypyru"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "iñruah"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "osyry"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:09.344553668Z",
+  "model": "glm-5.3"
+}

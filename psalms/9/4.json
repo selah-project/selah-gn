@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Che ñorairõhára ojevy vove tapykuépe, oguejýta ha okañýta nde renondépe.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "ojevy vove"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "che ñorairõhára"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tapykuépe"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "oguejýta"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "okañýta"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nde renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:25.181334410Z",
+  "model": "glm-5.3"
+}

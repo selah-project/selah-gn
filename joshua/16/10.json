@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ndojukaipa ⟨את⟩ umi kenaneano oikóva Gézer-pe; upévare kenaneano oiko Efraim apytépe ko ára peve, ha oiko chuguikuéra mbaimba'e apoha ramo, mba'apohára ramo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha ndojukaipa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ojukaipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kenaneano"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "umi kenaneano"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gézer-pe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaneano"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko chuguikuéra"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mbaimba'e apoha ramo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mba'apohára ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T10:27:07.389525984Z",
+  "model": "glm-5.3"
+}

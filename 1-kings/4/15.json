@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ajimaas, Naftalí-pe; haʼe avei ohesaʼỹijo ⟨את⟩ Basemat, Salomón rajy, iména ramo.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ajimaas"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "Naftalí-pe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ohesaʼỹijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "rajy"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomón"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "iména ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:38:50.765833346Z",
+  "model": "glm-5.3"
+}

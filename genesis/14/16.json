@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oguerujey opaite mbaʼe poʼopy, avei ⟨את⟩ Lot ijoykeʼýva ha ⟨את⟩ hemimby oguerujey; avei ⟨את⟩ kuñanguéra ha ⟨את⟩ yvyporakuéra.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "oguerujey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe poʼopy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "mbaʼe poʼopy"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼýva"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "ha hemimby"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "oguerujey"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuñanguéra"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kuñanguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "yvyporakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yvyporakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:56.096278579Z",
+  "model": "glm-5.3"
+}

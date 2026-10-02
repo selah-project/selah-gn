@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Pe motenondehárape, mbaraka ñeguinguéra reheve; salmo David peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "motenondehárape"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "mbaraka ñeguinguéra reheve"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David peg̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:01.953445824Z",
+  "model": "glm-5.3"
+}

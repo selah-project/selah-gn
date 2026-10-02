@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Upéva rehe Jahve ohendu ha oñembyasy, ha tata oñembopyahu Jaakov-pe, ha iñairã avei oguahẽ Jisrael ári.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upéva rehe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ha tata"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "oñembopyahu"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakov-pe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iñairã"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "oguahẽ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael ári"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:32.639685957Z",
+  "model": "glm-5.3"
+}

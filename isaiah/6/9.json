@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ⟨Elohim⟩ heʼi: Eho ha eʼe ko ava kuéra péape: Eñehendu hemi, ha peẽ ani peikuaa; ehecha hemi, ha ani peikuaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ⟨Elohim⟩ heʼi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha eʼe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ko ava kuéra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "péape"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Eñehendu"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "hemi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "peikuaa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hemi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "peikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T12:29:32.648644578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Mañeʼã: og̃uahẽ umi ára, heʼi Jahve, ha ajapo ⟨את⟩ Jisrael óga ndive ha ⟨את⟩ Jehuda óga ndive peteĩ ñeʼẽmeʼẽ pyahu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Mañeʼã"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "באים",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "ha ajapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "pyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T13:34:55.011304343Z",
+  "model": "glm-5.3"
+}

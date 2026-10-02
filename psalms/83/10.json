@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Ejapoa chuguikuéra Midianicha, Siseraicha, Yavinicha, Kichon ysyry rire.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ejapoa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "Midianicha"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "Siseraicha"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "Yavinicha"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ysyry rire"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kichon"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:21.511642435Z",
+  "model": "glm-5.3"
+}

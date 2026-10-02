@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha avei che karakuéra ári ha kuñakarakuéra ári, umi ára upépe, ahoáta che ruah ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ha avei"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "che karakuéra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "kuñakarakuéra"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "umi árape"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ahoáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ruah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T14:53:41.651300557Z",
+  "model": "glm-5.3"
+}

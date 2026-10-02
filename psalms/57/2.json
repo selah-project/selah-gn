@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Eñangareko cherehe, Elohim, eñangareko cherehe, nde rehepe che tekove oheja ijepe; nde jupiguasu ro'ysãme añemoĩta, umi ivaíva hasa peve.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "eñangareko cherehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "eñangareko cherehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añetegue"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehepe"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "oheja ijepe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che tekove"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ro'ysãme"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nde jupiguasu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "añemoĩta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "hasa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "umi ivaíva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:38.564649581Z",
+  "model": "glm-5.3"
+}

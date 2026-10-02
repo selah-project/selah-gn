@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Moche ogueru ⟨את⟩ umi kareta ha ⟨את⟩ umi vaka, ha omeʼẽ ⟨את⟩ umi mbaʼe Levi-kuérape.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ha Moche ogueru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kareta"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "umi kareta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi vaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "umi vaka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha omeʼẽ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Levi-kuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Levi-kuérape"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:17:35.986329646Z",
+  "model": "glm-5.3"
+}

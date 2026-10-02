@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Paroh ohenói Moche ha Aharon-pe, ha he'i: Peju, pejuka jopói ramo peẽ Elohim-peẽme g̃uarã, ko yvýpe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ha Aharon-pe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "peju"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "pejuka jopói ramo"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "peẽ Elohim-peẽme g̃uarã"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ko yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:45.004419028Z",
+  "model": "glm-5.3"
+}

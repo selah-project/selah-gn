@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Elohim, ejupi, ha umi ndaijaʼéiva chupe oñemosarambi taʼãnga hikuái; umi chupe omboguejáva ova taʼerã henderaguaiterei.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "ejupi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "oñemosarambi taʼãnga hikuái"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "umi ndaijaʼéiva chupe"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ova taʼerã"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "umi chupe omboguejáva"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "henderaguaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:05.552329462Z",
+  "model": "glm-5.3"
+}

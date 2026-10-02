@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Eli ohendu ⟨את⟩ koʼãga tyapu ojekyhyjeygua, ha heʼi: mbaʼépa pe tyapu, ko atypery guasúpe? Ha ku karai omongyraite oguahẽ hag̃ua omyesakã Eli peve.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyapu ojekyhyjeygua"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tyapu"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "ojekyhyjeygua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tyapu"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "atypery guasu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ha ku karai"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "omongyraite"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oguahẽ hag̃ua"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "omyesakã"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli peve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:57:19.970360021Z",
+  "model": "glm-5.3"
+}

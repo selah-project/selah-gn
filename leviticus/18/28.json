@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ani hag̃ua pe yvy onohẽ hiʼágui ⟨את⟩ peẽ, pembyai haguére chupe, háichapa onohẽ ⟨את⟩ hiʼágui umi tetã oĩva peẽ mboyveguápe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "onohẽ hiʼágui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "pembyai haguére"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (pe yvy)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "háichapa"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "onohẽ hiʼágui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tetã"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "umi tetã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "peẽ mboyveguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:15.170143631Z",
+  "model": "glm-5.3"
+}

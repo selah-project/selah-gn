@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Pe oĩáva yvágape ocheʼa: Adonai ocherei chupekuéra.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Pe oĩáva"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ocheʼa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ocherei"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:46.265436701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha kóva avei ha'e mba'e vai mba'asyguáva: opaite hendáicha ou hague, upéicha oho; ha mba'épa iporãve chupe omba'apóva ruah rehe?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "mba'asyguáva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "hendáicha"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ou hague"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mba'épa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "omba'apóva"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ruah rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:46.940024127Z",
+  "model": "glm-5.3"
+}

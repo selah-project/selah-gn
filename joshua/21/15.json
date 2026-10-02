@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ⟨את⟩ Cholon ha ⟨את⟩ iñeka'aguy, ha ⟨את⟩ Devir ha ⟨את⟩ iñeka'aguy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeka'aguy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iñeka'aguy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeka'aguy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iñeka'aguy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:54.460516679Z",
+  "model": "glm-5.3"
+}

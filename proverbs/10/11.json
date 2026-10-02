@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "The mouth of the righteous is a source of life; but the mouth of those who do evil conceals ⟨the⟩ violence.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "פי",
+      "gloss": "emouthe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ha embojurujávo emouthe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mbaʼevaijohára"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "omboñemi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mbaʼevai"
+    }
+  ],
+  "timestamp": "2026-10-02T19:26:06.791925251Z",
+  "model": "glm-5.3"
+}

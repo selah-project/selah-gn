@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha kuñakarai ojaraʼi hese raʼýkuéra: ⟨את⟩ Jeuch, ⟨את⟩ Chemaria ha ⟨את⟩ Saham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ojaraʼi hese"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeuch"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Jeuch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chemaria"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Chemaria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Saham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Saham"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:16.586559566Z",
+  "model": "glm-5.3"
+}

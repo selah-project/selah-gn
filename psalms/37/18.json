@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Jahve oikuaa ⟨את⟩ umi imarangatúva ára kuéra, ha iñemondéva opa ára peve oikóta.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "umi imarangatúva"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ha iñemondéva"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ára peve"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oikóta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:57.816972206Z",
+  "model": "glm-5.3"
+}

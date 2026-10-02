@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Pe oisãmbyhy chupepépe, mbaraka pury ndive, pe tai poapyha ári — ta'ãnguaru David mba'éva.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe oisãmbyhy chupepépe"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "mbaraka pury ndive"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "pe tai poapyha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ta'ãnguaru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mba'éva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:23.085426878Z",
+  "model": "glm-5.3"
+}

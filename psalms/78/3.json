@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Umi rohendu ha roikuaa vaʼekue, ha ore ru-kuéra omoñe'ẽ oreve.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "rohendu"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ha roikuaa"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ha ore ru-kuéra"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "omoñe'ẽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oreve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:23.594991217Z",
+  "model": "glm-5.3"
+}

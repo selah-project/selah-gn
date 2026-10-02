@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Eñeʼẽ Zerubavel-pe, Yehuda pejaʼára haʼéva, heʼívo: Che, ahety ⟨את⟩ yvága ha ⟨את⟩ yvy.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "pejaʼára"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ahety"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvága"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:11:27.296073863Z",
+  "model": "glm-5.3"
+}

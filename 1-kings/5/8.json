@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha avrã kuéra ha kapi'i kavaju kuéra ha kavaju ipya'éva kuéra g̃uarã ogueraha pe tendápe oĩ hag̃ua upépe, peteĩteĩva i-hekojojaha ruguáicha.",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "Ha avrã kuéra"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "ha kapi'i"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "kavaju kuéra g̃uarã"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "ha kavaju ipya'éva kuéra"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩ hag̃ua"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩva"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "i-hekojojaha ruguáicha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:19.912922076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha koʼág̃a, eju, che amombaʼeg̃uahẽta ndéve peteĩ ñemoñeʼẽ: ereĩ ⟨את⟩ nde rekove ha ⟨את⟩ ne memby Cholomo rekove.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼág̃a"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "eju"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "che amombaʼeg̃uahẽta ndéve"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ereĩ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "peteĩ ñemoñeʼẽ"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ereĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rekove"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde rekove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ne memby"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cholomo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:36:27.410119288Z",
+  "model": "glm-5.3"
+}

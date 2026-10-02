@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Elohim, rohendu ore apysápe; ore ruꞌakuéra omombeʼu oreve pe tembiapo nde rejapo vaʼekue hikuái ara kuéra pe, yma ara kuéra pe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ore apysápe"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "rohendu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ore ruꞌakuéra"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "omombeʼu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oreve"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "pe tembiapo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "nde rejapo vaʼekue"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "hikuái ara kuéra pe"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ara kuéra pe"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "yma"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:43.568815217Z",
+  "model": "glm-5.3"
+}

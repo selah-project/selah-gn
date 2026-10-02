@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha Yosef ou hikuái ijere ko’ẽrépe, ha hecha ⟨את⟩ chupekuéra, ha niko voi hesakãnorõmegua hikuái.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "hikuái ijere"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko’ẽrépe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ha hecha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ha niko voi"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "hesakãnorõmegua hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:31.926045761Z",
+  "model": "glm-5.3"
+}

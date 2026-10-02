@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Ojepyso ipya, ndovaitéi ohecha peve umi iñorairõhára.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ipya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "vaitéi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "umi iñorairõhára rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:26.500308419Z",
+  "model": "glm-5.3"
+}

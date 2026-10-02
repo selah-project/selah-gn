@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Upémarõ David ipuʼaka Pelichti rehe kamẽ ha ita ndive, ha oity ⟨את⟩ Pelichti ha ojuka chupe; haimbe katu ndoipóri David pópe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ipuʼaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelichti"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "kamẽ ndive"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "ha ita ndive"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelichti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelichti"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ojuka chupe"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "haimbe katu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndoipóri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T11:09:04.618719956Z",
+  "model": "glm-5.3"
+}

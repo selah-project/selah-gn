@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "⟨את⟩ Umi ao joha ombaʼapo hag̃ua marangatu rendápe, ⟨את⟩ umi ao marangatu Aharon paʼíme g̃uarã, ha ⟨את⟩ umi imembykuéra ao, oiko hag̃ua hikuái paʼíramo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ao joha"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "umi ao"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "joha"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ombaʼapo hag̃ua"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu rendápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ao marangatu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "umi ao"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon-pe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼíme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi imembykuéra ao"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "umi ao"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "oiko hag̃ua paʼíramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:45.411377764Z",
+  "model": "glm-5.3"
+}

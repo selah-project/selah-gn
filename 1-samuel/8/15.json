@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha nde kyʼỹi ha nde yva ñandeʼýgui oiporúta pa mbohapaha, ha omeʼẽta isaríshape ha imbaʼapohárape.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "nde kyʼỹi"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "nde yva ñandeʼy"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "oiporúta pa mbohapaha"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "isaríshape"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "imbaʼapohárape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:14.422075656Z",
+  "model": "glm-5.3"
+}

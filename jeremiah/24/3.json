@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 24:3",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Jahve heʼi chéve: Mbaʼe nde rehecha, Irmiahu? Ha aheʼi: Taʼỹi; umi iporãva iporã eterei, ha umi ivaíva ivaí eterei, nojeʼukuaáiva ivaikuégui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Irmiahu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Ha aheʼi"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "Taʼỹi"
+    },
+    {
+      "surface": "התאנים",
+      "gloss": "umi taʼỹi"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "ha umi ivaíva"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ivaí"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nojeʼukuaái"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "nojeʼukuaái"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ivaikuégui"
+    }
+  ],
+  "timestamp": "2026-10-02T13:29:12.834000997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Jahve heʼi chupe: Mbaʼépa pe nde po pópe? Ha haʼe heʼi: peteĩ takuaru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mbaʼépa pe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nde po pópe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "takuaru"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:22.990349355Z",
+  "model": "glm-5.3"
+}

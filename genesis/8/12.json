@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ohaʼarõ jey pokõi ára ambuéva, ha omondo ⟨את⟩ pe yvyrarakã, ha nomoneni ojevy hese jeyvéima.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ohaʼarõ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambuéva"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvyrarakã"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "yvyrarakã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "ojapo jey"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeyvéima"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:10.660807001Z",
+  "model": "glm-5.3"
+}

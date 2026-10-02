@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha nde tykeʼýra noĩrirõ nde yképe, ha ndereikuaáirõ chupe, egueru ⟨את⟩ pe mymba nde roga ryepýpe, ha opytáta ndive, nde tykeʼýra oheka peve ⟨את⟩ chupe; upéi embojevyta chupe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha ... -rõ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ykeguáva"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde tykeʼýra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde yképe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "reikuaa chupe"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "ha regueru chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ape"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde roga"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ha opytáta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde tykeʼýra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe mymba"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "ha embojevyta chupe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:51:46.767377103Z",
+  "model": "glm-5.3"
+}

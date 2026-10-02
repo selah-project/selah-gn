@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha iñeʼẽmeʼẽ oĩramo rymba apytégui — ovecha apytégua térã kavara apytégua — ichugarã; kuimba'e, ivaipyrũʼỹva, oñemeʼẽvaʼerã.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha oĩramo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "rymba"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "iñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kavara"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ichugarã"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ivaipyrũʼỹva"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "oñemeʼẽvaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:26.585007818Z",
+  "model": "glm-5.3"
+}

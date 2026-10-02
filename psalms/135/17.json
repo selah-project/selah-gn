@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Iñeʼẽnguéra reruãnguéra oĩ chupekuéra, hákatu ndahendúi; upéicha avei, ndaipóri ruah iñeʼẽnguéra ryepýpe.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "reruãnguéra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hákatu nda... i"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hendúi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "upéicha avei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨oĩ⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "iñeʼẽnguéra ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:06.154432579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuimba'e ogueraháva ⟨את⟩ peteĩ kuña ha ⟨את⟩ isy, mba'e vaiete ⟨ꞌupéva⟩; tataýpe hikuái oñemosẽrã ⟨את⟩ chive ha umíva ndive; ha ani oiko mba'e vai peẽ apytépe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ha kuimba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ogueraháva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩ kuña"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "peteĩ kuña"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "isy"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "isy"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mba'e vaiete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ꞌupéva⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tataýpe"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "oñemosẽrã"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chive"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "ha ⟨את⟩ umíva",
+      "marks": "umíva (kuña ha isy)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "peẽ apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:24.223708411Z",
+  "model": "glm-5.3"
+}

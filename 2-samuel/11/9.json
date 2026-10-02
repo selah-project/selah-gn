@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Uría oke mburuvichaguasu óga okẽme, ⟨את⟩ opaite ijára rembiguái ndive, ha ndoguerekói oguata hógape.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uría"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "okẽme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvichaguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite rembiguái"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguái"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ijára"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoguerekói"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hógape"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:29.588758981Z",
+  "model": "glm-5.3"
+}

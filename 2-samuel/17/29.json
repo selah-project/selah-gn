@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 17:29",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha eíra, ha kamisa, ha ovecha rymba, ha vaka kambuchi David-pe ha umi tapicha ichupe oikóva ndive g̃uarã okaru hag̃ua; heʼihaguére: Pe tavayguakuéra ove ha ohasy vaíva ha hy mbeguekatu ichaguã ⟨את⟩ kaʼaguýpe.",
+  "tokens": [
+    {
+      "surface": "ודבש",
+      "gloss": "ha eíra"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "ha kamisa"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ha ovecha rymba"
+    },
+    {
+      "surface": "ושפות",
+      "gloss": "ha kambuchi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "ha umi tapicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ndive",
+      "marks": "David-pe ha umi tapicha"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "okaru hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heʼihaguére"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavayguakuéra"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ove"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ohasy vaíva"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "hy mbeguekatu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:26:38.699880994Z",
+  "model": "glm-5.3"
+}

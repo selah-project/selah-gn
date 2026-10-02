@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Haʼe omoĩ ⟨ñeʼẽ⟩ i malajakuérape nde rehegua, nerendy hag̃ua neʼẽ rete rupive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Haʼe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "i malajakuéra"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "omoĩ ⟨ñeʼẽ⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehegua"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "nerendy hag̃ua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "neʼẽ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "retei rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:12.001565783Z",
+  "model": "glm-5.3"
+}

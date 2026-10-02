@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Mokõi pa ary hikuái omba'apo ⟨את⟩ Kedorlaomer rehe, ha mokõi pa peteĩ ary pahápe oñemosãso hikuái chugui.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "omba'apo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ha mokõi pa peteĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa peteĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "oñemosãso hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:17.695345272Z",
+  "model": "glm-5.3"
+}

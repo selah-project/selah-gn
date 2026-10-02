@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "⟨את⟩ Ovecha kuéra ha ⟨את⟩ vaka kuéra ha ⟨את⟩ kavaraju kuéra, ha ⟨את⟩ opa mbaʼe táva ryepýpe ha ⟨את⟩ opa mbaʼe kokuépe — ogueru hikuái.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovecha kuéra"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Ovecha kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaka kuéra"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "vaka kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kavaraju kuéra"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kavaraju kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe táva ryepýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "táva ryepýpe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe kokuépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokuépe"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ogueru hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:56.910106118Z",
+  "model": "glm-5.3"
+}

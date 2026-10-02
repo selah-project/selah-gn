@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha ⟨umikuéra⟩ ndohendúi, ndoipeʼa ⟨את⟩ iñapỹa, ha omombaʼerasy ⟨את⟩ iñakãjoʼa, ani hag̃ua ohendu ha ani hag̃ua ogueru ñembokatupyry.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha ndo–"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hendúi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo–"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñapỹa"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "iñapỹa"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "omombaʼerasy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãjoʼa"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "iñakãjoʼa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ha ani hag̃ua"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ñembokatupyry"
+    }
+  ],
+  "timestamp": "2026-10-02T13:23:07.937078659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Ha Jose-pe, mitsraim yvyrépe, ohechauka Asenat, Poti-pera iñayvýra, On-gua ñeʼẽrenda, ichupe ⟨את⟩ Menache ha ⟨את⟩ Efrain.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ha ohechauka"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Jose-pe ... ichupe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvyrépe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asenat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "iñayvýra"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "pera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ñeʼẽrenda"
+    },
+    {
+      "surface": "אן",
+      "gloss": "On-gua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menache"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Efrain"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrain"
+    }
+  ],
+  "timestamp": "2026-10-02T08:03:18.262924613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha koʼág̃a, emombeʼúkena ⟨את⟩ che peẽme ⟨את⟩ mbaʼépa ajapóta che viñedo rehe: aipeʼúta ijepeʼã ha oĩta oñemboguapíva hag̃ua; aietyta itieʼỹra ha oĩta oñepysõngóva hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼág̃a"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "amombeʼúta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ che peẽme",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼépa ajapóta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "a-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "japóta"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "che viñedo rehe"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "aipeʼúta"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "ijepeʼã"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "oñemboguapíva hag̃ua"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "aietyta"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "itieʼỹra"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "oñepysõngóva hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T12:28:39.229297229Z",
+  "model": "glm-5.3"
+}

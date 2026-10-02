@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Kangy avei naiñangýi ndeveguáre, ha pyhare ara áraicha omyendýta; kangy ichaguápe — kuarahyʼã ichaguápe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…ãi"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "naiñangýi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndeveguáre"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ara áraicha"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "omyendýta"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "kangy ichaguápe"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "kuarahyʼã ichaguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:37.242763626Z",
+  "model": "glm-5.3"
+}

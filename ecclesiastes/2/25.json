@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Baʼerã, mávapa okaru, ha mávapa oguerovyʼa, che yke oĩvo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Baʼerã"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "יחושׁ",
+      "gloss": "oguerovyʼa"
+    },
+    {
+      "surface": "חוּץ",
+      "gloss": "che yke oĩvo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "che gui"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:31.938270065Z",
+  "model": "glm-5.3"
+}

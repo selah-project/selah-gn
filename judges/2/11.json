@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jisrael membykuéra ojapo ⟨את⟩ mbaʼe vai Jahve resápe, ha ombaʼapo hikuái ⟨את⟩ umi Baal-reguã.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼe vai"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ombaʼapo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Baal-reguã"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "umi Baal"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:25.715529009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha peteĩ kuimbaʼe ohecha ha omomarandu Joáv-pe, ha heʼi: Maʼẽa, ahecha ⟨את⟩ Avchalom oñemboyvyra elápe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "omomarandu"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joáv-pe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "maʼẽa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avchalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "oñemboyvyra"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "elápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:30:13.021907989Z",
+  "model": "glm-5.3"
+}

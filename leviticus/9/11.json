@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ⟨את⟩ pe so'o ha ⟨את⟩ pe pire omondi tata-pe, okápe, tendágui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe so'o"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "pe so'o"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe pire"
+    },
+    {
+      "surface": "העור",
+      "gloss": "pe pire"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "omondi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata-pe"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "okápe"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tendágui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:12.037671383Z",
+  "model": "glm-5.3"
+}

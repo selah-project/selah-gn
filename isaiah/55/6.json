@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Peheka Jahve, ojejuhu gueteri aja; pehenói chupe, oguata gueteri peẽ rendápe aja.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "peheka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "ojejuhu gueteri aja"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "pehenói chupe"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "oguata gueteri… aja"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "peẽ rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:58:24.235324775Z",
+  "model": "glm-5.3"
+}

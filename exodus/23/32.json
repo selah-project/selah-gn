@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ani eñeʼẽmeʼẽ chukuéra, ha ani avei chukuéra Elohim ndive.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "eñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chukuéra ndive"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ha ani avei chukuéra Elohim ndive"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:25:20.853546075Z",
+  "model": "glm-5.3"
+}

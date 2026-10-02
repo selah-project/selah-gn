@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, ejevy jagueraha jey hagua; ehecha yvágagui ha ehechajey, ha ehecha ko yva rakã.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jagueraha jey hagua"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ehechajey"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "yva rakã"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:05.783839639Z",
+  "model": "glm-5.3"
+}

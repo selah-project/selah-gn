@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Eke ita apytépe, eñomi yvype, Jahve pyʼaguapỹgui ha ijaʼegoʼõ rechaitégui.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "eke"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ita apytépe"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "eñomi"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "yvype"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…gui"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ha ijaʼegoʼõ rechaite…gui"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ijaʼegoʼõ rechaite"
+    }
+  ],
+  "timestamp": "2026-10-02T12:22:56.681543448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oikóta peteĩ jerei guasu opaite Mitsraim yvýpe, ichagua ndojapóimava koʼẽ rire, ha ichagua ndojapomoʼãvéiva.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Ha oikóta"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "jerei"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ichagua"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ichaguáva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo..iva"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ojapóimava"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ha ichaguáva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo..véiva"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ojapomoʼãvéiva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:03.762066136Z",
+  "model": "glm-5.3"
+}

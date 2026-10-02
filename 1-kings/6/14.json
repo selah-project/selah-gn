@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Upéicha Cholomó ojapo ⟨את⟩ ⟨óga⟩ ha ombopaha.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cholomó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨óga⟩"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ombopaha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:59.837708061Z",
+  "model": "glm-5.3"
+}

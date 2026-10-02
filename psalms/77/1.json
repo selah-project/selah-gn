@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Pe motenondehára pe g̃uarã, Jedutun rehe, Asaf peguarã — peteĩ purahéi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe motenondehára pe g̃uarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf peguarã"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "peteĩ purahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:46.912956506Z",
+  "model": "glm-5.3"
+}

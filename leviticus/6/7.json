@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha kóva haʼe pe Tora pe minhá rehegua: Aharon raʼýkuéra ogueru ⟨את⟩ chupe Jahve renondépe, ojupi peve pe mizbeaj renondépe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "pe Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pe minhá rehegua"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon raʼýkuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ojupi peve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe mizbeaj"
+    }
+  ],
+  "timestamp": "2026-10-02T08:44:26.889721882Z",
+  "model": "glm-5.3"
+}

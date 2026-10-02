@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Moche ogueraha ⟨את⟩ Jisrael Suf ýgui guive, osẽkuévo Chur ñu guasúpe; oho hikuái mbohapy ára ñu guasúre ha ndojuhúi y.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ýgui"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "osẽkuévo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ñu guasu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho hikuái"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ñu guasúre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "juhúi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:43.994503885Z",
+  "model": "glm-5.3"
+}

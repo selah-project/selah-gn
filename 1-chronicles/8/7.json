@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Naamán, ha Ajiá, ha Gera — haʼe haʼevaʼekue omondo vaʼekue chupekuéra — ha omoheñói ⟨את⟩ Uza ha ⟨את⟩ Ajijud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "ha Naamán"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ha Ajiá"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ha Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "omondo vaʼekue chupekuéra"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ha omoheñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajijud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ajijud"
+    }
+  ],
+  "timestamp": "2026-10-02T18:04:17.693780119Z",
+  "model": "glm-5.3"
+}

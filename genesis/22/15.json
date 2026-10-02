@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Jahve ʼangelea ohenói Avraham rehe, mokõiha jey, yvágagui.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ʼangelea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mokõiha jey"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágagui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:55.909676885Z",
+  "model": "glm-5.3"
+}

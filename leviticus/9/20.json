@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha omoĩ ⟨את⟩ umi tyra hetia ári, ha omoñemby umi tyra ⟨pe⟩ mbohupa ári.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tyra"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "umi tyra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "hetia"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "omoñemby"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "umi tyra"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨pe⟩ mbohupa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:59.447554691Z",
+  "model": "glm-5.3"
+}

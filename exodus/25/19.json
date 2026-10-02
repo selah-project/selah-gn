@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha rejapo peteĩ kerubim peteĩ paháre ko ygotyo, ha peteĩ kerubim paháre ko ygotyo; kaporet-gui rejapo va'erã ⟨את⟩ umi kerubim, imokõi paháre.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "paháre"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko ygotyo"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ha peteĩ kerubim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "paháre"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko ygotyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "rejapo va'erã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kerubim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "umi kerubim"
+    },
+    {
+      "surface": "על",
+      "gloss": "re"
+    },
+    {
+      "surface": "שני",
+      "gloss": "imokõi"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "paháre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:28:42.978636868Z",
+  "model": "glm-5.3"
+}

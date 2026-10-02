@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 93,
+  "translation": "Neʼẽmeʼẽ jehechauka nde rehegua ojeguaru heta ára; nde róga rehe oñemomboraitéva ⟨⟨ovárare⟩⟩ marangatu, Jahve, ara pukukuére.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "nde neʼẽmeʼẽ jehechauka"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ojeguaru heta ára"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "nde róga rehe"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "oñemomboraitéva ⟨⟨ovárare⟩⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "pukukuére"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:40.393283985Z",
+  "model": "glm-5.3"
+}

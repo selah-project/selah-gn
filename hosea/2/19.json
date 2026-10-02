@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha che aipeʼúta ⟨את⟩ Baal kuéra réra iñeʼẽnguégui, ha nahániri ñemanduʼamoʼãvéima hikuái iméra rupive.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "che aipeʼúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal kuéra réra"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "rera kuéra"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal kuéra"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "iñeʼẽnguégui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "ñemanduʼamoʼãvéima"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moʼã"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "iméra rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T14:47:21.967524507Z",
+  "model": "glm-5.3"
+}

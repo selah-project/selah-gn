@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "⟨את⟩ urukureʼa michĩ, ha ⟨את⟩ urukureʼa guasu, ha ⟨את⟩ pyahu juru,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urukureʼa michĩ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "urukureʼa michĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urukureʼa guasu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "urukureʼa guasu"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "pyahu juru"
+    }
+  ],
+  "timestamp": "2026-10-02T09:55:18.415258989Z",
+  "model": "glm-5.3"
+}

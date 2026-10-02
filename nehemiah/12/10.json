@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Yechua heñói Jojakim, Jojakim heñói ⟨את⟩ Eliashib, Eliashib heñói ⟨את⟩ Joiada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Yeșua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliashib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eliashib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "Eliashib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joiada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Joiada"
+    }
+  ],
+  "timestamp": "2026-10-02T17:56:49.679128031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Moche ohai ⟨את⟩ opaite Jahve ñeʼẽ; ha oñepyrũ pyaʼe koʼẽmbotápe, ha omopuʼã peteĩ kurusu renda yvyty guýpe, ha papoĩ pilar irundyha Jisrael pokõi ñemoñare rehegua.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Jahve ñeʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "oñepyrũ pyaʼe koʼẽmbotápe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽmbotápe"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kurusu renda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "papoĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "irundyha"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "pilar"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:45:59.904858955Z",
+  "model": "glm-5.3"
+}

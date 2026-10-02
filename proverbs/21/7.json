@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Umi ivaíva ñembyai oguerahapaʼãta chuguikuéra, haʼégui ndoipotái ojapo hekojojaha.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "ñembyai"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "oguerahapaʼãta chuguikuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼégui"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ndoipotái"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:37:27.584993657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Jitro, Midian pa'i, Moche túra, ohendu ⟨את⟩ opaite mba'e Elohim ojapova'ekue Moche peg̃uarã ha Jisrael — ijeovyvy — peg̃uarã, Jahve osẽrõ haguére ⟨את⟩ Jisrael Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "túra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e ojapova'ekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moche peg̃uarã"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ha Jisrael peg̃uarã"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ijeovyvy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "osẽrõ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:58.850315789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha oiko pa ára aja rire, Jahve opohano ⟨את⟩ Navál, ha omano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "pa ára aja rire"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "opohano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navál"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navál"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-02T18:59:41.320684008Z",
+  "model": "glm-5.3"
+}

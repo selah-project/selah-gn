@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha katu, soʼo, iñeʼẽrakúre — ituguýre — ani peñembyapy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ha katu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "soʼo"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "iñeʼẽrakúre"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ituguýre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "peñembyapy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:39.465405102Z",
+  "model": "glm-5.3"
+}

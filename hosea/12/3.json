@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jahve oreko ñorãirõ Jehuda ndive, ha ohechakuaa Jaakov pe ikundaha háicha, ijapokuéra háicha oheja chupe mbaʼe ojapovaʼekue.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "ha ohechakuaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ikundaha háicha"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "ijapokuéra háicha"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "oheja chupe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mbaʼe ojapovaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T14:49:57.534909048Z",
+  "model": "glm-5.3"
+}

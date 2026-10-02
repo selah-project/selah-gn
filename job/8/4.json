@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ne membykuéra ojapo ramo ivaíva chupe, ha omondo ⟨chupekuéra⟩ ijejaruru po rupive.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "Ne membykuéra"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ojapo ivaíva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po rupive"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ijejaruru"
+    }
+  ],
+  "timestamp": "2026-10-02T16:49:08.887879092Z",
+  "model": "glm-5.3"
+}

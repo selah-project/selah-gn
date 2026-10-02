@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Peteĩ kikar kuarepoti potĩ rehe ojapo ⟨את⟩ chupe ha ⟨את⟩ opaite iñmbaʼerã.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "peteĩ kikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "potĩ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "chande (pe mbaʼe ojapovaʼekue)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite iñmbaʼerã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "iñmbaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:41.647070299Z",
+  "model": "glm-5.3"
+}

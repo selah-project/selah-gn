@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha opuʼã ha oipeʼa ⟨את⟩ umi mizbeaj oĩva Jerusalaim-pe, ha ⟨את⟩ opaite mikatérot oipeʼa ha omonobi Kidron ysyry gotyo.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mizbeaj"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mikatérot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "mikatérot"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "omonobi"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ysyry gotyo"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-10-02T18:35:18.463375139Z",
+  "model": "glm-5.3"
+}

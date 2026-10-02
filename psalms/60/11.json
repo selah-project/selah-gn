@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Mávapa che moi táva oñembotýva mbaretévape? Mávapa che moñe'ẽ Edom peve?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "che moi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "oñembotýva mbaretévape"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "che moñe'ẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:54.654511743Z",
+  "model": "glm-5.3"
+}

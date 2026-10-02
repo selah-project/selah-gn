@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Upéi Jahve imeña jey Jisrael rehe, ha omonguʼe ⟨את⟩ David umíva rehe, heʼívo: Eho, epapa ⟨את⟩ Jisrael ha ⟨את⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Upéi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "imeña"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "oiñeñarei"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael rehe"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "omonguʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "umíva rehe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "epapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:06.290550293Z",
+  "model": "glm-5.3"
+}

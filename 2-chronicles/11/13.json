@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 11:13",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha umi pa'i ha umi levíta oĩva Jisrael opaitépe, oñemohenda hikuái ichupe, opaite ijerére kuéra gui.",
+  "tokens": [
+    {
+      "surface": "והכהנים",
+      "gloss": "ha umi pa'i"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ha umi levíta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite ... pépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "oñemohenda hikuái"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ijerére kuéra gui"
+    }
+  ],
+  "timestamp": "2026-10-02T18:23:34.912852596Z",
+  "model": "glm-5.3"
+}

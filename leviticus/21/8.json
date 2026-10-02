@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Eremoĩ chupe marangatu ramo, jaguépe haʼe ombojoaju ⟨את⟩ nde Elohim tembiʼu; marangatu oikóta ndeve g̃uarã, pérõ che aiporã marangatu, che Jahve, amoĩ peẽ marangatu ramo.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "eremoĩ chupe marangatu ramo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaguépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde Elohim tembiʼu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tembiʼu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ombojoaju"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pérõ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "amoĩ peẽ marangatu ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:41.312355251Z",
+  "model": "glm-5.3"
+}

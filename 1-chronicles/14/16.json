@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha David ojapo upéicha Elohim ohejaʼypyva chupe, ha oity hikuái ⟨את⟩ pelishtikuéra renda, Gibón guive Gezer peve.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ohejaʼypyva chupe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha oity hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelishtikuéra renda"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "renda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Gibón"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:19.049740833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Añeteguatẽ che akãrái ndéve, Adonai che Elohim, che pyʼapype; ha amombaʼe grandeta ta neʼéra opa árape guare.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "che akãrái ndéve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "che pyʼapype"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ha amombaʼe grandeta ta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neʼéra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa árape guare"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:40.540161042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha ⟨את⟩ opaite umi ojojavýva tapiaitépe, ⟨את⟩ opaite mburuvichakuéra Utz yvýpe, ⟨את⟩ opaite mburuvichakuéra Pelishtim yvýpe, ⟨את⟩ Ashkelon, ⟨את⟩ Aza ha ⟨את⟩ Ekron, ⟨את⟩ Ashdod oiko'ỹ hague.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite umi ojojavýva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "umi ojojavýva tapiaitépe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite mburuvichakuéra Utz yvýpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite mburuvichakuéra Pelishtim yvýpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Ashdod oiko'ỹ hague"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "oiko'ỹ hague"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-10-02T13:29:27.150555372Z",
+  "model": "glm-5.3"
+}

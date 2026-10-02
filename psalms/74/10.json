@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "¿Araka'épa, Elohim, pe ñorairõhára oñe'ẽvai? ¿Ne réra oipy'ýipa pe ñorairõhára pahápe?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "araka'épa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "araka'épa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "oñe'ẽvai"
+    },
+    {
+      "surface": "צר",
+      "gloss": "pe ñorairõhára"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "oipy'ýi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "pe ñorairõhára"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:11.963095863Z",
+  "model": "glm-5.3"
+}

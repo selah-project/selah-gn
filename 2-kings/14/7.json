@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Haʼe ojukapa ⟨את⟩ Edom-pe, Juky kuareʼẽme, pa su; ha oipeʼa ⟨את⟩ Sela ñorãirõme, ha oñembohéra chupe Jokteel, ko árape peve.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Haʼe"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ojukapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "…kuareʼẽme"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Juky"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "ha oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ñorãirõme"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha oñembohéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jokteel héra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "héra"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Jokteel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T12:14:19.892160388Z",
+  "model": "glm-5.3"
+}

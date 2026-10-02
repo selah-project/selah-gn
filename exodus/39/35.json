@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "⟨את⟩ pe mbaʼeruguasu ñeʼẽmeʼẽ pegua, ⟨את⟩ imbojuajuha yvyra kuáa, ⟨את⟩ ichupe kuatia ñemoĩrã.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mbaʼeruguasu ñeʼẽmeʼẽ pegua"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "mbaʼeruguasu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ñeʼẽmeʼẽ pegua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imbojuajuha yvyra kuáa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mbojuajuha yvyra kuáa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ichupe kuatia ñemoĩrã"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kuatia ñemoĩrã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:00.071406193Z",
+  "model": "glm-5.3"
+}

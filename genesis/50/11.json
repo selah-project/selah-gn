@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 50:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha upe yvy rekóva, umi kenaʼani, ohecha ⟨את⟩ pe mbyasy Gorén ha Atad-pe, ha heʼi: Mbyasy guasu ko Mitsraim-pe g̃uarã; upévare oñembohéra chupe Abel-Mitsraim, oĩva Yarden yvate gotyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "rekóva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaʼani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mbyasy"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "mbyasy"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "Gorén-pe"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "ha Atad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Mbyasy"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraim-pe g̃uarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "upéva rehe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oñembohéra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "héra"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Abel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:14.876689297Z",
+  "model": "glm-5.3"
+}

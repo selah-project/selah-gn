@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 49:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ha omoĩ che juru mba'e pichy kyrỹíicha, iyrope ipýpe omokañy cherehe; omoĩ avei cherehe hu'y ipotĩvaicha, hu'yryru ipýpe omokañy cherehe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "mba'e pichy ranguéicha"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "kyrỹi"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "iyrope ipýpe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "החביאני",
+      "gloss": "omokañy cherehe"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "omoĩ avei cherehe"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "hu'y"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "ipotĩva"
+    },
+    {
+      "surface": "באשפתו",
+      "gloss": "hu'yryru ipýpe"
+    },
+    {
+      "surface": "הסתירני",
+      "gloss": "omokañy cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:56:39.716207218Z",
+  "model": "glm-5.3"
+}

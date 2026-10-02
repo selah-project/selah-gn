@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Upéicha ambohovaita ⟨pe⟩ ojoropiʼa che rehegua, cherovia haguáre nde ⟨ñeʼẽme⟩.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ambohovaita"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "ojoropiʼa che rehegua"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peteĩ ñeʼẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cherovia haguáre"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "cherovia"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "nde ñeʼẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:54.876734691Z",
+  "model": "glm-5.3"
+}

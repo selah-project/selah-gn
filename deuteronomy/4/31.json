@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 4:31",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Seÿ Jahve, nde Elohim, haʼehague El pyʼaporãva; ndohejomoʼãinte nde rehe, ani omoñembyai nde, ani oheja iñeʼẽmeʼẽ ⟨את⟩ ne ruãnguéra rehegua, omeʼẽ vaʼekue hikuái chupe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Seÿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "pyʼaporãva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "ndohejomoʼãinte nde rehe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ישחיתך",
+      "gloss": "omoñembyai nde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "oheja iñeʼẽmeʼẽ... rehegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽmeʼẽ ne ruãnguéra rehegua"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ne ruãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "omeʼẽ vaʼekue"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hikuái chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:50:47.436054561Z",
+  "model": "glm-5.3"
+}

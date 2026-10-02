@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ipyahúrõ, ojapo kuñakarai ichugui ⟨את⟩ Maaka, Avchalom tajyra; ha ojaraʼi hese ⟨את⟩ Avia, ⟨את⟩ Atai, ⟨את⟩ Sisa ha ⟨את⟩ Chelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ipyahúrõ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ojapo kuñakarai ichugui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tajyra"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ojaraʼi hese"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avia"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Atai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sisa"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Sisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Chelomit"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:16.586740959Z",
+  "model": "glm-5.3"
+}

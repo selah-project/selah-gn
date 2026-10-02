@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Jahve oisãmbyhy; ejevy'a ⟨⟩ yvy; ejevy'a avei heta yvype ysajakuéra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ejevy'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ejevy'a avei"
+    },
+    {
+      "surface": "איים",
+      "gloss": "yvype ysajakuéra"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:35.767921048Z",
+  "model": "glm-5.3"
+}

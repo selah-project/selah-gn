@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ereko jey che ñeʼẽ nde raʼýpe g̃uarã ha ere hikuere, eĩnguare nde rogape, eguata jave tape rérape, keñuʼi jave ha jepyso ára jave.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ereko jey"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "nde raʼýpe g̃uarã"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ere hikuere"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hikuere"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "eĩnguare"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nde rogape"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "eguata jave"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape rérape"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "keñuʼi jave"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "jepyso ára jave"
+    }
+  ],
+  "timestamp": "2026-10-02T18:51:11.735016002Z",
+  "model": "glm-5.3"
+}

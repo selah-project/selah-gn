@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Upéicharõ ohenói hikuái Jahve-pe iñeñembyasy aja, ha imbaʼeverãguágui oipytyvõ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ohenói hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iñeñembyasy aja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "imbaʼeverãguágui"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "oipytyvõ chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:01.356125291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Jahve oñangareko nderehe opaite ivaígui; oñangareko ⟨את⟩ nde pytu rehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "oñangareko nderehe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite …gui"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde pytu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde pytu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:39.163118640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Emongakuaa ⟨את⟩ nde korasõ korapy ha anive ejopy nde ajuguái.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "emongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde korasõ korapy"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "ha nde ajuguái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ejopy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vei"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:14.414848361Z",
+  "model": "glm-5.3"
+}

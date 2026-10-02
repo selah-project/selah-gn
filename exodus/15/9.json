@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Pe ñorairõhára oheʼi: Aha amboyke chupekuéra, amboja pe ñorairõ mbaʼe, che rekove oñemyanyhẽta chuguikuéra; aheja che haimbe, che pópe ojuka chupekuéra.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "aha amboyke"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "amboyke chupekuéra"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "amboja"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ñorairõ mbaʼe"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "oñemyanyhẽta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "che haimbe"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che pópe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:53.561398738Z",
+  "model": "glm-5.3"
+}

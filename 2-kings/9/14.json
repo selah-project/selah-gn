@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 9:14",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jehu — Yehochafat ra'y, Nimchi memby — oñemoĩ Joram rehe. (Joram oiko va'ekue ohyapu'ovo Ramot, Gil'ad-pe, ha opavave Jisrael, Chazaél, Aram mburuvicha, tenondepeguã.)",
+  "tokens": [
+    {
+      "surface": "ויתקשר",
+      "gloss": "oñemoĩ (oñondive)"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimchi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "ויורם",
+      "gloss": "ha Joram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko va'ekue"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ohyapu'ovo"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "Ramot-pe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tenondepeguã"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaél"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T12:08:39.662781046Z",
+  "model": "glm-5.3"
+}

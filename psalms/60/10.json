@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Moav che jepohéi japo; Edom ári amoĩta che voha; Peleshet, ekachiái che rehe.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "japo"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "che jepohéi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "amoĩta"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "che voha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "ekachiái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:54.654343691Z",
+  "model": "glm-5.3"
+}

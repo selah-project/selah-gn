@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Upéva rire, Jisrael mitãnguéra ojevy ha oheka ⟨את⟩ Jahve, i Elohim-pe, ha ⟨את⟩ David, i mburuvichápe; ha oñemombyasy Jahve rendápe ha iporãkue rehe, ára pahápe.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Upéva rire"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ha oheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "i mburuvicha"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ha oñemombyasy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "iporãkue"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T14:43:19.962013413Z",
+  "model": "glm-5.3"
+}

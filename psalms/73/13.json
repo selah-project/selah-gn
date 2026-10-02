@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Che pehẽngue ano che korasõ — rei — ha ajohyei che po kuimbeʼeʼỹme.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "che"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "rei"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ha ajohyei"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "kuimbeʼeʼỹme"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "che po"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:41.647855063Z",
+  "model": "glm-5.3"
+}

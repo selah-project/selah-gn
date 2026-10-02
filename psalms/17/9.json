@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Umi iñapañuãi vaíva ijypy guive — umíva ombyai cherehe; che ñorãirõhára ku che pytúpe ojerereko che jerere.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ijypy guive"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi iñapañuãi vaíva"
+    },
+    {
+      "surface": "זו",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "ombyai cherehe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "che ñorãirõhára"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "che pytúpe"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "ojerereko hikuái"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che jerere"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:47.645467110Z",
+  "model": "glm-5.3"
+}

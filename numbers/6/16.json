@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha paʼi omboaju chuguakuéra Jahve renondépe, ha ojapóta ⟨את⟩ ichatat ha ⟨את⟩ iolah.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ha omboaju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ha ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ichatat"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ichatat"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "iolah"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "iolah"
+    }
+  ],
+  "timestamp": "2026-10-02T09:18:02.651940168Z",
+  "model": "glm-5.3"
+}

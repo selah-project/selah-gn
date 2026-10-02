@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Mávapa che rehe yvágape? Ha katu, nde ndive che ndaipohýi ⟨mbaʼeve⟩ yvýpe.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Ha katu, nde ndive"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "che ndaipohýi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:03.145387642Z",
+  "model": "glm-5.3"
+}

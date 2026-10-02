@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha katu, nde rejapo jevy pe hembiporã ko'ag̃aite pe okañyva'ekue ⟨את⟩ nde apytégui, kavaju kavaju réirã, kareta kareta réirã; ha ñaisu'ójata ⟨את⟩ chupekuéra takamolopýpe — ndaipóri paʼũ ñanderovaisu'ovéva chuguikuéra hikuái — ha ohendu hikuái hikuái... ha ohendu hikuái iñeʼẽnguéra ha ojapo upéicha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha katu"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "rejapo jevy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hembiporã"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "pe hembiporã"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "okañyva'ekue"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ nde apytégui",
+      "marks": "hembiporã"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kavaju réirã"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "kareta réirã"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ñaisu'ójata"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "takamolopýpe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "ñanderovaisu'ovéva"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "iñeʼẽnguéra"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:58:26.094556560Z",
+  "model": "glm-5.3"
+}

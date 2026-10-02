@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Peẽ pohámbarõ poriahuvereko rã jehaporã, Jahve ha'e haguére iñangarekóha.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "jehaporã"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poriahuvereko rã"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "pohámbarõ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'e haguére"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "iñangarekóha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:35.328175841Z",
+  "model": "glm-5.3"
+}

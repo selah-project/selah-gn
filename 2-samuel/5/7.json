@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha David ojapyhy ⟨את⟩ Tsión ñuʼã — haʼe niko David táva.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsión ñuʼã"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ñuʼã"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsión"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe niko"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:43.702341427Z",
+  "model": "glm-5.3"
+}

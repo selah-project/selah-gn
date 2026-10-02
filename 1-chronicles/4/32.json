@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 4:32",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha i tavaguasu kuéra haʼe Etam, Ain, Rimon, Token ha Ashan — po táva.",
+  "tokens": [
+    {
+      "surface": "וחצריהם",
+      "gloss": "ha i tavaguasu kuéra"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ha Ain"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ha Token"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ha Ashan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    }
+  ],
+  "timestamp": "2026-10-02T18:02:46.404739124Z",
+  "model": "glm-5.3"
+}

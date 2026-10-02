@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Chaʼã ⟨את⟩ pe ohayhúva Jahve ombokatupyry, ha túvaicha ⟨את⟩ memby oguerohory.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ohayhúva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ombokatupyry"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ha túvaicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "memby"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "oguerohory"
+    }
+  ],
+  "timestamp": "2026-10-02T16:26:44.918015341Z",
+  "model": "glm-5.3"
+}

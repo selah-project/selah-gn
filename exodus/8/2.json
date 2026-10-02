@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Aharon orenoʼẽ ⟨את⟩ i po Mitsraim y ári, ha kururu osẽ ojupi, ha oñemboja ⟨את⟩ Mitsraim yvy.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "orenoʼẽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i po"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "y"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "osẽ ojupi"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "kururu"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim yvy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:18.490302627Z",
+  "model": "glm-5.3"
+}

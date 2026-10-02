@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Máva pa oĩ Chamat mburuvicha, ha Arpad mburuvicha, ha Sepharvaim táva mburuvicha, Hena ha Ivá?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Máva pa oĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sepharvaim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ha Ivá"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:19.083363475Z",
+  "model": "glm-5.3"
+}

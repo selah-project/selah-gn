@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 126,
+  "translation": "Purahéi jehasa rapykuegua. Jahve ojevyvo ⟨את⟩ Tsiyon jevy ndive, roiko taʼãrõ apytuéicha.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "jehasa rapykuegua"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ojevyvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon jevy"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "jevy"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "roiko"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "taʼãrõ apytuéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:14.255928055Z",
+  "model": "glm-5.3"
+}

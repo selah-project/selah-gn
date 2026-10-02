@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 54,
+  "translation": "Mbaʼe vai ojevyta che ñorairõhárakuéra ári; ne ñeʼẽmeʼẽ pukukuépe rejukaapa hikuái.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ojevyta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "che ñorairõhárakuéra ári"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ne ñeʼẽmeʼẽ pukukuépe"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "rejukaapa hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:45.910564043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Nde ningo nahániri pe tavayguápe imbovyvyvaʼekuéva iñeʼẽme ha ipohýiva ñeʼẽme rejúva; reju ⟨pe⟩ Jisrael ógape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguápe"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "imbovyvyvaʼekuéva"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "iñeʼẽme"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "ha ipohýiva"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ñeʼẽme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "rejúva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T13:58:25.782614069Z",
+  "model": "glm-5.3"
+}

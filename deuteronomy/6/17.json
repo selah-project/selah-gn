@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Eñangareko pyʼýi ⟨את⟩ Jahve — nde Elohim — ñeʼẽmeʼẽkuéra, ha ijeʼaukuéra ha itekomeʼẽkuéra, omboaje haguéicha ndeve.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "pyʼýi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽmeʼẽkuéra"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ñeʼẽmeʼẽkuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ha ijeʼaukuéra"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ha itekomeʼẽkuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omboaje haguéicha"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:50:09.370444737Z",
+  "model": "glm-5.3"
+}

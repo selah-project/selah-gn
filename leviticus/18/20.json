@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "And with the wife of your fellow you shall not give your lying-with as seed, to become ⟨tame⟩ with her.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ha-pe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ndeirũnguéra mbaʼéva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "remeʼẽ"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "nde kerakuéra"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kuañyi ramo"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "tame hag̃ua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "héndupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:05.324241286Z",
+  "model": "glm-5.3"
+}

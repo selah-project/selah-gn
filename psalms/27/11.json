@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ehechauka chereve nde rape, Jahve, ha eñani chereve tape joja retápe, che ñorãirõhárakuéra reheguáva.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ehechauka chereve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nde rape"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ha eñani chereve"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "tape"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "joja retápe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "reheguáva"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "che ñorãirõhárakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:18.341553817Z",
+  "model": "glm-5.3"
+}

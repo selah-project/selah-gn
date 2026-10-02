@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Che ita pokãi ha che ñemonguʼiha ⟨nde⟩; ha nde réra rayhupápe, nemboguata cherehe ha nereko cherehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "che ita pokãi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ha che ñemonguʼiha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ha … rayhupápe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nemboguata cherehe"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "nereko cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:46.045336786Z",
+  "model": "glm-5.3"
+}

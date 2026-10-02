@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "David rembiapokue. Nde rérape, Jahve, aheja yvate che rekove.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapokue"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Nde rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aheja yvate"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:45.903439266Z",
+  "model": "glm-5.3"
+}

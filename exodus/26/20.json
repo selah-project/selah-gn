@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Michkan yke mokõihápe, yvate yképe, mokõipa yvyrakuã.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Ha yke"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "mokõihápe"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "yképe"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "yvyrakuã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:46:49.225345994Z",
+  "model": "glm-5.3"
+}

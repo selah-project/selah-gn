@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha omeʼẽ che jurúpe purahéi pyahu, ñemombaʼeguasu ñande Elohim-pe; hetakuéra ohecháta ha oñemyangekoita, ha ojeroviáta Jahve-pe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "che jurúpe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ñemombaʼeguasu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ñande Elohim-pe"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ohecháta"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetakuéra"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "oñemyangekoita"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ojeroviáta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:39.985854983Z",
+  "model": "glm-5.3"
+}

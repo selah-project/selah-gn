@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha iporãta Jahve-pe Jehuda ha Jerusalaim minha, yma ára kuéra raʼangaháicha ha arayma kuéra raʼangaháicha.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "iporãta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ha Jerusalaim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ára kuéra raʼangaháicha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yma guare"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "ha ... raʼangaháicha"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "arayma kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:24:46.639804371Z",
+  "model": "glm-5.3"
+}

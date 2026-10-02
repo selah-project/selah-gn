@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Iguére ou Chalmaneser, Assur mburuvicha, ha Hochea oiko chugui ivore ha ohenda chupe peteĩ jerurepy.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "iguére"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Chalmaneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hochea"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ivore"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ohenda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "jerurepy"
+    }
+  ],
+  "timestamp": "2026-10-02T12:17:48.604469880Z",
+  "model": "glm-5.3"
+}

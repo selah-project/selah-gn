@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha umi pelishtim onohẽ Shaúl ha iñemoñarã, ha umi pelishtim ojuka ⟨את⟩ Jonatan, ⟨את⟩ Avinadav, ⟨את⟩ Malkichúa, Shaúl raʼýkuéra.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "onohẽ mbaretépe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "umi pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñemoñarã"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ha iñemoñarã"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "umi pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkichúa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkichúa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Malkichúa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-10-02T11:19:12.337376334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 127,
+  "translation": "Maheʼã: mitãnguéra ⟨haʼehína⟩ Jahve mbaʼerã; jopói haʼehína pe hua sy rogue pegua.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "maheʼã"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mbaʼerã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "jopói"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hua"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "sy rogue pegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:55.371255226Z",
+  "model": "glm-5.3"
+}

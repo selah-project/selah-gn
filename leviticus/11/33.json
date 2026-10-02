@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha opaite mbaʼeryru yvykuʼígui ojapóva, pẽ oho hendápe peteĩ umi vaígui, opaite oĩva ipype okyʼáta; ha ⟨את⟩ pe mbaʼeryru tejajepyhy.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼeryru"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "yvykuʼígui ojapóva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pẽ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "oho"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "umi vaígui peteĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "okyʼáta"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ha ⟨את⟩ pe",
+      "marks": "pe mbaʼeryru yvykuʼígui ojapóva"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "tejajepyhy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:11.597311501Z",
+  "model": "glm-5.3"
+}

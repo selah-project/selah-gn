@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Che, Elohim-pe ahenóita, ha Jahve cheresãsoíta che rekove.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ahenóita"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "cheresãsoíta che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:59.093704944Z",
+  "model": "glm-5.3"
+}

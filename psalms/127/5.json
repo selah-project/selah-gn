@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 127,
+  "translation": "Vy'aiterei pe kuimba'e ombotyvytáva ⟨את⟩ iñyvyra puku ryru hikuái rehe; nahániri ojepy'apýita hikuái, oñe'ẽ rupi hikuái ⟨את⟩ umi ñorãirõhára rokẽme.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Vy'aiterei"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "pe kuimba'e"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "ombotyvytáva"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "iñyvyra puku ryru"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "iñyvyra puku ryru"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "hikuái rehe"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "ojepy'apýita"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "oñe'ẽta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñorãirõhára"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "umi ñorãirõhára"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "rokẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:22.414883251Z",
+  "model": "glm-5.3"
+}

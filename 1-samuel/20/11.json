@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Jonatan he'i David-pe: Eju, ñasẽ karo'y gotyo. Ha umi mokõive osẽ karo'y pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eju"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "ñasẽ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "karo'y gotyo"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "umi mokõive"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "karo'y pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:08.630044033Z",
+  "model": "glm-5.3"
+}

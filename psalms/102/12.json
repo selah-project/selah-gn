@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Che ára kuéra pytũẽ oñemyasãiháicha ⟨oipykuity⟩, ha che kaʼaichagua oñemomichĩmavéva.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Che ára kuéra"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "pytũẽ ... háicha"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "oñemyasãi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kaʼaichagua"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "oñemomichĩmavéva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:54.588964418Z",
+  "model": "glm-5.3"
+}

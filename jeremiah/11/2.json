@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Eñehendu ⟨את⟩ ko ñeʼẽmeʼẽ ñeʼẽnguéra, ha eñeʼẽta Jehuda kuimbaʼérape ha Jerusalaim ikundahárapeguarã.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "eñehendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽmeʼẽ ñeʼẽnguéra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "ha eñeʼẽta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha …-peguarã"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ikundaháva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T13:18:24.291802268Z",
+  "model": "glm-5.3"
+}

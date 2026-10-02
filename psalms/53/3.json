@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 53,
+  "translation": "Elohim oma'ẽ yvágagui yvypóra ra'ýkuéra ári, ohecha hag̃ua oĩpa peteĩ ñemoarandúva, ohekáva ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "oma'ẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ohecha hag̃ua"
+    },
+    {
+      "surface": "היש",
+      "gloss": "oĩpa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "peteĩ ñemoarandúva"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ohekáva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:06.262547640Z",
+  "model": "glm-5.3"
+}

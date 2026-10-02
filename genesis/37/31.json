@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Umi kachíkokuéra ojapo ⟨את⟩ cheʼu ñemonguʼe Yosef-gui; ojuka peteĩ kavara kachuʼi, ha oñemonguʼeseys hese ⟨את⟩ pe aʼãngue, tuguýpe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ojapo cheʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef raʼãngue"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "raʼãngue"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kavara kachuʼi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kavara"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "oñemonguʼeseys hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe raʼãngue"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "pe raʼãngue"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "tuguýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:28.761462498Z",
+  "model": "glm-5.3"
+}

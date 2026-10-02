@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Jahve, ne iporãvape emohenda che yvyty che imbarete ramo; emoñemi ⟨nde jesareko⟩ ha chénte akyhy chondbypa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ne iporãvape"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "emohenda"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "che yvyty"
+    },
+    {
+      "surface": "עז",
+      "gloss": "che imbarete ramo"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "emoñemi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde jesareko"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "chénte"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "akyhy chondbypa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:31.494179780Z",
+  "model": "glm-5.3"
+}

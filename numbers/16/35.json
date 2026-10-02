@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 16:35",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha tata osẽ Jahve ⟨את⟩-gui, ha ho'u ⟨את⟩ mokõi sa poapy pa kuimba'e oñemoĩháva hikuái pe chereja.",
+  "tokens": [
+    {
+      "surface": "ואש",
+      "gloss": "Ha tata"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-gui",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ha ho'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi sa poapy pa kuimba'e oñemoĩháva pe chereja"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "poapy pa"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ha mokõi sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "מקריבי",
+      "gloss": "oñemoĩháva hikuái"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "pe chereja"
+    }
+  ],
+  "timestamp": "2026-10-02T09:27:46.055818079Z",
+  "model": "glm-5.3"
+}

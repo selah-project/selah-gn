@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Che korasõ ojepysopyréva, Elohim; che korasõ ojepysopyréva; apuraheia ta'a ha amba'epu porã.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ojepysopyréva"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ojepysopyréva"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "apuraheia"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "amba'epu porã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:31.318508068Z",
+  "model": "glm-5.3"
+}

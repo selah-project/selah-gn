@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha Moche omog̃uahẽ ⟨את⟩ ihekojojaha Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "omog̃uahẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihekojojaha"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ihekojojaha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:38:37.513672307Z",
+  "model": "glm-5.3"
+}

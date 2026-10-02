@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Moche oguejy yvytygui tavayguápe, ha omombaʼe marangatu ⟨את⟩ tavaygua, ha ojohai hikuái iñaoakuéra.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "omombaʼe marangatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavaygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ojohai hikuái"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "iñaoakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:06.517166418Z",
+  "model": "glm-5.3"
+}

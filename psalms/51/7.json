@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Mañã: che ainóiva'ekue aino ha'ẽme, ha che sy oimeraẽ che ra'ỹi cherehe chatá-pe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Mañã"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "aino ha'ẽme"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "che ainóiva'ekue"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "ha chatá-pe"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "oimeraẽ che ra'ỹi cherehe"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "che sy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:52.043770720Z",
+  "model": "glm-5.3"
+}

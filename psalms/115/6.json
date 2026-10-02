@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Apysa oguereko, ha ndohendúi; tĩ oguereko, ha ndaikatu oñandu ky'a.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "apysa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndohendúi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ndohendúi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaikatu oñandu ky'a"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ndaikatu oñandu ky'a"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:01.934156082Z",
+  "model": "glm-5.3"
+}

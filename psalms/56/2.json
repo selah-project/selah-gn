@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Echeporãi cherehe, Elohim; ougui ojurukatu cherehe yvypóra; opaite ára oñorãirõ ha che jopy.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Echeporãi cherehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ougui"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ojurukatu cherehe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "che jopy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:43.900940713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha omoĩ chupe ha ⟨את⟩ opaite imbaʼeʼoka peteĩ mbojahara tajas pire rehegua yvýre, ha omoĩ pe mbaʼeguerahauka ári.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite imbaʼeʼoka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "imbaʼeʼoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yvýre"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "mbojahara"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pire"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tajas"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "pe mbaʼeguerahauka"
+    }
+  ],
+  "timestamp": "2026-10-02T09:16:54.708385361Z",
+  "model": "glm-5.3"
+}

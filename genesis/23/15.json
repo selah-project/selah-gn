@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Che jára, ehendu cherehe: yvy — irundy sa chekel kesef; che ha nde apytépe, mbaʼépa upéva? Ha reñotỹ ⟨את⟩ nde manórõ.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ehendu cherehe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "chekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kesef"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ha nde apytépe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde manórõ"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "nde manórõ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "reñotỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:58.565179442Z",
+  "model": "glm-5.3"
+}

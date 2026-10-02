@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde mbaʼejerurekuéra ojapove cherehe kuaakýpe che raynoʼíva kuéra rehe; sãiveʼỹre ⟨haʼe⟩ che ndive.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "che raynoʼívakuéra reheguáva"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "ojapove cherehe kuaakýpe"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "nde mbaʼejerurekuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sãiveʼỹre"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨haʼe⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:06.490555471Z",
+  "model": "glm-5.3"
+}

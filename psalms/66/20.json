@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Ojeguerohory Elohim, haʼéva noñemoĩri che ñemboʼe, ha hesed ⟨את⟩ chehegui.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ojeguerohory"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…i"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "noñemoĩri"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñemboʼe"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ha hesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ chehegui",
+      "marks": "che (chehegui)"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:45.248883922Z",
+  "model": "glm-5.3"
+}

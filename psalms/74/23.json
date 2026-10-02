@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Ani remanduʼa ne ñorãirõhára kuéra ñeʼẽ; pe nerãirõhára kuéra javorai ojupi opa ára pukukue.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "remanduʼa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ne ñorãirõhára kuéra"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "javorai"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "nerãirõhára kuéra"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opa ára pukukue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:57.988651712Z",
+  "model": "glm-5.3"
+}

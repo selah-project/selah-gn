@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha pe pa'i ogueraha ⟨את⟩ yvypóra olá; pe olápira, omoĩvaʼekue pa'ípe, chupe ohóta.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ha pe pa'i"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra olá"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pira"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe olá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "omoĩvaʼekue"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pa'ípe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ohóta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:44:27.860856071Z",
+  "model": "glm-5.3"
+}

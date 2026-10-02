@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Che py'aguapy'ỹme ahenói Jahve, ha che Elohim rehe ahayvu: ohendu che ñe'ẽ i óga marangatu guive, ha che ayvu ou iñandu peve, hendi apysápe.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "che py'aguapy'ỹme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ahayvu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "i óga marangatu guive"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñe'ẽ"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ha che ayvu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñandu peve"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "hendi apysápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:24.287303777Z",
+  "model": "glm-5.3"
+}

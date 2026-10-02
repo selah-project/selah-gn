@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Upéicha ojapóta peẽ rehe, Beit-El, peẽ vaígui voi; koʼẽtúpe oñemonguʼe opaiteichagua Jisrael mburuvicha.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ rehe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…gui voi"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "vaiete"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "peẽ vaígui"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "koʼẽtúpe"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "oñemonguʼe"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "opaiteichagua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T14:48:35.385834689Z",
+  "model": "glm-5.3"
+}

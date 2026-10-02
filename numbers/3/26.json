@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha korapý mba'ejováikuéra, ha ⟨את⟩ ⟨pe⟩ mba'ejovái korapý jehekua pegua, oĩva Michkan ha ⟨pe⟩ alter ári ijerére, ha ⟨את⟩ heta iju opa pojopyre pegua.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "ha mba'ejováikuéra"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapý"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mba'ejovái korapý jehekua pegua"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "mba'ejovái"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jehekua"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapý"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heta iju"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "heta iju"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "pojopyre pegua"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:40.797253746Z",
+  "model": "glm-5.3"
+}

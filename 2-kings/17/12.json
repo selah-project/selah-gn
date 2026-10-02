@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha omba'apo hikuái ta'ãngakuéra rehe, umíva Jahve he'i hague chupekuéra: Ani pejapo ⟨את⟩ ko mba'e.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ha omba'apo"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ta'ãngakuéra rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pejapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mba'e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mba'e"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T12:15:56.538418073Z",
+  "model": "glm-5.3"
+}

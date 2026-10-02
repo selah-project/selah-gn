@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve omohenda peteĩ arange'e, he'ívo: Ko'ẽrõ Jahve ojapóta ko ñe'ẽ yvy rérape.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omohenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "arange'e"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ko'ẽrõ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko ñe'ẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy rérape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:38.778966522Z",
+  "model": "glm-5.3"
+}

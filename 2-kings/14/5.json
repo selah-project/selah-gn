@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha upéi, mburuvicharã oñemombarete vove ipópe, ohayhuʼỹrã ojukapa ⟨את⟩ umi imbaʼapoharakuéra, umi ojukavaʼekue ⟨את⟩ pe mburuvicha itúa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "vove"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "oñemombarete"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ojukapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi imbaʼapoharakuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "umi imbaʼapoharakuéra"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "umi ojukavaʼekue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúa"
+    }
+  ],
+  "timestamp": "2026-10-02T12:14:19.891644288Z",
+  "model": "glm-5.3"
+}

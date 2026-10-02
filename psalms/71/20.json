@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Che rehechaukavaʼekuépe heta kyhyje ha mbaʼe vai; eñembojevy emoñemoingove cherehe, ha yvy iñypytũ guasúgui eñembojevy ereino che yvate gotyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che rehechaukavaʼekuépe"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "rehechauka cherehe"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "kyhyje"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ha mbaʼe vai"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "eñembojevy"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "emoñemoingove cherehe"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "ha yvy iñypytũ guasúgui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "eñembojevy"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ereino che yvate gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:59.568423488Z",
+  "model": "glm-5.3"
+}

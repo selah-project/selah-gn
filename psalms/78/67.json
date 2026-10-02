@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha omboguevi Yosef óga guasu, ha Efrayim kuimbaʼeñemoñare apytépe ndojeporavoi.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "omboguevi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "óga guasu apytépe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ha kuimbaʼeñemoñare apytépe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo... (nega)"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ojeporavo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:35.540397864Z",
+  "model": "glm-5.3"
+}

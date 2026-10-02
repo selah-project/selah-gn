@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha ojuehe ⟨את⟩ Moche rehe ha ⟨את⟩ Aharon rehe, oĩ upépe oñemboja hendaguape, osẽkuévo hikuái ⟨את⟩ Paroh renondégui.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "ha ojuehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "oĩ upépe oñemboja hendaguape"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ovendápe"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "osẽkuévo hikuái"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ renondégui",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:11.530849011Z",
+  "model": "glm-5.3"
+}

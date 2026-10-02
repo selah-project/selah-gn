@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Hag̃ua opaite ihekojojaha che ári, ha ihembiapokue che ani aipeʼa chugui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hag̃ua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ihekojojaha"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ha ihembiapokue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "aipeʼa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "chugui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:54.650506599Z",
+  "model": "glm-5.3"
+}

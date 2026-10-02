@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ojapo kampanakuéra itajuete, ha omoĩ ⟨את⟩ umi kampanakuéra umi rimona apytépe, manteo rekáre, ijerére, umi rimona apytépe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "kampanakuéra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kampanakuéra"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "umi kampanakuéra"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "umi rimona"
+    },
+    {
+      "surface": "על",
+      "gloss": "rekáre"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "manteo reraʼã"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "manteo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "umi rimona"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:15.475233051Z",
+  "model": "glm-5.3"
+}

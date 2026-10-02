@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Kanaan ou iñemoñare ⟨את⟩ Tsidon itaʼýra tuichavéva, ha ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ha Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ou iñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "itaʼýra tuichavéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:16.902129069Z",
+  "model": "glm-5.3"
+}

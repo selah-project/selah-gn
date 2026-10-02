@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "⟨את⟩ mesa, ha ⟨את⟩ iyvyrakuãi, ha ⟨את⟩ opaite imbaʼeaporembasa, ha ⟨את⟩ arapu techarã.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyvyrakuãi"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iyvyrakuãi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imbaʼeaporembasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arapu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "arapu"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "techarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:36:05.542060672Z",
+  "model": "glm-5.3"
+}

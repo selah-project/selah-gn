@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Jahve, che Elohim, chejapóramo koʼãva, oĩramo teko vai che pópe,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chejapóramo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "chejapo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oĩramo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "teko vai"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "che pópe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:39.832681955Z",
+  "model": "glm-5.3"
+}

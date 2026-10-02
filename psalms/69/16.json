@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Aníke y syry tuichaitéva ojahoʼi chéve, aníke y apy guasu cheno chéve, ha aníke ykua omboty ijurua che ári.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aníke"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ojahoʼi chéve"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "y syry tuichaitéva"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "aníke"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "cheno chéve"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "y apy guasu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "aníke"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "omboty"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ykua"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ijurua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:43.056938087Z",
+  "model": "glm-5.3"
+}

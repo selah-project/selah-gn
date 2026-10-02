@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oiko pe ára oñeme'ẽtava ⟨את⟩ Merav, Shaúl ra'ýikuña, David-pe, ha oñeme'ẽ chugui Adriel, Meholat-gua, hembireko ramo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pe ára"
+    },
+    {
+      "surface": "תת",
+      "gloss": "oñeme'ẽtava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ýikuña"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "oñeme'ẽ chugui"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Meholat-gua"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "hembireko ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:09:59.707132427Z",
+  "model": "glm-5.3"
+}

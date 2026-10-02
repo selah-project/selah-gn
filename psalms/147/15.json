@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Ohosẽ iñeʼẽ yvy ári; ipyaʼeiterei ohóma hemiandu.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "ohosẽ"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ipyaʼeiterei"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ohóma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hemiandu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:51.503518926Z",
+  "model": "glm-5.3"
+}

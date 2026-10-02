@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Che ipu'ak, nde rehe añe'õmbopu'ãta; rague Elohim che mishkan-icha yvate renda, che hesed Elohim.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "che ipu'ak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "añe'õmbopu'ãta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rague"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "che mishkan-icha yvate renda"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "che hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:05.423033044Z",
+  "model": "glm-5.3"
+}

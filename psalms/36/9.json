@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ojuehe hikuái neóga vevygui, ha emoñu'ã chuguikuéra ne mbopotĩ ykuéra ypýgui.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "ojuehe hikuái"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "vevygui"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "neóga"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ha ... ypýgui"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "ne mbopotĩ ykuéra"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "emoñu'ã chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:15.840930404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Eipeʼa cheve, Jahve, ⟨pe⟩ yvypóra vaígui; eñangareko cherehe ⟨pe⟩ ñorairõháragui.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "eipeʼa cheve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "eñangareko cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:22.081404672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Umi ojeroviáva imba'ekuarãre ha iñarete hetaguére oñemomba'eguasu.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ojeroviáva"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "imba'ekuarãre"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ha hetaguére"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "iñarete"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "oñemomba'eguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:36.988065680Z",
+  "model": "glm-5.3"
+}

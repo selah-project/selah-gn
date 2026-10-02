@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 82,
+  "translation": "Ñembopurahéi Asaf mbaʼéva. Elohim oĩ pytuʼuʼỹme El atyguasu apytépe, Elohim apytépe ojapo hekojoja.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ñembopurahéi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf mbaʼéva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "oĩ pytuʼuʼỹme"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "atyguasu apytépe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ojapo hekojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:24.079911005Z",
+  "model": "glm-5.3"
+}

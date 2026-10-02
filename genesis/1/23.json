@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oiko kaʼaru, ha oiko koʼẽ, ára poha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kaʼaru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "poha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:14.578017885Z",
+  "model": "glm-5.3"
+}

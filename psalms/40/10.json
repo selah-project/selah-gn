@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Atsikuaauka ⟨את⟩ tsedek aty guasúpe; péina, che rembesa'i nda ajokuái, Jahve, nde reikuaa.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "atsikuaauka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "aty... pépe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "péina"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "che rembesa'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda... i"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "ajokuái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:01.668200781Z",
+  "model": "glm-5.3"
+}

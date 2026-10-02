@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Jahve heʼi Kajin-pe: Mbaʼérepa reñembyasy, ha mbaʼérepa nde hova okape?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "reñembyasy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ha mbaʼérepa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "okape"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde hova"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:25.256963072Z",
+  "model": "glm-5.3"
+}

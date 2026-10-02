@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha pe tavayguakuéra oñorairõ Moise ndive, ha he'i hikuái: Eme'ẽ oréve y ja'u haguã. Ha Moise he'i chupekuéra: Mba'ére piko peẽ peñorairõ che rehe? Mba'ére piko peẽ pe'apopa Jahve ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "oñorairõ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavayguakuéra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moise"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'i hikuái"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "eme'ẽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ja'u haguã"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moise"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'ére piko"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "peñorairõ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'ére piko"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "pe'apopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:56.470959316Z",
+  "model": "glm-5.3"
+}

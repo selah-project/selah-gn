@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Moche he'i: Péicha he'i Jahve: Amo pyhare pytũ mbytépe, che aesẽta Mitsraim apytépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כה",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "amo mbytépe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhare pytũ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "aesẽta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:38.761541437Z",
+  "model": "glm-5.3"
+}

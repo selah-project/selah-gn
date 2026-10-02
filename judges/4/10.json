@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Barak ohenói ⟨את⟩ Zevulun ha ⟨את⟩ Naftali Kedeshpe, ha ojupi ipýpe pa su kuimbaʼe — papapy: pa su — ha Devora ojupi hendive — hape: ipýpe.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedeshpe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ipýpe"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-10-02T10:36:54.215581340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha omeʼẽ chupekuéra ijerurekuéra, ha omondo ñatĩ hekoveme.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ijerurekuéra"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ñatĩ"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "hekoveme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:20.515242959Z",
+  "model": "glm-5.3"
+}

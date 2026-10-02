@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Marõ nde reiko che pytyvõrã, ha nde pyuguasu ñemoñandy guýpe che apurahéi vy'ápe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Marõ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "nde reiko"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pytyvõrã"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ha ñemoñandy guýpe"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nde pyuguasu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "che apurahéi vy'ápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:54.272966019Z",
+  "model": "glm-5.3"
+}

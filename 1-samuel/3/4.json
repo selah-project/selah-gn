@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve ohenói Shemuel rehe, ha haʼe heʼi: Aime koʼápe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha haʼe heʼi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Aime koʼápe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:57:32.673141010Z",
+  "model": "glm-5.3"
+}

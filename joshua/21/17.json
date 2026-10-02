@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Binjamín ýpe guive ⟨את⟩ Givón hiʼáva ndive hiʼykarugua, ⟨את⟩ Guevá hiʼáva ndive hiʼykarugua.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ýpe guive"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givón"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givón"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hiʼykarugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hiʼykarugua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Guevá"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Guevá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hiʼykarugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hiʼykarugua"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:41.187206067Z",
+  "model": "glm-5.3"
+}

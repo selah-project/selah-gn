@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha peẽ pejupysýta ⟨את⟩ peẽñarõhára, ha ovevyta peẽ rendápe kyse guasu rehe.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "ha peẽ pejupysýta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽñarõhára"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "peẽñarõhára"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ha ovevyta"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "peẽ rendápe"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kyse guasu rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:05:22.980043816Z",
+  "model": "glm-5.3"
+}

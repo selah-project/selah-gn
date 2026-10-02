@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Oheka hikuái ⟨את⟩ umi teko vai; ojapopa hikuái peteĩ jeheka jeheka-apyrére; ha peteĩnte yvypóra ryepýpeguáva ha pyʼa ⟨guasuete ojekuaaʼỹva⟩.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "Oheka hikuái"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "umi teko vai"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ojapopa hikuái"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "peteĩ jeheka"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "jeheka-apyrére"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ha ryepýpeguáva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ha pyʼa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "guasuete ojekuaaʼỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:24.524760753Z",
+  "model": "glm-5.3"
+}

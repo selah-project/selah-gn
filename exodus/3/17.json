@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha heʼi: Amoĩmbáta ⟨את⟩ peẽ peñembyasy Mitsraim-gui, Kenáana, Heti, Emori, Perisi, Hivi ha Yevusi retãme — retã ojyva kamby ha eíra rehevépe.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Amoĩmbáta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "peñembyasy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenáana"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ha Heti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ha Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ha Perisi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ha Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ha Yevusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ojyva"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kamby"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ha eíra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:34.796338768Z",
+  "model": "glm-5.3"
+}

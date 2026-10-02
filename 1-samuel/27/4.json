@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Oñemomarandu Shaúl-pe David oho asýha Gat-pe, ha nahániri ojapo jey oheka haguã chupe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "oñemomarandu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "oho asy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ojapo jey"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "oheka chupe haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:48.658382589Z",
+  "model": "glm-5.3"
+}

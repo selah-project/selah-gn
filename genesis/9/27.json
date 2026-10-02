@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Pe Elohim oipeʼaite Jafet-pe g̃uarã, ha ⟨Jafet⟩ oikóta Chem ógakuéra ryepýpe, ha Kenaan kambyi ramo oikóta chupekuéra.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "oipeʼaite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "Jafet-pe g̃uarã"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ógakuéra ryepýpe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kambyi ramo oikóta"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:11.182314358Z",
+  "model": "glm-5.3"
+}

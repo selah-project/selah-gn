@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Upeichégui, rasha iñeʼẽ ha mirema iñeʼẽ oipeʼa che rekére, oñeʼẽ ⟨את⟩ che reheve iñeʼẽ japúpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upeichégui"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rasha"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ha iñeʼẽ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mirema"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rekére"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che reheve"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "iñeʼẽ japúpe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "japu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:28.748633300Z",
+  "model": "glm-5.3"
+}

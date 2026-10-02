@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Oĩramo hi'arova umi ndaija'éivape ndéve, eheja chupe ou'u mbujape; ha oĩramo hi'yarova, eheja chupe ou'u y.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "oĩramo"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hi'arova"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "umi ndaija'éivape ndéve"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "eheja chupe ou'u"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha oĩramo"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "hi'yarova"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "eheja chupe ou'u"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T16:40:05.408061149Z",
+  "model": "glm-5.3"
+}

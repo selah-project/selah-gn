@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha pe poapyhápe árape, oñeikytýta iñakãrague roʼo.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ha ... árape"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "poapyha"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "oñeikytýta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "roʼo"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "iñakãrague"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:31.539368164Z",
+  "model": "glm-5.3"
+}

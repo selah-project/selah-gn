@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha embojape ⟨אתו⟩ zaave poʼa reheve: ⟨את⟩ iñakãguasu ha ⟨את⟩ itirekue ijerére, ha ⟨את⟩ irendakuéra; ha ejapo chupe peteĩ jereha zaave pegua ijerére.",
+  "tokens": [
+    {
+      "surface": "וצצית",
+      "gloss": "embojape"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "zaave poʼa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zaave"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "poʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãguasu"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itirekue"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "itirekue"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "irendakuéra"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "irendakuéra"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ejapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "jereha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zaave pegua"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T18:46:51.711120322Z",
+  "model": "glm-5.3"
+}

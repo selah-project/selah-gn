@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Mopypýri, umi vai vaekuā oikundaha ⟨opaitereípe⟩, ojeguerohetývo mbaʼevai vai ⟨yvypóra⟩ raʼỹi kuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "mopypýri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi vai vaekuā"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "oikundaha"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ojeguerohetývo"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "mbaʼevai vai"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼỹi kuéra apytépe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:19.116970611Z",
+  "model": "glm-5.3"
+}

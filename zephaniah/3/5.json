@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jahve oikojoja ⟨ipype⟩, ndojapói mbaʼe vai; koʼẽre koʼẽre iñekojoja omeʼẽ tesakãme, ndojavyi; ha umi vaíva ndaikuaái jaʼe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "oikojoja"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽre"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽre"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "iñekojoja"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "tesakãme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda-"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ikuaái"
+    },
+    {
+      "surface": "עול",
+      "gloss": "vaíva"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "jaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:14:43.182832791Z",
+  "model": "glm-5.3"
+}

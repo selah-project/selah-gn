@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ogueru ⟨את⟩ pe vakaraʼi jejavýpe g̃uarã, ha Aharon ha iñañuangkuéra omoĩ ikuʼãakuéra pe vakaraʼi rog̃u ári, pe jejavýpe g̃uarãva.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vakaraʼi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vakaraʼi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jejavýpe g̃uarã"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ha iñañuangkuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuʼãakuéra"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ikuʼãakuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "rog̃u"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vakaraʼi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jejavýpe g̃uarãva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:42.756026325Z",
+  "model": "glm-5.3"
+}

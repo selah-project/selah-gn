@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Ehekavia chéve tuguygui, Elohim, che Elohim ñemoñarãgua, ha che ñe'ẽ oipurundyta nde tsedek rehe.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ehekavia chéve"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "tuguygui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "che ñemoñarã"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "oipurundyta"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "che ñe'ẽ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "nde tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:06.891084654Z",
+  "model": "glm-5.3"
+}

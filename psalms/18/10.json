@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Omomichĩ yvaga ha oguejy, pytũ vevuimby oĩ ipyguípe.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "omomichĩ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "pytũ vevuimby"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ipy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:03.951090278Z",
+  "model": "glm-5.3"
+}

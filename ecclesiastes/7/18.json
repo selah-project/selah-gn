@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Iporã rejapyhy péva, ha avei pévagui ani reipeʼa nde po ⟨את⟩; pe oñembyasýva Elohim rehegua osẽ ⟨את⟩ opaite umívagui.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rejapyhy"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "rejapyhy"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "péva"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pévagui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "reipeʼa nde po"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oñembyasýva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim rehegua"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umívagui"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opaite umívagui"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:29.878023979Z",
+  "model": "glm-5.3"
+}

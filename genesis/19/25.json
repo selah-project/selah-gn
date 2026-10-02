@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha upéicha omondopa umi táva koʼã, ha ⟨את⟩ opa umi llano, ha ⟨את⟩ opa umi táva içakuéra, ha yvyrakuéra yvygui osẽvaʼekue.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "omondopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi táva koʼã"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "umi táva"
+    },
+    {
+      "surface": "האל",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opa umi llano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "umi llano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opa umi táva içakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "táva içakuéra"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "umi táva"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ha yvyrakuéra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvygui osẽvaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:16.051416861Z",
+  "model": "glm-5.3"
+}

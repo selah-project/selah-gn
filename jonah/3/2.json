@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Eñembovyʼa, eho Nineve pe, táva guasu, ha emonde chupe ⟨את⟩ pe ñeʼẽmondo che ñeʼẽndévagui ndéve.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Eñembovyʼa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ha emonde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñeʼẽmondo"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "pe ñeʼẽmondo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽndévagui"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:01:41.015805681Z",
+  "model": "glm-5.3"
+}

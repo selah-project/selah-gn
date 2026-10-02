@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jahve hesed-kuéra rehe — ndoroñembyahýi moʼã, ijajakaʼikuéra noñembyaʼéi.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed-kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-…-moʼã"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ñembyahýi orerehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hese"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no-…-i"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ñembyaʼe"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ijajakaʼikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:28:06.359351549Z",
+  "model": "glm-5.3"
+}

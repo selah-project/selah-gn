@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ne resãi anive chupe vyʼarõ: tekove tekove rehe, resãi resãi rehe, tẽ tẽ rehe, po po rehe, py py rehe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha … anive"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "vyʼarõ chupe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ne resãi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "tekove rehe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "resãi"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "resãi rehe"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tẽ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "tẽ rehe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po rehe"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "py"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "py rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:59:22.821716058Z",
+  "model": "glm-5.3"
+}

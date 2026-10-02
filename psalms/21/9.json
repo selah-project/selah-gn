@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Nde po ojuhúta opaite umi nde ñorairõhára; nde po akatúape ojuhu ⟨opaite⟩ umi ndaijaʼéiva nderehe.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ojuhúta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "nde ñorairõhára"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nde po akatúape"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "umi ndaijaʼéiva nderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:22.795977628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha oñeʼẽ irũ imburuvichakuéra ha ipuʼakapakuéra ndive oñembopytupa hag̃ua ⟨את⟩ umi y kuʼi oĩva táva okápe; ha umíva oipytyvõ chupe.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ha oñeʼẽ irũ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "imburuvichakuéra"
+    },
+    {
+      "surface": "וגיבוריו → וגבריו",
+      "gloss": "ha ipuʼakapakuéra"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "oñembopytupa hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi y kuʼi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "umi y"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "kuʼi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "okápe"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "ha umíva oipytyvõ chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:36:20.510582285Z",
+  "model": "glm-5.3"
+}

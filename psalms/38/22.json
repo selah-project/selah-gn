@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ani erei cherehe Jahve, che Elohim, ani eñemoĩ mombyry chegui.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "erei cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "eñemoĩ mombyry"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chegui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:25.528525577Z",
+  "model": "glm-5.3"
+}

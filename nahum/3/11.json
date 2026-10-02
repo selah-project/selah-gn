@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Nde avei reñemonanéta, rekañyta; nde avei reka pytyvõrã ñorãirõhára renondépe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "reñemonanéta"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "rekañyta"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "rekañyta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "reka pytyvõrã"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pytyvõrã"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "ñorãirõhára renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:06:09.325551122Z",
+  "model": "glm-5.3"
+}

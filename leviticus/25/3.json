@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Poteĩ ary roñotýta nde kokuépe, ha poteĩ ary roikutiaʼýta nde yva kokue, ha rogueñói hese raʼỹkuéra ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "roñotýta"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "nde kokuépe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha poteĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "roikutiaʼýta"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "nde yva kokue"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ha rogueñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hese raʼỹkuéra"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hese raʼỹkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:03:35.992300660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 87,
+  "translation": "Ha Tsión rehe oje'eta: ko kuimba'e ha ko kuimba'e heñói hese, ha ha'e voi — Elyón — omopyenda hese.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ha Tsión rehe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oje'eta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ko kuimba'e"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha ko kuimba'e"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha ha'e voi"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "omopyenda"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyón"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:12.032528326Z",
+  "model": "glm-5.3"
+}

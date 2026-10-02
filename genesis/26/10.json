@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Avimelej heʼi: mbaʼépa ko rejapo orerehe? Saʼínte, peteĩ tavayguakuéra apytégui orovai ⟨את⟩ nde rembireko rehe, ha remoĩta orerehe hcpārã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelej"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "orerehe"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "saʼínte"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "orovai"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra apytégui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rembireko"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "nde rembireko"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "remoĩta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "orerehe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "hcpārã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:46:20.954172921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha ha'e he'i: Ndaikatúi ajevy ⟨את⟩ ndive, ani aiké ⟨את⟩ ndive; ndaikarúi mbujape, ndau'úi ⟨את⟩ ndive y, ko tendápe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ha'e he'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ndaikatúi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ajevy"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ani aiké"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndaikarúi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "karu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndau'úi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:24.722277071Z",
+  "model": "glm-5.3"
+}

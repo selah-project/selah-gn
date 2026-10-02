@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim omoĩ ⟨את⟩ umi mbaʼevera japepo yvaga ryepýpe, omohesakã hag̃ua yvy ári.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼevera (pe mokõi vera guasu)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "japepo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "omohesakã hag̃ua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:34.047727536Z",
+  "model": "glm-5.3"
+}

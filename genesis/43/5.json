@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha nde ndohemóiramo chupe, ndorohejói; kuimbaʼe heʼi hikuái ore: Peikuaáta che rehecha che rova, ndaipóriramo pe ñemoñare ⟨את⟩ ndive.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha nde ndohemóiramo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ohemóiramo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "ndorohejói"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ore hikuái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "peikuaáta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che rova"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ndaipóriramo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "pe ñemoñare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ndive",
+      "marks": "pe ñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T08:02:28.598281177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Rejevyramo, Jisrael, heʼi Jahve, che rehe rejevy; ha reipeʼáramo umi mbaʼe javy nde rehegua che rendágui, nderejuehemoʼãi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "rejevy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "rejevy"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha ramo"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "mbaʼe javy nde rehegua"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "che rendágui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "nderejuehemoʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T13:12:53.936205995Z",
+  "model": "glm-5.3"
+}

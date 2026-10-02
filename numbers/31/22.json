@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Añónte ⟨את⟩ itaju ha ⟨את⟩ kuarepoti, ⟨את⟩ itakyra, ⟨את⟩ itaguasu, ⟨את⟩ itamichĩ ha ⟨את⟩ itapoyhu:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añónte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaju"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itakyra"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "itakyra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaguasu"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "itaguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itamichĩ"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "itamichĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itapoyhu"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "itapoyhu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:40:03.021983660Z",
+  "model": "glm-5.3"
+}

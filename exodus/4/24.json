@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha oiko tape póri, peteĩ opytahaʼípe: Jahve ojuhu chupe ha ohaʼã ojukáta hese.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape póri"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "opytahaʼípe"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "ojuhu chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ohaʼã"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ojukáta hese"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:58.038563993Z",
+  "model": "glm-5.3"
+}

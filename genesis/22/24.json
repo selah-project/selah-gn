@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha iñembokuaijaʼypy héra Reuma, haʼe katu oguereko ⟨את⟩ Tevah, ⟨haʼe⟩ ha ⟨את⟩ Gaham, ⟨haʼe⟩ ha ⟨את⟩ Tahach, ⟨haʼe⟩ ha ⟨את⟩ Maaha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "iñembokuaijaʼypy"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "héra"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "katu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevah"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gaham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tahach"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maaha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:27.108484101Z",
+  "model": "glm-5.3"
+}

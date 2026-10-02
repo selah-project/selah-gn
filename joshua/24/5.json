@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha che amondo ⟨את⟩ Moche ha ⟨את⟩ Aharon, ha che aipohy ⟨את⟩ Mitsraim, pe che ajapo va'ekue imbytépe, ha upéi che ahesa'ỹijo ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "che amondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ha che aipohy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "che ajapo va'ekue"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "imbytépe"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ha upéi"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "che ahesa'ỹijo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:15.498607390Z",
+  "model": "glm-5.3"
+}

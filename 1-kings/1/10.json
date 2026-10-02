@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ Natan nabi raʼe, ha Benaja, ha ⟨את⟩ ipuʼakakuéra, ha ⟨את⟩ Cholomo ijoykeýpe, ndohenói.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ha Benaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ipuʼakakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cholomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeýpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ndohenói"
+    }
+  ],
+  "timestamp": "2026-10-02T11:36:27.409828236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ohenói Moche ha Aharon pyharetégui, ha heʼi: Epuʼã, esẽ che retãygua apytégui — peẽ avei, avei Jisrael membykuéra; eho ha embaʼapo ⟨את⟩ Jahve rehe, peẽ ñeʼẽ vaʼekue háicha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ha Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyharetégui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Epuʼã"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Esẽ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãygua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "eho"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "embaʼapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "peẽ ñeʼẽ vaʼekue háicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:18:03.377887742Z",
+  "model": "glm-5.3"
+}

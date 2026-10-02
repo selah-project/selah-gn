@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Haʼe Jahve, ñande Elohim; opaite yvy ape ári oĩ iñhekojojaha.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Haʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite-pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "iñhekojojaha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:41.829789506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha ohaʼã ⟨את⟩ jeikeha jeiképe ipe, pa ama; ha jeikeha pukue, pa mbohapy ama.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ohaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeikeha jeiképe ipe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ipe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeiképe"
+    },
+    {
+      "surface": "השער",
+      "gloss": "jeikeha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pukue"
+    },
+    {
+      "surface": "השער",
+      "gloss": "jeikeha"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "pa mbohapy-pe guarã mbohapy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa mbohapy-pe guarã pa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    }
+  ],
+  "timestamp": "2026-10-02T14:36:50.229074934Z",
+  "model": "glm-5.3"
+}

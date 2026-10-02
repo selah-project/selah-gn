@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jehuda oho ⟨את⟩ Shimón, ijaykuápe ndive, ha omondyi ⟨את⟩ kenaani oikóva Tsefat-pe, ha omboguereko ipahápe ⟨את⟩ chupe, ha ohenói ⟨את⟩ pe táva réra Jorma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimón"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimón"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijaykuápe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "omondyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaani"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Tsefat"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "omboguereko ipahápe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táva réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Jorma"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:04.454642058Z",
+  "model": "glm-5.3"
+}

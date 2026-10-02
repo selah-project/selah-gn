@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Añetehápe, nde ⟨⟨reʼe⟩⟩ El eñomíva, Jisrael Elohim, oporosãsova.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "eñomíva"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "oporosãsova"
+    }
+  ],
+  "timestamp": "2026-10-02T12:55:03.854311921Z",
+  "model": "glm-5.3"
+}

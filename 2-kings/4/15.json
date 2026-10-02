@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨he⟩ heʼi: Ehenói chupe. Ha ohenói chupe, ha ⟨kuñakára⟩ oĩ okẽme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ehenói"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "okẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T12:04:32.325904712Z",
+  "model": "glm-5.3"
+}

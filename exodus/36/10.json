@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ojoaju ⟨את⟩ umi poha yvyraropa, peteĩ ambue ndive; ha umi poha yvyraropa ambue, ojoaju peteĩ ambue ndive.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Ha ojoaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi poha yvyraropa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "poha"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "yvyraropa-kuéra"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ambue ndive"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ha umi poha"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "yvyraropa-kuéra"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ambue ndive"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:27.886645749Z",
+  "model": "glm-5.3"
+}

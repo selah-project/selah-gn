@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha che nefesh ovy'áta Jahve rehe, ovy'aitereíta iñesããrãre.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ha che nefesh"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ovy'áta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ovy'aitereíta"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "iñesããrãre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:21.885299046Z",
+  "model": "glm-5.3"
+}

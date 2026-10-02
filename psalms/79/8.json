@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Ani remomba'u ñandéve umi mba'evai ymaguaréva; nde py'aguapukuéra ojuehe py'aite ñandéve, Péicha rovai eterei.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "remomba'u"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "mba'evai"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ymaguaréva"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "py'aite"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ojuehe ñandéve"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "nde py'aguapukuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Péicha"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "rovai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:11.995027585Z",
+  "model": "glm-5.3"
+}

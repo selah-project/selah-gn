@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ojapo ⟨את⟩ umi pyenda, ha ojapo ⟨את⟩ umi yryru pyenda ári.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "umi pyenda"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "umi pyenda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi yryru"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "umi yryru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pyenda"
+    }
+  ],
+  "timestamp": "2026-10-02T18:20:13.937888837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Pe oporoñangarekóvape. David rembiapoque. Pe mbarava heʼi iñpyʼape: ndaipóri Elohim. Ombaʼapo vaípe, ojapo mbaʼe vai opaite; ndaipóri ojapóva mbaʼe porã.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe oporoñangarekóvape"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapoque"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mbarava"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iñpyʼape"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ombaʼapo vaípe"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ojapo mbaʼe vai"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:29.777378625Z",
+  "model": "glm-5.3"
+}

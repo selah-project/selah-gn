@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 25:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Jahve Tsevaot ojapóta ko yvýpe, opaite tavayguakuérape guarã, karu guasu ñandykuéra rehegua, karu guasu kaguy mombyte rehegua, ñandykuéra ikatu ha iporãitéva, kaguy mombyte mboypýi porãva.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite…pe guarã"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karu guasu"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ñandykuéra rehegua"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karu guasu"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "kaguy mombyte rehegua"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ñandykuéra"
+    },
+    {
+      "surface": "ממחים",
+      "gloss": "ikatu ha iporãitéva"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "kaguy mombyte"
+    },
+    {
+      "surface": "מזקקים",
+      "gloss": "mboypýi porãva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:07:26.920408716Z",
+  "model": "glm-5.3"
+}

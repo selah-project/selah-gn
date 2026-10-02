@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha upéi pe pelishto oje'e'a ko'ẽme ha ka'arupe, ha oñemohenda irundyypa ara aja.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "oje'e'a"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelishto"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ka'arupe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundyypa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ara aja"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:19.406414323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Tsedek, tsedek ehapykueho, ikatu hag̃uáicha reiko, ha ereko ⟨את⟩ yvy Jahve nde Elohim ome'ẽva ndeve.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ehapykueho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "katu hag̃uáicha"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "reiko"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ha ereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha'eva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ome'ẽva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:11.686672160Z",
+  "model": "glm-5.3"
+}

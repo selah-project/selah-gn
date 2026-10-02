@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha omoĩ hese ⟨את⟩ ku pechera, ha omoĩ ku pecherape ⟨את⟩ ha Urim ha ⟨את⟩ ha Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku pechera"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ku pechera"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pechera ryepýpe"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ku pechera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:12.348812815Z",
+  "model": "glm-5.3"
+}

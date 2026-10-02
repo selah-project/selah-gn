@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha pe ýpe gueteri réra haʼe Guijon, pe ombojurujáva ⟨את⟩ opaite Kuch yvy.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ha ... réra"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "pe ýpe"
+    },
+    {
+      "surface": "השני",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Guijon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ombojurujáva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Kuch yvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuch"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:04.390387393Z",
+  "model": "glm-5.3"
+}

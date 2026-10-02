@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha pe jasy mokõihápe, papo ha mokõipa po ary jasýpe, pe yvy omokãmbaite.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Ha pe jasýpe"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "papo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ha mokõipa po"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "omokãmbaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:57.457556325Z",
+  "model": "glm-5.3"
+}

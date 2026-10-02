@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Jahve, ehendu che ñemboʼe, ha che ñeʼẽngatuai ou nde reheve.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñemboʼe"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ha che ñeʼẽngatuai"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde reheve"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ou"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:48.475307932Z",
+  "model": "glm-5.3"
+}

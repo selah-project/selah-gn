@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Yosef ombo'e ⟨את⟩ iñangirõikuérape — ⟨את⟩ umi pohanohára — oñemoĩ hag̃ua hi'ári ñandy ⟨את⟩ itúva; ha umi pohanohára oñemoĩ hi'ári ⟨את⟩ Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ombo'e"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñangirõikuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñangirõikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi pohanohára"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "umi pohanohára"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "oñemoĩ hag̃ua hi'ári ñandy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "oñemoĩ hi'ári ñandy"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "umi pohanohára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:26.406080885Z",
+  "model": "glm-5.3"
+}

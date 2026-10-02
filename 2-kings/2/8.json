@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Eliahu ogueru ⟨את⟩ i ao guasu, ombotyapyapy, ha oñypõi ⟨את⟩ ýre; ha y oñemova koʼẽngotyo ha kuarahyresẽngotyo, ha umi mokõive ohasa yvy kyũʼỹre.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ao guasu"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "i ao guasu"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "ombotyapyapy"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "oñypõi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "y"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "oñemova"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼẽngotyo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuarahyresẽngotyo"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "umi mokõive"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "yvy kyũʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T12:00:51.502821732Z",
+  "model": "glm-5.3"
+}

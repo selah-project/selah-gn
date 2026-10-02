@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Kóva ⟨haʼe⟩ ⟨⟨ý guasu⟩⟩ ha ijuasúva ipu'akáre, upépe oĩ mymba oku'éva, ndaipóri ijapapa, mymba michĩva ha guasu orekóva.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ý guasu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ha ijuasúva"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ipu'akáre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mymba oku'éva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ijapapa"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "michĩva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ha... orekóva"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:52.824446913Z",
+  "model": "glm-5.3"
+}

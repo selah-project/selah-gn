@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 52:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Mbaʼépa iporã yvytykuéra ári py ogueraháva marandu porã, oheno pyʼaguapýre, ogueraháva marandu iporãva, oheno ñesãso, heʼíva Tsion-pe: Nde Elohim isãmbyhy!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "נאוו",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "py"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ogueraháva marandu porã"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "oheno"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapýre"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ogueraháva marandu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "oheno"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ñesãso"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼíva"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Tsion-pe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Nde Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T13:00:06.695012066Z",
+  "model": "glm-5.3"
+}

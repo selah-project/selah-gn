@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Upéicharõ, Guivón-Gua rekóva hikuái ohecha ⟨את⟩ pe ojapo Jehoshúa Jerijo rehe ha Hai rehe.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Guivón-Gua rekóva"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Guivón"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ojapo Jehoshúa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshúa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Jerijo rehe"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ha Hai rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:22:09.331507728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha upéi umi tavayguakuéra oñemosarambi opa Mitsraim yvy ári, oheka hag̃ua kapiʼi sukue kapiʼi rangápe.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "oñemosarambi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "oheka hag̃ua"
+    },
+    {
+      "surface": "קש",
+      "gloss": "kapiʼi sukue"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "kapiʼi rangápe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:31.075269905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha oiko pe yvy pegua ave omombegue hikuái Jehuda avakuéra po, ha omongaʼi hikuái ⟨את⟩ chupekuéra omopuʼã hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ave"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy pegua"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "omombegue hikuái"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "po"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ha omongaʼi hikuái"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra (Jehuda avakuéra)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "omopuʼã hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T17:46:50.187719171Z",
+  "model": "glm-5.3"
+}

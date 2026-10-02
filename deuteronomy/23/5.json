@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Upe mbaʼe rehe: noñemonguʼẽi ⟨את⟩ peẽ kuimbeʼe ha ýpe, tape ári, peẽ osẽ aja Mitsraim-gui; ha upéva rehe, ojogua peẽ rehe ⟨את⟩ Bileam, Beor raʼýi, Petor-gui, Aram Naharaim-gui, peẽ kyel vaʼerã.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "upe mbaʼe rehe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo... i"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "noñemonguʼẽi hikuái"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "kuimbeʼe ndive"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ha ý ndive"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape ári"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "peẽ osẽ aja"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha upéva rehe"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ojogua"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "peẽ rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "Petor-gui"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "peẽ kyel vaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:05:34.565487440Z",
+  "model": "glm-5.3"
+}

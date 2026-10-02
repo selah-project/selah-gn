@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Elohim oñemboja rire hekojojahápe, oipytyvõ hag̃ua opaite yvy imichĩva. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "oñemboja rire"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hekojojahápe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "oipytyvõ hag̃ua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "imichĩva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:40.607344716Z",
+  "model": "glm-5.3"
+}

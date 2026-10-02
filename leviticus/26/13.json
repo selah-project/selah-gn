@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Che ahína Jahve, peẽ Elohim, che aipeju ⟨את⟩ peẽ Mitsraim retãgui, eiko'ỹ hag̃ua chupekuéra tembiguái ramo, ha aikangy peẽ jokua kuape'a ha amoĩ peẽ yvategui oikóvo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "che aipeju"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ (Mitsraim retãgui peẽ osẽ hague)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "retãgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "eiko'ỹ hag̃ua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguái"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "ha aikangy"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "jokua kuape'a"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "peẽ jokua kuape'a"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ha amoĩ peẽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ (yvategui oikóvo)"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "yvategui oikóvo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:05:44.026637210Z",
+  "model": "glm-5.3"
+}

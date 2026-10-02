@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Orekuéra ha vakakuéra ndive oho oheka hag̃ua ⟨את⟩ Jahve, ha ndojuhumoʼãi; Jahve oñemombyry ichugui.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "orekuéra ndive"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "vakakuéra ndive"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "oheka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "oñemombyry"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ichugui"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:33.065865933Z",
+  "model": "glm-5.3"
+}

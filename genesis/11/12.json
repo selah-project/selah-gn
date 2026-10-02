@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Arpakshad ekove 35 ary, ha omombaʼy ⟨את⟩ Shelaj.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ha Arpakshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ekove"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "35"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "35"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omombaʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelaj"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:20.494943441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Lea he'i: Che vy'apórãiterãpe, che akãme'ẽrã peikuéra kuñataĩnguéra. Ha upéi ohóvo ohenói ⟨את⟩ héra: Acher.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ha ... he'i"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "che vy'apórãiterãme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che akãme'ẽrã"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "peikuéra ... che akãme'ẽ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kuñataĩnguéra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Acher"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:54.996653424Z",
+  "model": "glm-5.3"
+}

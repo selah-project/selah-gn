@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Taʼãnguera ou heta mbaʼe japoséva apytégui, ha kesil ñeʼẽ ou heta ñeʼẽ apytégui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "taʼãnguera"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "heta ... apytégui"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "mbaʼe japoséva"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ha ... ñeʼẽ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kesil"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "heta ... apytégui"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ñeʼẽkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:14.811035007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Oipe'a peteĩ ⟨lu'ã⟩ ha oha'ãmba hese, ha oguejy pe lu'ã ojapóva ryepýpe.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "lu'ã"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "oha'ãmba hese"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "lu'ã ryepýpe"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ojapóva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:20:49.809792307Z",
+  "model": "glm-5.3"
+}

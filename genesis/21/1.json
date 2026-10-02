@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Jahve ohecha ⟨את⟩ Sara rehe, haʼe haguéicha, ha Jahve ojapo Sarape, haʼe haguéicha oñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ha Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ohecha ⟨rehe⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haʼe haguéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ha ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarape"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haʼe haguéicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:54.741050630Z",
+  "model": "glm-5.3"
+}

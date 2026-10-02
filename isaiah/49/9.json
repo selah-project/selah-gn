@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Heʼi hag̃uáicha umi oĩva kaʼirãme: «Esẽ pe»; ha umi oĩva pytũme: «Jehechauka pe». Okaruta tape ári, ha opaite yvyty nandi ári iñokaruha.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hag̃uáicha"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "umi oĩva kaʼirãme"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "esẽ pe"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ha umi oĩva"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "pytũme"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "jehechauka pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "tape"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "okaruta"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "yvyty nandi"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "iñokaruha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:55:15.339098318Z",
+  "model": "glm-5.3"
+}

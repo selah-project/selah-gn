@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Balak, Tsipor taʼyra, ohecha ⟨את⟩ opa Jisrael ojapovaʼekue Emorita kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "taʼyra"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa (Jisrael ojapovaʼekue)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼéva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Emorita kuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:33:21.588102206Z",
+  "model": "glm-5.3"
+}

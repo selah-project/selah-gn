@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha David oñemombaʼeguasu ⟨את⟩ Jahve opa aty guasu renondépe, ha David heʼi: Iñemombaʼeguasu ndéve, Jahve, Jisrael Elohim, ore ru, yma guare araguara guive araguara peve.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "oñemombaʼeguasu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty guasu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "iñemombaʼeguasu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ore ru"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "yma guare araguara"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "araguara"
+    }
+  ],
+  "timestamp": "2026-10-02T18:17:25.569992933Z",
+  "model": "glm-5.3"
+}

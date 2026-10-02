@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha kohen oguereko peteĩ po peteĩ? — ku'ã peteĩ mincha gui, ⟨את⟩ pe mandu'a rehegua, ha omondyi altar ári; upéi ojapo kuña o'u ⟨את⟩ pe y.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "oku'ã peteĩ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pe mincha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mandu'a rehegua"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "pe mandu'a rehegua"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "omondyi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altar ári"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "ojapo o'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuña"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe kuña"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe y"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    }
+  ],
+  "timestamp": "2026-10-02T09:19:43.413099756Z",
+  "model": "glm-5.3"
+}

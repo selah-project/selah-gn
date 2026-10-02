@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Umi niko koʼãva oñeʼẽvaʼekue Paroh, Mitsraim mburuvichápe, enhẽ hag̃ua ⟨את⟩ Jisrael membykuéra Mitsraimgui. Koʼáva niko Moche ha Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Umi niko"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "koʼãva oñeʼẽvaʼekue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvichápe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "enhẽ hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimgui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Koʼáva niko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ha Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:30.161669605Z",
+  "model": "glm-5.3"
+}

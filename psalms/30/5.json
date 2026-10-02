@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Peñembopu Jahve-pe, i Cheside-kuéra, ha peñe'ẽ aguyje ⟨pe⟩ ñemandu'a i marangatu rehe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "peñembopu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "i Cheside-kuéra"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ha peñe'ẽ aguyje"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ñemandu'a rehe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "i marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:31.493584683Z",
+  "model": "glm-5.3"
+}

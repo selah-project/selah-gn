@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha upéi heʼi: Eho, Daniel, umi ñeʼẽ oñemboty ha oñemboja upe pahague ára peve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha upéi heʼi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(mboyve) haʼeháicharupi"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "oñemboty"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "ha oñemboja"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ára"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "pahague"
+    }
+  ],
+  "timestamp": "2026-10-02T17:41:28.742374992Z",
+  "model": "glm-5.3"
+}

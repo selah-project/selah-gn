@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha David oguereko ⟨את⟩ pe pelichitiano akã ha ogueru Jerusalaim-pe; ha ⟨את⟩ hembipurukue omoĩ ipytiʼãme.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe pelichitiano akã"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pe pelichitiano"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hembipurukue"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hembipurukue"
+    },
+    {
+      "surface": "שם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "ipytiʼãme"
+    }
+  ],
+  "timestamp": "2026-10-02T11:07:40.626460049Z",
+  "model": "glm-5.3"
+}

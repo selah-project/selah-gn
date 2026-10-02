@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Che ahekombo'éta umi ojapovaíva nde tape, ha umi angaipakuéra ojevyta nde rehe.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ahekombo'éta"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "umi ojapovaíva"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nde tape"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ha umi angaipakuéra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ojevyta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:06.890948522Z",
+  "model": "glm-5.3"
+}

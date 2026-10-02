@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ojapo ⟨את⟩ ⟨pe⟩ rakiá, ha ojope ⟨pe⟩ y oĩva rakiá guýpe ha ⟨pe⟩ y oĩva rakiá ári; ha upéicha oiko.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rakiá"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "pe rakiá"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ojope"
+    },
+    {
+      "surface": "בין",
+      "gloss": ""
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiá"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiá"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:26.371618668Z",
+  "model": "glm-5.3"
+}

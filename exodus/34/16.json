@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha reguerekóta imembykuña kuñataĩyrýgui nemembykuérape g̃uarã; ha umi kuñataĩ oiko vaíta iñElohim-kuéra rehe, ha omoiko vaita ⟨את⟩ nemembyéra iñElohim-kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "reguerekóta"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "imembykuña kuñataĩyrýgui"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "nemembykuérape g̃uarã"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "oiko vaíta"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "umi kuñataĩ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "iñElohim-kuéra"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "omoiko vaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nemembyéra"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nemembyéra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "iñElohim-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:23.427211883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "¿Máva pa opaite yvy Elohim apytépe oipe'a hague ⟨את⟩ iñyvy che po gui, Jahve ohapejoko hague ⟨את⟩ Jerusalen che po gui?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite … apytépe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hague"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñyvy"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "iñyvy"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "che po gui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ohapejoko hague"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ohapejoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalen"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "che po gui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:15:44.789036572Z",
+  "model": "glm-5.3"
+}

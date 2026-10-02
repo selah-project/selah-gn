@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Eñemenda ore ndive: ⟨את⟩ ore kuñakuae peẽ meʼẽ oreve, ha ⟨את⟩ ore kuñakuae peẽ eguereko peẽ g̃uarã.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "eñemenda ore ndive"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ kuñakuae"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "peẽ kuñakuae"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "peẽ meʼẽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oreve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ore kuñakuae"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ore kuñakuae"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "peẽ eguereko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:07.200106737Z",
+  "model": "glm-5.3"
+}

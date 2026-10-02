@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha he'írõ jepe «Jahve rekove» upéicha, añetehápe ojururei ñarandu rehe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha he'írõ jepe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ñarandu rehe"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ojururei"
+    }
+  ],
+  "timestamp": "2026-10-02T13:14:17.805583011Z",
+  "model": "glm-5.3"
+}

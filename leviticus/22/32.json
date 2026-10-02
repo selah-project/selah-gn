@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ani pemongueru-che-va'erã ⟨את⟩ che marangatu téra; che añetegua-ta pehẽpehẽ Jisrael membykuéra apytépe; che Jahve, peñangarekóva che rekope'ãngópe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "pemongueru-vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che marangatu téra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "che marangatu"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "chaañeteguáta marangatu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "peñangarekóva che rekope'ãngópe marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:35.948928002Z",
+  "model": "glm-5.3"
+}

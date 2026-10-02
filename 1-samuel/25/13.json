@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 25:13",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha David he'i ijayukuérare: Eñemboja ⟨את⟩ pende syryimba, paitepaite. Ha paitepaite oñemboja ⟨את⟩ i syryimba, ha David avei oñemboja ⟨את⟩ i syryimba. Oho David rapykuére irundy sa kuimbaʼe peve, ha mokõi sa opyta mbaʼe ryru apyte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "ijayukuérare"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "eñemboja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "paitepaite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pende syryimba"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "syryimba"
+    },
+    {
+      "surface": "ויחגרו",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "paitepaite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i syryimba"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "syryimba"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i syryimba"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "syryimba"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rapykuére"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "irundy sa peve"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ha mokõi sa"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "apyte"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mbaʼe ryru"
+    }
+  ],
+  "timestamp": "2026-10-02T11:14:03.763320165Z",
+  "model": "glm-5.3"
+}

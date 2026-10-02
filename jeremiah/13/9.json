@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Upéicha heʼi Jahve: péicha ajavyta ⟨את⟩ Jehuda guaʼembe ha ⟨את⟩ Jerusalaim guaʼembe tuichakue.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ajavyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda guaʼembe"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "guaʼembe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim guaʼembe"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "guaʼembe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "tuichakue"
+    }
+  ],
+  "timestamp": "2026-10-02T13:21:20.676572561Z",
+  "model": "glm-5.3"
+}

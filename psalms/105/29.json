@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Omoambue ⟨את⟩ ykuéra ýva tuichakue jarýipe, ha omboja ⟨את⟩ pira kuéra omano hag̃ua — heʼiséva: ojyvy ýpe tavýi, ha umi pira omano.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "omoambue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "y"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ykuéra"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "jarýipe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pira kuéra"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "pira kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:11.103779977Z",
+  "model": "glm-5.3"
+}

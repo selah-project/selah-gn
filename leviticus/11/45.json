@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upévare che ahágui cheve Jahve, ⟨pe⟩ ogueraha ⟨peẽ⟩ ⟨yvy⟩ Mitsraim-gui, ahávo angatu che aikóvo peẽre Elohim ramo; peẽta peiko marangatu, cheve che ahágui marangatu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ogueraha ⟨peẽ⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨yvy⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ahávo angatu che aikóvo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽre"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ramo"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "peẽta peiko"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    }
+  ],
+  "timestamp": "2026-10-02T08:47:59.725780116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuimbaʼe oke ⟨את⟩ i-ru rembireko, i-ru tajyi oipeʼa, umíva mokõive ojekuaa omano: ituguýkuéra oĩ hendikuéra.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-ru rembireko"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tembireko"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i-ru"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tajyi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i-ru"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ojekuaa omano"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ituguýkuéra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hendikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:48.296442712Z",
+  "model": "glm-5.3"
+}

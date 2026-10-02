@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oheja Juida-pe oheka hag̃ua ⟨את⟩ Jahve, Elohim i ruvichakuéra pegua, ha ojapo hag̃ua ⟨the⟩ Tora ha ⟨the⟩ ñeʼẽmeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha oheja"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Juida-pe"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "oheka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "i ruvichakuéra pegua"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ha ojapo hag̃ua"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ha ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T19:34:46.183747634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha itúva nombyasyʼỹi chupe arakaʼeve heʼívo: Mbaʼérepa rejapo upéicha? Ha haʼe avei iporãiterei ijyvóra; ha isy oguereko ⟨את⟩ ⟨haʼe⟩ Abchalom rire.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha... nda...ʼỹi"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "nombyasyʼỹi chupe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "arakaʼeve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Mbaʼérepa"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Ha... avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãiterei"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ijyvóra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iterei"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "haʼe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abchalom"
+    }
+  ],
+  "timestamp": "2026-10-02T11:36:56.913743759Z",
+  "model": "glm-5.3"
+}

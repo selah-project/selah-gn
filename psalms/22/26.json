@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ndehegui ⟨את⟩ che ñemombaʼeguasu oĩ atyguasúpe; che ñeʼẽmeʼẽkuéra ahẽ umi ojeroviáva chugui renondépe.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "ndehegui ⟨את⟩",
+      "marks": "che ñemombaʼeguasu"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "che ñemombaʼeguasu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "oĩ atyguasúpe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "che ñeʼẽmeʼẽkuéra"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ahẽ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "umi ojeroviáva chugui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:07.665518781Z",
+  "model": "glm-5.3"
+}

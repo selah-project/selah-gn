@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha iñorairõ aty ha umi ojepapapýva: mokõi ha mbohapapy su ha mokõi sa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ha iñorairõ aty"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ha umi ojepapapýva"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapapy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ha mokõi sa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:55.245264105Z",
+  "model": "glm-5.3"
+}

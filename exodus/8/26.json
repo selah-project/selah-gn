@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Moche osẽ Paráo pegui, ojerure Jahve rehe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "pegui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paráo"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:39.024662173Z",
+  "model": "glm-5.3"
+}

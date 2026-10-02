@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Emomba'eguasu Ja, emomba'eguasu ⟨את⟩ Jahve yvágagui, emomba'eguasupe yváva rupi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "emomba'eguasu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "emomba'eguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "emomba'eguasupe"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "yváva rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:07.235931328Z",
+  "model": "glm-5.3"
+}

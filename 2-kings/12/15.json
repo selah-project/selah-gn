@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Péicha rupi omeʼẽ chupekuéra pe apohárape apopy, ha upépe oñemombaʼe ⟨את⟩ Jahve roga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "péicha rupi"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "apohárape"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "apopy"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "omeʼẽ chupe"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ha oñemombaʼe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve roga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:04.813315939Z",
+  "model": "glm-5.3"
+}

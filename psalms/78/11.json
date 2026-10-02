@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha oñemongarai hikuái i mbaʼeapóre, ha i mbaʼe porã guasu ohechauka vaʼekue chupekuéra.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "oñemongarai"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "i mbaʼeapóre"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "i mbaʼe porã guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ohechauka chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:06.307800426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha Echav oiko Seir yvytyrysýipe; Echav haʼe hikuái Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ha ... oiko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Echav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvytyrysýipe"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Echav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe hikuái"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:02.899146760Z",
+  "model": "glm-5.3"
+}

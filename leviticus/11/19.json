@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "ha ⟨את⟩ hachasidaha, ⟨את⟩ haanafaha lemimbiaʼỹrére — ha ⟨את⟩ hadukifat ha ⟨את⟩ haʼatalaf.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hachasidaha"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "hachasidaha"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "haanafaha"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "lemimbiaʼỹrére"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hadukifat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "hadukifat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "haʼatalaf"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "haʼatalaf"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:32.296736731Z",
+  "model": "glm-5.3"
+}

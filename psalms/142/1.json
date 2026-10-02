@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 142,
+  "translation": "Maskil David-pe g̃uarã, oĩramo guare eiraʼõme — ñemboʼe.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "oĩramo guare"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "eiraʼõme"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ñemboʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:33.344225940Z",
+  "model": "glm-5.3"
+}

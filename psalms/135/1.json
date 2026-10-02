@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Ejahei Ja; ejahei ⟨את⟩ Jahve réra; ejahei, Jahve tembiguái kuéra.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ejahei"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ejahei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ejahei"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tembiguái kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:13.862465717Z",
+  "model": "glm-5.3"
+}

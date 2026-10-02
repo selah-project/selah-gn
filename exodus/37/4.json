@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojapo takuakuéra shitim yvyra gui, ha oñembosako'i ⟨אתם⟩ itaju rehe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "takuakuéra"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "oñembosako'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "takuakuéra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:40.604512427Z",
+  "model": "glm-5.3"
+}

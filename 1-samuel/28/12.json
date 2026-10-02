@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha pe kuña ohecha ⟨את⟩ Shemuel, ha osapukai guasu; ha pe kuña he'i Shaúl-pe, o'ívo: ¿Mba'ére piko remba'earõ cherehe? Ha nde — Shaúl!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ha ohecha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe kuña"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "ha osapukai"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "guasúpe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe kuña"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o'ívo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "¿Mba'ére piko"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "remba'earõ cherehe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:01.949131735Z",
+  "model": "glm-5.3"
+}

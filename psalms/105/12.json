@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Oiko jave hikuái umi kuimbaʼe saʼíramo, michĩeterei, ha ambue tetãygua upépe.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Oiko jave hikuái"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "saʼíramo"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "michĩeterei"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "ha ambue tetãygua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:08.469168624Z",
+  "model": "glm-5.3"
+}

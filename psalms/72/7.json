@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Iárakuérape oñapytĩta hekojojaitéva, ha heta py'aguapy, pe jasy okañymba'ávo.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "oñapytĩta"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "iárakuérape"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hekojojaitéva"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ha heta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "py'aguapy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "okañymba'ávo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "jasy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:54.410695891Z",
+  "model": "glm-5.3"
+}

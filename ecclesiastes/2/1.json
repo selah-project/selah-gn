@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Aheʼi che korasõme: Eju, koʼãga tañehaʼã nde vyʼapope ha ehecha mbaʼe iporãva; ha eñandu: kóva avei haʼe ⟨hevel⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aheʼi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "che korasõme"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eju"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼãga"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "tañehaʼã nde"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "vyʼapope"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mbaʼe iporãva"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha eñandu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:37.118559271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Atalia ohendu ⟨את⟩ pu tekove aty ogueraháva ⟨את⟩ mburuvicha omba'eguerusývo, ha ou umi tekove aty rehe, Jahve ógape.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "pu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tekove aty"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "ogueraháva"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "omba'eguerusýva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tekove aty"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:29:45.793639988Z",
+  "model": "glm-5.3"
+}

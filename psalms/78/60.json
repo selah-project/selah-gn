@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha oheja Michkan Shilo pegua, ⟨ápe⟩ óga oiko vaʼekue yvypóra apytépe.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "oheja heseʼỹ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilo pegua"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "óga"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "oiko vaʼekue"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "yvypóra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:38.364406740Z",
+  "model": "glm-5.3"
+}

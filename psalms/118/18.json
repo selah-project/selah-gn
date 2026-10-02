@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Ja oipyguara cherehe, hákatu ndomonoi chéve manópe.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "oipyguara"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "hákatu manópe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "monoi chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:21.935405428Z",
+  "model": "glm-5.3"
+}

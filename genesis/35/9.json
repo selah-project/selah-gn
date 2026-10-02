@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha Elohim ojehecha jevy Jaakov-pe, ou jave hese Padán-Aram-gui, ha omoñemî ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ojehecha jevy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jevy"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ou jave hese"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Padán-gui"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ha omoñemî"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "chupe (Jaakov)"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:39.091025805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Oiporúpa ⟨את⟩ chupekuéra umi tetãnguéra tupã, pe che ruvichakuéra ombekañy — ⟨את⟩ Chosán, ⟨את⟩ Harán, Rechef ha Eden taʼýra, oĩva Telasar-pe?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Oiporúpa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra (umi tetã)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tupã"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ombekañy"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "che ruvichakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chosán"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Chosán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Harán"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harán"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "Rechef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "Telasar-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:04.526520828Z",
+  "model": "glm-5.3"
+}

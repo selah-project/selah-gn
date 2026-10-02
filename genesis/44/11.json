@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Ha oipota pyaʼe, ha peteī teī ogueru ⟨את⟩ imbaʼuruʼã yvy pehēngue, ha peteī teī oiñepyrū imbaʼuruʼã.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "oipota pyaʼe"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteī teī"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼuruʼã"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "imbaʼuruʼã"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvy pehēngue"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ha oiñepyrū"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteī teī"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "imbaʼuruʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:54.081730721Z",
+  "model": "glm-5.3"
+}

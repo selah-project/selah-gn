@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Yvágaguy guyraʼi ha para pira kuéra, ha opa mbaʼe ohasáva para rapekuéra rupi.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "guyraʼi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ha pira kuéra"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasáva"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "rapekuéra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "para"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:19.919089026Z",
+  "model": "glm-5.3"
+}

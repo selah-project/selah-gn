@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Opaite ovoi, ojoajupy oñembyai; ndaipóri ojapóva mbaʼe porã, ndaipóri, peteĩnte avei.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ovoi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojoajupy"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩnte"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:29.777789815Z",
+  "model": "glm-5.3"
+}

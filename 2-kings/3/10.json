@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jisrael mburuvicha he'i: Aha! Jahve ohenói ⟨את⟩ hikuái ko'ã mburuvicha mbohápe ome'ẽ hag̃ua ⟨את⟩ chupekuéra Moab ipópe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "mbohápe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ome'ẽ hag̃ua"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "ome'ẽ Moab ipópe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-02T12:01:38.553046292Z",
+  "model": "glm-5.3"
+}

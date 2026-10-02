@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Balak he'i Bileam-pe: ni reñe'ẽ vai hesekuéra, ni eñe'ẽ porã hesekuéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קב",
+      "gloss": "reñe'ẽ vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "reñe'ẽ vai hesekuéra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "eñe'ẽ porã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "eñe'ẽ porã hesekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:34:29.094097784Z",
+  "model": "glm-5.3"
+}

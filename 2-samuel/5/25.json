@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha David ojapo upéicha, omyesakã haguéicha Jahve chupe; ha oñemoĩ ⟨את⟩ pelesitakuéra rehe, Geva guive ag̃e reju haguẽ peve Gézer-pe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "omyesakã haguéicha"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "omyesakã chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oñemoĩ rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelesitakuéra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelesitakuéra"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Geva guive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ag̃e"
+    },
+    {
+      "surface": "באך",
+      "gloss": "reju haguẽ peve"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gézer"
+    }
+  ],
+  "timestamp": "2026-10-02T11:20:16.268075004Z",
+  "model": "glm-5.3"
+}

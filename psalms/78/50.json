@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ojesareko hembipotáre, ojepóvo tape; ndaijáy iñakãgua kueraʼãngue, oheja hikuái mbaʼeasai rovake.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "ojepóvo"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "tape"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "hembipotáre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaijá-i"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ndaijáy"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kueraʼãngue"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "iñakãgua"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mbaʼeasai"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "rovake"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:28.293490142Z",
+  "model": "glm-5.3"
+}

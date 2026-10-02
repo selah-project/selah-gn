@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Chemuel heʼi ⟨ʼavakuéra⟩ rehe: Jahve ⟨haʼe⟩ pe ojapo ⟨את⟩ Moche ha ⟨את⟩ Aharon, ha ogueru ⟨את⟩ peẽ túvakuéra yvy Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ʼavakuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha vaʼekue"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ túvakuéra"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "peẽ túvakuéra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:49.464055454Z",
+  "model": "glm-5.3"
+}

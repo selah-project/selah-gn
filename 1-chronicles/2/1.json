@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Umi ⟨⟨⟩⟩ haʼe Jisrael raʼakuéra: Reuvén, Chimon, Levi, Jehuda, Jisaskar ha Zevulún.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Umi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvén"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ha Jehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jisaskar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ha Zevulún"
+    }
+  ],
+  "timestamp": "2026-10-02T18:00:35.552342204Z",
+  "model": "glm-5.3"
+}

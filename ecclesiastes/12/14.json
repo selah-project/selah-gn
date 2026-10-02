@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Upévare Elohim oguerúta ⟨את⟩ opa mbaʼe ojapóva hekojojaha rupi, opa kañymby rehe, iporãrõ térã ivaírõ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe ojapóva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mbaʼe ojapóva"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "oguerúta"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojojaha rupi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "kañymby"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "térã"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ivaí"
+    }
+  ],
+  "timestamp": "2026-10-02T17:25:11.836340898Z",
+  "model": "glm-5.3"
+}

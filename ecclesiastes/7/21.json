@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Avei opaite ñeʼẽnguéra oñeʼẽvape, anive emeʼẽ nde pyʼa, ani rehendu ⟨את⟩ nde tembiguái omboaña nderehe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽvape"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anive"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde pyʼa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rehendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde tembiguái"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde tembiguái"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "omboaña nderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:28.524711868Z",
+  "model": "glm-5.3"
+}

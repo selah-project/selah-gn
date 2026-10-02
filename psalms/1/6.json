@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve oikuaa marangatukuéra tape; umi ivaíva tape katu oñembyai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יודע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marangatukuéra"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tape katu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "oñembyai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:42.050015822Z",
+  "model": "glm-5.3"
+}

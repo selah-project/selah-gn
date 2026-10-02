@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve ou ha oñembyaty ha ohenói jeypaite háicha: Chemuel, Chemuel. Ha Chemuel he'i: Eñe'ẽ, nimbo che rovai ohendúva.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "jeypaite háicha"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "jeýpe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nimbo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendúva"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "che rovai"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:46.619602360Z",
+  "model": "glm-5.3"
+}

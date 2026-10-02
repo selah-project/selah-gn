@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ahekaita peẽ apytépe, ha ahaʼéta peẽme Elohim ramo, ha peẽ peikóta cheramo avanoʼõ ramo.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ahekaita"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "peẽ apytépe"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ahaʼéta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ramo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ha peẽ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "peikóta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cheramo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "avanoʼõ ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:31.075317999Z",
+  "model": "glm-5.3"
+}

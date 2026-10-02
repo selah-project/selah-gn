@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 123,
+  "translation": "Eñakasõ ñandére, Jahve, eñakasõ ñandére, upéva rehe hetaiterei ñande jehenyhẽ jekyii rehe.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Eñakasõ ñandére"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "eñakasõ ñandére"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéva rehe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "ñande jehenyhẽ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "jekyyi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:53.468302246Z",
+  "model": "glm-5.3"
+}

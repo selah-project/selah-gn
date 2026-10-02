@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Jahve, remoĩ ñandéve pytuʼu, ha katu avei opaite ñande rembiaporã nde rembapo ñandéve.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "remoĩ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pytuʼu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha katu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ñande rembiaporã"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "rembapo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    }
+  ],
+  "timestamp": "2026-10-02T12:38:59.886470269Z",
+  "model": "glm-5.3"
+}

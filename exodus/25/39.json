@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Peteĩ kikar oro marangatu-pe ojapóta ⟨את⟩ chupe, ⟨את⟩ opaite ko'ã mba'e kuéra.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "peteĩ kikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chupe ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e kuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mba'e kuéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:26:54.947469814Z",
+  "model": "glm-5.3"
+}

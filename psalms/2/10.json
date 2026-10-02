@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Upémarõ koʼág̃a, mburuvichakuéra, peñemoñeʼẽ kuaapyrére; peñemoarandu, yvy hekojojahaharakuéra.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Upémarõ koʼág̃a"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "peñemoñeʼẽ kuaapyrére"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "peñemoarandu"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hekojojahaharakuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:49.410558839Z",
+  "model": "glm-5.3"
+}

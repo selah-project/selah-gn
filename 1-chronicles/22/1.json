@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha David heʼi: Kóva haʼe ⟨⟨haʼe⟩⟩ Jahve Elohim óga, ha kóva haʼe ⟨⟨haʼe⟩⟩ juelo jeporurã Jisrael g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha … heʼi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "juelo jeporurã"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "juelo peg̃uarã"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:12:36.416559109Z",
+  "model": "glm-5.3"
+}

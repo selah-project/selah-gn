@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Che opaite jejavykuéra gui che peʼa; ani remboypy cherehe vai pe naija'e'ívape.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "opaite...gui"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "che jejavykuéra"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "che peʼa"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "cherehe vai"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "pe naija'e'íva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "remboypy cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:17.575681411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Umi Jahve ndaijaʼéiva oñemboguapy chupe, ha arakuéra oiko hikuái opaʼỹre.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Umi ... ndaijaʼéiva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "oñemboguapy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "arakuéra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:11.713623351Z",
+  "model": "glm-5.3"
+}

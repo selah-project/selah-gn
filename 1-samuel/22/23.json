@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Eiko ⟨את⟩ che ndive, ani rejesareko; pe oheka ⟨את⟩ che rekove ohekátape ⟨את⟩ nde rekove; che añangarekóta nderehe, che ndive reiko rupi.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "eiko"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ndive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "rejesareko"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che rekove"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ohekátape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rekove"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde rekove"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "añangarekóta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "che ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:41.732154911Z",
+  "model": "glm-5.3"
+}

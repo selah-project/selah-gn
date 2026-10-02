@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Elohim, purahéi pyahu apuranahẽ ndéve; nevel po cuerda reheve apuranahẽ ndéve che momaranduhápe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "apuranahẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevel reheve"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "po cuerdagua"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "apuranahẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:53.204803468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde ára ehesakã nde mba'apohárape, ha embo'e cherehe ⟨את⟩ nde ñemohendakuéra.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "nde ára"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ehesakã"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "nde mba'apohárape"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ha embo'e cherehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ñemohendakuéra"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "nde ñemohendakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:39.855106187Z",
+  "model": "glm-5.3"
+}

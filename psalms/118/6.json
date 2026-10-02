@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Jahve ⟨che reheguáva⟩; nda che rekyreʼẽitéi: mbaʼépa ojapóta chéve ⟨⟩ yvypóra?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che reheguáva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…î"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "che rekyreʼẽ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:01.252399097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Omano avei umokõi, Majlon ha Kiljon, ha ⟨pe⟩ kuña opyta imokõi mitã rehe ha ijarágui.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "Omano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "umokõi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Majlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ha Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ha opyta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "משני",
+      "gloss": "imokõi"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ha ijarágui"
+    }
+  ],
+  "timestamp": "2026-10-02T17:13:07.715964431Z",
+  "model": "glm-5.3"
+}

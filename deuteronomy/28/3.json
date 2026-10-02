@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Oñeme'ẽporãta nde távape, ha oñeme'ẽporãta nde kokuépe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Oñeme'ẽporãta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ha oñeme'ẽporãta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokuépe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:55.418662865Z",
+  "model": "glm-5.3"
+}

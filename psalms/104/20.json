@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Nde remoĩ pytereĩ ha oiko pyhare; ipype opaite kaʼaguy mymbakuéra osẽ oiko.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Nde remoĩ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytereĩ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "osẽ oiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mymbakuéra"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kaʼaguy"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:07.302609900Z",
+  "model": "glm-5.3"
+}

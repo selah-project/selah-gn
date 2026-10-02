@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 114,
+  "translation": "Mbaʼépa ndeve, para, mbaʼérepa reho? Yardén, mbaʼérepa ejevy tapykue gotyo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "reho"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "tapykue gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:43.349695120Z",
+  "model": "glm-5.3"
+}

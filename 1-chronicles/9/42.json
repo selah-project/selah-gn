@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Ahaz omenói ⟨את⟩ Jarah, ha Jarah omenói ⟨את⟩ Alemet, ⟨את⟩ Azmavet ha ⟨את⟩ Zimri, ha Zimri omenói ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ha Ahaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarah"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jarah"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "ha Jarah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aznavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ha Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:33:06.362936546Z",
+  "model": "glm-5.3"
+}

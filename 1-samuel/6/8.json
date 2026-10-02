@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha peipeʼa ⟨את⟩ Jahve aróna, pemohã ⟨a⟩ kareta ári; ha ⟨את⟩ umi itaju mbaʼe pemeʼẽ jeýva chupe tejava rã, pemohã peteĩ mbaʼeʼokápe ijavýpe; ha epemondo ha oho.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "peipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve aróna"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aróna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "pemohã"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kareta ári"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itaju mbaʼe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "pemeʼẽ jeýva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "tejava"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "pemohã"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "mbaʼeʼokápe"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "ijavýpe"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "pemondo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kareta"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "oho"
+    }
+  ],
+  "timestamp": "2026-10-02T10:58:17.939141967Z",
+  "model": "glm-5.3"
+}

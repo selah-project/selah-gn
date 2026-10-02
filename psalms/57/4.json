@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Omondo yvágagui ha chéve osalvóta chépe ojejeruri, che juru ryapýpe oĩva; Selah. Elohim omondo ⟨isã⟩ hesed ha iñe'ẽ añetegua.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "chéve osalvóta"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ojejeruri"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "che juru ryapýpe oĩva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "iñe'ẽ añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:38.564931973Z",
+  "model": "glm-5.3"
+}

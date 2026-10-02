@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Che mba'emosere'ýnga ndaha'éi peẽ nguate'ẽmbýnga, ha ndaha'éi peẽ nguatévagui che nguatéva, he'i Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaha'éi"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "che mba'emosere'ýnga"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "peẽ nguate'ẽmbýnga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaha'éi"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "peẽ nguatévagui"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "che nguatéva"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T19:06:48.873486599Z",
+  "model": "glm-5.3"
+}

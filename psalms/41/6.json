@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Che ñorãirõhárakuéra oñeʼẽ mbaʼevaí che rehe: arakaʼépa haʼe omano, ha okañypa héra?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "che ñorãirõhárakuéra"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼevaí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "arakaʼépa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "haʼe omano"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ha okañypa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:37.431149006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha avei, Jahve, nde Elohim, omonóta ⟨את⟩ umi kachi ichuguakuéra apytepe, oñembyai peve umi oîva ha umi oñomi vaʼekue nde resáive.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kachi"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "umi kachi"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "omonóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ichuguakuéra apytepe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "umi oîva"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "ha umi oñomi vaʼekue"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nde resáive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:31.303713981Z",
+  "model": "glm-5.3"
+}

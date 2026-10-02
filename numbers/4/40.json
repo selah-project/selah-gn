@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ipapapykuéra ojepyso ikuéra ogasukuéra, itúva óga rupive: mokõi su, poteĩ sa ha mbohapypa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ha ojepyso"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ipapapykuéra"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ikuéra ogasukuéra"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "óga rupive"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mokõi su"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapypa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:50.473735105Z",
+  "model": "glm-5.3"
+}

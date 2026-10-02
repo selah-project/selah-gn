@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Che ahaʼãrõ Jahve rehe, ahaʼãrõ che rekove, ha iñeʼẽre ahayhuʼã.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "ahaʼãrõ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "ahaʼãrõ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "ha iñeʼẽre"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ahayhuʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:23.852384181Z",
+  "model": "glm-5.3"
+}

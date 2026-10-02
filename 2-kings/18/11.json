@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Asur mburuvicha ogueraha ⟨את⟩ Jisrael Asur-pe, ha omoĩ chuguikuéra Chalach-pe, Chavor ýpe, Gozan ysyry rembeʼýpe, ha Madai távakuéra rupi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Asur-pe"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "omoĩ chuguikuéra"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Chalach-pe"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "Chavor ýpe"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ha távakuéra rupi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    }
+  ],
+  "timestamp": "2026-10-02T19:06:31.060564699Z",
+  "model": "glm-5.3"
+}

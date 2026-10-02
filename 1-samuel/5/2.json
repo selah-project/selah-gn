@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Umi pelishtí ogueraha ⟨את⟩ Elohim mba'eryru, ha ogueru ⟨את⟩ Dagon óga pe, ha oñemohã ⟨את⟩ oĩ hagua Dagon ykére.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "umi pelishtí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mba'eryru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mba'eryru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon óga pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "oñemohã"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon ykére"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ykére oĩ hagua"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-02T10:57:42.866630492Z",
+  "model": "glm-5.3"
+}

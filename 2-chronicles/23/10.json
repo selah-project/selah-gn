@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha omohenda ⟨את⟩ opaite tekove aty, tayvetéva imba'e ha'ẽ i pópe, ogakã katu'ýgui ogakã asúpe, ñembo'a renda ha óga mbytépe, mburuvicha rekópe ojerere hese.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "omohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tekove aty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tekove aty"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tayvetéva"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "imba'e ha'ẽ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i pópe"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "guerekokãgui"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ógakã"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "katu'ýgua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "guerekokã"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ógakã"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "asúgua"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ñembo'a renda"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ha óga"
+    },
+    {
+      "surface": "על",
+      "gloss": "reképe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ojerere"
+    }
+  ],
+  "timestamp": "2026-10-02T18:29:45.793056066Z",
+  "model": "glm-5.3"
+}

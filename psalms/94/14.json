@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Ha katu Jahve ndohejamoʼãi iñemoñare, ha umi mbaʼe jaovaʼãva iñemoñare pegua ndohejamoʼãi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha katu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...ãi"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ndohejamoʼãi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ha umi mbaʼe jaovaʼãva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...ãi"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ndohejamoʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:51.717497955Z",
+  "model": "glm-5.3"
+}

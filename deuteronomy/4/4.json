@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha peẽ, peẽ oñembojoajúva Jahve, peẽ Elohim, ndive, peẽ opaite rekorýma ko'ág̃a.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ha peẽ"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "oñemboajúva"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve ndive"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rekorýma"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "peẽ opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko'ág̃a"
+    }
+  ],
+  "timestamp": "2026-10-02T09:50:24.130992173Z",
+  "model": "glm-5.3"
+}

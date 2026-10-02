@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha emohenda pe mitsnefet iñakã ári, ha emoĩ ⟨את⟩ pe nezer marangatu pe mitsnefet ári.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "emohenda"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "pe mitsnefet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe nezer"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "pe nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "pe mitsnefet"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:39.029764831Z",
+  "model": "glm-5.3"
+}

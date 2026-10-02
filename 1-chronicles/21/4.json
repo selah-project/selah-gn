@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Hákatu ⟨the⟩ mburuvicha ñeʼẽ ou hese Joab ári, ha Joab osẽ ha oho heta hendárupi opaite Jisrael rupi, ha oguahẽ Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ou hese"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "oho heta hendárupi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oguahẽ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:54.997369019Z",
+  "model": "glm-5.3"
+}

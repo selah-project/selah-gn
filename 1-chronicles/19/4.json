@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Upévare Janun oguereko ⟨את⟩ David rembiguáikuéra, oyeapytũ chupekuéra, okytỹ ⟨את⟩ kuao hikuái mbyte pukúpe, tundy meve, ha omondivo chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Janun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David rembiguáikuéra"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguáikuéra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "oyeapytũ chupekuéra"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "okytỹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuao hikuái"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "kuao hikuái"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "mbyte pukúpe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "tundy"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "omondivo chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:23.925138065Z",
+  "model": "glm-5.3"
+}

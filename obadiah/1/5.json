@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "obadiah 1:5",
+  "book": "obadiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Oĩramo mondahaikuéra nde rehe, oĩramo pyhare kambychikuéra — mbaʼéichapa nde konisẽma! — ndajaʼéipa omondata ohóvo iporãva? Oĩramo yva kanýha oúva nde rehe, ndajaʼéipa oheja hikuái yva raʼẽmimi?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Oĩramo"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "mondahaikuéra"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oĩramo"
+    },
+    {
+      "surface": "שודדי",
+      "gloss": "kambychikuéra"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "איך",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "נדמיתה",
+      "gloss": "nde konisẽma"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ndajaʼéipa"
+    },
+    {
+      "surface": "יגנבו",
+      "gloss": "omondata ohóvo"
+    },
+    {
+      "surface": "דים",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oĩramo"
+    },
+    {
+      "surface": "בצרים",
+      "gloss": "yva kanýha"
+    },
+    {
+      "surface": "באו",
+      "gloss": "oúva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ndajaʼéipa"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "oheja hikuái"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "yva raʼẽmimi"
+    }
+  ],
+  "timestamp": "2026-10-02T19:18:07.235768178Z",
+  "model": "glm-5.3"
+}

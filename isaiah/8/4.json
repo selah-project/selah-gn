@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Mboyve mitã ikuaa heʼi hague che ru, che sy, oñemonguera ⟨את⟩ Damaseko viru ha ⟨את⟩ Chomeron mbokuatia, Achur mburuvicha renondépe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ikuaa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "che sy"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "oñemonguera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damaseko viru"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "viru"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chomeron mbokuatia"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "mbokuatia"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achur"
+    }
+  ],
+  "timestamp": "2026-10-02T12:29:18.497200440Z",
+  "model": "glm-5.3"
+}

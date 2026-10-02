@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ogueru ⟨את⟩ Michkan Moche peve, ⟨את⟩ haimbe ogaháa ha ⟨את⟩ opaite mbaʼe apopyre — iñembojaohaguasu, itavoi, iñakaraguasu, ita yvyra ha ikorasã yvyre.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haimbe ogaháa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "haimbe ogaháa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite mbaʼe apopyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mbaʼe apopyre"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "iñembojaohaguasu"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "itavoi"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "iñakaraguasu"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "ha ita yvyra"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "ha ikorasã yvyre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:00.070918870Z",
+  "model": "glm-5.3"
+}

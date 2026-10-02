@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Jeikuaa iñarandýva cherehe guive — iñyvate, ndaikatúi che g̃uarã.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "iñarandýva"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "jeikuaa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "cherehe guive"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "iñyvate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ikatúi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "che g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:51.765689736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ⟨את⟩ Jeuts, ha ⟨את⟩ Chakhja, ha ⟨את⟩ Mirma — koʼãva haʼe imembykuéra, rovichañondu tekuái ojapóva avakuéra aty.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Chakhja"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Chakhja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Mirma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "rovichañondu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "avakuéra aty tekuái ojapóva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:39.288421202Z",
+  "model": "glm-5.3"
+}

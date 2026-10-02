@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Che kyraikuéra ha che angirũkuéra reheguaitépa, añe'ẽta katu: toĩ tekojoja nde ryepýpe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "reheguaitépa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che kyraikuéra"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ha che angirũkuéra"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "añe'ẽta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "katu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:47.860545328Z",
+  "model": "glm-5.3"
+}

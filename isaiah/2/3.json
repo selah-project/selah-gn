@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 2:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha hetaiterei tetãnguéra ou ha heʼíta: Eju, jajupi Jahve yvyty pe, Jaakov Elohim óga pe; ha haʼete ore ñande aravo kuera: ha ore jaha hese tape kuéra. Tsiyon guio Tora osẽta, ha Jahve ñeʼẽ Jerusalen guio.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "heʼíta"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Eju"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "jajupi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "haʼete ore"
+    },
+    {
+      "surface": "מדרכיו",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "jaha"
+    },
+    {
+      "surface": "בארחתיו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "כי",
+      "gloss": "guio"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyon guio"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "osẽta"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusalen guio"
+    }
+  ],
+  "timestamp": "2026-10-02T12:26:11.941688195Z",
+  "model": "glm-5.3"
+}

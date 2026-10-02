@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Ani oñemondýi che rehe umi nde rehe ohaʼãrõva, Adonai Jahve Tsevaot; ani oñemondýi che rehe umi nde reka vaʼekue, Elohim Jisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "oñemondýi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nde rehe ohaʼãrõva"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "oñemondýi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "nde reka vaʼekue"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:37.977857224Z",
+  "model": "glm-5.3"
+}

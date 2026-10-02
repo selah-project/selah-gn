@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ojapóva hekopete, apohára tsedek, ha oñe'ẽva ete iñpy'ápe.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hekopete"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "apohára"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "oñe'ẽva"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ete"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "iñpy'ápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:44.798864536Z",
+  "model": "glm-5.3"
+}

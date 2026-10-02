@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Nende tsedek haʼe yvytyguasu El-iguasúicha; nende hekojojaha haʼe tuicha y guasu; yvypóra ha mymbakuéra reheka porã, Jahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "nende tsedek"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "yvytyguasu ári"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-iguasúicha"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "nende hekojojaha"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tuicha y apy"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ha mymbakuéra"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "reheka porã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:47.692820311Z",
+  "model": "glm-5.3"
+}

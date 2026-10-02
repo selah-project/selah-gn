@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Jajavy orúru ndive, jaiko vai, jajapo vai.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "jajavy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "orúru"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "jaiko vai"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "jajapo vai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:56.872759154Z",
+  "model": "glm-5.3"
+}

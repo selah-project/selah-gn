@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Ndajaijaʼéi-pa che rehe umi ndaijaʼéivana ndeve, Jahve? Ha umi neñorãirõhárare, cheñorãirõ paʼũ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "umi ndaijaʼéivana ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "ndaijaʼei che rehe"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "ha umi neñorãirõhárare"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "cheñorãirõ paʼũ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:05.961900827Z",
+  "model": "glm-5.3"
+}

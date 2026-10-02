@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Che amoasé ⟨את⟩ Ajav óga, Jeroveam Nevat ra'y óga ru'ãicha, ha Baacha Achia ra'y óga ru'ãicha.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Che amoasé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajav óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "óga ru'ãicha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroveam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ha óga ru'ãicha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baacha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achia"
+    }
+  ],
+  "timestamp": "2026-10-02T12:08:25.838945934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ani peẽ monguarasẽ ambue El rehe; Jahve — Eñoi héra — El eñoi ⟨haʼe⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "monguarasẽ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El rehe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Eñoi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "eñoi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨haʼe⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:23.426854685Z",
+  "model": "glm-5.3"
+}

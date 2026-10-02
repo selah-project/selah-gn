@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 95,
+  "translation": "Pe arãpe iñeʼẽry rupekuéra oñehaʼã che rehe, ohecha che rekoraʼã haʼekuéra, ha ohecha avei che aporeko.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe arãpe"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "oñehaʼã che rehe"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "iñeʼẽry rupekuéra"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ohecha che rekoraʼã"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "che aporeko"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:57.119632013Z",
+  "model": "glm-5.3"
+}

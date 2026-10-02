@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha che amondo peẽ mboyve ⟨את⟩ tajýguasu, ha oguenoʼẽ ⟨את⟩ umíva peẽ pópe amo gotyo — emorita mburuvicha kuéra mokõi — nahániri peẽ poyguýpe, nahániri peẽ kuañamépe.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "amondo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "peẽ mboyve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tajýguasu"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tajýguasu"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "oguenoʼẽ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ umíva",
+      "marks": "umíva mburuvicha kuéra mokõi"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "peẽ pópe amo gotyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvicha kuéra"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "peẽ poyguýpe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nahániri avei"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "peẽ kuañamépe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:51.418690299Z",
+  "model": "glm-5.3"
+}

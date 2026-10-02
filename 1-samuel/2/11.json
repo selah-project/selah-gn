@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Elkana oho Ramápe, iñóga rupi; ha mitãrusu katu oñemomba'apo ⟨את⟩ Jahve rehe, Eli pa'i ⟨את⟩ renondépe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramápe"
+    },
+    {
+      "surface": "על",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iñóga"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "ha mitãrusu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ovaíkuri⟩"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "oñemomba'apo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eli pa'i renondépe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    }
+  ],
+  "timestamp": "2026-10-02T10:52:40.703357502Z",
+  "model": "glm-5.3"
+}

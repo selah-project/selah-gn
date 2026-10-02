@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Umi kavaju hũ oĩva upépe osẽ yvate yvy gotyo; umi morotĩ osẽ hikuái hapykuéri; ha umi jotopa osẽ ñemby yvy gotyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "umi kavaju"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "hũ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "ha umi morotĩ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hapykuéri"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "hikuái ku hapykuéri"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "ha umi jotopa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "ñemby"
+    }
+  ],
+  "timestamp": "2026-10-02T15:15:54.143670708Z",
+  "model": "glm-5.3"
+}

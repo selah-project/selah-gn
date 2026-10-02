@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha nde devetáta ha rehendúta Jahve ñeʼẽ, ha rejapóta ⟨את⟩ i ñeʼẽmeʼẽkuéra opaite ova che amanda ndeve ko árape.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "devetáta"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "rehendúta"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ñeʼẽmeʼẽkuéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "i ñeʼẽmeʼẽkuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ova"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "amanda ndeve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:11:10.315207978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Moche omombeʼu Aharon-pe ⟨את⟩ Jahve ñeʼẽnguéra opaite omondo hague, ha ⟨את⟩ opaite umi ñasundy ojaposéva hague chupe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "omombeʼu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽnguéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omondo hague"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "omondo hague"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñasundy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ñasundy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojaposéva hague"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ojaposéva hague chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:13.037350209Z",
+  "model": "glm-5.3"
+}

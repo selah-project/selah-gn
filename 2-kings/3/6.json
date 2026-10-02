@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha mburuvicha Jehoram osẽ upe ára Shomron-gui, ha omonguera ⟨את⟩ opaite Jisrael-pee.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "upe ára"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomron-gui"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "omonguera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:21.107526839Z",
+  "model": "glm-5.3"
+}

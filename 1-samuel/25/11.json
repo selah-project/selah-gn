@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "¿Che ajapótapa ⟨את⟩ che mbujape, ⟨את⟩ che y ha ⟨את⟩ che soʼo ajukáva che kẽnguéra g̃uarã, ha che ameʼẽsépa umi tapichápe che aikuaaʼỹva mávagui ou hikuái?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "che ajapótapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che mbujape"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "che mbujape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che y"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "che y"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che soʼo"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "che soʼo ajukáva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajukáva"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ajukáva"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "che kẽnguéra g̃uarã"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "che ameʼẽsépa"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "tapichápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che aikuaaʼỹva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ʼỹ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mávagui"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T11:12:10.587479638Z",
+  "model": "glm-5.3"
+}

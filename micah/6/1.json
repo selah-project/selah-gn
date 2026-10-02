@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ehendu koʼag̃a ⟨את⟩ mbaʼépa heʼi Jahve: Ejupi, eñorairõ ⟨את⟩ yvytykuéra rehe, ha umi yvyty michĩ ohendu ne ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼag̃a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼépa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ejupi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "eñorairõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvytykuéra rehe"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "ha ohendu"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "umi yvyty michĩ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ne ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:08:55.609001579Z",
+  "model": "glm-5.3"
+}

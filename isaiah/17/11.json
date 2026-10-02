@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Arápe remoĩ nde ka'avo ha remongakuaa, ko'ẽme nde kâi oipe'a yvoty; ha katu pe ñaity oiko peteĩ apu'aicha hasy árape, tasy ojepohéi'ỹva árape.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "arápe"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "nde ka'avo"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "remongakuaa"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ha ko'ẽme"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nde kâi"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "oipe'a yvoty"
+    },
+    {
+      "surface": "נד",
+      "gloss": "apu'aicha"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ñaity"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "arápe"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "hasy ára"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ha tasy"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ojepohéi'ỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:06:05.685833759Z",
+  "model": "glm-5.3"
+}

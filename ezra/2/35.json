@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Senaá taʼýra kuéra, mbohapy ⟨su⟩ poteĩ ⟨sa⟩ ha mbohapypa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "taʼýra kuéra"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Senaá"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "⟨su⟩"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapypa"
+    }
+  ],
+  "timestamp": "2026-10-02T17:42:10.645922771Z",
+  "model": "glm-5.3"
+}

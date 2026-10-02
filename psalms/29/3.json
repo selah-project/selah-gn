@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve ñeʼẽ ⟨y⟩ ýpe guari, El iñakãngueráva omoinge jey yvytu ndaijahýi ha ojohéi Jahve ýre hetaiterei.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ýpe guari"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨y⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "iñakãngueráva"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "omoinge jey yvytu ndaijahýi ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ojohéi Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "yre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:42.152950603Z",
+  "model": "glm-5.3"
+}

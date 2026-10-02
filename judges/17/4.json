@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 17:4",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha ombojevy ⟨את⟩ pe kuarepoti isýpe; ha isy ohupyty mokõi sa kuarepoti, ha omeʼẽ kuarepoti apohápe, ha ojapo chugui pesel ha maséka; ha opyta Mikaihu rógape.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ha ombojevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuarepoti"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pe kuarepoti"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "isýpe"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isy"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ותתנהו",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לצורף",
+      "gloss": "kuarepoti apohápe"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ojapo chugui"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "pesel"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "maséka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "rógape"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaihu"
+    }
+  ],
+  "timestamp": "2026-10-02T10:49:20.125258733Z",
+  "model": "glm-5.3"
+}

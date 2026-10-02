@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha upépe, mokõiha árape, ojukapa rire ⟨את⟩ Gedaliahu, — ha kuimbaʼe avave ndaikuaái.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upépe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ojukapa rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaliahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaliahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimbaʼe avave"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T13:41:39.722928457Z",
+  "model": "glm-5.3"
+}

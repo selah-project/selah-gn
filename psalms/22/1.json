@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Pe ñangarekohára tenondepag̃uarã, 'Ko'ẽ kachi'i' rehe — mba'epu porã David moha'ãngáva.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe ñangarekohára tenondepag̃uarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Kachi'i"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mba'epu porã"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David moha'ãngáva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:50.899370432Z",
+  "model": "glm-5.3"
+}

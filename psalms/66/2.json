@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Epurahéi hendýpe terã marangatu rehe; emoĩ hendy hembiapo marangatu rehe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Epurahéi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "terã marangatu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hendýpe"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "hendy"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hembiapo marangatu rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:29.316650688Z",
+  "model": "glm-5.3"
+}

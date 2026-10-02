@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha heʼi chupekuéra: Eho gueteri mbohapy ára, ha ejevy cherehe. Ha ⟨pe⟩ avakuéra oho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ha ejevy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨pe⟩ avakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:30.422037050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha eñe'ẽramo ko ⟨את⟩ ore ñe'ẽ, jaiko ñaipotĩme ko ñe'ẽme'ẽ nde mba'éva rehe rehechauka ore haguã.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha eñe'ẽramo"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ore ñe'ẽ"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ore ñe'ẽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "jaiko"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ñaipotĩme"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "ñe'ẽme'ẽ nde mba'éva rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "rehechauka ore haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:19:20.611475279Z",
+  "model": "glm-5.3"
+}

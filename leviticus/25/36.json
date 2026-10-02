@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ani regueru chugui ⟨את⟩ jeyurũ ha ⟨את⟩ mbojapyru, ha eñambyasy nde Elohim-gui, ha nde kyvy oiko nde ndive.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "regueru"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ chugui",
+      "marks": "jeyurũ ha mbojapyru"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "jeyurũ"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ha mbojapyru"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ha eñambyasy"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "nde Elohim-gui"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde kyvy"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:03:00.901075848Z",
+  "model": "glm-5.3"
+}

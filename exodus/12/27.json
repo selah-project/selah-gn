@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Peiméta: Pevechaukaha Pésah Jahve mbaʼe, ohasa haguére hógakuéra Jisrael taʼãra yvypi Mitsraimpe, oipeʼa haguére ⟨את⟩ Mitsraimretãygua ha omongakaraipoha ⟨את⟩ ore róga. Ha tavayguakuéra oñemboyvytuʼu ha oñemboʼe.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "peiméta"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "pevechaukaha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pésah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨haʼe⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o… haguére"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "hógakuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼãra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraimpe"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "oipeʼa haguére"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraimretãygua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimretãygua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ore róga"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ore róga"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "omongakaraipoha"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "oñemboyvytuʼu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oñemboʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:30.181502335Z",
+  "model": "glm-5.3"
+}

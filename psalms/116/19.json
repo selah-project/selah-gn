@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Jahve óga korapýpe, ne mbytépe, Jerusalaim, eñemombaʼeguasu Ja.",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "óga korapýpe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ne mbytépe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "eñemombaʼeguasu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:49.919489460Z",
+  "model": "glm-5.3"
+}

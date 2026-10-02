@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ombohéta ha ohe'i: Ore pókuéra nombohasái ⟨את⟩ ko tuguy, ha ore tesãi ndohechái.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ombohéta"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Ore pókuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nombohasái…i"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ombohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko tuguy"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ha ore tesãi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndohechái"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hecha"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:08.467655335Z",
+  "model": "glm-5.3"
+}

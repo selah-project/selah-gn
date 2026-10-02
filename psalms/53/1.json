@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 53,
+  "translation": "Ñangarekohárape, Machalat ári, machil David mba'éva.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ñangarekohárape"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "machil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mba'éva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:06.261959458Z",
+  "model": "glm-5.3"
+}

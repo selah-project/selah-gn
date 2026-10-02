@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Ja oiporavo Jaakov ichupe g̃uarã, Jisrael imbaʼeteéramo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "oiporavo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe g̃uarã"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "imbaʼeteéramo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:13.862976438Z",
+  "model": "glm-5.3"
+}

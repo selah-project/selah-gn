@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha David oheja ⟨את⟩ umi mbaʼe iñeirũva, peteĩ mbaʼe ñangarekohára pópe, ha oyke ohóvo ñorãirõ mohendahape, ou, ha oporandu ijoykekuérape mbaʼeichapa oiko hikuái.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼe iñeirũva"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "umi mbaʼe iñeirũva"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "isobre"
+    },
+    {
+      "surface": "על",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ñangarekohára"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "oyke"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "mohendahape"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "oporandu"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ijoykekuérape"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mbaʼeichapa oiko hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:24.053889095Z",
+  "model": "glm-5.3"
+}

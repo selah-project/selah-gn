@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha Chamor, Shekhem ru, osẽ Jaakov ndahaʼeihápe oñeʼẽ hag̃ua hese ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ru"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndahaʼeihápe...hag̃ua"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "oñeʼẽ hag̃ua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hese ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:40.025375711Z",
+  "model": "glm-5.3"
+}

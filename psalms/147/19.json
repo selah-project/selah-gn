@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Omombe'u ⟨את⟩ iñe'ẽ Jaakópe, iñemoĩrãnguéra ha iñhekojojaha Jisrael-pe.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Omombe'u"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakópe"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "iñemoĩrãnguéra"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ha iñhekojojaha"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:09.344694130Z",
+  "model": "glm-5.3"
+}

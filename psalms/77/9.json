@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "¿Opa vaʼerãpa opahaguépe pe hesed? ¿Opa vaʼerãpa ñeʼẽmeʼẽ, ñemoñeʼẽ guive emberaru peve?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "¿Opa vaʼerãpa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "opahaguépe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "pe hesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Opa vaʼerãpa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ñemoñeʼẽ guive"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "emberaru peve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:09.450946547Z",
+  "model": "glm-5.3"
+}

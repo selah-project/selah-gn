@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha ⟨את⟩ Jerusalaim ityrekue ijerére pegua, opaite kasdi ñorãirõhára — oĩva ruvicha soʼojapohára ndive — omboguejy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim ityrekue"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ityrekue"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "omboguejy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ruvicha"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "soʼojapohára"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:59.941448008Z",
+  "model": "glm-5.3"
+}

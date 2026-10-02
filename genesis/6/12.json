@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Elohim ohecha ⟨את⟩ yvy, ha katuete oñembyaima vaʼekue, opaite pytũmba orekógui hese ⟨את⟩ ijeiko yvýre.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha katuete"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "oñembyaima vaʼekue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rejápe"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "orekógui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "pytũmba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijeiko"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ijeiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvýre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:22.393892258Z",
+  "model": "glm-5.3"
+}

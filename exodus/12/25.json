@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oikóta pevépa, peikutu ⟨את⟩ peju haguã yvýpe Jahve omeʼẽta peẽme, haʼe haguáicha heʼi hague, peikuatiape ko tembiapo peẽme g̃uarã.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oikóta pevépa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "peikutu"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "peju haguã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼãva"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haʼe haguáicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heʼi hague"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "peikuatiape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko tembiapo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:30.181053357Z",
+  "model": "glm-5.3"
+}

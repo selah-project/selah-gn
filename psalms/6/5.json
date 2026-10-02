@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ejevy, Jahve, egueru ⟨את⟩ che rekove; enehẽ che, nde hesed rehegua.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Ejevy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "enehẽ che"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:44.453288460Z",
+  "model": "glm-5.3"
+}

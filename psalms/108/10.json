@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 108,
+  "translation": "Moav che jeyʼuha renda; Edom ári aoi che sandália; Pelichet ári che ñeʼẽpuaku aipo.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "jeyʼuha"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "che jeyʼuha renda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "aoi"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "che sandália"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelichet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "che ñeʼẽpuaku aipo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:44.709862732Z",
+  "model": "glm-5.3"
+}

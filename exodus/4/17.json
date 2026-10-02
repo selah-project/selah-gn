@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha reguereko ⟨את⟩ ko takua nde pópe, rehejapo hag̃ua hese ⟨את⟩ umi techauka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ko takua"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ko takua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "reguereko"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nde pópe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rehejapo hag̃ua hese"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi techauka"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "umi techauka"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:33.912619530Z",
+  "model": "glm-5.3"
+}

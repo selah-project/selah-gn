@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha omoĩ ⟨אתם⟩ epod asuka ári, manduʼa ita ramo Jisrael mitãnguéra g̃uarã, Jahve ohenói ⟨את⟩ Moche haʼeháicha.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umi ita choham"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "asuka"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ita"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "manduʼa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mitãnguéra g̃uarã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:14.268451525Z",
+  "model": "glm-5.3"
+}

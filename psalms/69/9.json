@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Che joykeʼykuéra apytepe che mbaʼevaiete vaʼekue, ha che sy raʼyrakuéra apytepe che mbaʼe pyahu vaʼekue.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "che mbaʼevaiete"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "che joykeʼykuéra apytepe"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "che mbaʼe pyahu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼyrakuéra apytepe"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "che sy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:46.196616045Z",
+  "model": "glm-5.3"
+}

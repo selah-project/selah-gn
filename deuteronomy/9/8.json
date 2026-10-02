@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Chorevpe avei pendejopy ⟨את⟩ Jahve, ha Jahve oñemuña pende rehe, oipe'a hag̃ua ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Chorevpe avei"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "pendejopy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "oñemuña"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pende rehe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "oipe'a hag̃ua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T09:53:47.326145381Z",
+  "model": "glm-5.3"
+}

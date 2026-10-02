@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha Betsalel, Churi raʼyre, Chur raʼyre, Yehuda retãmegua, ojapo ⟨את⟩ opaite Jahve oñembojáiva ⟨את⟩ Moche rehe.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "Ha Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼyre"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Churi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼyre"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "retãmegua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñembojáiva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:22.945489219Z",
+  "model": "glm-5.3"
+}

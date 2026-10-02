@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Gad raʼýkuéra omopuʼã ⟨את⟩ Divón, ⟨את⟩ Aterot ha ⟨את⟩ Aroér.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Divón"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Divón"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aterot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Aterot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aroér"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroér"
+    }
+  ],
+  "timestamp": "2026-10-02T09:40:38.409447780Z",
+  "model": "glm-5.3"
+}

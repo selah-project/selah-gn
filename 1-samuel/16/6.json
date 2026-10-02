@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Oguahẽrakuéra aja, ohecha ⟨את⟩ Eliab, ha heʼi: Añetehápe, Jahve renondépe oiguaʼu heñohẽva hiʼári ñandy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oĩ vove"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "oguahẽrakuéra aja"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "heñohẽva hiʼári ñandy"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:00.682291044Z",
+  "model": "glm-5.3"
+}

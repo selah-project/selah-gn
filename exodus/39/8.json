@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ojapo ⟨את⟩ choshen, cheshev ipo apopyre, epod ipo apopyre raʼanga: oro, tejélet, argaman, tolaat shaní ha chesh mbojypyre.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ha ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ipo apopyre"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "cheshev"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "raʼanga"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "epod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tejélet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shaní"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha chesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mbojypyre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:14.268618669Z",
+  "model": "glm-5.3"
+}

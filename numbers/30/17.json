@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ko'ãngáta umi tekojoja Jahve ohechauka ⟨את⟩ Mochépe, kuimba'e ha iñaña irũnguéra apytépe, túa ha iñychakãrangue apytépe, iñarakuére, itúa hóga rupi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ko'ãngáta"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "umi tekojoja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mochépe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mochépe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "iñaña irũnguéra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "אב",
+      "gloss": "túa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "iñychakãrangue"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "iñarakuére"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hóga rupi"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "itúa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:39:16.790867012Z",
+  "model": "glm-5.3"
+}

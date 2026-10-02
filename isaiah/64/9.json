@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Ne marangatu távakuéra oikóma yvy nandi ramo, Tsiyon yvy nandi ramo oiko, Jerusalaim oñembyaipáma.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "távakuéra"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ne marangatu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oikóma"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yvy nandi ramo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yvy nandi ramo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "oñembyaipáma"
+    }
+  ],
+  "timestamp": "2026-10-02T13:06:10.872621133Z",
+  "model": "glm-5.3"
+}

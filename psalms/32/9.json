@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ani peiko kavajuicha térã mburikaicha, ndaipóri chugupe ikuaa: mutu ha resina — imba'e jeguaka — oñemoĩva'erã ojoko hag̃ua chugupe, nahániri ojejuhu pe nde rehe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "peiko"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kavajuicha"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "mburikaicha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ikuaa"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "resina"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "jeguaka"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ojoko hag̃ua"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ojejuhu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:05.363415277Z",
+  "model": "glm-5.3"
+}

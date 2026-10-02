@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Olot kyrakã va'ekue kuéra ahupíta ndéve, ketoret ovecha guasu rehe; ajapóta vaka kuéra kavara kuéra ndive. Sela.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "olot"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "kyrakã va'ekue kuéra"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ahupíta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…rehe"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ketoret"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ovecha guasu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vaka kuéra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kavara kuéra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:21.965250881Z",
+  "model": "glm-5.3"
+}

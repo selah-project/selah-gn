@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha David hógagui itujakuekuéra ou hese, oipeʼa hag̃ua chupe yvygui, ha ndoisepái, ha ndokaru ichuguikuéra ⟨את⟩ mbujape.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "itujakuekuéra"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hógagui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "oipeʼa hag̃ua chupe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "isepái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ichuguikuéra (mbujape ndive)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    }
+  ],
+  "timestamp": "2026-10-02T19:01:42.058961940Z",
+  "model": "glm-5.3"
+}

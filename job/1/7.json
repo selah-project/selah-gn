@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve heʼi Satán-pe: Mógui peʼe reju hague? Satán ombohovái ⟨את⟩ Jahve ha heʼi: Yvy ape ári aho ha aho, ha ahesaʼỹijo ipype.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satán"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mógui"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "reju"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ombohovái"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "aho ha aho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ahesaʼỹijo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T16:47:09.201501880Z",
+  "model": "glm-5.3"
+}

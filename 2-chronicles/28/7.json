@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Zikri, peteĩ Efrayim kuimbaʼe katupyry, ojukapa ⟨את⟩ Maasejahu, mburuvicha raʼy, ha ⟨את⟩ Azrikam, óga jatypyra, ha ⟨את⟩ Elkanah, mburuvicha mokõiha.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ojukapa"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kuimbaʼe katupyry"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maasejahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "jatypyra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T18:32:26.179123081Z",
+  "model": "glm-5.3"
+}

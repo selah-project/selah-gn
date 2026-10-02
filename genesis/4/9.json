@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Jahve ohechauka Kayin-pe: Maitépepa oĩ Hevel, nde joykeʼy? Ha haʼe heʼi: Che aikuaaʼỹ; ¿chépa aháta che joykeʼy resãmbyahára?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ... ohechauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Maitépepa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde joykeʼy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ... heʼi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ʼỹ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "che aikuaa"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "resãmbyahára"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che joykeʼy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "chépa aháta"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:14.830955198Z",
+  "model": "glm-5.3"
+}

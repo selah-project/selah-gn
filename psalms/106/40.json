@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha Jahve ʼỹi pyʼague pe tekove kuéra rehe, ha oñembyai ⟨את⟩ iñerepyru.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ʼỹi pyʼague"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pyʼague"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "i-tekove-kuéra rehe"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñerepyru"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "iñerepyru"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:04.989667047Z",
+  "model": "glm-5.3"
+}

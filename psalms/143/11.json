@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Nde réra rayhupápa, Jahve, emomba'y chéve; nde tsedek rupi eguera che rekove apuruha apytégui.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rayhupápa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "emomba'y chéve"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nde tsedek rupi"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "eguera"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "apuruha apytégui"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:07.807751312Z",
+  "model": "glm-5.3"
+}

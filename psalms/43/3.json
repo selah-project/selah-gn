@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Emondo nde resakã ha nde añetegua; umi ohenondeʼáta cherehe, ogueraháta cherehe nde yvyty marangatu peve, ha nde Michkan-kuéra peve.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Emondo"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "nde resakã"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ha nde añetegua"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umi"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ohenondeʼáta cherehe"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ogueraháta cherehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nde marangatu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "nde Michkan-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:12.752642475Z",
+  "model": "glm-5.3"
+}

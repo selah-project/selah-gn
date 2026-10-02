@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha ⟨את⟩ Aharon ha ⟨את⟩ iñañanguéra eguerúta Oñombyaty Renda roguedãme, ha ejenaʼãta ⟨את⟩ chupekuéra ýpe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñañanguéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñañanguéra"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "eguerúta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "roguedãme"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oñombyaty"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Renda"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ha ejenaʼãta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:32:09.582225215Z",
+  "model": "glm-5.3"
+}

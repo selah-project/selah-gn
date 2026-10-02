@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Ha heʼi hikuái: Ja ndohechái, ha Jaakov Elohim naimondéi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi hikuái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hechái"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nai-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mondéi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:53.070110846Z",
+  "model": "glm-5.3"
+}

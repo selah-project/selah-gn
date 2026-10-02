@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Jahve Tsevaot ore ndive; Jaakov Elohim ⟨haʼe⟩ ore moʼãhára. Chela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ore ndive"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "moʼãhára"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore g̃uarã"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:51.548602223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Eñemomba'e guasu yvága ári, Elohim; ne py'aguasu opaite yvy ári.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "eñemomba'e guasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvága ári"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ne py'aguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:37.151933269Z",
+  "model": "glm-5.3"
+}

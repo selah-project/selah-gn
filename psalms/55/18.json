@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Ka'aru, ko'ẽme ha asaje amongetáta ha achepy'arõta, ha ohendúta che ñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ka'aru"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ha ko'ẽme"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ha asaje"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "amongetáta"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "ha achepy'arõta"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ha ohendúta"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:59.093938442Z",
+  "model": "glm-5.3"
+}

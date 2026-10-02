@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 14:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Jahve ovy'arove'áta ⟨את⟩ Jaakov rehe, ha ojeporavóta jey Jisrael, ha omoĩta chuguikuéra iñyvy yvateguépe, ha oĩta ojoaju hikuái ováva reheve, ha oñembojoajúta Jaakov óga reheve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jango"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ovy'arove'áta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ha ojeporavóta jey"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "ha omoĩta chuguikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "iñyvy yvateguépe"
+    },
+    {
+      "surface": "ונלוה",
+      "gloss": "ha ojoajúta"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ováva"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chupekuéra reheve"
+    },
+    {
+      "surface": "ונספחו",
+      "gloss": "ha oñembojoajúta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-rehe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T12:34:17.984163560Z",
+  "model": "glm-5.3"
+}

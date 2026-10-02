@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Oike jave Oho Atuãíme, ha oñembyaty jave pe mizbeaj gotyo, ojahu — upéicharö Jahve omandáʼakue ⟨את⟩ Moche.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "oike jave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−pe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oho"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Atuãi"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "oñembyaty jave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ojahu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upéicharö"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omandáʼakue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:40.003072108Z",
+  "model": "glm-5.3"
+}

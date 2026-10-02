@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha ojapo ⟨את⟩ tekojoja Jahve resápe, ha oho David rapeitépe, itúape, ha nenojerei akatúape térã asuape.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "rapeitépe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúape"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha neno-"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nojerei"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "akatúape"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "asuape"
+    }
+  ],
+  "timestamp": "2026-10-02T12:22:30.899310291Z",
+  "model": "glm-5.3"
+}

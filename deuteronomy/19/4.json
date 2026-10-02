@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Kóva kóichagua ojukáva rembiapo, ohotáva upépe ha ikatupyry okakuaa hag̃ua: pe oipyʼapóva ⟨את⟩ ijarairãʼỹva ichugui, naijaʼéiva ichupe kue heñoihague guive, oikove haguéichape.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ojukáva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kóichagua"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ohotáva"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ikatu okakuaa hag̃ua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "oipyʼapóva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijarairãʼỹva"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ijarairãʼỹva"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "ichugui"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ñarairãʼỹva"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naijaʼéiva"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "kue"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "heñoihague guive"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:32.296714391Z",
+  "model": "glm-5.3"
+}

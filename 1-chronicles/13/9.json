@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha oguahẽ hikuái pe goren Kidon pe, ha Uza ohupi ⟨את⟩ ipo ojapyhy haguã ⟨את⟩ pe aron, umi vaka ojererei haguére.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "oguahẽ hikuái"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "goren"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "ojapyhy haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe aron"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "pe aron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "ojererei"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "umi vaka"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:31.406459410Z",
+  "model": "glm-5.3"
+}

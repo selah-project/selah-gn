@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Yvága, yvága Jahve mbaʼe; ha ⟨pe⟩ yvy omeʼẽ Adam raʼýkuérape.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Yvága"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve mbaʼe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ha ⟨pe⟩ yvy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼýkuérape"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:02.106632875Z",
+  "model": "glm-5.3"
+}

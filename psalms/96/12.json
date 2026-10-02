@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Ovyʼaiterei ñu ha opaite oĩva ipype; upéicha opurahéi opaite kaʼaguy yvyra.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Ovyʼaiterei"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ñu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "אז",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "opurahéi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kaʼaguy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:32.175315534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ne aʼo ndojahoʼíi nde rehegua, ha ne py nombotuʼãi ko mbyrirundy ary pukukápe.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ne aʼo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nande"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ndojahoʼíi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "nde rehegua"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ne py"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nande"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "nombotuʼãi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mbyrirundy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary pukuka"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:51.291502643Z",
+  "model": "glm-5.3"
+}

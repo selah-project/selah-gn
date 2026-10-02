@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Upe ári, yvaga guyra kuéra oiko upépe, yvyra rakã kuéra mbytégui omeʼẽ hikuái iñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "upe ári"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "guyra kuéra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "oiko upépe"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mbytégui"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "yvyra rakã kuéra"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "omeʼẽ hikuái"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:55.327487338Z",
+  "model": "glm-5.3"
+}

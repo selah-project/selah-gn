@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Pe purahéi myakãhárape g̃uarã — Jahve rembiaporãme, David mbaʼe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe myakãhárape g̃uarã"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "rembiaporãme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:28.927304061Z",
+  "model": "glm-5.3"
+}

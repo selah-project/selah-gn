@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha upéicha oiko: haʼe okávo kavararu ári, oguejývo yvyty kañymby rupi, ha pẽã — David ha imbaʼapohakuéra oguejývo ojuhu hag̃ua chupe; ha ojuhu ⟨את⟩ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha upéicha oiko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "okávo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kavararu"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "oguejývo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kañymby rupi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha pẽã"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ha imbaʼapohakuéra"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "oguejývo"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "ojuhu hag̃ua chupe"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "ha ojuhu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:13:57.457406925Z",
+  "model": "glm-5.3"
+}

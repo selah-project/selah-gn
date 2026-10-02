@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Jaakov omonai ⟨את⟩ Lavan arameo rape, ndahechaukai haguére chupe ohaʼarõha oñemboty hague.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "omonai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan arameo rape"
+    },
+    {
+      "surface": "לב",
+      "gloss": "rape"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "arameo"
+    },
+    {
+      "surface": "על",
+      "gloss": "…rehe"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nda…rei"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "hechaukai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…haguére"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ohaʼarõ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:19.594330326Z",
+  "model": "glm-5.3"
+}

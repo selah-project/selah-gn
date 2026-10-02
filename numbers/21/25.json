@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Jisrael oguereko ⟨את⟩ umi táva opaite ko'ãva, ha Jisrael oiko umi emori táva opaite apytépe, Chechbón-pe ha iñembykuéra opaite apytépe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi táva opaite ko'ãva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "umi táva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ãva"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite apytépe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Chechbón-pe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha opaite apytépe"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "iñembykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:31:19.369169403Z",
+  "model": "glm-5.3"
+}

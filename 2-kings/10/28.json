@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Upéicharõ Jehu omboguete ⟨את⟩ Baal Jisraígui.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "omboguete"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisraígui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:06:59.091843737Z",
+  "model": "glm-5.3"
+}

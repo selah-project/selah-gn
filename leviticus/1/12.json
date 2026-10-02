@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oipe'a jey ⟨את⟩ ipehẽnguére, ha ⟨את⟩ iñakã ha ⟨את⟩ ivyrukue; ha pa'i omoĩ porã ⟨את⟩ umi yvyra ári oĩva ápe, tata ári oĩva, altár ári.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "oipe'a jey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ipehẽnguére"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ipehẽnguére"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ivyrukue"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "ivyrukue"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "omoĩ porã"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umi (pehẽngue)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:26.585353700Z",
+  "model": "glm-5.3"
+}

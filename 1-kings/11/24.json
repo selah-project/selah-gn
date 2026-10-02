@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oñembyaty ipype umi kuimbaʼe, ha oiko peẽvusu ramo peteĩ atyguasu, David ojukapa rire ⟨את⟩ chuguikuéra; ha oho Damaseko-pe, oiko pehẽme ha isãmbyhy Damaseko-pe.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "שר",
+      "gloss": "peẽvusu"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "atyguasu"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "ojukapa rire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseko-pe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "oiko pehẽme"
+    },
+    {
+      "surface": "בה",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Damaseko-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:42.160800703Z",
+  "model": "glm-5.3"
+}

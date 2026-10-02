@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Momorãmba Jahve-pe kinor reheve; nevel asor reheve purahéi chupe.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "momorãmba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor reheve"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevel reheve"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:34.225541646Z",
+  "model": "glm-5.3"
+}

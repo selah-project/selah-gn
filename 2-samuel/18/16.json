@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Joav opena chofar, ha tavakuéra ojevy ojapyhy hag̃ua Jisrael rakatépe, ningo Joav ojoko ⟨את⟩ tavakuéra.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "opena"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "chofar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "ojapyhy hag̃ua"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rakatépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ojoko"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:32:32.411049074Z",
+  "model": "glm-5.3"
+}

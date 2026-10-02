@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Ikaruguãre aiporãiterei; imboriahu kuérape ambosyái mbujape reheve.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ikaruguã"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "aiporã"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "iterei"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "imboriahu kuéra"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ambosyái"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:15.862047196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 28:8",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Jisrael raʼýkuéra ogueraha kavachúpe ijoykeʼykuéra apytégui 200,000 kuña, mitã kuimbaʼe ha mitã kuña; ha avei ohasa heta mbaʼe jereraha chuguikuéra, ha omondo ⟨את⟩ pe mbaʼe jereraha Shomron peve.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ogeraha kavachúpe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מאחיהם",
+      "gloss": "ijoykeʼykuéra apytégui"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi saʼi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mitã kuimbaʼe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mitã kuña"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "mbaʼe jereraha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "heta"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mbaʼe jereraha"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "pe mbaʼe jereraha"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Shomron peve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:32:26.179518695Z",
+  "model": "glm-5.3"
+}

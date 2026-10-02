@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Hi hetakue rehe ojavy hikuái che reheve; che amoambuéta hi mbegu kavambápe.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "hi hetakue rehe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che reheve"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "hi mbegu"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "kavambápe"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "che amoambuéta"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:05.846061275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Yguasúpe iko nde rape, ha nde Tapekuéra y hetápe; ha nde pyadokuéra ndojekuaái.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "yguasúpe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nde rape"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "nde Tapekuéra"
+    },
+    {
+      "surface": "במים",
+      "gloss": "y hetápe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetáva"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "nde pyadokuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo… ái"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "ojekuaái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:46.628979117Z",
+  "model": "glm-5.3"
+}

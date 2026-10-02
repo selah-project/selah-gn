@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Upéicha heʼi Jahve, ojapóva ⟨את⟩ chupe, Jahve omohendáva ⟨את⟩ chupe oiko porã hag̃ua, Jahve haʼe héra.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "omohendáva"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "oiko porã hag̃ua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "haʼe héra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:37:21.024419711Z",
+  "model": "glm-5.3"
+}

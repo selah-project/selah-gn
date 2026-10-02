@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Aholá oñemohyhyi che rekóvo ⟨che raʼýramo⟩, ha oipotaiterei imborayhu reheguávape, Ashur-yguápe, ijarýipeguávape.",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "oñemohyhyi"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Aholá"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "che rekóvo"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "oipotaiterei"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "imborayhu reheguáva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur-yguápe"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "ijarýipeguávape"
+    }
+  ],
+  "timestamp": "2026-10-02T14:21:38.967659986Z",
+  "model": "glm-5.3"
+}

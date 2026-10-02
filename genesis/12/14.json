@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oiko pe mba'e: Avram ou rire Mitsraim-pe, umi mitsraim-kuéra ohecha ⟨את⟩ kuña hai, ha'e katu iporã eterei.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko pe mba'e"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ou rire"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "umi mitsraim-kuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuña"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña hai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:04.879046680Z",
+  "model": "glm-5.3"
+}

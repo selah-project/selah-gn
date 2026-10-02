@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ohenói Lot-pe, ha he'i chupe: «Mamo pa ⟨um⟩ kuimba'e ou va'ekue nde rehe ko pyharépe? Egueru ⟨את⟩ chupekuéra ore gotyo, jaikuaa hag̃ua chupekuéra».",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Mamo pa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ko pyharépe"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "Egueru chupekuéra"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ore gotyo"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "jaikuaa hag̃ua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:39:48.936459942Z",
+  "model": "glm-5.3"
+}

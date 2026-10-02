@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Peteĩ su oguejýta nde yke gotyo, ary su nde akatúa gotyo; hákatu nde gotyo ndoikutýta.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "oguejýta"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "nde yke gotyo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "peteĩ su"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "ary su"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "nde akatúa gotyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde gotyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...moʼãi"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "oikutýta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:30.465834527Z",
+  "model": "glm-5.3"
+}

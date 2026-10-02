@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Purahéi pe okéva rapekuéra rérape. Ajupi che resa ⟨á⟩ yvytykuéra ári: moõguipa tái che pytyvõ?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "pe okéva rapekuéra rérape"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Ajupi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨á⟩"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "yvytykuéra ári"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "moõguipa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tái"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "che pytyvõ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:57.744449142Z",
+  "model": "glm-5.3"
+}

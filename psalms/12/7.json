@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Jahve imraʼẽ marangatu, yvy tatakua-pe oñembopupóva itajúicha, oñemopotĩva pokõi jey.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "imraʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "imraʼẽ"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "oñembopupóva"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "tatakua-pe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "oñemopotĩva"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pokõi jey"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:24.766125427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 11:2",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oiko ka'aru jave, David opu'ã ikorapygui ha oguata mburuvicha róga yvate ári; ha ohecha peteĩ kuña oñembohete yvate ári; ha pe kuña ⟨⟨hecha⟩⟩ porã itereí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "jave"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ka'aru"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "opu'ã"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ikorapy"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "גג",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "oñembohete"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "ha pe kuña"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "pora'ã"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "hecha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "itereí"
+    }
+  ],
+  "timestamp": "2026-10-02T11:26:10.040514952Z",
+  "model": "glm-5.3"
+}

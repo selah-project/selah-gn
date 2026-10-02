@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 82,
+  "translation": "Upéicharõ, yvypóraicha omano peẽ, ha umi mburuvicha apytépe peteĩvaicha ogue.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "upéicharõ"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "yvypóraicha"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "omano peẽ"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ha peteĩvaicha"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "umi mburuvicha apytépe"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ogue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:44.814510905Z",
+  "model": "glm-5.3"
+}

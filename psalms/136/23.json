@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Oroĩ yvateguaʼỹme aja, ore manduʼa; hesed oiko opaite ára.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "oroĩ yvateguaʼỹme aja"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ore manduʼa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore-re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jape"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:34.125659262Z",
+  "model": "glm-5.3"
+}

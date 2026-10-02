@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Yvypóra ra'ỹi, eñe'ẽ Paraoh, Mitsraim mburuvicha, rape ha iñatyrõhápe: ¿máva rejoguara nde tuichakue pype?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "iñatyrõhápe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "rejoguara"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "nde tuichakue pype"
+    }
+  ],
+  "timestamp": "2026-10-02T14:27:59.358155301Z",
+  "model": "glm-5.3"
+}

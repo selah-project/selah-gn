@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Oñemondýi opaite yvypóra, ha omyesakã hikuái ⟨את⟩ Elohim rembiapokue; hembiapo katu oikuaaporã hikuái.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "oñemondýi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "omyesakã hikuái"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "rembiapokue"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "hembiapo"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "oikuaaporã hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:55.743920145Z",
+  "model": "glm-5.3"
+}

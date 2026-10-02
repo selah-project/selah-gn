@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Che tape ha che keha rejoka ⟨hese⟩, ha opaite che tape reikuaaite.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "che tape"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "ha che keha"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "rejoka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "che tape"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "reikuaaite"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:14.056257467Z",
+  "model": "glm-5.3"
+}

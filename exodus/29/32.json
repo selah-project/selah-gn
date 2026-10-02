@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha Aharon ha iñañokuéra karu ⟨את⟩ pe ovecha kuimbaʼe roʼo ha ⟨את⟩ mbujape oĩva kyse ryepýpe, Ohel Moʼed jeypápe.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Ha ... karu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ha iñañokuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ovecha kuimbaʼe roʼo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "roʼo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "pe ovecha kuimbaʼe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mbujape oĩva kyse ryepýpe"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "kyse ryepýpe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeypápe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moʼed"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:51.456052687Z",
+  "model": "glm-5.3"
+}

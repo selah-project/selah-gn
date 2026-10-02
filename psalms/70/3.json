@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 70,
+  "translation": "Oñembojeguaru ha oñemongyhyje va'erã umi che rekove ohekáva; ogueraha jevy kupe va'erã ha oñembojeguaru va'erã umi oipotáva che ivairã.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "oñembojeguaru va'erã"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "oñemongyhyje va'erã"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "umi ohekáva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ogueraha jevy va'erã"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kupe"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "oñembojeguaru va'erã"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "umi oipotáva"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "che ivairã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:03.659537424Z",
+  "model": "glm-5.3"
+}

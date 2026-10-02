@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ore manonde oha'ãrõ Jahve: haʼe ore pytyvõhára ha ore rokãicha.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ore manonde"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ohaʼãrõ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ore pytyvõhára"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ha ore rokãicha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:28.331465728Z",
+  "model": "glm-5.3"
+}

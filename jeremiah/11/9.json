@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve heʼi cherehe: Ojejuhu peteĩ jokoha umi Yehuda kuimbaʼe apytépe, ha umi Jerusalaim ikundahára apytépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha…heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "Ojejuhu"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "peteĩ jokoha"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "umi…kuimbaʼe apytépe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "ha umi…ikundahára apytépe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T13:17:47.285304752Z",
+  "model": "glm-5.3"
+}

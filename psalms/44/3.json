@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Nde, nde po rupi reipeʼa ⟨גוים⟩ umi tetã reñepyrũrãguáicha ha rendoʼi chupekuéra; rejavy umi avakuéra aty ha remondo chupekuéra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetã"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "rendoʼi chupekuéra"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "rejavy"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "umi avakuéra aty"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "remondo chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:12.391013941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve oñeʼẽ ⟨the⟩ pira rehe, ha pira oñotỹ ⟨את⟩ Jona yvy tuja kuape.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "pira rehe"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "oñotỹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuape"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "yvy tuja"
+    }
+  ],
+  "timestamp": "2026-10-02T15:01:20.964079167Z",
+  "model": "glm-5.3"
+}

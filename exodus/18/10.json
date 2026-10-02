@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Jitro heʼi: Iñemongarai Jahve, oñemongakuaa hague ⟨את⟩ peẽ Mitsraim po gui ha Paroh po gui, ha oñemongakuaa hague ⟨את⟩ ⟨the⟩ tavaygua Mitsraim po ruguai gui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "iñemongarai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñemongakuaa hague"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "oñemongakuaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ha po gui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñemongakuaa hague"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "oñemongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavaygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ruguai gui"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:21.574735845Z",
+  "model": "glm-5.3"
+}

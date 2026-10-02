@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha David ojerure Elohim-pe, he'ívo: ¿Ehéta aha yvate Plishtí-kuéra ári ha ereko chupe che pópe? Ha Jahve he'i chupe: Ehena yvate, ha aheja chupe che pópe.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "¿Ehéta aha yvate?"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "Plishtí-kuéra"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ha ereko chupe"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "che pópe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Ehena yvate"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ha aheja chupe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nde pópe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:07:35.725835197Z",
+  "model": "glm-5.3"
+}

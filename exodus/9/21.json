@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha pe noñemoĩva imborayhu Jahve ñeʼẽ rehe, oheja ⟨את⟩ ivorekuéra ha ⟨את⟩ imymbakuéra kokuepe.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "noñemoĩ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "imborayhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivorekuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ivorekuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imymbakuéra"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "imymbakuéra"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokuepe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:00.615770057Z",
+  "model": "glm-5.3"
+}

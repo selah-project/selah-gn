@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha haʼe oñemoĩ vai ⟨את⟩ Jisrael rehe, ha Jehonatan, Chimá raʼy, David joykeʼy, ojukapa chupe.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "oñemoĩ vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ojukapa chupe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Chimá"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "joykeʼy"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:23.378995981Z",
+  "model": "glm-5.3"
+}

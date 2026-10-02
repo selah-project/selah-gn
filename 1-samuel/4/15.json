@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Eli ningo mitã pa porundy ha poapy ary orekóva; ha iñesunu oñemboja oikéva chupe, ha ndaikatúi ohecha.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "ha Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "pa porundy"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ha poapy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "iñesunu"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ohecha"
+    }
+  ],
+  "timestamp": "2026-10-02T10:57:19.970499645Z",
+  "model": "glm-5.3"
+}

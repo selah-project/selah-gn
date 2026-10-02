@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 125,
+  "translation": "Jerusalaim — yvytykuéra ojerére hese, ha Jahve ojerére ipekovusuakuéra rehe, koʼágã guive opa ára pahápe.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ojerére"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ojerére"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ipekovusuakuéra rehe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "koʼágã guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "opa ... pahápe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:39.576654130Z",
+  "model": "glm-5.3"
+}

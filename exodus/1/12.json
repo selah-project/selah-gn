@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ojoporavo haʼekuái rupi ⟨את⟩ chupe, upéicha hetave ha osakãve hikuái; ha kyhyje hikuái Jisrael mitãnguéra apytégui.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Ha... rupi"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ojoporavo hikuái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "hetave"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ha upéicha"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "osakãve"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ha kyhyje hikuái"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:40.975940366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Anive peñembyaʼy opa koʼãva rehe; jaupépe opa koʼãva rehe oñembyaʼy umi tetãnguéra che aheraháva pende renondégui.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "anive"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "peñembyaʼy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaupépe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "oñembyaʼy"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "aheraháva"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pende renondégui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:55:45.011074164Z",
+  "model": "glm-5.3"
+}

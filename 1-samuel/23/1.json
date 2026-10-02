@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Omombeʼu David-pe heʼívo: Ehérõ, pelishtikuéra oñorairõ Keila rehe, ha umi omonda ⟨את⟩ ⟨umí⟩ avorakuéra.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "omombeʼu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehérõ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "oñorairõ"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "Keila rehe"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ha umi"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "omonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avorakuéra"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "avorakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:12:52.145335554Z",
+  "model": "glm-5.3"
+}

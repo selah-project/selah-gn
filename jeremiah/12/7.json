@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Aheja che óga, aheja ⟨את⟩ che jeyurũ; ameʼẽ ⟨את⟩ che pyʼaite raʼãngarã iñakãrapuʼa ñandíva ipópe.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che óga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "che óga"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jeyurũ"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "che jeyurũ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che pyʼaite raʼãngarã"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "raʼãngarã"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che pyʼaite"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "iñakãrapuʼa ñandíva"
+    }
+  ],
+  "timestamp": "2026-10-02T13:22:04.266145597Z",
+  "model": "glm-5.3"
+}

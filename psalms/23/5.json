@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Emohenda che renondépe ⟨peteĩ⟩ mesa che ñorairõharaikuéra renondépe; remoĩ che akã ári óily, ha che ysaja henyhẽmbaite.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Emohenda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "che ñorairõharaikuéra"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "remoĩ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "óily rehe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "che akã"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "che ysaja"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "henyhẽmbaite"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:07.772525861Z",
+  "model": "glm-5.3"
+}

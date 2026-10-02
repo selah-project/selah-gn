@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Chiram, Tsor mburuvicha, omondo ⟨את⟩ imba'apo'ihakuéra Shelomo rendápe, ohenduigui oñemoĩha hi'ári ñandy ojapo chugui mburuvicha itúva rire; Chiram ningo rayhu hína David-re opa ára kuéra.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba'apo'ihakuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imba'apo'ihakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ohenduigui"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "oñemoĩha hi'ári ñandy"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "oñemoĩ hese ñandy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvicha ramo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rire"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rayhu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hína"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:41:32.403156007Z",
+  "model": "glm-5.3"
+}

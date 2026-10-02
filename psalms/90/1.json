@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Ñembo'e Moche pegua, Elohim ýva. Adonai, mo'õháramo nde reiko va'ekue ñandéve ñemoñare ryepýpe, ñemoñare ryepýpe.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ñembo'e"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moche pegua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ýva"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mo'õháramo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "היית",
+      "gloss": "reiko va'ekue"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "ñemoñare ryepýpe"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ñemoñare ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:20.948401829Z",
+  "model": "glm-5.3"
+}

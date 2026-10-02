@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Pe oporomboguata haguãme. David mizmor. Jahve, rembojáva che rehe ha reikuaa che.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe oporomboguata haguãme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "rembojáva che rehe"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ha reikuaa che"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:26.024537202Z",
+  "model": "glm-5.3"
+}

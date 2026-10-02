@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 108,
+  "translation": "Che mbaʼe Gilad, che mbaʼe Menashe; Efrayim katu che akã iguasu ñemoʼãha, ha Jehuda che jehaipyre apohára.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "che mbaʼe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che mbaʼe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ha Efrayim katu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ñemoʼãha"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "che akã"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "che jehaipyre apohára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:44.709580270Z",
+  "model": "glm-5.3"
+}

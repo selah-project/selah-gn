@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Yehoshua oñemotenode ko'ẽme voi, ohecha jey ⟨את⟩ yvypóra kuéra, ha ojupi hikuái — ha'e voi ha Jisrael ruvichakuéra — yvypóra kuéra renondépe, Haípe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "oñemotenode ko'ẽme voi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ohecha jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra kuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yvypóra kuéra"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi hikuái"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e voi"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yvypóra kuéra"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haípe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:20:31.233063803Z",
+  "model": "glm-5.3"
+}

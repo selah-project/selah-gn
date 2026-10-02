@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Najchon omboʼa ⟨את⟩ Salma-pe; ha Salma omboʼa ⟨את⟩ Boaz-pe.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Ha Najchon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omboʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ha Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omboʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:50.128888691Z",
+  "model": "glm-5.3"
+}

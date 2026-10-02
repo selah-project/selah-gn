@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ko árape Jahve, nde Elohim, oñeʼẽ ndéve rejapo hag̃ua ⟨את⟩ koʼã jepokuaa ha ⟨את⟩ hekojojaha; eñangareko ha ejapo ⟨את⟩ chupe opaite nde korasõ peve ha opaite nde tekove.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Ko árape"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "oñeʼẽ ndéve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "rejapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã jepokuaa"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "jepokuaa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hekojojaha"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ejapo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupegui",
+      "marks": "chupe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde korasõ peve"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde tekove"
+    }
+  ],
+  "timestamp": "2026-10-02T10:07:36.606648043Z",
+  "model": "glm-5.3"
+}

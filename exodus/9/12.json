@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve omboatã ⟨את⟩ Farao pyʼa, ha nahendúi chupekuéra, Jahve oñeʼẽ haguéicha Moche-pe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "omboatã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao pyʼa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ahendu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haguéicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:07.840248985Z",
+  "model": "glm-5.3"
+}

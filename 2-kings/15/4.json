@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Upéicharamo, umi yvate renda ndoñemonguʼei: tapichakuéra gueteri omonguʼe ha omonde tendy umi yvate rendápe.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "upéicharamo"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "umi yvate renda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-…-i"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ñemonguʼe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tapichakuéra"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "omonguʼe"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "omonde tendy"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "umi yvate rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:14:54.101598897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha David otarova Elohim rehe pe árape, ha heʼi: Mbaʼeichápa aguahẽta cherehe ⟨את⟩ Elohim ⟨את⟩ aron?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "otarova"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Mbaʼeichápa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "aguahẽta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:31.407036695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ⟨pe⟩ mburuvicha ha opaite ⟨pe⟩ tavaygua ojuka juka Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavaygua"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "juka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:21:47.679922143Z",
+  "model": "glm-5.3"
+}

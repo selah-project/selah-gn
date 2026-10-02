@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "¿Nde niko ndereguerumoʼãivaʼerã ikererĩ hag̃ua ñande, ha nde kuãguy ovyʼa nde rehe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿niko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ndereguerumoʼãivaʼerã"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ikererĩ hag̃ua ñande"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ha nde kuãguy"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:37.255612173Z",
+  "model": "glm-5.3"
+}

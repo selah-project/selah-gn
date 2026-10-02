@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 95,
+  "translation": "Mbohapy pa arýpe aiporowara ko ñemoñare rehe, ha aheʼi: Tape oikojeýva iñapytuʼũme kuéra peichagua, ha ndekuaái che tapekuéra.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "mbohapy pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpe"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "aiporowara"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ko ñemoñare rehe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ha aheʼi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tape oikojeýva"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "oikojeýva"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "iñapytuʼũme"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kuéra peichagua"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha kuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kuaái"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "che tapekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:57.119956313Z",
+  "model": "glm-5.3"
+}

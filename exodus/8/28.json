@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Paráo omombarete ⟨את⟩ iñakã ko jeýpe avei, ha ndomonandiri ⟨את⟩ tavaygua.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "ha omombarete"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paráo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "jeýpe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavaygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:39.024947569Z",
+  "model": "glm-5.3"
+}

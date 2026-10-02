@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 26:9",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Uziahu ojapo óga yvatekuéra Jerusalaim-pe, pohýi okẽ ári, ygype okẽ ári ha jere rendápe, ha omombarete chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziahu"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "óga yvatekuéra"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "שער",
+      "gloss": "okẽ"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "pohýi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "שער",
+      "gloss": "okẽ"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "ygype"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "jere renda"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "omombarete chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:33:52.450278311Z",
+  "model": "glm-5.3"
+}

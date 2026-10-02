@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ahupytyrõ che aipysyrõ yrypy rehe, ha amopotĩ che po potĩha rehe —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ahupytyrõ"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "che aipysyrõ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "yrypy"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "ha amopotĩ"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "potĩha rehe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "che po"
+    }
+  ],
+  "timestamp": "2026-10-02T16:50:17.766372915Z",
+  "model": "glm-5.3"
+}

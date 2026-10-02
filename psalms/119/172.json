@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che ñeʼẽ apysa ombopu nde ñeʼẽmeʼẽ purorã; opaite nde mboʼe ⟨⟨haʼe⟩⟩ tsedek.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ombopu…purorã"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "che ñeʼẽ apysa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "nde ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "arakaʼetu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nde mboʼe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:34.936001239Z",
+  "model": "glm-5.3"
+}

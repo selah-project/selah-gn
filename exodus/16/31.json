@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Jisrael óga ohenói ⟨את⟩ héra: Man; ha haʼe gad raʼỹi jaháicha morotĩ, ha hiʼã chipáicha eĩra ndive ojepysóva.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "raʼỹi jaháicha"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gad"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "morotĩ"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ha hiʼã"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "chipáicha"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "eĩra ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:28.965321790Z",
+  "model": "glm-5.3"
+}

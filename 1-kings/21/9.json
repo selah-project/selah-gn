@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ohai kuatiakuérape heʼívo: Pehechauka jejuruʼỹ ára, ha peiporoʼĩ ⟨את⟩ Navot tavakuéra iñakãme.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "ha ohai"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "kuatiakuérape"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pehechauka"
+    },
+    {
+      "surface": "צום",
+      "gloss": "jejuruʼỹ ára"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "peiporoʼĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "iñakãme"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:50.622667447Z",
+  "model": "glm-5.3"
+}

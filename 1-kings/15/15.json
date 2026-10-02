@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha ogueru ⟨את⟩ i-ruvicha marangatu mbaʼekuéra ha pe ichupe g̃uarã marangatu, Jahve ógape: kuarepoti morotĩ, itaju ha mbaʼejerure.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-ruvicha marangatu mbaʼekuéra"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "marangatu mbaʼekuéra"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i-ruvicha"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ha pe ichupe g̃uarã marangatu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepoti morotĩ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ha itaju"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ha mbaʼejerure"
+    }
+  ],
+  "timestamp": "2026-10-02T11:53:23.300396487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Eli heʼi chupe: Mbaʼe ára peve reiko kaʼũháraicha? Eipeʼa ⟨את⟩ ne kãguasu ndehegui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha…heʼi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Mbaʼe ára…peve"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Mbaʼe ára peve"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "reiko kaʼũháraicha"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Eipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kãguasu"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "ne kãguasu"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ndehegui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:53:47.487107625Z",
+  "model": "glm-5.3"
+}

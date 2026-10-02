@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha oike hikuái ñeʼẽmeʼẽme oheka hag̃ua ⟨את⟩ Jahve, ituvaʼẽkuéra Elohim, opaite ikorasõme ha opaite itekovépe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "oike hikuái"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ñeʼẽmeʼẽme"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "oheka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ituvaʼẽkuéra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ikorasõme"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "itekovépe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:26:30.113545002Z",
+  "model": "glm-5.3"
+}

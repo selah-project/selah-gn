@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ruah ojapyhy ⟨את⟩ chupe iñapesũme, ha ojepyʼapýta hikuái imbaʼe zevachkuéra rehe.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruah"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (iñapesũme)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "iñapesũme"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ojepyʼapýta hikuái"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "imbaʼe zevachkuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:44:11.100638256Z",
+  "model": "glm-5.3"
+}

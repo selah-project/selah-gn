@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezekiel 20:44",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha peẽ rehechakuaata che haʼeha Jahve, che ajapóvo ⟨אתכם⟩ ndive che réra rérape, ndahaʼéicha peẽ tekóre ivaívape, ha ndahaʼéicha peẽ jekopytyrére oñembyaívape, Jisrael óga, Adonai Jahve heʼi.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "rehechakuaata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che haʼeha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעשותי",
+      "gloss": "ajapóvo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "peẽ ndive"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…-rérape"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "che réra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéicha"
+    },
+    {
+      "surface": "כדרכיכם",
+      "gloss": "peẽ tekóre"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ivaívape"
+    },
+    {
+      "surface": "וכעלילותיכם",
+      "gloss": "ha ndahaʼéicha peẽ jekopytyrére"
+    },
+    {
+      "surface": "הנשחתות",
+      "gloss": "oñembyaívape"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T14:17:50.675534196Z",
+  "model": "glm-5.3"
+}

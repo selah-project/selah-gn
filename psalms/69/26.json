@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Toiko nandi hikuái umi oikohápe, ha ani oiko ava ipekuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Toiko"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "umi oikohápe"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "ipekuéra apytépe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "toiko"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ava"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:25.321483900Z",
+  "model": "glm-5.3"
+}

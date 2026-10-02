@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ojapo ⟨את⟩ efod: itaju, tkelet, argaman, tolaat chani ha lino mokyre'ỹva.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ha ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tkelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "chani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mokyre'ỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:12.821980569Z",
+  "model": "glm-5.3"
+}

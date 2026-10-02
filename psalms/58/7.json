@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Elohim, eheboʼa ⟨את⟩ iñtĩnguéra ijuru rupi; emboka pe jagua raʼỹi tĩnguéra, Jahve.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "eheboʼa"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "iñtĩnguéra"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "ijuru rupi"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "tĩ guasu"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "jagua raʼỹi"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "emboka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:13.502859835Z",
+  "model": "glm-5.3"
+}

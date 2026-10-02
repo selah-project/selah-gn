@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojapo ⟨את⟩ kyry'i ñeñongatuha marangatu ha ⟨את⟩ tymoña marangatu, rembiapo jehayhuʼã apohápõguáicha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyry'i ñeñongatuha marangatu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "kyry'i"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ñeñongatuha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "tymoña marangatu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tymoña"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mbaʼe jehayhu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "jehayhuʼã apohápõ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:02.015673364Z",
+  "model": "glm-5.3"
+}

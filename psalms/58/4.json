@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Umi imbaʼevai kuéra ojeipeʼa ñemoñareguiguive; ohesaʼỹijo ñemomenoʼẽguive, oñeʼẽva mbaʼe jarýi kuéra.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "ojeipeʼa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi imbaʼevai kuéra"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ñemoñareguiguive"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ohesaʼỹijo"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ñemomenoʼẽguive"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "oñeʼẽva"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mbaʼe jarýi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:01.597948114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Shaúl ha Jisrael opavavẽ ohendu ⟨את⟩ ko'ã pelishti ñe'ẽ kuéra, ha ojekangy ha py'aguapy'ỹ opaitevévape.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavavẽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'ã pelishti ñe'ẽ kuéra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñe'ẽ kuéra"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelishti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ojekangy"
+    },
+    {
+      "surface": "ויראu",
+      "gloss": "py'aguapy'ỹ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "opaitevévape"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:29.725579144Z",
+  "model": "glm-5.3"
+}

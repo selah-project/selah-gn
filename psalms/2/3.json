@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Jaikytỹ ⟨את⟩ ijukãngatu ha jahererei ijukã orekóva ñanderehe.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Jaikytỹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijukãngatu"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ijukãngatu"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "jahererei"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ñanderehegui"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ijukã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:46.265292956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Omondo techauka ha jehechauka guasu Mitsraim ryepýpe, Parao rehe ha opaite iñirũnguéra rehe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Omondo"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "techauka"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ha jehechauka guasu"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Parao rehe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñirũnguéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:22.660808253Z",
+  "model": "glm-5.3"
+}

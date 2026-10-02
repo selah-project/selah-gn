@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha ohekomboʼe avei ⟨את⟩ mokõiha, avei ⟨את⟩ mbohapyha, avei ⟨את⟩ opa umíva ohóva vore kuéra rire, oñeʼẽ haguã: Kóicha ko ñeʼẽ peñeʼẽta Esav-pe, pehendúvo ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ohekomboʼe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõiha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbohapyha"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "mbohapyha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa umíva ohóva vore kuéra rire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "umíva ohóva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "vore kuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oñeʼẽ haguã"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kóicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko ñeʼẽ"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "peñeʼẽta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "pehendúvo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (Esav)"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:43.234293530Z",
+  "model": "glm-5.3"
+}

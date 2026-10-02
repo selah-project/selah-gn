@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Mbaʼepohýi Jahve ñeʼẽ, Jisrael-pe g̃uarã, Malaki pópe.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "mbaʼepohýi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe g̃uarã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-10-02T15:19:55.472677335Z",
+  "model": "glm-5.3"
+}

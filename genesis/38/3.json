@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha kuñakaraĩ ohyeguasu ha oguereko peteĩ taʼýra; ha ohenói ⟨את⟩ héra Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ohyeguasu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "oguereko memby"
+    },
+    {
+      "surface": "בן",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra Er"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:34.837054486Z",
+  "model": "glm-5.3"
+}

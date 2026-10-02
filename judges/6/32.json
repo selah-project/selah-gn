@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Upéicha ko árape ohenói chupe Jerubbaal, heʼívo: Baal oimoʼãta hese, haʼe ningo omboguejy ⟨את⟩ imizbeaj.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "oimoʼãta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "omboguejy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imizbeaj"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "imizbeaj"
+    }
+  ],
+  "timestamp": "2026-10-02T10:38:27.367666304Z",
+  "model": "glm-5.3"
+}

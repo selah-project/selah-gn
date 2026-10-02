@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Osohenói hyekue y guasúicha Jerusalaim jerére, ha ndaipóri omongarai va'erã.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "osohenói"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "hyekue"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "y guasúicha"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "jerére"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "omongarai va'erã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:51.624784593Z",
+  "model": "glm-5.3"
+}

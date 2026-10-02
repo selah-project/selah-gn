@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Che Elohim, ahenói arakue, ha nde nendesapysãi; ha pyhare katu, naipóri che pytu'urã.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Che Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "arakue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde... nde"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "nendesapysãi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare katu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "naipóri"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "pytu'urã"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:50.899806975Z",
+  "model": "glm-5.3"
+}

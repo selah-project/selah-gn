@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Jisrael mitãkuéra ome'ẽ Lewi kuérape ijeroviakue yvygui, Jahve jeroviápe, ⟨את⟩ ko'ã táva kuéra ha ⟨את⟩ iñe'ẽrenda kuéra.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewi kuérape"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "ijeroviakue yvygui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "jeroviápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'ã táva kuéra"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "táva kuéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñe'ẽrenda kuéra"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "iñe'ẽrenda kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:55.945306685Z",
+  "model": "glm-5.3"
+}

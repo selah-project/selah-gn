@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Ojererekó ⟨che⟩ rehe, ojejepokuaa jey ojererekó ⟨che⟩ rehe, hákatu Jahve rérape aipeʼáta chuguakuéra.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ojererekó ⟨che⟩ rehe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ojejepokuaa jey"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ojererekó ⟨che⟩ rehe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hákatu"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "aipeʼáta chuguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:11.566678263Z",
+  "model": "glm-5.3"
+}

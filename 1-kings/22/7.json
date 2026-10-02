@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Yehochafat he'i: ¿Ndaipóri pa ko'ápe ambue nabi Jahve mba'éva, jaheka hag̃ua ⟨את⟩ hese?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehochafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "ndaipóri pa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ko'ápe"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve mba'éva"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "jaheka hag̃ua"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ hese"
+    }
+  ],
+  "timestamp": "2026-10-02T12:01:34.721128387Z",
+  "model": "glm-5.3"
+}

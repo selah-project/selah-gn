@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Moche oñeʼẽ opa Jisrael atyguápe apysáre ⟨את⟩ ko purahéi ñeʼẽ, opa meve.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ha oñeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "apysáre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "atygua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "opa meve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:11:52.936694116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Chemuel oñeʼẽ ⟨את⟩ Jahve ñeʼẽ opaite pe tavayguakuéra ojerurehaguã chugui peteĩ mburuvicha guasu rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha oñeʼẽ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽ opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "ojerurehaguã"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ chugui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:48.457339153Z",
+  "model": "glm-5.3"
+}

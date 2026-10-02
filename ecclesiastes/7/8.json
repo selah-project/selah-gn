@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Iporãve pe mbaʼe paha iñepyrũrã iguara; iporãve ruah pukukue, ruah iñakãrakúva iguara.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "pe mbaʼe paha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "iñepyrũrã iguara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "iñakãrakúva iguara"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:06.969393608Z",
+  "model": "glm-5.3"
+}

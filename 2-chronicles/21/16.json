@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Jahve omopupu Yehoram rehe ⟨את⟩ ruah — Peliśtimkuéra ha Arabikuéra, oĩva Kuchikuéra po ykére.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "Ha ... omopupu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah — Peliśtimkuéra ha Arabikuéra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Peliśtimkuéra"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "Arabikuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kuchikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:29:24.292491295Z",
+  "model": "glm-5.3"
+}

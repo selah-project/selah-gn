@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Jisrael ojoaju Baal Peor rehe, ha Jahve iñaky pyaháva oñembopyahu Jisrael rehe.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "oñembopyahu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iñaky pyaháva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:35:05.633920867Z",
+  "model": "glm-5.3"
+}

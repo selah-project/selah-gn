@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha amoñemuña nde hetaiteiterei, ha amojapo nde tetãnguéra ramo, ha mburuvichaguasu osẽta ndehegui.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "Ha amoñemuña nde"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "he"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "taiteiterei"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ha amojapo nde"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "tetãnguéra ramo"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ha mburuvichaguasu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndehegui"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "osẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T07:40:04.718565818Z",
+  "model": "glm-5.3"
+}

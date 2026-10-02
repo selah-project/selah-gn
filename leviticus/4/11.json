@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨את⟩ vaka pire ha ⟨את⟩ opaite iñeʼỹra, iñakã ndive ha ipy vaipýpe, ha iñakãguasu ryepýpe ha ichuguéra rembeʼy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "vaka pire"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pire"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite iñeʼỹra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iñeʼỹra"
+    },
+    {
+      "surface": "על",
+      "gloss": "iñakã ndive"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ipy vaipýpe"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "py vaipy"
+    },
+    {
+      "surface": "וְקִרְבּוֹ",
+      "gloss": "ha iñakãguasu ryepýpe"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ichuguéra rembeʼy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:46.052823651Z",
+  "model": "glm-5.3"
+}

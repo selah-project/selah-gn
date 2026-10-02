@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Emombaʼeguasu, che reko, ⟨את⟩ Jahve, ha anke rehasa paʼũme opaite iporãva ojapo vaʼekue ndeve.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Emombaʼeguasu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che reko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha anke"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "rehasa paʼũme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "iporãva ojapo vaʼekue ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:19.203606753Z",
+  "model": "glm-5.3"
+}

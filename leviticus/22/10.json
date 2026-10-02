@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha opaite pytagua ndokaruiva'erã mbaʼe marangatu rehe; pe pa'i rógape oikóva ha pe omba'apóva virúpe ndokaruiva'erã mbaʼe marangatu rehe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זר",
+      "gloss": "pytagua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...iva'erã"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mbaʼe marangatu"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "pa'i rógape oikóva"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "omba'apóva virúpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...iva'erã"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mbaʼe marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:18.307261622Z",
+  "model": "glm-5.3"
+}

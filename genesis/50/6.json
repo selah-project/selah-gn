@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha Paroh he'i: Ehẽ, emoha'ãnga ⟨את⟩ nde ru,icha che mbou chove ndve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ehẽ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "emoha'ãnga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ru"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "che mbou chove ndve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:19.384835742Z",
+  "model": "glm-5.3"
+}

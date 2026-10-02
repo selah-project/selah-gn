@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha Lavan omeʼẽ chupe ⟨את⟩ Zilpa, imbaʼeapohára kuña, Lea imeʼẽ haguã — imemby kuña — imbaʼeapohára kuña ramo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "imbaʼeapohára kuña"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "imemby kuña"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "imbaʼeapohára kuña ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:41.240495172Z",
+  "model": "glm-5.3"
+}

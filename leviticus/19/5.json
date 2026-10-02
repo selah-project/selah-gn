@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha peẽ rejuka jave zeboja chelamim-pegua Jahve-pe g̃uarã, peẽ reipotaháicha pejuka va'erã chupe.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ha... jave"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "pejuka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zeboja"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "chelamim-pegua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe g̃uarã"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "reipotaháicha"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "pejuka va'erã chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:31.171454670Z",
+  "model": "glm-5.3"
+}

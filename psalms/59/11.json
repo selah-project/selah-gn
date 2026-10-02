@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Elohim iñhesed ndive ojuhúta chẽ mboyve; Elohim ohechauka cherehe che ñorãirõhárakuéra.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "iñhesed ndive"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ojuhúta chẽ mboyve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ohechauka cherehe"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "che ñorãirõhárakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:23.763311404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che aikuaa, Jahve, ne hekojojaha apoha añetegua; ha nde jeʼeporãpe nimi chéve.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ne apoha"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "jeʼeporãpe"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "nimi chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:01.781005520Z",
+  "model": "glm-5.3"
+}

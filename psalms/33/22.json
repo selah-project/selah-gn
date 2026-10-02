@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ore ári pe Temple pe hesed, Jahve, rohaʼarõ haguãicha nderehe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ore ári pe Temple"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "pe hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore ári"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…haguãicha"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "rohaʼarõ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:48.980501287Z",
+  "model": "glm-5.3"
+}

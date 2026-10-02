@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 82,
+  "translation": "Che ahe'akue: eloim peẽ, ha Elyón ta'ýra opaite peẽ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ahe'akue"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha ta'ýra"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyón"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "opaite peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:44.814362690Z",
+  "model": "glm-5.3"
+}

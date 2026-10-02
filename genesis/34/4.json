@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha Shekem heʼi Chamor, isýpe: Egueru chéve ⟨את⟩ pe kuñataĩ koʼág̃ua che rembireko ramo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isýpe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuñataĩ"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "pe kuñataĩ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "koʼág̃ua"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "che rembireko ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:04.570078819Z",
+  "model": "glm-5.3"
+}

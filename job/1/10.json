@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "¿Nde nda rejokuái pa hese, ha hoga, ha opa mbaʼe iñembaʼe ijerére? Nde romombaʼeguasu pe ipópe ojapo vaʼekue, ha imymbakuéra oñembojáva yvýpe.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿… pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "rejokuái"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hoga"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iñembaʼe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pe … ojapo vaʼekue"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "romombaʼeguasu"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "ha imymbakuéra"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "oñembojáva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:46:53.104556958Z",
+  "model": "glm-5.3"
+}

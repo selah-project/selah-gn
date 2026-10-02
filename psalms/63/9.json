@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Che rekove ojoja nde riregue, chépe oñemosãingo nde po akatúa.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ojoja"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "nde riregue"
+    },
+    {
+      "surface": "בי",
+      "gloss": "chépe"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "oñemosãingo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nde po akatúa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:35.102844110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Nde rehe, Jahve, ahekavoʼi; anive ajeguaru opaite ára.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Nde rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ahekavoʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anive"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ajeguaru"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:09.194912098Z",
+  "model": "glm-5.3"
+}

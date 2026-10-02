@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha'e yoju Jahve ñe'ẽ, ha opaite hembiapo ojapóva ñe'ẽme'ẽ reheve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "yoju"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "hembiapo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ñe'ẽme'ẽ reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:34.225791279Z",
+  "model": "glm-5.3"
+}

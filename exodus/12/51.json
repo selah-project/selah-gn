@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha upéi, pe ára tee aja, Jahve mboguata ⟨את⟩ Jisrael rayhuakuéra Mitsraim yvýgui, iñehérsitokuéra ndive.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "tee aja"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mboguata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael rayhuakuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "rayhuakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "iñehérsitokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:02.035392895Z",
+  "model": "glm-5.3"
+}

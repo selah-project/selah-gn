@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha pe kuimbaʼe ohechauka chupekuéra ⟨את⟩ táva jeikeha, ha oity ⟨את⟩ pe táva jukaha juru rupi, ha ⟨את⟩ pe kuimbaʼe ha ⟨את⟩ hogagua opavave omondo okayu.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "ohechauka chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táva jeikeha"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "jeikeha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "juru rupi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "jukaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuimbaʼe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hogagua opavave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "hogagua"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "omondo okayu"
+    }
+  ],
+  "timestamp": "2026-10-02T18:56:42.880498518Z",
+  "model": "glm-5.3"
+}

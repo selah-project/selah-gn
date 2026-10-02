@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ojapo ⟨את⟩ paletha shitim yvyra guiguaitépe, ha ombokuarepoti ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paletha"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "paletha"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ombokuarepoti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "paletha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kuarepoti"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:01.588803168Z",
+  "model": "glm-5.3"
+}

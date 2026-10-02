@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Marangatuete ⟨pe⟩ oúva Jahve réra ndive; ñandererecoy ⟨nde⟩ peẽ Jahve rógui guive.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Marangatuete"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "oúva"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "réra ndive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "ñandererecoy peẽ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "rógui guive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:41.276765927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Tembiporúpyrã Asaf g̃uarã. El, Elohim, Jahve oñeʼẽ ha ohenói ⟨את⟩ yvy, kuarahy resẽ guive og̃uahẽ hague meve.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Tembiporúpyrã"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf g̃uarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuarahy resẽ pegua"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guive"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "og̃uahẽ hague meve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:53.751227014Z",
+  "model": "glm-5.3"
+}

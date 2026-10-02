@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Katueterei, javorazo guasu ha guasu oje'u háicha, upéicha re'ukáta chupe: pe ovaíva ha pe marangatu oiko jojápe o'u chupe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "katueterei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "oje'u háicha"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oje'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "javorazo guasu"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "javorazo guasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guasu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "re'ukáta chupe"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "pe ovaíva"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "pe marangatu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "jojápe"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "o'u chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:56:05.405484213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Toú, Hamat mburuvicha, ohendu David ojuka hague ⟨את⟩ opaite ñorãirõhára Hadadezer, Tsova mburuvicha, rehe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Toú"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼéicha"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ñorãirõhára Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    }
+  ],
+  "timestamp": "2026-10-02T18:12:15.737567358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Moche he'i i-rembireko ru pe: — Tavaygua ou che renondépe oheka hag̃ua Elohim —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "i-rembireko ru pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upeigurã"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "oheka hag̃ua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:12.436317919Z",
+  "model": "glm-5.3"
+}

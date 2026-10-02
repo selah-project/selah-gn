@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Upéicha koʼág̃a, enepytũ koʼẽme, nde jára kuãirũnguéra ndive, umi ouvaʼekue ⟨את⟩ ndendive; ha peñepytũ vevýi koʼẽme, ojehecha rire kuarahy, peho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Upéicha koʼág̃a"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "enepytũ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽme"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "kuãirũnguéra"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nde jára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi…vaʼekue"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ouvaʼekue"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ndendive"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "peñepytũ vevýi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽme"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ojehecha rire kuarahy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pemombýpe"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "peho"
+    }
+  ],
+  "timestamp": "2026-10-02T11:14:31.494522922Z",
+  "model": "glm-5.3"
+}

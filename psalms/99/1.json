@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 99,
+  "translation": "Jahve oisãmbyhy — umi avanoʼõ okirỹi; keruvim ári opytáva — yvy okirỹi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "okirỹi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umi avanoʼõ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "opytava"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruvim ári"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "okirỹi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:23.809561956Z",
+  "model": "glm-5.3"
+}

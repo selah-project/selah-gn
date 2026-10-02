@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha oiko: mburuvicha ohendúvo ⟨את⟩ kuñataĩ ñeʼẽ, isãrundy ⟨את⟩ i ao, ha ohasávo ĩmby ári, ohecha tavayguakuéra, ha ningo oĩ pe ao anguʼa i pyʼape ári, ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ohendúvo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuñataĩ ñeʼẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuñataĩ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "isãrundy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ao"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "i ao"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasávo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ĩmby"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha ningo"
+    },
+    {
+      "surface": "השק",
+      "gloss": "pe ao anguʼa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "i pyʼape"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:06:53.148512649Z",
+  "model": "glm-5.3"
+}

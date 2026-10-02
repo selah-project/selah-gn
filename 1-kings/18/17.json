@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oiko pe Ajab ohecha ⟨את⟩ Elia, ha Ajab he'i chupe: Ndepa nde pe ombojaru Jisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ohecha rire"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Ndepa nde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "ombojaru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:35.118930949Z",
+  "model": "glm-5.3"
+}

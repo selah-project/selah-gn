@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha oiko haʼe oñeʼẽ jave Josef rehe ára gueteri ára, ha ndoehéi chupe oñeno haguã hendive, oiko haguã hendive.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "oñeʼẽ jave"
+    },
+    {
+      "surface": "אל",
+      "gloss": " rehe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára gueteri ára"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ehéi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "oñeno haguã"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "oiko haguã"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hendive"
+    }
+  ],
+  "timestamp": "2026-10-02T07:56:51.661111705Z",
+  "model": "glm-5.3"
+}

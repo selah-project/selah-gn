@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Jahve oĩ Jehochafat ndive, haʼe oiko rupi David, itúva, tape tenondeguáva rekópe, ha ndohekái vaʼekue Baal-kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehochafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe oiko rupi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "tapekuéra rekópe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "tenondeguáva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndohekái"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baal-kuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:26:34.046447659Z",
+  "model": "glm-5.3"
+}

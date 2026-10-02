@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha Ashur mburuvicha pópe guive aipeʼúta nde ha ⟨את⟩ ko táva, ha ambojokóta ko táva rehe.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "ha pópe guive"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "aipeʼúta nde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ko táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ha ambojokóta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:41.145130833Z",
+  "model": "glm-5.3"
+}

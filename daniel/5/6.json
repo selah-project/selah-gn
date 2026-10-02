@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Upépe mburuvicha guasu iñakãre iñambue, ha itimirã ojopy chupe, ha ipype renda oñemosãso, ha ikokuere ko ko oñondupa ojuehe.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "iñakãre"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "iñambue"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "ha itimirã"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "ojopy chupe"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "ha ipype renda"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "ijyvoty apy"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "oñemosãso"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "ha ikokuere"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "ko rehe"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "oñondupa ojuehe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:34:22.910120246Z",
+  "model": "glm-5.3"
+}

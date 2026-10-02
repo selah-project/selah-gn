@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Ani ojevy mavujápe pe oñembyaíva; pe oikotevẽva ha oñemboykevaʼekue jakuaa pe ne réra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "דך",
+      "gloss": "pe oñembyaíva"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "mavujápe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pe oikotevẽva"
+    },
+    {
+      "surface": "ו אביון",
+      "gloss": "ha pe oñemboykevaʼekue"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "jakuaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "pe ne réra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:57.988211536Z",
+  "model": "glm-5.3"
+}

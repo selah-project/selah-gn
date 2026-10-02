@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Jahve heʼi: Sedom ha Gomorra jerevi — añetegue, tuicha — ha iñangaipa — añetegue, ipohyiete hetaite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "jerevi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ha Gomorra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añetegue"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "ha iñangaipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añetegue"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ipohyiete"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaite"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:52.348042447Z",
+  "model": "glm-5.3"
+}

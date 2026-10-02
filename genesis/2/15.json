@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve Elohim oguereko ⟨את⟩ yvypóra, ha omoĩ chupe Ñeʼẽmeʼẽ kóva Edén ýpe, omombaʼapo hag̃ua ha omoñangareko hag̃ua hese.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "omoĩ chupe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "Ñeʼẽmeʼẽ kóva ýpe"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edén"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "omombaʼapo hag̃ua hese"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "omoñangareko hag̃ua hese"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:45.697678834Z",
+  "model": "glm-5.3"
+}

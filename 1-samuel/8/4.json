@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Upévare Jisrael tujakuaakuéra opavavete oñembyatý ha ou Shemuel-pe Ramata-pe.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "oñembyatý"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavete"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tujakuaakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramata-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:56:05.815104320Z",
+  "model": "glm-5.3"
+}

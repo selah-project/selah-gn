@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Hákatu che, ahenyhẽ puʼakápe ⟨את⟩ ruah Jahve rehe, tekojoja ha mbarete jeypýpe, amombeʼu hag̃ua Jaakovpe ingaʼu ha Jisraelpe ijavy.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Hákatu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ahenyhẽ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "puʼaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha tekojoja"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ha mbarete"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "amombeʼu hag̃ua"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovpe"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ingaʼu"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ha Jisraelpe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ijavy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:05:25.553520538Z",
+  "model": "glm-5.3"
+}

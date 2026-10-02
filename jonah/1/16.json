@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha umi kuimbaʼe oñemoñemoʼã tuichaitereí Jahve rehe ⟨את⟩, ha omoĩ hikuái mbaʼe tee Jahve-pe, ha oñeʼẽ hikuái ñeʼẽmeʼẽ.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "oñemoñemoʼã"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "tuichaitereí"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tuichaitereí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "omoĩ hikuái"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "mbaʼe tee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "oñeʼẽ hikuái"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:32.561938631Z",
+  "model": "glm-5.3"
+}

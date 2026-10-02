@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Upekuévo ñande raʼýkuéra ojoguáta umi oñemoĩvaʼekue kaʻarogue, okakuaapóva mitãrusúpe; ñande rajykuéra ojoguáta umi ita yvate rembe, oñemongai vaʼekue óga guasu raʼãngáicha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "upekuévo"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ñande raʼýkuéra"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "ojoguáta umi oñemoĩ vaʼekue"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "okakuaapóva"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "mitãrusúpe"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "ñande rajykuéra"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "ojoguáta umi ita yvate rembe"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "oñemongai vaʼekue"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "raʼãngáicha"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "óga guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:53.205500262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha kohen ogueru kuñá po gui ⟨את⟩ pe kenoã rehegua mincha, omyandyj ⟨את⟩ pe mincha Jahve renondépe, ha ogueraha ⟨את⟩ pe altar ári.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuñá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kenoã rehegua mincha"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "kenoã rehegua"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "omyandyj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pe mincha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe altar ári (upépe)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe altar"
+    }
+  ],
+  "timestamp": "2026-10-02T09:19:43.412798087Z",
+  "model": "glm-5.3"
+}

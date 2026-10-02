@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Avraham oguereko sa ary ojhechakuaa haguã ⟨את⟩ Jitshak, imemby, ou hese pe árape.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ha Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "ojhechakuaa haguã"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "imemby"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:05.910788578Z",
+  "model": "glm-5.3"
+}

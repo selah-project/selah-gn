@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Yokchan oguereko ⟨את⟩ Cheva ha ⟨את⟩ Dedan; ha Dedan raʼykuéra haʼe ashurim, letuchim ha leʼumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Ha Yokchan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha raʼykuéra"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "letuchim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "leʼumim"
+    }
+  ],
+  "timestamp": "2026-10-02T07:46:34.042328356Z",
+  "model": "glm-5.3"
+}

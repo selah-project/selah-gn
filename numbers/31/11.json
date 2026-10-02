@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ogueru hikuái ⟨את⟩ opaite mbaʼe mondopyre ha ⟨את⟩ opaite ojapyhypyre — yvypóra ha mymba mokõive apytépe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe mondopyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "mbaʼe mondopyre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ojapyhypyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ojapyhypyre"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mymba"
+    }
+  ],
+  "timestamp": "2026-10-02T09:41:06.257119437Z",
+  "model": "glm-5.3"
+}

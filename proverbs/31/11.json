@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Iména korasõ ojerovia hese, ha hevyrã ndojey'õi chuve.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ojerovia"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "iména"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ha hevyrã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ojey'o"
+    }
+  ],
+  "timestamp": "2026-10-02T16:45:02.381471636Z",
+  "model": "glm-5.3"
+}

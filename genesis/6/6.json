@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Jahve oykeko ojapo hague ⟨את⟩ yvypóra yvy ape ári, ha iñandu vaíva iñakãme.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "oykeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ojapo hague"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "iñandu vaíva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñakãme"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:42.162074599Z",
+  "model": "glm-5.3"
+}

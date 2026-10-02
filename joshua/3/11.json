@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Pehecha, pe ñe'ẽme'ẽ mba'eryru — Adonai, opaite yvy jára — ohasáta pe mboyve peve Yardén rupi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Pehecha"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mba'eryru"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ñe'ẽme'ẽ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasáta"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pe mboyve peve"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yardén rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:04.338203252Z",
+  "model": "glm-5.3"
+}

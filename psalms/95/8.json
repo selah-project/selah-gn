@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 95,
+  "translation": "Ani eñemoĩ apyrãi nde rekove pype, Meriva áraicha, Masa áraicha yvy kuera pype.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "eñemoĩ apyrãi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "nde rekove pype"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "Meriva áraicha"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "árape guiguáicha"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Masa áraicha"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvy kuera pype"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:53.165616841Z",
+  "model": "glm-5.3"
+}

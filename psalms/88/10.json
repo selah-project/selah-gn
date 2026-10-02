@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "Che resã oñembyasy che vaietégui; ahenói nde, Jahve, opa árape, amyasãi chupe nde rehe che po.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "che resã"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gui"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vaiete"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ahenói nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "amyasãi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "che po"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:11.016092995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve, peẽ ru Elohim, ombojoapy peẽre peẽicha su jey rupi, ha omoĩ porã ⟨את⟩ peẽ ojeʼícha peẽme!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "peẽ ru"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ombojoapy"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽre"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "peẽicha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jey"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ha omoĩ porã"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...háicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ojeʼi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:37.139000970Z",
+  "model": "glm-5.3"
+}

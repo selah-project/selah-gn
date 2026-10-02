@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Upe rehe Jahve ojuehe ⟨את⟩ Jaakov, ha ohejava'ekue ⟨חזק⟩ ipu'akavéva ipoguígui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upe rehe"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ojuehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ohejava'ekue"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ipoguígui"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ipu'akavéva"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    }
+  ],
+  "timestamp": "2026-10-02T19:11:43.342907496Z",
+  "model": "glm-5.3"
+}

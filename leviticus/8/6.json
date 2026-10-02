@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Moche ogueru ⟨את⟩ Aharon ha ⟨את⟩ ime᷈kuéra raʼýpe, ha omoĩ ⟨את⟩ chuguikuéra ýpe ojohesapívo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ime᷈kuéra raʼýpe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ime᷈kuéra raʼýpe"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "ojohesapívo omoĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chuguikuéra"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:12.348256133Z",
+  "model": "glm-5.3"
+}

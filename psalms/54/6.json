@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 54,
+  "translation": "Peʼépe: Elohim chepytyvõhára ⟨haʼe⟩; Adonai ⟨haʼe⟩ che rekove oitypyrãva ndive.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Peʼépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "chepytyvõ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "oitypyrãva ndive"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:45.910434686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 31:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha che, maʼẽ, che ameʼẽ ⟨את⟩ hese ⟨את⟩ Oholiav, Ajisamak raʼy, Dan ñemoñaregui; ha opaite iñarandúva korasõ ryepýpe che ameʼẽ chupe ñarandu, ha ojapóta ⟨את⟩ opaite pe che ameʼẽ ndéve ejapo hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "maʼẽ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che ameʼẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oholiav"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "Oholiav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "Ajisamak"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ñemoñaregui"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "ha korasõ ryepýpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "iñarandúva"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che ameʼẽ chupe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ñarandu"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ha ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "che ameʼẽ ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:06.486873225Z",
+  "model": "glm-5.3"
+}

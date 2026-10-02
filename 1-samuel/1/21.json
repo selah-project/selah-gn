@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha upéi, kuimba'e Elkana ha hógape opavavéva ou jey yvate gotyo ojapo hag̃ua Jahvape ⟨את⟩ ary arapy guenteri jevicha ha ⟨את⟩ iñe'ẽme'ẽ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ou jey yvate gotyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavavéva"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hógape"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ojapo hag̃ua jevicha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ary arapy guenteri jevicha"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jevicha"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ary arapy guenteri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñe'ẽme'ẽ"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "iñe'ẽme'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:53:48.492976255Z",
+  "model": "glm-5.3"
+}

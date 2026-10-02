@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Eñeʼẽ Jisrael membykuérape ha eʼẽ chupekuéra: kuimbaʼe kuimbaʼe, oiko ramo iñakãguasu hembiguaitégui osyva hiʼári, hembiguaitépe g̃uarã ⟨⟨oĩ⟩⟩ chupe vaícha.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykue"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ha eʼẽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "זב",
+      "gloss": "oĩ hembiguaitévo osy"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "iñakãguasúgui"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "hembiguaitépe g̃uarã"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "vaícha oĩ chupe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "upe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:53.312745302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Tavera-pe, Masa-pe ha Kibrot-haTaava-pe peẽ mongapyhy ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "Ha Tavera-pe"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "Masa-pe"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "Kibrot-"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "haTaava-pe"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "mongapyhy"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "peẽ ⟨מongapyhy⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:16.162430900Z",
+  "model": "glm-5.3"
+}

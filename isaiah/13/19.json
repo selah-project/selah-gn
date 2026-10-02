@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha upéicha Bavel, mamblakuéra jaichua, Kachdi-kuéra jeiko mbaretépe g̃uarã porakã, oikóta haguãicha pe Elohim omohapẽ hague ⟨את⟩ Sdom ha ⟨את⟩ Amora.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ha upéicha oikóta"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "jaichua"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mamblakuéra"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "porakã"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "jeiko mbarete"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kachdi-kuéra"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "omohapẽ haguãicha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sdom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-10-02T19:05:52.963881075Z",
+  "model": "glm-5.3"
+}

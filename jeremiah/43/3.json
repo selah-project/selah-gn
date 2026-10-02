@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha upéva rangue, Baruk, Neria raʼýi, omoinge ⟨את⟩ nde orandí, omeʼẽ hag̃ua ⟨את⟩ orévo kasdeokuéra ipo ryepýpe, ojuka hag̃ua ⟨את⟩ orévo ha ogesaraʼo hag̃ua ⟨את⟩ orévo Bavel-pe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha upéva rangue"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neria"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "omoinge"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "orandí"
+    },
+    {
+      "surface": "למען",
+      "gloss": "omeʼẽ hag̃ua"
+    },
+    {
+      "surface": "תת",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "orévo, kasdeokuéra ipo ryepýpe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ipo ryepýpe"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdeokuéra"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ojuka hag̃ua"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "orévo"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "ha ogesaraʼo hag̃ua"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "orévo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:44:37.775246697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Arfachshad oheñói ⟨את⟩ Shelaj, ha Shelaj oheñói ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfachshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "oheñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelaj"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ha Shelaj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "oheñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:23.047734987Z",
+  "model": "glm-5.3"
+}

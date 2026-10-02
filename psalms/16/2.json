@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Che heʼi Jahve-pe: Adonai, nde rei; che mbaʼe porã opaite nde ryepýpe.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "che heʼi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde rei"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "che mbaʼe porã"
+    },
+    {
+      "surface": "בל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:55.828680462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Oguejýta okýicha ka'avo oñenoỹva ári, okyryry'ietaicha ombokuchúva yvy.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "oguejýta"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "okýicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ka'avo oñenoỹva"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "okyryry'ietaicha"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ombokuchúva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:54.410573938Z",
+  "model": "glm-5.3"
+}

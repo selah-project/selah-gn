@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha umi tahayhúta chekets peẽ g̃uarã; hetégui ndapeikaru va'erã, ha ⟨את⟩ umi manomba'e peẽ jahory va'erã.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ha chekets"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tahayhu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ g̃uarã"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "hetégui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...va'erã"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "peikaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi manomba'e"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "umi manomba'e"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "jahory va'erã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:08.229638098Z",
+  "model": "glm-5.3"
+}

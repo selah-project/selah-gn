@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "⟨Haʼe⟩ yvy pe Jahve nde Elohim ohecha henda tapiaite; Jahve nde Elohim resãi kuéra oĩ ⟨hendape⟩, arange ñepyrũguive arange paha peve.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "resãi kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hendape"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "ñepyrũguive"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "arange"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "paha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arange"
+    }
+  ],
+  "timestamp": "2026-10-02T18:51:37.790336101Z",
+  "model": "glm-5.3"
+}

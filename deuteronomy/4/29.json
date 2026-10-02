@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha upéi, eheka upégui ⟨את⟩ Jahve, nde Elohim, ha rejuhúta chupe, upévare rehekaséta peẽ nde rekópe tuichakue javeve ha nde nephesh tuichakue javeve.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "eheka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "rejuhúta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "rehekaséta chupe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tuichakue javeve"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde reko pytuʼuete"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha tuichakue javeve"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde nephesh"
+    }
+  ],
+  "timestamp": "2026-10-02T09:50:47.435656153Z",
+  "model": "glm-5.3"
+}

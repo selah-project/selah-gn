@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ambohasápa katu che ha ahecha ⟨את⟩ yvy porã oĩva Jaren ijyvykuárape, ko yvyty porã ha Levanón.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ambohasa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "katu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ha ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy porã"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "porã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ijyvykuárape"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jaren"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ha Levanón"
+    }
+  ],
+  "timestamp": "2026-10-02T09:48:10.714570791Z",
+  "model": "glm-5.3"
+}

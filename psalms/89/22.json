@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Hendive che po oñemopyenda, ha che py'aguasu omomba'ẽ chupe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "oñemopyenda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "che py'aguasu"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "omomba'ẽ chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:46.026916255Z",
+  "model": "glm-5.3"
+}

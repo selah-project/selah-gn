@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Upéicha che kabod opurahéi ndéve, ha ani oñemi: Jahve, che Elohim, aaguyje ndéve opa ag̃ave.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "opurahéi ndéve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "che kabod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "oñemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ag̃ave"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aaguyje ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:32.063230682Z",
+  "model": "glm-5.3"
+}

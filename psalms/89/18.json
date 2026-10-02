@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Vel nde pe ⟨tekoiteguasu⟩ ipuʼakakuépe, ha ne arorýipe ñande puʼaka ojehupipýta yvate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vel"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "tekoiteguasu"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ipuʼakakuépe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ha ne arorýipe"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ojehupipýta yvate"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "ñande puʼaka"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:37.408557966Z",
+  "model": "glm-5.3"
+}

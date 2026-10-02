@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oiko David, che ru, korasõme ojapo hag̃ua peteĩ óga Jahve, Jisrael Elohim, réra peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "korasõme"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "réra peg̃uarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:01.056039147Z",
+  "model": "glm-5.3"
+}

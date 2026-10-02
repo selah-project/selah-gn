@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Nde rechauka ne mbaʼaporãhára David, che ru, ⟨את⟩ pe remimoĩ hague chupe; ne jurúpe remimoĩ, ha ne pópe emohenda chupe, koʼág̃a árapeguáicha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "Nde rechauka"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ne mbaʼaporãhára"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe remimoĩ hague"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "remimoĩ hague"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "remimoĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "remimoĩ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ne jurúpe"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ne pópe"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "emohenda chupe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "koʼág̃a ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "guáicha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:47:12.334923991Z",
+  "model": "glm-5.3"
+}

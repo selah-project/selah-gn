@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha Pínchas oñembyaty ha ojapo hekojojaha, ha pe mbaʼasy ojejoko.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pínchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ojapo hekojojaha"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ojejoko"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "pe mbaʼasy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:57.778303918Z",
+  "model": "glm-5.3"
+}

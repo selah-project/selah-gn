@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha ko'ág̃a, peẽ peipe'u ⟨את⟩ umi tupã iñambuéva oĩva peẽ apytépe, ha peẽ pembohasa ⟨את⟩ peẽ apytu'ũ Jahve-pe, Jisrael Elohim-pe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha ko'ág̃a"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "peipe'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tupã iñambuéva"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "umi tupã"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "iñambuéva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "peẽ apytépe"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "pembohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ apytu'ũ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "peẽ apytu'ũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:15.417487385Z",
+  "model": "glm-5.3"
+}

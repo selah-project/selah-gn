@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oguereko jave chupekuéra peteĩ mba'e, ou che renondépe, ha che ahekojoja peteĩ kuimba'e ha iñirũ apytépe, ha che amoñe'ẽ chupekuéra ⟨את⟩ Elohim reko me'ẽ ha ⟨את⟩ iTora.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jave"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peteĩ mba'e"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "ahekojoja"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimba'e"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha apytépe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iñirũ"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "amoñe'ẽ chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim reko me'ẽ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "reko me'ẽ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iTora"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "iTora"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:12.436473050Z",
+  "model": "glm-5.3"
+}

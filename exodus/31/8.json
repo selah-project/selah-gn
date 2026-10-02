@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ⟨את⟩ chuljan ha ⟨את⟩ imbaʼeaporenguéra, ha ⟨את⟩ menorah ndaijypyrĩva ha ⟨את⟩ opaite imbaʼeaporenguéra, ha ⟨את⟩ mizbeach ketoret g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chuljan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "chuljan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼeaporenguéra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imbaʼeaporenguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ndaijypyrĩva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite imbaʼeaporenguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "imbaʼeaporenguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeach"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ketoret g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:06.487285323Z",
+  "model": "glm-5.3"
+}

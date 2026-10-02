@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Oñemokangy rire, ndojekytái; Jahve oipytyvõ ipo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rirẽ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "oñemokangy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "jekytái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Jahve rehegui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "oipytyvõ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:20.910784789Z",
+  "model": "glm-5.3"
+}

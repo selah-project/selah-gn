@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Gueval, Amón, Amalek, Pelesitia, Tsor iyvývakuéra ndive.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gueval"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ha Amón"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ha Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesitia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iyvývakuéra"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:33.349168059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha umi Mitsraim-yguára oikuaáta che haʼeha Jahve, che po aipeguívo Mitsraim ári, ha ahesaʼỹijótako ⟨את⟩ Jisrael membykuéra ijerére guive.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "oikuaáta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-yguára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che haʼeha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "che po aipeguívo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che po"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ahesaʼỹijótako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ijerére guive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:16.283397141Z",
+  "model": "glm-5.3"
+}

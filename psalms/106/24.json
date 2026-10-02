@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha omaʼẽ ⟨yvy iporãvare⟩, ndorojeroviái iñeʼẽre.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "ha omaʼẽ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo..."
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "roroviái"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "iñeʼẽre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:59.228838049Z",
+  "model": "glm-5.3"
+}

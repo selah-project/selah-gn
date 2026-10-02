@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Nde tape kuéra, Jahve, ehechauka chéve; nde tape guasu kuéra emoarû chéve.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Nde tape kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ehechauka chéve"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "nde tape guasu kuéra"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "emoarû chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:45.903924563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Che pyʼa orýta ha ambojúta ⟨אתכם⟩ kytĩ guasúpe, ha pe kuñanguéra oikóta kuña iména omanóva ramo, ha pe mitãnguéra taʼýra rei ramo.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "orýta"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "che pyʼa"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ha ambojúta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kytĩ guasúpe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "pe kuñanguéra"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "kuña iména omanóva ramo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ha pe mitãnguéra"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "taʼýra rei ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:07.124903180Z",
+  "model": "glm-5.3"
+}

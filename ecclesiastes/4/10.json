@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Peteĩva oñemonguetéramo, pe ambuégui omopuʼã ⟨את⟩ hiʼirũ; ha ¡aĩvape! pe oñemonguéva, ndaipóri mokõiha omopuʼã hag̃ua chupe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oñemonguetéramo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "oñemongue"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩva"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiʼirũ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "hiʼirũ"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ha ¡aĩvape!"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "pe oñemonguéva"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "oñemonguetaha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "omopuʼã hag̃ua chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:28.557378457Z",
+  "model": "glm-5.3"
+}

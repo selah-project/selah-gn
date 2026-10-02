@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha mba'apo apopyrã ojapo hag̃ua itaju, plate ha itatũnguápe.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "Ha mba'apo apopyrã"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "apopyrã"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ha plate"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ha itatũnguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:19.503549880Z",
+  "model": "glm-5.3"
+}

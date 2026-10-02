@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Jahve, pe Elohim pehenguéva, rire peikua, ha ⟨את⟩ chupe pejakýi, ha ⟨את⟩ iñeʼẽmeʼẽnguéra peñangareko, ha iñeʼẽ rehe pejapysaka, ha ⟨את⟩ chupe pembaʼapo, ha hendive peñopyrũ.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ryre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "peikua"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pejakýi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽmeʼẽnguéra"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iñeʼẽmeʼẽnguéra"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "iñeʼẽ rehe"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "pejapysaka"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "pembaʼapo"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "peñopyrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T18:52:33.807599735Z",
+  "model": "glm-5.3"
+}

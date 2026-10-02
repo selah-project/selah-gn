@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Ani eñomi nde rechaukaha chehegui che asyahápe; emoĩ nde apysa che rendápe; che ahenóiro árape, eipota pyaʼe ere cherehe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "eñomi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde rechaukaha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chehegui"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "che asyahápe... árape"
+    },
+    {
+      "surface": "צר",
+      "gloss": "che asyaha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rendápe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nde apysa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ahenóiro"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pyaʼe"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ere cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:48.475528090Z",
+  "model": "glm-5.3"
+}

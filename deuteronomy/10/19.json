@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Pehayhu ⟨את⟩ oúva tetã ambuégui, peẽ niko upéicha ou heta Mitsraim yvýpe.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "pehayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oúva tetã ambuégui"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "oúva tetã ambuégui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "umícha"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ou heta"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "peẽ niko ou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T09:53:36.211626493Z",
+  "model": "glm-5.3"
+}

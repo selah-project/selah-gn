@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Upeicharõ, chuguikuéra yva ou Sedom yva raʼỹígui ha Amorah kokuégui; chuguikuéra yva haʼe poaña yva, yva atyryry hai chuguikuéarã.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upeicharõ"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "yva raʼỹígui"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "chuguikuéra yva"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "ha kokuégui"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "chuguikuéra yvakuéra"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "yva"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "poaña"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "yva atyryry"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "hai"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chuguikuéarã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:13:10.339860663Z",
+  "model": "glm-5.3"
+}

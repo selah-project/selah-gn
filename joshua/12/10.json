@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Jerusalaim mburuvicha, peteĩ; Hevron mburuvicha, peteĩ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:23:58.341673515Z",
+  "model": "glm-5.3"
+}

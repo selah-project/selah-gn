@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ Ofir, ha ⟨את⟩ Chavila, ha ⟨את⟩ Iovav; ko'ãpaite ha'e Joktan ra'ýkuéra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Chavila"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Iovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Iovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktan"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:16.723171205Z",
+  "model": "glm-5.3"
+}

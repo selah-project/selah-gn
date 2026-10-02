@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Ejerure Jerusalaim tekoporã rehecha; umi nde rayhóvape oiko porãhaʼẽpe",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Ejerure"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tekoporã rehecha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "oiko porãhaʼẽpe"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "umi nde rayhóvape"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:42.217012109Z",
+  "model": "glm-5.3"
+}

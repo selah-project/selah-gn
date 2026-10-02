@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Che jejopykuéra oñande vai ha oje'a che arakuaa'ỹ rehegui.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "oñande vai"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "oje'a"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "che jejopykuéra"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rehegui"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "che arakuaa'ỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:28.434267028Z",
+  "model": "glm-5.3"
+}

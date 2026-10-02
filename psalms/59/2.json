@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Che Elohim, eipeʼa che che riverakuéra gui, emoĩ che yvate umi che jokoha kuéra gui.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "eipeʼa che"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "che riverakuéra gui"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "che jokoha kuéra gui"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "emoĩ che yvate"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:16.331483209Z",
+  "model": "glm-5.3"
+}

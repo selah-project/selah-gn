@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha pe kavara ogueraháta iguýpe ⟨את⟩ opaite umi mbaʼevai, peteĩ yvy ojeipeʼáva gotyo; ha omondóta ⟨את⟩ pe kavara kaʼaguýpe.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ogueraháta iguýpe"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pe kavara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iguýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi mbaʼevai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "umi mbaʼevai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ojeipeʼáva"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "omondóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kavara"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pe kavara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:57.452769595Z",
+  "model": "glm-5.3"
+}

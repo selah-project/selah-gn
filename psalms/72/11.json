@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Opaite mburuvichakuéra oñenungá ⟨את⟩ chupe; opaite tetãnguéra ombaʼapo chupe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "oñenungá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "ombaʼapo chupe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:02.541482187Z",
+  "model": "glm-5.3"
+}

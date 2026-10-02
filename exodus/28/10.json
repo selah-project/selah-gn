@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Poteĩ umi téra rugua peteĩ itápe, ha ⟨את⟩ umi poteĩ téra okañýva hikuái, opaite ita mokõihápe, heñoihague rapykueére.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "Poteĩ"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "umi téra rugua"
+    },
+    {
+      "surface": "על",
+      "gloss": "pé"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "peteĩ itá"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "peteĩha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi poteĩ téra okañýva"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "umi téra"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "umi poteĩ"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "okañýva hikuái"
+    },
+    {
+      "surface": "על",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ita"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "mokõihápe"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "heñoihague rapykueére"
+    }
+  ],
+  "timestamp": "2026-10-02T18:45:55.234425396Z",
+  "model": "glm-5.3"
+}

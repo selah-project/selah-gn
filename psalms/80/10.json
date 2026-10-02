@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Reipe'a henda ijere mboyve, oñakãrapuʼã imomõre ha ⟨yvy⟩ oñemyenyhẽ.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "reipe'a ijere"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "imboyveguárõ"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "oñakãrapuʼã"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "imomõnguéra"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "oñemyenyhẽ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:22.242775198Z",
+  "model": "glm-5.3"
+}

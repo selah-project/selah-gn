@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha y ojevy yvy árigui, oho ha ojevy jey; ha y omichĩ 150 ára rire.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "árigui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ojevy jey"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "omichĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "50"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ha 100"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:12.915008679Z",
+  "model": "glm-5.3"
+}

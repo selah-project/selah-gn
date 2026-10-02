@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Ani pejupi pe yvyrakuã yvate gotyo, ani peñe'ẽ pakã kuã ndive.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "pejupi"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "pe yvyrakuã"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "peñe'ẽ"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "pakã kuã ndive"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "pakã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:38.091533836Z",
+  "model": "glm-5.3"
+}

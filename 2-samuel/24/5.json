@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ohasa ⟨את⟩ Yarden ha oñemoĩ Aroer-pe, ⟨pe⟩ táva akatúape, oĩva Gad ysyrýpe iñembytépe, ha oho Jaer peve.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroer-pe"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "akatúape"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iñembytépe"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ysyrýpe"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha oho…peve"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaer"
+    }
+  ],
+  "timestamp": "2026-10-02T11:35:32.148600683Z",
+  "model": "glm-5.3"
+}

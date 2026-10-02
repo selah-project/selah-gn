@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ñemoĩmbyre auvicha peẽ ningo ⟨את⟩_Jahve rehe, ára guive aikuaahague peẽ.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Ñemoĩmbyre auvicha"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "peẽ ningo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ára guive"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "aikuaahague"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩_peẽ",
+      "marks": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:16.162730195Z",
+  "model": "glm-5.3"
+}

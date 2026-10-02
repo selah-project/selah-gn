@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha David heʼi oñembyaty hag̃ua ⟨את⟩ umi pytagua oĩva Jisrael retãme, ha omoĩ itajepyʼapohára kuéra ojepoʼy hag̃ua ita porã kuéra, ojapo hag̃ua ⟨את⟩ Elohim óga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha … heʼi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "oñembyaty hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi pytagua"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "umi pytagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "itajepyʼapohára kuéra"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "ojepoʼy hag̃ua"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ita"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "porã kuéra"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:12:36.416911208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Pe vai rekovára, iñakãguasu pype, ani oheka ⟨Elohim⟩; «ndaipóri Elohim» — opaite hembiapokuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "vai rekovára"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "iñakãguasu pype"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "hembiapokuéra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:56.042247629Z",
+  "model": "glm-5.3"
+}

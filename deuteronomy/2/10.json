@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Umi Emim oiko kuápe yma guive, ⟨haʼe hikuái⟩ avano'õ guasu, hetáva, ñakãratúva, Anakim rechaicha.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "yma guive"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuápe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avano'õ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "hetáva"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ñakãratúva"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "Anakim rechaicha"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:30.070038739Z",
+  "model": "glm-5.3"
+}

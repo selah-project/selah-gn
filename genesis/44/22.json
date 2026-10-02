@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Ha jaʼe che jára: pe mitã ndaikatu oheja ⟨את⟩ itúa; ha oheja ⟨את⟩ itúa, ⟨itúa⟩ omano.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Ha jaʼe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaikatu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ndaikatu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúa"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ha oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-02T08:01:00.573149309Z",
+  "model": "glm-5.3"
+}

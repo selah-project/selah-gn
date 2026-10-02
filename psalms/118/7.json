@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Jahve ⟨che reheguáva⟩ che pytyvõhára apytépe, ha che ahecha ⟨⟩ umi ndaijaʼéiva cherehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che reheguáva"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "che pytyvõhára apytépe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "umi ndaijaʼéiva cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:01.252589919Z",
+  "model": "glm-5.3"
+}

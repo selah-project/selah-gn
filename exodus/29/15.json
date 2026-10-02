@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha ⟨את⟩ peteĩ karaja reguerata, ha Aharon ha iñemoñarã omoĩta ⟨את⟩ i po kuéra karaja akã ári.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "peteĩ karaja"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "karaja"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "reguerata"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "omoĩta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iñemoñarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i po kuéra"
+    },
+    {
+      "surface": "יְדֵיהֶם",
+      "gloss": "i po kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "karaja"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:59.968428414Z",
+  "model": "glm-5.3"
+}

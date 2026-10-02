@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ⟨את⟩ ku su ha pokõi sa paporundypa po chekel rehe ojapo jupiha umi sõnguéra g̃uarã, ha oñembo'a hikuái iñakãnguéra, ha ojejopy ⟨את⟩ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ku su ha pokõi sa paporundypa po chekel"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ku su"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "paporundypa po"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "jupiha"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "umi sõnguéra g̃uarã"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "oñembo'a"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "iñakãnguéra"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "ojejopy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:34.208173691Z",
+  "model": "glm-5.3"
+}

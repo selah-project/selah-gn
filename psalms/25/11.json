@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Nde réra rérape, Jahve, eheja che rembiapo vai, tuichaháicha hína.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "eheja"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "che rembiapo vai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tuichaháicha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hína"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:59.827319120Z",
+  "model": "glm-5.3"
+}

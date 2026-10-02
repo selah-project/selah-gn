@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 101,
+  "translation": "Korasõ iñapa oesẽta chegui; mbaʼe vai che akuaamoʼãi.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "iñapa"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "oesẽta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chegui"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-…moʼãi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "akuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:30.737522020Z",
+  "model": "glm-5.3"
+}

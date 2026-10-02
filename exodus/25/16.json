@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha emoĩta aron-pe ⟨את⟩ je'akuaa che ame'ẽta ndéve.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "emoĩta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je'akuaa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "je'akuaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ame'ẽta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:28.067626613Z",
+  "model": "glm-5.3"
+}

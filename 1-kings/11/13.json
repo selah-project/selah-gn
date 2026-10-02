@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upéicharõ jepe, ⟨את⟩ opaite mburuvicharã nahániri achekaʼẽta; peteĩ ñemoñare aty ameʼẽta nde raʼýpe, David che mbaʼapohára rehegua, ha Jerusalaim rehegua, pe che aiporavo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "jepe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mburuvicharã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "achekaʼẽta"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ñemoñare aty"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ameʼẽta"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "nde raʼýpe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che mbaʼapohára"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ha rehegua"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "che aiporavo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:47.886615151Z",
+  "model": "glm-5.3"
+}

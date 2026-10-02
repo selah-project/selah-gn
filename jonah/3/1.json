@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéi, Jahve ñeʼẽ ou Jona peve mokõihápe, heʼiháicha:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mokõihápe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼiháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:01:41.015489903Z",
+  "model": "glm-5.3"
+}

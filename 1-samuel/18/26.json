@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 18:26",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha iñarõikuéra omomarandu David-pe ⟨את⟩ ko'ã ñe'ẽ; ha ko ñe'ẽ ojepohéi David resápe oikóvo mburuvicha membyrkue ramo; ha ndojetyporãi umi ára.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "omomarandu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñarõikuéra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'ã ñe'ẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ojepohéi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko ñe'ẽ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להתחתן",
+      "gloss": "oikóvo mburuvicha membyrkue ramo"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo...ãi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ojetyporãi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:20.151298940Z",
+  "model": "glm-5.3"
+}

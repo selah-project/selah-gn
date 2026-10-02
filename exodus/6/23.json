@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Aharon omoñepyrũ ⟨את⟩ Elichéva, Amitnadab taʼyakuéra, Najchon pehẽngue, iména ramo; ha upévagui heñói chupe ⟨את⟩ Nadav, ⟨את⟩ Avihu, ⟨את⟩ Elazar ha ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "omoñepyrũ (ména ramo)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elichéva"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elichéva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "taʼyakuéra"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amitnadab"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Najchon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "upehe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "iména ramo"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "heñói chupe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:45.715814610Z",
+  "model": "glm-5.3"
+}

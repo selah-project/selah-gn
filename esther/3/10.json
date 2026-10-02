@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha mburuvicha guasu oipeʼu ⟨את⟩ iñemombaʼe i pógui, omeʼẽvo Haman pe, Hamedata raʼýpe, Agagi-ygua, jehudi kuéra ñorairõhárape.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "oipeʼu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñemombaʼe"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "iñemombaʼe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i pógui"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "omeʼẽvo"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman pe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagi-ygua"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jehudi kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:26:40.667628886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Chemuel ojokuái ⟨את⟩ Jisrael rehe, iñeikove kuérape opaite ára.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ojokuái"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "iñeikove kuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:56:33.239707692Z",
+  "model": "glm-5.3"
+}

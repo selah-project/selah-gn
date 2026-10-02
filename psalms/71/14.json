@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Che katu tapiaite ahaʼãrõ, ha ambojoapy ⟨nde⟩ opaite ñeʼẽporáre.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ahaʼãrõ"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ambojoapy"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "nde ñeʼẽpora"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:21.343714323Z",
+  "model": "glm-5.3"
+}

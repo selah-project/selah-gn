@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha pe Arava hóga, ha Tsemaraim, ha pe El hóga.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ha pe hóga"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arava"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ha Tsemaraim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El hóga"
+    }
+  ],
+  "timestamp": "2026-10-02T10:27:09.591653104Z",
+  "model": "glm-5.3"
+}

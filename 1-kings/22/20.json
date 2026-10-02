@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Jahve he'i: Máva pa omonga'úne ⟨את⟩ Achav, ojupi ha oguejýpe Ramot-Guiladpe? Ha peteĩ he'i péicha, ha ambue he'i péicha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "omonga'úne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "oguejýpe"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "Ramotpe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ha ambue"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "péicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:01:44.312448223Z",
+  "model": "glm-5.3"
+}

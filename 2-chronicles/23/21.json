@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Upéicha opa yvy pegua avano'õ ovy'aite, ha ⟨⟩táva oiko py'aguapýpe, ha ⟨את⟩ Ataliahu omanandypa hikuái tsyrype rehe.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ovy'aite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avano'õ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy pegua"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ha táva"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "oiko py'aguapýpe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ataliahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "omanandypa hikuái"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tsyrype rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:27:48.302580346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha opaite yvyramichĩ ývapegua neĩ oiko yvýpe, ha opaite ka'avo ývapegua neĩ oñepytũ, upévare Jahve Elohim nomonandíi oky yvy ári, ha yvypóra neĩ oĩ omomba'apo hag̃ua ⟨את⟩ yvy.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "yvyramichĩ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ývapegua"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "neĩ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ka'avo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ývapegua"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "neĩ"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "oñepytũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "nomonandíi oky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ha yvypóra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "neĩ oĩ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "omomba'apo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:39.239105895Z",
+  "model": "glm-5.3"
+}

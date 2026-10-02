@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 1:8",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Umi mba'e Koresh mburuvicha — Paras retã mburuvicha — ogueraha Mitredat rupi, tesoro ñangarekohára, ha opapapy hikuái Cheshbatsarápe, Yehuda isãmbyhyhárape.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "ogueraha hikuái umi mba'e"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Paras retã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "Mitredat"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "tesoro ñangarekohára"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "opapapy hikuái"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "Cheshbatsarápe"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "isãmbyhyhára"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T17:43:42.728057261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Efráim, ikora guaraʼícha ovevéta: heñohágui, sypytuguígui ha ñemoñarẽguígui.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efráim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "guaraʼícha"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "ovevéta"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ikora"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "heñohágui"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "sypytuguígui"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "ñemoñarẽguígui"
+    }
+  ],
+  "timestamp": "2026-10-02T14:48:31.008538999Z",
+  "model": "glm-5.3"
+}

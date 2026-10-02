@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Jaakov heʼi: Elohim, che ru Avraham pegua, ha Elohim, che ru Jitshak pegua, Jahve che rehe oñeʼẽvaʼekue: Ejevy ne retãme ha ne membyrendápe, ha ambovyʼapota nderehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ha Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "oñeʼẽvaʼekue"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Ejevy"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "ne retãme"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ha ne membyrendápe"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "ha ambovyʼapota"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:45.639335495Z",
+  "model": "glm-5.3"
+}

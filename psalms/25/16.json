@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ejere cherehe ha eñemig̃uaru che rehe, che haʼe taʼỹrã ha oikoʼãhápe.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ejere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ha eñemig̃uaru che rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che haʼe rupi"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "taʼỹrã"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ha oikoʼãha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:41.451554005Z",
+  "model": "glm-5.3"
+}

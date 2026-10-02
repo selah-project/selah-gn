@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Jahve, ko'ẽmbótape rehendu che tai; ko'ẽmbótape amohenda che ñembo'e ndevope, ha aerewaiterei.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ko'ẽmbótape"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rehendu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che tai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ko'ẽmbótape"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "amohenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndevope"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "ha aerewaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:26.496912789Z",
+  "model": "glm-5.3"
+}

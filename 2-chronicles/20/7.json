@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "¿Nde pa ndahaʼéi ñande Elohim, nerekañypa ⟨את⟩ ko yvy rekohakuéra nde retã Jisrael renondépegui, ha remeʼẽpa chupe Avraham raʼýkuérape, nde rayharápe, opabotove?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿...pa?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "nerekañy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvy rekohakuéra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "rekohakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépegui"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "ha remeʼẽ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "raʼýkuérape"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "nde rayhara"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opabotove"
+    }
+  ],
+  "timestamp": "2026-10-02T18:28:32.096470867Z",
+  "model": "glm-5.3"
+}

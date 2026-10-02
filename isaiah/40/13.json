@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Máva pe omoĩporã ⟨את⟩ ruah Jahve, ha mávapa oikuaa imbarete haʼeño iñeʼẽmeʼẽme ha omboʼe chupe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "omoĩporã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha mávapa oikuaa imbarete"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "iñeʼẽmeʼẽme"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "omboʼe chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:51:23.426047697Z",
+  "model": "glm-5.3"
+}

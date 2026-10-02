@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Ha ndéve, Adonai, ⟨is⟩ hesed; haʼe upéicha reñemuña ⟨את⟩ peteĩteĩva kuimbaʼe rehe iñapopyréicha.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Ha ndéve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe upéicha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "reñemuña"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "peteĩteĩva kuimbaʼe rehe"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "iñapopyréicha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:55.972865306Z",
+  "model": "glm-5.3"
+}

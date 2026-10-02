@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Oiko chugui kuña kuñakaraikuéra pokõi sa, ha pilagushakuéra papy sa; ha ikuñakuéra omoambu ⟨את⟩ ikorasõ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko chugui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "kuñakaraikuéra"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "pilagushakuéra"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "papy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "omoambu"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ikuñakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikorasõ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ikorasõ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:52:12.442557867Z",
+  "model": "glm-5.3"
+}

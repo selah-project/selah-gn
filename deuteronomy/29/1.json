@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 29:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Moche ohenói Jisrael maymáva rehe ha oheʼi chupekuéra: Peẽ pehecha ⟨את⟩ opa mbaʼe Jahve ojapovaʼekue peẽ akã rovake Mitsraim retãme, Paraó-pe, hembaʼapoharakuéra maymávape ha hembyerakuéra maymávape.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maymáva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oheʼi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "peẽ akã rovake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paraó-pe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha maymávape"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hembaʼapoharakuéra"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha maymávape"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hembyerakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:10:30.437484818Z",
+  "model": "glm-5.3"
+}

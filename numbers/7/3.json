@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 7:3",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ogueru hikuái ⟨את⟩ i-mbaʼejerere Jahve ñandepýpe: poteĩ kareta oñemboʼaha ha pakõi vaka — peteĩ kareta mokõi ruvichápe g̃uarã, ha peteĩ vaka peteĩteĩme g̃uarã — ha ogueru hikuái ⟨את⟩ chupekuéra Michkan ñandepýpe.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ogueru hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-mbaʼejerere"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "i-mbaʼejerere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñandepýpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "צב",
+      "gloss": "oñemboʼaha"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "peteĩ kareta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe g̃uarã"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "ha peteĩ vaka"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "peteĩteĩme g̃uarã"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "ogueru hikuái"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñandepýpe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    }
+  ],
+  "timestamp": "2026-10-02T09:17:39.401366218Z",
+  "model": "glm-5.3"
+}

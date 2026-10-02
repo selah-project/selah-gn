@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 4:13",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Pe, ojupi amandaye raʼangáicha, ha imbaʼyruguatakuéra yvytu vaícha; ikavajukuéra ipyaʼevéva taguato-gui. Ahata ore, ponote ñandejokapaite hína.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "כעננים",
+      "gloss": "amandaye raʼangáicha"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "yvytu vaícha"
+    },
+    {
+      "surface": "מרכבותיו",
+      "gloss": "imbaʼyruguatakuéra"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ipyaʼevéva"
+    },
+    {
+      "surface": "מנשרים",
+      "gloss": "taguato-gui"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "ikavajukuéra"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Ahata"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ponote"
+    },
+    {
+      "surface": "שדדנו",
+      "gloss": "ñandejokapaite hína"
+    }
+  ],
+  "timestamp": "2026-10-02T13:11:28.702140095Z",
+  "model": "glm-5.3"
+}

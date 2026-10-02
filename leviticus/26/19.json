@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha ambyaipa ⟨את⟩ pemombaʼeguasu puʼaka, ha amboja ⟨את⟩ peẽ yvaga kuarepoti tatapytã roguechaháicha, ha ⟨את⟩ peẽ yvy takuara roguechaháicha.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "ambyaipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemombaʼeguasu puʼaka"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mombaʼeguasu"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "puʼaka"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "amboja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ yvaga"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "peẽ yvaga"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "kuarepoti tatapytã roguechaháicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ yvy"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "peẽ yvy"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "takuara roguechaháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:19.666900665Z",
+  "model": "glm-5.3"
+}

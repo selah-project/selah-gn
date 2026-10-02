@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha iñemoñare tuichavéva ha'e Avdon, ha Tsur, ha Kish, ha Baal, ha Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ha iñemoñare"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "tuichavéva"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ha Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ha Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ha Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ha Nadav"
+    }
+  ],
+  "timestamp": "2026-10-02T18:04:16.821276700Z",
+  "model": "glm-5.3"
+}

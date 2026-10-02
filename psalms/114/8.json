@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 114,
+  "translation": "Pe omoambuéva ita y jeheñápe ha ita hatã y syryhápe y.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "omoambuéva"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ita"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "y jeheñápe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ita hatã"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "y syryhápe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:43.350218623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha oñembojoapy omemby hogue ⟨את⟩ itykeʼy ⟨את⟩ Hevel. Ha Hevel oiko ñangarekohára ramo ovechakuéra rehe, Kain katu oiko yvy mbokatupyrahára ramo.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "oñembojoapy"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "omemby hogue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itykeʼy"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "itykeʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ñangarekohára"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovechakuéra rehe"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Kain katu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mbokatupyrahára"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "yvy rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:27.117276134Z",
+  "model": "glm-5.3"
+}

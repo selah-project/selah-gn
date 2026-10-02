@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Upéva rehe noñeroviái hikuái Elohim-re, ha noñehaʼãi iñesãmbyhy rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upéva rehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no…ãi"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "noñeroviái hikuái"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim-re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha no…ãi"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "noñehaʼãi"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "iñesãmbyhy rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:32.639942645Z",
+  "model": "glm-5.3"
+}

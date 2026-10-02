@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha ajapóta iñairũme ha iñarõrõguasúpe ñembohovái ⟨את⟩ umi tetãnguéra rehe, umíva ndohendúiva.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "באף",
+      "gloss": "iñairũme"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "iñarõrõguasúpe"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ñembohovái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tetãnguéra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…iva"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hendúiva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:01:02.065868149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Ehud ohupi ⟨את⟩ ipo chuã, ogueru ⟨את⟩ ⟨pe⟩ kyse ijehe akatúa yvypýgui, ha oity ipy'ápe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo chuã"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "chuã"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kyse"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yvypy"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "akatúa"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "oity"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ipy'ápe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:36:10.267384175Z",
+  "model": "glm-5.3"
+}

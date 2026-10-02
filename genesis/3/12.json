@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Haʼe yvypóra heʼi: Pe kuñañeme emeʼẽ chéve che ndive, Haʼe omeʼẽ che yvyra gui, ha che haʼu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuñañeme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "chéve che ndive"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Haʼe"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "che haʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T07:28:58.915752063Z",
+  "model": "glm-5.3"
+}

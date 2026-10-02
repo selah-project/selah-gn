@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Ndeipotái kavaju ipu'aka, ndeipotái kuimba'e py ipu'aka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndeipotái"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ipu'aka rehe"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ndeipotái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndeipotái"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "py rehe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ojaposéta'ỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:15.332985187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Che Jahve, koʼápe che réra; che mbaʼeguasu ndoameʼéi che ambuevape, che jeguakatu taʼangakuérape.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "koʼápe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "che réra"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "che mbaʼeguasu"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "ambuevape"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndoameʼéi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndoameʼéi che"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "che jeguakatu"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "taʼangakuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:38.390207301Z",
+  "model": "glm-5.3"
+}

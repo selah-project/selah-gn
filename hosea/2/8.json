@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Upévare, masǐ, ahyʼúta ⟨את⟩ ne rape taiguasu ndive, ha ajokóta ⟨את⟩ ipype ita rakãre, ha ijapysakuéra ndojuhúi hikuái.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "masǐ"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ahyʼúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne rape"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ne rape"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "taiguasu ndive"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ha ajokóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ita rakãre"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "ita rakãre"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ha ijapysakuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n(-i)"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ojuhu"
+    }
+  ],
+  "timestamp": "2026-10-02T14:45:41.235759280Z",
+  "model": "glm-5.3"
+}

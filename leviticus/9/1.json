@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Upépe, ára poapyhápe, Moche ohenói Aharon-pe, hemimboʼe kuéra rehe ha Jisrael ruvichakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Upépe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "poapyhápe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon-pe"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "hemimboʼe kuéra rehe"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ruvichakuéra rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:35.992380833Z",
+  "model": "glm-5.3"
+}

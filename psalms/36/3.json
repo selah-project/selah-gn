@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha pe vai oñembopiroʼy chupe iñaraitépe, ojuhu hag̃ua ipeko ha oiñowaʼĩ hag̃ua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "oñembopiroʼy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "iñaraitépe"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ojuhu hag̃ua"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ipeko"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "oiñowaʼĩ hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:28.927697649Z",
+  "model": "glm-5.3"
+}

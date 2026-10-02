@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Peteĩ ñemoñare ohóvo, ha peteĩ ñemoñare ouvo; ha yvy opaite ára pahápeve opyta.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Peteĩ ñemoñare"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ha peteĩ ñemoñare"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ouvo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ha yvy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára pahápeve"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "opyta (opytyvũva)"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:58.146268066Z",
+  "model": "glm-5.3"
+}

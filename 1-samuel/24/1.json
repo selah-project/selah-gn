@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha David oupy upégui, ha ohóvo oiko Ein Gedi itã rokã hatãme.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "oupy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ohóvo oiko"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "itã rokã hatãme"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:51.741015488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 11:2",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ekuaa ko árape, haʼéva ndahaʼéi ⟨את⟩ nde raʼýkuéra ndive, umi ndoikuaái ha ndohechái ⟨את⟩ Jahve, nde Elohim, iñembokatupyry, ⟨את⟩ ijakatu, ⟨את⟩ ipo ipuʼakava ha ⟨את⟩ ipoatã iñakatúva.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ekuaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde raʼýkuéra ndive"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "nde raʼýkuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha umi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve iñembokatupyry"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "iñembokatupyry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijakatu"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ijakatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo ipuʼakava"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ipuʼakava"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ha ipoatã"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "iñakatúva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:50.458939686Z",
+  "model": "glm-5.3"
+}

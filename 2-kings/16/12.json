@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha mburuvicha ouvo Damásek-gui, ha mburuvicha ohecha ⟨את⟩ pe altar, ha mburuvicha oĩjey pe altar ári ha ojapo jopói hese.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ouvo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damásek-gui"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "oĩjey"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ojapo jopói"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:06.291799549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 67,
+  "translation": "Elohim omboporãveta ñanderehe, ha yvy apysakuéra opaite okyhy'ýta ⟨אתו⟩ hese.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "omboporãveta ñanderehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "okyhy'ýta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yvy apysakuéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "apysakuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:26.651207189Z",
+  "model": "glm-5.3"
+}

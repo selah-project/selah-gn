@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Aharon oñemoĩ mizbeaj gotyo, ha ojuka ⟨את⟩ pe korokoro jejavy jeporojaka, haʼe ijavýpe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe korokoro jejavy jeporojaka"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "korokoro"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jejavy jeporojaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "haʼe ijavýpe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:54.308152950Z",
+  "model": "glm-5.3"
+}

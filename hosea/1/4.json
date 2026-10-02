@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jahve heʼi chupe: Ebohói héra Yizreel, jaiko gueteri saʼi ára, ha amoĩta ⟨את⟩ Yizreel túguype Yehu óga ári, ha amboguéta Jisrael óga mburuvicharã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ebohói"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaiko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saʼi ára"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ha amoĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel túguype"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ha amboguéta"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mburuvicharã"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T14:47:07.143887666Z",
+  "model": "glm-5.3"
+}

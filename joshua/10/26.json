@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 10:26",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Upéi Jehochúa omondyi ⟨את⟩ chupekuéra, ojukapa chupekuéra, ohunga upérupi ⟨את⟩ chupekuéra po yvyra ári, ha opeʼaʼypa yvýra ári arakuaa peve.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "omondyi ⟨את⟩",
+      "marks": "chupekuéra (umi mburuvicha)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochúa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upérupi"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "ojukapa chupekuéra"
+    },
+    {
+      "surface": "ויתלם",
+      "gloss": "ohunga ⟨את⟩ chupekuéra",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "áre"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha opeʼa"
+    },
+    {
+      "surface": "תלוים",
+      "gloss": "ohungapyre"
+    },
+    {
+      "surface": "על",
+      "gloss": "áre"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yvýra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "arakuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T18:54:27.904112002Z",
+  "model": "glm-5.3"
+}

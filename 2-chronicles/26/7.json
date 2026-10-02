@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Elohim oipytyvõ chupe Pelichtim ári, ha umi araviakuéra ári oikóva Gur-Baal-pe, ha umi Meunim ári.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "oipytyvõ chupe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelichtim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "umi araviakuéra"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-pe"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "ha umi Meunim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:31:39.642641801Z",
+  "model": "glm-5.3"
+}

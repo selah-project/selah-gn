@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Aharon he'i: Ani enojerei, che jára; nde reikuaa ⟨את⟩ ko tavaguasu, haʼeha oĩva iñañáme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "enojerei"
+    },
+    {
+      "surface": "אף",
+      "gloss": ""
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko tavaguasu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ko tavaguasu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "iñañáme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oĩva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:01.601659543Z",
+  "model": "glm-5.3"
+}

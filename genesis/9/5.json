@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha añetehápe, che julgerei ⟨את⟩ pe tuguy pejeroviaha rehegua; chejupro tuguy ombotýva yvypóra po pegua, tuguy ombotýva ijoyke'y po egua, che julgare ⟨את⟩ pe jerovia yvypóra pegua.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Ha añetehápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tuguy"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "pe tuguy"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "pejeroviaha rehegua"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "che julgerei"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po egua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "chejupro"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ha po egua"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po egua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'y"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "che julgare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jerovia"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jerovia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:48.050045496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Jahve, mbaʼe pa yvypóra, reikuaa hag̃ua chupe? Taʼýra omanóva rehesa'ỹijo hag̃ua chupe?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼe pa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "reikuaa hag̃ua chupe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "omanóva"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "rehesa'ỹijo hag̃ua chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:10.424997979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ko pyhare oʼu vaʼerã ⟨את⟩ pe soʼo, tata rendápe jepokahápe; mbujape virũʼỹva ndive ha kaʼa vai ndive oʼu vaʼerã chupe.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "oʼu vaʼerã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe soʼo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "pe soʼo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "jepokahápe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata rendápe"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "mbujape virũʼỹva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "kaʼa vai"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "oʼu vaʼerã chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:24.167421745Z",
+  "model": "glm-5.3"
+}

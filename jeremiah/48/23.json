@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Kirjataim rehe, Beit-Gamul rehe, ha Beit-Meón rehe.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjataim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Gamul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha … rehe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meón"
+    }
+  ],
+  "timestamp": "2026-10-02T13:48:05.341015868Z",
+  "model": "glm-5.3"
+}

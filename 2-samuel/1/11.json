@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha David ojapyhy iao rehe, ohetũ chuguikuéra; ha avei opaite umi kuimbaʼe oĩva ⟨את⟩ hese.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "iao rehe"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ohetũ chuguikuéra"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hese",
+      "marks": "umi kuimbaʼe oĩva hese"
+    }
+  ],
+  "timestamp": "2026-10-02T11:18:37.562346742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Shelomo ohayhu ⟨את⟩ Jahve, oiko haguã David itúva tekome'ẽre; nahániri, bámotape ha'e ojukapahína ha obohasa ty'ai.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "oiko haguã"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "tekome'ẽre"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bámotape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ojukapahína"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "obohasa ty'ai"
+    }
+  ],
+  "timestamp": "2026-10-02T11:40:23.631831875Z",
+  "model": "glm-5.3"
+}

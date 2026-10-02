@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Esav heʼi: Maʼerã, che añemano hína, ha mbaʼérepa chéve g̃uarã ko mbaʼerecha tenondeguáva?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Maʼerã"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "añemano hína"
+    },
+    {
+      "surface": "למות",
+      "gloss": "añemanotávo"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ha mbaʼérepa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve g̃uarã"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "mbaʼerecha tenondeguáva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:55.867393318Z",
+  "model": "glm-5.3"
+}

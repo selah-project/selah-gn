@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha omoĩta Elohim-pe hese jerovia, ha aní resarái El rembiapokue, ha iñeʼẽmeʼẽkuéra oñangarekóta hese.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ha omoĩta"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "hese jerovia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha aní"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "resarái"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "rembiapokue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ha iñeʼẽmeʼẽkuéra"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "oñangarekóta hese"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:34.180588525Z",
+  "model": "glm-5.3"
+}

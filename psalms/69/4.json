@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Amokõi ahenói aja, che koróso iaku; che resãi okaraipa, oha'ãrõvo che Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Amokõi"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ahenói aja"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "iaku"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "che koróso"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "okaraipa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resãi"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "oha'ãrõvo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "che Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:26.493154171Z",
+  "model": "glm-5.3"
+}

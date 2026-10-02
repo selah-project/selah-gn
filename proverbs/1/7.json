@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve-re jevy'a ha'e ñeikuaa ⟨ñepyrũ⟩; arandu ha ñemoarandu katu umi javirã omba'apovaíva hese.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "jevy'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve-re"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "⟨ñepyrũ⟩"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ñeikuaa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "arandu"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ha ñemoarandu"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "umi javirã"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "omba'apovaíva hese"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:38.433497403Z",
+  "model": "glm-5.3"
+}

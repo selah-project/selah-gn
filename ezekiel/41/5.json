@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha upéi ohaʼã ⟨hóga⟩ itui, poteĩ amá rehe; ha ⟨yte⟩ ipekue, irundy amá, hóga ijerére amo ijerére, hóga ijerére.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ohaʼã"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "itui"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hóga"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amá"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ha ipekue"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "yte"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amá"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "amo ijerére"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "hóga ijerére"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T14:38:05.741079730Z",
+  "model": "glm-5.3"
+}

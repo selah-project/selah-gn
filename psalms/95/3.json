@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 95,
+  "translation": "El tuichaitereha Jahve, ha mburuvicha tuichaitereha opaite Elohim ári.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuichaitereha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuichaitereha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:09.530151433Z",
+  "model": "glm-5.3"
+}

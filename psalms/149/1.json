@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 149,
+  "translation": "Eñemomba'eguasu ⟨את⟩ Ja; eñoha'ãngó ⟨את⟩ Jahve purahei pyahu rehe; hemomba'eguasu oĩvaite marangatu kuéra atýpe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "eñemomba'eguasu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "eñoha'ãngó"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahei"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hemomba'eguasu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "atýpe"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "marangatu kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.804743596Z",
+  "model": "glm-5.3"
+}

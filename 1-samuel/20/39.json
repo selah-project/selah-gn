@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Pe mitãrusu katu ndaikuaái mba'eve; Jehonatan ha David añoite oikuaa ⟨את⟩ pe mba'e.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "pe mitãrusu katu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...ái"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ikuaa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mba'eve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mba'e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe mba'e"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:57.297377831Z",
+  "model": "glm-5.3"
+}

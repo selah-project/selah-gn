@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 35:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha peẽ peipapa táva okápe gotyo: ⟨את⟩ kuarahy resẽ pehẽngue, mokõi su ama; ha ⟨את⟩ ñemby pehẽngue, mokõi su ama; ha ⟨את⟩ kuarahy reike pehẽngue, mokõi su ama; ha ⟨את⟩ yvategua pehẽngue, mokõi su ama; ha ⟨á⟩ táva oĩta mbytépe. Kóva oĩta chupekuéra umi táva ijerére yvy ramo.",
+  "tokens": [
+    {
+      "surface": "ומדתם",
+      "gloss": "peipapa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "okápe"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarahy resẽ pehẽngue"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kuarahy resẽ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mokõi su"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñemby pehẽngue"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñemby"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mokõi su"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuarahy reike pehẽngue"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kuarahy reike"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mokõi su"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvategua pehẽngue"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yvategua"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mokõi su"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama-pe"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ha ⟨á⟩ táva"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "ijerére yvy"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "umi táva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:44:16.088578073Z",
+  "model": "glm-5.3"
+}

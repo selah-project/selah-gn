@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Adonai omeʼẽta peẽme ⟨את⟩ karãi asy ha ⟨את⟩ y asy; ha ne moʼẽhára noñomimoʼãvéima, ha ne resãi ohecháta ⟨את⟩ ne moʼẽhára.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "karãi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "asy"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ha y"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "asy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "oñomi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "upeve"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "ne moʼẽhára"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ne resãi"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ohecháta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne moʼẽhára"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "ne moʼẽhára"
+    }
+  ],
+  "timestamp": "2026-10-02T12:45:47.800722930Z",
+  "model": "glm-5.3"
+}

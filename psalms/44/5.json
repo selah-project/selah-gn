@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Nde haʼe che mburuvicha, Elohim; ejaʼo Jesoot Jaakob̃pe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "che mburuvicha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ejaʼo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "Jesoot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob̃pe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:20.853934682Z",
+  "model": "glm-5.3"
+}

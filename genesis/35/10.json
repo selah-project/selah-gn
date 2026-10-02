@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha Elohim oñe'ẽ chupe: Nde réra ⟨haʼe⟩ Jaakov; ndojekuaamoʼãive nde réra Jaakov, Jisrael año nde réra taʼe; ha ohenói ⟨את⟩ héra Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oñe'ẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…ve"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ndojekuaamoʼãive"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "…jevy \/ -moʼãive"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…rã"
+    },
+    {
+      "surface": "אם",
+      "gloss": "año"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "taʼe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra Jisrael"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:39.091257906Z",
+  "model": "glm-5.3"
+}

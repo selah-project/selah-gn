@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha ipochy jave, imarangaturã jeývo ojapo ⟨את⟩ Jahve iñande réra rehe, ha oñemomichĩete vaieterei Elohim itúva kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "ipyahẽ rire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "imarangaturã jeývo ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve iñande réra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "iñande réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iñande Elohim"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "oñemomichĩete"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vaieterei"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúva kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:34:36.993549975Z",
+  "model": "glm-5.3"
+}

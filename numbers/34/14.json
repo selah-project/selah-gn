@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 34:14",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Reuvenita membykuéra rete, isoykuéra ári, ha Gadita membykuéra rete, isoykuéra ári, ha Menashe rete vore — ojapyhyma hikuái ijapyhyrã.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "negáramo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ojapyhyma"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "rete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "Reuvenita"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "isoy ári"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isoykuéra"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "ha rete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "Gadita"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "isoy ári"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isoykuéra"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "vore"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "rete"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ojapyhyma hikuái"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ijapyhyrã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:43:30.123080908Z",
+  "model": "glm-5.3"
+}

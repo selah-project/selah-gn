@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Téramo niko, ndaipóri yvypóra marangatu yvýpe ojapóva mbaʼe porã ha ndojavyíva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "téramo niko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndojavyíva"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ndojavyíva"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:29.878372935Z",
+  "model": "glm-5.3"
+}

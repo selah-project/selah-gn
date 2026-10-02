@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha heʼi Moche-pe: Nde eñeʼẽ ore ndive jahendu hag̃ua; ani Elohim oñeʼẽ ore ndive, orémano hag̃uaʼỹ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ore ndive"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "jahendu hag̃ua"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ore ndive"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "orémano"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:42.729155213Z",
+  "model": "glm-5.3"
+}

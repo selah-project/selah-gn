@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha pelishtikuéra ohendu ⟨את⟩ pe terua pu, ha heʼi: Mbaʼépa ko terua guasu pu Evreo kampáña-pe? Ha oikuaa arakaʼe Jahve arca ouha kampáña-pe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe terua pu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "pu"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "terua"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "pu"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "terua"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kampáña-pe"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Evreo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "arakaʼe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ouha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampáña-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:57:52.472957639Z",
+  "model": "glm-5.3"
+}

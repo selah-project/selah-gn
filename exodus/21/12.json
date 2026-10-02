@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Oipenói kuimbaʼe ha omano haguére, mano-re omanopata.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Oipenói"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ha omano haguére"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mano-re"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "omanopata"
+    }
+  ],
+  "timestamp": "2026-10-02T08:22:57.784666754Z",
+  "model": "glm-5.3"
+}

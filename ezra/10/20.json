@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Imer taʼýrape: Janani ha Chevadia.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "taʼýrape"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Imer"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Janani"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "Chevadia"
+    }
+  ],
+  "timestamp": "2026-10-02T17:47:13.042005496Z",
+  "model": "glm-5.3"
+}

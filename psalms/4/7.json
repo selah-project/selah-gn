@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Hetaite umi he'íva: Mávapa ohechaukánta oreve mba'eporã? Jahve, emomba'áta ne resẽ ñande ári.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "hetaite umi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "he'íva"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ohechaukánta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mba'eporã"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "emomba'áta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñande ári"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ne resẽ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:22.493313989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 100,
+  "translation": "Jahve iporãite haguãicha; hesed ojeporu tapiaitérõ, ha toiko tembiapojerovépe ijeroviapy ñemoñare guive ñemoñare meve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haguãicha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tapiaitérõ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed ojeporu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha toiko"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ñemoñare guive"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ñemoñare meve"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ijeroviapy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:09.323975352Z",
+  "model": "glm-5.3"
+}

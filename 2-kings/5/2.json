@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 5:2",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha umi Aramgua osẽ amo ñorãirõ atýpe, ha ojukaʼapa peteĩ mitãkuñaʼi michĩ Jisrael yvýgui, ha upéi oiko Naamán remirekópe mboapýpe.",
+  "tokens": [
+    {
+      "surface": "וארם",
+      "gloss": "Ha umi Aramgua"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "amo ñorãirõ atýpe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ojukaʼapa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "mitãkuñaʼi"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "michĩ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mboapýpe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "remirekópe"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamán"
+    }
+  ],
+  "timestamp": "2026-10-02T12:05:53.582787755Z",
+  "model": "glm-5.3"
+}

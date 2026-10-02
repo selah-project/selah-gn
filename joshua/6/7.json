@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha heʼi tavayguakuérape: Ehasa, ha ejerere ⟨את⟩ tavá rehe, ha umi oñorairõva akãguapy ohasáta Jahve kesóga renondépe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuérape"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ehasa"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "ha ejerere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavá"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tavá"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "umi oñorairõva akãguapy"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ohasáta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kesóga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:18:29.385124536Z",
+  "model": "glm-5.3"
+}

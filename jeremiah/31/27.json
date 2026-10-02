@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Peina, umi ára ou hína, heʼi Jahve, ha ahechauka: añotỹta ⟨את⟩ Jisrael óga ha ⟨את⟩ Jehuda óga yvypóra ñemitỹrãndi ha mymba ñemitỹrãndi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "peina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ou hína"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "añotỹta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ñemitỹrã"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ha ñemitỹrã"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mymba"
+    }
+  ],
+  "timestamp": "2026-10-02T13:32:28.384001939Z",
+  "model": "glm-5.3"
+}

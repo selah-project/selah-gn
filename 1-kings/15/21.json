@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha oiko rire, Baasa ohandu rire upéva, opa omopu'ã ⟨את⟩ Rama, ha oiko Tirtza-pe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko rire"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ohandu rire"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "omopu'ã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtza-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:54:30.292901472Z",
+  "model": "glm-5.3"
+}

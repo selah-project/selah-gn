@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Eshton heñói ⟨את⟩ Bet-Rafa, ⟨את⟩ Paseaj ha ⟨את⟩ Tejinah, Ir-Najash ru; koʼãva niko Rekah kuimbaʼe.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Ha Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseaj"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tejinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tejinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ru"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva niko"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekah"
+    }
+  ],
+  "timestamp": "2026-10-02T18:02:31.908660248Z",
+  "model": "glm-5.3"
+}

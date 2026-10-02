@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Koʼẽtũ jesapokái aipotáramo amboja, amopyte katu para pahaguápe,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "amboja"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "jesapokái"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "koʼẽtũ"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "amopyte"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "pahaguápe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "para"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:39.403266977Z",
+  "model": "glm-5.3"
+}

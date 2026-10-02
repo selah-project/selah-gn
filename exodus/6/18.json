@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha umi Kehat raʼýkuéra: Amram, Itshar, Chevron ha Uziel; ha Kehat rekove ary mbohapy ha mbohapapy ha sa ary.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ha umi ... raʼýkuéra"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Itshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Uziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha ... ary"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapapy"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ha sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:04.135019683Z",
+  "model": "glm-5.3"
+}

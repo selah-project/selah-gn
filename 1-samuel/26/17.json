@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Shaul ohaichua ⟨את⟩ David ñeʼẽ, ha heʼi: Nde ñeʼẽpa ko, che raʼýi David? Ha David heʼi: Che ñeʼẽ, che jára, mburuvicha guasu.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ohaicûa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David ñeʼẽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "nde ñeʼẽpa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che raʼýi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T18:59:38.296991035Z",
+  "model": "glm-5.3"
+}

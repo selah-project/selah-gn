@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ipai kuéra ojere arrýi guýpe, ha isy omanovaʼekue kuéra nokaʼirõi.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "Ipai kuéra"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "arryi guýpe"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "ha isy omanovaʼekue kuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo..."
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "kaʼirõi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:53.852343722Z",
+  "model": "glm-5.3"
+}

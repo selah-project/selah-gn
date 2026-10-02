@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha umícha hikuái ore ruakuéra: hikuái ojoko ⟨את⟩ iñakã guasu, ha ndoehéichairi ne jepokuaa rehe.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ha umícha hikuái"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "ore ruakuéra"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "ojoko iñakã guasu"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "hikuái ombojakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã guasu aja"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "iñakã aja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ehéichairi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ne jepokuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T17:54:54.736157984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Pejapo tsedek jejo'a ha pejerovia Jahve rehe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "pejapo... jejo'a"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "jejo'a"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ha pejerovia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:22.493157951Z",
+  "model": "glm-5.3"
+}

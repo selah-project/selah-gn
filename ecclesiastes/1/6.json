@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ruah oho ñemby gotyo, ha ojere yvate gotyo; jere jere aja ohói ruah, ha ijehekueráre ojevy ruah.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo...pe"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ñemby"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ha ojere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo...pe"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "jere"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "jere aja"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ohói"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha...rehe"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ijehekueráre"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:43.423638403Z",
+  "model": "glm-5.3"
+}

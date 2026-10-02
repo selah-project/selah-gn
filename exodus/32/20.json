@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ogueru ⟨את⟩ pe vaka raʼỹi ojapovaʼekue, omoĩ tatape, oikypype peve, osarambi y ape ári, ha omeʼẽ Jisrael ⟨את⟩ mitãnguéra ogueru hagua.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vaka raʼỹi"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "pe vaka raʼỹi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "omoĩ tatape"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatape"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "oikypy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva peve"
+    },
+    {
+      "surface": "דק",
+      "gloss": "oikypy michĩ"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "osarambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ape"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "omeʼẽ ogueru hagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:36.274428220Z",
+  "model": "glm-5.3"
+}

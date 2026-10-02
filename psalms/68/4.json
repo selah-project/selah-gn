@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Ha umi tsedek-kuéra ovyʼa, oñembovyʼaiterei Elohim renondépe, ha ovyʼapópe hikuái.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Ha umi tsedek-kuéra"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "oñembovyʼaiterei"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ovyʼapópe hikuái"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "vyʼapópe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:05.552593484Z",
+  "model": "glm-5.3"
+}

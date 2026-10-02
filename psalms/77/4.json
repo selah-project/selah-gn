@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Amánduʼa Elohim rehe ha ahypyʼũ; amonoʼõvo ajevore, che ruah oñemomichĩ. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Amánduʼa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ha ahypyʼũ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "amonoʼõvo ajevore"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "oñemomichĩ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:46.913510044Z",
+  "model": "glm-5.3"
+}

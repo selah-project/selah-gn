@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Elohim oñe'ẽ iñemarangatu pýpe: avy'ata, aja'o Shekem, ha ahesa'ỹijo Sukot yvy ape.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "iñemarangatu pýpe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "avy'ata"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "aja'o"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ha ... yvy ape"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ahesa'ỹijo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:50.137829571Z",
+  "model": "glm-5.3"
+}

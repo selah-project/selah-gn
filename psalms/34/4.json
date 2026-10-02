@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Peẽ che ndive Jahve monguatave ⟨את⟩, ha jajupi'ijta ijára yvateve oñondive.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "monguatave"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ndive"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "jajupi'ijta yvateve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ijára"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "oñondive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:57.122472780Z",
+  "model": "glm-5.3"
+}

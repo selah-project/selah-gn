@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Oity rire Jahve nde Elohim ⟨את⟩ umi tetã, Jahve nde Elohim omeʼẽva ndepe ⟨את⟩ iñyvy, ha reimoʼãrõ umi tetã, ha eiko hikuái távape ha ógapype.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "oity"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tetã"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndepe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñyvy"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "iñyvy"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "reimoʼãrõ umi tetã"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "eiko"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "távape"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "ógapype"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:32.296085907Z",
+  "model": "glm-5.3"
+}

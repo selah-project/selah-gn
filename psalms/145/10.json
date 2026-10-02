@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Omoañete ⟨nde⟩ rehe, Jahve, nde mba'apokuéra opaite, ha nde marangatukuéra ombovaka ⟨nde⟩.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "omoañete nde rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nde mba'apokuéra"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ha nde marangatukuéra"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ombovaka nde"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:45.413498705Z",
+  "model": "glm-5.3"
+}

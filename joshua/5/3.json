@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Yehochúa ojapo ichugui kysekuéra ita atãreguáva, ha circuncisa ⟨את⟩ Jisrael mitãnguéra upe Givaat-ha-aralot yvyty ári.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichugui"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochúa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "kysekuéra"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ita atãreguáva"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ha circuncisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe gotyo"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Givaat-ha-aralot"
+    }
+  ],
+  "timestamp": "2026-10-02T10:19:58.165450324Z",
+  "model": "glm-5.3"
+}

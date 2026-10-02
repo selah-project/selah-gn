@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Elohim rehe amomba'eguasu iñe'ẽ; Elohim rehe che apytu'ũ hekopete; ndaichovy'omo'ãi mba'epe ojapo'arã yvypóra rete cherehe.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "amomba'eguasu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "che apytu'ũ hekopete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...mo'ãi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "chovy'omo'ãi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'epe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapo'arã"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "yvypóra rete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:43.564913237Z",
+  "model": "glm-5.3"
+}

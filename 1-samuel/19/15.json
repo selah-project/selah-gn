@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Shaúl omondo jey ⟨את⟩ umi mondo-hára hecha hag̃ua ⟨את⟩ David, heʼívo: Egueru ⟨את⟩ chupe mimõíme che rendápe, ajuka hag̃ua chupe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mondo-hára"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "umi mondo-hára"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hecha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "mimõíme"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rendápe"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "ajuka hag̃ua chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:28.703958653Z",
+  "model": "glm-5.3"
+}

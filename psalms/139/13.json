@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Che rakúpe nde rejapo, che rejoha che sy pyti'ũme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(che rakúpe)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "che rakúpe"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "rejoha"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "pyti'ũme"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "che sýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:54.421071506Z",
+  "model": "glm-5.3"
+}

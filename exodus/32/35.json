@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Jahve ogueno'i ⟨את⟩ ko tavaygua, ojapógui hikuái ⟨את⟩ pe vaka ra'y Aharon ojapova.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ogueno'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko tavaygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ko tavaygua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ojapógui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ova"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vaka ra'y"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "pe vaka ra'y"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapova"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:50.813251514Z",
+  "model": "glm-5.3"
+}

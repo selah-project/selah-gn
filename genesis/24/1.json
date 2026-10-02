@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Avraham okakuaaitéma, arakuéra ohasámava, ha Jahve ome'ẽ opaite mba'e porã ⟨את⟩ Avraham-pe.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ha Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "okakuaaitéma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ohasámava"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "arakuéra"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ome'ẽ opaite mba'e porã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham-pe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite mba'e"
+    }
+  ],
+  "timestamp": "2026-10-02T07:43:21.851161655Z",
+  "model": "glm-5.3"
+}

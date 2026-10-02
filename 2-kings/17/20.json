@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Jahve omboguepa ⟨את⟩ Jisrael ñemoñare opaite, ha ombyasy chupekuéra, ha omeʼẽ chupekuéra ñemuhára pópe, oipeʼa peve chupekuéra ijesa renondégui.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "omboguepa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ombyasy chupekuéra"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "omeʼẽ chupekuéra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ñemuhára"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "oipeʼa chupekuéra"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ijesa renondégui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:17:23.876382594Z",
+  "model": "glm-5.3"
+}

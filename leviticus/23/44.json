@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Moche oñeʼẽ Jahve aravo kuéra rehe ⟨את⟩, Jisraél mitãnguérape.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aravo kuéra"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "aravo kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguérape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:39.081703331Z",
+  "model": "glm-5.3"
+}

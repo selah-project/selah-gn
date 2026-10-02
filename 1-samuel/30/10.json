@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "David ondyryʼi hese, haʼe ha irundy sa kuimbaʼe; ha mokõi sa kuimbaʼe opyta, ovaʼekue ovaiʼymba hasa hagua ⟨את⟩ ysyry Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ondyryʼi hese"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ha irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekue"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ovaiʼymba"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "hasa hagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ysyry Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:02.785575306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 13:6",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha pe mburuvicha ohechakuaa ha ohecha Elohim-rape kuimbaʼe rehe: Eñemboʼa, jacotevẽ, Jahve nde Elohim rovake, ha eñemboʼa che rehe, tojevy che pógui che ndive. Ha Elohim-rape kuimbaʼe oñemboʼa ⟨את⟩ Jahve rovake, ha pe mburuvicha po ojevy chupe, ha oiko pe oñepyrũ haguéicha.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ohechakuaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ohecha... rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-rape"
+    },
+    {
+      "surface": "חל",
+      "gloss": "eñemboʼa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jacotevẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve rovake"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rovake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "ha eñemboʼa"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "tojevy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che pógui"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che ndive"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "oñemboʼa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-rape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve rovake"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rovake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "pe oñepyrũ haguéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:42.356776510Z",
+  "model": "glm-5.3"
+}

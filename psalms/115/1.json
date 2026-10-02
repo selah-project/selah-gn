@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Ndaorépe, Jahve, ndaorépe, neréra rérapeime eheja kerayvoty, ne hesed rehe, ne añetegua rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda…pépe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "orépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…pépe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "orépe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "neréra rérape"
+    },
+    {
+      "surface": "תן",
+      "gloss": "eheja"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kerayvoty"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ne hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ne añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:04.900855166Z",
+  "model": "glm-5.3"
+}

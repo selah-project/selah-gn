@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Avraham ohupytysa ⟨את⟩ i po ha oguereu ⟨את⟩ pe machaira, ⟨את⟩ i taʼýra juka hag̃ua.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ohupytysa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i po"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i po"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oguereu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe machaira"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pe machaira"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "juka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i taʼýra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "i taʼýra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:09.198948761Z",
+  "model": "glm-5.3"
+}

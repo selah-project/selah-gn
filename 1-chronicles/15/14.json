@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Upéicharõ paʼikuéra ha levita kuéra oñembojaru ojupi hag̃ua ⟨את⟩ Jahve Jisrael Elohim itaʼãngarã.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "oñembojaru"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "levita kuéra"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ojupi hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Jisrael Elohim itaʼãngarã"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "itaʼãngarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:09:00.667995075Z",
+  "model": "glm-5.3"
+}

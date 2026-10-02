@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha vyʼapaite opaite tavayguakuéra yvy pegua, ha táva okẽ porã. Ha ⟨את⟩ Ataliahu ojukapa hikuái peaʼãme, mburuvicha óga pépe.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "vyʼapaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy pegua"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ha táva"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "okẽ porã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Ataliahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ojukapa hikuái"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "peaʼãme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:42.619633496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Eno pe che rugui, umi ivaléva; roñangarekóta che Elohim jepokuaakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pe che rugui"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "umi ivaléva"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "roñangarekóta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "jepokuaakuéra"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:17.093815037Z",
+  "model": "glm-5.3"
+}

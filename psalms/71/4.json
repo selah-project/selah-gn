@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Che Elohim, eipeʼa cheve umi vai po pegui, umi mbaʼekuaaʼỹva ha mbaʼevaiapoha po pegui.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Che Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "eipeʼa cheve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po pegui"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umi vai"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "po pegui"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "mbaʼekuaaʼỹva"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ha mbaʼevaiapoha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:09.195458931Z",
+  "model": "glm-5.3"
+}

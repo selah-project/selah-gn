@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ojere kaʼaguasu yvype, yvy karuguape tape rekópe, oiko haguã táva ndojuvái.",
+  "tokens": [
+    {
+      "surface": "תָעוּ",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "kaʼaguasu yvype"
+    },
+    {
+      "surface": "בִּישִׁימֹן",
+      "gloss": "yvy karuguape"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "tape rekópe"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "tava"
+    },
+    {
+      "surface": "מוֹשָׁב",
+      "gloss": "oiko haguã"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "מָצָאוּ",
+      "gloss": "juvái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:15.055596356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Upéi Moche ha Jisrael ruvichakuéra oñeʼẽ ⟨את⟩ tetãguasu rehe, heʼívo: Eñangareko ⟨את⟩ opaite ñeʼẽmeʼẽ rehe, che mboajéva ⟨את⟩ peẽme ko árape.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ha ruvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tetãguasu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãguasu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che mboajéva"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mboajéva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽme"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:42.674409519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "David oñeʼẽ Jahve-pe ⟨את⟩ ko purahéi ñeʼẽ, pe árape Jahve osãso ⟨את⟩ chupe opaite iñairõnguéra po apytégui, ha Shaúl po apytégui.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko purahéi ñeʼẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pe árape"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "osãso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "opepaite iñairõnguéra po apytégui"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "po apytégui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iñairõnguéra"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "ha po apytégui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-10-02T11:33:51.650925420Z",
+  "model": "glm-5.3"
+}

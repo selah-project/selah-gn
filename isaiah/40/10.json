@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Péina, Adonai Jahve ou ipu'akápe, ha iñapytu'ũrokuái oisãmbyhy hese; péina, ijehero oĩ hendive, ha hembiapó ñeme'ẽ oime iñakãri'ỹive.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Péina"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ipu'akápe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "iñapytu'ũrokuái"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "péina"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ijehéro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ijehéro"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "hembiapó ñeme'ẽ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñakãri'ỹive"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:53.608353327Z",
+  "model": "glm-5.3"
+}

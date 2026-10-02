@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Porque aju mbujape raʼãngaháicha che akaru, ha che karu y jasopa ndive ambojopi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "aju"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "mbujape raʼãngaháicha"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "che akaru"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ha che karu y"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "jasopa ndive"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ambojopi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:54.588681887Z",
+  "model": "glm-5.3"
+}

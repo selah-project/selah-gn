@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Oñembojeta hikuái umi taʼanga rasykue apohape, ojepota pyaʼe hikuái ambue tupã rehe; ndache moʼãmoʼãi hikuái raʼy ñeʼẽngue, ha ndaʼamonesẽmoʼãi ⟨את⟩ hikuái téra che sorokóre.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "oñembojeta"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "umi taʼanga rasykue"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ojepota pyaʼe hikuái"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nda"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "che moʼãmoʼãi"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ñeʼẽngue"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ha ndaʼa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "monesẽmoʼãi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikuái téra"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "hikuái téra"
+    },
+    {
+      "surface": "על",
+      "gloss": "che"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sorokóre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:55.829002946Z",
+  "model": "glm-5.3"
+}

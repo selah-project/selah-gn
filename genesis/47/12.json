@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Yosef omongakuaa ⟨את⟩ itúva, ⟨את⟩ ijoykeʼýva kuéra ha ⟨את⟩ itúva roga tuichakue, mbujape rehe, mitã michĩ kuéra mbaʼeicha.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "ha omongakuaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijoykeʼýva kuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼýva kuera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itúva roga tuichakue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mbaʼeicha"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "mitã michĩ kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:03:34.564176156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Adonía, Chaguit raʼýi, ou Bat Chéva, Selomó sy, ndive; ha kuña haʼeʼese: ¿Eipurúpa tekovel okáguive nde ju? Ha haʼe heʼi: Tekovel okápe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonía"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Chaguit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Kuña"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat Chéva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sy"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomó"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "haʼeʼese"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "¿…pa tekovel oká?"
+    },
+    {
+      "surface": "באך",
+      "gloss": "nde ju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Tekovel okápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:47.999659760Z",
+  "model": "glm-5.3"
+}

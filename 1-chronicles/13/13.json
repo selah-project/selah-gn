@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Upéicha David nomonguʼei ⟨את⟩ pe arón hiʼári, David távape, ha ombovýi ⟨את⟩ Oved-Edom Gat-gua óga rógape.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nomonguʼei"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe arón"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "pe arón"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hiʼári"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ombovýi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gat-gua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:07:08.057286914Z",
+  "model": "glm-5.3"
+}

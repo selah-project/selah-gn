@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha hetaitereíva ojepyʼỹta pype, oikysẽta, oñembyaíta, oñehendýta kysepe ha oñenupãta tapyʼaʼãngápe.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ojepyʼỹta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pype"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaitereíva"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "oikysẽta"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "oñembyaíta"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "oñehendýta kysepe"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "oñenupãta tapyʼaʼãngápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:28:19.305482582Z",
+  "model": "glm-5.3"
+}

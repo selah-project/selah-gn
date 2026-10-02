@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Ejuka sérõ Eloha umivaíva — umi tuguyguáva, eñemombyry che rehegui!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sérõ"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "Ejuka"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umivaíva"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "umi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tuguyguáva"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "eñemombyry"
+    },
+    {
+      "surface": "מני",
+      "gloss": "che rehegui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:59.431668431Z",
+  "model": "glm-5.3"
+}

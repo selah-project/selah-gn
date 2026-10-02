@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Upe heʼíva: «Ore ñeʼẽme rojypy'ypyta, ore rembeʼy ⟨את⟩ ore ndive — máva pa ore jára?»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "heʼíva"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "ore ñeʼẽme"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "rojypy'ypyta"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ore rembeʼy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ore ndive"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva pa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "jára"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:24.765745180Z",
+  "model": "glm-5.3"
+}

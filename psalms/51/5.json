@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Che aikuaa che peshai, ha che chatá oĩ che renondépe tapiaite.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che aikuaa-pe g̃uarã"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "che peshai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ha che chatá"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:52.043363093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 18:37",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Eñemboʼu chéve, Jahve, eñemboʼu chéve, ikatu hag̃uáicha ko tavaygua kuéra oikuaa nde Jahve haʼeha Elohim, ha nde ombojere hague ⟨את⟩ iñakãnguéra tapykue gotyo.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "eñemboʼu chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eñemboʼu chéve"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ha oikuaa haguã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua kuéra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "הסבת",
+      "gloss": "ombojere hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãnguéra"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "iñakãnguéra"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "tapykue gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:49.299145440Z",
+  "model": "glm-5.3"
+}

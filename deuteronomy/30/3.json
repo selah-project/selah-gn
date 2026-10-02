@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Upéicharõ Jahve, nde Elohim, omoĩta jevy ⟨את⟩ neñemoñarã, ha ookereẽta nderehe, ha ojevyta obyatýta ndeve opaite avano'õ gui, Jahve, nde Elohim, oñopehẽ hague upévape.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "omoĩta jevy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neñemoñarã"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "neñemoñarã"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ookereẽta nderehe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ojevyta"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "obyatýta ndeve"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "avano'õ gui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "oñopehẽ hague"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upévape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:10:53.007714994Z",
+  "model": "glm-5.3"
+}

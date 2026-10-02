@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 141,
+  "translation": "Ñorãirõhára kuéra ohasa asy ijehegui tetiguápe oñondive; che katu ahasa amove peve.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "ohasa asy"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "ijehegui tetiguápe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ñorãirõhára kuéra"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "oñondive"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amove peve"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ahasa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:12.802853238Z",
+  "model": "glm-5.3"
+}

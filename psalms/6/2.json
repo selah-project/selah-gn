@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Jahve, ani remongyhyje cherehe nde rageýpe, ani reipota cherehe nde ve'ýpe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nde rageýpe"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "remongyhyje cherehe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "nde ve'ýpe"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "reipota cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:23.085653531Z",
+  "model": "glm-5.3"
+}

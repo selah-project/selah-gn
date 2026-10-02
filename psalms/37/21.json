@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ivaíva oñemuja ha nomonerãmbykovéi; marangatúva katu ohechaporã ha omeʼe.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "oñemuja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nomonerãmbykovéi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "omonerãmbyko"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "marangatúva katu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ohechaporã"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ha omeʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:20.910306407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ani kuimbaʼe ogueru ⟨את⟩ itúva kuña, ani oipeʼa itúva jupe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva kuña"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "jupe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:18.708497028Z",
+  "model": "glm-5.3"
+}

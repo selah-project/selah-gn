@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Upéicha ajapóta ko tendápe — heʼi Jahve — ha umi ipype oikóvape, ha amome ⟨את⟩ ko táva Tofet ichaguigua hag̃ua.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ko tendápe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "ha umi ipype oikóvape"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ha amome hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "Tofet ichaguigua"
+    }
+  ],
+  "timestamp": "2026-10-02T13:25:01.836902490Z",
+  "model": "glm-5.3"
+}

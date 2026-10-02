@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Che ajáka guive ne remondo cherera ñepyrũmbype: che pyʼape ñepyrũmbype, che sy akãnguéra ári, nde rejapo cherehe jerovia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "AJÁKA GUÍVE"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nénde"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "remondo cherera ñepyrũmbype"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "che ajáka guive"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "rejapo cherehe jerovia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "che sy akãnguéra"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "che sy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:23.385639177Z",
+  "model": "glm-5.3"
+}

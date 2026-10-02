@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Marangatu Jahve, Tsióng-gui oikóva, Jerusalaim pehẽngue, eñembojeguja Ja rehe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsióng-gui"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim pehẽngue"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "eñembojeguja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:02.280107614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Mávapa oĩ Eloha, Jahve ndajuhúivo? Ha mávapa oĩ ita guasu, ñande Elohim ndajuhúivo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ndajuhúivo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ita guasu"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ndajuhúivo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:40.857737685Z",
+  "model": "glm-5.3"
+}

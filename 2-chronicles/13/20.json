@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Iaroveam ndojeipysovéi mbaretepe Avia ára kuérape; Jahve oity chupe, ha omano.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "ndojeipysovéi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mbaretepe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Iaroveam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vei"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ára kuérape"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "oity chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-02T18:26:53.546883292Z",
+  "model": "glm-5.3"
+}

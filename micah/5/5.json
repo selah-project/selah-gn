@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha ojavyʼýta ⟨את⟩ Ashur retã kyse guasu rehe, ha ⟨את⟩ Nimrod retã iñeñongatuha rupi; ha oipeʼúta ⟨ore⟩ Ashur pógui, ou ramóguare ore retãme ha oikundaha ramóguare ore ñemohendápe.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ojavyʼýta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur retã"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kyse guasu rehe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod retã"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "iñeñongatuha rupi"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "oipeʼúta"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashur pógui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ramóguare"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ore retãme"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ramóguare"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "oikundaha"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ore ñemohendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:04:46.430572637Z",
+  "model": "glm-5.3"
+}

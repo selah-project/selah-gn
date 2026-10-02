@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Oĩ che yképe chembojoja háva; mávapa oñorairõta cherehe ⟨את⟩? Ñambojoaju jave ñande rekóichagua koʼape. Mávapa che jára che hekojojaha peg̃uarã? Pegũa cherehe.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Oĩ che yképe"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "chembojoja háva"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "oñorairõta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cherehe",
+      "marks": "chéve (che rehe oñorairõtava)"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "Ñambojoaju jave"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ñande rekóichagua koʼape"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "che hekojojaha"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "Pegũa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:08:05.949626926Z",
+  "model": "glm-5.3"
+}

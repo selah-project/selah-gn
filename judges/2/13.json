@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha oheja hikuái ⟨את⟩ Jahve, ha ombaʼapo Baʼal-pe ha Achterot-pe.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "oheja hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ombaʼapo"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baʼal-pe"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "Achterot-pe avei"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:14.662675437Z",
+  "model": "glm-5.3"
+}

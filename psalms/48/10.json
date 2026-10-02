@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Roñemoarandu nde hesed rehe, Elohim, ne óga guasu mbytépe.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Roñemoarandu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ne óga guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:13.373742453Z",
+  "model": "glm-5.3"
+}

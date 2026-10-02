@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha Paroh he'i Yosef-pe: Ehecha, che amoĩ ⟨את⟩nde opaite Mitsraim yvýra ári.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che amoĩ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩nde",
+      "marks": "nde (Yosef)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvýra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:13.678546871Z",
+  "model": "glm-5.3"
+}

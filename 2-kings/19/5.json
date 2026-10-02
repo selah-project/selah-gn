@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Upéicha, mburuvicha Jizkiahu rembiguaikuéra ou Jechaiahu rendápe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguaikuéra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jechaiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T12:17:07.738451041Z",
+  "model": "glm-5.3"
+}

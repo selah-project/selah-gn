@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Elohim ojeikuaa ijyvateguasu rógape, moñemoĩrã yvate ramo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "ijyvateguasu rógape"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "ojeikuaa"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "moñemoĩrã yvate ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:55.196279728Z",
+  "model": "glm-5.3"
+}

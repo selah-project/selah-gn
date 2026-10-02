@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Tesape osẽ kyrai apytépe umi hekojojápe g̃uarã — iporiahuvereko, hembiguasu ha hekojoja.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "kyrai apytépe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tesape"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "umi hekojojápe"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "iporiahuvereko"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ha hembiguasu"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ha hekojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:20.823682249Z",
+  "model": "glm-5.3"
+}

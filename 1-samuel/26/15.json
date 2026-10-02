@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "David heʼi Avner-pe: Nde kuimbaʼe pa nde? Ha mávapa nde rejoguaha Jisrael-pe? Mbaʼérepa nderekoñomi ne jára mburuvicha rehe? Peteĩ tavayguakuéra apytégua ou, ojuka ⟨את⟩ hagua ⟨pe⟩ mburuvicha, ne jára.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nde rejoguaha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ha mbaʼérepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "nderekoñomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ne jára"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "motivo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra apytégua"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "ojuka ⟨את⟩ hagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ne jára"
+    }
+  ],
+  "timestamp": "2026-10-02T11:17:14.711043633Z",
+  "model": "glm-5.3"
+}

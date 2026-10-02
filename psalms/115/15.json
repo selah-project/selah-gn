@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Peẽ ⟨ere⟩ oñembareteva Jahve rehe, ojapóva ⟨את⟩ yvága ha ⟨את⟩ yvy.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "oñembareteva"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Peẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ha yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:02.106462518Z",
+  "model": "glm-5.3"
+}

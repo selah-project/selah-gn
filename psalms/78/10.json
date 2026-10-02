@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ndañongatuiri Elohim ñeʼẽmeʼẽ, ha i Tora-pe onohẽ ñeʼẽ hikuái ohóvo hese.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "dañongatuiri"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "i Tora-pe"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "onohẽ ñeʼẽ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ohóvo hese"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:06.307634400Z",
+  "model": "glm-5.3"
+}

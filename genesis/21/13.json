@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Upéicha avei, ⟨את⟩ pe kuimbaʼe raʼyre tembiguái kuñaguaréva rehe, ajapóta chupe tetã ramo, haʼehaguére haʼe nde kytui.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuimbaʼe raʼyre tembiguái kuñaguaréva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kuimbaʼe raʼyre"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "tembiguái kuñaguaréva"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tetã ramo"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ajapóta chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼehaguére"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nde kytui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:33.364878884Z",
+  "model": "glm-5.3"
+}

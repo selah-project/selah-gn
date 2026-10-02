@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Oiméne ova hikuái ñorairõ kyse kuéra gui, oñemosãingóva kyse gui, oñembovyʼúva guaʼu gui, ha ñorairõ ipohýva gui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Oiméne"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gui"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ñorairõ kyse kuéra"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ova hikuái"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gui"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ñorairõ kyse"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "oñemosãingóva"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ha ... gui"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "guaʼu"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "oñembovyʼúva"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ha ... gui"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ipohýva"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorairõ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:53.481935130Z",
+  "model": "glm-5.3"
+}

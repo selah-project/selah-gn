@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Satán oñembohovái ⟨את⟩ Jahve rehe, ha heʼi: ¿Poreʼỹreípa Ijov oguerovia Elohim rehe?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ha … oñembohovái"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "poreʼỹreípa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oguerovia"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:46:53.104280643Z",
+  "model": "glm-5.3"
+}

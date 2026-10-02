@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha Jahve oguejy ⟨árape⟩ arapuʼape, ha oñemoĩ hendive upépe, ha ohenói Jahve rérape.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "arapuʼape"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:59.752015525Z",
+  "model": "glm-5.3"
+}

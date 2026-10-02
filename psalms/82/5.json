@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 82,
+  "translation": "Ndoikuaái, ha ndahesakãi chupekuéra; pytũme oguata hikuái; opaite yvy moingeha ojepyso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda…"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ndoikuaái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda…"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ndahesakãi chupekuéra"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "pytũme"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "oguata hikuái"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "moingeha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:44.814110891Z",
+  "model": "glm-5.3"
+}

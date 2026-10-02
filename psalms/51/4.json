@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Hetaite ejohýi che che avaʼi gui, ha che javy guive emopotĩ che.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Hetaite"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "ejohýi che"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "che avaʼi gui"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ha che javy guive"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "emopotĩ che"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:56.906588884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Che ningo Jahve, ndaichéi chemoambuéi; ha peẽ, Jaakov membykuéra, ndapekanoivaʼerãi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaichéi"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "chemoambuéi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "pekanoivaʼerãi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:24:10.538060140Z",
+  "model": "glm-5.3"
+}

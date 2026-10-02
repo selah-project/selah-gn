@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Pe ombyaty vaʼekue kuara oʼu pe, ha ohai ⟨את⟩ Jahve-pe; pe onohẽ vaʼekue kamba oʼu pe che marangatu korapýpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "pe ombyaty vaʼekue"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "oʼu pe"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ha ohai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "pe onohẽ vaʼekue"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "oʼu pe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "korapýpe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "che marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T13:02:41.753035946Z",
+  "model": "glm-5.3"
+}

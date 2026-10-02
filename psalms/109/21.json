@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ha nde, Jahve Adonai, ejapo ⟨את⟩ cherehe nde réra réi rehe, nde hesed iporã iguáicha, esangeta cherehe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ejapo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cherehe",
+      "marks": "cherehe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "réi rehe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iguáicha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "esangeta cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:03.811177017Z",
+  "model": "glm-5.3"
+}

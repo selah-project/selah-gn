@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Umi ⟨ojerovia⟩ kareta rehe, ha umi kavaju rehe; ha ñande, ñande Jahve Elohim rérape ñañemomorã.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "umi"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "kareta rehe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ha umi"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kavaju kuéra rehe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ha ñande"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ñañemomorã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:11.110331295Z",
+  "model": "glm-5.3"
+}

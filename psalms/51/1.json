@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Omyakãvape guarã. Purahéi David mbaʼe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Omyakãvape guarã"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:56.905923871Z",
+  "model": "glm-5.3"
+}

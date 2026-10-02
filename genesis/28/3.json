@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha El Chadai oporiahuvereko ⟨את⟩ nde rehe, ha omomba'apo ndeve, ha omoheta ndeve, ha nde ja'éta atyi avakuéra ramo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ha El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "oporiahuvereko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde rehe"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "omomba'apo ndeve"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "omoheta ndeve"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ha nde ja'éta"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "atyi ramo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "avakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:49:29.171052506Z",
+  "model": "glm-5.3"
+}

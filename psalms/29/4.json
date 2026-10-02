@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve ñeʼẽ ⟨ipuʼakáva⟩, Jahve ñeʼẽ ⟨iporãmbaitereíva⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "⟨ipuʼakáva⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "⟨iporãmbaitereíva⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:42.153080518Z",
+  "model": "glm-5.3"
+}

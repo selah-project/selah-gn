@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Okañy va'ekue marangatéva ⟨yvy⟩ gui, ha ojokóva yvypóra apytépe ndaipóri; opavavete oñeñomi tuguy ho'u hagua, peteĩnte yvypóra ⟨את⟩ ijoyke'y ojagarra jepoko rehe.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "okañy va'ekue"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "marangatéva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ha ojokóva"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "yvypóra apytépe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opavavete"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "tuguy ho'u hagua"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "oñeñomi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩnte yvypóra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoyke'y"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "ijoyke'y"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "ojagarra"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "jepoko rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:22.995293223Z",
+  "model": "glm-5.3"
+}

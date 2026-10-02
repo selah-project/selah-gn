@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ojepeʼa, ou ha oho Chomeron-pe; haʼe oĩ Beit-Eked-pe, ovejakuéra jára róga, tape rérape.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ojepeʼa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron-pe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe oĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked-pe"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ovejakuéra jára"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape rérape"
+    }
+  ],
+  "timestamp": "2026-10-02T12:07:57.810305495Z",
+  "model": "glm-5.3"
+}

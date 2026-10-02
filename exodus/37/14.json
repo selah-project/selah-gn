@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Pe rembeʼu jehaípe oĩ umi vera, takuru kuéra ñongatuha ogueraha hag̃ua ⟨את⟩ mesa.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ojueheguápe"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "rembeʼu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "umi vera"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ñongatuha"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "takuru kuéra"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ogueraha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:18.549847265Z",
+  "model": "glm-5.3"
+}

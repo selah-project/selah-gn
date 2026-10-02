@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Ha omoĩpyre hikuái opaite ára peve, opaʼỹme; omeʼẽ peteĩ tekorã, ha nohasamoʼãi.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "ha omoĩpyre hikuái"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "opaite ára peve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaʼỹme"
+    },
+    {
+      "surface": "חק",
+      "gloss": "peteĩ tekorã"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha no-"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "hasamoʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:39.982833584Z",
+  "model": "glm-5.3"
+}

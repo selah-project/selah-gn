@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Topytaso hikuái ijesa, ndahechái hag̃ua; ha ikuera pype topeju opaitépe.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "topytaso"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ijesa"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ndahechái hag̃ua"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ha ikuera pype"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opaitépe"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "topeju"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:13.651161850Z",
+  "model": "glm-5.3"
+}

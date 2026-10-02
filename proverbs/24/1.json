@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ani reñembyasy umi ivalaívare, ani reipota ⟨את⟩ reiko hikuái ndive.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "reñembyasy"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "umi…-pe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ivalaíva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "reipota"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "reiko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hikuái ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:40:54.491772023Z",
+  "model": "glm-5.3"
+}

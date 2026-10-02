@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Iñangirĩme che yvypóra ningo ndaipóri hikuái, ha yvypóra apytépe ndojegueroviái hikuái.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "iñangirĩme"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "che yvypóra"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ndaipóri hikuái"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha ... apytépe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ojegueroviái hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:14.080200917Z",
+  "model": "glm-5.3"
+}

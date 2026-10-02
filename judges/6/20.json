@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Elohim marandu'ihára ohe'i chupe: Egueru ⟨את⟩ pe so'o ha ⟨את⟩ umi mbujape rasúrõ ỹva, ha emohenda ko itáre, ha ⟨את⟩ pe so'o rykue embokuera. Ha ojapo upéicha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "marandu'ihára"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe so'o"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "pe so'o"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbujape rasúrõ ỹva"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "umi mbujape rasúrõ ỹva"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "emohenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "re"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ko itáre"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe so'o rykue"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "pe so'o rykue"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "embokuera"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T10:38:08.474282431Z",
+  "model": "glm-5.3"
+}

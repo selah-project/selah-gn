@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Umi táva Huram omeĩ Shelomoh-pe, Shelomoh ojapo ⟨אתם⟩ ha upépe omoĩ ⟨את⟩ Jisrael membykuéra toiko haguã.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "umi táva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeĩ"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoh-pe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umi táva"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "omoĩ toiko haguã"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:23:11.236159706Z",
+  "model": "glm-5.3"
+}

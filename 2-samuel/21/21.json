@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha upéi oñembojaru ⟨את⟩ Jisrael rehe, ha Johanatan, Chemía raʼýpe, David joykeʼýra, omondýi chupe.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "oñembojaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "omondýi chupe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Johanatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Chemía"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "joykeʼýra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T11:30:34.671651895Z",
+  "model": "glm-5.3"
+}

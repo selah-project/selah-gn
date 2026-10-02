@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha oñeʼẽ vai che mbaʼapoharakuéra rehe che rái mburuvichahá ndive; ha che rái mburuvicha ojogua Elohim maranduʼípe, upévare ejapo pe iporãva nde resápe.",
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "oñeʼẽ vai"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "che mbaʼapoharakuéra rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che rái"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvichahá"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ha che rái"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "ojogua... maranduʼípe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ejapo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "pe iporãva"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nde resápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:30:53.846309533Z",
+  "model": "glm-5.3"
+}

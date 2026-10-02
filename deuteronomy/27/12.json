@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Koʼãva opéta ovoy hag̃ua ⟨את⟩ tavakuéra Gerizim yvyty ári, peẽ kuarahy reike rire ⟨את⟩ Yarden: Chimeon, Levi, Jehuda, Isajar, Josef ha Binjamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "opéta"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ovoy hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-ári"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "peẽ kuarahy reike rire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Chimeon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ha Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ha Jehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "ha Isajar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ha Josef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ha Binjamin"
+    }
+  ],
+  "timestamp": "2026-10-02T10:05:20.121983669Z",
+  "model": "glm-5.3"
+}

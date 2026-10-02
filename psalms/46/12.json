@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Jahve Tsevaot ore ndive; Jaakov Elohim ⟨haʼe⟩ ore moʼãha yvate. Selá.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ore ndive"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "moʼãha yvate"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:02.085575974Z",
+  "model": "glm-5.3"
+}

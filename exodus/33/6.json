@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Jisrael ra'ykuéra ohẽ ⟨את⟩ ku jeguaka ku yvyty Jorev-gui.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ohẽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku jeguaka"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "jeguaka"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Jorev"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:26.071390610Z",
+  "model": "glm-5.3"
+}

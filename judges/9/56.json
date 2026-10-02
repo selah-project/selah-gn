@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Elohim ojevy ⟨את⟩ Avimelej ivaikuégui, ojapovaʼekue isýpe, ojukávo ⟨את⟩ ijoyke'y hetakue, poha pohýi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelej ivaikue"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ivaikue"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelej"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "isýpe"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ojukávo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoyke'y hetakue"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "poha pohýi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'y"
+    }
+  ],
+  "timestamp": "2026-10-02T18:55:49.501786226Z",
+  "model": "glm-5.3"
+}

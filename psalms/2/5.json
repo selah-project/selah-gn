@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Upépe ⟨he⟩ oñeʼẽta chupekuéra iñarõrõme, ha iñake meʼẽme ombotyatyrõta chupekuéra.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "iñarõrõme"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "iñake meʼẽme"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ombotyatyrõta chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:50.299381162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Upévare opavave Jisrael-gua oguejy pelishta kuéra rendápe oikũ hag̃ua tapichakuéra paite ⟨את⟩ iñakũgua, ⟨את⟩ iñotyha, ⟨את⟩ yvyra kyse ha ⟨את⟩ iñakũgua guasu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael-gua"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "pelishta kuéra rendápe"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "oikũ hag̃ua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tapichakuéra paite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakũgua"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "iñakũgua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñotyha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "iñotyha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvyra kyse"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "yvyra kyse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñakũgua guasu"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "iñakũgua guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:05.738649269Z",
+  "model": "glm-5.3"
+}

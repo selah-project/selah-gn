@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Jahve ojapó chejaposéi che tsedek reheháicha, che pópa morotĩnguéicha omeʼẽjey chéve.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ojapó chejaposéi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "che tsedek reheháicha"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "guéicha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che pópa"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "omeʼẽjey"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:54.649981489Z",
+  "model": "glm-5.3"
+}

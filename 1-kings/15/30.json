@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Yarovam jejavy rehe, haʼéva ojavy ha omoñembyasy ⟨את⟩ Jisrael, iñake rehe, haʼéva omoʼake ⟨את⟩ Jahve, Jisrael Elohim rehe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "jejavy"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "omoñembyasy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "iñake rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "omoʼake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T11:54:41.437668858Z",
+  "model": "glm-5.3"
+}

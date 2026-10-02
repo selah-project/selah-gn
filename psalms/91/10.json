@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Nde ndojuhu neʼĩra mbaʼe vai, ha mbaʼasy ndoaguieta nde ogañuãme.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neʼĩra"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ndojuhu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ha mbaʼasy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndoaguieta"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": ""
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "nde ogañuãme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:12.001389838Z",
+  "model": "glm-5.3"
+}

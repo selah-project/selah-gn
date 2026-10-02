@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha eikuaa nde korasõme, mbaʼéicha peteĩ kuimba'e omongeorãi ⟨את⟩ i raʼýpe, Jahve nde Elohim omongeorãi nderehe.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ha eikuaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": ""
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde korasõme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼéicha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "omongeorãi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimba'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i raʼýpe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "i raʼýpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "omongeorãi nderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:29.247146726Z",
+  "model": "glm-5.3"
+}

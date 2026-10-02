@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha tavaygua ogueraha aguyje opavavépe umi kuimbaʼépe ijehegui oikóse Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "ogueraha aguyje"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kuimbaʼépe"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "ijehegui oikóse"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oiko haguã"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:58:04.936333877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Eñehendu, yvága, ha haʼãta añeʼẽ; eñandu, yvy, ⟨che juru⟩ ñeʼẽkuéra.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Eñehendu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ha haʼãta añeʼẽ"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "eñandu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ñeʼẽkuéra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    }
+  ],
+  "timestamp": "2026-10-02T10:13:31.054407309Z",
+  "model": "glm-5.3"
+}

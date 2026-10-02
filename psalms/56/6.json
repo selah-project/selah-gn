@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Opa ára che ñe'ẽkuéra ojavy hikuái; opa ija'opotakuéra ⟨ojerure⟩ che rehe, mba'e vai rekópe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "che ñe'ẽkuéra"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ojavy hikuái"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ija'opotakuéra"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mba'e vai rekópe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:43.565237327Z",
+  "model": "glm-5.3"
+}

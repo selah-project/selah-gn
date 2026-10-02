@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Mitsraim ruah oñemondýita ipype, ha iñeimoʼã ambyai; ha ohekáta tupãraikuéra rehe, paje ñeʼẽhárakuéra rehe, ãnguéra rehe ha pajerãhárakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "oñemondýita"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "iñeimoʼã"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ambyai"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ohekáta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "tupǎraikuéra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "paje ñeʼẽhárakuéra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ãnguéra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "pajerãhárakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:38:49.764920536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ⟨את⟩ Vosmat, Jichmael raʼýikuñakue, Nevaiot pehẽnguekue.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Vosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Vosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "raʼýikuñakue"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jichmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "pehẽnguekue"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevaiot"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:44.981548004Z",
+  "model": "glm-5.3"
+}

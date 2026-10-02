@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha nde mombe'úta nde mitãme upe árape, he'ívo: Kóva reheve Jahve ojapo chéve, asẽ vove Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "mombe'úta"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "nde mitãme"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "upe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "asẽ vove"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:16:52.895552883Z",
+  "model": "glm-5.3"
+}

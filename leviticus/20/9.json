@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Upeicharupi, peteĩteĩva kuimbaʼe oiméva oñeʼẽ vai ⟨את⟩ i-ru ha ⟨את⟩ i-sy, ojekuaa omano: i-ru ha i-sy oñeʼẽ vai hese, ituguy oĩ hese.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upeicharupi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "oñeʼẽ vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-ru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i-ru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-sy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "i-sy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ojekuaa omano"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i-ru"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ha i-sy"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "oñeʼẽ vai"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ituguy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:48.295580799Z",
+  "model": "glm-5.3"
+}

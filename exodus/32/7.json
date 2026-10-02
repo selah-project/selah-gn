@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Jahve oñeʼẽ Moche-pe: Eho, eguejy, neremuãire — ne aguereko vaʼekue Mitsraim yvýgui — ombyai hikuái hekove.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "רד",
+      "gloss": "eguejy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ombyai hikuái"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "neremuãire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ne aguereko vaʼekue"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:42.228026565Z",
+  "model": "glm-5.3"
+}

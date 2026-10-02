@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Umi ára David isãmbyhy aja Jisrael ári poha tapytakue ary: Chebronpe isãmbyhy pokõi ary, ha Jerusalaimpe isãmbyhy mbohapapy ary poha mbohapy.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "poha tapytakue"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chebronpe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ha Jerusalaimpe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapapy"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "poha mbohapy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:49.679681232Z",
+  "model": "glm-5.3"
+}

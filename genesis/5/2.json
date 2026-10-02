@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Kuimbaʼe ha kuña ramo ojapo chupekuéra, ha ombopyporã chupekuéra, ha ohenói ⟨את⟩ herakuéra Adam, arape ojejapohague chupekuéra.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ha kuña"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "ojapo chupekuéra"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ha ombopyporã"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herakuéra"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "herakuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "arape"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ojejapohague chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:40.846712914Z",
+  "model": "glm-5.3"
+}

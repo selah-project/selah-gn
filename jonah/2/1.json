@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve omoĩ peteĩ pira guasu oi hendaguã toʼu ⟨את⟩ Jona; ha Jona oiko pira ryekuépe mbohapy ára ha mbohapy pyharare.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "pira"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "toʼu hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "ryekuépe"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "pira"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ha mbohapy"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "pyharare"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:44.974321672Z",
+  "model": "glm-5.3"
+}

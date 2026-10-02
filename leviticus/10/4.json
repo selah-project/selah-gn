@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 10:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Moche ohenói Mishaél-pe ha Eltsafan-pe, Uziél raʼýkuéra, Aharon raʼykeʼýpe, ha heʼi chupekuéra: Peẽ ejerke, pejerejey ⟨את⟩ peñirũngakuéra marangatukóga ⟨את⟩ renondégui, tenda okápe gotyo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaél"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha -pe"
+    },
+    {
+      "surface": "אלצפן",
+      "gloss": "Eltsafan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uziél"
+    },
+    {
+      "surface": "דד",
+      "gloss": "raʼykeʼýpe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ejerke"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "pejerejey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peñirũngakuéra"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "peñirũngakuéra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ renondégui"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondégui"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatukóga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "okápe"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tenda"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:56.427409769Z",
+  "model": "glm-5.3"
+}

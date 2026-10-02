@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Oñemohenda umi yvy jára, ha umi mburuvicha ojapo junte Jahve rehe ha i Machiah rehe.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Oñemohenda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umi jára"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ha umi mburuvicha"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "ojapo junte"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "oñondive"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "i Machiah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:46.265076150Z",
+  "model": "glm-5.3"
+}

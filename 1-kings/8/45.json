@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Upéicharõ reñendúta yvágape ⟨את⟩ ijerure ha ⟨את⟩ ijerurekue, ha ejapóta ihekojojaha.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "reñendúta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijerure"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ijerure"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijerurekue"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ijerurekue"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ejapóta"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ihekojojaha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:47:00.885226210Z",
+  "model": "glm-5.3"
+}

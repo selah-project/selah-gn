@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oikutúvo apysápe, ohendúche che rehe; pytagua memby ojapo'i cherehe ⟨moñe'ẽ⟩.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "oikutúvo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "apysápe"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ohendúche"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "pytagua"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ojapo'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:44.963928957Z",
+  "model": "glm-5.3"
+}

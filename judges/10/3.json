@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha haʼépe ojupi Jaír, Guilad-ygua, ha ojuehe ⟨את⟩ Jisrael mokõi pa mokõi arýpe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "haʼépe"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaír"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Guilad-ygua"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ojuehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõi pa"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:43:21.963223041Z",
+  "model": "glm-5.3"
+}

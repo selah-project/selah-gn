@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Che rayhu rangue, oñemoĩ vai cherehe; ha che, ñemboaʼe año.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "rangue"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "che rayhu"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "oñemoĩ vai cherehe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ñemboaʼe año"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:28.748868126Z",
+  "model": "glm-5.3"
+}

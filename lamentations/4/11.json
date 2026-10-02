@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Opa Jahve ⟨את⟩ iñarõrõ guasu, osyry iñarõ pytũngy; ha ombyakú tata Tsiyon-pe, ha katu okaru ijypykuéra.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "opa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñarõrõ guasu"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "iñarõrõ guasu"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "osyry"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "iñarõ pytũngy"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iñarõ"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "ombyakú"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon-pe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ha katu okaru"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "ijypykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:17:11.768528156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "David ohenói peteĩ umi mitãkuña apytégui ha heʼi: Eguapy, eity chupe. Ha katu ojuka chupe, ha upéva omano.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "umi mitãkuña apytégui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Eguapy"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "eity"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ojuka chupe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-02T18:59:51.592556200Z",
+  "model": "glm-5.3"
+}

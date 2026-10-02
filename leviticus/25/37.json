@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "⟨את⟩ Nde viru ani remeʼẽ chupe jepeʼỹvai rehe, ha mbojajuvai rehe ani remeʼẽ nde rembiʼu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde viru"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "nde viru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "remeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "jepeʼỹvai rehe"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "mbojajuvai rehe avei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "remeʼẽ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "nde rembiʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:03:43.375703565Z",
+  "model": "glm-5.3"
+}

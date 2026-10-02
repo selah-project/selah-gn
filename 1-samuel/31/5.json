@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ohecha iñemboroviapýva jahecha Shaúl omanoha, ha kóva avei oguejy iñembokapiʼáre ha omano chuguikuéra ndive.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "iñemboroviapýva"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iñemboroviapy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jahecha"
+    },
+    {
+      "surface": "מת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "iñembokapiʼáre"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "chuguikuéra ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:19:10.365794988Z",
+  "model": "glm-5.3"
+}

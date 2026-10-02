@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Oikóha reregua ojepyso isãmbyhy ⟨-⟩ opaite yvy rekóva rehe.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "reregua"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "oikóha"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ojepyso isãmbyhy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "rekóva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:51.771712349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha upérõ aiporavo ⟨את⟩ peve ⟨את⟩ opaite mbaʼe pejapovaʼerã rehe.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "aiporavo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peve",
+      "marks": "peve"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "upérõ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "haʼegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe pejapovaʼerã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pejapovaʼerã"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "pejapo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:44.425006127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha omo'ĩ ⟨את⟩ rogue apyte, ógagui: peteĩ kane.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "omo'ĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rogue apyte"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "apyte"
+    },
+    {
+      "surface": "השער",
+      "gloss": "rogue"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ógagui"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T14:39:00.388112178Z",
+  "model": "glm-5.3"
+}

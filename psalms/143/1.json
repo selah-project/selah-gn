@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Mizmor David-pe g̃uarã. Jahve, ehendu che ñeʼẽjerure, ehendu porã ⟨⟨⟩⟩ che ñeʼẽ pyʼaporã rehe; ne emunápe eñembohovái cherehe, ne tsedek-pe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñeʼẽjerure"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ehendu porã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "che ñeʼẽ pyʼaporã"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ne emunápe"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eñembohovái cherehe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ne tsedek-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:55.542586280Z",
+  "model": "glm-5.3"
+}

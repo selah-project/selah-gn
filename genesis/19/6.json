@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Lot osẽ chupekuéra gotyo okẽme, ha omboty okẽ iñakãrire.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra gotyo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "okẽme"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ha okẽ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "omboty"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "iñakãrire"
+    }
+  ],
+  "timestamp": "2026-10-02T07:39:48.936706781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 43:34",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha oipeʼu poʼakuéra ⟨את⟩ ijykeguágui omeʼẽ hag̃ua chupekuéra; ha Binjamín poʼa ou hetave umi poʼakuéra apytégui, po jey rupive; ha ohuʼu hikuái, ha oikyrỹi hikuái hendive.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "oipeʼu"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "poʼakuéra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "poʼakuéra"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ijykeguágui"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "ou hetave"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "poʼa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamín"
+    },
+    {
+      "surface": "ממשאת",
+      "gloss": "poʼakuéra apytégui"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "umi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "jey rupive"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ohuʼu hikuái"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "oikyrỹi hikuái"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:12.554097334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Máva pa ko karai, oñemoñeʼẽ Jahve rehe? Jahve ohechaukta chupe pe tape oiporavótava.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "karai"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oñemoñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ohechaukta chupe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe tape"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "oiporavótava"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:59.827631616Z",
+  "model": "glm-5.3"
+}

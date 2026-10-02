@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Ahayhu, upévare Jahve ohendu ⟨את⟩ che ñeʼẽ, che jerureko.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ahayhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "che jerureko"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:42.582079889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ani rejopy pytaguépe; peẽ peikuaa ⟨את⟩ pytaguéva tekove, tavépa pytaguápe peĩ ⟨ב⟩ Mitsraim yvýpe.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "pytaguépe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "rejopy"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "peikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pytaguéva tekove"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "pytaguéva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tavépa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "pytaguápe"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "peĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:48.639625073Z",
+  "model": "glm-5.3"
+}

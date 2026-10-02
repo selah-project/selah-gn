@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Jave katu, che katuite, aheka El pe, ha Elohim pe amohẽ che ñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Jave katu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che katuite"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "aheka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha... pe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "amohẽ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "che ñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:49:07.325665140Z",
+  "model": "glm-5.3"
+}

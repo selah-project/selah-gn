@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Mbaʼérepápa, Jahve, epytuʼu pytuʼu háme, ha eñomíntema apysyry kuéra árape?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepápa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ereko nde pytuʼu"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "pytuʼu háme"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "eñomi"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "kuéra árape"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "apysyry"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:56.041725104Z",
+  "model": "glm-5.3"
+}

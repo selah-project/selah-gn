@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Aharon ra'ýikuéra apytégui, pe omboajéva ⟨את⟩ tuguy chelamim-kuéra rehegua ha ⟨את⟩ evy — ichupe guarã orekótarã ⟨את⟩ py akatúa imba'era'ãramo.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "pe omboajéva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuguy chelamim-kuéra rehegua"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "chelamim-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "evy"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ra'ýikuéra apytégui"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe guarã"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "orekótarã"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "py"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "akatúa"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "imba'era'ãramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:55.960990941Z",
+  "model": "glm-5.3"
+}

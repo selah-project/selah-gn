@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Che po ojuhu hag̃ua umi tupã michĩ retãnguéra — ha umi taʼangakuéra ou Jerusalaimgui ha Shomerongui.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "retãnguéra"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "tupã michĩ"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "ha umi taʼangakuéra"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusalaimgui"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "ha Shomerongui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:31:10.335103895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha Jahve heʼi chupe: Kóva pe yvy che ñe'ẽme'ẽ Avraham-pe, Jitshak-pe ha Jaakov-pe, aha ayeívo: Ne ñemoñareme ame'ẽne chupe; che akãme nde rehecha ichupe, hákatu nde ndoguahemo'ãi upépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che ñe'ẽme'ẽ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "añe'ẽme'ẽ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham-pe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshak-pe"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ha Jaakov-pe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aha ayeívo"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "ne ñemoñareme"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ame'ẽne"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "che akãme nde rehecha"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nde resãi"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ndoguahemo'ãi"
+    }
+  ],
+  "timestamp": "2026-10-02T10:13:58.509676660Z",
+  "model": "glm-5.3"
+}

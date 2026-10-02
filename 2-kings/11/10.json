@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha pe paʼi omeʼẽ umi sa porundy ruvichape ⟨את⟩ umi yvyra puku ha ⟨את⟩ umi mbaʼe jokoha ohaʼéva David mburuvichape g̃uarã, oĩva Jahve óga ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ruvichape"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "sa porundy pegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi yvyra puku"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "yvyra puku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼe jokoha"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "mbaʼe jokoha kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼéva"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichape g̃uarã"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "óga ryepýpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T12:12:30.439959005Z",
+  "model": "glm-5.3"
+}

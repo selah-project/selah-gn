@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha upéicha ojuka hikuái ohecha rire, upéicharõ haʼe ohasataʼe kuñáme tekojavy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha upéicha"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ku iñeʼẽmeʼẽnguigua"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ohasataʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekojavy"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tekojavy"
+    }
+  ],
+  "timestamp": "2026-10-02T09:41:19.597376717Z",
+  "model": "glm-5.3"
+}

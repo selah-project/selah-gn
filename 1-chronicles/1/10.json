@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Kuch oguereko raʼy ⟨את⟩ Nimrod; haʼe oike iñepyrũpe oiko chugui ipuʼakáva yvy ape ári.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kuch"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "oguereko raʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "oike iñepyrũpe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "oiko chugui"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:45.503291235Z",
+  "model": "glm-5.3"
+}

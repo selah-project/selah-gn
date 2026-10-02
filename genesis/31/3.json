@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Jahve heʼi Jaakov-pe: Ejevy ne ruãkuéra retãme ha ne reñoihápe, ha che aiméta ndive.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ne ruãkuéra"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ha ne reñoihápe"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ha che aiméta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:29.511356419Z",
+  "model": "glm-5.3"
+}

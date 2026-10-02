@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha ku tembiguái oñe'ẽ Jitshak-pe ⟨את⟩ opaite mba'e ojapova'ekue.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ku tembiguái"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshak-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapova'ekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:44:29.787454867Z",
+  "model": "glm-5.3"
+}

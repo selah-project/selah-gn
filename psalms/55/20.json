@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "El ohecháta ha ombojováita chupekuéra — haʼe oĩ va'ekue ymaite guive. Sela. Ndaipóri ijeha jeyrã, upévare ndoro'aguasúi Elohim-rehe.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ohecháta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ha ombojováita chupekuéra"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oĩ va'ekue"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ymaite guive"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "ijeha jeyrã"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nda... -i"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ro'aguasúi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:59.094216224Z",
+  "model": "glm-5.3"
+}

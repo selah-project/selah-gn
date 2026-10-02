@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Jeikytĩ ha ñeʼẽgarã mbytégui ojogua jey ikuera, ha ikuera tuy ojeguerohory hesa apepépe.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "mbytégui"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "ha jeikytĩ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ojogua jey"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ikuera"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ojeguerohory"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ikuera tuy"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hesa apepépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:14.431873301Z",
+  "model": "glm-5.3"
+}

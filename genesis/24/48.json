@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 24:48",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha añakãingue ha añembo'aja Jahve rehe, ha ajopói ⟨את⟩ Jahve, Elohim che jára Avraham, ohenóiva che tape teete rehe, ag̃uara haguã ⟨את⟩ che jára ryke ra'ýra ita'ýrare.",
+  "tokens": [
+    {
+      "surface": "ואקד",
+      "gloss": "ha añakãingue"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "ha añembo'aja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "ואברך",
+      "gloss": "ha ajopói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohenóiva"
+    },
+    {
+      "surface": "הנחני",
+      "gloss": "ohenói che"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "teete"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ag̃uara haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jára ryke ra'ýra"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ýra"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che ryke"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ita'ýrare"
+    }
+  ],
+  "timestamp": "2026-10-02T07:46:58.693138089Z",
+  "model": "glm-5.3"
+}

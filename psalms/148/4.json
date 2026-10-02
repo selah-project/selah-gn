@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Emomba'eguasupe yvaga yvagakuéra, ha ý yvaga ári yvapeguáva.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "emomba'eguasupe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvagakuéra"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ha ý"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-va"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:07.236453086Z",
+  "model": "glm-5.3"
+}

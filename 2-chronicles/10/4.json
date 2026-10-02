@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Nde ru omombaʼepohýi ⟨את⟩ ore jokoha; koʼág̃a katu, emboporangýi nde ru mbaʼapo vai ha ijokoha pohýi omoĩva ore rehe, ha rombaʼapo nde rehe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Nde ru"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "omombaʼepohýi vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore jokoha"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ore jokoha"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "koʼág̃a katu"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "emboporangýi"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "mbaʼapo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ha ijokoha-gui"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pohýi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "rombaʼapo nde rehe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:39.596432352Z",
+  "model": "glm-5.3"
+}

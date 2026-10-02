@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Jahve, ñande Adonai, mbaʼéichapa neʼẽra iporãiterei opaite yvýpe!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ñande Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "iporãiterei"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neʼẽra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:19.919364293Z",
+  "model": "glm-5.3"
+}

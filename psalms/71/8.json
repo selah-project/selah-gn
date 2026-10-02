@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Iñapytũpavẽta che juru nde jeguaropavẽre, opaite ára nde porãngue rehe.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "iñapytũpavẽta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "nde jeguaropavẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "nde porãngue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:34.232006142Z",
+  "model": "glm-5.3"
+}

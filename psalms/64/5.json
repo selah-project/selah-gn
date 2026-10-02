@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Ohypyi hagua ñemihápe ⟨את⟩ pe imarangatúva; sapyʼaite ohypyi chupe, ha ndojekyhyjei.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "ohypyi hagua"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ñemihápe"
+    },
+    {
+      "surface": "תם",
+      "gloss": "pe imarangatúva"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "sapyʼaite"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ohypyi chupe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "jekyhyjei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:24.524399015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Eñangareko nde rehe, ani reheja ⟨את⟩ pe Levi, nde ára opaitevévo nde yvýpe.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Eñangareko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "reheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Levi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "pe Levi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaitevévo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "nde ára"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "nde yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:05.236113072Z",
+  "model": "glm-5.3"
+}

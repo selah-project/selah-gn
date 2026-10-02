@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Izevel, hembireko, ou hẽupe ha oñeʼẽ chupe: Mbaʼépa piko koʼãva, ne ruah oñembyasy, ha nde reʼuʼi mbujape?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hẽupe"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "piko koʼãva"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ne ruah"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "reʼuʼi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    }
+  ],
+  "timestamp": "2026-10-02T11:59:33.360385341Z",
+  "model": "glm-5.3"
+}

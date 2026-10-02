@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha omoĩ ⟨את⟩ i-po i-mba'eporãrã akã ári, ha ojuka ⟨את⟩ upéva tenda atyha renondépe; ha Aharon membykuéra opena ⟨את⟩ i-tuguy altar rehe ijerére.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Ha omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-po"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i-po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "i-mba'eporãrã"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ha ojuka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "upéva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "atyha"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ha opena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-tuguy"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "i-tuguy"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:27.230031665Z",
+  "model": "glm-5.3"
+}

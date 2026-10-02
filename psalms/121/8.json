@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Jahve oñangareko nde esẽre ha nde jeikére, koʼẽag̃a guive opaite agetépe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "nde esẽ"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "nde jeike"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "koʼẽag̃a guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "… peve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opaite agetépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:39.163255470Z",
+  "model": "glm-5.3"
+}

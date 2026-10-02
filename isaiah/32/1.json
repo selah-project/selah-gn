@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "¡Mána! Peteĩ mburuvicha oisãmbyhyta tsedek rehe, ha umi mburuvichakuéra oisãmbyhyta hekojojaha rehe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "¡Mána!"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "tsedek rehe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "oisãmbyhyta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ha umi mburuvichakuéra"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hekojojaha rehe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "oisãmbyhyta"
+    }
+  ],
+  "timestamp": "2026-10-02T19:07:29.863482671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Eñembopurahéi Jahve-pe purahéi pyahu, ha iteresa yvy rembe'ýgui ⟨yvy⟩ ape guive; umi osẽva yguasu-pe ha opa mba'e ipype oĩva, ypa'ũkuéra ha peẽ umi ipype ikatuva'ekue kuéra.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "eñembopurahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ha iteresa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "yvy rembe'ýgui ... ape guive"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨yvy⟩"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "umi osẽva"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yguasu-pe"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ha opa mba'e ipype oĩva"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ypa'ûkuéra"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ha peẽ umi ipype ikatuva'ekue kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:40.542377077Z",
+  "model": "glm-5.3"
+}

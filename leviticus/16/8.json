@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Aharon omoĩ jeporavo umi mokõi kavara kuimbaʼe ári: peteĩ jeporavo Jahve rehegua, ha peteĩ jeporavo Azael rehegua.",
+  "tokens": [
+    {
+      "surface": "וְנָתַן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "umi mokõi"
+    },
+    {
+      "surface": "הַשָּׂעִירִם",
+      "gloss": "kavara kuimbaʼe"
+    },
+    {
+      "surface": "גּוֹרָלוֹת",
+      "gloss": "jeporavo"
+    },
+    {
+      "surface": "גּוֹרָל",
+      "gloss": "jeporavo"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "Jahve rehegua"
+    },
+    {
+      "surface": "וְגוֹרָל",
+      "gloss": "ha jeporavo"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לַעֲזָאזֵל",
+      "gloss": "Azael rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:50.377768668Z",
+  "model": "glm-5.3"
+}

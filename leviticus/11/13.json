@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ko'ãva peẽ peñemboyke ⟨את⟩ ⟨את⟩ guyra apytégui, ndojekuaái hikuái: kyrakue hikuái: ⟨את⟩ hanesher, ⟨את⟩ haperes, ⟨את⟩ haaznia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ko'ãva"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ko'ãva"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "peñemboyke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndojekuaái"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kyrakue"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanesher"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "hanesher"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haperes"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "haperes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haaznia"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "haaznia"
+    }
+  ],
+  "timestamp": "2026-10-02T08:47:42.549759601Z",
+  "model": "glm-5.3"
+}

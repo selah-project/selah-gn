@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Upévare Jehochua oñe'ẽ ⟨את⟩ avano'õ ñangarekohára kuéra rehe, he'i hag̃ua:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avano'õ ñangarekohára kuéra"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "avano'õ ñangarekohára kuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avano'õ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'i hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:14.543800934Z",
+  "model": "glm-5.3"
+}

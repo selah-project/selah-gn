@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ⟨pe⟩ tembiapo oĩ tekotevẽháicha opaite tembiapo ojapo hag̃ua ⟨את⟩ — ha opyave heta.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ha pe tembiapo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "דים",
+      "gloss": "tekotevẽháicha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe tembiapo"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ha opyave heta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:23.500366648Z",
+  "model": "glm-5.3"
+}

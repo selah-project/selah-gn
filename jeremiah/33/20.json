@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Upéicha heʼi Jahve: Oĩramo peẽ pembyai ⟨את⟩ che ñeʼẽmeʼẽ ara pegua ha ⟨את⟩ che ñeʼẽmeʼẽ pyhare pegua, ha ani hag̃uáicha oho ara ha pyhare iñaraite-pe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Oĩramo"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "pembyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ ara pegua"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ara pegua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ pyhare pegua"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhare pegua"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ha ani hag̃uáicha"
+    },
+    {
+      "surface": "היות",
+      "gloss": "oho"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "iñaraite-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:36:29.359437622Z",
+  "model": "glm-5.3"
+}

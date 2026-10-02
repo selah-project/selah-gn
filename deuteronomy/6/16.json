@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ani peñehaʼã ⟨את⟩ Jahve, pe Elohim, péicha pejapo hague Masa-pe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "peñehaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve pe Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "pejapo hague"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Masa-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:49:20.973306507Z",
+  "model": "glm-5.3"
+}

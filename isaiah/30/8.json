@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ko'ág̃a, eho ha ehaíasẽ ko ñe'ẽ kuatiaku'i ári ⟨את⟩ kuatiañe'ẽ ndive, ha ehaíasẽ kuatiañe'ẽ me'ẽrehe; ha oĩta upe ára pahápe, opa henda réirõ, opa ára guasu aja.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ko'ág̃a"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "eho"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "ehaíasẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "kuatiaku'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuatiañe'ẽ ndive"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatiañe'ẽ"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ehaíasẽ... me'ẽrehe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "opa henda réirõ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ára guasu aja"
+    }
+  ],
+  "timestamp": "2026-10-02T12:44:37.850215651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jaakov ohendu ojokahague ⟨את⟩ Dina imembykuña; ha imembykuéra oikuri vakarainguéra ndive ⟨את⟩ kokuepe; ha Jaakov oimapoteʼỹ ou peve hikuái.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ojokahague"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ojoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "imembykuña"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ha imembykuéra"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oikuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakarainguéra"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "vakarainguéra ndive"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokuepe"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "oimapoteʼỹ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ou hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:40.025087313Z",
+  "model": "glm-5.3"
+}

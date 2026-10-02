@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ⟨את⟩ haʼeva Chivígui, ha ⟨את⟩ haʼeva Arki-gui, ha ⟨את⟩ haʼeva Sini-gui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "haʼeva Chivígui"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "haʼeva Chivígui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "haʼeva Arki-gui"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "haʼeva Arki-gui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "haʼeva Sini-gui"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "haʼeva Sini-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:18.116467135Z",
+  "model": "glm-5.3"
+}

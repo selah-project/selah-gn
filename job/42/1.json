@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha upéi, Ijov oñembohovái ⟨את⟩ Jahve-pe ha he'i:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ha upéi oñembohovái"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    }
+  ],
+  "timestamp": "2026-10-02T19:28:11.951742140Z",
+  "model": "glm-5.3"
+}

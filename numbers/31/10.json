@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ⟨את⟩ opaite táva oiko haguépe hikuái, ha ⟨את⟩ opaite óga guasu kuéra, ohundi hikuái tata rehe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite táva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "táva"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "oiko haguépe hikuái"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite óga guasu kuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "óga guasu kuéra"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ohundi hikuái"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:41:06.256958091Z",
+  "model": "glm-5.3"
+}

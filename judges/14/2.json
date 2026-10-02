@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 14:2",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ou jey, ha omombe'u isy ha itúvape, ha he'i: Ahecha peteĩ kuña Timnah-pe, plishtikuéra ra'ýra apytépe; ha ko'ag̃a, eipyte ⟨את⟩ cherehe haẽ che ra'yrakuérape g̃uarã kuñáramo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ou jey"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "omombe'u"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "itúvape"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "isy ha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "peteĩ kuña"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ahecha"
+    },
+    {
+      "surface": "בתמנתה",
+      "gloss": "Timnah-pe"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ra'ýra apytépe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plishtikuéra"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ha ko'ag̃a"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "eipyte"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "kuña"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuñáramo"
+    }
+  ],
+  "timestamp": "2026-10-02T10:46:23.451213418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Oñesaʼỹijoapy ⟨את⟩ tesapeve marangatukuérape g̃uarã, ha ivyʼapavẽ pe tekomeʼẽ marangatu koʼã apytépe.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "tesapeve"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "oñesaʼỹijoapy"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "marangatukuérape g̃uarã"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "ha tekomeʼẽ marangatu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "koʼã apytépe"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ivyʼapavẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:28.439638033Z",
+  "model": "glm-5.3"
+}

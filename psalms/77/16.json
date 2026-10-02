@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Emboguata ne ruvicharã nde tetã — Jaakov raʼýi ha Jósef — Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Emboguata ne ruvicharã"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ruvicharã"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde tetã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ha Jósef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:59.484447623Z",
+  "model": "glm-5.3"
+}

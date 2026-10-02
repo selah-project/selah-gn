@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 113,
+  "translation": "Mávapa ojogua Jahve, ore Elohim, pe omonguʼéva ijehe oĩ hag̃ua yvate?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Máva"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ojogua Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "omonguʼéva ijehe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oĩ hag̃ua yvate"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:58.861376464Z",
+  "model": "glm-5.3"
+}

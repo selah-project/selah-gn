@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve omombaʼe hatã ⟨את⟩ pyʼaguasu Paroh pegua, ha ndovoluntárioiva — ndoipotái oheja chupekuéra oho.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "omombaʼe hatã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyʼaguasu Paroh pegua"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼaguasu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoipotái"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ndovoluntárioiva"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "oheja chupekuéra oho"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:28.618005850Z",
+  "model": "glm-5.3"
+}

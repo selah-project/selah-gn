@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Eheka che rekue, El, ha eikuaa che korasõ; emohaʼãnga chéve ha eikuaa che apytuʼũrombokuéra.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "eheka che rekue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ha eikuaa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "emohaʼãnga chéve"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ha eikuaa"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "che apytuʼũrombokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:05.962361888Z",
+  "model": "glm-5.3"
+}

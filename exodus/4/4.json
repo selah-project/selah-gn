@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Jahve heʼi Mochépe: Egueru nde po, ha eipyso pe guype. Ha ogueru ipo, ha oipyso guype, ha ojehu chuguichatuichagua takuaru ipo pópe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mochépe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ha eipyso"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "pe guype"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ha oipyso"
+    },
+    {
+      "surface": "בו",
+      "gloss": "guype"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "takuaru"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "ipo pópe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:22.990652633Z",
+  "model": "glm-5.3"
+}

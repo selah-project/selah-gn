@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Elijahu heʼi opavave tetãygua kuérape: Che gotyo peẽ pe. Ha opavave tetãygua kuéra ou hikuái chupe gotyo, ha haʼe omoĩ jey ⟨את⟩ Jahve mbaʼeyrũ, pe oñembyaíva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavave... kuérape"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãygua kuéra"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "peẽ pe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che gotyo"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ou hikuái"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãygua kuéra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe gotyo"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "omoĩ jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve mbaʼeyrũ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mbaʼeyrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "oñembyaíva"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:59.644878579Z",
+  "model": "glm-5.3"
+}

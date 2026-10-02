@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha peẽ ndive ⟨את⟩ oĩta kuimbaʼe peteĩña peteĩ tapiaguápe g̃uarã, kuimbaʼe akãvaʼekue itúva róga, haʼe voi.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ha peẽ ndive ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩña"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "peteĩ tapiaguápe g̃uarã"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akãvaʼekue"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe voi"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:06.095794719Z",
+  "model": "glm-5.3"
+}

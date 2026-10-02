@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 123,
+  "translation": "Purahéi oku'eva yvateve. Nendépe ajupi ⟨את⟩ che mbyasy, ehã oikóva yvagape.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "oku'eva yvateve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Nendépe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ajupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che mbyasy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che mbyasy"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ehã oikóva"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvagape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:53.467807030Z",
+  "model": "glm-5.3"
+}

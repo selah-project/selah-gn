@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Che rekove oñemonguʼevo cherehe, achejaxa ⟨את⟩ Jahve; ha che ñemboʼe oguahẽ ndeve, nde heikál marangatu pe.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "oñemonguʼevo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "achejaxa"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "oguahẽ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñemboʼe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikál"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:35.149380874Z",
+  "model": "glm-5.3"
+}

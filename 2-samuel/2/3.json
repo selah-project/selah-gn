@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha umi kuimba'e Davípe oikóva, David ogueraha upépe kuimba'ẽ ha hógagua kuarepoti ndive; ha opyta oiko Chebron távakuérape.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "umi kuimba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Davípe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ogueraha upépe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'ẽ"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "hógagua"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "opyta oiko"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "távakuérape"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    }
+  ],
+  "timestamp": "2026-10-02T11:18:28.696686748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Jahve Tsevaot ipu'aka hekojojaha rupi, ha El marangatu oñemomarangatu tsedek rupi.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ipu'aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojojaha rupi"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "ha El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "oñemomarangatu"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "tsedek rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:28:04.278888486Z",
+  "model": "glm-5.3"
+}

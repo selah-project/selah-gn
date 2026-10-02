@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha pe pa'i oñeñohẽva hiʼári ñandy, i raʼýkuéra apytégui oĩva i renondépe, ojapóta ⟨את⟩ koʼã; tekojoja opa guive Jahve-pe g̃uarã, ojejy hína opaite tyra ramo.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ha pe pa'i"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "oñeñohẽva hiʼári ñandy"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i renondépe"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "i raʼýkuéra apytégui"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã (pe minha)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opa guive"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe g̃uarã"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "ojejy hína tyra ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:24.146762618Z",
+  "model": "glm-5.3"
+}

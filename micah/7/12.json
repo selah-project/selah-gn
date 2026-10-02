@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Upe árape, oguahẽta nde gotyo ou hagua Achur-gui ha Matsor távagui; ou hagua Matsor-gui, ysyry peve; ha para-gui para peve, yvyty-gui yvyty peve.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "nde gotyo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "oguahẽta"
+    },
+    {
+      "surface": "למני",
+      "gloss": "ou hagua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Achur-gui"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ha táva"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "ha ou hagua"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor-gui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ha para-gui"
+    },
+    {
+      "surface": "מים",
+      "gloss": "para peve"
+    },
+    {
+      "surface": "והר",
+      "gloss": "ha yvyty-gui"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty peve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:07:00.036651125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Haman ogueru ⟨את⟩ pe ao ha ⟨את⟩ pe kavaju, ohaʼã ⟨את⟩ Mordejai, ha ojupi pe kavaju ári táva rape pukúpe, ha oñeʼẽ iñepyrũmby-pe: Péicha ojejapovaʼerã pe kuimbaʼe rehe oipotáva pe mburuvicha imeʼẽ hese.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ao"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "pe ao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe kavaju"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "pe kavaju"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ohaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss_note": "",
+      "marks": "Mordejai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "rape pukúpe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñepyrũmby-pe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Péicha"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojejapovaʼerã"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pe kuimbaʼe rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oipotáva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "imeʼẽ hese"
+    }
+  ],
+  "timestamp": "2026-10-02T17:29:46.184434497Z",
+  "model": "glm-5.3"
+}

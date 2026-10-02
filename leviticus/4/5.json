@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha pe pa'i Machiah ogueru michĩ pe ruguy pe ture peguagui, ha ogueraha ⟨את⟩ chupe pe tenda juajuha rendápe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "Machiah"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "michĩ pe ruguy"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pe ture"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "juajuha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:46:30.797371767Z",
+  "model": "glm-5.3"
+}

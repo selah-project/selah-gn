@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha iñamudkuéra mokõipa, ha iñadanakuéra mokõipa, nejóshe-gui; ha amudkuéra vavukuéra ha iñchasukuéra kesef-gui.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "ha iñamudkuéra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ha iñadanakuéra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nejóshe"
+    },
+    {
+      "surface": "והוי",
+      "gloss": "ha vavukuéra"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "amudkuéra"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ha iñchasukuéra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kesef"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:06.473121878Z",
+  "model": "glm-5.3"
+}

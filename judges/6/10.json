@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha aheja peẽme: Che Jahve, peẽ Elohim; ani peẽ jahyʼói ⟨את⟩ Elohim Emori kuéra rehe, peẽ oiko hikuái ikuéra yvýpe; ha nde peẽ henói che ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "peẽ jahyʼói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Emori kuéra"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peẽ oiko hikuái ... yvýpe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "oiko hikuái"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ikuéra yvýpe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "peẽ henói"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "che ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:36:30.841558879Z",
+  "model": "glm-5.3"
+}

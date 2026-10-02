@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ivyʼapavẽ umi tavaygua oikuaáva teruaʼa, Jahve; ne rovýpe oguatakuéra.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivyʼapavẽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavaygua"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "oikuaáva"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teruaʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "rovýpe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "oguatakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:56.192730215Z",
+  "model": "glm-5.3"
+}

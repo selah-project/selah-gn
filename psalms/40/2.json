@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ahaʼãrõ, ahaʼãrõ Jahve rehe, ha isãso cherehe, ha ohendu che chia.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ahaʼãrõ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ahaʼãrõ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "isãso"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "che chia"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:39.985544024Z",
+  "model": "glm-5.3"
+}

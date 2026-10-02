@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha osapukai Jahve peve tekoasy aja, ha iñehaʼãrã kuégui oguenohẽ chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "osapukai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tekoasy aja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "iñehaʼãrã kuégui"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "oguenohẽ chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:56.584409135Z",
+  "model": "glm-5.3"
+}

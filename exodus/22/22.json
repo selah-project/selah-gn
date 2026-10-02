@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Rehenoñóiramo guaʼu chupe ⟨אתו⟩ — ojekyairamo chéve, ahekóaño ahendu ikyai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "guaʼu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "rehenoñói"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "צעק",
+      "gloss": ""
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ojekyai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": ""
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ahekóaño ahendu"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ikyai"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:07.124740017Z",
+  "model": "glm-5.3"
+}

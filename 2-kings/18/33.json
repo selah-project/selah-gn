@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "¿Ikatupa hikuái umi tetãnguéra Elohim oipe'a, peteīteĩ ⟨את⟩ iñyvy, Ashur mburuvichágui?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "ikatu pa hikuái oipe'a? — הַהַצֵּל haʼe ñeʼẽ py'aguapýpe (¿oipe'a pa hikuái araka'eve?) — haimete ⟨¿añetehápa?⟩"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim — tetãnguéra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteīteī"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñyvy"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iñyvy"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "— po gui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-02T12:15:44.788477166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha koʼag̃a, Jahve ojapóta peẽ ndive hesed ha añetegua; ha che avei ajapóta ⟨את⟩ peẽ ndive ko mbaʼe porã, peẽ japo haguére ko mbaʼe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼag̃a"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "peẽ ndive"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ha añetegua"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ ndive"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peẽ japo haguére"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "japo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:19:00.458952523Z",
+  "model": "glm-5.3"
+}

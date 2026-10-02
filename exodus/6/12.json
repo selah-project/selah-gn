@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Moche oñeʼẽ Jahve renondépe, heʼívo: Nanga, Jisrael mitãnguéra ndachehendúi, mbaʼéichapa Paroh ochehendóta, che, cheremimbýra iñarãmimbáva?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Nanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "chehendúi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "ochehendóta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "iñarãmimbáva"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "remimbýra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:50.913363009Z",
+  "model": "glm-5.3"
+}

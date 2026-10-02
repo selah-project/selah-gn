@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha oguata oipeʼa itavapy Kuera yvypóra mboreviháicha, ha omoĩ hikuái kaʼaguýpe mborowiháicha.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "Kuera yvypóra mboreviháicha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itavapy"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "mborowiháicha"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:28.293785874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha emeʼẽta ⟨את⟩ umi levi Aharon-pe ha iñemoñarãme; omeʼẽpyrénte haʼekuéra omeʼẽpyrénte chupe ⟨את⟩ Jisrael mitãnguéra apytégui.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "emeʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "umi levi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon-pe"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ha iñemoñarãme"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "omeʼẽpyre"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "omeʼẽpyrénte"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ apytégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:24.079755886Z",
+  "model": "glm-5.3"
+}

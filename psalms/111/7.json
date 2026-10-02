@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 111,
+  "translation": "Ípo rupive ojapovaʼekue añetegua ha tekojoja; opaite hemimoĩ ojeroviaha.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ípo rupive"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha tekojoja"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ojeroviaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "hemimoĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:39.942695775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Tapiaite amopyenda ne ñemoñare, ha amoñopyru tekoayhu ha tekoayhu peve ne apyka. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "amopyenda"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ne ñemoñare"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ha amoñopyru"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tekoayhu"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ha tekoayhu"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ne apyka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:55.200558045Z",
+  "model": "glm-5.3"
+}

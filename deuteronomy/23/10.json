@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Macháne osẽrõ ne ñorãirõhara kuéra rehe, eñangareko nde rehe opa mbaʼe vai rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "osẽrõ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "macháne"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ne ñorãirõhara kuéra"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "eñangareko nde rehe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vai"
+    }
+  ],
+  "timestamp": "2026-10-02T10:04:45.963915826Z",
+  "model": "glm-5.3"
+}

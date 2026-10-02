@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 30:22",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Chizkiiahu oñeʼẽ opaite levíta korasõ réire, umi oikuaa porãva Jahve mbaʼérepe; ha hoʼu ⟨את⟩ ñembyaty mbaʼe poho ára pukukápe, oñemeʼẽ jave chilembo jopói ha oñemboja Jahvape, itúvakuéra Elohape.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiiahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "réire"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levíta"
+    },
+    {
+      "surface": "המשכילים",
+      "gloss": "oikuaa porãva"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ikuaa porã"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "hoʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñembyaty mbaʼe"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "ñembyaty mbaʼe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "poho"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "oñemeʼẽ jave"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "jopói"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "chilembo"
+    },
+    {
+      "surface": "ומתודים",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvape"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "itúvakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:35:57.035823015Z",
+  "model": "glm-5.3"
+}

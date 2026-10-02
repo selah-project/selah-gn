@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Elohim ári che ñemongerã ha che terakuã; che poguasúva ita, che pyʼaguapyrã, Elohim-me.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "che ñemongerã"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ha che terakuã"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ita"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "che poguasu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "che pyʼaguapyrã"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim-me"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:42.776938202Z",
+  "model": "glm-5.3"
+}

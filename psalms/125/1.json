@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 125,
+  "translation": "Purahéi umi oguerúva hikuái yvate gotyo. Umi ojeroviáva Jahve rehe ojogua Tsiyon yvytyichépe: ndojeréreimoʼãi, opa árape opyta.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "umi oguerúva hikuái yvate gotyo"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Umi ojeroviáva"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "ojogua ... yvytyichépe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "jeréreimoʼãi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa árape"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "opyta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:39.576399119Z",
+  "model": "glm-5.3"
+}

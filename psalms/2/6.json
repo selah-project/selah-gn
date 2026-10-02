@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha che amoĩ che mburuvicha Sion ári, che marangatu yvyty.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "che amoĩ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "che mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "che marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:50.299602368Z",
+  "model": "glm-5.3"
+}

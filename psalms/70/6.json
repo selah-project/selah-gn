@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 70,
+  "translation": "Ha che katu, ikate'ỹva ha imitã'ypyre che, Elohim, eju chekápe; che pytyvõha ha che mo'ãha nde, Jahve, ani rehasa asérõ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha che katu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ikate'ỹva"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ha imitã'ypyre che"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "eju chekápe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "che pytyvõha"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ha che mo'ãha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "rehasa asérõ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:12.364045706Z",
+  "model": "glm-5.3"
+}

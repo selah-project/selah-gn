@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Eguerohory ⟨את⟩ Jahve, Jerusalaim; emomba'eguasu nde Elohim, Tsion.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Eguerohory"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "emomba'eguasu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:15.333327438Z",
+  "model": "glm-5.3"
+}

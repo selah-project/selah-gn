@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Nde po toĩ ⟨túvape⟩ pe tapicha ári, nde akatúa rembeʼýpe, pe yvypóra raʼýri ne embojehechakuaa nde rehávape.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "toĩ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨túvape⟩ ... ári"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pe tapicha"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nde akatúa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "ne embojehechakuaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehávape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:14.381790827Z",
+  "model": "glm-5.3"
+}

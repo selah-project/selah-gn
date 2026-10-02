@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha David ohenda ⟨את⟩ itaju jetyvyrãnguéra oĩva Hadadezer tembiguaikuéra ári, ha ogueru Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ohenda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaju jetyvyrãnguéra"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "jetyvyrãnguéra"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היו",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tembiguaikuéra"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:12:06.725788336Z",
+  "model": "glm-5.3"
+}

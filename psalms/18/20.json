@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha ogueraha chéve tende tuichávape, oipyso chéve, ojaposéi chugui oipotágui chéve.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Ha ogueraha chéve"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "tende tuichávape"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "oipyso chéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ojaposéi chugui"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipotágui"
+    },
+    {
+      "surface": "בי",
+      "gloss": "chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:07.424252453Z",
+  "model": "glm-5.3"
+}

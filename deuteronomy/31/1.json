@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Moche oho, ha oñe'ẽ ⟨את⟩ ko'ã ñe'ẽ opavavévape Jisrael-pe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'ã ñe'ẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:13:43.686543640Z",
+  "model": "glm-5.3"
+}

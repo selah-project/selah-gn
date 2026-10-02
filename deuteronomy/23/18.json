@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ndaipóri va'erãi kedesha Jisrael ra'akuñanguéra apytépe, ha ndaipóri va'erãi kadesh Jisrael ra'akuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va'erãi"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kedesha"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ra'akuñanguéra apytépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va'erãi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadesh"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ra'akuéra apytépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:00.116107005Z",
+  "model": "glm-5.3"
+}

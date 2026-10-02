@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Oiko jeývo Chaúl pelihtihára kuéra rapykue gotyo ojejuhu haguépe, ojesapeʼã chupe kuéra heʼívo: Nè! David oĩ Ein Gedi kaʼaguy ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "oiko jeývo... ojejuhu haguépe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ojejuhu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "rapykue gotyo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelihtihára kuéra"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ojesapeʼã chupe kuéra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Nè!"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguy ryepýpe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:51.741244097Z",
+  "model": "glm-5.3"
+}

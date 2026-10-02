@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha oguerevojey ha omopuʼã jey ⟨את⟩ umi tenda yvategua Chizkiahu itúva oity vaʼekue, ha omopuʼã altar Baal-pe g̃uarã, ha ojapo peteĩ Ashera, Ajav Jisrael mburuvicha ojapóicha; ha oñemboʼe opaite yvaga ehérsito rehe, ha ombaʼapo ⟨את⟩ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "oguerevojey"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "omopuʼã jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tenda yvategua"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "umi tenda yvategua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אבד",
+      "gloss": "oity vaʼekue"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal-pe g̃uarã"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojapóicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo vaʼekue"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ehérsito"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ombaʼapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra (yvaga ehérsito)"
+    }
+  ],
+  "timestamp": "2026-10-02T12:20:51.207795911Z",
+  "model": "glm-5.3"
+}

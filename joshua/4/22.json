@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Upéicharõ peẽ pẽkuaa ⟨את⟩ pe mitãnguéra, heʼívo: yvy tuʼũ ári Jisrael ohasa ⟨את⟩ ko Yarden.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "peẽ pẽkuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitãnguéra"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "pe mitãnguéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "yvy tuʼũ ári"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ko Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T10:18:03.424587334Z",
+  "model": "glm-5.3"
+}

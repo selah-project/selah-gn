@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 26:16",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha oñemombarete rire, ipy'a ojupi, oñembyai peve; ha oiko vai Jahve, iñElohim, rehe; ha oike Jahve óga guasúpe, omoĩ hag̃ua ketorá ⟨tata renda⟩ ketorá renda ári.",
+  "tokens": [
+    {
+      "surface": "וכחזקתו",
+      "gloss": "oñemombarete rire"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ipy'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "וימעל",
+      "gloss": "oiko vai"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iñElohim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "óga guasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "omoĩ hag̃ua ketorá tata ári"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ári"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "tata renda"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ketorá"
+    }
+  ],
+  "timestamp": "2026-10-02T18:34:23.526812628Z",
+  "model": "glm-5.3"
+}

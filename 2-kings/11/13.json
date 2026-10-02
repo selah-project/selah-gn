@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Atalía ohendu ⟨את⟩ ñeʼẽ ñangarekoharakuéra ha tavayguakuéra reheguáva, ha ou tavayguakuéra rendápe, Jahve óga ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalía"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ñangarekoharakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T12:12:43.861839947Z",
+  "model": "glm-5.3"
+}

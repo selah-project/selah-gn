@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jahve omondo ⟨את⟩ ipo, ha omokunu'ũ che jure ári; ha Jahve he'i chéve: Ehecha, che ñe'ẽnguéra ame'ẽ ne jure apytépe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ha omokunu'ũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che jure"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ame'ẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "che ñe'ẽnguéra"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ne jure apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:07:29.652420256Z",
+  "model": "glm-5.3"
+}

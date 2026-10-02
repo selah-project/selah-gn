@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Jahve, eñangareko mirĩ ore rehe; ndépe ñañoteʼẽ: Eiko ore puʼaka koʼẽ koʼẽme, ore jeikove jepeʼa avei apysa árape.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "eñangareko mirĩ ore rehe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndépe"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "ñañoteʼẽ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "Eiko"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "puʼaka"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "koʼẽ koʼẽme"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ore jeikove jepeʼa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "árape"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "apysa"
+    }
+  ],
+  "timestamp": "2026-10-02T12:45:33.823234059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Che apytépe ojerereko mano kua, ha Cheol iñembyasy ojuhu cherehe; apysy ha ñasãi ajuhu.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ojerereko che apytépe"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "kua"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mano"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "iñembyasy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "ojuhu cherehe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "apysy"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ñasãi"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ajuhu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:42.582527399Z",
+  "model": "glm-5.3"
+}

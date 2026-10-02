@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Chuchan óga guasúpe, umi judio ojukapa ha omboguereko po sa yvypóra.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Chuchanpe"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "óga guasúpe"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ojukapa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "umi judio"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "omboguereko"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:30:22.894858481Z",
+  "model": "glm-5.3"
+}

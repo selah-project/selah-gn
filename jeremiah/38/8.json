@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha Eved-mélek osẽ mburuvicha guasu rógagui, ha oñeʼẽ mburuvicha guasu rehe, heʼívo:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved-mélek pegua (kuimbaʼe)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu réra — Eved-mélek"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "rógagui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T19:11:05.416616079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Upeichahápe Adonai heʼi chéve: ary peteĩ ryepýpe, araguaa mbaʼapohára rekóicha, opaite Kedár iterei oñembotýta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upeichahápe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upeichahápe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary peteĩ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "araguaa rekóicha"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "mbaʼapohára arapy"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "oñembotýta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "iterei"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedár"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:53.482096756Z",
+  "model": "glm-5.3"
+}

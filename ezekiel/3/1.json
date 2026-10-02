@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oheʼi chéve: yvypóra raʼy, ⟨את⟩ pe rejuhúva emeʼu; emeʼu ⟨את⟩ ko jehaitira, ha eho, eñeʼẽ Jisrael óga rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha oheʼi chéve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rejuhúva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "rejuhúva"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "emeʼu"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "emeʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko jehaitira"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "jehaitira"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ha eho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T13:58:35.904344616Z",
+  "model": "glm-5.3"
+}

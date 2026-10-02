@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve omeʼe chéve ⟨את⟩ mokõi ita kuatiakuéra, ojehechaukáva Elohim rúpa reheve, ha ipype opaite ñeʼẽ Jahve oñeʼẽ vaʼekue peẽ ndive yvyty ápe, tata apytepe, oñonohẽ hague árape.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ha omeʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi ita kuatiakuéra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "kuatiakuéra"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "ojehechaukáva"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "rúpa reheve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "ha ipype"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Jahve oñeʼẽ vaʼekue"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "peẽ ndive"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty ápe"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "apytepe"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "oñonohẽ hague"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:26.392056121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Rasha ohecha tsadik rehe, ha oheka ojukapota hag̃ua chupe.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rasha"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "tsadik rehe"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ha oheka"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ojukapota hag̃ua chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:47.230408701Z",
+  "model": "glm-5.3"
+}

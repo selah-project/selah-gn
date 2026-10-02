@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Orúru Mitsraim-pe ndoikuaaporã nde mbaʼe iñapysêva, nomanduʼái ⟨את⟩ hetaiterei nde hesed, ha oñemoĩ para rehe, Suf parápe.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "orúru"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ndoikuaaporã"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "nde mbaʼe iñapysêva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "nomanduʼái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hetaiterei nde hesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ha oñemoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "para"
+    },
+    {
+      "surface": "בים",
+      "gloss": "parápe"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:56.872958009Z",
+  "model": "glm-5.3"
+}

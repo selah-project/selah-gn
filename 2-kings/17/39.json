@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Hetave, ⟨את⟩ Jahve, peẽ Elohim, peñangarekovaʼerã peñembyasývo; ha haʼe oipeʼapáta ⟨את⟩ peẽ opa peẽ ñorairõhára po gui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hetave"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "peñembyasývo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "oipeʼapáta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "peẽ ñorairõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:12.487198259Z",
+  "model": "glm-5.3"
+}

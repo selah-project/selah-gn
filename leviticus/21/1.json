@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Jahve he'i Moche pe: eñe'ẽ pa'ikuéra — Aharon membykuéra — rehe, ha ere chupekuéra: tekove manóva rehe ndaikatói oñembyai pa'i, itãygua apytépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra rehe"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "tekove manóva rehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaikatói"
+    },
+    {
+      "surface": "יטטמא",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "itãygua apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:43.262300928Z",
+  "model": "glm-5.3"
+}

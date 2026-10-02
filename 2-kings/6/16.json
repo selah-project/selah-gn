@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ⟨Elisa⟩ he'i: Ani remondýi, hetaiterei umi oĩva ⟨את⟩ ñandive, umíva oĩvagui ⟨את⟩ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "remondýi"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi oĩva"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñandive"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "umíva oĩvagui"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:05:45.502883600Z",
+  "model": "glm-5.3"
+}

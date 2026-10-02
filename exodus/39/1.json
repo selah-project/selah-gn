@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 39:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha tkelet-gui, argaman-gui ha tolaat chani-gui ojapo aorã omba'apo hag̃ua marangatu rendápe, ha ojapo ⟨את⟩ marangatu aorã Aharon mba'éva, Jahve ohenda va'ekue háicha ⟨את⟩ Moche.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ha ... -gui"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tkelet"
+    },
+    {
+      "surface": "והארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "chani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aorã"
+    },
+    {
+      "surface": "שרד",
+      "gloss": "jeporu"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "omba'apo hag̃ua"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu rendápe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ha ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marangatu aorã"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aorã"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'éva"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon mba'éva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "háicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ohenda va'ekue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:12.821750982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ko'ág̃a avei, peẽ pyta peju py'aite ha pehecha ⟨את⟩ ko mbaʼe guasu Jahve ojapótava peẽ resa renondépe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "peju py'aite"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mbaʼe guasu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapótava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "peẽ resa renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:27.997430437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Jahve oity ⟨את⟩ umi Kuchikuéra Asa renondépe ha Juhá renondépe, ha umi Kuchikuéra okañy.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "oity"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Kuchikuéra"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "umi Kuchikuéra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ha renondépe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juha"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "okañy"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "umi Kuchikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:26:46.398115443Z",
+  "model": "glm-5.3"
+}

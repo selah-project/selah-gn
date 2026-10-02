@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "¿Oipohýipa hese oipohýi haguéicha umi oipohyivaʼekue chupe? Térã ¿ojukapa iñukapyre ojukahaguéicha?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "oipohýi haguéicha"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "umi oipohyivaʼekue chupe"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "oipohýipa hese"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Térã"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "ojukahaguéicha"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "iñukapyre"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ojukapa"
+    }
+  ],
+  "timestamp": "2026-10-02T12:39:56.452710975Z",
+  "model": "glm-5.3"
+}

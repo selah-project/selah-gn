@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Yosef osẽmbýpe ogueru ⟨את⟩ chupekuéra itikundi apytégui, ha oñeno oñemboy iñakãre yvýpe.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "itikundi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ha oñeno oñemboy"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "iñakãre"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:46.685618782Z",
+  "model": "glm-5.3"
+}

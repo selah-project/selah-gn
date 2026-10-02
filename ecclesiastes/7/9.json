@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ani repya'e nde ruah-pe vere hag̃ua; ehénte vere opytuʼu umi tavy apysápe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "repyaʼe"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "nde ruah-pe"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "vere hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ehénte"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "vere"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "apysápe"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "umi tavy"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "opytuʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:52.439545316Z",
+  "model": "glm-5.3"
+}

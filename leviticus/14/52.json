@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ombokatia ⟨את⟩ ⟨óga⟩ guyra tugýpe, ha y oikóvape, ha guyra oikóvape, ha arazare yvyrape, ha ezovpe, ha shaní toláatpe.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "ombokatia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "tugýpe"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ha y"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "oikóvape"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "ha guyra"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "oikóvape"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "ha yvyra"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "arazarepe"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "ha ezovpe"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "ha shaní"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "toláatpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:51:38.768673372Z",
+  "model": "glm-5.3"
+}

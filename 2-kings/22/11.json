@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha oikóvo mburuvicha ohendúvo ⟨את⟩ Tora kuatiañeʼẽ ñeʼẽkuéra, isãso iao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oikóvo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ohendúvo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora kuatiañeʼẽ ñeʼẽkuéra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽkuéra"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "isãso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iao"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iao"
+    }
+  ],
+  "timestamp": "2026-10-02T12:20:54.532469989Z",
+  "model": "glm-5.3"
+}

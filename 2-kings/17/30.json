@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Babílona-gua kuéra ojapo ⟨את⟩ Sukot-Benot, ha Kut-gua kuéra ojapo ⟨את⟩ Nergál, ha Jamat-gua kuéra ojapo ⟨את⟩ Achima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Ha … kuéra"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babílona-gua"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ha … kuéra"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut-gua"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergál"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergál"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ha … kuéra"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Jamat-gua"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Achima"
+    }
+  ],
+  "timestamp": "2026-10-02T12:17:02.728991400Z",
+  "model": "glm-5.3"
+}

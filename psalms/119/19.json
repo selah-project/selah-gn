@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che haʼe peteĩ kundahára ko yvýpe; ani eñomi chégui nde mboʼerã.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "peteĩ kundahára"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Che"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ko yvýpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "eñomi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chégui"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nde mboʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:05.779856653Z",
+  "model": "glm-5.3"
+}

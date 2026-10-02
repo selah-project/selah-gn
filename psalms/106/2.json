@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Mávapa ohai ikatúva Jahve ipuʼaka guasu, mávopa ohayhuʼarã opaite iñeʼẽjoi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ohai ikatúva"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ipuʼaka guasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ohayhuʼarã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "iñeʼẽjoi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:15.977994043Z",
+  "model": "glm-5.3"
+}

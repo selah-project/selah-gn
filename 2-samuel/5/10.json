@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "David ohókavo tuichavévo, ha Jahve Elohim Tsevaot ichupe ndive.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ohókavo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ohókavo"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "tuichavévo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ichupe ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:20:34.179234583Z",
+  "model": "glm-5.3"
+}

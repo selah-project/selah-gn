@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha ojapóta ⟨את⟩ efod: kuarepoti, tekelet, argaman, tolaat chani ha chesh mochzar, mba'eapo jeikuaahára rehegua.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ha ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ha argaman"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "chani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha chesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mochzar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mba'eapo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "jeikuaahára rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:17.439554843Z",
+  "model": "glm-5.3"
+}

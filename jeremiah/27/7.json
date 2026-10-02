@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ombaʼapóta hese ⟨את⟩ opaite tetãnguéra, ha ⟨את⟩ itaʼýra, ha ⟨את⟩ itaʼýra raʼýra, og̃uahẽ peve pe ára iñyvygua, haʼe avei; ha hese ombaʼapóta tetã hetaiterei ha mburuvichakuéra guasu.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ha ombaʼapóta hese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tetãnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itaʼýra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itaʼýra raʼýra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iñyvygua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ha ombaʼapóta hese"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ha mburuvichakuéra"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T13:30:51.959303478Z",
+  "model": "glm-5.3"
+}

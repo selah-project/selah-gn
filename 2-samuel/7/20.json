@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha mbaʼépa David ikatu oñemboajeve ndéve reñeʼẽ hag̃ua? Ha nde, ndeikuaa ⟨את⟩ ne mbaʼirū, Adonai Jahve.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ha mbaʼépa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "oñemboajeve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "…ve"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "reñeʼẽ hag̃ua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ndeikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mbaʼirū"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ne mbaʼirū"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:01.064173928Z",
+  "model": "glm-5.3"
+}

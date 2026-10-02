@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ⟨את⟩ Baalat ha ⟨את⟩ Tamar, pe yvy guasu ojeiko'ỹhápe, ⟨pe⟩ yvy ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pe yvy guasu ojeiko'ỹhápe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:41.348801105Z",
+  "model": "glm-5.3"
+}

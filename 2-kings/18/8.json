@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Haʼe ohenói ⟨את⟩ Pelishtakuéra Aza peve, ha ⟨את⟩ imoguata hendaguéra, ñangarekohára yvyratã guive oñemonguera hógava peve.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Haʼe"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtakuéra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtakuéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…peve"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imoguata hendaguéra"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "imoguata hendaguéra"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "…guive"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "ñangarekohára yvyratã"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…peve"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "hógava"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "oñemonguera"
+    }
+  ],
+  "timestamp": "2026-10-02T12:15:41.877786352Z",
+  "model": "glm-5.3"
+}

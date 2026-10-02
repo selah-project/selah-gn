@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Ejaheoi Ja-pe, mbaʼe porã ojapóramo ñane ñembopurahéi Elohim-pe; iporãiterei ha ojehecha porãite jahéi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ejaheoi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼe porãramo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ojapóramo ñane ñembopurahéi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeháramo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "iporãiterei"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ojehecha porãite"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "jahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:52.709924369Z",
+  "model": "glm-5.3"
+}

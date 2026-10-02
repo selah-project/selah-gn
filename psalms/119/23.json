@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Umi mburuvicharõ guaʼi katu oime ha oñeʼẽ che rehegua vai; ne mbaʼeruʼãrõ katu omombaʼapo nde jokuaikuaa kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "katu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oime"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "umi mburuvicharõ guaʼi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "oñeʼẽ vai"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ne mbaʼeruʼãrõ"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "omombaʼapo"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nde jokuaikuaa kuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:24.005602391Z",
+  "model": "glm-5.3"
+}

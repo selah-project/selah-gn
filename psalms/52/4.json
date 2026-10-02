@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Ñe'ẽ vai rehe ñemoarandu ne ñe'ẽ, ta'yrakuéra peve chembo'a vai — ojapóva ñembyai.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Ñe'ẽ vai rehe ñemoarandu"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ñemoarandu"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ne ñe'ẽ"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "ta'yrakuéra peve"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "chembo'a vai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ñembyai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:37.693940764Z",
+  "model": "glm-5.3"
+}

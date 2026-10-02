@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Eipysyrõ chéve tesa raʼy raʼangaicha, ne pyape yvytúpe eñomi chéve.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Eipysyrõ chéve"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "tesa raʼy raʼangaicha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tesa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "yvytúpe"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ne pyape"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "eñomi chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:52.266105312Z",
+  "model": "glm-5.3"
+}

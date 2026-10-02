@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 11:22",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ysyry ojopysáva hosa ojekaisýta hova renondégui ha oñembyaíta; avei ⟨את⟩ ñeʼẽmeʼẽ mburuvicha.",
+  "tokens": [
+    {
+      "surface": "וזרעות",
+      "gloss": "hosa"
+    },
+    {
+      "surface": "השטף",
+      "gloss": "ysyry ojopysáva"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ojekaisýta"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "hova renondégui"
+    },
+    {
+      "surface": "וישברו",
+      "gloss": "oñembyaíta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mburuvicha",
+      "marks": "ñeʼẽmeʼẽ mburuvicha"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T17:42:21.700195143Z",
+  "model": "glm-5.3"
+}

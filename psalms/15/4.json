@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ivaiva ojehechakuaa vaíva chupe iñakãme, ha ome'ẽ jerovia ⟨את⟩ Jahve imandu'ávape; oñe'ẽme'ẽrã ohasa'asy ha ndoambuéi.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "ivai"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "iñakãme"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ojehechakuaa vaíva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve imandu'ávape"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "imandu'áva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ome'ẽ jerovia"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "oñe'ẽme'ẽrã"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ohasa'asy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndoambuéi"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ndoambuéi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:44.799230604Z",
+  "model": "glm-5.3"
+}

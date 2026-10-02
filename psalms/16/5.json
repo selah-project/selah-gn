@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Jahve ⟨haʼe⟩ che mbaʼejaova ha che kopa; Nde — Nde che pysyrõ che mbaʼejaova rehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mbaʼejaova"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "che mbaʼejaova"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ha che kopa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "che pysyrõ"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "che mbaʼejaova rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:55.766302354Z",
+  "model": "glm-5.3"
+}

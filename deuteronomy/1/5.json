@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Yjordán ysalakuépe, Moav retãme, Moche ondyry ohechauka hag̃ua ⟨את⟩ ko Tora, heʼívo:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ysalakuépe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yjordán"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ondyry"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ohechauka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ko Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:13.792071218Z",
+  "model": "glm-5.3"
+}

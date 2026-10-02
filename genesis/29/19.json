@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha Lavan heʼi: Iporã che ameʼẽ ⟨את⟩ chupe ndéve, ameʼẽvo ⟨את⟩ chupe ambue kuimbaʼépe rangare; eiko che ndivente.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "che ameʼẽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ameʼẽvo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ambue kuimbaʼépe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "rangare"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "eiko"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "che ndivente"
+    }
+  ],
+  "timestamp": "2026-10-02T07:48:40.374167081Z",
+  "model": "glm-5.3"
+}

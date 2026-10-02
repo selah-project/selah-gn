@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Peẽ ou cherenondépe jehecha hagua, mávapa ojerure kóva peẽ pógui — che koróra pepo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "peẽ ou"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "jehecha hagua"
+    },
+    {
+      "surface": "פני",
+      "gloss": "cherenondépe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "peẽ pógui"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "pepo"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "che koróra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:33.388383701Z",
+  "model": "glm-5.3"
+}

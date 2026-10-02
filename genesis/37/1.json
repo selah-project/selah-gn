@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Jaakov oiko ⟨pe⟩ yvýpe itúva oiko hague ñemoñarẽgua ramo, ⟨pe⟩ Kenaan yvýpe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ñemoñarẽgua ramo oiko hague"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:57.724004225Z",
+  "model": "glm-5.3"
+}

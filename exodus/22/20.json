@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ani repoko vai pytagua rehe, ani rejopy chupe; pántena peikuri pytagua-ramo Mitsraim retã-me.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "pytagua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "repoko vai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "rejopy chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pántena"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "pytagua-ramo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "peikuri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retã-me"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:47.889750838Z",
+  "model": "glm-5.3"
+}

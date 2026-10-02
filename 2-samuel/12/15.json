@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Natan ohóu hógape. Ha Jahve oipohýi ⟨את⟩ pe mitã heñóiva Uriyah rembireko David-peguáva, ha ohasy vaierã.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ohóu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hógape"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "oipohýi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitã"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "heñóiva"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tembireko"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-peguáva"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ohasy vaierã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:56.642541195Z",
+  "model": "glm-5.3"
+}

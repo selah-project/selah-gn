@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha ojovaipaite ⟨את⟩ umi matseva, okytai ⟨את⟩ umi Achera, ha omyenyhẽ ⟨את⟩ ijykuekuéra yvypóra ruguaitakuéra ⟨ndive⟩.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "ojovaipaite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi matseva"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "matsevakuéra"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "okytai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Achera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Acherakuéra"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "omyenyhẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijykuekuéra"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ijykuekuéra"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ruguaitakuéra ndive"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:16.054865291Z",
+  "model": "glm-5.3"
+}

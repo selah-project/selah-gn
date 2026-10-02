@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Esav he'i: Che amohẽta ndive ko'ã tavayguagua ⟨את⟩ che ndive oĩvagui. Ha Jaakov he'i: Mba'érepa ko'ã? Ajuhútupa che jára resápe grasia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "amohẽta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mba'ẽ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che ndive oĩva"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mba'érepa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ajuhútupa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    }
+  ],
+  "timestamp": "2026-10-02T07:50:58.718513798Z",
+  "model": "glm-5.3"
+}

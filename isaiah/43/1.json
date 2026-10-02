@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha koʼágã upéicha heʼi Jahve, ne japo vaʼekue, Jaakov, ha ne moheñói vaʼekue, Jisrael: ani rekyhyje, che amongaraipý haguére nde; che henói nde rérape; che mbaʼe nde.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼágã"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "ne japo vaʼekue"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "ha ne moheñói vaʼekue"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "rekyhyje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "che amongaraipý haguére nde"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "che henói"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nde rérape"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    }
+  ],
+  "timestamp": "2026-10-02T12:52:59.069354386Z",
+  "model": "glm-5.3"
+}

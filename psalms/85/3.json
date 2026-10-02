@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Reipeʼa umi tekojavai ne mbaʼéva kuéra mbytégui, remboñemi opaite hovyʼykuéra. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tekojavai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne mbaʼéva kuéra"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "remboñemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hovyʼykuéra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:27.808631456Z",
+  "model": "glm-5.3"
+}

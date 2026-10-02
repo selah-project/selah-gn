@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 120,
+  "translation": "Purahéi pytupýrõguarã. Jahve-pe, che apysýpe, ahenói, ha ombohovái cherehe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pytupýrõguarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "apysýpe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ha ombohovái cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:15.186913648Z",
+  "model": "glm-5.3"
+}

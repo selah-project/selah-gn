@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Aharon ra'akuéra ogueru ⟨את⟩ pe tuguy chupe, ha oñemoĩ ikuã ⟨pe⟩ tuguy-pe, ha omoĩ ⟨pe⟩ yvyrakuéra pe altar ári, ha ⟨את⟩ pe tuguy oyso pe altar yvypýpe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'akuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tuguy"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "pe tuguy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ikuã"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "tuguy-pe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "yvyrakuéra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe tuguy"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "pe tuguy"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "oyso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "yvypýpe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe altar"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:12.037051839Z",
+  "model": "glm-5.3"
+}

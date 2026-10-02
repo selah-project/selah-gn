@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ⟨את⟩ Jatir ha ⟨את⟩ iñeka'aguy, ha ⟨את⟩ Echtemoa ha ⟨את⟩ iñeka'aguy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeka'aguy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iñeka'aguy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Echtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Echtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeka'aguy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iñeka'aguy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:54.460388090Z",
+  "model": "glm-5.3"
+}

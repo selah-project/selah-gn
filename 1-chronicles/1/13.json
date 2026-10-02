@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Kenaan omongakuaa ⟨את⟩ Tsidón, itaʼýra raʼỹete, ha ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ha Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidón"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidón"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "itaʼýra raʼỹete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:40.467153927Z",
+  "model": "glm-5.3"
+}

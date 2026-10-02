@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéicha avei ahecha kuarahy ryepýpe: tekojoja rendápe upépe oĩ ⟨mbaʼe vai⟩, ha tsedek rendápe upépe oĩ ⟨mbaʼe vai⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Ha upéicha avei"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ha … rendápe"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mbaʼe vai"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:51.674739350Z",
+  "model": "glm-5.3"
+}

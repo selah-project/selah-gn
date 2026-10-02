@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha heʼi hikuái: ¿ojejapo vaʼerãpa ⟨את⟩ ñande ryke vyʼapavẽicha?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha heʼi hikuái"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "vyʼapavẽicha"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojejapo vaʼerãpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande ryke"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "ñande ryke"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:14.828581970Z",
+  "model": "glm-5.3"
+}

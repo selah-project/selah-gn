@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ani repoi vai Edomaygua rehe, haʼe nde joykeý rupi; ani repoi vai Mitsraimygua rehe, nde kuaraʼýrõ upépe hague rupi, iñyvýpe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "repoi vai hese"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomaygua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "nde joykeý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "repoi vai hese"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsraimygua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "kuaraʼýrõ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "erekóva"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "iñyvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:05:34.566233825Z",
+  "model": "glm-5.3"
+}

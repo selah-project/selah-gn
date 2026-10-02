@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha ⟨את⟩ opaite Aravia mburuvichakuéra, ha ⟨את⟩ opaite mburuvicha jehe'apyre atyguagua oikóva yvy nandípe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "opaite Aravia mburuvichakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Aravia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite mburuvicha jehe'apyre atyguagua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jehe'apyre atyguagua"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvy nandípe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:10:56.348477419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ani peichaháinte reipy jopói: jopói omombeguera ⟨את⟩ umi ohecháva ha ombaʼapo vai ⟨את⟩ marangatu ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "jopói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "reipy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ani peichaháinte"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "jopói"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "omombeguera"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "umi ohecháva"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ombaʼapo vai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:17.210285101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che resa oñembyasy nde katupyryvape guarã ha nde tsedek ñe'ẽ guarã.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Che resa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "nde katupyryvape guarã"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ha ... ñe'ẽ guarã"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "nde tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:30.115148008Z",
+  "model": "glm-5.3"
+}

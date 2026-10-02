@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Upévare, mbaʼe nandípe ou ha pytũme ohóta, ha iñera pytũme oñembohesaʼy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "mbaʼe nandípe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ha pytũme"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ohóta"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ha pytũme"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iñera"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "oñembohesaʼy"
+    }
+  ],
+  "timestamp": "2026-10-02T17:24:47.470512748Z",
+  "model": "glm-5.3"
+}

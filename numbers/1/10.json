@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Yosef taʼýra kuérape g̃uarã: Efrayim-pe g̃uarã, Elishama, Amihud raʼy; Menache-pe g̃uarã, Gamliel, Pedatsur raʼy.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "kuérape g̃uarã"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef taʼýra"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim-pe g̃uarã"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menache-pe g̃uarã"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsur"
+    }
+  ],
+  "timestamp": "2026-10-02T09:11:19.265391238Z",
+  "model": "glm-5.3"
+}

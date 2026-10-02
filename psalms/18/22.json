@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Che ajerereko hag̃ua Jahve rape, ha che ndajapói vai che Elohim rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ajerereko"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "rape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndajapói"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "che Elohim rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:54.650302297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Serug oikove mbohapy pa ary, ha omemby ⟨את⟩ Najor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapy pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:13.582445113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha aikota Jisrael mitakuéra apytépe, ha ⟨את⟩ cheretã Jisrael ndohekóita chugui.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "aikota"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndohekóita"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cheretã Jisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cheretã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:59.837480290Z",
+  "model": "glm-5.3"
+}

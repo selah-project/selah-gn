@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Oheja ramo iraʼýi che Tora, ha che hekojojaha rupi ndoguatamoʼãi,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iraʼýi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "che Tora"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ha che hekojojaha rupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "oguata"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:35.262581739Z",
+  "model": "glm-5.3"
+}

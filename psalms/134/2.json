@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 134,
+  "translation": "Pejupi peẽ pónguéra marangatu rendápe, ha pejopa ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Pejupi"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "peẽ pónguéra"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu rendápe"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ha pejopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:34.867388106Z",
+  "model": "glm-5.3"
+}

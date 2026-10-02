@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha oñemohenda ⟨את⟩ umi yvyra, ha ope'a ⟨את⟩ pe vaka pehẽnguérépe, ha omoĩ umi yvyra ári.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi yvyra"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "umi yvyra"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ope'a pehẽnguérépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vaka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pe vaka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "umi yvyra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:25.499826616Z",
+  "model": "glm-5.3"
+}

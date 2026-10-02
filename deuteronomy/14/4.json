@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Kóva pe mymba peẽ ikatu reʼu: vaka, ovecha raʼỹi ha kavara raʼỹi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "reʼu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "raʼỹi"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ha raʼỹi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kavara"
+    }
+  ],
+  "timestamp": "2026-10-02T09:55:34.523790124Z",
+  "model": "glm-5.3"
+}

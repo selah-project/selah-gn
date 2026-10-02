@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Chelomo kuaa ohasa opavave kuarahy resẽ taʼýra kuaa-gui, ha opavave Mitsraim kuaa-gui.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "kuaa-gui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kuarahy resẽ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T11:41:18.955170931Z",
+  "model": "glm-5.3"
+}

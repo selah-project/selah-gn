@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Oñembyai pyʼyte jave yvy oñembyai pyʼyte, ojepeʼa pyʼyte jave yvy ojepeʼa pyʼyte, ojerovyvy pyʼyte jave yvy ojerovyvy pyʼyte.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "oñembyai pyʼyte jave"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "oñembyai pyʼyte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "פור",
+      "gloss": "ojepeʼa pyʼyte jave"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "ojepeʼa pyʼyte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "ojerovyvy pyʼyte jave"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "ojerovyvy pyʼyte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:06.342257863Z",
+  "model": "glm-5.3"
+}

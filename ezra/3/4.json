@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ojapo ⟨את⟩ Sukot ára, ojehaívaicha, ha olah ára rehegua arapaʼũme, papapy rupive, hekojojaháicha, peteĩ ára mbaʼe rehegua héra árape.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot ára"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ára ñemeʼẽ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ojehaívaicha"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "olah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára rehegua"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "arapaʼũme"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "papapy rupive"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "hekojojaháicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼe rehegua"
+    },
+    {
+      "surface": "יום",
+      "gloss": "peteĩ ára"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "héra árape"
+    }
+  ],
+  "timestamp": "2026-10-02T17:45:29.955167839Z",
+  "model": "glm-5.3"
+}

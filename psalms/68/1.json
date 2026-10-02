@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Pe ohendúvape g̃uarã, David mbaʼerã, mizmor, purahei.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe ohendúvape g̃uarã"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼerã"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:05.551982741Z",
+  "model": "glm-5.3"
+}

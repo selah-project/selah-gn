@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Upéicha Jahve Elohim oha'ãnga ⟨את⟩ yvypóra yvy ku'ígui yvygui, ha opytu'i iñapytúpe pytũ rekovia, ha yvypóra oiko chugui tekove oikóva.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "oha'ãnga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "yvy ku'i"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ha opytu'i"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "iñapytúpe"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "pytu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rekovia"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko chugui"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "tekove ramo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "oikóva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:39.239522672Z",
+  "model": "glm-5.3"
+}

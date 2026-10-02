@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Aravo oikysẽ hag̃ua, ha aravo oposarái hag̃ua; aravo oñembyasy hag̃ua, ha aravo ojeroky hag̃ua.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "oikysẽ hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "oposarái hag̃ua"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "oñembyasy hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ojeroky hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:17.945918259Z",
+  "model": "glm-5.3"
+}

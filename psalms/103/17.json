@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Jahve hesed ⟨is⟩ saro'y yma guive saro'y peve umi ija'ovévape g̃uarã, ha itsedek umi memby ra'ýra g̃uarã.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "ha hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "saro'y yma guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "saro'y peve"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe g̃uarã"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "umi ija'ovévape"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ha itsedek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "umi memby"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ra'ýra g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:28.772807720Z",
+  "model": "glm-5.3"
+}

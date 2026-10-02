@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Omoñembyai, oñemomichĩ, ha umi ndoikoporãiva oguéva ipu'akaitégui.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "omoñembyai"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "oñemomichĩ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "oguéva"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ipu'akaitégui"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "umi ndoikoporãiva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:48.563405307Z",
+  "model": "glm-5.3"
+}

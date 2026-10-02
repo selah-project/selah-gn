@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Jahve he'i Shemuel-pe: Eñandu ⟨pe⟩ tavayguakuéra ñe'ẽ, opa mba'e he'íta ndéve; ndaha'éi ⟨את⟩ nde hikuái omboyke'ýva, ha'e upéva che ahai'rã hikuái, ⟨את⟩ che omboyke che isãmbyhy'ỹ hag̃ua hesakuéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eñandu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…-ñe'ẽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opa mba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "he'íta"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "he'íta ndéve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'ére"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaha'éi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "omboyke'ýva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'e upéva"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "omboyke"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "isãmbyhy'ỹ hag̃ua"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hesakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:56:50.562628943Z",
+  "model": "glm-5.3"
+}

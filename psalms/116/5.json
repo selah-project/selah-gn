@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Jahve iñarõva ha hekojoja, ha ore Elohim mbaʼerepyhã.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "iñarõva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ha hekojoja"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ha ore Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mbaʼerepyhã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:38.849996812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha eramo peẽ nahenonde'ái Jahve iñe'ẽ, ha pejahai ⟨את⟩ Jahve iñe'ẽ rehe, Jahve po oĩta peẽ rehe, ha pe ruakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha eramo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahenonde'ái"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nahenonde'ái"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "pejahai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve iñe'ẽ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iñe'ẽ (juru)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "peẽ rehe"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ha pe ruakuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:27.997264410Z",
+  "model": "glm-5.3"
+}

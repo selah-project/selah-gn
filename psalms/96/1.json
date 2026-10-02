@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Purahéi Jahve-pe purahéi pyahu, purahéi Jahve-pe, opaite ⟨⟨⟩⟩yvy.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:56.604535867Z",
+  "model": "glm-5.3"
+}

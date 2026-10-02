@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ogazáma oheja vaʼekuépe oʼu chupe pe arave; arave oheja vaʼekuépe oʼu chupe pe chaléke; chaléke oheja vaʼekuépe oʼu chupe pe hasíl.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "oheja vaʼekuépe"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "ogazáma"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oʼu chupe"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arave"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "oheja vaʼekuépe"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arave"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oʼu chupe"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "chaléke"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "oheja vaʼekuépe"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "chaléke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oʼu chupe"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hasíl"
+    }
+  ],
+  "timestamp": "2026-10-02T14:50:24.398624510Z",
+  "model": "glm-5.3"
+}

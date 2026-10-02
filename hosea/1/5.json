@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Upéicha árape oĩta, ha ambyaipa ⟨את⟩ Jisrael keshet Jizreel yvyku'eri-pe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára-pe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ambyaipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael keshet"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "keshet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "yvyku'eri-pe"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:35.163920213Z",
+  "model": "glm-5.3"
+}

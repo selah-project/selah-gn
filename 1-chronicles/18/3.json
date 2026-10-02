@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha David oity ⟨את⟩ Hadadézer, Tsova mburuvicha, Chamátape, ohóvo omopyendávo ipoguasu Perat ysyry rembeʼýpe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "oity"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadézer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "Chamátape"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "omopyendávo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipoguasu"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:10.540979602Z",
+  "model": "glm-5.3"
+}

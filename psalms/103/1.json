@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "David remiandu. Emombaʼeguasu, che reko, ⟨את⟩ Jahve; ha che rekópe oĩva opaite, ⟨את⟩ iñarangatu héra emombaʼeguasu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David remiandu"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "emombaʼeguasu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che reko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "che rekópe oĩva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñarangatu héra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "héra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iñarangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:19.203358726Z",
+  "model": "glm-5.3"
+}

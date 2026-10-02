@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Elisea heʼi chupe: Eho, eʼi chupe: Aikove jeýnte; hákatu Jahve ohechauka chéve haʼetéva omanóta haguã añetegua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "eʼi chupe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jeýnte ⟨(ketiv: nahániri)⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "aikove"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "jeýnte"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ohechauka chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼetéva"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omanóta haguã"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T12:08:46.097196736Z",
+  "model": "glm-5.3"
+}

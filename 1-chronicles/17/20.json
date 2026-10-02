@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Jahve, ndaipóri ndechaichagua, ha ndaipóri mokõiha Elohim nde rehépe, opa umíva rohendavaʼekue ore apysápe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ndechaichagua"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "mokõiha nde rehépe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "rohendavaʼekue"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ore apysápe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:42.840288858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha upéicha chugui ojapo ⟨את⟩ umi ypy ⟨pe⟩ okẽpegua Oha Oñembyatyha pegua, ⟨את⟩ pe altar kuarepoti pegua, ⟨את⟩ pe tysỹi kuarepoti pegua imbaʼéva, ha ⟨את⟩ opaite altar mbaʼe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ypy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ypy"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "okẽpegua"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Oñembyatyha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe altar kuarepoti pegua"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kuarepoti pegua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe tysỹi kuarepoti pegua"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "tysỹi"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kuarepoti pegua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לו",
+      "gloss": "imbaʼéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite altar mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar pegua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:33.430760396Z",
+  "model": "glm-5.3"
+}

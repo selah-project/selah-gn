@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha upégui regueru vevýi michĩva, papapy rupi, ha remboja ⟨את⟩ umi ne rokãme.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ha regueru"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "michĩva"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "papapy rupi"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ha remboja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "umi vevýi michĩva"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "ne rokãme"
+    }
+  ],
+  "timestamp": "2026-10-02T13:59:36.731138064Z",
+  "model": "glm-5.3"
+}

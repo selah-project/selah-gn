@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Apysa ñehendu rupi ahenói nde rehe, ha ko'ág̃a che resaite ohecha nde.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ñehendu hag̃ua"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "apysa"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ahendu ndeve"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ha ko'ág̃a"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resaite"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "ohecha nde"
+    }
+  ],
+  "timestamp": "2026-10-02T17:10:56.673304390Z",
+  "model": "glm-5.3"
+}

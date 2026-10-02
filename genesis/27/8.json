@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ko'ág̃a, che ra'y, ehendu che ñe'ẽ, pe mba'ére che ambo'e ⟨את⟩ ndéve.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha ko'ág̃a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che ra'y"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "che ñe'ẽ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "pe mba'ére"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ambo'e"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:00.479665042Z",
+  "model": "glm-5.3"
+}

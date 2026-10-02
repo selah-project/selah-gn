@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 61,
+  "translation": "Ára kuéra rembojoapy mburuvicha guasu ára kuéra ári, hemi ary kuéra ñemoñarã ha ñemoñarãichagua.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "rembojoapy"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "hemi ary kuéra"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ichagua"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ñemoñarã"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ha ñemoñarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:43.159020116Z",
+  "model": "glm-5.3"
+}

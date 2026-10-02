@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Jahve oipe'a ⟨peso⟩ umi tesa oñembotývape; Jahve omopu'ã umi oñembyaíva; Jahve hayhu umi hekokatúva.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "umi tesa oñembotýva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "omopu'ã"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "umi oñembyaíva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hayhu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "umi hekokatúva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:45.894666366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha pe yvypóra oikuaa ⟨את⟩ Java, hembireko; ha ojuehe imembykuérape ha omemby ⟨את⟩ Kain, ha heʼi: Aguerekóma peteĩ kuimbaʼe Jahve ⟨⟨את⟩ ndive⟩.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Ha pe yvypóra"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Java"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Java"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ojuehe imembykuérape"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kain"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "aguerekóma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:27.116962731Z",
+  "model": "glm-5.3"
+}

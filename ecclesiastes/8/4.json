@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Mburuvicha ñe'ẽvo, isãmbyhy ipuʼakápe, ha máva he'íta chupe: mbaʼépa rejapo?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "peveguápe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha máva"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "he'íta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapo"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:29.937780426Z",
+  "model": "glm-5.3"
+}

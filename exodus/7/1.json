@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Jahve heʼi Moche-pe: Ehecha, che ameʼẽ ndéve Elohim ramo Parao-pe g̃uarã, ha Aharon, nde kyvy, oikóta nde nabi ramo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ameʼẽ ndéve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim ramo"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parao-pe g̃uarã"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ha Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde kyvy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "nde nabi ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:46.814074949Z",
+  "model": "glm-5.3"
+}

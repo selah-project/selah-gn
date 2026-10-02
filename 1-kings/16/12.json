@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Upéicha Zimri omongyhyi ⟨את⟩ Baasha óga opaite, Jahve ñeʼẽ rehechaitégui, oñeʼẽvaʼekue Baasha rehe Jehu — pe nabi — rupive.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "omongyhyi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha óga opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ñeʼẽ rehechaitégui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽvaʼekue"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pe nabi"
+    }
+  ],
+  "timestamp": "2026-10-02T11:53:44.174392162Z",
+  "model": "glm-5.3"
+}

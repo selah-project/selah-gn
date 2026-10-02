@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Rejuka hague ⟨את⟩ Edom ha nde korasõ omopotĩ nde; eñemombaʼe ha eiko nde rógahe. ¿Mbaʼérepa rejepyʼapy vai rehegua, nde hasývo ha Jehuda ndive?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "rejuka hague"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "rejuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "omopotĩ nde"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "eñemombaʼe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "eiko"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nde rógahe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "rejepyʼapy"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "vai rehegua"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "nde hasývo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ha Jehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T12:11:53.205122284Z",
+  "model": "glm-5.3"
+}

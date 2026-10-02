@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Kóva hína heta vaícha hembiguaitépe: ojeheja ramo hiʼaño hembiguaitévo iñakãguasúgui, ⟨את⟩ hembiguaitévo, térã ojepeʼa ramo iñakãguasu hembiguaitégui, heta vaícha upéva.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hína"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "heta vaícha"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "hembiguaitépe"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ojeheja hiʼaño"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembiguaitévo"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "hembiguaitévo"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "ojepeʼa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "hembiguaitégui"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "heta vaícha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "upéva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:53.313002758Z",
+  "model": "glm-5.3"
+}

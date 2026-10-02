@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ani peho ambue tupãkuéra rerapehápe, umi tetãnguéra tupã peguerova mbytépe, pekuéra ijerére oíva.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "peho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rerapehápe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tupãkuéra"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambuekuéra"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "peguerova mbytépe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peguerova"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ijerére pekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:49:20.973009797Z",
+  "model": "glm-5.3"
+}

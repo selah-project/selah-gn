@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ⟨את⟩ umi Patrusi, ha ⟨את⟩ umi Kasluhi — kuévo ou asy umi Pelichti — ha ⟨את⟩ umi Kaftori.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "umi Patrusi"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "umi Patrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi Kasluhi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "umi Kasluhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuévo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ou asy"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "umi Pelichti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi Kaftori"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "umi Kaftori"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:16.901989096Z",
+  "model": "glm-5.3"
+}

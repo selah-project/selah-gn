@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha kuñakára oguereko ⟨את⟩ Shaúl ñandepýpe ha iñangirĩkuérape, ha okaru hikuái; upéi opuʼã ha oho hikuái pe pyhare pehégui.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "oguereko ⟨את⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñandepýpe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ha iñangirĩkuérape"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñangirĩkuéra"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "okaru hikuái"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho hikuái"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pe pyhare"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pehégui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:14:08.372482854Z",
+  "model": "glm-5.3"
+}

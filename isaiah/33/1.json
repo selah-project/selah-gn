@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Hovaʼe ndéve, embotyʼóva, ha ndéve ndojavyʼyʼõi; embojaruháva, ha ndojaruʼi ndéve: rembotyʼo pahakuévo, ojavyʼyta ndéve; remojaru pahakuévo, omojarúta ndéve.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hovaʼe"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "embotyʼóva"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha ndéve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…ʼi"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "ndojavyʼyʼõi"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "embojaruháva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda…ʼi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ojaru"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "rembotyʼo pahakuévo"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "embotyʼo"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "ojavyʼyta ndéve"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "remojaru pahakuévo"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "mojaru"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "omojarúta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:45:33.822928967Z",
+  "model": "glm-5.3"
+}

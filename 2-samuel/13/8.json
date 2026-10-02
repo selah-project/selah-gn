@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Tamar ohó Amnon ikyri rógape, ha ha'e oñeno; ha ogueru ⟨את⟩ ku'i, ojysaka, ojapo levivot henondépe, ha ombichy ⟨את⟩ levivot.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ha ohó"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ikyri"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha ha'e"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "oñeno"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku'i"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "ku'i"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ojysaka"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ojapo levivot"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "henondépe"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "ha ombichy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levivot"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "levivot"
+    }
+  ],
+  "timestamp": "2026-10-02T11:25:07.608127298Z",
+  "model": "glm-5.3"
+}

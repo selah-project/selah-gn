@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha koʼag̃a, ohóa nde ohókueva, nde ru óga nerohayhu hetahaguére, mbaʼérepa remongeta ⟨את⟩ che Elohim?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼag̃a"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ohóa"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ohókueva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hetahaguére"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "nerohayhu"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "nerohayhu hína"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óga pe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "remongeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:30.063709891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Pokõi tapýra ⟨hikuái⟩ roiko joyke'y, ore ru memby; peteĩ ndaipori, ha pe michĩetéva ko árape oĩ ⟨את⟩ ore ru NDIVE Kenaan yvýpe.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tapýra"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "roiko"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "joyke'y"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ore ru"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ndaipori"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "ha pe michĩetéva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore ru NDIVE"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ore ru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-02T08:02:31.371246055Z",
+  "model": "glm-5.3"
+}

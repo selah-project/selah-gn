@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Haʼe heʼi: ¿Mbaʼépa rejapo? Nde joykeʼy rugui ñeʼẽ ohenói cherehe ⟨את⟩ yvy guive.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Haʼe heʼi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "rugui (juaju)"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde joykeʼy"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:14.831291511Z",
+  "model": "glm-5.3"
+}

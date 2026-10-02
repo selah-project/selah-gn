@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Upéi Moche oiporavo kuimbaʼe ipuʼakapáva Jisraelpeguápa apytégui, ha omoĩ chuguikuéra ijára kuéra ⟨⟨⟩⟩ tavayguakuéra ári: arandukuára su resáre, arandukuára sa resáre, arandukuára paporundýre ha arandukuára pa resáre.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "oiporavo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ipuʼakapáva"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "apytéguipa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra ijára kuéra"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ijára kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "arandukuára"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su resáre"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "arandukuára"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa resáre"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "arandukuára"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "paporundýre"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ha arandukuára"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "pa resáre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:10.249447304Z",
+  "model": "glm-5.3"
+}

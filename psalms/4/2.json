@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ahayhúvo, eñembohovái cherehe, Elohim che tsedek; cherehasávo nde cheipe va'ekue. Ehechate che rehe, ha ehendu che ñeʼẽjerure.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "ahayhúvo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eñembohovái cherehe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "che tsedek"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "cherehasávo"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "nde cheipe vaʼekue"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ehechate che rehe"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ha ehendu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñeʼẽjerure"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:01.953677716Z",
+  "model": "glm-5.3"
+}

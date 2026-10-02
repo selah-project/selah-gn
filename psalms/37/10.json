@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha upéi sapyʼamípe ko ivairõva ndaipórimoʼã; emaʼẽ porãrõ hendápe, ndaipóri hikuái.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ha upéi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sapyʼamípe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndaipórimoʼã"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ko ivairõva"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "emaʼẽ porãrõ"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ndaipóri hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:33.128091917Z",
+  "model": "glm-5.3"
+}

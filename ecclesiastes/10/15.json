@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Pe mbaʼapo asy omonandi umi ñarõvape, haʼekuéra ndaikuaái oho hag̃ua távape.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "mbaʼapo asy"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "umi ñarõva"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "omonandi chupekuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "oho hag̃ua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:29.508008572Z",
+  "model": "glm-5.3"
+}

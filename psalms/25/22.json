@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Jevyrei Elohim ⟨את⟩ Jisrael opa iñapytu'ũvai rehegui.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Jevyrei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opa ... rehegui"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "iñapytu'ũvai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:45.838069250Z",
+  "model": "glm-5.3"
+}

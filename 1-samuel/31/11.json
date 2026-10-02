@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ohendu hikuái upéva Javech Guilad ypekuaakuéra, ⟨את⟩ mbaʼépa plishtikuéra ojapo Shaúl rehe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ypekuaakuéra"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javech"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼépa ojapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plishtikuéra"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:17:55.564770Z",
+  "model": "glm-5.3"
+}

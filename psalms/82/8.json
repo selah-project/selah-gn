@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 82,
+  "translation": "Ena, Elohim, ejapo tekojoja pe yvy ári, upévare nerekorã opaite tetãnguéra.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ejapo tekojoja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "nerekorã"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:44.814624267Z",
+  "model": "glm-5.3"
+}

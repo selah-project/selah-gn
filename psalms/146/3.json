@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Ani pejerovia karai guasukuérape, yvypóra raʼýpe, ndorekóigui chupe ñemoãrã.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "pejerovia"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "karai guasukuérape"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "ndorekóigui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ñemoãrã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:56.049123901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 54,
+  "translation": "Elohim, ehendu che jerure; ehendu porã che juru ñe'ẽnguéra.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che jerure"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ehendu porã"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "che juru ñe'ẽnguéra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:49.451749239Z",
+  "model": "glm-5.3"
+}

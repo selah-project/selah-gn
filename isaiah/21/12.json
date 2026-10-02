@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Heʼi pe moñangarekoha: Oguahẽ ⟨koʼẽmbota⟩ ha pyhare avei. Ejererejey mbaʼe rehekáramo, eheka: ejevy, ejeréy jey.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pe moñangarekoha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "oguahẽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽmbota"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha … avei"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ejererejey"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "mbaʼe rehekáramo"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "eheka"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ejeréy jey"
+    }
+  ],
+  "timestamp": "2026-10-02T19:05:38.638975288Z",
+  "model": "glm-5.3"
+}

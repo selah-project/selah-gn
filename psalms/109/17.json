@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ohayhu ñe'õ vai, ha ou chupe; ha ndoipotái ñe'ẽporã, ha oĩ mombyry chugui.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ñe'õ vai"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ou chupe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoipotái"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "ñe'ẽporã"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "oĩ mombyry"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:01.941916924Z",
+  "model": "glm-5.3"
+}

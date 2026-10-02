@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Peẽ pejapóta ⟨את⟩ koʼãva, koʼẽ jeporojaka mbytépe añonte, tapiaite jeporojaka ramóva.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "mbytépe añonte"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "jeporojaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ramóva"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "jeporojaka ramo"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pejapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼãva"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:37:54.397026490Z",
+  "model": "glm-5.3"
+}

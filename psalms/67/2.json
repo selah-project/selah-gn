@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 67,
+  "translation": "Elohim oñemimbi ñanderehe ha oñemongarai ñande, ombojahuhápe ijaspe ⟨את⟩ ñande rehe. Chelah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "oñemimbi ñanderehe"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ha oñemongarai ñande"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ombojahuhápe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ijaspe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñande rehe",
+      "marks": "ñande rehe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chelah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:19.156892394Z",
+  "model": "glm-5.3"
+}

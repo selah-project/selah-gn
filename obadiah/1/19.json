@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ñemby gotyogua orekóta ⟨את⟩ Esav yvyty ha yvyty apysapeguagua ⟨את⟩ pelistínokuéra; orekóta ⟨את⟩ Efráin kokué ha ⟨את⟩ Chomeron kokué, ha Binjamín ⟨את⟩ Gilead.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "orekóta"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ñemby gotyogua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav yvyty"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "yvyty apysapeguagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelistínokuéra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistínokuéra"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "orekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efráin kokué"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kokué"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Chomeron kokué"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kokué"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chomeron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ha Binjamín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-10-02T15:00:32.311426537Z",
+  "model": "glm-5.3"
+}

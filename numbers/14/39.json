@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Moche oñeʼẽ ⟨את⟩ koʼã ñeʼẽ opaite Jisrael mitãnguéra rehe, ha tavayguakuéra oñembyasy hikuái vaieterei.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "koʼã ñeʼẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "oñembyasy hikuái"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vaieterei"
+    }
+  ],
+  "timestamp": "2026-10-02T09:23:57.122590749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Terah ara-ara haʼe po ary ha mokõisā arýpa; ha Terah omano Haranpe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ha ⟨haʼe⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ha mokõisā"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Haranpe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:35.814732785Z",
+  "model": "glm-5.3"
+}

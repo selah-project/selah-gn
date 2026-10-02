@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ameʼéta kaʼavo nde kokue-pe, nde mymbakuéra g̃uarã; ha nde karúta ha nde satuita.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ha ameʼéta"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kaʼavo"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "nde kokue-pe"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "nde mymbakuéra g̃uarã"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ha nde karúta"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ha nde satuita"
+    }
+  ],
+  "timestamp": "2026-10-02T18:52:12.259139298Z",
+  "model": "glm-5.3"
+}

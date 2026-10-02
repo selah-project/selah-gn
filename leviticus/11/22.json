@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "⟨את⟩ Koʼã umívagui peẽ karukuaa: ⟨את⟩ arbeh ijeheguíre, ha ⟨את⟩ salʼam ijeheguíre, ha ⟨את⟩ jargol ijeheguíre, ha ⟨את⟩ jagav ijeheguíre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "umívagui"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "peẽ karukuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ijeheguíre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "salʼam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "salʼam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ijeheguíre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "jargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "jargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ijeheguíre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "jagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "jagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ijeheguíre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:02.788960408Z",
+  "model": "glm-5.3"
+}

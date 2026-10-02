@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ojevy ⟨את⟩ Moche ha ⟨את⟩ Aharon Paroh rendápe, ha he'i chupekuéra: «Eho, mba'apo ⟨את⟩ Jahve rehe, Elohim-pe. Mávapa, mávapa umi ohótava?»",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ha ojevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eho"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mba'apo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "umi ohótava"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:41.669668777Z",
+  "model": "glm-5.3"
+}

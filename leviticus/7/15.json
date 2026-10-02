@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Pe soʼo pe korapõ paʼẽhagua ijpytuʼu korapõ mbaʼéva — ijojahaʼỹre ojeʼuporãrã — ijkorapõ árape oñekaru vaʼerã; nahániri ohejamoʼãi mbaʼeve upégui koʼẽ meve.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "Pe soʼo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "pe korapõ"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "paʼẽhagua"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ijpytuʼu korapõ mbaʼéva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ijkorapõ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oñekaru vaʼerã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ohejamoʼãi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "upégui mbaʼeve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:21.917613808Z",
+  "model": "glm-5.3"
+}

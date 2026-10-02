@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve ome'ẽ ⟨את⟩ vy'arã avakuéra peguarã Mitsraim-yguakuéra jesápe; avei kuimba'e Moche tuicha iterei Mitsraim yvýpe, Paraó mbokuára jesápe ha avakuéra jesápe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ha ome'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vy'arã"
+    },
+    {
+      "surface": "חן",
+      "gloss": "vy'arã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "jesápe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-yguakuéra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iterei"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "jesápe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mbokuára"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraó"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ha jesápe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:38.761412569Z",
+  "model": "glm-5.3"
+}

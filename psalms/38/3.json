@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Nde ysapoyvukuéra ogenói che rehe, ha nde po omonandi che ári.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "חציך",
+      "gloss": "nde ysapoyvukuéra"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ogenói"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:45.978135938Z",
+  "model": "glm-5.3"
+}

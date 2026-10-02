@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 2:14",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha umi kuimbaʼe ombohovyʼy chupe: Ore tekove peẽ mbaʼéramo omano hag̃ua, nde peẽ ndereï mombeʼúramo ⟨את⟩ ko ore ñeʼẽ; ha oikóta, Jahve omeʼẽvo oreve ⟨את⟩ ko yvy, jajapóta hesed ha ete nde rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ombohovyʼy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ore tekove"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "peẽ mbaʼéramo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "omano hag̃ua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndereï"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "mombeʼúramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ore ñeʼẽ"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ore ñeʼẽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "omeʼẽvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oreve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko yvy"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "jajapóta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ete"
+    }
+  ],
+  "timestamp": "2026-10-02T18:53:50.733962414Z",
+  "model": "glm-5.3"
+}

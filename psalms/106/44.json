@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha ohecha iñeñangarekoha'ãrã chupekuéra, ohendúvo ⟨את⟩ itujai.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iñeñangarekoha'ãrã"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ohendúvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itujai"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "itujai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:49.964459163Z",
+  "model": "glm-5.3"
+}

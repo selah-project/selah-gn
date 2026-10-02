@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha upéi, Jet taʼyra kuéra oñembohovái ⟨את⟩ Avraham rehe, ohaʼã hikuái chupe kuéra heʼi hag̃ua:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "oñembohovái"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼyra kuéra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Jet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hag̃ua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:27.483839993Z",
+  "model": "glm-5.3"
+}

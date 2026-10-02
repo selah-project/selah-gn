@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "David oho ha tuichave tuichave, ha Jahve Tsevaot oime hendaleiku.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "oho ha"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "tuichave tuichave"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oime hendaleiku"
+    }
+  ],
+  "timestamp": "2026-10-02T18:06:07.203296527Z",
+  "model": "glm-5.3"
+}

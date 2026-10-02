@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Emoĩ ⟨את⟩ chupe karkóva guýpe, pe mizbeaj okápe, yvy gotyo; ha pe reshet ohótahína pe mizbeaj mokõiha peve.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (pe reshet)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "karkóva"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe mizbeaj"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "yvy gotyo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ha opytáta"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "pe reshet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe mizbeaj"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:44.753908018Z",
+  "model": "glm-5.3"
+}

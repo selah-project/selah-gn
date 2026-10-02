@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jaguarete ogenipa, ¿máva nogyke? Adonai Jahve oñeʼẽpa, ¿máva noñeʼẽi nabi ramo?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "jaguarete"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "ogeni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "gyke"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "ñeʼẽi nabi ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T14:54:31.596378717Z",
+  "model": "glm-5.3"
+}

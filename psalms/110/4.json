@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 110,
+  "translation": "Jahve oa'i ha noñemoambuéi: Nde reiko pa'i opa henda ári, Malki-Tsedek jehápe.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "oa'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha noñemoambuéi"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "noñemoambuéi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa henda ári"
+    },
+    {
+      "surface": "על",
+      "gloss": "upe ári"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jehápe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:03.877488643Z",
+  "model": "glm-5.3"
+}

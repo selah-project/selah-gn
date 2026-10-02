@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ojongai va'erã iñe'ĩngue, imbarete haguére; ha iñarõrõ, hory haguére; amboja'o va'erã chuguikuéra Jaakov apytépe, ha amoñesãi va'erã chuguikuéra Jisrael apytépe.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ojongai va'erã"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "iñe'ĩngue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "עז",
+      "gloss": "imbarete"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "ha iñarõrõ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "hory"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "amboja'o va'erã chuguikuéra"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakov apytépe"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "ha amoñesãi va'erã chuguikuéra"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:39.509827727Z",
+  "model": "glm-5.3"
+}

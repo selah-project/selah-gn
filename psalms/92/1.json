@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 92,
+  "translation": "Mizmor, purahéi, Chabat ára peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ára peg̃uarã"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:57.336476314Z",
+  "model": "glm-5.3"
+}

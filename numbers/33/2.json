@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Moche ohai ⟨את⟩ umi hesẽnguéra, jeheka jehekaháicha, Jahve iñeʼẽ rupive; ha koʼãva hína umi jeheka hesẽnguéra ndive.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi hesẽnguéra"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "umi hesẽnguéra"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "jeheka jehekaháicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ha koʼãva"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "umi jeheka"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "hesẽnguéra ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:43:22.955457220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Upe mbaʼépe ani opa pe oikotevẽva yvy apytégui; upévare che ameʼẽ ndeve che ñeʼẽ heʼívo: Eipeʼaite ⟨את⟩ nde po nde cheyvágui, nde imboriahúvape ha nde oikotevẽvape, nde yvýpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upe mbaʼépe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pe oikotevẽva"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "על",
+      "gloss": "upe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "…vare"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ameʼẽ ndeve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eipeʼaite"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "eipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "nde cheyvágui"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "nde imboriahúvape"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "ha nde oikotevẽvape"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nde yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:20.969318555Z",
+  "model": "glm-5.3"
+}

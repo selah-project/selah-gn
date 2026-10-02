@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Noé katu ojuhu poʼa Jahve resápe.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Noé katu"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "poʼa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:42.162404277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Eisa eñeʼẽ nde joykeʼy rehe, ha nde sy raʼýpe emeʼẽ ñeʼẽ vai.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "eisa"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "nde joykeʼy rehe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nde sy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ñeʼẽ vai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:51.157252287Z",
+  "model": "glm-5.3"
+}

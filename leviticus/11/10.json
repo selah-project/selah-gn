@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 11:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha opa ndorekóiva sena'ir ha kaskeset paraguasu apytépe ha ysyry apytépe — umi opa y apytépegua sa'e'ỹhína apytu'ũme, ha umi opa tekove oikóva y apytépe apytu'ũme — chekets umi peẽ g̃uarã.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndorekóiva"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndo...rekoiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sena'ir"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ha kaskeset"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "paraguasu apytépe"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "ha ysyry apytépe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "umi opa apytu'ũme"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sa'e'ỹhína"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y apytépegua"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ha umi opa apytu'ũme"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "במים",
+      "gloss": "y apytépe"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "chekets"
+    },
+    {
+      "surface": "הם",
+      "gloss": "umi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:08.229473120Z",
+  "model": "glm-5.3"
+}

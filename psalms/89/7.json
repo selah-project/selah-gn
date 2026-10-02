@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Mavaʼe pa yvágape ojueheguapáva Jahve rehe? Mavaʼe pa ojueheguáva Jahve rehe El-kuéra raʼýkuéra apytépe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "mavaʼe pa"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ojueheguapáva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ojueheguáva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "raʼýkuéra apytépe"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:55.200901273Z",
+  "model": "glm-5.3"
+}

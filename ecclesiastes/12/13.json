@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Opa ñeʼẽ oñehendúvo rire: ⟨את⟩ Elohim rereroʼã ha ⟨את⟩ iñeʼẽmeʼẽkuéra ereko tekorãme, upéva haʼe opa yvypóra.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "opa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "oñehendúvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "rereroʼã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽmeʼẽkuéra"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iñeʼẽmeʼẽkuéra"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ereko tekorãme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "זה",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:25:11.836009195Z",
+  "model": "glm-5.3"
+}

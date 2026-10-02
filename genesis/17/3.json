@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Avraham oñeno iñakã ári, ha Elohim oñeʼẽ ⟨את⟩ hende ndive, heʼívo:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "oñeno"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ári"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ha oñeʼẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hende ndive"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo:"
+    }
+  ],
+  "timestamp": "2026-10-02T07:40:43.767246590Z",
+  "model": "glm-5.3"
+}

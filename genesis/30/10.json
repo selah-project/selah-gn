@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Zilpa, Lea mba'era'ã kuña, ogueru peteĩ mitãkuña'i Jaakovpe.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ogueru (membype)"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "mba'era'ã kuña"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovpe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mitãkuña'i"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:29.844068328Z",
+  "model": "glm-5.3"
+}

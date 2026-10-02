@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Pejahchei Elohim-pe, ñande mbarete; pejukaẽ Jaakov Elohim rehe.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Pejahchei"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "ñande mbarete"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pejukaẽ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:55.733709492Z",
+  "model": "glm-5.3"
+}

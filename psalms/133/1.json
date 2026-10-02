@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 133,
+  "translation": "Jupi purahéi, David mbaʼéva. Ehetychá: mbaʼéichapa iporã ha mbaʼéichapa iporãva ichupe, joykeʼynguéra oikóvo oñondive!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "jupi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼéva"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ehetychá"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mbaʼéichapa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "iporãva ichupe"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "oikóvo"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "joykeʼynguéra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "oñondive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:58.372396434Z",
+  "model": "glm-5.3"
+}

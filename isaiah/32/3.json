@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha umi ohecháva resa ndaijahái, ha umi ohendúva apysa ohendúta tekokatu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaijahái"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ojere hesa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "resa"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "umi ohecháva"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ha apysa"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "umi ohendúva"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ohendúta tekokatu"
+    }
+  ],
+  "timestamp": "2026-10-02T19:07:06.288091834Z",
+  "model": "glm-5.3"
+}

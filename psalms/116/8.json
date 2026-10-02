@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Haʼe haguã reipeʼa vaʼekue che rekove manógui, ⟨את⟩ che resãi tesãgui, ⟨את⟩ che py jeipohogui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼe haguã"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "reipeʼa vaʼekue"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "manógui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che resãi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resãi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tesãgui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che py"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "che py"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "jeipohogui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:38.850585064Z",
+  "model": "glm-5.3"
+}

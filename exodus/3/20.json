@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha che amoĩta ⟨את⟩ che pó, ha aipysóta ⟨את⟩ Mitsraim opaite che mbaʼe jaháva rehe — ajapóta haguã iñepyto vevýpe — ha upéi ohejáta ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "che amoĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che pó"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che pó"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "aipysóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "che mbaʼe jaháva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajapóta haguã"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "iñepyto vevýpe"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "upéva rire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ohejáta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:34.797010281Z",
+  "model": "glm-5.3"
+}

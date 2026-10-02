@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ha'e he'i: ¿Ajerurepa mitã Adonai che jára—? Che amombe'uma: Aníkena chemombochy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ha ha'e he'i"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Ajerurepa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ che jára—gui",
+      "marks": "che jára (Adonai)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿...?"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "amombe'u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aníkena"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "chemombochy"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    }
+  ],
+  "timestamp": "2026-10-02T12:05:38.353778002Z",
+  "model": "glm-5.3"
+}

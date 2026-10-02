@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Jahve, ne puʼaka pype ovyʼa ⟨pe⟩ mburuvicha, ha ne ñemoñani pype, mbaʼeichaitépa ovyʼaiterei!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ne puʼaka pype"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ha ne ñemoñani pype"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼeichaitépa"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ovyʼaiterei"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iterei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:19.436863487Z",
+  "model": "glm-5.3"
+}

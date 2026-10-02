@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Ha isãmbyhyta para guive para peve, ysyry guive yvy iñape'a paháme peve.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ha isãmbyhyta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "para guive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "ים",
+      "gloss": "para"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ha ysyry guive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "iñape'a paháme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:54.410828181Z",
+  "model": "glm-5.3"
+}

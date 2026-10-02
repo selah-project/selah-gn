@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Che arakuéra nde pópe; ekisarái che che ndaija'ehávagui po gui ha che jahy'óhagui.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "nde pópe"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "che arakuéra"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ekisarái che"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "che ndaija'eháva"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "ha che jahy'óha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:37.784567631Z",
+  "model": "glm-5.3"
+}

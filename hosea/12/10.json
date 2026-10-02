@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha che, Jahve, nde Elohim, Mitsraim yvýgui guare, ko'ẽngóima amoĩ jey ndéve tapyi kuéra ryepýpe, ño'ã ára kuéra ra'ãngaháicha.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui guare"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ko'ẽngóima"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "amoĩ jey ndéve"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "tapyi kuéra ryepýpe"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ra'ãngaháicha... kuéra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ño'ã ára"
+    }
+  ],
+  "timestamp": "2026-10-02T14:48:12.408167227Z",
+  "model": "glm-5.3"
+}

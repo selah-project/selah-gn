@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oheja chuguã Betzek-pe; ha Jisrael membykuéra {ova} mbohapytsa su hiʼári, ha Jehuda kuimbaʼékuéra {ova} mbohapypa su.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "ha oheja chuguã"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Betzek-pe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha {ova}"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimbaʼékuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:23.490896022Z",
+  "model": "glm-5.3"
+}

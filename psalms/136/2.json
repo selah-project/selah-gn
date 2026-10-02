@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Emeʼẽ aguyje Elohímarãguárape — umi Elohim apytépe —, hdfaipe hiʼhesed opaʼỹre ndaje.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "emeʼẽ aguyje"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohímarãguárape"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "umi Elohim apytépe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hdfaipe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaʼỹre ndaje"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hiʼhesed"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:21.537398945Z",
+  "model": "glm-5.3"
+}

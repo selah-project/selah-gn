@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ⟨את⟩ Tsora, ha ⟨את⟩ Ajalon, ha ⟨את⟩ Jevron, oĩva Jehuda ha Binjamín-pe, táva kokorapáva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Tsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Jevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehuda-pe"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "Binjamín-pe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "kokorapáva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:22:31.755003659Z",
+  "model": "glm-5.3"
+}

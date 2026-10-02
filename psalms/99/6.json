@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 99,
+  "translation": "Moche ha Aharon iñangirũ? — no: ipaʼikuéra apytépe, ha Shemuel umi héra oñehenóiva apytépe; oñehenói hikuái Jahve rehe, ha katuete haʼe ombohovái chupekuéra.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ha Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "ipaʼikuéra apytépe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ha Shemuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "umi oñehenóiva apytépe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "oñehenói hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha katuete haʼe"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "ombohovái chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:55.846557540Z",
+  "model": "glm-5.3"
+}

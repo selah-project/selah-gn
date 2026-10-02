@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha ohe'i chupekuéra: Nahániri; yvy iñakãnóngare peẽ ou pehecha hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nahániri"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ערות",
+      "gloss": "iñakãnóngare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "peẽ ou"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pehecha hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:59:59.579466428Z",
+  "model": "glm-5.3"
+}

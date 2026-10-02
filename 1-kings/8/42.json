@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ohendútaramo ⟨את⟩ nde réra tuichaitereíva, ⟨את⟩ nde po mbarete, ha nde jyva jepysóva, ha ou oñemboʼe ko óga rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ohendúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde réra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "tuichaitereíva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ha nde jyva"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "jepysóva"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:48:35.954039792Z",
+  "model": "glm-5.3"
+}

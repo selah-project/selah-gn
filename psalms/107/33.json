@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ojapo ⟨את⟩ ysyrykuéra yvy nandípe, ha y ñesẽha y'uhéipe.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ysyrykuéra"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "yvy nandípe"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "ha ñesẽha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "y'uhéipe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:41.053008456Z",
+  "model": "glm-5.3"
+}

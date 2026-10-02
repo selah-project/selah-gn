@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha aníkena peñeʼẽmbou che réra rehe javy rehehápe, ha nde rejita ⟨את⟩ nde Elohim réra; che Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha aníkena"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "peñeʼẽmbou"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "che réra rehe"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "javy rehehápe"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ha rejita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde Elohim réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:46.568628704Z",
+  "model": "glm-5.3"
+}

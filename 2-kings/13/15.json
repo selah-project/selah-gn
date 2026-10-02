@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Elicha heʼi chupe: Egueru nde kãu ha nde ysapy. Ha ogueru chupe kãu ha ysapy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "nde kãu"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ha nde ysapy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kãu"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ha ysapy"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:05.790609913Z",
+  "model": "glm-5.3"
+}

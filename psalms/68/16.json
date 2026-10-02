@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Yvyty Elohim — yvyty Vashan-gua — yvyty tyapũ — yvyty Vashan-gua.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Vashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "tyapũ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Vashan"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:12.766566704Z",
+  "model": "glm-5.3"
+}

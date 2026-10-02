@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha Parao ou iñapyrũmba iku mokõi iñaranduʼa kuéra rehe: mashkeh mburuvicha rehe ha kãguasu apohára mburuvicha rehe.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "ou iñapyrũmba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "iku iñaranduʼa kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mashkeh kuéra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "kãguasu apohára kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:08.281564373Z",
+  "model": "glm-5.3"
+}

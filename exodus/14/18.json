@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha upéicharõ Mitsraim yvypora kuéra kuaáta che haʼeha Jahve, che ahekorosã rire Parao ári, i karro kuéra ári ha i kavaju jakyvaha kuéra ári.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ha kuéra kuaáta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim yvypora kuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "che ahekorosã rire"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Parao ári"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "i karro kuéra ári"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ha i kavaju jakyvaha kuéra ári"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:00.164166267Z",
+  "model": "glm-5.3"
+}

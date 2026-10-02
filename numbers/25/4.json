@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Jahve heʼi Moche-pe: Egueru ⟨את⟩ opaite ⟨umi⟩ téra ruvichakuéra, ha ehoingoʼa ⟨את⟩ chupekuéra Jahve-pe guarã, ⟨directamente⟩ kuarahy renondépe, ha upéicharõ ojevyta Jahve iñakãraku pyaháva Jisrael-rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ⟨umi⟩ téra ruvichakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "ehoingoʼa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "chupekuéra (ruvichakuéra)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe guarã"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ojevyta"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "iñakãraku pyaháva"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iñaky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisrael-rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:35:05.634124192Z",
+  "model": "glm-5.3"
+}

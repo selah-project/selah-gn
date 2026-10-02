@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Elohim omoñepyrũ porã ⟨את⟩ Noach ha ⟨את⟩ iñemoñarekuéra, ha ohendu chupekuéra heʼi: Eñemitỹ peẽ, emomokõi peẽ ha emyahãrõ ⟨את⟩ yvy.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "omoñepyrũ porã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñemoñarekuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñarekuéra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ohendu chupekuéra heʼi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "eñemitỹ peẽ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "emomokõi peẽ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "emyahãrõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:39.464767818Z",
+  "model": "glm-5.3"
+}

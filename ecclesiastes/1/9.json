@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Mba'e oĩva'ekue ha'e ⟨pe⟩ oĩtáva; ha mba'e ojapova'ekue ha'e ⟨pe⟩ ojapótava; ha ndaipóri mba'eve pyahu Kuarahý guýpe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "oĩva'ekue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "oĩtáva"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mba'e"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ojapova'ekue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ojapótava"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mba'eve"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Kuarahý"
+    }
+  ],
+  "timestamp": "2026-10-02T17:18:56.998065898Z",
+  "model": "glm-5.3"
+}

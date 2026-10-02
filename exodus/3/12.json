@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha he'i: Aménte ndive aha; ha kóva ndeve pe je'apa aháha che amondo ndeve: esẽnguvo ⟨את⟩ umi retãygua Mitsraim-gui, peikuéra rendu ⟨את⟩ Elohim-pe ko yvyty ári.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Aménte"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "aha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "האות",
+      "gloss": "pe je'apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aháha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "amondo ndeve"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "esẽnguvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi retãygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi retãygua"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "rendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ko yvyty"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:17.431798825Z",
+  "model": "glm-5.3"
+}

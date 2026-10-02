@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Upe mbaʼe rehegui, ndahechakuaái ojapo hag̃ua hesed, ha olongi ku oikotevẽva ha oĩ asýva, ha korasõ oñenĩva, ojuka hag̃ua.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "upe mbaʼe rehegui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hechakuaa"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ha olongi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "oikotevẽva"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ha oĩ asýva"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ha oñenĩva"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ojuka hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:25.096671629Z",
+  "model": "glm-5.3"
+}

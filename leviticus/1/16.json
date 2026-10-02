@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oguenoẽta ⟨את⟩ iñakarape ig̃uãi ndive, ha omondóta ⟨את⟩ chupe altár ykére, kuarahy resẽ gotyo, tanimbu rekohápe.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "oguenoẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakarape"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "iñakarape"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "ig̃uãi ndive"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "omondóta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "rekohápe"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tanimbu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:01.972656429Z",
+  "model": "glm-5.3"
+}

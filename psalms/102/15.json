@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Ha'e nde mba'apoharakuéra ohayhu ⟨את⟩ itakuéra ha ⟨את⟩ ivyvyku'i kuéra oñangareko hese.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mba'apoharakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itakuéra"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "itakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ivyvyku'i kuéra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ivyvyku'i kuéra"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "oñangareko hese"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:02.724548348Z",
+  "model": "glm-5.3"
+}

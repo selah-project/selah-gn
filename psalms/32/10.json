@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Heta mba'e asy oĩ ⟨pe⟩ marãvotẽme, ha ⟨pe⟩ ojeroviáva Jahve-pe, hesed ojerére chupe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "mba'e asy"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "marãvotẽme"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "ha ojeroviáva"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ojerére chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:05.363795454Z",
+  "model": "glm-5.3"
+}

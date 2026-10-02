@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Tarshish mburuvichakuéra ha ypaʼũ mburuvichakuéra omeʼẽ ⟨jey⟩ minha; Sheva ha Seva mburuvichakuéra ogueru jopói.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ha ypaʼû mburuvichakuéra"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ha Seva"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "jopói"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ogueru"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:28.010295309Z",
+  "model": "glm-5.3"
+}

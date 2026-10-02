@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Ru umi itúa ha sy ñemoĩʼỹvape g̃uarã, tekojojahára umi kuña kuimbaʼeʼỹvape g̃uarã ⟨haʼe⟩ Elohim, iñoga marangatuépe.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ru"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "umi itúa ha sy ñemoĩʼỹva"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ha tekojojahára"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "umi kuña kuimbaʼeʼỹva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "iñoga… -pe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:50.776493194Z",
+  "model": "glm-5.3"
+}

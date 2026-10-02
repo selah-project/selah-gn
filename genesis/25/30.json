@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Esav heʼi Jaakov-pe: Emboʼu cherehe, jasatche, ko juky pyta pytaégui, che kaneʼõ voi. Upémarõ ojehero iñára Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "Emboʼu cherehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jasatche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "pyta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "pyta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "kaneʼõ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "upémarõ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ojehero"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iñára"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:55.867044642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha tetãnguéra ombohovái ha heʼi: jahére oréve g̃uarã jaheja ⟨את⟩ Jahve, jambaʼapo hag̃ua ambue Elohim.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ombohovái"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "jahére"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve g̃uarã"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "jaheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "jambaʼapo hag̃ua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambue"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:20.859333719Z",
+  "model": "glm-5.3"
+}

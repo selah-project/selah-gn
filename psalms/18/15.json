@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha omondo ihui ha omomypy hikuái, yporahã hetaiterei omongyhyje hikuái.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ihui"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "omomypy hikuái"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "yporahã"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "omongyhyje hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:04.630506780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Ha upéicha ronde, nde retãmeʼẽva ha nde vaka kure aty, roñemombaʼeguasu nde rehe ag̃aveite, ñemoñare guive ñemoñare meve, roñeʼẽta nde jeguara opaite ñemoñare apytépe.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Ha upéicha ronde"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retãmeʼẽva"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ha vaka kure aty"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "nde ñemitỹmeʼẽgua"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "roñemombaʼeguasu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ag̃aveite"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ñemoñare guive"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ñemoñare meve"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "roñeʼẽta"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "nde jeguara"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:46.665371437Z",
+  "model": "glm-5.3"
+}

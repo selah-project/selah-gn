@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Opaite mymba oguerekóva pỹi ijyvápe ha ojysaka vaʼekue pỹi ijysaka rupive, ha ombojováva rumi — ko mymba peẽ jaʼukuaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "oguerekóva pỹi"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pỹi"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ojysaka vaʼekue"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ysaka"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "pỹi"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ombojováva"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ko mymba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jaʼukuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:30.961504455Z",
+  "model": "glm-5.3"
+}

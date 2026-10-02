@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Adonai Jahve oipe'a che apysa, ha che nahániri añemoĩvaʼerã, tapykuévo nahániri ahay.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "apysa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "añemoĩvaʼerã"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tapykuévo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "ahay"
+    }
+  ],
+  "timestamp": "2026-10-02T19:07:08.494370235Z",
+  "model": "glm-5.3"
+}

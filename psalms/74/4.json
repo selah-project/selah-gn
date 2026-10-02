@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Osa'ỹjo hikuái nde vaíva nde joajuhápe apytépe; omohẽ hikuái ipoyvi techaukaha ramo.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Osa'ỹjo hikuái"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "nde vaíva"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "nde joajuhápe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "omohẽ hikuái"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ipoyvi"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "techaukaha ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:02.699421245Z",
+  "model": "glm-5.3"
+}

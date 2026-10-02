@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ohechauka chéve ⟨את⟩ Jehoshúa pa'i guasu, oñembyatýva Jahve marandu'ihára renondépe; ha Satán oñembyatýva iñakatúa gotyo, ojerure haguã ichupe vai.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ohechauka chéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshúa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshúa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "oñembyatýva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "marandu'ihára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "ha Satán"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "oñembyatýva"
+    },
+    {
+      "surface": "על",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iñakatúa"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "ojerure haguã ichupe vai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:16:13.439139209Z",
+  "model": "glm-5.3"
+}

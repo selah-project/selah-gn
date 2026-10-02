@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha katu, añetehápe nacheñandu porãi ramo che, che jejavy ⟨את⟩ che ndive opyta.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ha katu"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "nacheñandu porãi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ndive",
+      "marks": "che ndive"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "che jejavy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:54:48.707393472Z",
+  "model": "glm-5.3"
+}

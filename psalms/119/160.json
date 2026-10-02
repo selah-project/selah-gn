@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Iñepyrũme ⟨haʼe⟩ ne ñeʼẽ tetiãrã; ha opa ára peve, opaite ne tsedek hekojojaha.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Iñepyrũme"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ne ñeʼẽ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tetiãrã"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ha opa ára peve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ne tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:43.137663917Z",
+  "model": "glm-5.3"
+}

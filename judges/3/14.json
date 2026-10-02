@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Upéicharõ Jisrael membykuéra ombaʼapo ⟨את⟩ Eglon, Moab mburuvicha, peg̃uarã pakõi poteĩ ary.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "omombaʼapo hikuái"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    }
+  ],
+  "timestamp": "2026-10-02T10:37:27.123303606Z",
+  "model": "glm-5.3"
+}

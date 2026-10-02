@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oñemondói ramo guare, Jahve ivaíva ojevy chugui, ani oisãmbyahýi opa haguã; ha avei Jihudape oĩ mbaʼe porã kuéra.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "oñemondói ramo guare"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "oisãmbyahýi"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "opa haguã"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jihudape"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mbaʼe kuéra"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "porã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:19.277655124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Oiko pyʼaguapýpe mbohypy ary, ndaipóri ñorãirõ Aram ha Jisrael apytépe.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "oiko pyʼaguapýpe"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohypy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha apytépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:04.745256122Z",
+  "model": "glm-5.3"
+}

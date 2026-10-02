@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Egueru ⟨את⟩ umi levíta Jisrael membykuéra apytégui, ha emopotĩ ⟨את⟩ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi levíta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "umi levíta"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "emopotĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:21:39.134109548Z",
+  "model": "glm-5.3"
+}

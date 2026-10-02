@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ogueraha Keruv ári ha oveve; ovevey ruah jave ári.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "Keruv"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "oveve"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ovevey"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "jave"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:03.951336768Z",
+  "model": "glm-5.3"
+}

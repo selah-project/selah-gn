@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Che hasẽ árape, Adonai aheka; che po pyhare pukukuépe oĩ yvate ha ndopytuʼúi; che rekove ndoipotái ñemoñangareko.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "che hasẽ árape"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "che hasẽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "aheka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare pukukuépe"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "oĩ yvate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndopytuʼúi"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "ndopytuʼúi"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "ndoipotái"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ñemoñangareko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:46.913369721Z",
+  "model": "glm-5.3"
+}

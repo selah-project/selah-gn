@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Yvypóra memby kuéra, arakaʼe peve che mbaʼeguasu oiko jepyʼyre? Mbaʼevaiʼỹpe pehayhu, mbaʼeʼo peheka. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "arakaʼe"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "che mbaʼeguasu"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "jepyʼyre"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "pehayhu"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "mbaʼevaiʼỹre"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "peheka"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mbaʼeʼo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:01.953814965Z",
+  "model": "glm-5.3"
+}

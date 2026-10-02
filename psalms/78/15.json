@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Oipe'a ita guasu yvy kuʼiguápe ha omeʼẽ chupekuéra y uhéi, Tehom tuichaiterei háicha.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ita guasu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvy kuʼiguápe"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "omeʼẽ chupekuéra y uhéi"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "Tehom háicha"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tuichaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:14.903593941Z",
+  "model": "glm-5.3"
+}

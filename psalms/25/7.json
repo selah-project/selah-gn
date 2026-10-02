@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Che mitãrusýpe jejavýranguéra ha che jekytĩnguéra ani emandu'a; nde hesed reheve emandu'a cherehe ⟨nde⟩, nde iporã rupi, Jahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "jejavýranguéra"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "che mitãrusýpe"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ha che jekytĩnguéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "emandu'a"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "nde hesed reheve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "emandu'a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "nde iporã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:52.702421985Z",
+  "model": "glm-5.3"
+}

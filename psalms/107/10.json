@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Umi oikóva pytũme ha ekeroña árape, apysyrõhára asy ha kuarepotípe.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Umi oikóva"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytũme"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ha ekeroña árape"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "apysyrõhára"
+    },
+    {
+      "surface": "עני",
+      "gloss": "asýpe"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ha kuarepotípe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:09.169950213Z",
+  "model": "glm-5.3"
+}

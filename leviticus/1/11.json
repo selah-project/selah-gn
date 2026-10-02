@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ojuka ⟨את⟩ altár ykevópe, yvate gotyo, Jahve renondépe; ha Aharon memby, umi pa'i, osarambi ⟨את⟩ iñange altár áre ijerere.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(pe rymba) ojuka hague"
+    },
+    {
+      "surface": "על",
+      "gloss": "ápe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yke"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "osarambi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñange"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iñange"
+    },
+    {
+      "surface": "על",
+      "gloss": "áre"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerere"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:26.585158059Z",
+  "model": "glm-5.3"
+}

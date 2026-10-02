@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Nde verrumbo ryapu oĩ ⟨את⟩ yvyrarã ajerépe; umi tay ombojopeva ⟨את⟩ tavarõ; ⟨את⟩ yvy opytyvõ ha ojererei.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ryapu"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "nde verrumbo"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "yvyrarã ajerépe"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "ombojopeva"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "umi tay"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tavarõ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "opytyvõ"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ojererei"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:46.628842007Z",
+  "model": "glm-5.3"
+}

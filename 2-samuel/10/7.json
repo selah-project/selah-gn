@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "David ohendu upéva, ha omondo ⟨את⟩ Joav ha ⟨את⟩ opaite ipuʼakapáva ñorairõhára aty.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ipuʼakapáva ñorairõhára aty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ñorairõhára aty"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ipuʼakapáva"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:51.758531073Z",
+  "model": "glm-5.3"
+}

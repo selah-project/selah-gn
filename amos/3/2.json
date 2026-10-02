@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Peichépe añoite che aikuaa opaite yvy ñemoñare apytégui; upévare ahechajeyta pehépe ⟨את⟩ opaite pe angekoi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peichépe"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "che aikuaa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ahechajeyta"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pehépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite pe angekoi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "pe angekoi"
+    }
+  ],
+  "timestamp": "2026-10-02T14:54:51.947684399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Mbaʼe omanóva rei ha ojekytĩva ani oʼu, ojavyʼy hag̃ua hese; che Jahve.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "mbaʼe omanóva rei"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ha ojekytĩva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oʼu"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ojavyʼy hag̃ua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:12.601884926Z",
+  "model": "glm-5.3"
+}

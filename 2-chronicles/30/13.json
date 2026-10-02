@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha ojoaju Jerusalaim-pe aty hetaiterei ojapo hag̃ua ⟨את⟩ chag haMazot jasy mokõiha-pe — aty tuichaitereíva.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aty"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chag haMazot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "chag"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "haMazot"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasy-pe"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuichaitereíva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:35:18.463067532Z",
+  "model": "glm-5.3"
+}

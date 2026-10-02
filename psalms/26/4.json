@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ndaapytuʼũi kuimbaʼe ñañeteguaʼỹ ndive, ha ñoʼãhára ndive ndaúi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda-...-i"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ndaapytuʼũi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ñañeteguaʼỹ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha ... ndive"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ñoʼãhára"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-...-i"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndaúi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:52.050868903Z",
+  "model": "glm-5.3"
+}

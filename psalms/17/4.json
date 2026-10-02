@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Yvypóra apopyrépe, nde ñeʼẽ rupive che añangareko che jehegui umi mbaretegua rapígui.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "apopyrépe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Yvypóra"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ñeʼẽ rupive"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "nde ñeʼẽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "añangareko che jehegui"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "rapi"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "umbaretegua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:51.067349427Z",
+  "model": "glm-5.3"
+}

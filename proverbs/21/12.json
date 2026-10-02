@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Pe marangatu omoakãporã ⟨את⟩ ogambava rekove rehe; ojoka umi mbava vai rekópe.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "omoakãporã"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe marangatu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mbava"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "ojoka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi mbava"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "vai rekópe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:36:53.071754967Z",
+  "model": "glm-5.3"
+}

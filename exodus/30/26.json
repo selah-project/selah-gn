@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha upéi reguerohoryta hese ⟨את⟩ tenda oñembojoaju hapegua ha ⟨את⟩ mbairu jeʼekuae.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "reguerohoryta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenda oñembojoaju hapegua"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oñembojoaju hapegua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbairu jeʼekuae"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mbairu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "jeʼekuae"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:25.679055489Z",
+  "model": "glm-5.3"
+}

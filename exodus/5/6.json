@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Paroh omando upe ára jave ⟨את⟩ umi mba'apo mongohára avakuéra apytépe ha ⟨את⟩ isãmbyhyhárakuéra, he'i haguã:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ha omando"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "upe ára"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'apo mongohára"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "mba'apo mongohára"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "avakuéra apytépe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isãmbyhyhárakuéra"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "isãmbyhyhárakuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'i haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:44.104230454Z",
+  "model": "glm-5.3"
+}

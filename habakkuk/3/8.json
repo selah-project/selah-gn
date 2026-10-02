@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 3:8",
+  "book": "habakkuk",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "¿Erevere pa Jahve umi ysyry rehe? ¿Nde vere pa umi ysyry rehe, térã nde vere pa para rehe, remuã hag̃ua nde kavajukuéra ári, nde mbaʼyruguatu jeipeʼaha ári?",
+  "tokens": [
+    {
+      "surface": "הבנהרים",
+      "gloss": "umi ysyry rehe"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "erevere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "¿...pa?"
+    },
+    {
+      "surface": "בנהרים",
+      "gloss": "umi ysyry rehe"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nde vere"
+    },
+    {
+      "surface": "אם",
+      "gloss": "térã...pa"
+    },
+    {
+      "surface": "בים",
+      "gloss": "para rehe"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "nde vere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "remuã hag̃ua"
+    },
+    {
+      "surface": "תרכב",
+      "gloss": "remuã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "nde kavajukuéra"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "nde mbaʼyruguatu"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "jeipeʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:12:20.442044154Z",
+  "model": "glm-5.3"
+}

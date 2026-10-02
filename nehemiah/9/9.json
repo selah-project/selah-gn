@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha rehecha ⟨את⟩ ore ruakuéra chỹhyi Mitsraim-pe, ha rehecha ⟨את⟩ ovechaikuéra Suf paráre ári.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore ruakuéra chỹhyi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "chỹhyi"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ore ruakuéra"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ovechaikuéra"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ovechaikuéra"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "rehendu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ים",
+      "gloss": "para"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-02T17:55:18.720729042Z",
+  "model": "glm-5.3"
+}

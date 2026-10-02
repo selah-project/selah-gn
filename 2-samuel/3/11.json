@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ndaikatuvéima ombohovái ⟨את⟩ Avner-pe peteĩ ñeʼẽme, hova rory rupi ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha ndaikatuvéima"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ndaikatu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "véima"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ombohovái hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner-pe"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peteĩ ñeʼẽme"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "hova rory rupi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:18:25.883494031Z",
+  "model": "glm-5.3"
+}

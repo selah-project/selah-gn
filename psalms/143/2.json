@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Ani reju ko hekojoja-pe ⟨את⟩ ne mbaʼerapýpe, hetave niko opaite oikóva ndaipóri oikótavo joja nde renondépe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "reju"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojoja-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mbaʼerapýpe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ne mbaʼerapýpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "oikótavo joja"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikóva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:55.542867345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Aharon osérta Ohel Moʼed-pe, ha oipeʼáta ⟨את⟩ umi aoho lino pegua oiporu vaʼekue ohóvo ⟨⟨marangatu⟩⟩ rendápe, ha ohejáta umíva upépe.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "osérta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moʼed"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "oipeʼáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi aoho lino pegua"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "umi aoho"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lino pegua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiporu vaʼekue"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "oeno vaʼekue"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu rendápe"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "ohejáta umíva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:57.452925913Z",
+  "model": "glm-5.3"
+}

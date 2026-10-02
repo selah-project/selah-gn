@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ojeikuaaukuri David-pe ⟨את⟩ mba'épa ojapo Ritspa, Aja ra'ỹi, Shaúl kuña irũ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ojeikuaaukuri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'épa ojapo Ritspa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'épa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "kuña irũ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-10-02T11:32:53.690745550Z",
+  "model": "glm-5.3"
+}

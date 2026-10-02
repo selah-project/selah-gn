@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Jahve ojehechauka Shelomópe mokõiha jey, ojehechauka háicha chupe Guivónpe",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ojehechauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mokõiha jey"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojehasaháicha"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ojehechauka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Guivónpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:01:54.637957199Z",
+  "model": "glm-5.3"
+}

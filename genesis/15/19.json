@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "⟨את⟩ Keni-kuéra, ⟨את⟩ Keniçi-kuéra ha ⟨את⟩ Kadmoni-kuéra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keni-kuéra"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keni-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Keniçi-kuéra"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "Keniçi-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Kadmoni-kuéra"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "Kadmoni-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:38:25.333225401Z",
+  "model": "glm-5.3"
+}

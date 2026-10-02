@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Nde hesed iporãve tekovégui; che jurembe omombaʼe guasu nde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "tekovégui"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "che jurembe"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "omombaʼe guasu nde"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:06.479983828Z",
+  "model": "glm-5.3"
+}

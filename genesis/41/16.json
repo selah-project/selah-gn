@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Jôsef ombohovái Paraó-pe, heʼi haguéicha: — Che rehegua niko ndahaʼéi cherehe; Elohim ombohovaihína ⟨את⟩ Paraó ⟨את⟩ rekoviaporã.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ombohovái"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jôsef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paraó"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraó"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi haguéicha"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "che rehegua niko ndahaʼéi cherehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ombohovaihína"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paraó rekoviaporã"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rekoviaporã"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraó"
+    }
+  ],
+  "timestamp": "2026-10-02T07:59:24.147687450Z",
+  "model": "glm-5.3"
+}

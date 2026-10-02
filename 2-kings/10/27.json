@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha omboguejy ⟨את⟩ Baal ñemohendaita, ha omboguejy ⟨את⟩ Baal óga, ha omoĩ chupe y-karãi rendáramo ko ára peve.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "omboguejy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal ñemohendaita"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ñemohendaita"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "omboguejy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "omoĩ chupe"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "y-karãi rendáramo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    }
+  ],
+  "timestamp": "2026-10-02T12:06:59.091675684Z",
+  "model": "glm-5.3"
+}

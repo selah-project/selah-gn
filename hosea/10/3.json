@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Upévare koʼág̃a heʼíta hikuái: Ndaipóri oréve mburuvicha, upéva rupi ndorojahe ⟨את⟩ Jahve; ha mburuvichápa ojapóta ore rehe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "heʼíta hikuái"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéva rupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "rojahe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:50:43.038981666Z",
+  "model": "glm-5.3"
+}

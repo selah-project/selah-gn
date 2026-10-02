@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Mbaʼéichapa tuicha nde porãngue, emokañy vaʼekue umi nende kyhyjévape g̃uarã, emboguapy vaʼekue umi oñemoĩva nde rokẽme, yvypóra kuéra renondépe!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼéichapa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "nde porãngue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "emokañy"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "umi nende kyhyjévape"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "emboguapy"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "umi oñemoĩvape"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rokẽme"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:31.880615227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha upéicha Shaúl ohechava'erã ⟨את⟩ David rehe, pe ára guive ha tenonderã peve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha upéicha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ohechava'erã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "pe ára guive"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "tenonderã peve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:07:56.845999006Z",
+  "model": "glm-5.3"
+}

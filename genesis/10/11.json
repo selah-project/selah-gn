@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Upe yvygui ou Ashur, ha omopuʼã ⟨את⟩ Nineve, ⟨את⟩ Rejovot-ír ha ⟨את⟩ Kela.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "upe yvy"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ha omopuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rejovot-ír"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rejovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-ír (táva)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kela"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kela"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:32.216256500Z",
+  "model": "glm-5.3"
+}

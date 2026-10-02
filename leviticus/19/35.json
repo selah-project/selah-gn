@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani pejapo teko vai hekojojaha-pe, moĩha-pe, moasãi-pe ha moĩha y-guarã-pe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pejapo"
+    },
+    {
+      "surface": "עול",
+      "gloss": "teko vai"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojojaha-pe"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "moĩha-pe"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "moasãi-pe"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ha moĩha y-guarã-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:36.039761249Z",
+  "model": "glm-5.3"
+}

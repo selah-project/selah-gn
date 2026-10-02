@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Yvaʼũ kaʼavorype omoĩ chéve che kororõ hag̃ua; pytuʼu ýpe ogueraha chéve.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "kaʼavorype"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "yvaʼũ"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "omoĩ chéve che kororõ hag̃ua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "y"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "pytuʼu"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "ogueraha chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:35.732959333Z",
+  "model": "glm-5.3"
+}

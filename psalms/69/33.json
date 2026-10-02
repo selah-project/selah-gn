@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Umi poriahúva ohecha ha ovy'a; umi Elohim ohekóva, pende py'a oikove ta'era.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "umi poriahúva"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ovy'a"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "umi ohekóva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pende py'a"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:34.722794270Z",
+  "model": "glm-5.3"
+}

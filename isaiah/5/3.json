@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha koʼág̃a, Jerusalaim-pe jeikóva ha Jihuda yvypóra, peiporavo nde pytyvõrã che ha che tyva karã rehe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼág̃a"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jeikóva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha yvypóra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "peiporavo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nde pytyvõrã"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "che tyva karã rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:29:51.547308407Z",
+  "model": "glm-5.3"
+}

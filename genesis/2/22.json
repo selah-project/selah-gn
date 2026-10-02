@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve Elohim ojapo ⟨את⟩ pe tselá ogueru vaʼekue ⟨האדם⟩-gui, kuñáme, ha ogueru chupe ⟨האדם⟩-pe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tselá"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "pe tselá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨האדם⟩"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuñáme"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "ogueru chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨האדם⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:43.979635354Z",
+  "model": "glm-5.3"
+}

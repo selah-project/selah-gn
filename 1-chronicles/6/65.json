@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Gad itújoguaguágui ⟨את⟩ Raamot Guilad-pe, ha ⟨את⟩ iñokaru hovyʼýva, ha ⟨את⟩ Majanaim, ha ⟨את⟩ iñokaru hovyʼýva.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "itu joguaguágui"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Guilad-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñokaru hovyʼýva"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iñokaru hovyʼýva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Majanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Majanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñokaru hovyʼýva"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iñokaru hovyʼýva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:11.578568945Z",
+  "model": "glm-5.3"
+}

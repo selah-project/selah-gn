@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "He'íva: Elohim oheja chupe; ehapy pe ha eipyhy chupe, ndaipóri oporoverãva.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "he'íva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "oheja chupe"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ehapy pe"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ha eipyhy chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndaipóri ... táva"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "oporoverãva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:52.162088425Z",
+  "model": "glm-5.3"
+}

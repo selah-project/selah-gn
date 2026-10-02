@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Pe ogueraha vaekuépe itavayguakuéra ñu guasúpe ryepýpe, upéare hesed oiko tapiaite.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Pe ogueraha vaekuépe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itavayguakuéra"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ñu guasúpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéare"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed oiko"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:43.503016986Z",
+  "model": "glm-5.3"
+}

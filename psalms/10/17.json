@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Jahve, rehendu ⟨את⟩ umi ñemboʼe iñarõvaʼekuéva; remopyenda pyahu i pyʼakuéra, reipysaka nde apysa.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ñemboʼe iñarõvaʼekuéva"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "umi… iñarõvaʼekuéva"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "rehendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "remopyenda pyahu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "i pyʼakuéra"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "reipysaka"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nde apysa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:35.984686463Z",
+  "model": "glm-5.3"
+}

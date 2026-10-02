@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha nde, ndaijaʼéi ndéve musar, ha ehundi che ñeʼẽ nde kupe ári.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ndaijaʼéi ndéve"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "musar"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ha ehundi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "nde kupe ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:51.156695397Z",
+  "model": "glm-5.3"
+}

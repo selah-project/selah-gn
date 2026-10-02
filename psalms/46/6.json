@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Elohim ⟨haʼe⟩ ijere pytépe, nomombyrykuaamoʼãi: koʼẽ joképe Elohim oipytyvõ chupe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ijere pytépe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nda…moʼãi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "omombyrykuaa"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "oipytyvõ chupe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "joképe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:51.548334010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Paroh jeguakaraháva kuñakarai, ha omombaʼeguasu ⟨את⟩ chupe Paroh peve, ha kuñakarai oñemonguʼê Paroh ógapype.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "jeguakaraháva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh jeguakaraháva"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Paroh jeguakaraháva"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "omombaʼeguasu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "oñemonguʼê"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuñakarai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógapype"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:52.159657525Z",
+  "model": "glm-5.3"
+}

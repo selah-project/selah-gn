@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha upéicha, umi upe rakehárape ruvicha oñeʼẽ ⟨את⟩ Paró rehe, heʼi haguã: ⟨את⟩ che jejavy che ñemanduʼa árape koʼág̃a.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ruvicha"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "upe rakehárape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paró"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jejavy"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "che jejavy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "che ñemanduʼa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "árape koʼág̃a"
+    }
+  ],
+  "timestamp": "2026-10-02T07:58:02.464557817Z",
+  "model": "glm-5.3"
+}

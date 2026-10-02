@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Gad raʼỹikuéra iñemoñare rupi: Tsefon-gui, Tsefonkuéra ñemoñare; Jagui-gui, Jaguikuéra ñemoñare; Chuni-gui, Chunikuéra ñemoñare.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "raʼỹikuéra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "iñemoñare rupi"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "Tsefon-gui"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Tsefonkuéra"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "Jagui-gui"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Jaguikuéra"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Chuni-gui"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Chunikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:35:28.980595679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Añoite Haʼe che ita ha che ñemongerã, che yvateguasu; nañemombyry moʼãi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Haʼe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "che ita"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "che ñemongerã"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "che yvateguasu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ñemombyry moʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:42.776801162Z",
+  "model": "glm-5.3"
+}

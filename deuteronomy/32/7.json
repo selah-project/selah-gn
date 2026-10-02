@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Manduʼa yma ára kuéra rehe, ejepyʼamongeta ñemoñare ha ñemoñare ary kuéra rehe: ejerure nde ruve ha oñemoĩta ndeve, nde ruvichakuéra ha heʼita ndeve.",
+  "tokens": [
+    {
+      "surface": "זְכֹר֙",
+      "gloss": "Manduʼa"
+    },
+    {
+      "surface": "יְמ֣וֹת",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "עוֹלָ֔ם",
+      "gloss": "yma"
+    },
+    {
+      "surface": "בִּ֖ינוּ",
+      "gloss": "ejepyʼamongeta"
+    },
+    {
+      "surface": "שְׁנ֣וֹת",
+      "gloss": "ary kuéra"
+    },
+    {
+      "surface": "דּוֹר",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "וָד֑וֹר",
+      "gloss": "ha ñemoñare"
+    },
+    {
+      "surface": "שְׁאַ֤ל",
+      "gloss": "ejerure"
+    },
+    {
+      "surface": "אָבִ֨יךָ֙",
+      "gloss": "nde ruve"
+    },
+    {
+      "surface": "וְיַגֵּ֔דְךָ",
+      "gloss": "ha oñemoĩta ndeve"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "nde ruvichakuéra"
+    },
+    {
+      "surface": "וְיֹ֥אמְרוּ",
+      "gloss": "ha heʼita"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:12:53.154559117Z",
+  "model": "glm-5.3"
+}

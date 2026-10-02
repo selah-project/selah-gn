@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha heʼi chupe: Eju ⟨את⟩ che ndive, ha ehecha chepyʼaguasu Jahve rehegua. Ha okuara chupe hikuái ikaretápe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi chupe"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Eju"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ndive"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "chepyʼaguasu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehegua"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "Ha okuara chupe hikuái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Jehonadav (chupe)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ikaretápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:10:00.448473313Z",
+  "model": "glm-5.3"
+}

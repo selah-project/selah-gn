@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha pe pa'i ogueru ichagua pe jejavy ruguy iñakãme, ha omoĩ umi altár olá iñakãnguére, ha ⟨את⟩ huguy omonandi pe altár olá pyvúpe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe pa'i"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ichagua pe ruguy"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "pe jejavy"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "iñakãme"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "umi iñakãnguéra"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huguy"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "huguy"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "pyvúpe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olá"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:08.629433494Z",
+  "model": "glm-5.3"
+}

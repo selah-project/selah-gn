@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Omonguʼe ⟨את⟩ che rehe ha oguata cherehe pytũngueitépe, kuarahy ỹre.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "che rehe"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "omonguʼe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oguata cherehe"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytũngue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuarahy"
+    }
+  ],
+  "timestamp": "2026-10-02T17:16:05.276342233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojapo ⟨את⟩ umi takuru karandaʼy yvyra gui, ha omoĩ hese ⟨את⟩ kuarepoti, ogueraha hag̃ua ⟨את⟩ mesa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi takuru"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "umi takuru"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "karandaʼy"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "omoĩ hese"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ogueraha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:18.549968798Z",
+  "model": "glm-5.3"
+}

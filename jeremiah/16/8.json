@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ani reju vyʼarã ógape, eñemohenda hag̃ua hikuái ndive, ⟨את⟩ ekaru hag̃ua ha ejy hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "vyʼarã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "reju"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "eñemohenda hag̃ua"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ekaru ha ejy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ekaru hag̃ua"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ha ejy hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T13:20:38.953701403Z",
+  "model": "glm-5.3"
+}

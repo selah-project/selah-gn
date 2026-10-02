@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha tata osẽ Jahve renondégui ha hoʼu ⟨את⟩ chupekuéra, ha omano Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondégui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "hoʼu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "Nadav ha Avihu"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "omano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:56.427020650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Moche ojapo oiméicha Jahve ohenói ⟨את⟩ chupe; ha pe aty oñembyaty Oha Ñembojarã iñesẽme.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "oiméicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Moche"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "pe aty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iñesẽme"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ñembojarã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:46:17.846645231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha heʼi: Tekorosãme; cheju Jahvepe jopy hag̃ua; pemombaʼe marangatu peju cherehe ⟨את⟩ jopype. Ha omombaʼe marangatu ⟨את⟩ Ichai ha ⟨את⟩ iñemoñarakuéra, ha ohenói chupekuéra jopype g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tekorosãme"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "jopy hag̃ua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvepe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "cheju"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "pemombaʼe marangatu"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ha peju"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cherehe"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "jopype"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ha omombaʼe marangatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ichai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ichai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñemoñarakuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñarakuéra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha ohenói"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "jopype g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:00.682021085Z",
+  "model": "glm-5.3"
+}

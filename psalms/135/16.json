@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Juru oĩ hesekuéra, ha ndoñeʼẽi; resã oĩ hesekuéra, ha ndahechái.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "juru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hesekuéra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoñeʼẽi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ndoñeʼẽi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "resã"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hesekuéra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndahechái"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ndahechái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:01.829673254Z",
+  "model": "glm-5.3"
+}

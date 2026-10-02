@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha Jahve omoĩ jey ⟨את⟩ Ijob jeiko ymaguare, oñeʼẽramo guare iñirũnguéra rehe; ha Jahve omoĩve ⟨את⟩ opa Ijob mbaʼe, mokõi jey peve.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ha Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "omoĩ jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob jeiko ymaguare"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "jeiko ymaguare"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "oñeʼẽramo guare"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iñirũnguéra"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "omoĩve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa Ijob mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ijob mbaʼe"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "mokõi jey peve"
+    }
+  ],
+  "timestamp": "2026-10-02T17:09:48.340564205Z",
+  "model": "glm-5.3"
+}

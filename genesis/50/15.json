@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha Jósef iñningakuéra ohecha omanoha hikuái iñ ru, ha he'i: sérõ Jósef ohasarãta ñanderehe ha ombojevyta ñandéve ⟨את⟩ opaite ivaíva rojapovaʼekue ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ha ohecha"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "iñningakuéra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ohechávo"
+    },
+    {
+      "surface": "מת",
+      "gloss": "omanoha"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "iñ ru"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sérõ"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "ohasarãta ñanderehe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "ha ombojevyta"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ombojevymbaite"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ivaíva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rojapovaʼekue"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "rojapo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Jósef"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:10.261783042Z",
+  "model": "glm-5.3"
+}

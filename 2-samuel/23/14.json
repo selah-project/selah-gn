@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "David katu upérõ oĩ oñemoĩhápe mbaretépe, ha Pelishtim ñemohenda oĩ upérõ Bet Lechempe.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David katu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "upérõ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "oñemoĩhápe mbaretépe"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "ha ñemohenda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "upérõ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-10-02T11:36:00.412869794Z",
+  "model": "glm-5.3"
+}

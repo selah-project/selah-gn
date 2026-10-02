@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jisrael raʼýkuéra ojapo ⟨את⟩ mbaʼe vai Jahve resáipe, ha ohejarái ⟨את⟩ Jahve, Elohim kuera, ha oñemombaʼe ⟨את⟩ umi Baal rehe ha ⟨את⟩ umi Achera rehe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼe vai"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resáipe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "ha ohejarái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim kuera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim kuera"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ha oñemombaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "umi Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi Achera"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "umi Achera"
+    }
+  ],
+  "timestamp": "2026-10-02T10:34:01.271233761Z",
+  "model": "glm-5.3"
+}

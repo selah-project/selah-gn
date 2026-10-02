@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ⟨את⟩ para peteĩ, ha ⟨את⟩ umi vaka mokõipa oĩva para guýpe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para peteĩ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaka mokõipa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:56.568960878Z",
+  "model": "glm-5.3"
+}

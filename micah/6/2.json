@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ehendu, yvytykuéra, ⟨את⟩ Jahve ñorairõ, ha umi yvy moingeha ipuʼakapáva; umarã Jahve oreko ñorairõ ijayvukuéra rehe, ha Jisrael ndive oñemoarandu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñorairõ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ñorairõ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "ha umi ipuʼakapáva"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "yvy moingeha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "umarã"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "oreko ñorairõ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ijayvukuéra"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "oñemoarandu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:08:55.609342712Z",
+  "model": "glm-5.3"
+}

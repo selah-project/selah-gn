@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha omoĩ ⟨את⟩ velandyry Aty Róape, mesa renondépe, Michkan yke yvateguápe, ñemby gotyo.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velandyry"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "velandyry"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ohendáva"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Aty Róa"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "yke"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yke yvategua"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ñemby gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:57.327698201Z",
+  "model": "glm-5.3"
+}

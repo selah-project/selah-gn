@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Ñeʼẽ vyʼaguasu ha jeipeʼa rehegua ojehupi umi marangatu rogakuérape: Jahve po akatúa ojapo mbaretekatu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ñeʼẽ"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "vyʼaguasu"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "ha jeipeʼa rehegua"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ojehupi umi... rogakuérape"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "po akatúa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mbaretekatu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:15.176902302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 70,
+  "translation": "Ojevy jevy va'erã kupe iporerãỹ rehe, umi he'íva: ¡Heja, heja!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ojevy va'erã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "iporerãỹ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "iporerãỹ"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "umi he'íva"
+    },
+    {
+      "surface": "האח",
+      "gloss": "¡Heja!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "¡heja!"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:03.659678376Z",
+  "model": "glm-5.3"
+}

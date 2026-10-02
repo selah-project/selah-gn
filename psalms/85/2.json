@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Reipota Jahve ⟨את⟩ ne yvy; remohenda jey ⟨את⟩ Jaakov ikangyjekue.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Reipota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ne yvy"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "remohenda jey"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ikangyjekue"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:14.749212351Z",
+  "model": "glm-5.3"
+}

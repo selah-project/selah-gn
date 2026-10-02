@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ojapo jey ha ohesakã kuimbaʼe raʼy, ha ombohéra ⟨את⟩ héra Shela; ha ⟨eje⟩ oĩ Kesiv-pe ohesakã aja ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ojapo jey"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ohesakã"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kuimbaʼe raʼy"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ombohéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Kesiv-pe"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ohesakã aja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:56:56.999747029Z",
+  "model": "glm-5.3"
+}

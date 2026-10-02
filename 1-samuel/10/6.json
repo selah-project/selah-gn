@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve ruah osẽta nde ári pyaʼe ha puʼakaitereípe, ha oñeʼẽta nabi ramo haʼe kuéra ndive, ha oñemoambuéta nde peteĩ ambue kuimbaʼe ramo.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "osẽta pyaʼe ha puʼakaitereípe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde ári"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "oñeʼẽta nabi ramo"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "haʼe kuéra ndive"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "oñemoambuéta nde"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "peteĩ kuimbaʼe ramo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambue"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:48.978451009Z",
+  "model": "glm-5.3"
+}

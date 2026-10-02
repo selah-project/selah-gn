@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Chamets ndaikatúi oñemohẽ hesupe; pehẽngue ramo che ameʼẽ chakuéra ⟨את⟩ che mbaʼe tatágui; marangatu marangatuetéva hína, hatã jopói ha jejavýi jopói jahechagueicha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "oñemohẽ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chamets"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che ameʼẽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "che mbaʼe tatágui"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "che mbaʼe tatágui"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatuetéva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hína"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "hatã jopói jahechagueicha"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "ha jejavýi jopói jahechagueicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:44:33.660621394Z",
+  "model": "glm-5.3"
+}

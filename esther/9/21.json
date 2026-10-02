@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Oikuaauka hag̃ua chupekuéra ojapo ⟨את⟩ ára pa irundy, jasy Adar-pe, ha ⟨את⟩ ára pa po, upe jasýpe, opaite arýpe ha arýpe.",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "oikuaauka hag̃ua"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ára pa irundy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy-pe"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ára pa po"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "upe jasýpe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite arýpe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpe"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ha arýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:30:09.702063484Z",
+  "model": "glm-5.3"
+}

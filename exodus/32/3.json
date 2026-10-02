@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha avakuéra opavavente oipeʼa ⟨את⟩ itaju ysãkuéra oĩva iapykuérape, ha ogueru Aharon rehe.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavente"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaju ysãkuéra"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ysãkuéra"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "iapykuérape"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:14.437923169Z",
+  "model": "glm-5.3"
+}

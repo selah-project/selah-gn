@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 82,
+  "translation": "Pejapo hekojoja michĩva ha itaʼýra omanóva ndive; pehekojoja jepyʼapy ha mboriahúvape.",
+  "tokens": [
+    {
+      "surface": "שִׁפְטוּ",
+      "gloss": "pejapo hekojoja"
+    },
+    {
+      "surface": "דַּל",
+      "gloss": "michĩva"
+    },
+    {
+      "surface": "וְיָתוֹם",
+      "gloss": "ha itaʼýra omanóva"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "jepyʼapy"
+    },
+    {
+      "surface": "וָרָשׁ",
+      "gloss": "ha mboriahúva"
+    },
+    {
+      "surface": "הַצְדִּיקוּ",
+      "gloss": "pehekojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:24.080366407Z",
+  "model": "glm-5.3"
+}

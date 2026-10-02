@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Pe ojapóva ⟨את⟩ yvága ha ⟨את⟩ yvy, ⟨את⟩ yguasu ha ⟨את⟩ opaite mba'e oĩva ipype; pe oñangarekóva añetegua rehe pukuku aja.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ha yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yguasu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yguasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e oĩva ipype"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite mba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "oñangarekóva"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pukuku aja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:45.894346746Z",
+  "model": "glm-5.3"
+}

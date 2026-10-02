@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Ha og̃uahẽ chupekuéra yke, ha oñeʼẽ chupekuéra ⟨את⟩ umi ñeʼẽ koʼã.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "og̃uahẽ chupekuéra yke"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:50.031015473Z",
+  "model": "glm-5.3"
+}

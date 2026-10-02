@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 1:17",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ejerure jevy upéicha heʼihápe: Upéicha heʼi Jahve Tsevaot: Che távakuéra opyta gueteri mbaʼe porãre ojepyso hag̃ua; ha Jahve iporiahuvereko jevy ⟨את⟩ Tsion rehe, ha ojeporavo jevy Jerusalaim.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "jevy"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ejerure"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "upéicha heʼihápe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "תפוצינה",
+      "gloss": "ojepyso hag̃ua"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "che távakuéra"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "mbaʼe porãre"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ha iporiahuvereko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ha ojeporavo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jevy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:13:36.886041705Z",
+  "model": "glm-5.3"
+}

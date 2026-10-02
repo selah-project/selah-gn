@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jaakov raʼykuéra ombohovái ⟨את⟩ Shekem ha ⟨את⟩ Chamor itúvape, mbaʼevai rehe, ha oñeʼẽ hikuái, oñembyai haguére ⟨את⟩ Dina, ikyry.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ombohovái"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chamor itúva"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "mbaʼevai rehe"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "oñeʼẽ hikuái"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "ikyry"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:51.174552261Z",
+  "model": "glm-5.3"
+}

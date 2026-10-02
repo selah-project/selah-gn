@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Jahve Tora haʼe opaite añetegua, ombojevy ne ñeʼẽ rasípe; Jahve ñeʼẽmeʼẽ haʼe añetegua, ombokatupyry pe ndaikatuʼéiva oikuaavéva.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "opaite añetegua"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ombojevy"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ne ñeʼẽ rasípe"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "ombokatupyry"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "pe ndaikatuʼéiva oikuaavéva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:18.136016824Z",
+  "model": "glm-5.3"
+}

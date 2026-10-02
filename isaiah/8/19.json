@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 8:19",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ojeruréta peẽpe: Eheka ⟨pe⟩ umi manórava ánima rehe ha umi kuaaʼãhára rehe, umi opu asýva ha umi omomurucháva; ¿tapiaguasu ndohekaséiramo iElohim rehe? Umi oikóvape g̃uarã — ¿umi manóvape?",
+  "tokens": [
+    {
+      "surface": "וְכִֽי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יֹאמְר֣וּ",
+      "gloss": "ojeruréta"
+    },
+    {
+      "surface": "אֲלֵיכֶ֗ם",
+      "gloss": "peẽpe"
+    },
+    {
+      "surface": "דִּרְשׁ֤וּ",
+      "gloss": "Eheka"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הָאֹבוֹת֙",
+      "gloss": "umi manórava ánima"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הַיִּדְּעֹנִ֔ים",
+      "gloss": "umi kuaaʼãhára"
+    },
+    {
+      "surface": "הַֽמְצַפְצְפִ֖ים",
+      "gloss": "umi opu asýva"
+    },
+    {
+      "surface": "וְהַמַּהְגִּ֑ים",
+      "gloss": "ha umi omomurucháva"
+    },
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "¿ndapa"
+    },
+    {
+      "surface": "עַם֙",
+      "gloss": "tapiaguasu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אֱלֹהָ֣יו",
+      "gloss": "iElohim"
+    },
+    {
+      "surface": "יִדְרֹ֔שׁ",
+      "gloss": "ohekaséi"
+    },
+    {
+      "surface": "בְּעַ֥ד",
+      "gloss": "g̃uarã"
+    },
+    {
+      "surface": "הַחַיִּ֖ים",
+      "gloss": "umi oikóva"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הַמֵּתִֽים",
+      "gloss": "umi manóva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:29:33.765157314Z",
+  "model": "glm-5.3"
+}

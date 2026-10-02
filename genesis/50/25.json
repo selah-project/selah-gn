@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha Yosef ojapo chupe kuatiáme Jisrael membykuérape heʼívo: Elohím ojehechajey ta ⟨את⟩ peẽ rehe ⟨añetehápe⟩, ha peẽ pejupe aychakuéra koʼẽ̃aguive.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ojapo kuatiáme chupe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ojehechajey"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ojehechajey ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ rehe"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "ha peẽ pejupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychakuéra"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "aychakuéra"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "koʼẽ̃aguive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:05:42.785116083Z",
+  "model": "glm-5.3"
+}

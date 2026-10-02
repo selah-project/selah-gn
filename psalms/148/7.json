@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Ompoyhu ⟨את⟩ Jahve yvy guive; yguasu mymbakuéra, ha opaite y pyʼaguasu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ompoyhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "yguasu mymbakuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "y pyʼaguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:39.982985501Z",
+  "model": "glm-5.3"
+}

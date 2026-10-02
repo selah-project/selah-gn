@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha oguata ary arýpe, ohovaʼerã ojere Beit-El, Guilgal ha Mitspa rupi, ha ojokuái ⟨את⟩ Jisrael rehe ⟨את⟩ opaite koʼã tendápe.",
+  "tokens": [
+    {
+      "surface": "ו הלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "opa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "arýpe"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Guilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ojokuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite koʼã tenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:56:33.239856186Z",
+  "model": "glm-5.3"
+}

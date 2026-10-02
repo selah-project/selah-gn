@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha oiko vaʼekue: Moche oñemboʼy vove ipepo — upéicha Jisrael ipuʼakáva; ha Moche oñemondýi vove ipepo — upéicha Amalek ipuʼakáva.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha oiko vaʼekue"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "vove"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "oñemboʼy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipepo"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ha … vove"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "oñemondýi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipepo"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:43.017376258Z",
+  "model": "glm-5.3"
+}

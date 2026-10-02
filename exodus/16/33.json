@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 16:33",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Moche he'i Aharon-pe: Egueru peteĩ tsintsénet ha emoĩ upépe peteĩ omer pehẽngue man rehegua; ha eñongatu ⟨אתו⟩ Jahve renondépe, oñongatu hag̃ua peẽ membykuéra g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha... he'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "צנצנת",
+      "gloss": "tsintsénet"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ותן",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "ha eñongatu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "pe tsintsénet man rehegua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "oñongatu hag̃ua"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "peẽ membykuéra g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:42.777521414Z",
+  "model": "glm-5.3"
+}

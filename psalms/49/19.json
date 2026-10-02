@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ipytu oikove aja, haʼe omongarai ipytu rehe, ha tapichakuéra ohecharamo nde, reñangarekoporãramo nde rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ipytu"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "oikove aja"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "omongarai ipytu rehe"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ha tapichakuéra ohecharamo nde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "reñangarekoporãramo"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "reñangarekoporã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:40.080616588Z",
+  "model": "glm-5.3"
+}

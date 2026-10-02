@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Koʼãmbaite oú ñandére, ha nanderesaraʼiri nderehe, ha ndajavyʼeiri nde ñeʼẽmeʼẽme.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "koʼãmbaite"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "oú ñandére"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda…ri"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "nanderesaraʼiri nderehe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda…ri"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ndajavyʼeiri"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "nde ñeʼẽmeʼẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:32.646778605Z",
+  "model": "glm-5.3"
+}

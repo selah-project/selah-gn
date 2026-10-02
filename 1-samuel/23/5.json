@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "David ha ikuimbaʼekuéra oho Keilá-pe, oñorãirõ Pelishtokuéra rehe, oheraha ⟨את⟩ umi mymbakuéra, oipohýi chugui kuera pukukue — mbaʼeichaitépa oipohýi — ha David oipysyrõ ⟨את⟩ Keilá retãyguakuéra.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "ha ikuimbaʼekuéra"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilá-pe"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelishtokuéra rehe"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "oheraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mymbakuéra"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "umi mymbakuéra"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oipohýi chugui kuera"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chugui kuera"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mbaʼeichaitépa"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "oipysyrõ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keilá retãyguakuéra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "retãyguakuéra"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilá"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:44.863035246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha kuña oguereko ⟨את⟩ umi mokõi kuimbaʼe, ha oñomi chupekuéra, ha heʼi: Añetehápe, ou che rehe umi kuimbaʼe kuéra, ha che aikuaaʼỹ mbaʼégui ou hague.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mokõi kuimbaʼe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kuimbaʼe kuéra"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "oñomi chupekuéra"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Añetehápe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe kuéra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha che aikuaaʼỹ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mbaʼégui"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ou hague"
+    }
+  ],
+  "timestamp": "2026-10-02T10:19:43.449136661Z",
+  "model": "glm-5.3"
+}

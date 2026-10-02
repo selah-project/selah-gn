@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ani pehasýi che ñeʼẽmeʼẽme ha pejapo ⟨את⟩ chupe; che Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ani pehasýi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "che ñeʼẽmeʼẽme"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "hapejapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:35.948751079Z",
+  "model": "glm-5.3"
+}

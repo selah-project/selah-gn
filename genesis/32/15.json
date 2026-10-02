@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Kavara kuña mokõi sa, kavara kuimbaʼe mokõi pa, ovecha kuña mokõi sa, ovecha kuimbaʼe mokõi pa.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kavara kuña"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "ha kavara kuimbaʼe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõi pa"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ovecha kuña"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "ha ovecha kuimbaʼe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõi pa"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:49.383900834Z",
+  "model": "glm-5.3"
+}

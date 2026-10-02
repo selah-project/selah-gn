@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Ojejy che rekove ikotevẽ guasúre nde hekojojahakuéra rehe, opa árape.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Ojejy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ikotevẽ guasúre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "nde hekojojahakuéra rehe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "árape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:05.779988175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Aminadav raʼy ⟨את⟩ Nahshon, ha Nahshon raʼy ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "ha Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ha Nahshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-10-02T17:13:21.336451224Z",
+  "model": "glm-5.3"
+}

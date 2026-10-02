@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oiko niko, Izével ojukapa ⟨את⟩ Jahve nabi-kuéra aja, Ovadiahu oguereko vaʼekue sa nabi, ha omokañy chupekuéra — poha poha yvypóra peteĩ yvykuápe — ha omeʼẽ chupekuéra mbujape ha y.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ojepyso niko"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "ojukapa aja"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izével"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve nabi-kuéra"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadiahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "omokañy chupekuéra"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "poha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "yvykuápe"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "omeʼẽ chupekuéra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ha y"
+    }
+  ],
+  "timestamp": "2026-10-02T11:55:45.607919473Z",
+  "model": "glm-5.3"
+}

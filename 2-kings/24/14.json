@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha oho mongakuaa ⟨את⟩ opaite Jerusalaim-gui, ha ⟨את⟩ opaite mburuvichakuérape, ha ⟨את⟩ opaite ipuʼakavévape ñorãirõme, papaha diez su, mongakuaahára; ha opaite apohare kuarepoti mbaʼe'okagua ha oñemongakuaáva chokokue pyahu; ndaipóri opavavéva oiko vaʼekue, hetãnguéra rerape ỹre, yvypóra imichĩva yvýgui.",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "oho mongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ipuʼakavéva"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ñorãirõme"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "diez"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "mongakuaahára"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "apohare kuarepoti mbaʼe'okagua"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "oñemongakuaáva chokokue pyahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "oiko vaʼekue"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "rerape ỹre"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "yvypóra imichĩva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hetãnguéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvýgui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:25:50.944198255Z",
+  "model": "glm-5.3"
+}

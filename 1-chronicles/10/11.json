@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ohendu Yaves Guilád opaite kuimbaʼe ⟨את⟩ opaite mbaʼe Filisteo-kuéra ojapovaʼekue Sheul-re.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisteo-kuéra"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheul-re"
+    }
+  ],
+  "timestamp": "2026-10-02T18:05:55.616435827Z",
+  "model": "glm-5.3"
+}

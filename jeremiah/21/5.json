@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha che aikuaauka che ñorairõ ⟨את⟩ peendivote, che po iñapytĩréva reheve, che yva imbareteguápe, che rage rupive, che pyʼarory rupive ha che rage guasu rupive.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "che aikuaauka che ñorairõ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peendivote",
+      "marks": "peendivote"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "che po reheve"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "iñapytĩréva"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "che yva"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "imbareteguápe"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "che rage rupive"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "che pyʼarory rupive"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "che rage guasu rupive"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T13:26:25.436751581Z",
+  "model": "glm-5.3"
+}

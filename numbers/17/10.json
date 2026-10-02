@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "«Ejupy ko'ã aty mbytégui, ha sapy'aitépe ambyai chuguikuéra». Ha Moche ha Aharon oinipa iñakã ári.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Ejupy"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mbytégui"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ko'ã aty"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ha ambyai chuguikuéra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "sapy'aitépe"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "oinipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "iñakã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:29:07.456216733Z",
+  "model": "glm-5.3"
+}

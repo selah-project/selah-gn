@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Eñongatu jave teko vai, Ja, Adonai, máva ñaipuʼãta?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "… jave (ramo guare)"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "tekovai"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "eñongatu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ñaipuʼãta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:00.774841851Z",
+  "model": "glm-5.3"
+}

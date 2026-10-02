@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Ahaz oke itúvakuéra ndive, ha oñeñotỹ itúvakuéra ndive David távape; ha Chizkiahu, itaʼýra, oisãmbyhy hendaguápe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúvakuéra"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "oñeñotỹ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúvakuéra"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hendaguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:17:27.196379406Z",
+  "model": "glm-5.3"
+}

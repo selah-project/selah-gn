@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha koʼág̃a, che jerure peteĩ añónte ndéhegui; aníke reñemondena che syterãpe ⟨את⟩. Ha kuña haʼeʼese chupe: Eñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "che jerure"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ añónte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "jerure"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ndéhegui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aníke"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "reñemondena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che syterãpe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che syterã"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "haʼeʼese"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Eñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:48.000343633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ohai upépe umi itakuéra ári ⟨את⟩ Moche Tora mokõiha, ohaivaʼekue Jisrael membykuéra tenonderã.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "umi itakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche Tora mokõiha"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ohaivaʼekue"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenonderã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:54:40.092169991Z",
+  "model": "glm-5.3"
+}

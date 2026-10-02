@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "Mbaʼérepa, Jahve, reheja che rekove? ¿Mbaʼérepa reñomi ne akãgue chegui?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mbaʼérepa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "reheja"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "reñomi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ne akãgue"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chegui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:54.082569311Z",
+  "model": "glm-5.3"
+}

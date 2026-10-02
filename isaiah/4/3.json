@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha upéi, ojeipysóva ⟨the⟩ Tsion-pe ha oñembyatýva Jerusalen-pe, ojeheróta ⟨ko'ẽmba'ngue⟩ chupe; opavave ojehaíva tekove rérape Jerusalen-pe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "ojeipysóva"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsion-pe"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "oñembyatýva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalen-pe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ko'ẽmba'ngue"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ojeheróta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "ojehaíva"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "tekove rérape"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalen-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:28:47.366522152Z",
+  "model": "glm-5.3"
+}

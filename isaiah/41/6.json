@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Kuimbaʼe oipytyvõ ⟨את⟩ ijojápe, ha ijoykeʼy rérape heʼi: Ejaposã.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijojápe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ijojápe"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "oipytyvõ"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ha ijoykeʼy rérape"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Ejaposã"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:45.677548405Z",
+  "model": "glm-5.3"
+}

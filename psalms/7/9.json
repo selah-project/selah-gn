@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Jahve ohekojoja ⟨opavavete⟩ tavayguakuéra: ehekojoja cherehe, Jahve, che tsedek reheve, ha che tekome'ẽ rehe, chererehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ohekojoja"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ehekojoja cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "che tsedek reheve"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "ha che tekome'ẽ rehe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chererehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:16.116452378Z",
+  "model": "glm-5.3"
+}

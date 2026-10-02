@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Samuel oke ko'ẽ meve, ha oipe'a ⟨את⟩ Jahve óga okẽnguéra; ha Samuel oreko jerovia oñemombe'u haguã ⟨את⟩ pe jechauka Eli-pe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga okẽnguéra"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "okẽnguéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "jerovia"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "oñemombe'u haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jechauka"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pe jechauka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-02T18:57:19.062870244Z",
+  "model": "glm-5.3"
+}

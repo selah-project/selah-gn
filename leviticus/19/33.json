@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha pytagua oikóramo ⟨את⟩ ndive pe retãme, ani pejoko ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ha ramo"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pytagua"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "pe retãme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "pejoko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:36.039263239Z",
+  "model": "glm-5.3"
+}

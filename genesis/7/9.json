@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Mokõi mokõi ou Noach-pe, tevápe, kuimbaʼe ha kuña, haʼéicha Elohim ojapo haguéicha ⟨את⟩ Noach-pe.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tevápe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ha kuña"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haʼéicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojapo haguéicha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:18.489177785Z",
+  "model": "glm-5.3"
+}

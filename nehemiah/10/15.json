@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Yvypóra kuéra iñakãguasu: Paroch, Pajat Moav, Elam, Zatu, Bani.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yvypóra kuéra ⟨pe⟩"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroch"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pajat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zatu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-10-02T17:56:53.245039367Z",
+  "model": "glm-5.3"
+}

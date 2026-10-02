@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha Yosef hecha ⟨את⟩ ijoykeʼýkuéra ha ikuaa chuguikuéra; ha oñemoĩ chuguikuéra ojekuaaʼỹhaicha, ha oñeʼē ⟨את⟩ chuguikuéra hasyreíre. Ha heʼi chuguikuéra: Mbaʼe yguýpe peẽ ou? Ha umínte heʼi: Kenaan yvygui, ojogua hag̃ua tembiʼu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hecha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoykeʼýkuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼýkuéra"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "ikuaa chuguikuéra"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "oñemoĩ chuguikuéra ojekuaaʼỹhaicha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼē"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chuguikuéra"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "hasyreíre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mbaʼe yguýpe"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "peẽ ou"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha umínte heʼi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ojogua hag̃ua"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "tembiʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:01:05.769156537Z",
+  "model": "glm-5.3"
+}

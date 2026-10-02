@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oñepyrũ pyaʼe koʼẽtére, kuarahy osape ⟨pe⟩ y ári, ha Moab-gua ohecha mombyry gotyo ⟨את⟩ pe y ojuehe pytãngue tuguyicha.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "oñepyrũ pyaʼe koʼẽtére"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽre"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "osape"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab-gua"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mombyry gotyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe y"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ojuehe pytãngue"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "tuguyicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:03:07.516099480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Umi omeʼẽ Jaakov-pe ⟨את⟩ opaite umi tupã ijaʼỹva i po peiguápe, ha ⟨את⟩ umi apysa japioha oĩva i apysaitépe; Jaakov oñombyryvi ⟨את⟩ umi mbaʼe yvyra guasu Shemgui oĩva yvyrápe ryepýpe, pe yvora Shchem ijerére.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi tupã ijaʼỹva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tupã"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ijaʼỹva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i po peiguápe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi apysa japioha"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "apysa japioha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "i apysaitépe"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "oñombyryvi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ umi mbaʼe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yvyra guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shchem"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:48.760045639Z",
+  "model": "glm-5.3"
+}

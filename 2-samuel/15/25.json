@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha mburuvicha ohe'i Tsadok-pe: Eguerujey ⟨את⟩ Elohim mba'yru távape; ajuhu ramo tekoayhu Jahve resápe, Ha'e chembojevyjey ta ha cherechauka haguã ⟨את⟩ Ha'e ha ⟨את⟩ hoguéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ohe'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Tsadok-pe"
+    },
+    {
+      "surface": "השב",
+      "gloss": "eguerujey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mba'yru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mba'yru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo je'urã"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ajuhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tekoayhu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "chembojevyjey"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "cherechauka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Ha'e (mba'yru)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hoguéra"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hoguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:30:06.894588476Z",
+  "model": "glm-5.3"
+}

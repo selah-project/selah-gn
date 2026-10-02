@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha emanduʼa ⟨את⟩ chupe kuéra heʼi hag̃ua i jára kuérape, upéicha heʼi Jahve Tsevaot, Jisrael Elohim: Upéicha peẽ peẽ heʼita pende jára kuéra peve,",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "Ha emanduʼa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umi maranduhára"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heʼi hag̃ua"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "i jára kuérape"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "upéicha heʼívo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "peẽ peẽ heʼita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "pende jára kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:30:32.956442128Z",
+  "model": "glm-5.3"
+}

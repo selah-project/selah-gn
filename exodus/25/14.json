@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha emoingéta ⟨את⟩ umi tákara ku'aikuéra ryepýpe, aron iñyképe, egueraha hag̃ua ⟨את⟩ aron umívape.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "emoingéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tákara"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "umi tákara"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ku'aikuéra ryepýpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-pe"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "iñyképe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "egueraha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "umívape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:28.067330950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ani pejapo vai peteĩ yvypóra ⟨את⟩ iñirũrã rehe; eñemondéta nde Elohim renondépe; che che Jahve, nde Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "pejapo vai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ yvypóra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũrã"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "iñirũrã"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "eñemondéta"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nimbo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nde Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:47:33.889445514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha pe anaka, ha pe hakoa, ha pe haltaaha, ha pe hahomet, ha pe hatinchamet.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "pe anaka"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "pe hakoa"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "pe haltaaha"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "pe hahomet"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "pe hatinchamet"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:26.649240554Z",
+  "model": "glm-5.3"
+}

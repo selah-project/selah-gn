@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve ñeʼẽ omomýi ⟨את⟩ kurepi kuñanguéra, ha oipeʼa hova kaʼaguy kuéragui; ha iñeʼẽmarã hápe, opaite heʼi: ¡Kavod!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "omomýi"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "kurepi kuñanguéra"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "oipeʼa hova"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "kaʼaguy kuéra"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ha iñeʼẽmarã hápe"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "¡Kavod!"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:45.559639251Z",
+  "model": "glm-5.3"
+}

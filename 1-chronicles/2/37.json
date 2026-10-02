@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Zavad oguereko ra'y ⟨את⟩ Efalal, ha Efalal oguereko ra'y ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Ha Zavad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "oguereko ra'y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efalal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efalal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ha Efalal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "oguereko ra'y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:55.180336194Z",
+  "model": "glm-5.3"
+}

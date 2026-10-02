@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Ha upéi, pe iporãngue Adonai Elohim ñandéve ojepyso ñanderehe, ha ñande po apopy oñembyaty ñanderehe — ha ¡ñande po apopy oñembyaty hikuái!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi, pe ... ojepyso"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "iporãngue"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ñandéve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñanderehe"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ha ñande po apopy"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "po apopy"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñanderehe"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ha ñande po apopy"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "po apopy"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "oñembyaty hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:42.209266450Z",
+  "model": "glm-5.3"
+}

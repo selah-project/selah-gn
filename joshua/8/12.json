@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oguereko po su ñorãirõhára kuéra, ha omoĩ chupekuéra ⟨את⟩ mbyrairã Bet-El ha ⟨העי⟩ Haí apytépe, kuarahy resẽ gotyo tavágui.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "po su"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ñorãirõhára kuéra"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ chupekuéra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "mbyrairã"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "mbyrairã"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haí"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "tavágui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:20:31.233414505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ha he'i cherehe: che mba'apohára nereĩ, Jisrael, nendípe ajeguaráta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che mba'apohára"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nereĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nominpe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nendípe"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ajeguaráta"
+    }
+  ],
+  "timestamp": "2026-10-02T12:56:39.716418505Z",
+  "model": "glm-5.3"
+}

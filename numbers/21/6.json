@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Jahve omondo ⟨את⟩ umi kanigua pytuhẽ péva tekove apytépe, ha ojekygʼi ⟨את⟩ pe tekove; ha opa heta tekove Jisrael-gua.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "o mondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "tekove apytépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kanigua pytuhẽ"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "umi kanigua"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "pytuhẽ"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ha ojekygʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tekove"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tekove"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "רב",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisrael-gua"
+    }
+  ],
+  "timestamp": "2026-10-02T09:32:11.166651462Z",
+  "model": "glm-5.3"
+}

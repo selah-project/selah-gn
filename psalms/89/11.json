@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Nde romongy ⟨את⟩ Rahav omanovaʼekuéicha; nde puʼaka vokoípe romopiʼi nde ñorãirõhárakuéra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "romongy"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "omanovaʼekuéicha"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "vokoípe"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nde puʼaka"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "romopiʼi"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "nde ñorãirõhárakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:49.283222725Z",
+  "model": "glm-5.3"
+}

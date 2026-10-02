@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Nahániri okañyta umi membykuéragui, romoñe'ẽta upe ño'ã tenondeguávape Jahve jemburuvicharã, ha imbarete, ha imba'e tuichaguáva ojapovaʼekue.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "okañyta"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "umi membykuéragui"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "upe ño'ãme"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "tenondeguáva"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "romoñe'ẽta"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "jemburuvicharã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ha imbarete"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ha imba'e tuichaguáva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:23.595143832Z",
+  "model": "glm-5.3"
+}

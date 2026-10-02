@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéi pe ñeʼẽ ojeguapa Adonai resaitépe, Salomón ojerurekuri haguére ⟨את⟩ ko ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ojeguapa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resaitépe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ojerurekuri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:38:27.218621532Z",
+  "model": "glm-5.3"
+}

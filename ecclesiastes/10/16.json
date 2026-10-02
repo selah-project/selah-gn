@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Aho nde rehe, yvy, ne mburuvichárõ mitã, ha nde ruvichakuéra koʼẽtahápe okaru!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ne mburuvichárõ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ha nde ruvichakuéra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽtahápe"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "okaru"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:29.508135833Z",
+  "model": "glm-5.3"
+}

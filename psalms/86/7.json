@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Che asyrýi árape ahenói nde, cherẽ nde cheñembohovaita cherẽ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "che asyrýi"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ahenói nde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cherẽ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "cheñembohovaita"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:31.371156741Z",
+  "model": "glm-5.3"
+}

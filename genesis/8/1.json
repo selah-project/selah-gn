@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Elohim omandu'a ⟨את⟩ Noaj rehe, ha ⟨את⟩ opa tekove ha ⟨את⟩ opa vichamba oĩva ⟨את⟩ hendive tevýpe; ha Elohim ohasa peteĩ ruah yvy ári, ha y oñemichĩ.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "omandu'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noaj"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opa tekove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opa vichamba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vichamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hendive"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "tevýpe"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "oñemichĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:12.914628013Z",
+  "model": "glm-5.3"
+}

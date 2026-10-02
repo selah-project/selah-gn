@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 30:25",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha oĩta opa yvyty iñakãguasúvape ha opa yvyty michĩ ojepysóvape, y syry'i syrykuéra, ojukapa guasu árape, umípe yvyravukuéra oguejývo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha oĩta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty guasu"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ... pépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "yvyty michĩ"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "ojepysóva"
+    },
+    {
+      "surface": "פלגים",
+      "gloss": "syry'i"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "syry"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ojukapa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "oguejývo"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "yvyravukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:45:59.881062982Z",
+  "model": "glm-5.3"
+}

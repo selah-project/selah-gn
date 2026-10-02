@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Pejapo ⟨את⟩ Pésaj hiʼarangekópe, Jisrael mitãnguéra.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Pejapo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésaj"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésaj"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "hiʼarangekópe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:22:45.818710073Z",
+  "model": "glm-5.3"
+}

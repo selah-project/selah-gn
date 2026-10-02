@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha rejukáta ⟨את⟩ pe vaka Jahve renondépe, juajuha róga jeikehápe.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "rejukáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vaka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pe vaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeikehápe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "róga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "juajuha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:13.869529311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve Elohim ojapo Adam-pe ha hemirekópe g̃uarã aokuéra pire rehegua, ha oaho chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adam-pe g̃uarã"
+    },
+    {
+      "surface": "ו לאשתו",
+      "gloss": "ha hemirekópe g̃uarã"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "aokuéra"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pire rehegua"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ha oaho chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:36.383035265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha ohoguejy Jolef joyke'ykuéra, poha, oguera hag̃ua avati Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ohoguejy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "joyke'ykuéra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jolef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "poha"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "oguera hag̃ua"
+    },
+    {
+      "surface": "בר",
+      "gloss": "avati"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:01:54.158768654Z",
+  "model": "glm-5.3"
+}

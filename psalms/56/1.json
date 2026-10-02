@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Pe motenondehárape g̃uarã — 'Jonat elem, rejokuaikuéra' —; David miktam, ojapyhy aja ⟨את⟩ chupe pelishtikuéra Gat-pe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe motenondehárape g̃uarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "—rehe"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Jonat"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rejokuaikuéra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ojapyhy aja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pelishtikuéra (ojapyhy hikuái Davidpe)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gat-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:43.900625773Z",
+  "model": "glm-5.3"
+}

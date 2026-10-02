@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Eho ha pehecha Elohim rembiapo: jepy'arõrã ⟨pe⟩ iñaporãngue yvypóra ta'yrakuéra ári.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "eho"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ha pehecha"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "jepy'arõrã"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "iñaporãngue"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ta'yra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:59.343462363Z",
+  "model": "glm-5.3"
+}

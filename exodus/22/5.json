@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Oñemosẽramo tata ha ojuhu karanda'y rakã, ha oñekane'õ koga'u aty térã ka'avokue térã kokue, ojehepyme'ẽjeýva ojehepyme'ẽva'erã pe omboypy ⟨את⟩ pe tata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Oñemosẽramo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "oñemosẽ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ha ojuhu"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "karanda'y rakã"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "ha oñekane'õ"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "koga'u aty"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ka'avokue"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokue"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ojehepyme'ẽjeýva"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ojehepyme'ẽva'erã"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "pe omboypy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tata"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "pe tata"
+    }
+  ],
+  "timestamp": "2026-10-02T08:25:44.839581352Z",
+  "model": "glm-5.3"
+}

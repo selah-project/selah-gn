@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Eviatar oñemomarandu David-pe: Chaúl ojukapa hikuái ⟨את⟩ Jahve pa'ikuéra.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ha oñemomarandu"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ojukapa hikuái"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve pa'ikuéra"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:41.731637624Z",
+  "model": "glm-5.3"
+}

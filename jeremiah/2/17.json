@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "¿Ndaʼépa koʼãva nde rejapo ndéve, reheja haguére ⟨את⟩ Jahve, nde Elohim, omyendávo nde tape ári?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "¿ndaʼépa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nde rejapo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "reheja haguére"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ara"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "omyendávo nde"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T19:08:59.942078875Z",
+  "model": "glm-5.3"
+}

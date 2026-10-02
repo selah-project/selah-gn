@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oúva óga pe, opaite ára oñembotyhápe ⟨את⟩, javorái oiko chupe kaʼaru peve.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "oúva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "oñemboty upe aja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "óga"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "javorái oiko chupe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kaʼaru"
+    }
+  ],
+  "timestamp": "2026-10-02T08:54:01.208548230Z",
+  "model": "glm-5.3"
+}

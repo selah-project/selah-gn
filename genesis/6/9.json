@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Koʼãva haʼe Noe kue raʼypy: Noe haʼe peteĩ kuimbaʼe tsedek ha hekopetevaʼekue iñtetãnguéra apytépe, ha Noe ojapo heta oho ⟨את⟩ Elohim ndive.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "raʼypy"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hekopete"
+    },
+    {
+      "surface": "היה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "iñtetãnguéra apytépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "ojapo heta oho"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:22.393388033Z",
+  "model": "glm-5.3"
+}

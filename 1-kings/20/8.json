@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha opa umi ruvicha ha opa tavaygua heʼi chupe: Ani rehendu, ani reipota.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "umi ruvicha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rehendu"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "reipota"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:54.961197479Z",
+  "model": "glm-5.3"
+}

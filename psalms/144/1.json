@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "David-pe g̃uarã. Iñakãrapytã Jahve, che ita jaguáva, omoñe'ẽva che po ñorãirõme hag̃ua, che kuãngue ñorãirõme hag̃ua.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Iñakãrapytã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "che ita jaguáva"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "omoñe'ẽva"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ñorãirõme hag̃ua"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "che kuãngue"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõme hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:10.424556476Z",
+  "model": "glm-5.3"
+}

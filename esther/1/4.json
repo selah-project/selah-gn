@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ohechauka haguã ⟨את⟩ iñisãmbyhy mbareteguasu virũ, ha ⟨את⟩ iñtuichague mba'eporã hepy — ára kuéra heta, sa poapypa ára.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "ohechauka haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "virũ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "virũ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "mbareteguasu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "iñisãmbyhy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mba'eporã hepy"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "hepy"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "mba'eporã"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "iñtuichague"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heta"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "poapypa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ha sa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T17:28:16.080134902Z",
+  "model": "glm-5.3"
+}

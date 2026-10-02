@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha koʼã haʼe umi kuéra téra ojeréva ⟨את⟩ nde ndivpe: Reuvenpeg̃uarã, Elitsur, Shedeur raʼýichupe.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ha koʼã"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "haʼe umi kuéra téra"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jeréva"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ojeréva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nde ndivpe",
+      "marks": "nde"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "Reuvenpeg̃uarã"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýichupe"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeur"
+    }
+  ],
+  "timestamp": "2026-10-02T09:11:20.880278648Z",
+  "model": "glm-5.3"
+}

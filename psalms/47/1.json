@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Pe mbohupichára peve; Korach raʼýpe g̃uarã; peteĩ mbaraka purory.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe mbohupichára peve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼýpe g̃uarã"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "peteĩ mbaraka purory"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:47.795012002Z",
+  "model": "glm-5.3"
+}

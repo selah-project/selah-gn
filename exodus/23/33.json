@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ani oiko nde yvýpe, ani hag̃ua ojapo nde javy che rehe ⟨את⟩, ha nde mbaʼerã ojapo chuguera — upéicha rami, oikóta nde rehe chokokãi ramo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nde yvýpe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ojapo nde javy"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde — ojavyvaʼekue che rehe (לי)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ojapo chuguera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umie Tupãnguéra"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "umie Elohim — tupãnguéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéicha rami"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "chokokãi ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:22:43.725980990Z",
+  "model": "glm-5.3"
+}

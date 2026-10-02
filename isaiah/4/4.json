@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Adonai ojepohéi ramo ⟨את⟩ Tsion kuñakuéra remeguigua ha ⟨את⟩ Jerusalen tuguy oñemongu'i ijapytégui, hekojoja ruah ha eñembyaíva ruah reheve.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ojepohéi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsion kuñakuéra remeguigua"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "remeguigua"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kuñakuéra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalen tuguy"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalen"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "oñemongu'i"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "ijapytégui"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojoja"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בער",
+      "gloss": "eñembyaíva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:28:47.366703056Z",
+  "model": "glm-5.3"
+}

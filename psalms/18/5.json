@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Mano ra'ỹnguéra ojere che rehe, ha Belial ysyrykuéra omongyhyje chéve.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ojere che rehe"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ra'ỹnguéra"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mano rehegua"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "ha ysyrykuéra"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial rehegua"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "omongyhyje chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:24.286930444Z",
+  "model": "glm-5.3"
+}

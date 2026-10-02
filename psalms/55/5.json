@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Che korasõ ovyʼaite che ryepýpe, ha manõ tavyʼakuéra ou che ári.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ovyʼaite"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "che ryepýpe"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ha tavyʼakuéra"
+    },
+    {
+      "surface": "מות",
+      "gloss": "manõ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:19.101614065Z",
+  "model": "glm-5.3"
+}

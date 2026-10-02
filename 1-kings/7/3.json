@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha yvate guive oñembokuʼa erez rehe, umi ykekuéra ári ohaʼéva umi amud ári — irundy pa ha po, pakõi po peteĩ tur-pe.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "oñembokuʼa"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "erez rehe"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yvate guive"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "umi ykekuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼéva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "umi amud"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundy pa"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ha po"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "peteĩ tur"
+    }
+  ],
+  "timestamp": "2026-10-02T11:44:09.491012155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ⟨את⟩ Kedemot ha ⟨את⟩ imigrachkuéra, ⟨את⟩ Mefaat ha ⟨את⟩ imigrachkuéra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrachkuéra"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imigrachkuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Mefaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrachkuéra"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imigrachkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:04:38.575598448Z",
+  "model": "glm-5.3"
+}

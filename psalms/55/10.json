@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Enyũ, Adonai, embosa'y iñeʼẽnguéra; ungaʼe achecha jejuka ha ñorairõ távape.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Enyũ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "embosa'y"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "iñeʼẽnguéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ungaʼe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "achecha"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jejuka"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ha ñorairõ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:02.509149123Z",
+  "model": "glm-5.3"
+}

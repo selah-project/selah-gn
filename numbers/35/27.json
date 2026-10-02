@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha tuguýi goel ojuhu ⟨את⟩ chupe ikarugua táva rembeꞌýre okápe, ha tuguýi goel ojuka ⟨את⟩ pe jukaháva — ndaipóri chupe tuguýi ñeꞌẽ.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe jukaháva"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguýi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "okápe"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "rembeꞌýre"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ikarugua"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguýi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jukaháva"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "jukaháva"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tuguýi"
+    }
+  ],
+  "timestamp": "2026-10-02T09:44:29.319552772Z",
+  "model": "glm-5.3"
+}

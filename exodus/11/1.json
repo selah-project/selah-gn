@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve he'i Moche-pe: Gueteri peteĩ mba'evai che amoĩta Paraó ári ha Mitsraim ári; upéi araka'e omonóta peẽ ⟨את⟩ ko'águi; omonóta aja, opaite oipe'aitéta oipe'a ⟨את⟩ peẽ ko'águi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "mba'evai"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "che amoĩta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraó"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "araka'e"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "omonóta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ (ko'águi)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko'águi"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "omonóta aja"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "oipe'aitéta"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ (ko'águi)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko'águi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:38.760899890Z",
+  "model": "glm-5.3"
+}

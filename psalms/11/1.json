@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Motenondehárape g̃uarã, David mbaʼe. Jahve-pe añemoĩ pytyhõ; mbaʼéichapa peʼe che rekóvape peʼe: «Guyra raʼáicha, enondo pe, eho umi yvyty-pe».",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Motenondehárape g̃uarã"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "añemoĩ pytyhõ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "peʼe"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "che rekóvape"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "enondo pe, eho"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "umi yvyty-pe"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "guyra raʼáicha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:18.860262621Z",
+  "model": "glm-5.3"
+}

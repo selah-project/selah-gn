@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Jehechaukahakuéra po oĩvaʼerã hese iñepyrũme omanoségui, ha opaite tavayguakuéra po uperire; ha emboguata márai ne apytégui.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "jehechaukahakuéra"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oĩvaʼerã"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "iñepyrũme"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "omanoségui"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ha po"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "uperire"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ha emboguata"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "márai"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ne apytégui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:02:26.343233443Z",
+  "model": "glm-5.3"
+}

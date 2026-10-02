@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha tavayguakuéra ndojerei pe omoñehaʼã vaʼekue rendápe, ha ⟨את⟩ Jahve Tsevaot nohekái.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ha tavayguakuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi...pai"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ndojerei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "pe omoñehaʼã vaʼekue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-...-ái"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ohekái"
+    }
+  ],
+  "timestamp": "2026-10-02T12:31:46.839853271Z",
+  "model": "glm-5.3"
+}

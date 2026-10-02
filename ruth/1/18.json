@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨haʼe⟩ ohecha kuñataĩ iñakã hatãha oho ⟨את⟩ hese, upéiche opa oñeʼẽ hese.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "iñakã hatãha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hese",
+      "marks": "kuñataĩ — Rut"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T17:14:07.881727742Z",
+  "model": "glm-5.3"
+}

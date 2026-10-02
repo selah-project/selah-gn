@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Reu oikove umíva rire, oheja ⟨את⟩ Serug, mokõi saʼa ha pokõi ary, ha omemby kuimbaʼe raʼýpe ha kuñataĩ raʼýpe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "umíva rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ha mokõi saʼa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kuimbaʼe raʼýpe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha kuñataĩ raʼýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:13.582147985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim oiporu porã umi mitãmongaraihára rehe, ha ⟨⟨pe⟩⟩ téra opuʼã hetave, ha opuʼã mbareteiterei.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "oiporu porã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "umi mitãmongaraihára rehe"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ohetave"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe téra"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ha opuʼã mbareteiterei"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mbareteiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:36.038263645Z",
+  "model": "glm-5.3"
+}

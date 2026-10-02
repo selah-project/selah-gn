@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha ogueraha cherehe heikálpe, ha omohaʼã ⟨את⟩ umi sambyhy: poteĩ ama ipekue ko yképe, ha poteĩ ama ipekue pe yképe — upéva ⟨haʼe⟩ pe ohelgua ipekue.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ogueraha cherehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heikálpe"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikál"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ha omohaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi sambyhy"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "umi sambyhy"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ko yképe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha poteĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "pe yképe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "pe ohel"
+    }
+  ],
+  "timestamp": "2026-10-02T14:38:25.761811799Z",
+  "model": "glm-5.3"
+}

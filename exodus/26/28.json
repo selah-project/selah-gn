@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha pe mbytete joajuha vetãkuéra mbytépe ohasáva, paha guive paha meve.",
+  "tokens": [
+    {
+      "surface": "וְהַבְּרִיחַ",
+      "gloss": "ha pe joajuha"
+    },
+    {
+      "surface": "הַתִּיכֹן",
+      "gloss": "mbytete"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הַקְּרָשִׁים",
+      "gloss": "vetãkuéra"
+    },
+    {
+      "surface": "מַבְרִיחַ",
+      "gloss": "ohasáva"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "הַקָּצֶה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "meve"
+    },
+    {
+      "surface": "הַקָּצֶה",
+      "gloss": "paha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:00.849850636Z",
+  "model": "glm-5.3"
+}

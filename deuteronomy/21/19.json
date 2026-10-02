@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Upéicha itúva ha isýpe ojapyhy chupe ha ogueraháta ⟨את⟩ chupe umi itáva karai kuéra rendápe ha hogarã oĝue gotyo.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "isýpe"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "karai kuéra"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "itáva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha … gotyo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "oĝue"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "hogarã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:01:47.885904230Z",
+  "model": "glm-5.3"
+}

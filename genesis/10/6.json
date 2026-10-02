@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Cham membykuéra: Kuch, Mitsraim, Put ha Kenaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ha ... membykuéra"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuch"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:09.820072461Z",
+  "model": "glm-5.3"
+}

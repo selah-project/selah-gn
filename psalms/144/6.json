@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Enohẽ ⟨את⟩ yvotyra ha enohẽ umikuéra; eho ⟨את⟩ neñu'ãnguéra rehe ha embou soro umikuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Enohẽ ... yvotyra"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "yvotyra"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "ha enohẽ umikuéra"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "eho ... rehe"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "neñu'ãnguéra"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "ha embou soro umikuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:56.138547712Z",
+  "model": "glm-5.3"
+}

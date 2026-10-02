@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ogueraha hikuái ⟨את⟩ chupe kavaju ári, ha oñeñotỹ Jerusalaim-pe itúvakuéra ndive, David távape.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ogueraha hikuái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "oñeñotỹ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúvakuéra"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T12:12:46.608691467Z",
+  "model": "glm-5.3"
+}

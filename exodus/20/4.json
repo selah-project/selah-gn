@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ani ejapó chete taʼanga ryapu ha mbaʼeraʼanga mbaʼeveichagua oĩva yvágape yvatevépe, térã oĩva yvýpe gotyo, térã oĩva ýpe yvy guýpe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ejapó"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "taʼanga ryapu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha mbaʼeraʼanga mbaʼeveichagua"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "mbaʼeraʼanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yvatevépe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "térã oĩva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "térã oĩva"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:14.939579838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ou pe mburuvicha guasu ha Haman ojupyty hagua Ester, mburuvicha kuñakarai, ndive.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha guasu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ha Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ojupyty hagua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mburuvicha kuñakarai"
+    }
+  ],
+  "timestamp": "2026-10-02T17:30:02.318155649Z",
+  "model": "glm-5.3"
+}

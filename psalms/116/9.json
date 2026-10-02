@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Aguata Jahve renondépe ⟨pe⟩ yvýpe tekovekuérape.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "aguata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tekovekuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:56.285687823Z",
+  "model": "glm-5.3"
+}

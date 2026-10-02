@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jahve heʼi chéve: ani ere mitãrõ au; che amondo tapiahápe, oeʼúta, ha ⟨את⟩ opa mbaʼe che amonguʼe ndéve, reñeʼẽta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Jahve heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ere"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitãrõ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "au"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "tapiahápe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "che amondo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "oeʼúta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "che amonguʼe ndéve"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "reñeʼẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T13:08:01.220466291Z",
+  "model": "glm-5.3"
+}

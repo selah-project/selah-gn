@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Embojey ñande, ñande jeyveha Elohim, ha embogue ñeʼẽrã nde rũʼi ñande rehe.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Embojey ñande"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ñande jeyveha"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "ha embogue"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "nde rũʼi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ñande rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:37.255149855Z",
+  "model": "glm-5.3"
+}

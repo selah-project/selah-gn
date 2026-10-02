@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Midian pa'ípe ⟨oreko⟩ pokõi mitãkuña; ha ou, ohesa'ỹijo y, ha ohenyhẽ ⟨את⟩ umi y ra'ãha ojohéi hag̃ua itúva mymbakuéra.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "ha pa'i"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mitãkuña"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ohesa'ỹijo"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ohenyhẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi y ra'ãha"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "y ra'ãha"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ojohéi hag̃ua"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mymbakuéra"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:25.919790484Z",
+  "model": "glm-5.3"
+}

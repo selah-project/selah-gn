@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Jahve, ore Elohim, ore-jára hikuái umi jára nde rehegua'ỹva; nde añónte, nde reheve, jajakuaaukáta nde réra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "ore-jára hikuái"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "umi jára"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "nde rehegua'ỹva"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "añónte"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde reheve"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "jajakuaaukáta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:39:37.403416429Z",
+  "model": "glm-5.3"
+}

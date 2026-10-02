@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 10:19",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Peẽ katu ani pejepyʼapy: pejapysyke peñañaʼerekohárape, ha pejuka ⟨את⟩ umi osẽvaʼekue pahápe; ani peheja ⟨את⟩ chupekuéra ou hagua hetãnguéra-pe, hetã Jahve, peñande Elohim, omeʼẽ haguére chupekuéra pe po rupive.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Peẽ katu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "pejepyʼapy"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "pejapysyke"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "-re"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "peñañaʼerekohárape"
+    },
+    {
+      "surface": "וזנבתם",
+      "gloss": "ha pejuka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "umi osẽvaʼekue pahápe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתנום",
+      "gloss": "peheja"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ou hagua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "hetãnguéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hetã"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peñande Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "pe po rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T10:21:27.979702108Z",
+  "model": "glm-5.3"
+}

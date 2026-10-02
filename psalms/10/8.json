@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Oĩ oñemokañývo tava'i ojekotýpe; oñemi haguépe ojuka umi naimarãivape; hesakuéra ohecha kañyhápe umi ndaipu'akávape.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Oĩ"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "oñemokañývo"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "tava'i"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "oñemi haguépe"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "naimarãiva"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hesakuéra"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "ndaipu'akáiva"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "ohecha kañyhápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:34.364163537Z",
+  "model": "glm-5.3"
+}

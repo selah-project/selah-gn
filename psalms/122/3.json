@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Jerusalaim, oñemopu'ãva távaicha ojoajóva chupe peteĩcha.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "oñemopu'ãva"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "távaicha"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "ojoajóva"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "peteĩcha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:53.557933697Z",
+  "model": "glm-5.3"
+}

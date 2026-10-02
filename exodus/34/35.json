@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 34:35",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha Jisrael mitãnguéra ohecha ⟨את⟩ Moche hova, Moche hovapire ojupysakãhaguare; ha Moche omoĩ jey ⟨את⟩ masve hova ári, ou peve oñe'ẽ hag̃ua ⟨את⟩ chugui.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche hova"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hova"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguãre"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ojupysakã"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hovapire"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hova"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "omoĩ jey"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masve"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "masve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hova"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "oñe'ẽ hag̃ua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chugui (Jahve)"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:22.082687914Z",
+  "model": "glm-5.3"
+}

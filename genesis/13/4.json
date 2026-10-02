@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Pe altár rendápe ojapóva upépe ñepyrũrãme; ha upépe Avram ohenói Jahve rérape.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "renda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ñepyrũrãme"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:04.346503038Z",
+  "model": "glm-5.3"
+}

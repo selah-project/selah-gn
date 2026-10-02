@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuimbaʼe oke ⟨את⟩ i-raʼy rembireko, umíva mokõive ojekuaa omano: teko jojaʼỹ ojapo, ituguýkuéra oĩ hendikuéra.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-raʼy rembireko"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "i-raʼy rembireko"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ojekuaa omano"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "teko jojaʼỹ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ituguýkuéra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hendikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:48.296625362Z",
+  "model": "glm-5.3"
+}

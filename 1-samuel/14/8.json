@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Jonatán heʼi: «Mána, jahasata koʼã kuimbaʼe rendápe, ha upéi jahechauka ñande chupekuéra».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Mána"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "jahasata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "koʼã kuimbaʼe"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "jahechauka ñande"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:02:09.800437565Z",
+  "model": "glm-5.3"
+}

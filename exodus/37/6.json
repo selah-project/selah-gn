@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ojapo peteĩ mbotyha itaju pyporãva: ipukukue, amah mokõi ha mbytépe; ipypakue, amah peteĩ ha mbytépe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "mbotyha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pyporãva"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amah mokõi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha mbytépe"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha mbytépe"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ipypakue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:26.310149719Z",
+  "model": "glm-5.3"
+}

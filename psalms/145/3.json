@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Tuichakuaa Jahve, ha oñemomba'eguasu va'erã hetaiterei, ha imbarete guasu rehe ndaipóri ojehukuaa.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Tuichakuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "oñemomba'eguasu va'erã"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "imba'rete guasu rehe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ojehukuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:38.648073740Z",
+  "model": "glm-5.3"
+}

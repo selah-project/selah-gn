@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "Purahéi, salmo Korah raʼýkuéra mbaʼéva, oporombosakoʼihárape, Machalat ári, oñembohape hag̃ua; ñemoarandu, Heiman hEzrahi mbaʼéva.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "raʼýkuéra mbaʼéva"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "oporombosakoʼihárape"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "oñembohape hag̃ua"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ñemoarandu"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "Heiman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "hEzrahi mbaʼéva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:18.417636500Z",
+  "model": "glm-5.3"
+}

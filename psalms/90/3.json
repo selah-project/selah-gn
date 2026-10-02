@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Rembojopyru ⟨את⟩ tekove yvyúrõ peve, ha re'e: Ejevy jey, Adam ra'ykuéra.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Rembojopyru"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "yvyúrõ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha re'e"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Ejevy jey"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Adam ra'y"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:20.948831389Z",
+  "model": "glm-5.3"
+}

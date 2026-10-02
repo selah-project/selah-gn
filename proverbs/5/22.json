@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Hi'angaipakuéra ojapyhy ⟨את⟩ pe ivaikuéva, ha iñangaipa jukuéra oñemoĩ hese.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "hi'angaipakuéra"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ivaikuéva"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "pe ivaikuéva"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ha ... jukuéra ndive"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "iñangaipa"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "oñemoĩ hese"
+    }
+  ],
+  "timestamp": "2026-10-02T16:27:22.683763914Z",
+  "model": "glm-5.3"
+}

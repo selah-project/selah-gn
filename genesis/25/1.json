@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Avraham ojehu jey, oguereko kuñakarai, ha iñeʼẽ haʼe Keturá.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ojehu jey"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuñakarai"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ha iñeʼẽ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturá"
+    }
+  ],
+  "timestamp": "2026-10-02T07:46:34.041789208Z",
+  "model": "glm-5.3"
+}

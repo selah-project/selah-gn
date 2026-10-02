@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Haʼekuéra ogueru ⟨את⟩ Sodoma ha Gomorra opaite mbaʼe, ha ⟨את⟩ opaite karuʼẽ, ha oho.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ha Gomorra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite karuʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "karuʼẽ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:21.549952183Z",
+  "model": "glm-5.3"
+}

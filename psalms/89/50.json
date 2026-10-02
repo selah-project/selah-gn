@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Moõpa umi nde hesed ymaguare, Adonai, nde juruái David rehe nde jeroviakuépe?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Moõpa"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ymaguare"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "nde juruái"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David rehe"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "nde jeroviakuépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:17.387957965Z",
+  "model": "glm-5.3"
+}

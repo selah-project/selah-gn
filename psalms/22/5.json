@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Nde rehe ñande ruãkuéra ojerovia hikuái; ojerovia hikuái, ha reipe'a chupekuéra ivaívagui.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ojerovia hikuái"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ñande ruãkuéra"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ojerovia hikuái"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ha reipe'a chupekuéra ivaívagui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:35.665980954Z",
+  "model": "glm-5.3"
+}

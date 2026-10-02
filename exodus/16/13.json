@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Oiko iñapytũmbotove jave: chelav guyra ou ha oñemboja ⟨את⟩ ⟨the⟩ tenda; ha koʼẽme oĩ tai jepoi tenda ijerére.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "iñapytũmbotove jave"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ou"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "chelav guyra"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenda"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ha koʼẽme"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "jepoi"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "tai"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tenda rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:22:27.109598281Z",
+  "model": "glm-5.3"
+}

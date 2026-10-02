@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Nde hesed oĩ che resã renondépe, ha aguata nde añetegua ndive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vaʼerã"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resã"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ha aguata"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nde añetegua ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:52.050741013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jehonatán ra'ýra héra Meriv-baál; ha Meriv-baál omboheñói ⟨את⟩ Mika.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ra'ýra"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baál"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ha Meri-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baál"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omboheñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mika"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    }
+  ],
+  "timestamp": "2026-10-02T18:06:01.247674394Z",
+  "model": "glm-5.3"
+}

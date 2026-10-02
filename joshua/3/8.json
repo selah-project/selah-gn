@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha nde eñangarekóta ⟨את⟩ ⟨pa'ikuéra⟩ rehe — umi aron ñe'ẽme'ẽ mba'evéva guá — pehe'ãva'ekue: Peg̃uahẽsévo ⟨⟨Jardén⟩ ýi rembe'ýpe, pende pyta Jardénpe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "eñangarekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pa'ikuéra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mba'evéva guá"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ñe'ẽme'ẽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pehe'ãva'ekue"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Peg̃uahẽsévo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "rembe'ýpe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ýi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Jardénpe"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "pende pyta"
+    }
+  ],
+  "timestamp": "2026-10-02T10:18:53.829991989Z",
+  "model": "glm-5.3"
+}

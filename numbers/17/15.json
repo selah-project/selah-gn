@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Aharon ou jey Moche ndive, Ohel Moʼed jepeʼape, ha pe mbaʼembyasy ojejoko.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ou jey"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jepeʼape"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jepeʼa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ohel Moʼed"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "ha pe mbaʼembyasy"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "ojejoko"
+    }
+  ],
+  "timestamp": "2026-10-02T09:27:11.353468171Z",
+  "model": "glm-5.3"
+}

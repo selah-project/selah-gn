@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Upévare, nde, Adonai, reko marangatu ha eipeʼa porã ⟨hiʼári⟩ ñeʼẽ vai; hesed hetaiterei opaite ohenóiva nde rérape g̃uarã.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "reko marangatu"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ha eipeʼa porã ⟨hiʼári⟩ ñeʼẽ vai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ha hetaiterei"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "ohenóiva nde rérape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:31.370697706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha peteĩ kuimba'e ohupy'i chupe, ha nango oimáva oikuaa'ỹ yvyrápe; ha pe kuimba'e ojerure chupe pe'erã: ¿Mba'e reheka?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "ohupy'i chupe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimba'e"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha nango"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "oikuaa'ỹ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "yvyrápe"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "ojerure chupe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimba'e"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pe'erã"
+    },
+    {
+      "surface": "מה",
+      "gloss": "¿Mba'e"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "reheka"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:26.342178691Z",
+  "model": "glm-5.3"
+}

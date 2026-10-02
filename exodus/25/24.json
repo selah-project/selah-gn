@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha emonda ⟨את⟩ chupe oro ipotĩva rehe, ha rejapóta chupe peteĩ jero oro ijerepa.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "emonda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe mesa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ipotĩva"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "peteĩ jero"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerepa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:58.547134468Z",
+  "model": "glm-5.3"
+}

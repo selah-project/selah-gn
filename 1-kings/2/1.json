@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "David ára kuéra ojepyso omano haguãicha, ha oñangareko ⟨את⟩ Shelomo itaʼýrare, heʼi haguã:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "omano haguãicha"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "oñangareko mboʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:40:08.181677634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha koʼág̃a, eho, ha che niko ahaʼéta nde juru ndive, ha amboʼeʼéta ndéve mbaʼépa reñeʼẽta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼág̃a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ahaʼéta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "nde juru"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "ha amboʼeʼéta ndéve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "reñeʼẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:32.456166602Z",
+  "model": "glm-5.3"
+}

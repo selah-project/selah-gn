@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Heta mbaʼe vai marangatu rehe, ha opaite umívagui Jahve omoʼã ⟨chupe⟩.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "heta"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu rehe"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "ha opaite umívagui"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "omoʼã chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:43.978171400Z",
+  "model": "glm-5.3"
+}

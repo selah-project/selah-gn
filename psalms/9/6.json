@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Rejei asy tetãnguéra rehe, rembyai umi ivaíva; remosa koʼẽ́me koʼẽ́me peve hikuái réra.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "rejei asy"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra rehe"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "rembyai"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hikuái réra"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "remosa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "koʼẽ́me"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "koʼẽ́me peve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:18.194050026Z",
+  "model": "glm-5.3"
+}

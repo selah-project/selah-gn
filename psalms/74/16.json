@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Arakuaa nde mba'e, pyhare avei nde mba'e; nde remoĩ ⟨ápe⟩ myesakã ha kuarahy.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nde mba'e"
+    },
+    {
+      "surface": "יום",
+      "gloss": "arakuaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde mba'e"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "remoĩ"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "myesakã"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "kuarahy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:39.690228760Z",
+  "model": "glm-5.3"
+}

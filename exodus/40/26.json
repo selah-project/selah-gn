@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha omoĩ ⟨את⟩ kuarepoti ñemboʼe mboʼehaitépe oñembyatýhápe, ⟨את⟩ pe cortína renondépe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti ñemboʼe mboʼehaitépe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ñemboʼe mboʼehaitépe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "oñembyatýhápe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oñembyatýhápe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "cortína"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:47.160036247Z",
+  "model": "glm-5.3"
+}

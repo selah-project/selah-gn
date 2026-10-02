@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Chmuel he'i Jisrael opavavépe: Pe, ahenói pe ñe'ẽ, opaiterei pe chéve pe'e hagua upe guive, ha amojeyýi peẽ ári peteĩ mburuvicha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "pe ñe'ẽ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaiterei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "pe'e"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "ha amojeyýi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽ ári"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:50.297436456Z",
+  "model": "glm-5.3"
+}

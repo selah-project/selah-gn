@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ikatu hag̃uáicha omoñepyrũ ⟨את⟩ nde koʼág̃a chugui ichupe avanoʼõramo, ha ⟨haʼe⟩ túveme ndeve Elohim-ramo, haʼe oñeʼẽ haguéicha ndeve, ha oñeʼẽmeʼẽ haguéicha nde ruvichakuéra rehe — Avraham-pe, Jitshak-pe ha Jaakov-pe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ikatu hag̃uáicha"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "omoñepyrũ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "היום",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chugui ichupe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "avanoʼõramo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha ⟨haʼe⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "túveme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim-ramo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haʼe oñeʼẽ haguéicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ha oñeʼẽmeʼẽ haguéicha"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "oñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "nde ruvichakuéra rehe"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham-pe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshak-pe"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ha Jaakov-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:08:14.326473489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ojapo opaite Jisrael rayhuakuéra; peichahápe Jahve ojapo ⟨את⟩ Moche ha ⟨את⟩ Aharon rehe, upéicha ojapo hikuái.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ha ojapo hikuái"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "rayhuakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "peichahápe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojapo... rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:02.035211991Z",
+  "model": "glm-5.3"
+}

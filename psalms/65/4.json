@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 65,
+  "translation": "Añarã ñe'ẽnguera oiñakãrapu'ã che ári; ore jeikakuaa'ỹva katu — nde romoñemi chuguãkuéra.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ñe'ẽnguera"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "Añarã"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "oiñakãrapu'ã"
+    },
+    {
+      "surface": "מני",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ore jeikakuaa'ỹva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "romoñemi chuguãkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:01.558558086Z",
+  "model": "glm-5.3"
+}

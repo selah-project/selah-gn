@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Jahve ojeikuaa ojapo haguére hekojoja; pe vai oĩ mboguapy pe apopyrépe ojapo hógui. Higaion. Chela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ojeikuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojoja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "apopyrépe"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "po"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "oĩ mboguapy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe vai"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:19.070486468Z",
+  "model": "glm-5.3"
+}

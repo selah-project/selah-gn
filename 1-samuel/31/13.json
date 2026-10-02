@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha umíva ogueru ⟨את⟩ hetakuéra rugua, oñemoĩ hikuái pe haʼeña Jave-guárape raʼỹiguýpe, Yavecha-pe, ha hiʼare hikuái pokõi ára jekaruʼỹre.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hetakuéra rugua"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "hetakuéra rugua"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "raʼỹiguýpe"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "pe haʼeña Jave-guárape"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Yavecha-pe"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "hiʼare hikuái jekaruʼỹre"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T11:17:27.030436840Z",
+  "model": "glm-5.3"
+}

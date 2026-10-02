@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha rombopeti ⟨את⟩ pe japepo umi kuimbaʼe kuéra resa renondépe, umi oúva nde ndive.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "rombopeti"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "pe japepo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "resa renondépe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe kuéra"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "umi oúva"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ nde",
+      "marks": "nde"
+    }
+  ],
+  "timestamp": "2026-10-02T13:25:01.836464270Z",
+  "model": "glm-5.3"
+}

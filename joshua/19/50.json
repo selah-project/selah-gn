@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 19:50",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Jahve ñeʼẽ reheve ome'ẽ hague chupe ⟨את⟩ pe táva ojerure va'ekue: ⟨את⟩ Timnat Cherach, Efraim yvytype; ha omopu'ã ⟨את⟩ pe táva ha oiko ipype.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ome'ẽ hague"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Timnat Cherach"
+    },
+    {
+      "surface": "תמנת",
+      "gloss": "Timnat"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "Cherach"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvytype"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ha omopu'ã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:21.306653925Z",
+  "model": "glm-5.3"
+}

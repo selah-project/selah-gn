@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha umi ohekóva ohecháta ha kyhyjéta, ha ndojapomoʼãiri ko mbaʼevaiichagua peẽ mbytépe.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "umi ohekóva"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ohecháta"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ha kyhyjéta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "ojapomoʼãiri"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ko ... ichagua"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "peẽ mbytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:29.620005868Z",
+  "model": "glm-5.3"
+}

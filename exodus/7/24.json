@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha opaite umi Mitsraim-ygua kuai ysyri ijerére ojuhu hag̃ua y ou'u hãg̃ua, hetaitereigui ndaikatukuéri ou'u umi y ysyri guive.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "kuai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "umi Mitsraim-ygua"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ysyri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ou'u hãg̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hetaitereigui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaikatukuéri"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ou'u"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "umi y guive"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ysyri"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:13.632227498Z",
+  "model": "glm-5.3"
+}

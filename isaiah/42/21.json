@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Jahve oipota tsedek rupive; omongakuaáta ⟨את⟩ pe Tora ha omombaʼeguasúta chupe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "i tsedek"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "omongakuaáta"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "pe Tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "ha omombaʼeguasúta chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:51:36.187821021Z",
+  "model": "glm-5.3"
+}

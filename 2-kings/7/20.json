@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha oiko chupe upéicha: umi tavayguakuéra ojopy ⟨את⟩ chupe okẽme ha omano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavayguakuéra"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "okẽme"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-02T12:07:45.250134769Z",
+  "model": "glm-5.3"
+}

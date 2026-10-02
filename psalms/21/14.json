@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Jahve, ejakatu nde pu'akápe; ropurahéita ha romopombýta nde mbaretekue.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ejakatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "nde pu'akápe"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "ropurahéita"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "romopombýta"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "nde mbaretekue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:57.052200763Z",
+  "model": "glm-5.3"
+}

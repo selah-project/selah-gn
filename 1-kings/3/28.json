@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jisrael opavavete ohendu ⟨את⟩ hekojojaha mburuvicha ojapovaʼekue, ha ojesareko mburuvicha rehe, ogueroviágui oguerekaha Elohim kuaarã iñakãryepýpe ojapo hag̃ua hekojoja.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekojojaha"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ojesareko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ogueroviágui"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "oguerovia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oguerekaha"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kuaarã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "iñakãryepýpe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T11:39:51.048411610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Aravo oñemoñare hag̃ua, ha aravo omano hag̃ua; aravo oñoty hag̃ua, ha aravo ojepeʼa hag̃ua pe oñotýmava.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "oñemoñare hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "omano hag̃ua"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "oñoty hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ojepeʼa hag̃ua"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "pe oñotýmava"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:17.945669254Z",
+  "model": "glm-5.3"
+}

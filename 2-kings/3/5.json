@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéicha oiko, Ajav omano rire, Moav mburuvicha ojokoʼy ⟨pe⟩ Jisrael mburuvicha rehe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha upéicha oiko"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "omano rire"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "ojokoʼy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "⟨pe⟩ mburuvicha rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:21.107269662Z",
+  "model": "glm-5.3"
+}

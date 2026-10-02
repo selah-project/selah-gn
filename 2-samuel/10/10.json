@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ⟨את⟩ pe tavaguaasu tavapyrã omeʼe Avichai, ijoykeʼy, ipópe; ha kóva omohenda hikuái Amón taʼýra renondépe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe tavaguaasu tavapyrã"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tavapyrã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavaguaasu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avichai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼy"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ha omohenda"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:13.689851702Z",
+  "model": "glm-5.3"
+}

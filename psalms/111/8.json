@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 111,
+  "translation": "Opyta pytuʼume tapiaite, opaite ára pahã peve; ojejapovaʼekue añeteguápe ha teko joja rehe.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "opyta pytuʼume"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára pahã peve"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ojejapovaʼekue"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "añeteguápe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ha teko joja rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:39.942801034Z",
+  "model": "glm-5.3"
+}

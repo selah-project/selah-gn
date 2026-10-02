@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Kofor itaju pegua, mbohapypa; kofor kuarepoti pegua, mokõiha guarã, irundy su pa; ambue mba'yru kuéra, su.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "Kofor"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju pegua"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kofor"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepoti pegua"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "mokõiha guarã"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "su"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "mba'yru kuéra"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-02T17:41:50.215673383Z",
+  "model": "glm-5.3"
+}

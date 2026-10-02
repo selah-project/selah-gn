@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Hadad ohendu Mitsraim-pe David oke hague iñakuéra ru ndive, ha Yoav, ehérsito jára, omano hague; ha Hadad he'i Parao-pe: Eheja cherehe, ameʼẽséramo che aháta che retápe.",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Ha Hadad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iñakuéra ru"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ha hague"
+    },
+    {
+      "surface": "מת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "jára"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ehérsito"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Eheja cherehe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ha che aháta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "che retápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:42.159977695Z",
+  "model": "glm-5.3"
+}

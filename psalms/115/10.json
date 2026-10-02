@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Aharon óga, pekerovia Jahve rehe; ⟨hikuái⟩ pytyvõha ha ijheva'ãha peve haʼe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "pekerovia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pytyvõha"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ijeva'ãha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:52.871907566Z",
+  "model": "glm-5.3"
+}

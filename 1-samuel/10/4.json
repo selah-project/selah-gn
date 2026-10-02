@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha oporandúta ndeve mbaʼéichapa nde rekove, ha ome'ẽta ndeve mokõi mbujape; ha nde egueruháta umi ikuéra po gui.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "oporandúta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nde rekove rehe"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ome'ẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "egueruháta"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ikuéra po gui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:50.770974451Z",
+  "model": "glm-5.3"
+}

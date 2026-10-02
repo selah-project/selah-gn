@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve oipeʼa ⟨את⟩ pe kañy Chemuel isã ryepýgui, peteĩ ára Shaúl ou mboyve, heʼívo:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ha Jahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "oipeʼa pe kañy hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chemuel isã"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "isã"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "peteĩ ára"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:02:13.303085358Z",
+  "model": "glm-5.3"
+}

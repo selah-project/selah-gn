@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oiko koʼẽme, pe minha ojupi jave, ha kua peẽ: y ou Edom rape guive, ha yvy ojyhy ⟨את⟩ ýre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽme"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ojupi jave"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "pe minha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha kua peẽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "rape guive"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ojyhy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ýre"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ýre"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:58.428923639Z",
+  "model": "glm-5.3"
+}

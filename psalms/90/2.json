@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Yvytykuéra heñoi mboyve, nde remoñepyrũ mboyve ⟨את⟩ yvy ha ⟨את⟩ yvy ape, yma guive opa'ỹva peve, nde reiko El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Yvytykuéra"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "heñoi"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "nde remoñepyrũ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "yvy ape"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "yma guive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opa'ỹva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:20.948656142Z",
+  "model": "glm-5.3"
+}

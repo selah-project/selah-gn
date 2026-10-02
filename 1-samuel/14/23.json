@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Jahve ojepeʼa ⟨את⟩ Jisrael rehe upéicha árape, ha ñorãirõ ohasa ⟨את⟩ Beit-Aven peve.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "ojepeʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "upéicha árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "..."
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael rehe"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ha ñorãirõ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-10-02T11:04:23.120949640Z",
+  "model": "glm-5.3"
+}

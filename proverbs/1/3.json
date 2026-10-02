@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ojapyse hag̃ua ñemoarandu, jekuaa porã — tsedek, hekojojaha ha tekojoja;",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "ojapyse hag̃ua"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ñemoarandu"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "jekuaa porã"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha hekojojaha"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ha tekojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:41.659664405Z",
+  "model": "glm-5.3"
+}

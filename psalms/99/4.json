@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 99,
+  "translation": "Ha mburuvicha ipuʼakapýva ohayvu hekojojaha; nde rejapo pytekojoja — hekojojaha ha tsedek Jaakópe nde rejapo.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Ha ipuʼakapýva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ohayvu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "rejapo pyte"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ha tsedek"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakópe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:23.810095727Z",
+  "model": "glm-5.3"
+}

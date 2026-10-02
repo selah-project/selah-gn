@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Añetehápe, opa ára peve ndojopyrýi: tsadik oĩta manduʼarã ramo opa ára paha peve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Añetehápe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ára peve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "jopyrýi"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "manduʼarã ramo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opa ára paha peve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadik"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:26.499990895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Emandu, Jahve, Edom mitãnguéra rehe ⟨את⟩ Jerusalaim árape, umíva heʼíva: Epeʼa, epeʼa, ipypýpe yvypy peve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "emandu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mitãnguéra rehe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ára"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "umíva heʼíva"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "epeʼa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "epeʼa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "yvypy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipypýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:42.902572448Z",
+  "model": "glm-5.3"
+}

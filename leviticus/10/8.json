@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve oñeʼẽ Aharon-pe heʼi hague.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hague"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:50.428853840Z",
+  "model": "glm-5.3"
+}

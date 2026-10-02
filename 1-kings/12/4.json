@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Nde ru ojapo rasýva ⟨את⟩ ñande jope; ko'ág̃a katu nde, emombegue nde ru mba'apo rasýva ha hetã jope pohýiva omoĩva ñanderehe, ha roma'apóta nde g̃uarã.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Nde ru"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ojapo rasýva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande jope"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ñande jope"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "katu nde"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "emombegue"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "mba'apo rasýva rehegui"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "rasýva"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ha... jope rehegui"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pohýiva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omoĩva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñanderehe"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "roma'apóta nde g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:51:39.943063624Z",
+  "model": "glm-5.3"
+}

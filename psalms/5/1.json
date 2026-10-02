@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Pe oporoñangarekóvape g̃uarã, Nehilot-pe, purahéi David mba'éva.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe oporoñangarekóvape g̃uarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nehilot-pe"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mba'éva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:26.496334875Z",
+  "model": "glm-5.3"
+}

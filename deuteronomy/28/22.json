@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Jahve oinundáta nde tujure, akãnundúre, tateére, hakuete rehe, jukaháre, okapũre ha huʼũre; ha umíva ojapysôta nde rekávo, nde oikoveʼỹ peve.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "oinundáta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "tujure"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "akãnundu"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "tate"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "hakuete"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "jukaha"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "okapũ"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "huʼũ"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "ojapysôta nde rekávo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "nde oikoveʼỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:44.138711746Z",
+  "model": "glm-5.3"
+}

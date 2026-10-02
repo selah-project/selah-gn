@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 113,
+  "translation": "Emombaʼeguasu Ja, emombaʼeguasu peẽ Jahve rembiguái, emombaʼeguasu ⟨את⟩ Jahve téra.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "emombaʼeguasu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "emombaʼeguasu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "emombaʼeguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve téra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:02.799535790Z",
+  "model": "glm-5.3"
+}

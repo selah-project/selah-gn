@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ndaʼéipa, ehecha, ⟨את⟩ Jahve Tsevaot guive? Tetãnguéra ombaʼapóta tata rehe, ha tetãnguéra tuicháva oñemokangýta nandi rehe.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ndaʼéipa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ guive",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "ombaʼapóta"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ha tetãnguéra tuicháva"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "oñemokangýta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:08:09.053354293Z",
+  "model": "glm-5.3"
+}

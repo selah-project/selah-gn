@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha kuña heʼi chupekuéra: Upéicha heʼi Jahve, Jisrael Elohim: Peẽ peñeʼẽ pe kuimbaʼe omondóva ⟨את⟩ peẽ cherendápe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "peñeʼẽ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omondóva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:23:16.924224290Z",
+  "model": "glm-5.3"
+}

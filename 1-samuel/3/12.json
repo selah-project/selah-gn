@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Upe árape ahechaukáta Eli-pe ⟨את⟩ opaite mba'e che añe'ẽva hóga rehegua; iñepyrũme g̃uarã ipaha peve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Upe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ahechaukáta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "che añe'ẽva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hóga"
+    },
+    {
+      "surface": "החל",
+      "gloss": "iñepyrũme g̃uarã"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ipaha peve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:46.619950198Z",
+  "model": "glm-5.3"
+}

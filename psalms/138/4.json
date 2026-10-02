@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "Opaite yvy mburuvichakuéra oaguyjéta ndeve, Jahve, jaiko ohendu umi ñe'ẽkuéra osẽva nde jurúgui.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "oaguyjéta ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaiko"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ñe'ẽkuéra"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "nde jurúgui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:30.487505506Z",
+  "model": "glm-5.3"
+}

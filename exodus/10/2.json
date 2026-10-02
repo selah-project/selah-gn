@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ere hag̃ua nde raʼýpe ha nde raʼy raʼýpe apysápe ⟨את⟩ mbaʼéichapa aĩ Mitsraim-re hesakãpa ha ⟨את⟩ che rechaukaha amoĩva chuguikuéra apytépe, ha ikatu hag̃ua peikuaa che Jahveha.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ha ere hag̃ua"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ere"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "apysápe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde raʼýpe"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ha ... raʼy"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde raʼy raʼýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼéichapa aĩ Mitsraim-re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "aĩ hesakãpa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-re"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "che rechaukaha"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "che rechaukaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amoĩva"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "amoĩ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chuguikuéra apytépe"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ha ikatu hag̃ua peikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:41.988668045Z",
+  "model": "glm-5.3"
+}

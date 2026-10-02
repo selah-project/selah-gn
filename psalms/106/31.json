@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha ojehaʼã chupe tsedek ramo, ñemoñare guive ñemoñare peve, tapiaitépe.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ojehaʼã"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "tsedek ramo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ñemoñare guive"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ñemoñare peve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tapiaitépe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tapiaitépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:57.778476719Z",
+  "model": "glm-5.3"
+}

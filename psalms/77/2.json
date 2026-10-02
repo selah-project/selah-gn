@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Che ñeʼẽ ohóva Elohim peve, ha aikuarayi; che ñeʼẽ ohóva Elohim peve, ha Isñandu cherehe.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Che ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohóva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim peve"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ha aikuarayi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohóva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim peve"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ha Isñandu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:46.913217035Z",
+  "model": "glm-5.3"
+}

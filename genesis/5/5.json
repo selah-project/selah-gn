@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Opaite ára kuéra Adam oikove haguére ⟨hína⟩ pyporundysa mbohapapy ary, ha omano.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "opaite … ⟨hína⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "pyporundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "…sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapapy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:31.461223431Z",
+  "model": "glm-5.3"
+}

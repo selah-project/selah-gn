@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Che katu, hi'ãtaitereíma che py ohasa, ha che jejaho kuera'ỹ hi'ãma ojehesa'ỹijo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hi'ãtaitereíma"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "che py"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kuera'ỹ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "hi'ãma ojehesa'ỹijo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "che jejaho"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:50.699945178Z",
+  "model": "glm-5.3"
+}

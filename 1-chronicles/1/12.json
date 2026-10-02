@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ patrúsítkuéra, ⟨את⟩ kaslujítkuéra — umívagui osẽ plishtítkuéra — ha ⟨את⟩ kaftorítkuéra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patrúsítkuéra"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrúsítkuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaslujítkuéra"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kaslujítkuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umívagui"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plishtítkuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaftorítkuéra"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftorítkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:45.503598073Z",
+  "model": "glm-5.3"
+}

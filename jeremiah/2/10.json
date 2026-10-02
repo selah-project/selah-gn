@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 2:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Péicha pehasa Kitim ypaʼũnguéra ári ha pehecha; ha Kedar-pe pemondo ha peñangarekoite; ha pehecha: piko oĩma ojehúva koʼáicha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Péicha"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pehasa"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ypaʼũnguéra"
+    },
+    {
+      "surface": "כתיים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ha pehecha"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "ha Kedar-pe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "pemondo"
+    },
+    {
+      "surface": "והתבוננו",
+      "gloss": "ha peñangareko"
+    },
+    {
+      "surface": "מאוד",
+      "gloss": "ite"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ha pehecha"
+    },
+    {
+      "surface": "הן",
+      "gloss": "piko"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ojehúva oĩ"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "koʼáicha"
+    }
+  ],
+  "timestamp": "2026-10-02T19:09:30.937956519Z",
+  "model": "glm-5.3"
+}

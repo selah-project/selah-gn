@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ndañandépa ichupe jaiko hague okaráichagua? Oñemu hague ñandéve, ha oikaru hague opaite ⟨את⟩ ñande viru.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Nda...pa"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "okaráichagua"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "jaiko hague"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéicha rupi"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "oñemu hague ñande"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "oikaru hague"
+    },
+    {
+      "surface": "גם",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "opa peve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande viru"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "ñande viru"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:24.113298912Z",
+  "model": "glm-5.3"
+}

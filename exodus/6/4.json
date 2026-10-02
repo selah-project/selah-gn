@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha avei che ajerurérõ gueteri che ñeʼẽmeʼẽ ⟨את⟩ hikuái ndive, ameʼẽ hag̃ua chuguikuéra ⟨את⟩ Kanaan retã, ⟨את⟩ retã oiko hikuái ihenóiʼỹme, oiko haguépe hikuái.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ajerurérõ gueteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hikuái ndive",
+      "marks": "Avraham, Jitshak ha Jaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ameʼẽ hag̃ua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaan retã"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "retã oiko hikuái ihenóiʼỹme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "oiko hikuái ihenóiʼỹme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiko haguépe"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "oiko hikuái"
+    },
+    {
+      "surface": "בה",
+      "gloss": "upehépe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:06.220893937Z",
+  "model": "glm-5.3"
+}

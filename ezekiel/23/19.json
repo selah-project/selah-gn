@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 23:19",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha omohenda ⟨את⟩ ijejakypyre kuéra, mandu'a hag̃ua ⟨את⟩ iñakõme ára kuéra rehe, pe oiko jejakypyre ramo yvy Mitsraim-pe.",
+  "tokens": [
+    {
+      "surface": "ותרבה",
+      "gloss": "Ha omohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijejakypyre kuéra"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "ijejakypyre kuéra"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "mandu'a hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakõme ára kuéra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "iñakõme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "oiko jejakypyre ramo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:21:53.887219241Z",
+  "model": "glm-5.3"
+}

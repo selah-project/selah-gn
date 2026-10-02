@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Tamar, raʼyremirekoi, omombuʼe chupe ⟨את⟩ Perets ha ⟨את⟩ Zerach; opaite Jehuda raʼakuéra po.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Ha Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "raʼyremirekoi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "omombuʼe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼakuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    }
+  ],
+  "timestamp": "2026-10-02T18:00:35.552988080Z",
+  "model": "glm-5.3"
+}

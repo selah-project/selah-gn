@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ani pehẽnoi tata peñande rekohaitépe Chabat árape.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "pehẽnoi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "rekohaitépe"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "peñande rekoha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat"
+    }
+  ],
+  "timestamp": "2026-10-02T08:36:23.010045112Z",
+  "model": "glm-5.3"
+}

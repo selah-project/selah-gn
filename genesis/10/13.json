@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Mitsraim ou iñemoñare ⟨את⟩ umi Ludi, ha ⟨את⟩ umi Anami, ha ⟨את⟩ umi Lehabi, ha ⟨את⟩ umi Naftuhi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ha Mitsraim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ou iñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Ludi"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "umi Ludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi Anami"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "umi Anami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi Lehabi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "umi Lehabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi Naftuhi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "umi Naftuhi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:16.901774665Z",
+  "model": "glm-5.3"
+}

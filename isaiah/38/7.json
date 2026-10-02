@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha kóva ndéve g̃uarã techaukaha Jahve ⟨את⟩-guipe: Jahve ojapóta ⟨את⟩ pe ñeʼẽ ko oñeʼẽvaʼekue.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve g̃uarã"
+    },
+    {
+      "surface": "האות",
+      "gloss": "techaukaha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-guipe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hagua"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽvaʼekue"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:41.145297418Z",
+  "model": "glm-5.3"
+}

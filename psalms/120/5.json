@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 120,
+  "translation": "Che rechĩ, che arekógui heta aravo Meshek-pe, che arekógui Kedar óguigua ndive.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Che rechĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...-gui"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "che arekógui heta aravo"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshek-pe"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "che arekógui"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "óguigua"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:44.597037941Z",
+  "model": "glm-5.3"
+}

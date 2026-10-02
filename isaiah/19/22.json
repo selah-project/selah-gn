@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Jahve oñotĩta ⟨את⟩ Mitsraim, oñotĩ ha ombojopói; ha ojevyta Jahve-pe, ha ohendytáta chupekuéra, ha ombojopóita chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "oñotĩta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "oñotĩ"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "ha ombojopói"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ojevyta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "ohendytáta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "ombojopóita chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:26.173941381Z",
+  "model": "glm-5.3"
+}

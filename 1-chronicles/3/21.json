@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 3:21",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jananja ra'ýkuéra: Pelatjah ha Ichajah; Refajah ra'ýkuéra, Arnan ra'ýkuéra, Ovadjah ra'ýkuéra, Chekanjah ra'ýkuéra.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ha ra'ýkuéra"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Jananja"
+    },
+    {
+      "surface": "פלטיה",
+      "gloss": "Pelatjah"
+    },
+    {
+      "surface": "וישעיה",
+      "gloss": "ha Ichajah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Refajah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadjah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Chekanjah"
+    }
+  ],
+  "timestamp": "2026-10-02T18:01:52.352747925Z",
+  "model": "glm-5.3"
+}

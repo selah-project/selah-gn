@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Pe árape Adonai oipeʼáta ⟨את⟩ jeguakarãguasu — umi tysỹi jeguaka apuʼa, umi akã jeguaka, ha umi jasy raʼanga.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "oipeʼáta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeguakarãguasu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "jeguakarãguasu"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "tysỹi jeguaka apuʼa"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "akã jeguaka"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "jasy raʼanga"
+    }
+  ],
+  "timestamp": "2026-10-02T12:27:30.098337931Z",
+  "model": "glm-5.3"
+}

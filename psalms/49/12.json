@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Iñakãguasu ryepýpe ⟨haʼe⟩: óga kuéra opaite ára, Michkan-kuéra ñemoñare guive ñemoñare meve; ohero herakuéra rehe yvy kuéra ári.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "iñakãguasu ryepýpe"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "óga kuéra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "Michkan-kuéra"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ñemoñare guive"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ñemoñare meve"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ohero"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "herakuéra rehe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ári"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "yvy kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:00.659662544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha yvy ombohovaita ⟨את⟩ avatípe, ⟨את⟩ kaguyýpe ha ⟨את⟩ yitsar-pe; ha umíva ombohovaita ⟨את⟩ Jizreel-pe.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ha yvy"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ombohovaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avati"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "avati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaguyy"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "kaguyy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yitsar"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "yitsar"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha umíva"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ombohovaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-02T14:44:56.782087980Z",
+  "model": "glm-5.3"
+}

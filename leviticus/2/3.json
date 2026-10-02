@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha oremaining minha, Aharon ha itaʼýrakuéra mbaʼe, marangatuete Jahve korvon ryakuã apytépe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ha oremaining"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon mbaʼe"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ha itaʼýrakuéra"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatuete"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ryakuã apytépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve korvon"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:09.090317066Z",
+  "model": "glm-5.3"
+}

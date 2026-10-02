@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ⟨את⟩ pe óga guasu omboʼa yvyra kurupaʼýre, ha oñembosakoʼi itajá porãre, ha omboypy hese pindó raʼãnga ha ysapai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "pe óga guasu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "omboʼa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "kurupaʼýre"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "oñembosakoʼi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itajá"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "omboypy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "pindó raʼãnga"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "ha ysapai"
+    }
+  ],
+  "timestamp": "2026-10-02T18:19:48.726227754Z",
+  "model": "glm-5.3"
+}

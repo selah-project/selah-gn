@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Oipeʼa hikuái kuñanguéra mendaʼỹva ha tenda ambuévagui ouvéva, ha mitãrusu itúvaʼỹva ojukapa.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "kuñanguéra mendaʼỹva"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ha tenda ambuévagui ouvéva"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "oipeʼa hikuái"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ha mitãrusu itúvaʼỹva"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ojukapa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:53.069974365Z",
+  "model": "glm-5.3"
+}

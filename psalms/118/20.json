@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Kóva haʼe ⟨⟨⟩ Jahve ógo; umi hekojojáva ohótã ipype.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ógo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "umi hekojojáva"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ohótã"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:21.935665469Z",
+  "model": "glm-5.3"
+}

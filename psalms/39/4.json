@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Che korasõ ojypýi che rekove ryepýpe; ahetia'ẽvo mbeguekatúpe, pe tata ombotytãi: upémarõ che jurúpe añe'ẽ.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ojypýi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "che rekove ryepýpe"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "ahetia'ẽvo mbeguekatúpe"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ombotytãi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "añe'ẽ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "che jurúpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:19.532311669Z",
+  "model": "glm-5.3"
+}

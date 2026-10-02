@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Serug oikove umíva rire, oheja ⟨את⟩ Najor, mokõi saʼa ary, ha omemby kuimbaʼe raʼýpe ha kuñataĩ raʼýpe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "umíva rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi saʼa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kuimbaʼe raʼýpe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha kuñataĩ raʼýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:13.582580547Z",
+  "model": "glm-5.3"
+}

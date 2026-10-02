@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha nombohéramoʼã nde réra Avram; ha nde réra táva Avraham, che amoĩgui nde tapiaguáicha tetãnguéra ru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha no…moʼã"
+    },
+    {
+      "surface": "יקררא",
+      "gloss": "nombohéramoʼã"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde réra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ha táva"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che amoĩgui"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ru"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tapiaguáicha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "amoĩgui nde"
+    }
+  ],
+  "timestamp": "2026-10-02T07:40:04.718328409Z",
+  "model": "glm-5.3"
+}

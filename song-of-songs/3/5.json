@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Che ajuramenta ⟨את⟩ peẽ, Jerusalaim kuñataĩ, tsaova térã ñu yvype rupive: ani pejepyara, térã ani pejepyara ⟨את⟩ mborayhu, oipotave peve.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ajuramenta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "Jerusalaim kuñataĩ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kuñataĩ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "tsaova"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "yvype"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ñu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "pejepyara"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "térã ani"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "pejepyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mborayhu"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "mborayhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "oipotave"
+    }
+  ],
+  "timestamp": "2026-10-02T17:10:10.633856861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Esav heʼi: Che irimáre, opa mbaʼe che rendápe oĩ; pe ne mbaʼe nde rendápe opyta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rendápe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che irimáre"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ne rendápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ne mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:42.130856301Z",
+  "model": "glm-5.3"
+}

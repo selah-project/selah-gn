@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Ha oikuaaitépe nde réra haʼeha Jahve, nde añoite, Ijyvatevéva opaite yvy ári.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "oikuaaitépe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nde añoite"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ijyvatevéva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:03.818844697Z",
+  "model": "glm-5.3"
+}

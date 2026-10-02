@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha ⟨את⟩ David táva iñembyai heta hague pehecha, ha peñembyaty ⟨את⟩ y pe ysyrýgui oĩva yvyguýpe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "David táva iñembyai"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "iñembyai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heta hague"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ha peñembyaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "y pe ysyrýgui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "y"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "pe ysyrýgui"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "oĩva yvyguýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:36:41.348120109Z",
+  "model": "glm-5.3"
+}

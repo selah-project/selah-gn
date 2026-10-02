@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Sijon, emoreo mburuvicha, ha Og, Bachan mburuvicha, ha opaite Kanaan mburuvicharãnguéra rehe.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sijon rehe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoreo"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ha Og rehe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bachan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mburuvicharãnguéra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:22.661287753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha iñorãirõ aty, ha umi ojepapapyréva: irundy ha pakõi su, ha poteĩ sa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ha iñorãirõ aty"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ha umi ojepapapyréva"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ha pakõi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha poteĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-02T18:47:25.893961066Z",
+  "model": "glm-5.3"
+}

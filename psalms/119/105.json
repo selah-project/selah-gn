@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Ne ñeʼẽ ⟨haʼe⟩ kandela che pyngópe g̃uarã, ha tesape che tape rehépe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "kandela"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "che pyngópe g̃uarã"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ne ñeʼẽ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ha tesape"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "che tape rehépe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:43.692001485Z",
+  "model": "glm-5.3"
+}

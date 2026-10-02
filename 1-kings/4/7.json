@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Shelomóme oĩkuri pakõi ñemohendahára opa Jisrael ári, ha umía omboruko ⟨את⟩ mburuvicha ha ⟨את⟩ hogaguasu; peteĩ jasy arapype oĩva'erã peteĩnte omboruko hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Ha Shelomóme"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ñemohendahára"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ha omboruko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hogaguasu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hogaguasu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "arapype"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oĩva'erã"
+    },
+    {
+      "surface": "על",
+      "gloss": "peteĩnte ári"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩnte"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "omboruko hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T11:38:13.948081983Z",
+  "model": "glm-5.3"
+}

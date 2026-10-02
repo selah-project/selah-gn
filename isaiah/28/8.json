@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha katu opaite karaguasu henyhẽ urea ha jygarãgui, ndaipóri tenda ipotĩva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha katu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "karaguasu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "henyhẽ"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "urea-gui"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ha jygarã-gui"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tenda ipotĩva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:41:18.855067543Z",
+  "model": "glm-5.3"
+}

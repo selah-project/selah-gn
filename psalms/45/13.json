@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Ha Tsor kuñataĩ, peteĩ minha ndive, ne resápe ojerure; umi kuãngatu tetãmegua.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ha kuñataĩ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "peteĩ minha ndive"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ne resápe"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ojerure vyʼapavẽ"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "umi kuãngatu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tetãmegua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:11.742285588Z",
+  "model": "glm-5.3"
+}

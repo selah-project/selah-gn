@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha ⟨את⟩ arendyha arendy hág̃ua, ha ⟨את⟩ imbaʼeaporembasa, ha ⟨את⟩ iarendyʼi, ha ⟨את⟩ yra arendy hág̃ua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arendyha"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "arendyha"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "arendy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼeaporembasa"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "imbaʼeaporembasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iarendyʼi"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "iarendyʼi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yra"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "arendy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:36:05.542343413Z",
+  "model": "glm-5.3"
+}

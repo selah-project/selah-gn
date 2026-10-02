@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Tatupy tatupy rehe, kyʼa kyʼa rehe, tumbo tumbo rehe.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "tatupy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "tatupy"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "kyʼa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "kyʼa"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tumbo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tumbo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:29.814039582Z",
+  "model": "glm-5.3"
+}

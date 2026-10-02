@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Nde — nde añónte — jaipohyetevaʼerã; ha mávapa oikutúta nde renondépe, guive ne rerory oñepyrũ vove?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "jaipohyetevaʼerã"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde añónte"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "oikutúta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "guive"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ne rerory"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:18.079621471Z",
+  "model": "glm-5.3"
+}

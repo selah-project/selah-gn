@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Koʼág̃a eho, ehity ⟨את⟩ Amalek, ha rejoka ⟨את⟩ opaite imbaʼe ichaguáva, ani reñeno hese; ejuka kuimbaʼégui kuña peve, mitã michĩgui mitã kambyʼuhára peve, vaka guive ovecha peve, kamyo guive kavaju peve.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Koʼág̃a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "ehity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "rejoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite imbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ichaguáva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "henóirã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "reñeno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "ejuka"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuimbaʼégui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "mitã michĩgui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "mitã kambyʼuhára"
+    },
+    {
+      "surface": "משור",
+      "gloss": "vaka guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "kamyo guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kavaju"
+    }
+  ],
+  "timestamp": "2026-10-02T11:07:07.650058017Z",
+  "model": "glm-5.3"
+}

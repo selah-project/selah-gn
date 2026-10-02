@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha upéva viru oñembyai mba'apo vaípe, ha oheja peteĩ ta'ýra, ha ipópe ndaipóri mba'eve.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "pe viru"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "mba'apo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vaípe"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ta'ýra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mba'eve"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:46.939569912Z",
+  "model": "glm-5.3"
+}

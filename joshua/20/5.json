@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha pe goel, pe tuguy isambypy, ojapysyvo hese kuẽrõ, ndoguerahamoʼãi ⟨את⟩ pe jukaʼeva ipópe, haʼeháicha oikuaaʼỹre ojuka hague ⟨את⟩ ijoykeʼy, ha haʼe naijaʼéi chupe koʼẽmboy gueteri.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ha... kuẽrõ"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "ojapysyvo"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "ogueraha moʼãi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jukaʼeva"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pe jukaʼeva"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "oikuaaʼỹre"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ojuka hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoykeʼy"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ijoykeʼy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha naijaʼéi"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "naijaʼéi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "koʼẽmboy gueteri"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-02T10:30:52.821026475Z",
+  "model": "glm-5.3"
+}

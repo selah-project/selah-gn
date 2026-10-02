@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha upéicha he'i Shimi iñe'ẽ vai jave: Ñesẽ, ñesẽ, yvypóra tuguy apohá ha yvypóra mba'e vai!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "iñe'ẽ vai jave"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Ñesẽ"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ñesẽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "tuguy apohá"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha yvypóra"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "mba'e vai"
+    }
+  ],
+  "timestamp": "2026-10-02T19:01:15.550457488Z",
+  "model": "glm-5.3"
+}

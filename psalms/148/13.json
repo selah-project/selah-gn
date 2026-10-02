@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Taʼhayhu ⟨את⟩ Jahve réra, haʼeete iñeʼẽ yearýnte iporãvaite haʼetéva; ijeguarakatu oĩ ⟨yporupípe⟩ yvy ári ha yvága ári.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "taʼhayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeete"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "iporãvaite haʼetéva"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iñeʼẽ yearýnte"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "añónte"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ijeguarakatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ha yvága"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.401443726Z",
+  "model": "glm-5.3"
+}

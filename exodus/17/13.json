@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Jehochua ombojopy ⟨את⟩ Amalek ha ⟨את⟩ iñavakuéra pe peʼahápe.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "ombojopy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñavakuéra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iñavakuéra"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "peʼahápe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:04.541844148Z",
+  "model": "glm-5.3"
+}

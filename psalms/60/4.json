@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Rejoko ⟨את⟩ yvy, rembasarái chupe — emoporãjey iñembyai, ojekangy haguére.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "rejoko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "rembasarái chupe"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "emoporãjey"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "iñembyai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ojekangy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:26.264932044Z",
+  "model": "glm-5.3"
+}

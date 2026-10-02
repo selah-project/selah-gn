@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Peju che ári ha peipytyvõ che rehe, jaity haguã ⟨את⟩ Givon, haʼe hague ojapo jokupyha ⟨את⟩ Yehochua rehe ha ⟨את⟩ Jisrael membykuéra rehe.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Peju che ári"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "peipytyvõ che rehe"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "jaity haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe hague"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "ojapo jokupyha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehochua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:23:28.172015676Z",
+  "model": "glm-5.3"
+}

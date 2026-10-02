@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "¿Añetehápa peẽ, ñeʼẽʼỹre, peñeʼẽ tsedek rehe? ¿Tekojoja pejuajoja, yvypóra raʼýkuéra?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "añetehápa"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ñeʼẽʼỹre"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "peñeʼẽ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "pejuajoja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:01.597693312Z",
+  "model": "glm-5.3"
+}

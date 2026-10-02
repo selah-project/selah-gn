@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Nde ningo Elohim, che mbaretehára; arakaʼetépa che reja cherehe? arakaʼetépa aho pyʼapýpe ñorairõhára tavýpe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "che mbaretehára"
+    },
+    {
+      "surface": "למה",
+      "gloss": "arakaʼetépa"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "che reja cherehe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "arakaʼetépa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "pyʼapýpe"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "tavýpe"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorairõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:12.752499708Z",
+  "model": "glm-5.3"
+}

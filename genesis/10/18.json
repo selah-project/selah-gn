@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ⟨את⟩ haʼeva Arvadígui, ha ⟨את⟩ haʼeva Zemarígui, ha ⟨את⟩ haʼeva Hamatígui; ha upéi, oñemosarambi umi Kenáan ñemoñarekuéra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "haʼeva Arvadígui"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "haʼeva Arvadígui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "haʼeva Zemarígui"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "haʼeva Zemarígui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "haʼeva Hamatígui"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "haʼeva Hamatígui"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ha upéi"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "oñemosarambi"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ñemoñarekuéra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenáan"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:18.116717257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Ha pe mburuvicha guasu vy'áta Elohim rehe, iñakãrapytã opaite ñeʼẽmeʼẽguáva chupe; hague oñembotyta iñeʼẽ umi oñeʼẽva japúre.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ha pe mburuvicha guasu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "vy'áta"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "iñakãrapytã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ñeʼẽmeʼẽguáva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "oñembotyta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "umi oñeʼẽva"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "japúre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:35.103537621Z",
+  "model": "glm-5.3"
+}

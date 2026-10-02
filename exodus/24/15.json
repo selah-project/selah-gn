@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Moche ohóvo ou upe yvyty ári, ha upe amandáy ojahoʼi ⟨את⟩ upe yvyty.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ohóvo ou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ári"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "upe yvyty"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ojahoʼi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "upe amandáy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upe yvyty"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "upe yvyty"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:23.825620337Z",
+  "model": "glm-5.3"
+}

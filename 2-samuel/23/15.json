@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "David oipotaite ha he'i: Mávapa ome'ẽta chéve y yvu Bet Lechem-gua, oĩva jehasahápe?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "oipotaite"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ome'ẽta chéve y'"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "yvu-gua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "jehasahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:36:00.413018149Z",
+  "model": "glm-5.3"
+}

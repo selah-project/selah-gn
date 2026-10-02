@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 113,
+  "translation": "Omoĩ hag̃ua chupe mburuvicha guasu apytépe, imbaʼeapópe imburuvicha guasu apytépe.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Omoĩ hag̃ua chupe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "imbaʼeapópe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:58.861772496Z",
+  "model": "glm-5.3"
+}

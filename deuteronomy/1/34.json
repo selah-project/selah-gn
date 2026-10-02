@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jahve ohendu ⟨את⟩ pe ñeʼẽ peẽñeʼẽnguéra rehegua, ha inuʼã, ha oñeʼẽ ñeʼẽmeʼẽme, heʼi hag̃ua.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ha ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñeʼẽ peẽñeʼẽnguéra rehegua"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "peẽñeʼẽnguéra"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "inuʼã"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "oñeʼẽ ñeʼẽmeʼẽme"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:16.583594870Z",
+  "model": "glm-5.3"
+}

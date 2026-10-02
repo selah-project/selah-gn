@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Givónpe Jahve ojehechauku Cheolómope chalóme pyhareguiáva, ha Elohim heʼi: Ejerure mbaʼe reipotáva, ameʼẽta ndéve.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Givónpe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ojehechauku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cheolómope"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "chalóme"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhareguiáva"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Ejerure"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ameʼẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:39:12.672020701Z",
+  "model": "glm-5.3"
+}

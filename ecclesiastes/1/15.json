@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Mbaʼe joverapyréva ndaikatúi ojetyapy; ha mbaʼe oĩʼỹva ndaikatúi oñemoĩmba.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "mbaʼe joverapyréva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ikatúi"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ojetyapy hag̃ua"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ha mbaʼe oĩʼỹva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ikatúi"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "oñemoĩmba hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:52.527466808Z",
+  "model": "glm-5.3"
+}

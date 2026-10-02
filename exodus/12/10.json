@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha ani peheja oĩ chugui koʼẽ meve; oĩrõ opyta chugui koʼẽ meve, pejypepy tatápe",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "peheja oĩ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "koʼẽ meve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "opyta chugui"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "koʼẽ meve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatápe"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "pejypepy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:35.589372252Z",
+  "model": "glm-5.3"
+}

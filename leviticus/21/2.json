@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Javes añoite isyguigua oikóva chugui ipypegua: isýre, itúare, imembykuéra, imembykuñára, ha ivay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "javes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "isyguigua"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "oikóva ipype"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "isýre"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ha itúare"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ha imembykuéra"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ha imembykuñára"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ha ivay"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:43.262556708Z",
+  "model": "glm-5.3"
+}

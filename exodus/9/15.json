@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ko'ágã katu, che apysyrõ ⟨את⟩ che po, che apoháramo nde ha ⟨את⟩ nde retã mba'evai rehe, rekañyta'eva'ekue yvy apegui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ko'ágã"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "che apysy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che po"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ nde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde retã"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retã"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mba'evai rehe"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "rekañy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:37.501401620Z",
+  "model": "glm-5.3"
+}

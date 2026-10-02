@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "⟨את⟩ opaite orév imimbi reheháicha.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite orév"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "orév"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "imimbi reheháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:47:42.550881764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Che aiporavo jave aravo ojehaʼã haguãicha, che añemoañete tekójoja yupípe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che aiporavo jave"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "aiporavo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "aravo ojehaʼãva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "tekójoja yupípe"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "añemoañete"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:45.539635441Z",
+  "model": "glm-5.3"
+}

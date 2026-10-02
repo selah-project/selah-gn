@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde reñangareko va'erã nde mba'ekuéra réra reñangareko hag̃ua hesakãporãha.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "reñangareko va'erã"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "nde mba'ekuéra réra"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "reñangareko hag̃ua"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hesakãporãha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:07.394951389Z",
+  "model": "glm-5.3"
+}

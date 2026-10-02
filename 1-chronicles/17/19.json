@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Jahve, ne mbaʼapohára rehegua ha ne korasõ reheve rejapo ⟨את⟩ opa ko tuichakue, ikuaauka hag̃ua ⟨את⟩ opa umi tuichaita.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ne mbaʼapohára"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "ha ne korasõ reheve"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa ko tuichakue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ko tuichakue"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "ikuaauka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa umi tuichaita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "umi tuichaita"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:42.840101039Z",
+  "model": "glm-5.3"
+}

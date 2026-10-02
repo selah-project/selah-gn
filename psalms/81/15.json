@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Michĩnte aimboguejýta umi ñarõnguérape, ha che po ambojeréta umi ñandairõnguére.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Michĩnte"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ñarõnguérape"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "aimboguejýta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ... ári"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ñandairõnguére"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ambojeréta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:11.713511037Z",
+  "model": "glm-5.3"
+}

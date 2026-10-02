@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 108,
+  "translation": "Nahániri pa, Elohim, nde reyoke raʼe ore? Ha nderecéima ore ehérsito ndive, Elohim?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nahániri pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "nde reyoke raʼe ore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Ha nderecéima"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "ore ehérsito ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:44.710201490Z",
+  "model": "glm-5.3"
+}

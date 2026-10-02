@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ani Hizkiahu ombotavy ⟨את⟩ peẽ he'ívo: Jahve osãso orerã. ¿Oimépa umi Elohim tetãnguéra apytépe, peteīteĩ, osãso hague ⟨את⟩ iñyvy Ashur mburuvicha po gui?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "ombotavy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "osãso orerã"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "¿osãsópa hikuái"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra apytépe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteīteĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñyvy"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iñyvy"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-02T12:47:55.477079059Z",
+  "model": "glm-5.3"
+}

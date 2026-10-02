@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Ha aheka ajaposévo kuaa ko mbaʼe: hasyite che resapehũme.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ha aheka ajaposévo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "hasyite"
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "che resapehũme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:41.648404549Z",
+  "model": "glm-5.3"
+}

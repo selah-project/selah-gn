@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Anínte umi yvate renda noñemosẽi; umi tavayguakuéra opytamba'e omongarai ha omena tatatípe umi yvate rendápe.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "anínte"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "umi yvate renda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "noñemosẽi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opytamba'e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavayguakuéra"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "omongarai"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ha omena tatatípe"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "yvate rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:01.622050077Z",
+  "model": "glm-5.3"
+}

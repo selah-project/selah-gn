@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Eipeʼã ⟨את⟩ nde po, ha emyenyhẽ opaitépe tekove imimbu porãme.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Eipeʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ha emyenyhẽ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaitépe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "imimbu porãme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:59.826501668Z",
+  "model": "glm-5.3"
+}

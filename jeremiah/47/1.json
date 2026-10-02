@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Pe Jahve ñeʼẽ oúva Jirmeja nabi reheve, Pelishtim kuéra rehe, Farao oity mboyve ⟨את⟩ Aza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oúva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmeja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim kuéra"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "oity"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    }
+  ],
+  "timestamp": "2026-10-02T13:45:32.337372048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ahecha ⟨את⟩ pe mbaʼapo nepyrũ Elohim omeʼẽva yvypóra membykuérape, ojeko hag̃ua hese.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mbaʼapo nepyrũ"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "pe mbaʼapo nepyrũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ojeko hag̃ua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:54.345442930Z",
+  "model": "glm-5.3"
+}

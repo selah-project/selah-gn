@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Ha nde, Jahve, opa ára reimoĩ hypy'ũme, ha nemandu'a guasu opaite ñemoñare rehe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ára"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "reimoĩ hypy'ũme"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ha nemandu'a guasu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "opaite ñemoñare"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:02.724064029Z",
+  "model": "glm-5.3"
+}

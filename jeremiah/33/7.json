@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha ambojevy ⟨את⟩ Jehuda gai ñesẽ, ha ⟨את⟩ Jisrael gai ñesẽ, ha aoñemopuʼãjeyta chuguãkuéra, ymaitéma guaraicha.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Ha ambojevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda gai ñesẽ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "gai ñesẽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jisrael gai ñesẽ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "gai ñesẽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ha aoñemopuʼãjeyta"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ymaitéma guaraicha"
+    }
+  ],
+  "timestamp": "2026-10-02T13:35:59.201177194Z",
+  "model": "glm-5.3"
+}

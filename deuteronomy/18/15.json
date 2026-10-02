@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 18:15",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Peteĩ nabi ne mboypyéta Jahve nde Elohim, ne irũnguéra apytégui, che raʼangáicha; chupe pehengoe reikotañotáta.",
+  "tokens": [
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ne... apytégui"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "ne irũnguéra"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "che raʼangáicha"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "mboypyéta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe pehengoe"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "reikotañotáta"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:39.173691247Z",
+  "model": "glm-5.3"
+}

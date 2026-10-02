@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Romomeʼẽ ⟨po⟩ Mitsraim-pe ha Ashur-pe, oñemyenyhẽ hag̃ua mbujape.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "romomeʼẽ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur-pe"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "oñemyenyhẽ hag̃ua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    }
+  ],
+  "timestamp": "2026-10-02T17:18:51.023120392Z",
+  "model": "glm-5.3"
+}

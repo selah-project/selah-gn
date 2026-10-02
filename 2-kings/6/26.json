@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 6:26",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha oiko Jisrael mburuvicha ohasávo okára ári, ha peteĩ kuñakarai ohenói chupe heʼívo: Eipytyvõ cherehe, che jára mburuvicha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasávo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "okára"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ha peteĩ kuñakarai"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "Eipytyvõ cherehe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:05:03.787402872Z",
+  "model": "glm-5.3"
+}

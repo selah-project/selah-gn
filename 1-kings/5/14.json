@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Oú ava kuéra, opaite tetãnguéra gui, ohendu hag̃ua ⟨את⟩ Shelomo kuaa; opaite yvy mburuvichakuéra gui, ohendúva hembikuaa.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Oú"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite... gui"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ohendu hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo kuaa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohendúva"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembikuaa"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "hembikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T11:41:32.402944440Z",
+  "model": "glm-5.3"
+}

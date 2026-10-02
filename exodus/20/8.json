@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ñamanduʼa ⟨את⟩ Chabat ára rehe, jaiporavo hag̃ua chupe marangatu rekópe.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ñamanduʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chabat ára"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "jaiporavo hag̃ua chupe marangatu rekópe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:28.848202165Z",
+  "model": "glm-5.3"
+}

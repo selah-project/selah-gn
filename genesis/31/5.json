@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha heʼi chuguikuéra: Ahecha aĩ ⟨את⟩ pende ruva jahyʼo, koʼãga ndahaʼéi chéve mboyveguáicha; ha che ru Elohim oiko vaʼekue che ndive.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ahecha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pende ruva jahyʼo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "jahyʼo"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "pende ruva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koʼãga"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "mboyvegua"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko vaʼekue"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "che ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:25.428783606Z",
+  "model": "glm-5.3"
+}

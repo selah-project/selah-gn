@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha isẽ pyhare mbytépe, ha ogueru ⟨את⟩ che raʼy che ykégui, nde angirũ oke aja, ha omoĩ ⟨את⟩ iñapykápe; ha ⟨את⟩ iñaña raʼy omanovaʼekue omoĩ che apykápe.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ha isẽ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che raʼy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che raʼy"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "che ykégui"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nde angirũ"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "oke aja"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "iñapykápe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñaña raʼy omanovaʼekue"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iñaña raʼy"
+    },
+    {
+      "surface": "המת",
+      "gloss": "omanovaʼekue"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "che apykápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:39:24.932172696Z",
+  "model": "glm-5.3"
+}

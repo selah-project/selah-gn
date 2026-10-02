@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Kóva Aharon ñandy ñenohẽ ha imembykuéra ñandy ñenohẽ, Jahve tatarendy jopói mbytégui, árape omoinge haguẽ ⟨את⟩ chupekuéra pa'i ramo Jahve-pe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ñandy ñenohẽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ha ... ñandy ñenohẽ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tatarendy jopói mbytégui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "omoinge haguẽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra (pa'i ramo)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pa'i ramo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:55.961441105Z",
+  "model": "glm-5.3"
+}

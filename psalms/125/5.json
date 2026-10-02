@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 125,
+  "translation": "Umi ojere vaʼekue iñeʼẽ pyahápe, Jahve ogueraha ⟨את⟩ umi mbaʼevai apohára ndive; tekojoja Jisrael ári.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "umi ojere vaʼekue"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "iñeʼẽ pyahápe"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼevai apohára"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "umi apohára"
+    },
+    {
+      "surface": "האון",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:58.286466664Z",
+  "model": "glm-5.3"
+}

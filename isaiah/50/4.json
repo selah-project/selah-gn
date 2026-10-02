@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Adonai Jahve chemeʼẽ chéve ñeʼẽ oñemoarandúva mbaʼéichapa aikuaata ambohory ñeʼẽme ⟨את⟩ pe hasýva; koʼẽme koʼẽme omoñepyrũ chere che apysa, ahenondévo chéve oñemoarandúvaicha.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "chemeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "oñemoarandúva"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aikuaa hag̃ua"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "ambohory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe hasýva"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "pe hasýva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽme"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "omoñepyrũ chere"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽme"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽme"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "omoñepyrũ chere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "che apysa"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ahendu hag̃ua"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "oñemoarandúvaicha"
+    }
+  ],
+  "timestamp": "2026-10-02T13:00:33.081795181Z",
+  "model": "glm-5.3"
+}

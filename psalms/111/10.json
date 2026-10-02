@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 111,
+  "translation": "Jahve-re jejakýi ha'e ku ñamba'apóme ñepyrũ; opavẽ ojapóva kuéra ko'ãva oguereko kuaa porã; itupãrai katu opaite ára opytáva ndive.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ku ñamba'apóme ñepyrũ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ñamba'apóme kuaa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "jejakýi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kuaa porã"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavẽ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ojapóva kuéra"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "itupãrai"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "opytáva ndive"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "opaite ára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:34.823531187Z",
+  "model": "glm-5.3"
+}

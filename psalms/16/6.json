@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Umi jehapyrakuéra ogue cherehe tenda porãme; avei che mbaʼejaova iporã che ári.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "umi jehapyrakuéra"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ogue"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "tendá porãme"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "che mbaʼejaova"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:55.766598855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 124,
+  "translation": "Ñande pytyvõ oĩ Jahve rérape, ⟨Haʼe⟩ apoháva yvága ha yvy.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ñande pytyvõ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Haʼe⟩ apoháva"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ha yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:06.685579462Z",
+  "model": "glm-5.3"
+}

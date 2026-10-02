@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Jisrael ra'ýiguéra mbyte voregui, Moche oipe'a va'ekue ñorairõhara kuéra gui.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "Ha mbyte voregui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýiguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "ñorairõhara"
+    }
+  ],
+  "timestamp": "2026-10-02T09:39:54.520296594Z",
+  "model": "glm-5.3"
+}

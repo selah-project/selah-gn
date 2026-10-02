@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Upévare peẽ peikuaa mbaʼéichapa roiko vaʼekue Mitsraim yvýpe, ha mbaʼéichapa jahasava vaʼekue tetãnguéra apytépe, umípe peẽ pehasavaʼekue.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "peikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼéichapa roiko vaʼekue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "roiko vaʼekue"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mbaʼéichapa jahasava vaʼekue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "jahasava vaʼekue"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umípe"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "pehasavaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:22.920420499Z",
+  "model": "glm-5.3"
+}

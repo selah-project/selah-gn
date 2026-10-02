@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ogueraháta ⟨את⟩ Michkan ahoja kuéra, ha ⟨את⟩ juaju ohel, pe iñemboypy, ha pe tahashi pire iñemboypy oĩva iñakã ári yvate gotyo, ha ⟨את⟩ pe ahoja juaju ohel rokẽ pegua.",
+  "tokens": [
+    {
+      "surface": "וְנָ֨שְׂא֜וּ",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan ahoja kuéra"
+    },
+    {
+      "surface": "יְרִיעֹ֤ת",
+      "gloss": "ahoja kuéra"
+    },
+    {
+      "surface": "הַמִּשְׁכָּן֙",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "juaju ohel"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מוֹעֵ֔ד",
+      "gloss": "juaju"
+    },
+    {
+      "surface": "מִכְסֵ֕הוּ",
+      "gloss": "iñemboypy"
+    },
+    {
+      "surface": "וּמִכְסֵ֛ה",
+      "gloss": "ha iñemboypy"
+    },
+    {
+      "surface": "הַתַּ֥חַשׁ",
+      "gloss": "tahashi pire"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "iñakã ári"
+    },
+    {
+      "surface": "מִלְמָ֑עְלָה",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "וְאֶ֨ת",
+      "gloss": "⟨את⟩",
+      "marks": "ahoja"
+    },
+    {
+      "surface": "מָסַ֔ךְ",
+      "gloss": "ahoja"
+    },
+    {
+      "surface": "פֶּ֖תַח",
+      "gloss": "rokẽ"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "juaju"
+    }
+  ],
+  "timestamp": "2026-10-02T09:17:01.306641712Z",
+  "model": "glm-5.3"
+}

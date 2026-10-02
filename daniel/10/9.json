@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ahendu ⟨את⟩ iñeʼẽnguéra ryakuʼa, ha ahendúvo ⟨את⟩ iñeʼẽnguéra ryakuʼa, che aiko korapýpe che retýre, ha che reta yvýpe.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ahendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽnguéra ryakuʼa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ryakuʼa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "iñeʼẽnguéra"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ha ahendúvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽnguéra ryakuʼa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ryakuʼa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "iñeʼẽnguéra"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "che"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "korapýpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "re"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che reta"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ha che reta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:31:11.667435781Z",
+  "model": "glm-5.3"
+}

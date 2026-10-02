@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 98,
+  "translation": "Ykuéra kuera oipysyrõ i po, yvyty kuéra oñondypaite ojueheguái chupekuéra.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ykuéra kuera"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "oipysyrõ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "i po"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ojueheguái"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvyty kuera"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "oñondypaite"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:22.842694876Z",
+  "model": "glm-5.3"
+}

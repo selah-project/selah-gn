@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Mikal omoĩ David yvateгуape hova rupi ⟨את⟩ David ventána rekávo, ha haʼe ohóvo ova ha oñemosãso.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "omoĩ yvateгуape"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "rekávo"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ventána"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ova"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "oñemosãso"
+    }
+  ],
+  "timestamp": "2026-10-02T11:09:03.039426904Z",
+  "model": "glm-5.3"
+}

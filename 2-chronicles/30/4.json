@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha pe mba'e ojuehe porã mburuvicha guasu hesa renondépe ha opaite aty hesa renondépe.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ojuehe porã"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe mba'e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "hesa renondépe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ha ... hesa renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty"
+    }
+  ],
+  "timestamp": "2026-10-02T18:35:28.597996640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha ⟨את⟩ Binjamin, Jolef joyke'y, Jaakov ndomondivi ⟨את⟩ ijoyke'ykuéra ndive, heʼihaguére: ani oiko chugui mbaʼevaíva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "joyke'y"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jolef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndomondivi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omondi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heʼihaguére"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "oiko chugui"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "mbaʼevaíva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:01:54.158917989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Umi vaitéva ombokuatia cherehe mbaʼe ndahetái; che katu che rekove pyʼaite peve ajerure che are koʼã nde rekorã.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "ombokuatia mbaʼe ndahetái"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mbaʼe ndahetái"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "umi vaitéva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pyʼaite peve"
+    },
+    {
+      "surface": "לב",
+      "gloss": "che rekove pyʼa"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "acherure"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "nde rekorã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:54.198476024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha y oñembohyru hikuái ojokóva chupekuéra; peteĩnte noñemoĩ hikuái apytépe.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "oñembohyru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ojokóva chupekuéra"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩnte"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "hikuái apytépe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ñemoĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:29.688526002Z",
+  "model": "glm-5.3"
+}

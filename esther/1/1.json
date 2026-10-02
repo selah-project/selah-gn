@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Oiko va'ekue upéi Ajachveroch ára-kuéra apytépe — ha'e Ajachveroch, mburuvicha oisãmbyhyva Hodu guive Kuch peve, sa mokõipa pokõi tetã ári.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko va'ekue"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ára-kuéra apytépe"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajachveroch"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajachveroch"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "guive... peve"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuch"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ha mokõipa"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "tetã"
+    }
+  ],
+  "timestamp": "2026-10-02T17:28:16.079512006Z",
+  "model": "glm-5.3"
+}

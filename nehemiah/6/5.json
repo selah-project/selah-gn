@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Sanvalat omondo cherehe, ko'ã ñe'ẽicha, poha jey, ⟨את⟩ imba'apohára mitã, ha peteĩ kuatiañe'ẽ ijurujáva ipópe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanvalat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ñe'ẽicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "jey"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "poha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba'apohára mitã"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "imba'apohára mitã"
+    },
+    {
+      "surface": "ו אגרת",
+      "gloss": "ha peteĩ kuatiañe'ẽ"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "ijurujáva"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipópe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:53:44.664128096Z",
+  "model": "glm-5.3"
+}

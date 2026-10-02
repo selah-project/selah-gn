@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Jahve, che Elohim, nde rehe che amoĩ che pyʼaguapy; esãso che opaite umi che jukysãmbyrégui, ha ejoko cherehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "che amoĩ che pyʼaguapy"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "esãso che"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "che jukysãmbyre"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ha ejoko cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:39.832285294Z",
+  "model": "glm-5.3"
+}

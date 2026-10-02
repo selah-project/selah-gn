@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha ojevy ⟨את⟩ hendive, oʼu mbujape iñog̃uahápe ha ou ýpe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ha ojevy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hendive",
+      "marks": "hendive (pe nabi tuja)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "oʼu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "iñog̃uahápe"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:51:04.026706508Z",
+  "model": "glm-5.3"
+}

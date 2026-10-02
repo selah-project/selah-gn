@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Chaúl ojerure Jahve-pe, ha Jahve nombohovái chupe; nahániri taʼãnguéra rupive, nahániri Urim rupive, nahániri nabikuéra rupive.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "nombohovái chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "taʼãnguéra rupive"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urim rupive"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "nabikuéra rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:56.752430046Z",
+  "model": "glm-5.3"
+}

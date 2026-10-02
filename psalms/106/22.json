@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Mbaʼe vera Cham yvýpe, mbaʼe tyai Suf paráre ári.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "mbaʼe vera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mbaʼe tyai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ים",
+      "gloss": "pará"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:59.228563690Z",
+  "model": "glm-5.3"
+}

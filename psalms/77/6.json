@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Ajesareko umi arakuéra ymaguare rehe, umi arykuéra ymaguare rehe.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Ajesareko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umi arakuéra"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ymaguare"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "umi arykuéra"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ymaguare"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:02.989904384Z",
+  "model": "glm-5.3"
+}

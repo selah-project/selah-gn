@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 126,
+  "translation": "Ejejey, Jahve, ⟨את⟩ ore jevy, ysyrynguéraicha Neguev-pe.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Ejejey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore jevy"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ore jevy"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "ysyrynguéraicha"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Neguev-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:59.238072891Z",
+  "model": "glm-5.3"
+}

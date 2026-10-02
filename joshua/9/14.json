@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Upevarã umi kuimba'e omonda hikuái iñarory ha Jahve ⟨את⟩ iñe'ẽ ndojerurei hikuái.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "omonda hikuái"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimba'e"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "iñarory"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve iñe'ẽ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ojerurei hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T10:20:19.481946770Z",
+  "model": "glm-5.3"
+}

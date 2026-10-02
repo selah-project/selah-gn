@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Jaakov heʼi Jósef-pe: «El Chadai ojechauka chéve Luz-pe, Kenáan retãme, ha omboporiahuvereko ⟨את⟩ che rehe».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ojechauka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "Luz-pe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenáan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ha omboporiahuvereko"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:07.968868766Z",
+  "model": "glm-5.3"
+}

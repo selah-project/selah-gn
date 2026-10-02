@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Py'aguapyrãpe oho ha ojevy mumuguýpe umi ndaijaʼéiva Tsion rehe.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "py'aguapyrãpe oho"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ha ojevy"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mumuguýpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "umi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ndaijaʼéiva"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:58.784041132Z",
+  "model": "glm-5.3"
+}

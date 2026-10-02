@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Upe rire, Ijov ojurujái ⟨את⟩ ijurua ha oñe'ẽ vai ⟨את⟩ iñara.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Upe rire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ojurujái"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijurua"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ijurua"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "oñe'ẽ vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñara"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "iñara"
+    }
+  ],
+  "timestamp": "2026-10-02T16:46:05.160148918Z",
+  "model": "glm-5.3"
+}

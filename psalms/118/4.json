@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Jahve-re cheresãsóva kuéra ñaneʼẽ koʼág̃a: hesed oiko opa ára peve.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ñaneʼẽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "cheresãsóva kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve-re"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ára peve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:14.834759102Z",
+  "model": "glm-5.3"
+}

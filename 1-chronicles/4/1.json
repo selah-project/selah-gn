@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Jehuda raʼýku: Perets, Chetsron, Karmi, Jur ha Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "raʼýku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ha Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ha Jur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ha Shoval"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:00.389344036Z",
+  "model": "glm-5.3"
+}

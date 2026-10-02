@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ⟨את⟩ nde kambirete kuimbaʼe, ha ⟨את⟩ nde kambirete kuña, ha ⟨את⟩ nde mitãrusu porãvéva, ha ⟨את⟩ nde kavaraguasu oguerekóta, ha ojapóta iñambaʼapópe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde kambirete kuimbaʼe"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "nde kambirete kuimbaʼe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde kambirete kuña"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "nde kambirete kuña"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde mitãrusu porãvéva"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "nde mitãrusu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "porãvéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde kavaraguasu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "nde kavaraguasu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "oguerekóta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "iñambaʼapópe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:14.422247060Z",
+  "model": "glm-5.3"
+}

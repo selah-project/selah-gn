@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Chetsron raʼy ⟨את⟩ Ram, ha Ram raʼy ⟨את⟩ Aminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "ha Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ha Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-10-02T17:13:21.336275628Z",
+  "model": "glm-5.3"
+}

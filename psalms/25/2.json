@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Che Elohim, nde rehe che ñembyaty: ani ajepyʼarory vai, ani umi che ñorãirõhára ovyʼa che rehe.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Che Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "che ñembyaty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ajepyʼarory vai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "che ñorãirõhára"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:45.903684708Z",
+  "model": "glm-5.3"
+}

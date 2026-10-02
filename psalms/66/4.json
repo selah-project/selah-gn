@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Opaite yvy oinupã̃ nde pybe'ype ha opurahéi nde rehe, opurahéi nde téra rehe. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "oinupã̃"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ha opurahéi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "opurahéi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde téra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:29.316938877Z",
+  "model": "glm-5.3"
+}

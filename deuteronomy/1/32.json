@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ko mbaʼépe peẽ nangatiriõi Jahve, peẽ Elohim, rehe.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Ha ko mbaʼépe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "peẽ nanga"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "tiriõi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim, rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:46.688702191Z",
+  "model": "glm-5.3"
+}

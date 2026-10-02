@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 12:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha mbohapypa ára ha mbohapy ára opytáta iñeñemopotĩ pytykuérape; mbaʼe marangatu aravegua ndaipoguemoíri rehe, ha ova marangatupe noguahẽmoíri, oguahẽ meve iñemopotĩ ára oĩmba hague.",
+  "tokens": [
+    {
+      "surface": "ושלשים",
+      "gloss": "Ha mbohapypa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ha mbohapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "opytáta"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "pytykuérape"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "iñeñemopotĩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa ... aravegua"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mbaʼe marangatu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...moíri"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ndaipoguemoíri rehe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ... pe"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ova marangatu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "noguahẽmoíri"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "noguahẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "oguahẽ meve"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "oĩmba hague"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "iñemopotĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:31.539532095Z",
+  "model": "glm-5.3"
+}

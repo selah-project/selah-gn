@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Upévare hikuái ojevy koʼape, ha y henyhẽva ojepoi chupekuéra.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "koʼape"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha y"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "henyhẽva"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ojepoi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:32.122633338Z",
+  "model": "glm-5.3"
+}

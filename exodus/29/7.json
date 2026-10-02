@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha ereko ⟨את⟩ pe mishja yra, ha emono hese iñakã ári, ha emombaʼe chupe yra rehe.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mishja yra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yra"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mishja"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "emono hese"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "emombaʼe chupe yra rehe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:39.029904804Z",
+  "model": "glm-5.3"
+}

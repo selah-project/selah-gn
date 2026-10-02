@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "Ha che ahenda che ang nde rehe, Jahve, ha koʼẽtahápe che jerure oguataerã nde rendápe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ahenda che ang"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ha koʼẽtahápe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che jerure"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "oguataerã nde rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:54.082428500Z",
+  "model": "glm-5.3"
+}

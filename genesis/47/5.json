@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Ha Paroh heʼi Jofé-pe, heʼi hague: nde ru ha nde joykeʼykuéra ou nde rendápe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jofé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hague"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ha nde joykeʼykuéra"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:30.583646542Z",
+  "model": "glm-5.3"
+}

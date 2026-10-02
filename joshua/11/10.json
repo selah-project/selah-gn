@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upe arakuépe Yehochua ojevy, oity ipópe ⟨את⟩ Chatshor, ha ⟨את⟩ hetã mburuvicha oikutu kyse guasu rehe; péicha Chatshor ymave haʼe akã opavave koʼã tetãnguéra.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "upe arakuépe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "oity ipópe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatshor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatshor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hetã mburuvicha"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "hetã mburuvicha"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "oikutu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kyse guasu rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatshor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ymave"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:54:22.451445075Z",
+  "model": "glm-5.3"
+}

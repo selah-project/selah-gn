@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "⟨את⟩ pe mburuvicha — mburuvicha hína — opytáta ipype hoʼu hag̃ua mbujape Jahve renondépe; pe mburuvicha oikéta Ulam pe jejokoha mboyvegua rupi, ha pe tape rupi osẽta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mburuvicha"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mburuvicha hína"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hína"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "opytáta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "hoʼu hag̃ua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tape rupi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "Ulam"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pe jejokoha"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "oikéta"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "ha pe tape rupi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T14:41:52.631389581Z",
+  "model": "glm-5.3"
+}

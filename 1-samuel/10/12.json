@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Peteĩ kuimbaʼe upégui oñembohape ha heʼi: Ha máva piko itúva? Upévare oiko ñeʼẽte ramo: Shaúl piko avei nabi-kuéra apytépe?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "oñembohape"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ha máva piko"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ñeʼẽte ramo"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "piko avei"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "nabi-kuéra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:30.736309494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 22:5",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Umi ñemoñeʼẽ rupi avei ohórõ guare, ha oho ⟨את⟩ Jehoram, Ajav raʼy, Jisrael mburuvicha, ñorãirõme Chazael, Aram mburuvicha rehe, Ramot Guilad-pe; ha umíva Aram-gui omonandi ⟨את⟩ Jehoram.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "umi ñemoñeʼẽ rupi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho hikuái"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõme"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "Ramot-pe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha umíva omonandi"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "umíva Aram-gui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Jehoram"
+    }
+  ],
+  "timestamp": "2026-10-02T18:31:01.352895087Z",
+  "model": "glm-5.3"
+}

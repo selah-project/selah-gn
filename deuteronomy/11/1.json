@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upévare erehayhu ⟨את⟩ Jahve, nde Elohim, erechapaʼa hese iñangareko, ichuko, ihekojojaha ha imeʼẽva, opaite árape.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "erehayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "erechapaʼa"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "iñangareko"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ichuko"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ihekojojaha"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "imeʼẽva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:50.458663930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jahve omondo ⟨את⟩ Natan David peve, ha ou hese ha he'i chupe: Mokõi kuimba'e oiko peteĩ távape, peteĩ oguerekóva heta mba'e ha peteĩ vy'apave'ỹ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Mokõi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "oguerekóva heta mba'e"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ha peteĩ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vy'apave'ỹ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:26:24.295909474Z",
+  "model": "glm-5.3"
+}

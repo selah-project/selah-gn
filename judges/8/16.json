@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oguereko ⟨את⟩ tavasu ruvichakuéra, ha ⟨את⟩ yvyguasu ju ha karaguata, ha chuguikuéra oipuru oipesaka haguã ⟨את⟩ Sukot kuimbaʼekuérape.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavasu ruvichakuéra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tavasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvyguasu ju"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "ju"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yvyguasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karaguata"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "karaguata"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "oipesaka haguã"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot kuimbaʼekuérape"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimbaʼekuérape"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-10-02T10:42:08.300269268Z",
+  "model": "glm-5.3"
+}

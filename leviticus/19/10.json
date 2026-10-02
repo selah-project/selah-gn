@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha nde yva kokuépe ani rejopyru, ani remoñembyaty umi yva oñembopaháva; hejarei umíva menguarãnguára ha ouvanguára g̃uarã; che Jahve, nde Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "ha nde yva kokué"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "rejopyru"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ha umi yva oñembopaháva"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "nde yva kokué pegua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "remoñembyaty"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "menguarãnguára g̃uarã"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ha ouvanguára g̃uarã"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hejarei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umíva (menguarãnguára ha ouvanguára g̃uarã)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nde Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:46.568365380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Nde rehe osapukái hikuái, ha osẽ ivaívagui; nde rehe ojerovia hikuái, ha noñembyasýi pyʼakuéra.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "osapukái hikuái"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ha osẽ ivaívagui"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ojerovia hikuái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "noñembyasýi pyʼakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:35.666216617Z",
+  "model": "glm-5.3"
+}

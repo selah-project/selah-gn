@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Pe atĩvape g̃uarã. Purahéi, mizmor. Ehenyhẽ peve Elohim rehe, opaite yvy.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe atĩvape g̃uarã"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ehenyhẽ peve"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:29.316380729Z",
+  "model": "glm-5.3"
+}

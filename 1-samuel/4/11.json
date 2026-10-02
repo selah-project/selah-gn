@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Elohim sandalia ojegueraha, ha Eli raʼýi mokõi omano, Jofni ha Pinejas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "sandalia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "ojegueraha"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "omano"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Jofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "ha Pinejas"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:44.387169147Z",
+  "model": "glm-5.3"
+}

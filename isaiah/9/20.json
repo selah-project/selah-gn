@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Menache ⟨את⟩ Efraim, ha Efraim ⟨את⟩ Menache; umikuéra ojoaju Jhuda rehe. Opa koʼāva apytépe nahániri iñakãrai jevy, ha ipo gueteri oñemyasãi.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ha Efraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menache"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jhuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa… apytépe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼāva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "שב",
+      "gloss": "jevy"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iñakãrai"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ha gueteri"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "oñemyasãi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:31:37.872116861Z",
+  "model": "glm-5.3"
+}

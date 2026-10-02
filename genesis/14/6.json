@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ⟨את⟩ Hori-pe iñyvyty Seir-pe, El-Paran peve, oĩva yvyguasu ári.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "iñyvyty-pe"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "hiʼári"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yvyguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:17.962120121Z",
+  "model": "glm-5.3"
+}

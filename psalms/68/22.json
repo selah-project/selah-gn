@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Añetegua Elohim omonguetéta ⟨ ⟨iñakã⟩⟩ umi ivai vaʼekue, iñakãrague pukúva oiko hese iñangaipakuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "omonguetéta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "umi ivai vaʼekue"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "akãrague pukúva"
+    },
+    {
+      "surface": "שער",
+      "gloss": "akãrague"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "oiko hese"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "iñangaipakuéra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:29.746691677Z",
+  "model": "glm-5.3"
+}

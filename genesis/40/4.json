@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha pe mbokaipuhára mburuvicha omeʼẽ ⟨את⟩ Yosef-pe ⟨את⟩ chuguakuéra; ha ⟨⟨he⟩⟩ oñangareko ⟨אתם⟩ reheguakuéra; ha oiko hikuái ára kuéra oñembyatýpe.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "mbokaipuhára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chuguakuéra"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Parao iñaranduʼa kuéra"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "oiko hikuái"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "oñembyatýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:08.281959853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha nderenói ⟨את⟩ chéve, Jaakov, upévare nderehasyiete che rehe, Jisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nderenói"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "chéve"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "renói chéve"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "nderehasyiete"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T12:52:24.780979715Z",
+  "model": "glm-5.3"
+}

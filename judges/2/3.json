@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha upéicharõ avei ahaʼãvaʼekue: Nda agueroypéi ⟨את⟩ chupekuéra peẽ renondégui, ha oikóta hikuái peẽ korapytĩ'anguéicha, ha itupe Elohinguéra oikóta peẽ menguararaha ramo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ahaʼãvaʼekue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…kuri"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "agueroypéi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "peẽ renondégui"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "oikóta hikuái"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "korapytĩ'anguéicha"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "itupe Elohinguéra"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "menguararaha ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:44.750892378Z",
+  "model": "glm-5.3"
+}

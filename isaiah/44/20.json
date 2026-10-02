@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Okuʼa tanembúre; korasõ oñembyaíva ombomovaʼekue chupe, ha ndaipóri ipysyrõ ⟨את⟩ itekove, ha nángiko ndoheʼi: Nángiko pa ñañ che po akatúa pepé?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "okuʼa"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tanembúre"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "oñembyaíva"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "ombomovaʼekue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ipysyrõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itekove"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "itekove"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nángiko pa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ñañ"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "che po akatúa pepé"
+    }
+  ],
+  "timestamp": "2026-10-02T12:55:40.128121146Z",
+  "model": "glm-5.3"
+}

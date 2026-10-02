@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Pe omoheñóiva ⟨את⟩ apysa, ¿nahechamoʼãi? térã pe ojapóva ⟨את⟩ jesareko, ¿nahechamoʼãi vaʼerã?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "pe omoheñóiva"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "apysa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nahechamoʼãi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "¿...nahechamoʼãi?"
+    },
+    {
+      "surface": "אם",
+      "gloss": "térã"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jesareko"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nahechamoʼãi vaʼerã"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "hecha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:04.630161769Z",
+  "model": "glm-5.3"
+}

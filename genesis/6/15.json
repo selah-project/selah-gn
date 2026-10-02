@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha kóvaicha rejapóta ⟨את⟩ ⟨pe⟩ yguá: mbohapysa ama ipukukue ⟨pe⟩ yguá, po apa ama iperekue, ha mboapy pa ama ipytukue.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ha kóvaicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yguá"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "yguá"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "po apa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "iperekue"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mboapy pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ipytukue"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:44.522054336Z",
+  "model": "glm-5.3"
+}

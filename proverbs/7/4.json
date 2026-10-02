@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Eñeʼẽ Ñarandu-pe: 'Nde ⟨את⟩ che ryke'; ha Kuaa rehe ehenói: 'che rykeguára.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Ñarandu-pe"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "che ryke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nde — Ñarandu-pe g̃uarã"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ha che rykeguára"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "Kuaa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ehenói"
+    }
+  ],
+  "timestamp": "2026-10-02T16:31:02.515803312Z",
+  "model": "glm-5.3"
+}

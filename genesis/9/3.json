@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Opaite mbaʼe oikóva oñemokõi hye rekópe, peẽme g̃uarã ⟨拇指 ha⟩ karu guarã; yva kaʼavo ysajaicha, che ameʼẽ peẽme ⟨את⟩ opavavéva.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mbaʼe oñemokõiva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme g̃uarã"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨opa⟩"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "karu guarã"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "ysajaicha"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "yva kaʼavo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che ameʼẽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opavavéva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavéva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:39.465281193Z",
+  "model": "glm-5.3"
+}

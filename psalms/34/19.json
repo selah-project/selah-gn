@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jahve oĩ mombyryʼỹ umi pyʼa oñembyasýva rehe, ha ⟨את⟩ umi ruah oñemonguʼíva omoʼã.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "oĩ mombyryʼỹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "umi oñembyasýva rehe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi ruah oñemonguʼíva"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "oñemonguʼíva"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "omoʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:43.978034010Z",
+  "model": "glm-5.3"
+}

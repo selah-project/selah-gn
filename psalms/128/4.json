@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 128,
+  "translation": "Máñaro, upéicha añetehápe oñemoñetéta pe kuimbaʼe iñaminduʼúva Jahve-re.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Máñaro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "oñemoñetéta"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "iñaminduʼúva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve-re"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:18.749392204Z",
+  "model": "glm-5.3"
+}

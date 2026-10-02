@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Mbohapy jey ary pukukuépe, nde kuimbaʼépa ojehecháta ⟨את⟩ Adonai Jahve, Jisrael Elohim rovape.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Mbohapy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jey"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ary pukukuépe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ojehecháta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "nde kuimbaʼé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai Jahve rovape"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rovape"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:36.586525599Z",
+  "model": "glm-5.3"
+}

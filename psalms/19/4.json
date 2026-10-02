@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ndaipóri ñeʼẽ ha ndaipóri ñeʼẽnguéra — koʼãga peve ndaipóri hekuaáva iñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "koʼãga peve ndaipóri hekuaáva"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "hekoñembyasy ohendúva"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "iñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:03.364561829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha pe kavaju kuña ohecha ⟨את⟩ mal'aj Jahve, ha ondyryi ⟨את⟩ pe ita'ỹi gotyo, ha oĝuaúi ⟨את⟩ Bileam py pe ita'ỹi ryepýpe; ha upéi oĩve oity hag̃ua hese.",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֨רֶא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "הָאָת֜וֹן",
+      "gloss": "pe kavaju kuña"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mal'aj"
+    },
+    {
+      "surface": "מַלְאַ֣ךְ",
+      "gloss": "mal'aj"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וַתִּלָּחֵץ֙",
+      "gloss": "ondyryi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "הַקִּ֔יר",
+      "gloss": "pe ita'ỹi"
+    },
+    {
+      "surface": "וַתִּלְחַ֛ץ",
+      "gloss": "oĝuaúi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Bileam py"
+    },
+    {
+      "surface": "רֶ֥גֶל",
+      "gloss": "py"
+    },
+    {
+      "surface": "בִּלְעָ֖ם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "הַקִּ֑יר",
+      "gloss": "pe ita'ỹi"
+    },
+    {
+      "surface": "וַיֹּ֖סֶף",
+      "gloss": "oĩve"
+    },
+    {
+      "surface": "לְהַכֹּתָֽהּ",
+      "gloss": "oity hag̃ua hese"
+    }
+  ],
+  "timestamp": "2026-10-02T09:35:31.392018384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Pe ñeʼẽmeʼẽ ojapo ⟨את⟩ Avraham ndive, ha iñunga Jitshak-pe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ha iñunga"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Jitshak-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:08.468636180Z",
+  "model": "glm-5.3"
+}

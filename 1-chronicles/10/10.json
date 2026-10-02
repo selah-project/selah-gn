@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha omoĩ ⟨את⟩ imbokakuéra iñtupãkuéra ógape, ha ⟨את⟩ iñakãrakuʼa omoĩ peteĩteitépe Dagon ógapype.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbokakuéra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imbokakuéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "iñtupãkuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãrakuʼa"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "iñakãrakuʼa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "omoĩ peteĩteitépe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógapype"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-02T18:05:55.616223911Z",
+  "model": "glm-5.3"
+}

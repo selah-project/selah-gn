@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha opiraʼu ⟨את⟩ pe takuruʼi jehayhu ha oipoka ⟨את⟩ ipokãme ojueheguáicha.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "opiraʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe takuruʼi jehayhu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe takuruʼi jehayhu"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "oipoka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ipokãme"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ipokãme ojueheguáicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:34.538446283Z",
+  "model": "glm-5.3"
+}

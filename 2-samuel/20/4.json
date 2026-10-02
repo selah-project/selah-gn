@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Mburuvicha heʼi Amasa-pe: Ehenói che rérape ⟨את⟩ Jehuda kuimbaʼekuéra mbohapy ára pukukue, ha nde ekytã koʼápe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "ehenói"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rérape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda kuimbaʼekuéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "פה",
+      "gloss": "koʼápe"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ekytã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:33:06.116111223Z",
+  "model": "glm-5.3"
+}

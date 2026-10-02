@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Jahve, ehechauka chéve che paha, ha che ára-kuéra pehẽngue, mbaʼépa ⟨oĩ⟩; ha upéicha aikuaa mbaʼe hasarãha ⟨che⟩.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "ehechauka chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "che paha"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "ha pehẽngue"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "che ára-kuéra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼe hasarãha"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "hasarã"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:02.754920083Z",
+  "model": "glm-5.3"
+}

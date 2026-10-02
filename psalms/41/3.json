@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Jahve oñangareko hesekuéra ha ombotý chupe, ojapo chove iporãha yvýpe; ani remoĩ chupe iñapytuʼũme umi iñorairõhára poipe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "oñangareko hesekuéra"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ha ombotý chupe"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "ojapo chove iporãha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "remoĩ chupe"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "iñapytuʼũme"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "umi iñorairõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:36.089556281Z",
+  "model": "glm-5.3"
+}

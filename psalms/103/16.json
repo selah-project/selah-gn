@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Upévare yvytu ohasa hupévape, ha noĩvéima; henda oikue ndoikuaaovéima chupe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "yvytu"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hupévape"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ha noĩvéima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ikuaaovéima chupe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ve"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "henda oikue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:33.581020275Z",
+  "model": "glm-5.3"
+}

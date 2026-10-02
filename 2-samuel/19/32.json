@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Barzilai guiladita oguejy Roguelim-gui, ha ohesaʼỹijo ⟨את⟩ mburuvicha Yardén rehe, ohoguiã hag̃ua chupe ⟨את⟩ Yardén yvóry rupi.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Ha Barzilai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "guiladita"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Roguelim-gui"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ha ohesaʼỹijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén rehe"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "ohoguiã hag̃ua chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardén yvóry"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yardén yvóry rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T11:31:37.184491418Z",
+  "model": "glm-5.3"
+}

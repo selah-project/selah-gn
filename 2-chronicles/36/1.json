@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha umi yvy retãygua oguereko ⟨את⟩ Jehoajaz, Jochiahu raʼỹi, ha omoĩ chupe mburuvichárõ itúva rendápe Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "oguereko hikuái"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy retãygua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoajaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoajaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼỹi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jochiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "omoĩ chupe mburuvichárõ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:12.147524933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jahve ova oĩ umi ivaíva apohára rehe, oipeʼa hag̃ua yvy guive imanduʼa.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "umi apohára rehe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "oipeʼa hag̃ua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvy guive"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "imanduʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:43.977507853Z",
+  "model": "glm-5.3"
+}

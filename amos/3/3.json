@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "¿Mokõi ohótapa ojoajúpe, arakaʼeve ningo ndoñemohuʼáirõ?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ohótapa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Mokõi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojoajúpe"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "אם",
+      "gloss": "arakaʼeve ... rire"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "oñemohuʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T14:54:51.947815153Z",
+  "model": "glm-5.3"
+}

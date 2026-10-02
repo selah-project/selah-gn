@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oguereko ⟨את⟩ opaite eʼýra oĩva ñeʼẽpype, ha ⟨את⟩ eʼýrai huguiguasu yvategua, ha ⟨את⟩ mokõi kiʼãguasu kuarepe, ha ⟨את⟩ ijueʼýra; Moche omondýi chupekuéra altár ári.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite eʼýra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החלeb",
+      "gloss": "eʼýra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ñeʼẽpy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "eʼýrai huguiguasu yvategua"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "eʼýrai huguiguasu yvategua"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "huguiguasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mokõi kiʼãguasu kuarepe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kiʼãguasu kuarepe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijueʼýra"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ijueʼýra"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "omondýi chupekuéra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altár ári"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:42.756446245Z",
+  "model": "glm-5.3"
+}

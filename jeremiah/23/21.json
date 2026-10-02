@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Na-mondoiete ⟨את⟩ umi nabi kuéra, ha katu osarambi hikuái; che ndeʼareiete chupekuéra, ha oñeʼẽ nabi ramo hikuái.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "che mondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi nabi kuéra"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "umi nabi kuéra"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha kuéra"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "osarambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha kuéra"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "oñeʼẽ nabi ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T13:26:52.360025734Z",
+  "model": "glm-5.3"
+}

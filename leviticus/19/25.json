@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha pe poha arýpe karu ta peẽ ⟨את⟩ hy kuatia, ikatu hag̃uáicha oñembojehe'a hetave peẽme he iñemu. Che Jahve, peẽ Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ha pe arýpe"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "poha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "karu ta peẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hy kuatia"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "hy kuatia"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "ikatu hag̃uáicha oñembojehe'a hetave"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "he iñemu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:36.121435405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ehenói ⟨koʼã⟩, opaite ⟨tetãnguéra⟩; eipysa opaite umi oiko ko yvy apépe.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ehenói"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨koʼã⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "eipysa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "umi oiko"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ko yvy apépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:44.342491291Z",
+  "model": "glm-5.3"
+}

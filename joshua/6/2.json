@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Jahve ohecha Jehochua pe heʼi: Ehecha, ameʼẽma nde pópe ⟨את⟩ Jerijo ha ⟨את⟩ iñamburuvi, umi ñorairõhára mbaretekuéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ... heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohecha ... pe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽma"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nde pópe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerijo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerijo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñamburuvi"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "iñamburuvi"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "umi ñorairõhára"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "mbaretekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:19:38.297680133Z",
+  "model": "glm-5.3"
+}

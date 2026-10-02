@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 92,
+  "translation": "Jahve, nde rembiaporã reheve remombaʼeguasu cherehe remiandu porãme; nde po apopyre reheve aṽuʼa apurâ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "temombaʼeguasu cherehe remiandu porãme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "nde rembiaporã"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "nde po apopyre"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "aṽuʼa apurâ"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:29.936644806Z",
+  "model": "glm-5.3"
+}

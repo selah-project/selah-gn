@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Emomba'e ñande Elohim, tavayguakuéra, ha ehenduka hemomba'eguasu ñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Emomba'e"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ha ehenduka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hemomba'eguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:57.228345791Z",
+  "model": "glm-5.3"
+}

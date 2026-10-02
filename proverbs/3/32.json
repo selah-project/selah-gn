@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Térã, Jahve-vera guasu pe iñakãrata vaʼekue, ha ⟨את⟩ pe oiko morangatu ipyrũmby haʼehãicha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "térã"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "vera guasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "pe iñakãrata vaʼekue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe oiko morangatu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "pe oiko morangatu"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ipyrũmby haʼehãicha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:28:07.969220221Z",
+  "model": "glm-5.3"
+}

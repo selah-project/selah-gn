@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Upévare umi ivaíva ndoñemongakuaapáiti hekojojaha jave, umi jejavyre katu ndoikói marangatukuéra atýpe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "upévare rehe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo... i"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ndoñemongakuaapáiti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojojaha jave"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "umi jejavyre katu"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "atýpe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marangatukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:42.049722604Z",
+  "model": "glm-5.3"
+}

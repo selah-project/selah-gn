@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Upéarõ nache resaparaímoʼãi, ahecha jave ⟨pe⟩ opaite nde mbaʼejerure.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Upéarõ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…moʼãi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "resaparaí"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ahecha jave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨pe⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nde mbaʼejerure"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:03.725373988Z",
+  "model": "glm-5.3"
+}

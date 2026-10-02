@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha David omoĩ ⟨את⟩ umi ñeʼẽ iñpyʼape, ha oñembyasyete Akish, Gat mburuvicha rents.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "iñpyʼape"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iete"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuéra rents"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:28.023646410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Mikaijahu heʼi: Jahve reikove aja, upéva añeʼẽta ⟨את⟩ Jahve oheroséva chéve ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaijahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "reikove aja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upéva (Jahve oheroséva chéve)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-va"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oheroséva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "upéva (ñeʼẽ añeʼẽtáva)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "añeʼẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T12:00:51.707142976Z",
+  "model": "glm-5.3"
+}

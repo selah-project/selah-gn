@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Purahéi Jahve-pe, emomba'eguasu héra, emomarandu ipu'aka ára guive ára peve.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "emomba'eguasu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "emomarandu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ára guive"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ára peve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ipu'aka"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:56.604756304Z",
+  "model": "glm-5.3"
+}

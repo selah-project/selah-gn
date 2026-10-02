@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha opaite tavayguakuéra ohero iporãva ⟨את⟩ peẽ — peẽ yvy iporãva rehegua, heʼi Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "ohero iporãva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "opaite tavayguakuéra ohero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "peẽ oiko…rehegua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-02T15:24:21.520412963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Heʼívo: Ndeve ameʼẽta ⟨את⟩ yvy Kanaan, pe mbaʼejerure peẽ mbaʼerã.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Heʼívo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ndeve"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ameʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy Kanaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "mbaʼejerure peẽ mbaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:08.469028022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Eñaminduʼu cherehe, Jahve, ne retãrayhu aja, ehechajey cherehe ne ñemoñareĩme.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Eñaminduʼu cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ne retãrayhu aja"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "ehechajey cherehe"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ne ñemoñareĩme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:15.978356270Z",
+  "model": "glm-5.3"
+}

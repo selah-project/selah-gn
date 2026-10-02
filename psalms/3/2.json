@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jahve, mboýpa che akãrakuʼíva! Heta umi che jejuka heseʼyre ojupíva che rehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mboýpa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "! hetavaʼekue"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "che akãrakuʼíva"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Heta umi"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ojupíva"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:39.164566451Z",
+  "model": "glm-5.3"
+}

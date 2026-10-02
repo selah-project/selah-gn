@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Emoĩ ⟨את⟩ kuarepoti itave keturápe g̃uarã, ⟨i⟩ Areka Jeʼuka renondépe, ha emoĩ ⟨את⟩ pe telã okẽgua Michkán peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti itave"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "itave"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "keturápe g̃uarã"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Jeʼuka"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe telã"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pe telã"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "okẽgua"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Michkán peg̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:38.961405771Z",
+  "model": "glm-5.3"
+}

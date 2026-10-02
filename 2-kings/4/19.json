@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha heʼi ituápe: Che akã, che akã. Ha heʼi pe mitãme: Egueraha chupe isýpe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ituápe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "che akã"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "che akã"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mitãme"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "egueraha chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:04:38.703789545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ha amoĩta tapiaite iraʼỹi, ha imburuvicha rugua yvága áraicha.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ha amoĩta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "iraʼỹi"
+    },
+    {
+      "surface": "וככסאו",
+      "gloss": "ha imburuvicha rugua",
+      "surface_alt": null
+    },
+    {
+      "surface": "כימי",
+      "gloss": "yvága áraicha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:35.262082333Z",
+  "model": "glm-5.3"
+}

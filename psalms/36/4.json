@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Hiʼégui osẽva ñeʼẽkuéra haʼe vai ha mbaʼe kyʼa; oheja oikuaa porã ha ojapo porã.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽkuéra"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hiʼégui"
+    },
+    {
+      "surface": "און",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ha mbaʼe kyʼa"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "oikuaa porã"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ojapo porã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:28.927854944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Eju, mitakuéra, peñandu chéve; Jahve pyʼapotĩ amboʼéta peẽme.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Eju"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mitakuéra"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "peñandu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pyʼapotĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "amboʼéta peẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:41.913686075Z",
+  "model": "glm-5.3"
+}

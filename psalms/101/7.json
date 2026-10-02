@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 101,
+  "translation": "Ndoikomoʼãi oiko che róga ryepýpe pe apoha ñemigakuéra; pe oñeʼẽva ogaʼu ndopenamoʼãi che resãi renondépe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oikomoʼãi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "che róga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "apoha"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ñemiga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽva"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ogaʼu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "penamoʼãi"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:28.613482963Z",
+  "model": "glm-5.3"
+}

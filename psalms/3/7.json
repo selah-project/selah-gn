@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ndajasyri umi tapichakuéra hetaita oĩva che rekápe, oñemoĩ hikuái che jerere che rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nd…ri"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ajasy"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "hetaita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tapichakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…va"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "che jerere"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "oñemoĩ hikuái"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:53.809755806Z",
+  "model": "glm-5.3"
+}

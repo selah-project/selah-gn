@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha oiko pe ojeʼe haguéicha: ojeporoʼi ñandépe, ha upéicha ojuehe; chéve ⟨את⟩ che moĩjey che irũ rendápe, ha pevape ⟨את⟩ oñemongyra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haguéicha"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ojeporoʼi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandépe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ojuehe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ chéve",
+      "marks": "chéve (che moĩjey)"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "che moĩjey"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-pe"
+    },
+    {
+      "surface": "כני",
+      "gloss": "che irũ rendápe"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ha pevape",
+      "marks": "pevape (oñemongyra)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "oñemongyra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:59:24.146799625Z",
+  "model": "glm-5.3"
+}

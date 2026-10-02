@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Enói ndepytyvõ marangatu rendágui, ha Tsiyon-gui opytyvõ ndeve.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Enói"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ndepytyvõ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "marangatu rendágui"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ha Tsiyon-gui"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "opytyvõ ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:43.382432719Z",
+  "model": "glm-5.3"
+}

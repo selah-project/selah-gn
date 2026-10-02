@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha aheʼã pe malʼahápe oñeʼẽva che rekópe: maitépa koʼã? Ha heʼi cherehe: Koʼã haʼe ⟨pe⟩ umi takuruʼã omosarambi vaʼekue ⟨את⟩ Jihudá, ⟨את⟩ Jisrael ha Jerusalaim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "aheʼã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malʼahápe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "oñeʼẽva"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rekópe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maitépa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "umi takuruʼã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "omosarambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jihudá"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihudá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:06.816305168Z",
+  "model": "glm-5.3"
+}

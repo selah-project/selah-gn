@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Upevérõ, upe árape oñembovóita peẽ rehe, oñemopotĩ hag̃ua ⟨את⟩ peẽ opaite pe angaipágui; Jahve renondépe peñemopotĩta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upevérõ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "upe árape"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "יככפר",
+      "gloss": "oñembovóita"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽ rehe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "oñemopotĩ hag̃ua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite...-gui"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "pe angaipa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "peñemopotĩta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:29.003656358Z",
+  "model": "glm-5.3"
+}

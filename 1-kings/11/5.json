@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Shelomo oho Ashtoret — Tsidon-kuéra Elohim — rehe, ha Milkom — Amon-kuéra mbaʼe vai — rehe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Tsidon-kuéra"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Amon-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:30.631650819Z",
+  "model": "glm-5.3"
+}

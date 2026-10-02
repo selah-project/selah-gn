@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha umi mburuvichakuéra oñembyaty hikuái ko'ãvagui, ha ou hikuái, ha oñemohenda ojuehe ⟨y⟩ Merom rembe'y ikatu hag̃uáicha oñorãirõ Jisrael rehe.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "oñembyaty hikuái"
+    },
+    {
+      "surface": "כל",
+      "gloss": "umi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ãva"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha ou hikuái"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ha oñemohenda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojuehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨y⟩"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Merom"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "oñorãirõ hag̃ua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:26:34.510159982Z",
+  "model": "glm-5.3"
+}

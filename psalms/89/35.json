@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Nahániri aimbyai che ñeʼẽmeʼẽ, ha osẽva che rembýgui nahániri amoambue.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "aimbyai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ha osẽva"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "che rembýgui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "amoambue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:57.739773150Z",
+  "model": "glm-5.3"
+}

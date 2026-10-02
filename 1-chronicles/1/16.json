@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ arwadikuéra, ha ⟨את⟩ tsemarikuéra, ha ⟨את⟩ chamatikuéra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "arwadikuéra"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arwadikuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "tsemarikuéra"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "tsemarikuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "chamatikuéra"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "chamatikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:40.467820966Z",
+  "model": "glm-5.3"
+}

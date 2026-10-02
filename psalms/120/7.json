@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 120,
+  "translation": "Che shalom-che, ha che añeʼẽ vove, umi ñorãirõ rehegua.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom-che"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ha ... vove"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "che añeʼẽ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõ rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:44.597561444Z",
+  "model": "glm-5.3"
+}

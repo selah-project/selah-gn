@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Ñe'ẽjohái David pegua. Ayvate nde, che Eloha, ⟨nde⟩ mburuvicha, ha ajopa nde réra opa'ỹre, opaitevévo.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Ñe'ẽjohái"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David pegua"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ayvate nde"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "che Eloha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ha ajopa nde"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa'ỹre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "opaitevévo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:38.647757822Z",
+  "model": "glm-5.3"
+}

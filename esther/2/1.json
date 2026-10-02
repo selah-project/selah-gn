@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Koʼã mbaʼe rire, oñemomichĩ rire mburuvicha guasu Ajashveroch rage, omanuʼo ⟨את⟩ Vachti rehe, ha ⟨את⟩ pe ojapovaʼekue, ha ⟨את⟩ pe oñemoĩ vaʼekue hendivekuéra.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "koʼã mbaʼe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "oñemomichĩ rire"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "rage"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashveroch"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "omanuʼo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vachti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vachti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe ojapovaʼekue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe oñemoĩ vaʼekue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "oñemoĩ vaʼekue"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hendivekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:26:54.263238398Z",
+  "model": "glm-5.3"
+}

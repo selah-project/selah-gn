@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Che karúta ⟨את⟩ kachiãi soʼo, ha che yvúta ⟨את⟩ kachiãi ruguy?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Che karúta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "soʼo"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "kachiãi"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ha ruguy"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kachiãi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "che yvúta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:27.156891317Z",
+  "model": "glm-5.3"
+}

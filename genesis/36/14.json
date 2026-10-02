@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha koʼava oiko vaʼekue Oholivamá membykuéra, Aná raʼýikuéra, Tzivón raʼýikuéra, Esav rembireko; ha omongakaraipuʼa Esáv-pe ⟨את⟩ Ieích, ⟨את⟩ Iaalám ha ⟨את⟩ Koraj.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ha koʼava"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko vaʼekue"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholivamá"
+    },
+    {
+      "surface": "בת",
+      "gloss": "raʼýikuéra"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Aná"
+    },
+    {
+      "surface": "בת",
+      "gloss": "raʼýikuéra"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tzivón"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "rembireko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ha omongakaraipuʼa"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esáv-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ieích"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ieích"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Iaalám"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Iaalám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Koraj"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:45.973090239Z",
+  "model": "glm-5.3"
+}

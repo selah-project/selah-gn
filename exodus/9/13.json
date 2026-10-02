@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Jahve oñe'ẽ Moche peve: epyare'i ko'ẽme, epiro Parao renondépe, ha ere chupe: upéicha he'i Jahve, hebreokuéra Elohim: emondo ⟨את⟩ che retã, ha omba'apo che rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "epyare'i"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "ו התיצב",
+      "gloss": "ha epiro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebreokuéra"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "emondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che retã"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retã"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ha omba'apo che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:37.500891526Z",
+  "model": "glm-5.3"
+}

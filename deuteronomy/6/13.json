@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahve, nde Elohim, eñemombaʼeguasu haʼenduguikuéra; ha ⟨את⟩ chupe rembaʼapo, ha ije rérape reñeʼẽmeʼẽ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, nde Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "eñemombaʼeguasu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ha ⟨את⟩",
+      "marks": "chupe rembaʼapo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "rembaʼapo"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ha ije rérape"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "reñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T09:49:20.972809476Z",
+  "model": "glm-5.3"
+}

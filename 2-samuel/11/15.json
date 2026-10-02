@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ohai kuatiañeʼe ryepýpe heʼíva: Eheja ⟨את⟩ Urija ñorãirõ ijojahaʼavape tenonde, ha peẽ eñemombyry hese, oñenohẽ hag̃ua ha omano.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kuatiañeʼe ryepýpe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼíva"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "eheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tenonde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ijojahaʼava"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "eñemombyry"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "oñenohẽ hag̃ua"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ha omano"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:41.642812439Z",
+  "model": "glm-5.3"
+}

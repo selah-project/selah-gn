@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Upéicharupi Avraham oñemboʼe Elohim rehe, ha Elohim opohano ⟨את⟩ Avimélej, ⟨את⟩ hembireko ha ⟨את⟩ kuñakaraikuéra; ha umíva omanõ jey hikuái.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ha opohano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimélej"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimélej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hembireko"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ha kuñakaraikuéra"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "omanõ jey hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:16.447509693Z",
+  "model": "glm-5.3"
+}

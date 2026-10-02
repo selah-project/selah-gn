@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha ñorãirõ oiko Asa ha Baasha, Jisrael mburuvicha guasu, apytäe opa ara oikove aja.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ha ñorãirõ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytäe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa ara"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "oikove aja"
+    }
+  ],
+  "timestamp": "2026-10-02T11:53:23.300522002Z",
+  "model": "glm-5.3"
+}

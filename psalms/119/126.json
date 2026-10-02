@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Aravo, Jahve, ejapo hag̃ua; omboguepa ⟨את⟩ ne Tora.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Aravo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ejapo hag̃ua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "omboguepa"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ne Tora"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:41.936322614Z",
+  "model": "glm-5.3"
+}

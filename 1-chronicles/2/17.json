@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Avigaíl omemby ⟨את⟩ Amasa; ha Amasa itúva haʼe Jeter, ismaelgua.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Ha Avigaíl"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ha itúva"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ismaelgua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:00:29.023003087Z",
+  "model": "glm-5.3"
+}

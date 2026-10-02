@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Jahve hesed rehe aintáta opa henda ára peve; che jurúpe ambojekuaáta ne jeroviakatu peteĩ ñemoñarare guive ambue ñemoñarare peve.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opa henda ára peve"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aintáta"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "peteĩ ñemoñarare guive"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ambue ñemoñarare peve"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ambojekuaáta"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ne jeroviakatu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "che jurúpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:21.187811628Z",
+  "model": "glm-5.3"
+}

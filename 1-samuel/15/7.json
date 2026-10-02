@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Shaúl oha'ã ⟨את⟩ Amalek, Chavila-gui, reju hagua Chur peve, oĩva Mitsraim renondépe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "oha'ã"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Chavila-gui"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "reju hagua"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:22.426165374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨the⟩ yvypóra kuéra jerovia, ha ohendu Jahve ohechavaʼeha ⟨את⟩ Jisrael mitãnguéra ha ohechavaʼeha ⟨את⟩ ichupekuéra nderesarã, ha oñemboʼa okape ha oñemombaʼe.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "jerovia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yvypóra kuéra"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ohechavaʼeha"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ohechavaʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ichupekuéra nderesarã"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "nderesarã"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "oñemboʼa okape"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oñemombaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:17.496260928Z",
+  "model": "glm-5.3"
+}

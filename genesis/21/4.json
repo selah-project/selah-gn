@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Avraham oikatu Jitshak itaʼyra raʼy, poapy ára oguerekóvo, Elohim ojapose haguéicha ⟨את⟩ chugui.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "oikatu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼyra raʼy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "poapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haguéicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojapose"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:54.741659206Z",
+  "model": "glm-5.3"
+}

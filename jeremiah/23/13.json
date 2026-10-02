@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Shomron nabi-kuéra apytépe ahecha tavy: oñeʼẽ hikuái nabi ramo Baal rehe ha omoñemoñarõ ⟨את⟩ che retãygua, ⟨את⟩ Jisrael.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "nabi-kuéra apytépe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "oñeʼẽ nabi ramo"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal rehe"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "omoñemoñarõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che retãygua"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãygua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T13:28:56.649940862Z",
+  "model": "glm-5.3"
+}

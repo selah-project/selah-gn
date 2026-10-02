@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha pe kuña he'i: ¿⟨את⟩ máva piko ambojáta nde rehe? Ha katu he'i: ⟨את⟩ Shemuel emboja che rehe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe kuña"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máva"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ambojáta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "emboja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:01.948990783Z",
+  "model": "glm-5.3"
+}

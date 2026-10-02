@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jehochua oguereko ⟨את⟩ opaite ko yvy koʼãva: yvyty ha ⟨את⟩ opaite Ñemby ha ⟨את⟩ opaite Gochen yvy ha ⟨את⟩ yvype ha ⟨את⟩ Araba ha ⟨את⟩ Jisrael yvyty ha imbyvype.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ko yvy koʼãva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite Ñemby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Ñemby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite Gochen yvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Gochen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "yvype"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "yvype"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Araba"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jisrael yvyty"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael rehegua"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "ha imbyvype"
+    }
+  ],
+  "timestamp": "2026-10-02T10:26:39.695247494Z",
+  "model": "glm-5.3"
+}

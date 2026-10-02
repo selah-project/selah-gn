@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Nde ruakuéra rendápe og̃uahẽta nde ra'ýkuéra; emohu'ãta chuguikuéra sarjakuéra ramo opa ⟨⟨the⟩⟩ yvy ape ári.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "nde ruakuéra"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "og̃uahẽta"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nde ra'ýkuéra"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "emohu'ãta chuguikuéra"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "sarjakuéra ramo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy ape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:42.857785186Z",
+  "model": "glm-5.3"
+}

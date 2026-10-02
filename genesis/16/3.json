@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Sarai, Avraham rembireko, ogueru ⟨את⟩ Hagar, kuñataĩ Mitsraim-gua iñangirũrã, opakuévo ary pa Avraham oiko hague Kanaan yvýpe, ha omeʼẽ ⟨את⟩ Hagar Avrahápe, iménape, chupe isãrã.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "rembireko"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "kuñataĩ Mitsraim-gua"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "iñangirũrã"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "opakuévo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oiko hague"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avrahápe"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "iménape"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "isãrã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:40:03.889581363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Yehonatan ombohovái ⟨את⟩ Shaul isýpe, ha heʼi chupe: Mbaʼérepa omanotarã? Mbaʼépa ojapo?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ombohovái"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul isýpe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isýpe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "omanotarã"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-02T19:00:07.863931925Z",
+  "model": "glm-5.3"
+}

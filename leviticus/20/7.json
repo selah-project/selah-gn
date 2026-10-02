@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Upéicha peẽ pemongara'i peẽ voi, ha peẽ peikóta marangatu, chêgui che aína Jahve, peẽ Elohim.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "pemongara'i"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "peẽ peikóta"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chêgui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:20.686498009Z",
+  "model": "glm-5.3"
+}

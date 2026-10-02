@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ani emeʼe kembe nde resaikuépe, ha kembemichĩ nde pysakuépe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kembe"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "nde resaikuépe"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ha kembemichĩ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "nde pysakuépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:28:51.752211641Z",
+  "model": "glm-5.3"
+}

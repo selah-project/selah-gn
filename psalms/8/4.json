@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Che ahecha jave nde yvágakuéra, nde iñapysãkuéra rembiapo, jasy ha mbyjakuéra, ⟨pe⟩ remoĩrã vaʼekue;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ahecha jave"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "nde yvágakuéra"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "nde iñapysãkuéra"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ha mbyjakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "remoĩrã vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:24:19.017020379Z",
+  "model": "glm-5.3"
+}

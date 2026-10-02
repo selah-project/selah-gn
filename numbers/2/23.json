@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha iñorairõ aty ha umi ojepapapýva: po ha mbohapapy su ha irundy sa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ha iñorairõ aty"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ha umi ojepapapýva"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapapy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ha irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:55.245664678Z",
+  "model": "glm-5.3"
+}

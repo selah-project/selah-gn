@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha omoĩtaʼerã zevaj chelamim apytégui, mbaʼe tataíva Jahve mbaʼerã: ⟨את⟩ pe kyra ombojaháva ⟨את⟩ kerev, ha ⟨את⟩ opaite pe kyra oĩva kerev ári.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "omoĩtaʼerã"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "zevaj chelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mbaʼe tataíva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve mbaʼerã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kyra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "pe kyra"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ombojaháva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerev"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kerev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite pe kyra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "pe kyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kerev"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:11.935479745Z",
+  "model": "glm-5.3"
+}

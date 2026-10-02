@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha ojapyhy hikuái ⟨את⟩ mburuvicha, ha ogueraha ⟨את⟩ chupe Bavel mburuvichápe, Rivlápe; ha ohechauka ⟨את⟩ chupe hekojojahápe.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Bavel mburuvichápe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlápe"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:25:23.609960453Z",
+  "model": "glm-5.3"
+}

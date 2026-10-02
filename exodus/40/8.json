@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Emoĩ ⟨את⟩ pe okaraguaʼi ijerére, ha emoĩ ⟨את⟩ pe telã okaraguaʼi okẽ mbaʼéva.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe okaraguaʼi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pe okaraguaʼi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe telã"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pe telã"
+    },
+    {
+      "surface": "שער",
+      "gloss": "okẽ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "okaraguaʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:38.961910555Z",
+  "model": "glm-5.3"
+}

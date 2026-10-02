@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha pe vai rekovára omombaʼeguasu pe mbaʼe oipotáva iñakãrague, ha oguerovia pe virũrayhuvaʼekue, omaʼẽ vaíva Jahve rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "omombaʼeguasu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "vai rekovára"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "mbaʼe oipotáva"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iñakãrague"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ha pe virũrayhuvaʼekue"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "oguerovia"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "omaʼẽ vai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:56.042112266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "ha Ashriel rehegua ñemoñare aty — Ashriel-gua; ha Chekhem rehegua ñemoñare aty — Chekhem-gua.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "ha Ashriel rehegua"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare aty"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "Ashriel-gua"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "ha Chekhem rehegua"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare aty"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "Chekhem-gua"
+    }
+  ],
+  "timestamp": "2026-10-02T09:36:49.161872320Z",
+  "model": "glm-5.3"
+}

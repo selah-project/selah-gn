@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha oity ⟨את⟩ Moav, ha Moav-gua kuéra ojehu David ñemoñangatu, ogueruva minha hese.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav-gua kuéra"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ñemoñangatu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ogueruva"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:10.540799467Z",
+  "model": "glm-5.3"
+}

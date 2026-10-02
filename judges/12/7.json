@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jiftaj ohai'o ⟨את⟩ Jisrael rehe potei ary; ha upéi Jiftaj, Gilad-gua, omano, ha oñeñotỹ Gilad távakuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ohai'o"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "potei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaj"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gilad-gua"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "oñeñotỹ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "távakuéra apytépe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-02T10:46:29.148953411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha umi ⟨ojepyso⟩ hetakuéra che rehe, heʼi: ¡Ea, ea! Che rasã ohecha.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hetakuéra"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "¡Ea!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "¡Ea!"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "che rasã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:01.049636701Z",
+  "model": "glm-5.3"
+}

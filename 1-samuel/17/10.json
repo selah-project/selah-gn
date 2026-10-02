@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha pe pelishti he'i: Che ajerere ⟨את⟩ Jisrael ñorãirõ joapy kuéra rehe ko árape; ehe chéve peteĩ kuimba'e, ha ñorãirõta joja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha... he'i"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pe pelishti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ajerere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael ñorãirõ joapy kuéra"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ñorãirõ joapy kuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ehe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimba'e"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ha ñorãirõta"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "joja"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:29.725428554Z",
+  "model": "glm-5.3"
+}

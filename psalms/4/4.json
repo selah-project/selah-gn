@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha pekuaa Jahve ojoavy vaʼekue imbaʼetépe chakuaaha; Jahve ohendúta ahayhu jave chendive.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Ha pekuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ojoavy vaʼekue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chakuaaha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "imbaʼetépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohendúta"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ahayhu jave"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chendive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:01.953960177Z",
+  "model": "glm-5.3"
+}

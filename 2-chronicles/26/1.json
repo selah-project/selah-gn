@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha opaite Jehuda tavayguakuéra ohapyvu ⟨את⟩ Usiahu, haʼéva pokõi pa poteĩ ary oguerekóva, ha omombaʼe ⟨את⟩ chupe mburuvicháramo itúva Amatsiahu rendápe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ohapyvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Usiahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Usiahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "omombaʼe mburuvicháramo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Usiahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T18:31:06.956536156Z",
+  "model": "glm-5.3"
+}

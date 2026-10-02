@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha ohecha ⟨את⟩ Jisrael Elohim; ha ipýgui guapyha ojapo haguéicha yvypóra kuarepoti morotĩguáicha, sapeiro, ha yvágaguaicha ijahekaporãháicha.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ipýgui guapyha"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ipýgui guapyha"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ojapo haguéicha"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "morotĩguáicha"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sapeiro"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "yvágaguaicha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ijahekaporãháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:21.620768013Z",
+  "model": "glm-5.3"
+}

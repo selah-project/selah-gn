@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Yehuda opyta opa haimbeguéipe, ha Jerusalaim, membykuéra guive membykuéra peve.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "ha Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa haimbeguéipe"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ha Jerusalaim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "membykuéra guive"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "membykuéra peve"
+    }
+  ],
+  "timestamp": "2026-10-02T14:53:56.964214516Z",
+  "model": "glm-5.3"
+}

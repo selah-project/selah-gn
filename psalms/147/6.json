@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Jahve oipytyvõ ⟨ete⟩ umi imíva rehe, omog̃uahẽ katu yvy rehe umi ivaíva.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "oipytyvõ ⟨ete⟩"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "umi imíva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "omog̃uahẽ yvy rehe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "yvy rehe (pe)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:21.056911285Z",
+  "model": "glm-5.3"
+}

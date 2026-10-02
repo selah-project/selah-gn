@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha ⟨את⟩ mesa ha ⟨את⟩ opa mbaʼe ryru ijaéva, ha ⟨את⟩ tendy ryru ha ⟨את⟩ hembiapo, ha ⟨את⟩ takuru ketoret.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe ryru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mbaʼe ryru ijaéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tendy ryru"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "tendy ryru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hembiapo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "hembiapo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takuru ketoret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "takuru"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ketoret"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:25.679240514Z",
+  "model": "glm-5.3"
+}

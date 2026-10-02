@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 65,
+  "translation": "Ndeve ⟨oĩ⟩ pytu'urã teñomoingarã, Elohim, Tsiyon-pe, ha ndeve ojehupytýta ⟨pe⟩ ñe'ẽme'ẽ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ndeve"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "pytu'urã"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "teñomoingarã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon-pe"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ha ndeve"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ojehupytýta"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ñe'ẽme'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:01.558163939Z",
+  "model": "glm-5.3"
+}

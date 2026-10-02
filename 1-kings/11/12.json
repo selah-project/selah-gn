@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Peichahágui, nde árape ani ajapo David nde ru réi gereguápe; nde raʼy pógui ajáta chupe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "peichahágui"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "nde árape"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "réi gereguápe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde raʼy"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ajáta chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:04.224607237Z",
+  "model": "glm-5.3"
+}

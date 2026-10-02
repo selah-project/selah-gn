@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Oiko hag̃ua hekojoja ⟨את⟩ yvamateʼỹ ndive ha ⟨את⟩ jepeʼaʼỹ, ani jey ojaveve ojekarai ichugui yvypóra yvyguáva yvy yvégui.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "oiko hag̃ua hekojoja"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yvamateʼỹ"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "jepeʼaʼỹ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "jey ojaveve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ojekarai ichugui"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yvy yvégui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy yvégui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:35.984983313Z",
+  "model": "glm-5.3"
+}

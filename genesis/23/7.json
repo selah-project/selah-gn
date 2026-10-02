@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Avraham opuʼã, oñemboʼa yvy ape ava kuéra rehe, Jet taʼyra kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "oñemboʼa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ava kuéra rehe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy ape"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "taʼyra kuéra rehe"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Jet"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:27.484487544Z",
+  "model": "glm-5.3"
+}

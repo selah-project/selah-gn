@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Nde pópe aheja che ruah; nde remonguera ⟨את⟩ cherehe, Jahve, El añetegua.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "nde pópe"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "nde remonguera"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:50.307510286Z",
+  "model": "glm-5.3"
+}

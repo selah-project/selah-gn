@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Iñemoñare tapóta ipuʼakáva yvy ape ári, ha ⟨umi⟩ hekojoja ñemoñare aty oñemboʼaroyta.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tapóta"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoñare aty"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "hekojoja"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "oñemboʼaroyta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:20.823336646Z",
+  "model": "glm-5.3"
+}

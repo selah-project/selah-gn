@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Tsedek-pe Jahve oiko opa iñe'ẽ me'ẽre, ha hesed-pe opa iñapo pe'ãre.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Tsedek-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iñe'ẽ me'ẽre"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ha hesed-pe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "iñapo pe'ãre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:49.150731222Z",
+  "model": "glm-5.3"
+}

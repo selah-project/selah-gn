@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Térã reiko mema rehesarái ⟨את⟩ che retãygua kuéra oho hag̃uágui, péina aiguróta koʼẽrõ akãrachã mitãnguéra nde rembeʼýpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": " térã "
+    },
+    {
+      "surface": "אם",
+      "gloss": "reiko mema"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "reiko mema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "rehesarái oho hag̃uágui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che retãygua kuéra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãygua kuéra"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "péina"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "aiguróta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "koʼẽrõ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "akãrachã mitãnguéra"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "nde rembeʼýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:41.989082239Z",
+  "model": "glm-5.3"
+}

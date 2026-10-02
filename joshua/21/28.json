@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Yissaskhar tajýgui: ⟨את⟩ Kishion ha ⟨את⟩ hese okaháre, ⟨את⟩ Daberath ha ⟨את⟩ hese okaháre.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ha... tajýgui"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishion"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "okaháre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hese okaháre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "okaháre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hese okaháre"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:56.072847242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Tsevaot, embojevy ore; epero nde ára, ha jaipysyrãta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "embojevy ore"
+    },
+    {
+      "surface": "האר",
+      "gloss": "epero"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde ára"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ha jaipysyrãta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:14.382063021Z",
+  "model": "glm-5.3"
+}

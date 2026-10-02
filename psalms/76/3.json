@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Ha upéi, Shalem-pe iñakamby yvoty, Sion-pe hogaʼypy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha upéi"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Shalem-pe"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "iñakamby yvoty"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "hogaʼypy"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sion-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:53.399018617Z",
+  "model": "glm-5.3"
+}

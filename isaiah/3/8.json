@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jerusalaim osyete ha Jehuda oguejýma; peichahaguére iñeʼẽ ha iñjapopykuéra Jahve rehe — oñemoĩ haguā ijatyra resakuérare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "peichahaguére"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "osyete"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ha Jehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "oguejýma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "peichahaguére"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "ha iñjapopykuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "oñemoĩ haguā"
+    },
+    {
+      "surface": "עני",
+      "gloss": "resakuérare"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ijatyra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:26:17.568278088Z",
+  "model": "glm-5.3"
+}

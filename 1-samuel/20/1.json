@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "David oha'o Najot-gui, Ramah-pe, ou ha he'i Jonatan renondépe: mba'e ajapo? mba'e che mba'evai, ha mba'e che jejavy nde ru renondépe, guárõ oheka ⟨את⟩ che rekove.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "oha'o"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "Najot-gui"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramah-pe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "che mba'evai"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mba'e"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "che jejavy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "guárõ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che rekove"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:02.400356163Z",
+  "model": "glm-5.3"
+}

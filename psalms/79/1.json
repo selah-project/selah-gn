@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Ñe'ẽporãhai Asaf g̃uarã. Elohim, oguahẽ umi tetã ne mba'ererõyvýpe, omomba'egua ⟨את⟩ ne marangatu óga guasu, omoĩ ⟨את⟩ Jerusalaim ita rykuípe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ñe'ẽporãhai"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf g̃uarã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "oguahẽ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetã"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ne mba'ererõyvýpe"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "omomba'egua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne marangatu óga guasu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "óga guasu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ne marangatu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "ita rykuípe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:51.624418385Z",
+  "model": "glm-5.3"
+}

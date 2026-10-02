@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Achaz ogueru ⟨את⟩ viru ha ⟨את⟩ itajá ojejuhúva Jahve óga ryepýpe ha mburuvicha óga mbaʼejokuéra ryepýpe, ha omondo Assur mburuvichápe jopói ramo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viru"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "viru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itajá"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itajá"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ojejuhúva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga ryepýpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ha mbaʼejokuéra ryepýpe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ha omondo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichápe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "jopói ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T12:17:20.357488948Z",
+  "model": "glm-5.3"
+}

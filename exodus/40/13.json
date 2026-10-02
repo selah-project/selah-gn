@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Rejahoja va'erã ⟨את⟩ Aharon ⟨את⟩ marangatu aokuéra rehe, ha renohẽ va'erã ñandy hi'ári, ha remarangatu va'erã chupe, ha ojapóta pa'i tembiapo che rehe.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "rejahoja va'erã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marangatu aokuéra"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aokuéra"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "renohẽ va'erã ñandy hi'ári"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "remarangatu va'erã"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "ojapóta pa'i tembiapo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:19.234414246Z",
+  "model": "glm-5.3"
+}

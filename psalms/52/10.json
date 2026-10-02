@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Che katu ha'a yva ra'ỹi hovyũ Elohim rógape; ajerovi hesed Elohim rehe, opa'ỹre ha opa árape.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "yva ra'ỹi réra"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "hovyũ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "rógape"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ajerovi"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "hesed rehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opa'ỹre"
+    },
+    {
+      "surface": "וועד",
+      "gloss": "ha opa árape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:22.417748601Z",
+  "model": "glm-5.3"
+}

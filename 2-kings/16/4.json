@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ojapo jopói ha omutũ yvyrarakã yvate rendápe, yvyty yvatekuérape, ha opa yvyra hogue rerapeíva yguyre.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ojapo jopói"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "omutũ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "yvyrarakã yvate rendápe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha...yvatekuérape"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ha...yguyre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "hogue rerapeíva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:34.400585530Z",
+  "model": "glm-5.3"
+}

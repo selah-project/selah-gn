@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve ñeʼẽ ombosaʼyjopa umi sedra; ha Jahve ombosaʼyjopa ⟨את⟩ Levanon sedrakuéra.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ombosaʼyjopa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "umi sedra"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ha ombosaʼyjopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levanon sedrakuéra"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedrakuéra"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:30.306948480Z",
+  "model": "glm-5.3"
+}

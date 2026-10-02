@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Añetehápe oipysakãta ⟨את⟩ peẽme, peẽ omombaʼeguasu kañyhápe yvypóra rova ramo.",
+  "tokens": [
+    {
+      "surface": "הוכיח",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "oipysakãta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽme",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kañyhápe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rova"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "omombaʼeguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:51:20.351950566Z",
+  "model": "glm-5.3"
+}

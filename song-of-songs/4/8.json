@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Eju ⟨את⟩ che ndive Livanon-gui, che membymenarã; eju ⟨את⟩ che ndive Livanon-gui; ehecha Amana yvate guive, Senir ha Hermon yvate guive, jaguarete rokorógui, jaguarete'i yvyty-gui.",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ndive",
+      "marks": "Livanon"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Livanon-gui"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "che membymenarã"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ndive",
+      "marks": "Livanon"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Livanon-gui"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "eju"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "yvate guive"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Amana"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "yvate guive"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Senir"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ha Hermon"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "rokorógui"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "jaguarete"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "yvyty-gui"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "jaguarete'i"
+    }
+  ],
+  "timestamp": "2026-10-02T17:10:07.329099785Z",
+  "model": "glm-5.3"
+}

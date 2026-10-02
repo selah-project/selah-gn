@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Epu'ã, Jahve, ere nde pytu'u rã me; nde, ha nde ipu'aka mba'yru.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "epu'ã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "nde pytu'u rã me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ha ... mba'yru"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nde ipu'aka"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:43.146514557Z",
+  "model": "glm-5.3"
+}

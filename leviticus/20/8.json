@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha peẽ peñangarekóta ⟨את⟩ che jehai kuéra rehe, ha peẽ apojóta ⟨את⟩ hikuái; che Jahve, pemongara'íva peẽ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "peñangarekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jehai kuéra"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "che jehai"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ha peẽ apojóta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hikuái"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "pemongara'íva peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:20.686641195Z",
+  "model": "glm-5.3"
+}

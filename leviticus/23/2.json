@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Eñe'ẽ Jisrael membykuéra rehe ha ere chupekuéra: Jahve aravo kuéra, peẽ pe'ñe'ẽta ⟨את⟩ chupekuéra marangatu ñembyaty ramo, ko'ã ha'e che aravo kuéra.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ere"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "aravo kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "pe'ñe'ẽta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ñembyaty"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "che aravo kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:46.881778542Z",
+  "model": "glm-5.3"
+}

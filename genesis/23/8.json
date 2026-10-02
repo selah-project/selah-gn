@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha oñeʼẽ ⟨את⟩ hikuái ndive heʼi hag̃ua: peẽ remoñeʼẽrõ ⟨את⟩ peẽ reko, ⟨את⟩ che manóva ñongatu hag̃ua che resakãgui, erenduke che, ha eñomongeta cherehe Efron, Tsohar raʼy ndive.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hikuái ndive"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hag̃ua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "peẽ remoñeʼẽrõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ reko"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "peẽ reko"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ñongatu hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che manóva"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "che manóva"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "che resakãgui"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "erenduke che"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "eñomongeta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Efron ndive"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsohar"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:27.484694431Z",
+  "model": "glm-5.3"
+}

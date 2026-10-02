@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Jonatan oñoti ⟨את⟩ pe plisitia ñorãirõhoʼa oĩva Gibápe; ha umi plisitia ohendu, ha Shaúl omoĩ heta chofar opaite yvy ári heʼívo: Ehendu, peẽ Ebreokuéra.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ha oñoti"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe plisitia ñorãirõhoʼa"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ñorãirõhoʼa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plisitia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Gibápe"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ha ohendu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "umi plisitia"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ha Shaúl"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "omoĩ heta"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "chofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "peẽ Ebreokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:02:13.225680422Z",
+  "model": "glm-5.3"
+}

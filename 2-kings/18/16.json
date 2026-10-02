@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Upéicha aja, Chizkia oikutu ⟨את⟩ Jahve óga guasu okẽnguéra ha ⟨את⟩ umi ósa Chizkia, Yehuda mburuvicha, oñemoĩ hague ju reheve, ha omeʼẽ chupe Ashur mburuvichápe.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "upéicha aja"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "oikutu"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga guasu okẽnguéra"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "okẽnguéra"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "óga guasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi ósa"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "ósakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(hague)"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "oñemoĩ hague ju reheve"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ha omeʼẽ chupe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichápe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:02.792152589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Che pyta ojepyʼapy ha aiko peteĩ guyra island tekovái yvate ári.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "che pyta ojepyʼapy"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ha aiko"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "peteĩ guyra island"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "island"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvate ári"
+    },
+    {
+      "surface": "גג",
+      "gloss": "tekovái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:17.978173389Z",
+  "model": "glm-5.3"
+}

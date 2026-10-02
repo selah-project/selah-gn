@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha David ou Ornan peve, ha Ornan omaʼẽ ha ohechakuaa ⟨את⟩ David, ha osẽ goren gui, ha oñemboʼa David ñandypyra yvy peve.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "omaʼẽ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohechakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "goren"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "oñemboʼa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David rehe"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ñandypyra"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvy peve"
+    }
+  ],
+  "timestamp": "2026-10-02T19:35:19.015500369Z",
+  "model": "glm-5.3"
+}

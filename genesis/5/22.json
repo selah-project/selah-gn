@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Janok oguata ⟨את⟩ Elohim ndive omonguera rire ⟨את⟩ Metuchelaj, mbohapy sa ary, ha omonguera memby kuimbaʼe ha memby kuña.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "omonguera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuchelaj"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuchelaj"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ha omonguera"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "memby kuimbaʼe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha memby kuña"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:21.689294215Z",
+  "model": "glm-5.3"
+}

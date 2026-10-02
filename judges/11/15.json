@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha heʼi chupe: Péicha heʼi Jiftaj: Ndaipóri Jisrael oguerekóva ⟨את⟩ Moav yvy, ni ⟨את⟩ Amón mitãnguéra yvy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Péicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ndaipóri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oguerekóva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav yvy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Amón mitãnguéra yvy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    }
+  ],
+  "timestamp": "2026-10-02T10:45:34.774122237Z",
+  "model": "glm-5.3"
+}

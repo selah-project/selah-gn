@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Remuñe ne retãyguakuéra mbaʼeverãʼỹme, ha ndereñongatuvéi mbaʼeve hikuái repy rupive.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "remuñe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne retãyguakuéra"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "mbaʼeverãʼỹ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "mbaʼeverãʼỹme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde…-ʼỹ"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ndeñongatuvéi"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "hikuái repy rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:22.061898881Z",
+  "model": "glm-5.3"
+}

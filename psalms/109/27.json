@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Oikuaa hag̃ua ku péva ⟨haʼe⟩ ne po: nde, Jahve, nde ojapovaʼekue péva.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "oikuaa hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "péva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ojapovaʼekue péva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:16.466289600Z",
+  "model": "glm-5.3"
+}

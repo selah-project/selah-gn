@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ahaita laudo ári ⟨את⟩ umi ñeʼẽ umu oĩvaʼekue umi laudo ñepyrũguáva ári, umu rejoka vaʼekue, ha emoĩta chupekuéra mbaʼyru ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ha ahaita"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "laudo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oĩvaʼekue"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "laudo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "umi ñepyrũguáva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umu"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "rejoka vaʼekue"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ha emoĩta chupekuéra"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "mbaʼyru ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:53:57.052854902Z",
+  "model": "glm-5.3"
+}

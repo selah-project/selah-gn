@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Elohim ojupi terua ndive, Jahve chofar ñeʼẽ ndive.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "terua ndive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ñeʼẽ ndive"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chofar"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:09.535975629Z",
+  "model": "glm-5.3"
+}

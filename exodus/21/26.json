@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha oiméramo peteĩ kuimbaʼe oity ⟨את⟩ ikuimbaʼetembiguái resá térã ⟨את⟩ ikuñatembiguái resá, ha ombyai chupe, sãsópe omondo vaʼerã chupe iñresá rangue.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ha oiméramo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "oity"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuimbaʼetembiguái resá"
+    },
+    {
+      "surface": "עין",
+      "gloss": "resá"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ikuimbaʼetembiguái"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuñatembiguái resá"
+    },
+    {
+      "surface": "עין",
+      "gloss": "resá"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ikuñatembiguái"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "ha ombyai chupe"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "sãsópe"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "omondo vaʼerã chupe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangue"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "iñresá"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:29.814324628Z",
+  "model": "glm-5.3"
+}

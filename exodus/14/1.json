@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Jahve oñeʼẽ Moichépe heʼivo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moiché"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼivo"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:14.379930748Z",
+  "model": "glm-5.3"
+}

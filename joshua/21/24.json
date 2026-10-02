@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Aialon ha ⟨את⟩ iguara migraš, ⟨את⟩ Gat-Rimon ha ⟨את⟩ iguara migraš: táva irundy.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aialon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aialon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iguara migraš"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iguara migraš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iguara migraš"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iguara migraš"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:32.854030808Z",
+  "model": "glm-5.3"
+}

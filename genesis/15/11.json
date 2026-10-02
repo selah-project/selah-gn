@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha guyra hoʼóva oguejy umi soʼo omanóva ári, ha Avram ombogyke umía.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "guyra hoʼóva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "umi soʼo omanóva"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ombogyke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umía"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-10-02T07:38:50.932141518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Jahve ohóta juez ramo, ojuehéta che ha nde apytépe, ohecháta ha oñeha'ãta ⟨את⟩ che mba'era'ã rehe, ha ohejáta che ne pógui.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "juez ramo"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ojuehéta"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "che ha"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "nde apytépe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecháta"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "oñeha'ãta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che mba'era'ã"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "che mba'era'ã rehe"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ohejáta che"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ne pógui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:12.914903443Z",
+  "model": "glm-5.3"
+}

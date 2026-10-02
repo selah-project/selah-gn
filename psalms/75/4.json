@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Ojasare yvy ha opaite oikóva ipype; che ahypyʼũ hogue kuaitaiguasu. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "ojasare"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "oikóva ipype"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ahypyʼũ"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "hogue kuaitaiguasu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:45.539762283Z",
+  "model": "glm-5.3"
+}

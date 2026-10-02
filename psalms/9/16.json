@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Oitypy hikuái umi tetã yvakuʼérape ojapovaʼekue; jahípe omongaʼivaʼekue, kóva ipýra ojapyhy.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "Oitypy hikuái"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetã"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "yvakuʼérape"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "jahípe"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "omongaʼivaʼekue"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ipýra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:58.528007608Z",
+  "model": "glm-5.3"
+}

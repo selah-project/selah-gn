@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Ome'ẽ mymbakuérape hembi'u, kuãnguéra ra'ýpe umi ohekaséva.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Ome'ẽ"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "mymbakuérape"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "hembi'u"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuãnguéra ra'ýpe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kuãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ohekaséva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:15.332701329Z",
+  "model": "glm-5.3"
+}

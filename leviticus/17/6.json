@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha pe paʼi omonanga ⟨את⟩ tuguy Jahve jopóiha ári, Juajuha Tenda jeikehápe, ha omonandi evyra, vyʼa tyai ramo Jahve peve.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "ha omonanga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuguy"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jopóiha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeikeha"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Juajuha"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ha omonandi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "evyra"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "tyai"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "vyʼa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve peve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:49:11.735933323Z",
+  "model": "glm-5.3"
+}

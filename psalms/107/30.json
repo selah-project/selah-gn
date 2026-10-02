@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha ovyʼa porã opa rire hikuái, ha Jahve omondo ⟨את⟩ chupekuéra hóga rokẽme oipotahápe.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ha ovyʼa porã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "opa rire"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "hikuái (oñemokirirĩ hague)"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "hóga rokẽme"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "oipotahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:22.713686260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Aikuaa nde ikatuha opa mbaʼe, ha ndaipóri apopyrã ikatuvaʼerã ojeipeʼa ndendive.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Aikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "nde ikatuha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "ojeipeʼa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndendive"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "apopyrã"
+    }
+  ],
+  "timestamp": "2026-10-02T19:28:11.951971588Z",
+  "model": "glm-5.3"
+}

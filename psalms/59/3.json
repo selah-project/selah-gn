@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Eipeʼa che mbaʼevaijua apohakuéra gui, ha ehesape che umi tuguy rehekuéra gui.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "eipeʼa che"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "apohakuéra gui"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaʼevaijua"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ha umi gui"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tuguy rehekuéra"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ehesape che"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:16.331637990Z",
+  "model": "glm-5.3"
+}

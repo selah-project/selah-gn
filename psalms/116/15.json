@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Iporãguasu Jahve resápe omano hague chesed-ygua kuéra.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "iporãguasu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "omano hague"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "chesed-ygua kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:42.005921359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha távagua kuimbaʼe kuéra oñeʼẽ Joach rehe: Egueru nde raʼy omano hag̃ua, haʼe ningo omboguejy ⟨את⟩ Baal mizbeaj ha oikapu pe Acherah oĩva hendive.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimbaʼe kuéra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "távagua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joach"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde raʼy"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde raʼy"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "omboguejy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal mizbeaj"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "oikapu"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "pe Acherah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hendive"
+    }
+  ],
+  "timestamp": "2026-10-02T10:38:27.367142451Z",
+  "model": "glm-5.3"
+}

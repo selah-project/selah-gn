@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Umi oguejýva yguasu-pe ygarata-pe, ombaʼapóva ýra hetaetépe.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "umi oguejýva"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yguasu-pe"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ygarata-pe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ombáʼapóva"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mbaʼapo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýra"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaetépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:25.679806071Z",
+  "model": "glm-5.3"
+}

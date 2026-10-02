@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Pe ára javeágui ojeʼuta hese, ani peheyby mondóima koʼẽ meve; che Jahve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pe ára javeágui"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "javeágui"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ojeʼuta hese"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "peheyby"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mondóima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:35.948602514Z",
+  "model": "glm-5.3"
+}

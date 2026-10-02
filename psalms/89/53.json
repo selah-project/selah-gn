@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Iñakãrapuʼa Jahve opa ára peve. Añeteguépe, ha añeteguépe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Iñakãrapuʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ára peve"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Añeteguépe"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ha añeteguépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:37.119456697Z",
+  "model": "glm-5.3"
+}

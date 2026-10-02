@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ijekove oiko mbaʼe porãme, ha iñemoñarã ojagaru ⟨yvy⟩.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "ijekove"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mbaʼe porãme"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ha iñemoñarã"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ojagaru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:41.450996067Z",
+  "model": "glm-5.3"
+}

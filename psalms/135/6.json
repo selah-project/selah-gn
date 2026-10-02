@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Opa mba'e Jahve oipotáva, kóva ojapo yvága pe, yvy pepo, yguasu pepo ha opaite y py guasu rekápe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opa mba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipotáva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvága pe"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "yvy pepo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "yguasu pepo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "y py guasu rekápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:17.948832397Z",
+  "model": "glm-5.3"
+}

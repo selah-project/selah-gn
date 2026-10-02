@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha peʼu ⟨את⟩ umi neziri toʼo kaguy, ha umi nabi rehe pemohendu ⟨ñeʼẽ⟩ heʼívo: ani peñeʼẽ nabi ramo.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "peʼu toʼo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi neziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "umi neziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "kaguy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "umi nabi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "pemohendu ñeʼẽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "peñeʼẽ nabi ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T19:19:14.463180821Z",
+  "model": "glm-5.3"
+}

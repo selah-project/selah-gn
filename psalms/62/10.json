@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Mbaʼevai añoite yvypóra kuéra; iñeʼẽrã kuimbaʼe kuéra jeguakóva: ojeiporu jave vokapeʼãme opeʼã hag̃ua, umi ojuehe voi — mbaʼevai gui voi voi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "iñeʼẽrã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe jeguakóva"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "vokapeʼãme"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "opeʼã hag̃ua"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umi"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "mbaʼevai gui"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ojuehe voi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:40.832131068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Jahve he'i Moche-pe: Ahecha ⟨את⟩ ⟨⟨tetã⟩⟩ ko, ha kóva ⟨ha'e⟩ peteĩ tetã iñongakã hatãva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨tetã⟩ ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "peteĩ tetã"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hatã"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "iñongakã"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:26.485088455Z",
+  "model": "glm-5.3"
+}

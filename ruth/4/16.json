@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Noomi oguere ⟨את⟩ pe mitã'i ha omoĩ chupe iñatýipe, ha haʼe oikó chupe moñangarekoháramo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oguere"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitã'i"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pe mitã'i"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "omoĩ chupe"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "iñatýipe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oikó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "moñangarekoháramo"
+    }
+  ],
+  "timestamp": "2026-10-02T19:28:43.008831802Z",
+  "model": "glm-5.3"
+}

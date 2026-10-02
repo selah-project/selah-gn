@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ahendu ⟨את⟩ pe oñeʼẽva umi nabi kuéra, oñeʼẽ hikuái nabi ramo che rérape, tai haʼévo, heʼi hagua: Aisa cherehe, aisa cherehe.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ahendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe oñeʼẽva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe oñeʼẽva"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "oñeʼẽ hikuái"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "umi nabi kuéra"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "oñeʼẽ hikuái nabi ramo"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "che rérape"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hagua"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aisa cherehe"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aisa cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:28:18.656488745Z",
+  "model": "glm-5.3"
+}

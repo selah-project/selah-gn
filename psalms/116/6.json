@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Jahve ohapehoko umi pyʼandumbýva rehe; che romomichĩ vaʼekue, ha cheve osãso.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ohapehoko"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "umi pyʼandumbýva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "che romomichĩ vaʼekue"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ha cheve"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "osãso"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:38.850265933Z",
+  "model": "glm-5.3"
+}

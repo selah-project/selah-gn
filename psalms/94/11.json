@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Jahve oikuaa ⟨את⟩ yvypóra jeikoha ñeʼẽpo, haʼekuéra ivaiha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "jeikoha ñeʼẽpo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ivaiha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:04.630567650Z",
+  "model": "glm-5.3"
+}

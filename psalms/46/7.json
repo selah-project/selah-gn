@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Tetãnguéra oñembohyapu, tavakuaakuéra ojerereko; ⟨Elohim⟩ omondo iñeʼẽ, yvy oñemonguʼi.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "oñembohyapu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "ojerereko"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tavakuaakuéra"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "oñemonguʼi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:51.548476289Z",
+  "model": "glm-5.3"
+}

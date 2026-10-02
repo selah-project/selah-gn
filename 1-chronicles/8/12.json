@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Elpaal raʼykuéra: Ever, Micham ha Chamad — haʼe omopuʼã ⟨את⟩ Ono ha ⟨את⟩ Lod, ha umi táva ijeréreguakuéra.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ha raʼykuéra"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Micham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Chamad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ha umi táva ijeréreguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:39.288754372Z",
+  "model": "glm-5.3"
+}

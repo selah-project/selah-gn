@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 124,
+  "translation": "upéicha ore ho'u va'ekue tekovépe, iñarõrõ jave iñaky ore rehe;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tekovépe"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ore ho'u va'ekue"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "iñarõrõ jave"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "iñaky"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ore rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:46.737837648Z",
+  "model": "glm-5.3"
+}

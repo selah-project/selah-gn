@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Upeicha David ojoko ⟨את⟩ umi iñirũnguéra ñeʼẽme ha ndorohejái opuʼã hag̃ua Saúl rehe; ha Saúl opuʼã ita kuáragui ha ohónte henda rape.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ojoko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi iñirũnguéra"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "iñirũnguéra"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ñeʼẽme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndorohejái"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "oroheja"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "opuʼã hag̃ua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ha Saúl"
+    },
+    {
+      "surface": "קם",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "ita kuáragui"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ha ohónte"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "rape"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:42.262699341Z",
+  "model": "glm-5.3"
+}

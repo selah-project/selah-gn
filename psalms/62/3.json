@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Añoite haʼe che ita ha che ñemongarai, che moirũha; nañemonguʼétai chete hetaiterei.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "che ita"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ha che ñemongarai"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "che moirũha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…ai"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ñemonguʼe chete"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hetaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:08.052614825Z",
+  "model": "glm-5.3"
+}

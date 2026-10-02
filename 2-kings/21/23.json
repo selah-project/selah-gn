@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha umi mbaʼapohára Amon.gui ojoaju kyreʼỹme chupe rehe, ha ojuka ⟨את⟩ pe mburuvicha hogaʼype.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "ojoaju kyreʼỹme"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umi mbaʼapohára"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chupe rehe"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "hogaʼype"
+    }
+  ],
+  "timestamp": "2026-10-02T12:20:22.078857864Z",
+  "model": "glm-5.3"
+}

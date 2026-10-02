@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Ahajverai ⟨את⟩ Jahve che areko aja; apurahéi che Elohim-pe, che aima peve.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ahajverai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "che areko aja"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "apurahéi"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "che Elohim-pe"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "che aima peve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:56.048983578Z",
+  "model": "glm-5.3"
+}

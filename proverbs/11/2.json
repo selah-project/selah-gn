@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Oúvo seseʼyre, ou kyhyjerã; ha ⟨את⟩ umi ñeminduʼíva ndive ⟨oĩ⟩ arandu.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "oúvo"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "seseʼyre"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kyhyjerã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñeminduʼíva"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "umi ñeminduʼíva"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "arandu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:33:16.108649215Z",
+  "model": "glm-5.3"
+}

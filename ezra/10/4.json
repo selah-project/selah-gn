@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "¡Epuʼã, ndéve ári ko mbaʼe, ha roke ndendive; ejepyʼamongeta ha ejapo!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "epuʼã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "umírupi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ndéve ári"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "roke"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndendive"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ejepyʼamongeta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ejapo"
+    }
+  ],
+  "timestamp": "2026-10-02T17:48:26.003279186Z",
+  "model": "glm-5.3"
+}

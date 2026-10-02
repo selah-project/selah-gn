@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Che ajohýi ha aguejy ⟨pe⟩ yvyty gui, ha amoĩ ⟨את⟩ umi kuatiakuéra pe arón-pe che ajapóva, ha upépe oime Jahve chéve oñemoĩ háicha.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ajohýi"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "aguejy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "amoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kuatiakuéra"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "kuatiakuéra"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "arón-pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che ajapóva"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "oime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "háicha"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "oñemoĩ chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:52.174881684Z",
+  "model": "glm-5.3"
+}

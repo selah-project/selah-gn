@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Jahve Adonai, che ñanganoina ñesããngue, nde ombo'ypy che akã ñorãirõhagua árape.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ñanganoina"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "che ñesããngue"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "nde ombo'ypy"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "che akã"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ñorãirõhagua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:46.305985726Z",
+  "model": "glm-5.3"
+}

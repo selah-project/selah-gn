@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Jahve Téra aikuaauka hag̃ua, pemeʼẽ tuichakue ñande Elohim-pe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Téra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aikuaauka"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "pemeʼẽ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ñande Elohim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:13:31.054789373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Che pyʼapy ñeʼẽ rehe, che pokue oñembojoaju che roʼo rehe.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "che pyʼapy ñeʼẽ rehe"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "che pyʼapy"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "oñembojoaju"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "che pokue"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "che roʼo rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:17.977929414Z",
+  "model": "glm-5.3"
+}

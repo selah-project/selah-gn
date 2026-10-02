@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Che ári Jahve oity peẽ ári ruah ñeikerã, ha omboty ⟨את⟩ peẽ resa — ⟨את⟩ nabi kuéra — ha ⟨את⟩ peẽ akãnguéra, pe hoʼáva hese kuéra, ojahoʼi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jaheicha"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "oity"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽ ári"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ñeikerã"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "ha omboty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ resa"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "peẽ resa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi kuéra"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "peẽ akãnguéra"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "peẽ akãnguéra"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "pe hoʼáva hese kuéra"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ojahoʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:44:03.408784206Z",
+  "model": "glm-5.3"
+}

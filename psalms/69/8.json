@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Nde rejeguáre aipo aguereko ñeʼẽ vai rehe; ñemondýi omboja che rovake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "aipo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde rejeguáre"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aguereko"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ñeʼẽ vai"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "omboja"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ñemondýi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che rovake"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:37.977972053Z",
+  "model": "glm-5.3"
+}

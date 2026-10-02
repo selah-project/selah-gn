@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha mburuvicha omoĩ ⟨את⟩ kuarepoti ha ⟨את⟩ itaju Jerusalaim-pe ita-chaicha, ha ⟨את⟩ kedro yvyrakuéra omoĩ sykomora-icha, oĩva yvyityapeguápe, hetaiterei.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itaju"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "ita-chaicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kedro yvyrakuéra"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "kedro yvyrakuéra"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "sykomora-icha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "yvyityapeguápe"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "hetaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T18:16:58.157080035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Kaneʼõva rekove oipota ha noĩri; ha umi imbaʼapoporãva rekove ohupyty hetaiterei.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha noĩri"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kaneʼõva"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ha rekove"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "umi imbaʼapoporãva"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ohupyty hetaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T16:33:57.376752345Z",
+  "model": "glm-5.3"
+}

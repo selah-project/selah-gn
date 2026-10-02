@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 98,
+  "translation": "Chatzotzerot ndive ha chofar ñeʼẽ ndive, eñehonara'i чehe pe Jahve mburuvicha retã mboyve.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "chatzotzerot ndive"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ha ñeʼẽ ndive"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "chofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "eñehonara'i чehe pe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha retã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:22.842434765Z",
+  "model": "glm-5.3"
+}

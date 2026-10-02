@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Aharon ra'ýpe g̃uarã, pa'i, ome'ẽ hikuái ⟨את⟩ oheja hagua tavusu pe jukaévape, ⟨את⟩ Chevron iñeka'aguy ndive, ha ⟨את⟩ Livna ha ⟨את⟩ iñeka'aguy.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ra'ýpe g̃uarã"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ome'ẽ hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oheja hagua tavusu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tavusu"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "oheja hagua"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pe jukaéva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeka'aguy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iñeka'aguy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeka'aguy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iñeka'aguy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:54.460125605Z",
+  "model": "glm-5.3"
+}

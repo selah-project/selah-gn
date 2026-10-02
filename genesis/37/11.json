@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ijoyke'ykuéra oavy chugui; ha iru orenói ⟨את⟩ pe ñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "oavy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ha iru"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "orenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñe'ẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe ñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:37.498181455Z",
+  "model": "glm-5.3"
+}

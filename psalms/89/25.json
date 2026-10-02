@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Che mañaminduʼu ha che hesed oĩ hendive, ha che rérape ojepyso itysĩ.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "che mañaminduʼu"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "che hesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "che rérape"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "itysĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:19.627899185Z",
+  "model": "glm-5.3"
+}

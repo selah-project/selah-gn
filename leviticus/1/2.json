@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Eñeʼẽ Jisrael membykuérape ha ere chupekuéra: Oimérõ peteĩ kuimbaʼe peẽ apytépe ogueru korban Jahve-pe, mbaʼererãguigua apytégui — vaka kuéra apytégui ha ovecha kuéra apytégui — peẽ ogueru ta ⟨את⟩ peẽ korban.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ere"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oimérõ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "peẽ apytégui"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mbaʼererãguigua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "vaka kuéra"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha apytégui"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ovecha kuéra"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ogueru ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ korban"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "peẽ korban"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:15.584108198Z",
+  "model": "glm-5.3"
+}

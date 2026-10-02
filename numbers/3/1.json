@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha koʼãva Aharon ha Moche ñemoñare, ára oñeʼẽ hague Jahve ⟨את⟩ Moche rehe, Sínai yvtyryréipe.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ha koʼãva"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ha Moche"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ hague"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvtyryréipe"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínai"
+    }
+  ],
+  "timestamp": "2026-10-02T09:16:17.433284136Z",
+  "model": "glm-5.3"
+}

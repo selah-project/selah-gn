@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Ha Jisrael he'i Josepe: Ko árape amanõta, che recha rire ⟨את⟩ nde jesareko, nde reikorohaguare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Josepe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "amanõta"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "che recha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde jesareko"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde jesareko"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עודך",
+      "gloss": "nde reiko"
+    },
+    {
+      "surface": "חי",
+      "gloss": "reikorohaguare"
+    }
+  ],
+  "timestamp": "2026-10-02T08:03:49.729518167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Jahve, yvágape nende hesed; nende emuna ohópe peve pesãnguéra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nende hesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "nende emuna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ohópe peve"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pesãnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:47.692627952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Jehochua omboaje ⟨את⟩ kuéra-pe he'ívo: ani peẽ ehenói, ani peẽ ejasavo ⟨את⟩ peã ñe'ẽ, ani peteĩ ñe'ẽ osẽ peã juruégui, ára peve che ahe'ívo peẽme: Ehenói; upéicharõ peẽ ohenóita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuéra (tetã kuéra)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omboaje"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ehenói"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "ejasavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peã ñe'ẽ"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "peã ñe'ẽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "peã juruégui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ára peve"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ahe'ívo"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ehenói"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "peẽ ohenóita"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:37.377679877Z",
+  "model": "glm-5.3"
+}

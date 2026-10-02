@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Opa ára che jejarýi che renondépe, ha che ñembyahýi che retña oñemboja che ári.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "che jejarýi"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ha che ñembyahýi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che retña"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "oñemboja che ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:22.062481056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Yosef omoĩ ⟨את⟩ itúva ha ⟨את⟩ ijoykeʼýva kuéra, ha omeʼẽ chuguikuéra-pe yvy jaʼopy Mitsraim yvýpe, yvy iporãvévape, Raamses yvýpe, Paroh ojapo haguáicha.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijoykeʼýva kuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼýva kuéra"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha omeʼẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra-pe"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "yvy jaʼopy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "iporãvévape"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojapo haguáicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T08:03:34.564028777Z",
+  "model": "glm-5.3"
+}

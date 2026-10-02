@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Ha ne tsedek, Elohim, og̃uahẽ yvate yvateguápe; rejapo heta mbaʼe tuichaitereíva — Elohim, mávapa nde reheguájapa?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Ha ne tsedek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "og̃uahẽ peve"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yvate yvateguápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rejapo vaʼekuépe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "heta mbaʼe tuichaitereíva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nde reheguájapa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:59.568264167Z",
+  "model": "glm-5.3"
+}

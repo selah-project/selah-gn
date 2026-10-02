@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ahei che apysa mashal rehe; amboja che ñe'ẽñemi kinora ndive.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ahei"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "mashal rehe"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "che apysa"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "amboja"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinora ndive"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "che ñe'ẽñemi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:36.987674048Z",
+  "model": "glm-5.3"
+}

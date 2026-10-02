@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha che asarundyta peẽ ári y potĩ, ha peẽ potĩta; opaitégui peẽ mbaʼevaígui ha opaitégui peẽ taʼangágui che amopotĩta ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "che asarundyta"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽ ári"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "potĩ"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "ha peẽ potĩta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaitégui"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "peẽ mbaʼevai"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ha opaitégui"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "peẽ taʼanga"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "che amopotĩta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T14:32:20.398372362Z",
+  "model": "glm-5.3"
+}

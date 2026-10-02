@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Aheravy peẽme, amboña ⟨את⟩ peẽ, ambojeta ⟨את⟩ peẽ, ha ajapojey ⟨את⟩ che ñeʼẽmeʼẽ ⟨את⟩ peẽ ndive.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "aheravy"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "amboña"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ambojeta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ajapojey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:31.074309547Z",
+  "model": "glm-5.3"
+}

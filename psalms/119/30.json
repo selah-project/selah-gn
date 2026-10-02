@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Tape je'epyre aiporavo, nde hekojojaha kuéra amo che py'a renondépe.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "je'epyre"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "aiporavo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "nde hekojojaha kuéra"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "amo che py'a renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:37.790744322Z",
+  "model": "glm-5.3"
+}

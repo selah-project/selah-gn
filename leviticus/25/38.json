@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Che Jahve, peẽ Elohim, pe ahova ⟨את⟩ peẽ Mitsraim retãgui, ameʼẽ hag̃ua peẽ ⟨את⟩ Kenaan retã, aiko hag̃ua peẽ Elohim ramo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ahova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Mitsraim retãgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ameʼẽ hag̃ua"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaan retã"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aiko hag̃ua"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:03:43.375977086Z",
+  "model": "glm-5.3"
+}

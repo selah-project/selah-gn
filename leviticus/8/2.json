@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Egueru ⟨את⟩ Aharon ha ⟨את⟩ itaʼýkuéra ⟨את⟩ hendive, ha ⟨את⟩ umi ao, ha ⟨את⟩ itu hovenonóva, ha ⟨את⟩ vakarai jejavyrã, ha ⟨את⟩ mokõi karaja, ha ⟨את⟩ kyse masot.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itaʼýkuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "itaʼýkuéra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hendive",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi ao"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "umi ao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itu hovenonóva"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "hovenonóva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "vakarai jejavyrã"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vakarai"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jejavyrã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mokõi karaja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "karaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "kyse masot"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "masot"
+    }
+  ],
+  "timestamp": "2026-10-02T18:46:59.976032529Z",
+  "model": "glm-5.3"
+}

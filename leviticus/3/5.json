@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Aharon membykuéra omyandy ⟨את⟩ upéva altar ári, pe mba'e oñemyandyitéva ári, oĩva yvyrakuéra ári, oĩva tata ári — mba'eporã tata peg̃uarã, mensũ iporãva Jahve g̃uarã.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "omyandy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "upéva (pe andyja)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altar ári"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe mba'e oñemyandyitéva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mba'eporã tata peg̃uarã"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mensũ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:27.229328724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Upévare umi mbaʼe vai apohára ojekaitahápe, ha umi ohaʼarõva Jahve rehe, umínte ojapýta yvy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "umi mbaʼe vai apohára"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "ojekaitahápe"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ha umi ohaʼarõva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umínte"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ojapýta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:33.127819095Z",
+  "model": "glm-5.3"
+}

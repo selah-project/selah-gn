@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ohechauka jejuruʼỹ ára, ha oporoʼĩ ⟨את⟩ Navot tavakuéra iñakãme.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "צום",
+      "gloss": "jejuruʼỹ ára"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "oporoʼĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "iñakãme"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:56:50.623246479Z",
+  "model": "glm-5.3"
+}

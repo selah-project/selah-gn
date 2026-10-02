@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Oúta ha omombeʼuta iñtsedek umi yvyporakuéra heñóivaʼerãme, che ojapahague.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "oúta"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "ha omombeʼuta"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "iñtsedek"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "umi yvyporakuéra"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "heñóivaʼerãme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapahague"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:28.575651572Z",
+  "model": "glm-5.3"
+}

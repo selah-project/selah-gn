@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha mburuvicha David iñarõma, ohókuri ára hetáre, ha ombo'a hikuái chupe aochakuérape, ha ndaipóri hese aku.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ha mburuvicha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "iñarõma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ohókuri"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ára hetáre"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ombo'a hikuái chupe"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "aochakuérape"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:10.153945285Z",
+  "model": "glm-5.3"
+}

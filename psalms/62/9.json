@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Eñemoĩ chupe jerovia opa árape, tavayguakuéra; ehundi pe korasõ ehaguévo iñapytuʼúpe: Elohim ⟨haʼe⟩ ñande ñemoĩha. Sela.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "eñemoĩ jerovia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "árape"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "ehundi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñapytuʼúpe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pe korasõ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ñemoĩha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:40.831878710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Ijukape guasúgui osẽ hikuái iñakãguapy; iñeʼẽngatuja kuñaroryguasu ohasáva opaite mbaʼe.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "osẽ hikuái"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ijukape guasúgui"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "iñakãguapy"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ohasáva"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "iñeʼẽngatuja"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kuñaroryguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:14.080597438Z",
+  "model": "glm-5.3"
+}

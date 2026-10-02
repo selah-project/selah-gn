@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Mordokai omombeʼu chupe ⟨את⟩ opa mbaʼe ojehasa vaʼekue hese, ha ⟨את⟩ kuatia kuarepoti mbaʼeguasu Haman oʼuka vaʼekue ohekelo hag̃ua mburuvicha mbyja guasúpe judío-kuéra rehegua, ombogue hag̃ua chuguakuéra.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "omombeʼu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe ojehasa vaʼekue hese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "ojehasa hese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuatia kuarepoti mbaʼeguasu"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "kuatia mbaʼeguasu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oʼuka"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "ohekelo hag̃ua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ape"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "mbyja guasu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "judío-kuéra rehegua"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ombogue hag̃ua chuguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:27:50.139136411Z",
+  "model": "glm-5.3"
+}

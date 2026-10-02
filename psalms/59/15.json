@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Ha ojevy hikuái kaʼarupe, ombopu jagua raʼỹíicha, ha ojere tava apére.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Ha ojevy hikuái"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "kaʼarupe"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ombopu"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jagua raʼỹíicha"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ha ojere"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tava apére"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:51.533063079Z",
+  "model": "glm-5.3"
+}

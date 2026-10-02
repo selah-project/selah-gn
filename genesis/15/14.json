@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha avei ⟨את⟩ pe tetã ombaʼapóta hikuãi chupe, ahaʼãta che; ha upéi rire osẽta hikuái mbaʼeguasu hetaitereíndive.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tetã"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "pe tetã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ombaʼapóta hikuãi chupe"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "ombaʼapóta hikuãi chupe"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ahaʼãta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "upéi rire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéi rire"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "osẽta hikuái"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "mbaʼeguasu hetaitereíndive"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hetaitereíva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:38:23.879513229Z",
+  "model": "glm-5.3"
+}

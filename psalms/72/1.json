@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Shelomo-pe g̃uarã. Elohim, emeʼẽ nde hekojojaha ⟨pe⟩ mburuvichape, ha nde tsedek mburuvicha raʼýpe.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo-pe g̃uarã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "nde hekojojaha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichape"
+    },
+    {
+      "surface": "תן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "ווצדקתך",
+      "gloss": "ha nde tsedek"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:57.170721961Z",
+  "model": "glm-5.3"
+}

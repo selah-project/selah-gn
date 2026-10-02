@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Shelomo omopuʼã ⟨את⟩ iñhóga pakõi mbohapy arýpe, ha omohuʼã ⟨את⟩ opaite iñhóga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñhóga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iñhóga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "omohuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iñhóga"
+    }
+  ],
+  "timestamp": "2026-10-02T11:44:09.490535449Z",
+  "model": "glm-5.3"
+}

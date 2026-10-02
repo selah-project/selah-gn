@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Che pyehẽ ojepoko ne rape apytépe; che pykuéra katu ndojeroky moʼã.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ojepoko"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "che pyehẽ"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ne rape apytépe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "katu ndo... moʼã"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "ojeroky"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "che pykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:52.265569586Z",
+  "model": "glm-5.3"
+}

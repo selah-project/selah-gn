@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Máva pa kóva, pe mburuvicha iñarõ tuichaitereíva? — Jahve, ipuʼakaitereíva ha katupyry, Jahve, ñorairõhára ñorairõme.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Máva"
+    },
+    {
+      "surface": "זה",
+      "gloss": "pa kóva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "iñarõ tuichaitereíva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "ipuʼakaitereíva"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ha katupyry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorairõme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:24.290633865Z",
+  "model": "glm-5.3"
+}

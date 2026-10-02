@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha péva peẽ ogueraha ⟨את⟩ Sikut, peẽ mburuvicha, ha ⟨את⟩ Kiun, peẽ raʼãngakuéra, peẽ tupã mbyja, peẽ apovaʼekue peẽ g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "peẽ mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Kiun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "peẽ raʼãngakuéra"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "mbyja"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ tupã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peẽ apovaʼekue"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "peẽ apovaʼekue"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T14:58:11.656417216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Marangatu oikuaaite ⟨tekorã⟩ hepurãraʼãnguérape; ha umi ivaikuaava vy'a'ÿ haʼe jejokaʼi.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "oikuaaite"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Marangatu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨tekorã⟩ hepurãraʼãnguérape"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "hepurãraʼãnguérape"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ha ... vy'a'ÿ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaikuaava"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "jejokaʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:31:53.838408496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Nde che añu'ã, Adonai Jahve, che ñemongu'eha che mitã'iy guive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "néi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "che añu'ã"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "che ñemongu'eha"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "che mitã'iy guive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:34.231393863Z",
+  "model": "glm-5.3"
+}

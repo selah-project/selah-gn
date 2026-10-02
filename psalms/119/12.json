@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde niko iñemombaʼeguáva, Jahve; emoarandu cherehe nde mbaʼe tee.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "iñemombaʼeguáva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "emoarandu cherehe"
+    },
+    {
+      "surface": "חוקיך",
+      "gloss": "nde mbaʼe tee"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:05.163251557Z",
+  "model": "glm-5.3"
+}

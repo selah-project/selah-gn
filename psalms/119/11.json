@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che korasõme añongatu nde ñeʼẽ, ani hag̃ua acherẽ nderehe.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "che korasõme"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "añongatu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "nde ñeʼẽ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "acherẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:05.163085461Z",
+  "model": "glm-5.3"
+}

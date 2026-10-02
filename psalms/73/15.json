@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Che ahechasérõ amoñeʼẽ kóicha, che akordapa: che poyhu nde raʼy kuéra róga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "che ahechasérõ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": ""
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "amoñeʼẽ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kóicha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "che akordapa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "róga"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nde raʼy kuéra"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "che poyhu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:41.648234402Z",
+  "model": "glm-5.3"
+}

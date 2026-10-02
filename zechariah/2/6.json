@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha ahe'i chupe: moõpa nde reho? Ha ha'e ohe'i che rehe: amboypyha ⟨את⟩ Jerusalaim, jahecha hag̃ua mboýpa iperekue ha mboýpa ipukukue.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ahe'i"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "moõpa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "reho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ohe'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "למד",
+      "gloss": "amboypyha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "jahecha hag̃ua"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "mboýpa"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "iperekue"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ha mboýpa"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ipukukue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:15:36.919729448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha ⟨את⟩ pende brásipe pegueraha, peñembojapy pejevy pe yvypóra rendápe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pende brásipe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "pende brásipe"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pegueraha"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "peñembojapy"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "pejevy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:03:03.529179389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 101,
+  "translation": "David mizmor. Hesed ha tekojoja rehegua che purahéita, nde rehe, Jahve; che ñembopúta purahéi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha tekojoja"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "che purahéita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "che ñembopúta"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:22.743212625Z",
+  "model": "glm-5.3"
+}

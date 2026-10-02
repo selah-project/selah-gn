@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Opytuʼa michī ha ndoñembohovái chupe ⟨את⟩ ñeʼẽ mbaʼeve, mburuvicha ojerurekuégui heʼívo: anheñembohovái chupe.",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "opytuʼa michī"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ñembohovái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ojerurekuégui"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an-"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "heñembohovái chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:46:51.214597472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Pe ojejuhúva hese ⟨את⟩, nde tembiguáikuéra apytépe, omanóta, ha jahecháta che jára tembiguáikuéra ramo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ojejuhúva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hese"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "nde tembiguáikuéra apytépe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "omanóta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jahecháta"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "jaikóta"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "tembiguáikuéra ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:45.574473282Z",
+  "model": "glm-5.3"
+}

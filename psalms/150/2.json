@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 150,
+  "translation": "Momorãpe chupe ipuʼaka guasúpe, momorãpe chupe ituichakue heta rupi.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "momorãpe chupe"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "ipuʼaka guasúpe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "momorãpe chupe"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "hetakue rechénte"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ituichakue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:07.366823641Z",
+  "model": "glm-5.3"
+}

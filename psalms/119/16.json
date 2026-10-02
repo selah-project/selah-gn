@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde laikuéra rehe che aikovyʼa, namandu'amo'ãi nde ñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "nde laikuéra rehe"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "che aikovyʼa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "mandu'amo'ãi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "nde ñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:55.257546951Z",
+  "model": "glm-5.3"
+}

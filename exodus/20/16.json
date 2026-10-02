@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ani reʼi ⟨marandu⟩ japu ne irũ ykegua rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "reʼi"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ne irũ ykegua rehe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨marandu⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "japu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:33.727883153Z",
+  "model": "glm-5.3"
+}

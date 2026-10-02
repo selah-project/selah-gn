@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Paroh pyʼa opyta mbarete, ha nomonohẽi ⟨את⟩ Jisrael taʼýra kuéra, ojueheguáicha oñeʼẽ hague Jahve Moche po rupive.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "opyta mbarete"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nomonohẽi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael taʼýra kuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra kuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojueheguáicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ hague"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po rupive"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:47.451279303Z",
+  "model": "glm-5.3"
+}

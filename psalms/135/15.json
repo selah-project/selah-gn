@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Tetãnguéra tupãmichĩ ⟨ꞌꞌ haʼe itaty ha itaju, yvypóra po apopy.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "tupãmichĩ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "itaty"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ha itaju"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "apopy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "po"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:01.829535166Z",
+  "model": "glm-5.3"
+}

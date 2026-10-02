@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve Elohim ñandéva omeʼẽ ñande pópe avei ⟨את⟩ Og, Bashan mburuvicha, ha ⟨את⟩ opaite iavakuéra; roity chupe, ndajahecáiri chupe oikovéva.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ñandéva"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ñande pópe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite iavakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iavakuéra"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "roity chupe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "oikovéva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:48:25.912584482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ani oheʼarõ umi heʼíva iñarõkuérape: Aje! Ore rekovirã; ani oheʼarõ umi heʼíva: Ojoruʼupa hese.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "oheʼarõ umi heʼíva"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "iñarõkuérape"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aje!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ore rekovirã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "oheʼarõ umi heʼíva"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "ojoruʼupa hese"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:33.458082119Z",
+  "model": "glm-5.3"
+}

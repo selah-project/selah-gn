@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha iñapytuʼũ ndahaʼéi ⟨⟨jojaháicha⟩⟩ hese, ha ndojeroviaikuái hembieja ñeʼẽmeʼẽme.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ha iñapytuʼũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨jojaháicha⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndojeroviai"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "nojeroviaporãi hikuái"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "hembieja ñeʼẽmeʼẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:46.774332978Z",
+  "model": "glm-5.3"
+}

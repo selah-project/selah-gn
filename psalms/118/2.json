@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Jisrael ñaneʼẽ koʼág̃a: hesed oiko opa ára peve.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "ñaneʼẽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ára peve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:14.834520504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Avram oho, upéichaitépe oñeʼẽ hague Jahve chupe; ha Lot oho hese ⟨את⟩. Ha Avram, osẽvo Harangui, oreko ary papo ary po poha.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upéichaitépe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ hague"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hese ⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "ha Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oreko"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po poha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ha papo ary"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "osẽvo"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Harangui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:31.462605415Z",
+  "model": "glm-5.3"
+}

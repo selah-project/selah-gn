@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Opaite yvy ijojahaʼýva okarã ha oñemboyvyra ichupe mboyve; opaite oho yvy pype oñepysĩ ichupe mboyve, ha pe imoroviʼỹva hemikove ndaikatumoʼãi oikove jey.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "okarã"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ha oñemboyvyra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ijojahaʼýva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ichupe mboyve"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "oñepysĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "oho"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "yvy pype"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ha hemikove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaikatumoʼãi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "oikove jey"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:28.575214400Z",
+  "model": "glm-5.3"
+}

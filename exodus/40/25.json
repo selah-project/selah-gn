@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha ombojakua umi lampára Jahve renondépe, upéicha ojapo Jahve oñemboja moʼã haguã ⟨את⟩ Moche.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ombojakua"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "umi lampára"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upéicha ojapo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oñemboja moʼã haguã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:47.159747080Z",
+  "model": "glm-5.3"
+}

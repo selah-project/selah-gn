@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ohupi hikuái ⟨את⟩ Jona ha omonda chupe para ryepýpe, ha para opytuʼu iñapytuʼũronguáigui.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ohupi hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "omonda chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "opytuʼu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "iñapytuʼũronguáigui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:32.561792441Z",
+  "model": "glm-5.3"
+}

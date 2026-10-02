@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha aní oiko kuimbaʼe kuéra ru-kuéra jaʼe: ñemoña ovaʼekuéva ha ombojeroóva, ñemoña nomoĩporãiva i korasõ, ha i ruah ndahaʼéi jeroviaha ⟨את⟩ El-pe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha aní"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "kuimbaʼe kuéra ru-kuéra jaʼe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoña"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ovaʼekuéva"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ha ombojeroóva"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoña"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nomoĩporãiva"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "i korasõ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha aní"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ndahaʼéi jeroviaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-pe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "i ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:34.180772153Z",
+  "model": "glm-5.3"
+}

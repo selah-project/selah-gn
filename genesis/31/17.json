@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Upévare Jaakov iñepyrendỹ, ha omongei ⟨את⟩ iñemoñarã ha ⟨את⟩ hembirekokuéra kamera ári.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "iñepyrendỹ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "omongeí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñemoñarã"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñarã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hembirekokuéra"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hembirekokuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamera"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:19.593675371Z",
+  "model": "glm-5.3"
+}

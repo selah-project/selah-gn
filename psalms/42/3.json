@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Che rekove ogykei Elohim rehe, El oikóva rehe; arakaʼépa aha ha ahecha Elohim rechaukaha?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ogykei"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El rehe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "arakaʼépa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ha ahecha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rechaukaha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:12.855755970Z",
+  "model": "glm-5.3"
+}

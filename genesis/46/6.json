@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Ha ogueru ⟨את⟩ imymbakuéra ha ⟨את⟩ imba'erepykuéra ojaposéva Kanaan yvýpe, ha ou Mitsraim-pe, Jaakov ha opaite iñemoñare hendive ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imymbakuéra"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "imymbakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imba'erepykuéra"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "imba'erepykuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ojaposéva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hendive ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:12.496500346Z",
+  "model": "glm-5.3"
+}

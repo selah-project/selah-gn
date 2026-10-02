@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ijuru ijáva ñe'ẽ vai, manga ha jopy; iñe'ẽ guýpe oĩ mba'asy ha jeko vai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ñe'ẽ vai"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ijáva"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "manga"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "jopy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mba'asy"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "jeko vai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:34.364031387Z",
+  "model": "glm-5.3"
+}

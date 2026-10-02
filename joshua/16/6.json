@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha osẽ ⟨pe⟩ rembe'y paraguasu gotyo, pe Mikmetat yvategui; ha ojere ⟨pe⟩ rembe'y kuarahy resẽ ngotyo Taanat-Chilo peve, ha ohasa ⟨את⟩ chupe kuarahy resẽ ngotyo Janoa peve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "pe rembe'y"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "paraguasu gotyo"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "pe Mikmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "yvategui"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "ha ojere"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "pe rembe'y"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "kuarahy resẽ ngotyo"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanat-"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Chilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ha ohasa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (Taanat-Chilo)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Janoa"
+    }
+  ],
+  "timestamp": "2026-10-02T10:28:19.762446451Z",
+  "model": "glm-5.3"
+}

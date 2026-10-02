@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Upévare, umi yvypóra oikóva ko yvy apeype ojapo ⟨את⟩ opaite koʼã mbaʼe vai peẽ mboyveguápe, ha pe yvy oñembyai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite koʼã mbaʼe vai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "האל",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "umi yvypóra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko yvy apeype"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "peẽ mboyveguápe"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:15.169975369Z",
+  "model": "glm-5.3"
+}

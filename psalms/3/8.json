@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Eñemonguʼe, Jahve, eipysyrũ che, che Elohim: rejotĩ ⟨את⟩ opaite che ñorãirõhára iñakãngusu rehe, rejopi hikuái umi vaikuaáva rokuã.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "eñemonguʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "eipysyrũ che"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "rejotĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite che ñorãirõhára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "che ñorãirõhára"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "iñakãngusu rehe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "rokuã"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi vaikuaáva"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "rejopi hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:53.809945511Z",
+  "model": "glm-5.3"
+}

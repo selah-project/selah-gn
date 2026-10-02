@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Pe Ita Poʼi peteĩ oĩ yvategotyo, Mikmash renondépe, ha pe ambue ñembygotyo, Gueva renondépe.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "Pe Ita Poʼi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "yvategotyo"
+    },
+    {
+      "surface": "מול",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ha pe ambue"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ñembygotyo"
+    },
+    {
+      "surface": "מול",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gueva"
+    }
+  ],
+  "timestamp": "2026-10-02T11:02:09.799075828Z",
+  "model": "glm-5.3"
+}

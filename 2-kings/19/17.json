@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Oĩ añetegua, Jahve, Ashur mburuvichakuéra ombyai hikuái ⟨את⟩ umi tetãnguéra ha ⟨את⟩ ijyvykuéra.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Oĩ añetegua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ombyai hikuái"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tetãnguéra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijyvykuéra"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ijyvykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:20:20.178398704Z",
+  "model": "glm-5.3"
+}

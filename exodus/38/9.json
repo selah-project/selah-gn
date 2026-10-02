@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ojapo ⟨את⟩ korapy: ñemby yke, ñemby gotyo, korapy aovai linso morotĩ jahoipyre, sa amah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korapy"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "yke"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñemby"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ñemby gotyo"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "aovai"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linso morotĩ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "jahoipyre"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amah"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:32.121511347Z",
+  "model": "glm-5.3"
+}

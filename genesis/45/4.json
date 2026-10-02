@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Ha Josef heʼi ijoyke'ykuérape: Eñembyaty cherehe, peʼẽmbaʼe. Ha oñembyaty, ha heʼi: Che Josef, pe joyke'y, peñemú hague che ⟨את⟩ Mitsraim-pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "eñembyaty"
+    },
+    {
+      "surface": "נא",
+      "gloss": "peʼẽmbaʼe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "pe joyke'y"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hague"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "peñemu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:48.646927437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jahve omondo ⟨את⟩ Jerubbaal, ⟨את⟩ Bedan, ⟨את⟩ Jeftah ha ⟨את⟩ Shemuel, ha oipeʼa ⟨את⟩ peẽ pembyasyhára pógui, peẽ jerére oúvagui, ha peẽ oiko pyʼaguapýpe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jeftah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "pembyasyhára"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "jerére"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "peẽ oiko"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "pyʼaguapýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:26.809065715Z",
+  "model": "glm-5.3"
+}

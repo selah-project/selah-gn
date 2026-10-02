@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha pa'i ichagua opaite minha ojejy hína opaite; ndojeʼúi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ha opaite"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pa'i ichagua"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ojepype opaite"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ojejy hína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jeʼúi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:24.146874373Z",
+  "model": "glm-5.3"
+}

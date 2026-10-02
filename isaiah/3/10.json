@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jaʼe umi marangatupeguápe: iporãta chupekuéra, oikógui hikuái oikaru iñeikoha yvare.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Jaʼe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umi marangatupeguápe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oikógui"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yva"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "iñeikoha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "oikaru"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:22.822054856Z",
+  "model": "glm-5.3"
+}

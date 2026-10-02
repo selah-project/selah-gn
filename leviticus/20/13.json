@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuimba'e okéva ⟨את⟩ kuimba'e, kuña okéicha, mba'e iñañãva hikuái ojapo; omanova'erã hikuái mokõive, iñange hikuái.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ha kuimba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "okéva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuimba'e"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "okéicha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "mba'e iñañãva"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omanova'erã"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "hikuái omanova'erã"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "iñange"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:24.222521290Z",
+  "model": "glm-5.3"
+}

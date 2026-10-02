@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 21:1",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Pe ñeʼẽ oúva Jirmejáhu-pe ⟨את⟩ Jahve-gui, omondo ramo chupe mburuvicha Tsidkijahu ⟨את⟩ Pashjur, Malkijah raʼy, ha ⟨את⟩ Tsefanjah, Maasejah raʼy, paʼi, heʼívo:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Pe ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oúva"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-pe"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejáhu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ Jahve-gui",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "omondo ramo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pashjur"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashjur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Malkijah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Tsefanjah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Maasejah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T13:26:01.135019155Z",
+  "model": "glm-5.3"
+}

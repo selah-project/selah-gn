@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ovevýke Jahvére opa ⟨la⟩ yvy; hendivẽ ojekangy hyeguã opa umi oikóva yvy ári.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ovevýke"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvére"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hendivẽ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ojekangy hyeguã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yvy ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:14.956940870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Pelishtim oñembyaty ⟨את⟩ iñorãirõ atykuéra ñorãirõrã hagua, ha oñembyaty Sokoh-pe, oĩva Jehudá-pe, ha oñemohenda Sokoh ha Azeka mbytépe, Efes-Damim-pe.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñorãirõ atykuéra"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "iñorãirõ atykuéra"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõrã hagua"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudá-pe"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha … mbytépe"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:43.963829095Z",
+  "model": "glm-5.3"
+}

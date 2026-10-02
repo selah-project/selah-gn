@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Haʼe avei ojopo túmoi yvategua Jehuda yvytykuérape, ha omoakã ⟨את⟩ Jerusalaim rekohakuéra ojapo hague jeiko vai, ha omondoho ⟨את⟩ Jehuda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojopo"
+    },
+    {
+      "surface": "במות",
+      "gloss": "túmoi yvategua"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "yvytykuérape"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "omoakã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim rekohakuéra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "rekohakuéra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "omondoho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T19:37:08.936848861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha omyaña ⟨את⟩ toldo Michkan ári, ha omoĩ ⟨את⟩ toldo iñakãguasu yvate gotyo; upéicha Jahve omandá haguáicha Moche-pe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "omyaña"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toldo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "toldo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãguasu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "toldo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omandá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:18.285125928Z",
+  "model": "glm-5.3"
+}

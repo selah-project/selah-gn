@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 30:9",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Aníkena aimerova heta mbaʼe rekópe, ahechakuaaʼývo, ha aheʼi: Mávapa Jahve? Ha aníkena aimerova tekotevẽme, ambou ha ajapo vai che Elohim réra.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "aníkena"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "aimerova heta mbaʼe rekópe"
+    },
+    {
+      "surface": "וכחשתי",
+      "gloss": "ahechakuaaʼývo"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ha aheʼi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "ha aníkena"
+    },
+    {
+      "surface": "אורש",
+      "gloss": "aimerova tekotevẽme"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "ambou"
+    },
+    {
+      "surface": "ותפשתי",
+      "gloss": "ajapo vai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rera"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:43:36.181084998Z",
+  "model": "glm-5.3"
+}

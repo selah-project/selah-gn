@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Eñeʼẽ Elohim rehe: Mbaʼéichapa nde rembiapokuéra iñembyasy hína! Nde pu'ãngatu rupive, nde ñorãirõhárakuéra ojapo jepe tee nde reheguávo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Eñeʼẽ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼéichapa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "iñembyasy hína"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nde rembiapokuéra"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "rupekue"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nde pu'ãngatu"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ojapo jepe tee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ñorãirõhárakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:29.316809590Z",
+  "model": "glm-5.3"
+}

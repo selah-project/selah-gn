@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Moche oipysó ⟨את⟩ i po yvága ári, ha oiko ypytũ hũ Mitsraim yvy tujaiteháme, mbohapy ára pukukue.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ha oipysó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i po"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ypytũ"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "hũ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tujaiteháme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:01.541753685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ahecha ⟨את⟩ opavave ⟨umi⟩ tekove ohóva kuarahý guýpe, mitã mokõiha ndive, ha'e oisãmbyhyita hendíguarã.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opavave tekove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ohóva kuéra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahý"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "oisãmbyhyita"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hendíguarã"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:36.649332163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ogueru ⟨את⟩ umi mokõi kavara kuimbaʼe ha omoĩ ⟨את⟩ chuku Jahve renondépe, Tenda Juajuha rog̃uahẽhápe.",
+  "tokens": [
+    {
+      "surface": "וְלָקַח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "umi mokõi kavara kuimbaʼe"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "umi mokõi"
+    },
+    {
+      "surface": "הַשָּׂעִירִם",
+      "gloss": "kavara kuimbaʼe"
+    },
+    {
+      "surface": "וְהֶעֱמִיד",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "chuku (Jahve renondépe)"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פֶּתַח",
+      "gloss": "rog̃uahẽhápe"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "Tenda"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "Juajuha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:50.377614795Z",
+  "model": "glm-5.3"
+}

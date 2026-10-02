@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Elohim ojeikuaa Jehuda-pe, Jisrael-pe iñeʼẽ tuicha.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ojeikuaa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehuda-pe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:53.398879761Z",
+  "model": "glm-5.3"
+}

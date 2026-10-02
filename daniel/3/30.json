@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Upéicha mburuvicha omoĩ Shadrak, Mechak ha Aved Nego ypykatu rappingue ipukuvehápe Bavel tetã pehẽnguépe.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "omoĩ ypykatu rappingue"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrak-pe"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Mechak"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Aved Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "tetã pehẽnguépe"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-02T17:33:28.525319964Z",
+  "model": "glm-5.3"
+}

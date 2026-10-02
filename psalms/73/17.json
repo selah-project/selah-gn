@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Che aháme peve El marangatu rendápe, che aikuaa hikuái ipahague.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "che aháme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "marangatu rendápe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "che aikuaa"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "hikuái ipahague"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:33.454120887Z",
+  "model": "glm-5.3"
+}

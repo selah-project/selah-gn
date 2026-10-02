@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Ehecha che asy ha esãso chéve, ndajekái haguére che rehe nde Tora.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "che asy"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ha esãso chéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "nde Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "jekái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:53.122369251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Avei Jahve ome'ẽta mba'e porã, ha ñane yvy ome'ẽta iñpo'opy.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Avei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ome'ẽta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "mba'e porã"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ha ñane yvy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ome'ẽta"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "iñpo'opy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:38.960071081Z",
+  "model": "glm-5.3"
+}

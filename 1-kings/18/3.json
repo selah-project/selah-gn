@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ajav ohenói Ovadiahu peve, óga ári vaʼekuépe; ha Ovadiahu herai ⟨את⟩ Jahve, tuichaiterei.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadiahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "áva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ha Ovadiahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "niko"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "herai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuichaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T11:55:45.607755542Z",
+  "model": "glm-5.3"
+}

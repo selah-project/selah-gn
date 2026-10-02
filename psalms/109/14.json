@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Oñemanduʼa Jahve renondépe itúva kuéra jejavy, ha isy jejavy ani oñembogue.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "oñemanduʼa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "jejavy"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "itúva kuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ha isy jejavy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "oñembogue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:25.096335525Z",
+  "model": "glm-5.3"
+}

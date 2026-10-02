@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ajapo vuʼikuéra mizbeaj g̃uarã, chita yvyra vuʼikuéra, ha ahenói ⟨את⟩ chupe kuarepoti reheve.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "vuʼikuéra"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mizbeaj g̃uarã"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "vuʼikuéra"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chita"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ahenói"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (umi vuʼikuéra)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kuarepoti"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:44.754139561Z",
+  "model": "glm-5.3"
+}

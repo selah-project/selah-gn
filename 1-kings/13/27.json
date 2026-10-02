@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha iñemoñare rehe heʼi: Ehasa che rehe ⟨את⟩ karrumbói. Ha ohasa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Ehasa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karrumbói"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "karrumbói"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "Ha ohasa"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:24.951511521Z",
+  "model": "glm-5.3"
+}

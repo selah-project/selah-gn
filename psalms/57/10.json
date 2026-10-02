@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Ajaheoita nde rehe, Adonai, umi amo apytépe; ambopurahéita nde rehe umi tetãnguéra apytépe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ajaheoita nde rehe"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "umi amo apytépe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ambopurahéita nde rehe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "umi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "tetãnguéra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:37.151637606Z",
+  "model": "glm-5.3"
+}

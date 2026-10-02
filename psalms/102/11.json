@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Nde pyʼarory ha nde rage rehegui, porque nde che gueru yvate ha nde che rendo.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "rehegui"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "nde pyʼarory"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "ha nde rage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "nde che gueru yvate"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ha nde che rendo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:54.588841348Z",
+  "model": "glm-5.3"
+}

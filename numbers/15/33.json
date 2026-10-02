@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha umi ojuhúva chupe oñongatu jave yvyra rakã, ogueru ⟨את⟩ chupe Moche-pe, Aharon-pe ha ⟨את⟩ opaite aty-pe.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "umi ojuhúva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "oñongatu jave yvyra rakã"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yvyra rakã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moche-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Aharon-pe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "opaite aty-pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    }
+  ],
+  "timestamp": "2026-10-02T09:27:08.396721751Z",
+  "model": "glm-5.3"
+}

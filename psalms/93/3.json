@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 93,
+  "translation": "Ohupi umi ysyry, Jahve, ohupi umi ysyry iñeʼẽ; ohupíta umi ysyry imbyai yvype.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "umi ysyry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "umi ysyry"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ohupíta"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "umi ysyry"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "imbyai yvype"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:58.875476641Z",
+  "model": "glm-5.3"
+}

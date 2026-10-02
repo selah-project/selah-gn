@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha heʼi Avraham-pe: Emboguata ko kuñakymba ha ⟨את⟩ iñememby; pe kuñakymba raʼýra ndaiporamoʼãi oñemombaʼe che raʼýra ndive, Jitshak ndive.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham-pe"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Emboguata"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ko kuñakymba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñememby"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iñememby"
+    },
+    {
+      "surface": "כי",
+      "gloss": "péicha rupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaiporamoʼãi"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "oñemombaʼe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pe raʼýra"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kuñakymba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che raʼýra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:53.466570105Z",
+  "model": "glm-5.3"
+}

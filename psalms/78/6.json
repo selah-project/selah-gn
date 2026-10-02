@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ikatu hag̃uáicha oikuaaite ñemoña arapýpe ou vaʼerã, mitã orahavaʼerã; opuʼãta ha omombeʼuta iraʼy-kuérape.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃uáicha"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "oikuaaite"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoña"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "arapýpe ou vaʼerã"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "orahavaʼerã"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "opuʼãta"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ha omombeʼuta"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "iraʼy-kuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:34.180409158Z",
+  "model": "glm-5.3"
+}

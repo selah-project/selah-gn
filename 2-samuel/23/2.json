@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Jahve ruah oñeʼẽ che ryre, ha iñeʼẽ opyta che jure ári.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che ryre"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ha iñeʼẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "che jure"
+    }
+  ],
+  "timestamp": "2026-10-02T11:35:45.278520276Z",
+  "model": "glm-5.3"
+}

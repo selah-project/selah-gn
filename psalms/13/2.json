@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Mboy peve, Jahve, remonguetáne chéve tapiaite? Mboy peve emokañýta ⟨את⟩ nde reí chegui?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mboy peve"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "remonguetáne chéve"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Mboy peve"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "emokañýta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde reí"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde reí"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chegui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:49.195477261Z",
+  "model": "glm-5.3"
+}

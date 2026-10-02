@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "David-pe g̃uarã. Jahve che resakã ha che angirũ, avave pa che jahy'o? Jahve che rekove iñipytũ'ỹ hague, avave pa che jepy'apy?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "che resakã"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ha che angirũ"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "avave pa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "che jahy'o"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "iñipytũ'ỹ hague"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "avave pa"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "che jepy'apy"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:45.957602698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Emomba'eguasupe itu imbara'akuéra, emomba'eguasupe itu iñorãirõhára aty.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "emomba'eguasupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "imbara'akuéra"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "emomba'eguasupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "itu"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "iñorãirõhára aty"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:07.236159100Z",
+  "model": "glm-5.3"
+}

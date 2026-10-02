@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Che jára ojerure ⟨את⟩ imbaʼaporehára kuérape oñeʼẽ hag̃ua: ¿Peẽme oĩpa túva térã tykeʼýra?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Che jára"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼaporehára kuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imbaʼaporehára kuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oñeʼẽ hag̃ua"
+    },
+    {
+      "surface": "היש",
+      "gloss": "oĩpa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "אב",
+      "gloss": "túva"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "אח",
+      "gloss": "tykeʼýra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:02:21.059001690Z",
+  "model": "glm-5.3"
+}

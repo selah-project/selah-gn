@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Pe avanoʼõ ohendu ⟨את⟩ ko ñeʼẽ vai rire, oñembyasy, ha ndaipóri kuimbaʼe omoĩva iñambiokuéra hetére.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe avanoʼõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndaipóri…va"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "omoĩva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "iñambiokuéra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hetére"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:55.415303847Z",
+  "model": "glm-5.3"
+}

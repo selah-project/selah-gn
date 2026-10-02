@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve oñeʼẽ cherehe, heʼívo: Chehecha ⟨את⟩ ko tetã, ha péina, peteĩ tetã iñakã hatã ⟨haʼe⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Jahve oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Chehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko tetã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ko tetã"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha péina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "peteĩ tetã"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hatã"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:21.898980300Z",
+  "model": "glm-5.3"
+}

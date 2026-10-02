@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Upévare, che bojupi nde yvy kuʼígui ha amoneĩ nde che retã ári, Jisrael rehe; ha nde katu nde reho Yaroveam rape ha rehape ⟨את⟩ che retã Jisrael ojavy haguã, che mbopochy haguã ijejavy rehe.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "che bojupi nde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "yvy kuʼígui"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ha amoneĩ nde"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "isãrarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "nde reho"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "rape"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroveam"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "rehape ojavy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che retã Jisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "che mbopochy haguã"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "ijejavy rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:55:03.954245360Z",
+  "model": "glm-5.3"
+}

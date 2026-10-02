@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Chaúl, Jonatan itaʼýra ha umi tavaygua ijykére oĩva oiko Guivʼa Binyamín-pe; ha umi plisiti oñemohenda hikuái Mijmash-pe.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "ויהעם",
+      "gloss": "umi tavaygua",
+      "note": "SURFACE MISSPELL — actual והעם"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ijykére"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Guivʼa-pe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamín"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "umi plisiti"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "oñemohenda hikuái"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "Mijmash-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:57.036083210Z",
+  "model": "glm-5.3"
+}

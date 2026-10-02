@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Ha nde, Adonai, nde ⟨haʼe⟩ El pyʼaroryva ha aguyjejuhuva, iñapyʼapuku ⟨pyʼaguýpe⟩, hesed tuicha ha ete ⟨rehegua⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "pyʼaroryva"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ha aguyjejuhuva"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "puku"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "apyʼa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ha tuicha"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ha ete"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:19.222040536Z",
+  "model": "glm-5.3"
+}

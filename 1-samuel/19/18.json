@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha David ojapu ha oñemombaʼe, ou Shemuél-pe Ramá-pe, ha omombeʼu chupe ⟨את⟩ opa mbaʼe Shaúl ojapo vaʼekue hese. Ha haʼe ha Shemuél oho ha opyta Naiot-pe.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ojapu"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "oñemombaʼe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramá-pe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "omombeʼu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "Naiot-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:09:18.158814288Z",
+  "model": "glm-5.3"
+}

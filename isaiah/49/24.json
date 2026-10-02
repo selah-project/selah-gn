@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "¿Ikatúpa ojeipe'a oñemondahína ipu'akávagui, térã pe marangatu oñemoĩva oñemongara'ãta?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "ikatúpa ojeipe'a"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "ipu'akávagui"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "oñemondahína"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "térã"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "pe oñemoĩva"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "oñemongara'ãta"
+    }
+  ],
+  "timestamp": "2026-10-02T12:55:46.734659725Z",
+  "model": "glm-5.3"
+}

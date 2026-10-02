@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Iñakãme rekoviarã omeʼẽ chupe, ha iñeʼẽ jerurekoha ndojokói chugui. Chela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "rekoviarã"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñakãme"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ha iñeʼẽ jerurekoha"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "ndojokói chugui"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:19.437056474Z",
+  "model": "glm-5.3"
+}

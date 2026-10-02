@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Ha ore ru he'i: Ejevy jey, ejogua oreve michĩ mba'e'uru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ore ru he'i"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ore ru"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Ejevy jey"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ejogua"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oreve"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "michĩ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mba'e'uru"
+    }
+  ],
+  "timestamp": "2026-10-02T08:03:16.934293464Z",
+  "model": "glm-5.3"
+}

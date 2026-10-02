@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Mburuvichakuéra ra'ỹikuéra oĩ ne iporãvávape apyte; chegal — kuñakarai guasu — oĩ ne akatúape, Ofir ketem ndive.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "ra'ỹikuéra"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "ne iporãvávape"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "oĩ opytu'ũva"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "chegal — kuñakarai guasu"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ne akatúape"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ketem — itaju — ndive"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:27.208095210Z",
+  "model": "glm-5.3"
+}

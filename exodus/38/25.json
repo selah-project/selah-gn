@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ku itajuka'y ojeipapa va'ekue ⟨aty⟩ mba'éva: ⟨pe⟩ sa kikar, ha su pokõi sa paporundypa po chekel, chekel marangatu rehe.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "ku itajuka'y"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ojeipapa va'ekue"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "paporundypa po"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "chekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "chekel rehe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:34.207536755Z",
+  "model": "glm-5.3"
+}

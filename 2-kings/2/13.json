@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha ohupiʼũ ⟨את⟩ pe ao guasu Eliahu mbaʼe, oñemokanguavaʼekue huguete, ha ojevy, opytavo Jardén iñembeʼýre.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ohupiʼũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ao guasu Eliahu mbaʼe"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "ao guasu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "oñemokanguavaʼekue"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "huguete"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "opytavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "iñembeʼý"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:39.802490378Z",
+  "model": "glm-5.3"
+}

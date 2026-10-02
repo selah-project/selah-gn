@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ⟨את⟩ heñanduka ha ⟨את⟩ hembiapo ojapova Mitsraim mbytépe, Parao, Mitsraim mburuvicha, peg̃uarã ha opaite iwy peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heñanduka"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "heñanduka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hembiapo"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hembiapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapova"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parao peg̃uarã"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iwy"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:50.459097820Z",
+  "model": "glm-5.3"
+}

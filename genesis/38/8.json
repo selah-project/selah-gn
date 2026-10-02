@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha Jehuda heʼi Onan-pe: Eike nde joykeʼy kuñápe, emboheta chupe joykeʼy réra-pe, ha embosakoʼi joykeʼy raʼy nde joykeʼýpe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onan-pe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kuñápe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde joykeʼy"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "emboheta chupe joykeʼy réra-pe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "embosakoʼi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "nde joykeʼýpe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:56:57.000404987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Jahve ⟨haʼe⟩ che ita, che mbareteha ha che isãsoha; che El, che ita, cherovia hese; che jokoha, ha che jeyʼãrã tũ, che yvateha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "che ita"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ha che mbareteha"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ha che isãsoha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "che ita"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "cherovia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "che jokoha"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ha tũ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "che jeyʼãrã"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "che yvateha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:48.088886297Z",
+  "model": "glm-5.3"
+}

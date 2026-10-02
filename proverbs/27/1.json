@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ani remoañeterei ko'ẽrõ ára jave, ha ani reikuaa mba'épa tañemoña ára.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "remoañeterei nde rehe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára jave"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ko'ẽrõ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha ningo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'épa"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "tañemoña"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:43:39.634755209Z",
+  "model": "glm-5.3"
+}

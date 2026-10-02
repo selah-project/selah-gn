@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Upévare, opaite ne mba'ejerurekuéra — opaite mba'e rehe — ajavo añetegua ramo ha'e; opaite tape ñarõrã, che ndaija'éi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ne mba'ejerurekuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite mba'e rehe"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ajavo añetegua ramo ha'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tape"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ñarõrã"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "che ndaija'éi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:41.936653269Z",
+  "model": "glm-5.3"
+}

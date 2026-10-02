@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Eñangareko nde rehe, ani rehasa asýpe ⟨את⟩ Jahve, ohoséva nde Mitsraim retãgui, tembiguái rógagui.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Eñangareko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "rehasa asýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohoséva"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "nde ohoséva"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "retãgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "rógagui"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguái"
+    }
+  ],
+  "timestamp": "2026-10-02T09:48:55.233139966Z",
+  "model": "glm-5.3"
+}

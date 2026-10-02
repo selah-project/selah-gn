@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ani reñangarekópa: rekũty ⟨את⟩ ipo, neresápe ani ovyʼarõ chupe.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "rekũty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ovyʼarõ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "neresápe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:04:32.428476278Z",
+  "model": "glm-5.3"
+}

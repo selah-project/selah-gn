@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ha katu che ahe'a: nandi hag̃ua aiky'ai, nandi ha pytu vyapýicha che pu'aka akannongeta; ñañetehápe che hekojojaha oĩ ⟨את⟩ Jahve ndive, ha che mba'apo oĩ ⟨את⟩ Elohim ndive.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha katu che"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ahe'a"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "nandi hag̃ua"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "aiky'ai"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "nandírõ"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ha pytu vyapýicha"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "che pu'aka"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "akannongeta"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ñañetehápe"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "che hekojojaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ha che mba'apo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T12:56:39.716638733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "¿Iporãpa peẽ ohekachaa ⟨את⟩ peẽme? Térã, peteĩ kuimbaʼe ombotavyháicha, ¿peẽ pembotavy chupe?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "iporãpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ohekachaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽme",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "terã"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "om botavyháicha"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "kuimbaʼe rehe"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "pembotavy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:51:20.351713435Z",
+  "model": "glm-5.3"
+}

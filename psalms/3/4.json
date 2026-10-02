@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha nde, Jahve, nde che angaipa, che rembeʼu porã, ha che akã ojupyséva.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "che angaipa"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "che rembeʼu porã"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ha ojupyséva"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "che akã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:39.164791638Z",
+  "model": "glm-5.3"
+}

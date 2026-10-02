@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Eliahu heʼi chupe: Elichá, eiko koʼape, che kope; Jahve omondo chéve Jerijó-pe. Ha haʼe heʼi: Jahve oikove ramo, ha nde rekove oikove ramo, che arekomoʼã nde. Ha oupyhy Jerijó-pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elichá"
+    },
+    {
+      "surface": "שב",
+      "gloss": "eiko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "che kope"
+    },
+    {
+      "surface": "פה",
+      "gloss": "koʼape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "omondo chéve"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerijó-pe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "oikove ramo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nde rekove"
+    },
+    {
+      "surface": "אם",
+      "gloss": "naiméi"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "arekomoʼã nde"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "oupyhy"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerijó-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:03:17.021308906Z",
+  "model": "glm-5.3"
+}

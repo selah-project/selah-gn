@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Che El, che El, mba'érepa cherehe reheja? Mombyry cherehe che jehayhupytyha, che hu ñe'ẽnguéra.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Che El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mba'érepa"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "cherehe reheja"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Mombyry cherehe"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "che jehayhupytyha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñe'ẽnguéra"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "che hu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:50.899635152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Emohendáta ⟨את⟩ pe kaporet pe jarovia arka ári, pe marangatu marangatuetépe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "emohendáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "jaroviaʼygua"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "marangatuetépe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:28:50.031833640Z",
+  "model": "glm-5.3"
+}

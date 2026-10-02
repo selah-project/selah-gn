@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Umi vaiéva che ári og̃uahẽ jave hoʼu haguā ⟨את⟩ che roʼo, che rokõi ha che ñorairõhára; umíva okangy ha oñembyasy.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "og̃uahẽ jave"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "umi vaiéva"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hoʼu haguā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che roʼo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "che roʼo"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "che rokõi"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ha che ñorairõhára"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che reheguáva"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "okangy"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "oñembyasy"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:45.957863648Z",
+  "model": "glm-5.3"
+}

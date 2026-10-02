@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha ipype ojahu Moche ha Aharon ha iñemoñare, ⟨את⟩ iñipoʼa ha ⟨את⟩ ipykuéra.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ojahu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñipoʼa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "iñipoʼa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ipykuéra"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ipykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:40.002931506Z",
+  "model": "glm-5.3"
+}

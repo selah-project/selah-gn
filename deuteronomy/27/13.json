@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha umíva katu oestáva vaʼerã Eival yvyty ári ⟨ñeʼẽ vaipe⟩ g̃uarã: Reuvén, Gad, ha Asher, Zevulún, Dan, ha Naftalí.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ha umíva katu"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "oestáva vaʼerã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "⟨ñeʼẽ vaipe⟩ g̃uarã"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvén"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha Asher"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "Zevulún"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ha Naftalí"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:56.309609687Z",
+  "model": "glm-5.3"
+}

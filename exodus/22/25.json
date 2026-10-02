@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Rõ reipuru ñemugarãháicha reirũnguéra ao, kuarahy ogueru peve, embojevy chupe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Rõ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "reipuru ñemugarãháicha"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "reñemugarã"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "ao"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "reirũnguéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "embojevy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:51.306888239Z",
+  "model": "glm-5.3"
+}

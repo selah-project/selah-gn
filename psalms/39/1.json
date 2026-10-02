@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Purahei ohenóiva apohárape g̃uarã, Iedutun-pe g̃uarã — David purahei.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ohenóiva apohárape g̃uarã"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Iedutun-pe g̃uarã"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "purahei"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David pegua"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:09.511454586Z",
+  "model": "glm-5.3"
+}

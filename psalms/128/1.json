@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 128,
+  "translation": "Purahéi pe oguahẽva yvate gotyo. Vyʼapavẽ opaite pe iñaminduʼúva Jahve-re, pe ohóva heteve ijekuera rupi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pe oguahẽva yvate gotyo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Vyʼapavẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "iñaminduʼúva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve-re"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ohóva"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "heteve ijekuera rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:18.748876453Z",
+  "model": "glm-5.3"
+}

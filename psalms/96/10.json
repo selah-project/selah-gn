@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Peʼe tetãnguéra apytépe: Jahve oisãmbyhy; avei ⟨arapy⟩ oñemohenda opytatúpe, nahaniri ojepeʼota; ohekojojóta tavayguakuéra tekojoja rehe.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Peʼe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tetãnguéra apytépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "arapy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nahaniri"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ojepeʼota"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ohekojojóta"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "tekojoja rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:32.174995146Z",
+  "model": "glm-5.3"
+}

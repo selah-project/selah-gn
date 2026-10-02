@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Omondo umi tahýi ryru chupekuéra, ojukapa hikuái chupekuéra; ha kururu kuéra omombýpe hikuái chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Omondo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chupekuéra apytépe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tahýi ryru"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ojukapa hikuái chupekuéra"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ha kururu kuéra"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "omombýpe hikuái chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:00.728609580Z",
+  "model": "glm-5.3"
+}

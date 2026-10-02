@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha omoĩ ⟨את⟩ pysapukuéra joakuéra ryepýpe, Arca ykére, ogueraha hag̃ua ⟨את⟩ Arca.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pysapukuéra"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "pysapukuéra"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "joakuéra ryepýpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "yképe"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "yke"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arca"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ogueraha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arca"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arca"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:26.309953029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha oimeraẽ tekove okarúva manova térã ojekaraháva mymba rehe, tetãygua apytépe térã oikóva tapiahápe, ojepyapyta it ao ha oñehũta y rehe, ha oikóta vai kaʼaru peve, upéi oikóta porã.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "manova"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ha ojekaraháva"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "tetãygua apytépe"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ha tapiahápe oikóva"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ha ojepyapy"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "it ao"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ha oñehũ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "y rehe"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ha oiko vai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kaʼaru"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ha oiko porã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:36.737933626Z",
+  "model": "glm-5.3"
+}

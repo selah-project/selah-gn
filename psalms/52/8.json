@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Ha umi marangatukuéra ohecha ha oñemombaʼe, ha ombopiroʼy hese.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ha ... ohecha"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "umi marangatukuéra"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "oñemombaʼe"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ombopiroʼy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:36.206669955Z",
+  "model": "glm-5.3"
+}

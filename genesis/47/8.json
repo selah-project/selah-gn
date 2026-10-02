@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Ha Paroh heʼi Jaakov-pe: mboýpa umi ára nde rekove arakuéra?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "mboýpa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "שני",
+      "gloss": "arakuéra"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "nde rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:30.584297662Z",
+  "model": "glm-5.3"
+}

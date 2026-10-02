@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha eiko umi Jisrael mburuvichakuéra rekópe, ha rembojuruja ⟨את⟩ Yehuda ha ⟨את⟩ Jerusalaim táva rekovekuérape, Peliśtim... no: Ajab óga jejuruja háicha, ha upéicha avei ⟨את⟩ ne irũnguéra — ne ru óga pegua, nde heko porãvevape — rejuka.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ha eiko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "rekópe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "ha rembojuruja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim táva"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "jejuruja háicha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha upéicha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne irũnguéra"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ne irũnguéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ne ru"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "heko porãveva"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nde rugua"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "rejuka"
+    }
+  ],
+  "timestamp": "2026-10-02T18:29:24.291777458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 123,
+  "translation": "Hetaiterei ñande jehenyhẽ, ñande rekove hi'ári, pe je'e vai apytepe oiko guapyva kuéra ha pe jekyyi py'aguasu vakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Hetaiterei"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ñande jehenyhẽ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hi'ári"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ñande rekove"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "pe je'e vai"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "oiko guapyva kuéra"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "pe jekyyi"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "py'aguasu vakuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:53.468426713Z",
+  "model": "glm-5.3"
+}

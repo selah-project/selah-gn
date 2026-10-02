@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ndaisiséi che ñorairõhára pópe; oipytyvy che py tyvy guasúpe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha nda…ái"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "ndaisiséi che"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "oipytyvy"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "tyvy guasúpe"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "che py"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:48.278712080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Che akuatía ári oñoty kuãoty heta, oipuru hikuai ikuãoty pukukue.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "che akuatía"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "oñoty"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "kuãoty heta"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "oipuru hikuai... pukukue"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "ikuãoty"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:26.668914760Z",
+  "model": "glm-5.3"
+}

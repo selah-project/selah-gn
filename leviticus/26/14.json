@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha peẽ pendo'esẽi cherehe, ha pendajapói ⟨את⟩ opaite ko'ã mbo'e,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo'esẽi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "pendo'esẽ (cherehe)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pendajapói"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pendajapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ko'ã mbo'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mbo'e"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:05:44.026967936Z",
+  "model": "glm-5.3"
+}

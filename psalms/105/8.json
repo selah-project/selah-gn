@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Oñamanduʼa opaite ára iñeʼẽmeʼẽ, pe ñeʼẽ oñemboja ohupyty haguã su ñemoñare peve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Oñamanduʼa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "su-pe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:41.829932552Z",
+  "model": "glm-5.3"
+}

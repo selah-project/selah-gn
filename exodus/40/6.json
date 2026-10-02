@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Emoĩ ⟨את⟩ pe itave hovaʼãrã ⟨i⟩ okẽ renondépe — ⟨i⟩ Michkán, Ohel Moéd pegua.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe itave hovaʼãrã"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "itave"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hovaʼãrã"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "okẽ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Michkán"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moéd"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:38.961631447Z",
+  "model": "glm-5.3"
+}

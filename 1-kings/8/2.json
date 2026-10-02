@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oñembyaty Jisrael kuimbaʼekuéra opaite jára Shelomo peve, Haetanim kasy-pe, jeguaty aja — haʼe kasy pokõiha.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "jára"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼekuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "kasy-pe"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Haetanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "jeguaty aja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kasy"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "pokõiha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:26.634896295Z",
+  "model": "glm-5.3"
+}

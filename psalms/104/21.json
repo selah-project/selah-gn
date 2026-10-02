@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Umi kapiʼyvusu ogykei jeguara rehegua ha oheka jaguareteʼaparã Elohim pegua.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "umi kapiʼyvusu"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "ogykei"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "jeguara rehegua"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "ha oheka"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "El pegua"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "jaguareteʼaparã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:31.515864776Z",
+  "model": "glm-5.3"
+}

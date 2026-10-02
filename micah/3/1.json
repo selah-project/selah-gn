@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha che heʼi: Ehendu sapyʼa, Jaakov iñakãnguéra, ha Jisrael rogagua mburuvichakuéra; ¿ndaipóripa peẽme g̃uarã kuaa ⟨את⟩ hekojoja?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ha che heʼi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sapyʼa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iñakãnguéra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ha mburuvichakuéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rogagua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ndaipóripa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme g̃uarã"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekojoja"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hekojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T15:04:04.760736429Z",
+  "model": "glm-5.3"
+}

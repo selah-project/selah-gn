@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Eguevi, che rekove, nde pytuʼópe, haʼe haguã Jahve ojapo porã nde rehe.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "eguevi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "nde pytuʼópe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe haguã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ojapo porã"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:38.850443135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ndaipóri yvypóra ipuʼakáva ruah ári ehẽ hag̃ua ⟨את⟩ pe ruah; ha ndaipóri mburuvichakue ára manópe; ha ndaipóri jeheja ñorãirõme; ha umi ivaíva nomoñembyahýi ⟨את⟩ ijarakuéra.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruah ári"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "ehẽ hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ruah"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "pe ruah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "mburuvichakue"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "המות",
+      "gloss": "manópe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "jeheja"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ñorãirõme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "nomoñembyahýi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijarakuéra"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ijarakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:24:10.131451191Z",
+  "model": "glm-5.3"
+}

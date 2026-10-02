@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Ahataʼa che tape oñemohenda porãite, amareko hag̃ua nde kuai.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ahataʼa"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "oñemohenda porãite"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "che tape"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "amareko hag̃ua"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "nde kuai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:03.725091875Z",
+  "model": "glm-5.3"
+}

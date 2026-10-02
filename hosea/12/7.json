@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha nde — nde Elohim rendápe ejevy; eñangareko hesed ha tekojoja rehe, ha ehaʼãro nde Elohim rehe tapiaite.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "nde Elohim rendápe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ehaʼãro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    }
+  ],
+  "timestamp": "2026-10-02T14:48:52.001552701Z",
+  "model": "glm-5.3"
+}

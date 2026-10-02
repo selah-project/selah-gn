@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha satán opuʼã Jisrael rehe, ha ojopy ⟨את⟩ David opapapy hag̃ua ⟨את⟩ Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satán"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "opapapy hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:54.996690735Z",
+  "model": "glm-5.3"
+}

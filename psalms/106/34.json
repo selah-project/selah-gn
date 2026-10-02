@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Nohesãiporãi hikuái ⟨את⟩ ⟨the⟩ umi tetãnguéra Jahve ohenduka hikuépe ojesoʼo vaʼerãha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "nohesãiporãi hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tetãnguéra"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohenduka hikuépe ojesoʼo vaʼerãha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ohenduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hikuépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:37.296629631Z",
+  "model": "glm-5.3"
+}

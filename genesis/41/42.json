@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 41:42",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha Paroh oipe'a ⟨את⟩ iñkuái iñipo gui, ome'ẽ ⟨את⟩ Yosef ipo ári, oha'ãmbu ⟨את⟩ chupe ao morotĩ (linyo) rehe, ha oimoĩ ⟨the⟩ jo'a itajúva hete ajúra ári.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñkuái (i-mba'e)"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "iñkuái"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iñipo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iñkuái"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "oha'ãmbu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (Yosef)"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ao"
+    },
+    {
+      "surface": "שש",
+      "gloss": "morotĩ (linyo)"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "oimoĩ"
+    },
+    {
+      "surface": "רבד",
+      "gloss": "jo'a"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itajúva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "hete ajúra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:13.678811247Z",
+  "model": "glm-5.3"
+}

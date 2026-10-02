@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Mbaʼevai ojapyhy umi jejavyhárakuéra, ha ⟨את⟩ umi marangatukuéra ojehepymeʼẽ mbaʼe porã.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "umi jejavyhárakuéra"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi marangatukuéra"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "umi marangatukuéra"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ojehepymeʼẽ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:32:48.815330418Z",
+  "model": "glm-5.3"
+}

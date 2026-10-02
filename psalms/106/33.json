@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Upeicha rupi ombojavy hikuái ⟨את⟩ iñ ruah Mochépe, ha oñeʼẽ vai isorokue rupive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upeicha rupi"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ombojavy hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñ ruah"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "iñ ruah"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "ha oñeʼẽ vai"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "isorokue rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:37.296361418Z",
+  "model": "glm-5.3"
+}

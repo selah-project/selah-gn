@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha David oñembyaty Jisrael tuichakue Jerusalaim-pe, omonguera hag̃ua ⟨את⟩ Jahve arón ikuarahápe, omoĩ hag̃ua hese kuéra.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael tuichakue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "omonguera hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve arón"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikuarahápe"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ikuarahápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "omoĩ hag̃ua hese kuéra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:51.297096863Z",
+  "model": "glm-5.3"
+}

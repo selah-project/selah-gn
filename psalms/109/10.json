@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ha itaʼýra oikundaha tapiaite, ojerurekuaa ha oheka kuarahyʼara guive oikove hagua.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "oikundaha"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ojerurekuaa"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "kuarahyʼara guive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:08.011046015Z",
+  "model": "glm-5.3"
+}

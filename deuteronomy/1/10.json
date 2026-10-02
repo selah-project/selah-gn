@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve, peẽ Elohim, omoheta ⟨את⟩ peẽ, ha kópe peẽ ko ára yvaga mbyja ári heta haguãicha, hetaiterei.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "omoheta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ha kópe peẽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "yvaga mbyja ári"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "hetaiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:37.138816434Z",
+  "model": "glm-5.3"
+}

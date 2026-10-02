@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Pelishtim ojepyso yvyty ári koʼã pengue, ha Jisrael ojepyso yvyty ári upérupi, ha yvyapy oja umikuéra mbytépe.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ha Pelishtim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ári"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "koʼã pengue"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ha Jisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ári"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "upérupi"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "ha yvyapy"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "oja umikuéra mbytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:43.964288758Z",
+  "model": "glm-5.3"
+}

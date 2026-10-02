@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 124,
+  "translation": "Purahéi oku'éva yvate gotyo, Dávide mba'e. Jahve ndoĩriramo ore ndive — péicha Jisrael oñe'ẽ ko'ág̃a —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "oku'éva yvate gotyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávide mba'e"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "ndoĩriramo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore ndive"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:46.737393770Z",
+  "model": "glm-5.3"
+}

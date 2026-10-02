@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "¿Adonai oñemboykéta pa opaite ára pukukuépe, ha ndojapomoʼãvéi pa mbaʼe porã jey?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "¿opaite ára pukukuépe"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "oñemboykéta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo...véi"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "moʼãvéi"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "mbaʼe porã jey"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:02.990230151Z",
+  "model": "glm-5.3"
+}

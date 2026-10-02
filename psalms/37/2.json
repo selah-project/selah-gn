@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha'e rupi, ka'aguasúicha pya'etereípe oñemongu'ita, ha kapi'i ro'yvaicha omanomba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha'e rupi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ka'aguasúicha"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "pya'etereípe"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "oñemongu'ita"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ha kapi'i ro'yvaicha"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "kapi'i"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "omanomba"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:11.125672172Z",
+  "model": "glm-5.3"
+}

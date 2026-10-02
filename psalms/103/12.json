@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Kuarahy resẽ ha kuarahy oike ojoapykuépe háicha, upéicha ohenondeʼe ñande rehegui ⟨את⟩ ñande jeyvy.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "ojoapykuépe háicha"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "kuarahy resẽ"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "kuarahy oike"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ohenondeʼe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ñande rehegui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande jeyvy"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ñande jeyvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:48.724362670Z",
+  "model": "glm-5.3"
+}

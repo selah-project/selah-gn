@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "David omondo jehekaha ha oikuaa Shaúl ouma hekopete.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "jehekaha"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בא",
+      "gloss": "ouma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נכון",
+      "gloss": "hekopete"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:13.231625593Z",
+  "model": "glm-5.3"
+}

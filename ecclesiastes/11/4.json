@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ohaʼãva ruah, ndoñotỹi; ha ohecháva umi arapoha, ndoikytỹi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ohaʼãva"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ñotỹi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ohecháva"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "umi arapoha-pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ikytỹi"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:32.467286160Z",
+  "model": "glm-5.3"
+}

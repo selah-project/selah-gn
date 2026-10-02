@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Peẽ zeboja árape oje'uséva, ha ko'ẽmbota árape; ha oĩva'ekue katu mbohapyha ára peve, tata-pe oñembyaipa va'erã.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "peẽ zeboja"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oje'uséva"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ha ko'ẽmbota árape"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ha oĩva'ekue katu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "mbohapyha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata-pe"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "oñembyaipa va'erã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:31.171676505Z",
+  "model": "glm-5.3"
+}

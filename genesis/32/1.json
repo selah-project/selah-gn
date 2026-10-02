@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Lavan oupyve koʼẽ pyahúpe, ombovyʼa ⟨את⟩ itaʼýrakuéra ha ⟨את⟩ iñakãkuéra, ha omoñeʼẽ chupekuéra; ha oho Lavan, oguerejey hembiasakuápe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "oupyve koʼẽ pyahúpe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽ pyahúpe"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "ombovyʼa"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "itaʼýrakuéra"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "iñakãkuéra"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "omoñeʼẽ"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "itaʼýrakuéra ha iñakãkuéra"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oguerejey"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "hembiasakuápe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:22.995782217Z",
+  "model": "glm-5.3"
+}

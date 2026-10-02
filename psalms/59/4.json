@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Tévare, maheʼã: oñemongaʼu che rekove rehe, umi ipuʼakapáva oñembyaty che rehe; ndahaʼéi che jekyty, ndahaʼéi jeve che jejavy, Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tévare"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "maheʼã"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "oñemongaʼu"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "che rekove rehe"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "umi ipuʼakapáva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "che jekyty"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndahaʼéi jeve"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "che jejavy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:16.331814354Z",
+  "model": "glm-5.3"
+}

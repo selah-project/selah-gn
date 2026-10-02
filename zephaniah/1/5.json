@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ umi oñemboujéva óga yvatépe yvága atyguasúpe, ha ⟨את⟩ umi oñemboujéva oñeʼẽmeʼẽ Jahve-pe, ha umi oñeʼẽmeʼẽva Malcam-re.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi oñemboujéva óga yvatépe"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "umi oñemboujéva"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "óga yvatépe"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "atyguasúpe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi oñemboujéva oñeʼẽmeʼẽ Jahve-pe"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "umi oñemboujéva"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "oñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ha umi oñeʼẽmeʼẽva"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Malcam-re"
+    }
+  ],
+  "timestamp": "2026-10-02T15:12:32.054428200Z",
+  "model": "glm-5.3"
+}

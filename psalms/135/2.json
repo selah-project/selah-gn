@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Umi opytáva Jahve róga ryepýpe, ore Elohim róga korárape.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "umíva opytáva"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "róga ryepýpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "korárape"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:13.862698237Z",
+  "model": "glm-5.3"
+}

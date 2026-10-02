@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ombohovái ⟨את⟩ Jochua heʼívo: Opaite remohenda oreve rojapóta, ha opaite rendápe ehesaʼẽrõ roho.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Ha ombohovái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jochua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "remohenda oreve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "rojapóta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite rendápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ehesaʼẽrõ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "roho"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:54.364770118Z",
+  "model": "glm-5.3"
+}

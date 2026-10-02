@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Nde reipe'a ⟨ápe⟩ ysyry kuarepoti ha yvate ysyry; nde rehypy'u umi ysyry ijoja'ỹva.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "reipe'a"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ysyry kuarepoti"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "yvate ysyry"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "rehypy'u"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "umi ysyry"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ijoja'ỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:39.690065528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 142,
+  "translation": "Che ñeʼẽ Jahve-pe aqhei; che ñeʼẽ Jahve-pe ajerurevérõ.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "aqhei"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ajerurevérõ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:33.344539273Z",
+  "model": "glm-5.3"
+}

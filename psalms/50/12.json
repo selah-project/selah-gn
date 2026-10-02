@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Che via vove, nahániri ndeve aheʼimoʼã ⟨chégui⟩; che mbaʼe ko Yvy ha imbue opaite.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "vove"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "che via"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aheʼimoʼã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לי",
+      "gloss": "che mbaʼe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "Yvy"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ha imbue opaite"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:15.169702586Z",
+  "model": "glm-5.3"
+}

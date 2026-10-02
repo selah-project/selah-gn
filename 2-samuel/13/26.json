@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Avchalom he'i: Nahániramo jepe, che ako che ryke Amnon ou ⟨את⟩ ore ndive. Ha mburuvicha he'i chupe: Mba'érepa ou haguã nde ndive?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Nahániramo jepe"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ore ndive",
+      "marks": "Amnon ou ore ndive"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che ryke"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mba'érepa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ou haguã"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:26:05.808404522Z",
+  "model": "glm-5.3"
+}

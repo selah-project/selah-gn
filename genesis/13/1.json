@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Avram ojupi Mitsraim-gui — ha'e ha imembireko ha opa mba'e i mba'éva — Lot hendive, Negev gotyo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "imembireko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i mba'éva"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "Negev gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:04.345889852Z",
+  "model": "glm-5.3"
+}

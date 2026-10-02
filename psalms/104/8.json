@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Yvytykuéra osē yvate gotyo, ñu'ãikuéra osē yvy gotyo — pe tendápe remoĩ hikuái chupekuéra.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "osē yvate gotyo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Yvytykuéra"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "osē yvy gotyo"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "Ñu'ãikuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "remoĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:54.247725860Z",
+  "model": "glm-5.3"
+}

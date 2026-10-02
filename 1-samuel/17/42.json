@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Pelishti ohecha ha ohecha jey ⟨את⟩ David, ha ombora chugui, tupichĩgui haʼehague ha ipyʼúva, ha ipyʼaguapy rechaháigua.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ohecha jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ombora chugui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tupichĩgui"
+    },
+    {
+      "surface": "היה",
+      "gloss": "haʼehague"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitã"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ha ipyʼúva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rechaháigua"
+    }
+  ],
+  "timestamp": "2026-10-02T11:07:39.745646822Z",
+  "model": "glm-5.3"
+}

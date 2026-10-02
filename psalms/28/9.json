@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Eipyso ⟨את⟩ ne avanoʼẽ, ha emongarai ⟨את⟩ ne mbaʼerãguáva; eñangareko hikuái rehe, ha egueraha hikuái saʼyvoʼỹre, arakaʼeve pahápe.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "eipyso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne avanoʼẽ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne avanoʼẽ"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ha emongarai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mbaʼerãguáva"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ne mbaʼerãguáva"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "eñangareko hikuái rehe"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "ha egueraha hikuái"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saʼyvoʼỹre"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "arakaʼeve pahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:38.928605570Z",
+  "model": "glm-5.3"
+}

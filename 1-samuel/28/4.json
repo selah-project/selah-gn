@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha umi Pelichtim oñembyaty, ou, oñemohuʼã Chunem-pe; ha Chaúl oñembyaty ⟨את⟩ Jisrael opaite, ha oñemohuʼã Guilboa-pe.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "umi Pelichtim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "oñemohuʼã"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Chunem-pe"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "oñemohuʼã"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Guilboa-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:17.379000577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Reñemeʼẽrõ peteĩ ñemeʼẽ Elohim-pe, ani erekyte emohuʼã hag̃ua; ndaipóri jepyʼarõ kesil-kuérape; ⟨את⟩ ne ñemeʼẽ, emohuʼã.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "reñemeʼẽ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ñemeʼẽ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "erekyte"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "emohuʼã hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jepyʼarõ"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "kesil-kuérape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ñemeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "reñemeʼẽ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "emohuʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:14.811259495Z",
+  "model": "glm-5.3"
+}

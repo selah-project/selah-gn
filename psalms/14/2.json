@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Jahve yvágagui omoĩ hese yvypóra kuéra apytépe, ohecha hag̃ua oĩpa ojekuaa porãva, oheka ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "omoĩ hese"
+    },
+    {
+      "surface": "על",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ohecha hag̃ua"
+    },
+    {
+      "surface": "היש",
+      "gloss": "oĩpa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ojekuaa porãva"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:29.777643136Z",
+  "model": "glm-5.3"
+}

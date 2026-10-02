@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha oguereko hikuái ijeroviapýpe Beer Sheva, Sheva, Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oguereko hikuái"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "ijeroviapýpe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ha Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ha Molada"
+    }
+  ],
+  "timestamp": "2026-10-02T10:28:29.154487975Z",
+  "model": "glm-5.3"
+}

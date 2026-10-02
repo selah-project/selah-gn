@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Eguerujevy ⟨את⟩ Levi ñemoñare ijyképe, ha emoĩ ⟨את⟩ chupe Aharon paʼi renondépe, ha ombaʼapóta hese.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Eguerujevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi ñemoñare"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon paʼi renondépe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ha ombaʼapóta hese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:47.402860122Z",
+  "model": "glm-5.3"
+}

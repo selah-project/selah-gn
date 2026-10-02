@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "David ojesarái Jahve-re upépe árape, ha he'i: Mba'éichapa ou cherahápe aron Jahve?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ojesarái"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "איך",
+      "gloss": "mba'éichapa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherahápe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:13.303852222Z",
+  "model": "glm-5.3"
+}

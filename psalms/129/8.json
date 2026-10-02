@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Ha umi ohasáva ningo ndo'e porãiva'ekue chupe: Jahve ñe'ẽẽno oime ne réra ári; roñe'ẽẽno ⟨את⟩ nde rehe Jahve réra pe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha ningo ndo'e porãiva'ekue"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ndo'e"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "umi ohasáva"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ñe'ẽẽno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ne réra ári"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "roñe'ẽẽno"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nde rehe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rera pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:58.784699021Z",
+  "model": "glm-5.3"
+}

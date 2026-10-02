@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Binjamín taʼýra apytégui: Salú, Meshulam raʼý, Hodavja raʼý, Hasenuá raʼý.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamín"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Salú"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼý"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshulam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼý"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼý"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenuá"
+    }
+  ],
+  "timestamp": "2026-10-02T19:33:02.683347323Z",
+  "model": "glm-5.3"
+}

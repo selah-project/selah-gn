@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Che rekove, emboʼete ⟨את⟩ Jahve; Jahve, che Elohim, nde tuichaitereí; guasuete ha jeguaka rejahoʼi.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "emboʼete"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "nde tuichaitereí"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tereípe"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "guasuete"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jeguaka"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "rejahoʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:42.796773353Z",
+  "model": "glm-5.3"
+}

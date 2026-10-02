@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ahecha tembiguáikuéra kavaju ári, ha mburuvichakuéra tembiguáicha oiko yvy ári.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguáikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ha mburuvichakuéra"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "tembiguáicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:22.730576762Z",
+  "model": "glm-5.3"
+}

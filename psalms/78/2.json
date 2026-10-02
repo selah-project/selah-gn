@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Che juru lheíta mashál-pe, ahenoa ñe'ẽnguéra ñemi ymaguareguive.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "che juru lheíta"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "mashál-pe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ahenoa"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ñe'ẽnguéra ñemi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "guive"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ymaguare"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:23.594878623Z",
+  "model": "glm-5.3"
+}

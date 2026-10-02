@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Yissaskar kuáirũ gui, ⟨את⟩ Kedech ha iñeʼẽrenda vuʼi rehegua, ⟨את⟩ Daberat ha iñeʼẽrenda vuʼi rehegua.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuáirũ gui"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedech"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeʼẽrenda vuʼi rehegua"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iñeʼẽrenda vuʼi rehegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeʼẽrenda vuʼi rehegua"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iñeʼẽrenda vuʼi rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:55.625383712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ovevy hikuái, avei okese hikuái y rehe; hekovépe iñeingatu hikuái.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Ovevy hikuái"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "okese hikuái y rehe"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hekovépe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "iñeingatu hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:58.529562423Z",
+  "model": "glm-5.3"
+}

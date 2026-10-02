@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha peteĩteĩ kuimbaʼe ⟨את⟩ iñeʼẽmeʼẽ marangatu mbaʼe — haʼeñópe opytáta; kuimbaʼe omeʼẽva paʼi-pe, chupepañónte ohóta.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ha peteĩteĩ kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽmeʼẽ marangatu mbaʼe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "iñeʼẽmeʼẽ marangatu mbaʼe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "haʼeñópe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "opytáta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omeʼẽva"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "paʼi-pe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupeñónte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ohóta"
+    }
+  ],
+  "timestamp": "2026-10-02T09:17:02.029012396Z",
+  "model": "glm-5.3"
+}

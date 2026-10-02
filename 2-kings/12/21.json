@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha upéi, iñangirũkuéra oñemboja ohupityrõ hikuái, ha oity ⟨את⟩ Joach, Beit Milo-pe, óha oueva Sila-pe.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñangirũkuéra"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ohupityrõ hikuái"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "joaju vai"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joach"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joach"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "óha oueva"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sila"
+    }
+  ],
+  "timestamp": "2026-10-02T12:11:20.344988979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha Jôsef he'i iñangirõkuérape: che amano; ha Elohin ojehechajey ta ⟨peẽ⟩ ha ohupi ⟨peẽ⟩ ⟨ko⟩ yvy gui, yvy pe Elohim oñe'ẽmeʼẽ hague Avraham, Jitshak ha Jaakov pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jôsef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iñangirõkuéra"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מת",
+      "gloss": "amano"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "ha Elohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ojehecha"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ojehechajey ta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "oñe'ẽmeʼẽ hague"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ha Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:14.468474639Z",
+  "model": "glm-5.3"
+}

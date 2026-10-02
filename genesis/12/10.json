@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oiko haʼekuaru ⟨the⟩ yvýpe, ha Avraham oguejy Mitsraim-pe oiko hag̃ua upépe, haʼégui ojueheguasu ⟨the⟩ haʼekuaru ⟨the⟩ yvýpe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "haʼekuaru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "oiko hag̃ua upépe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼégui"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ojueheguasu"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "⟨the⟩ haʼekuaru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:57.524822871Z",
+  "model": "glm-5.3"
+}

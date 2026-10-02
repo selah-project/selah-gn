@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ⟨Noa⟩ heʼi: Iñakãrõju Kenaan; kambyi kambyiʼikuéra apytépe ohóta oiko ijoykeʼukuéra po rupi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ⟨Noa⟩ heʼi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "iñakãrõju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kambyi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kambyiʼikuéra apytépe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ohóta oiko"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ijoykeʼukuéra po rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:11.181869293Z",
+  "model": "glm-5.3"
+}

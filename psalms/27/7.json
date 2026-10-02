@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ehendu, Jahve, che ñeʼẽ, ahenói jave; eporiahuvereko chèche ha eñembohovái chéve.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ahenói jave"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "eporiahuvereko chèche"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "eñembohovái chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:05.367681333Z",
+  "model": "glm-5.3"
+}

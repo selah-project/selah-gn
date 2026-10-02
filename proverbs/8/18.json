@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Pirapire hetáva ha terakãporã ⟨את⟩ che ndive; heta mbaʼe itapova ha tsedek.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "pirapire hetáva"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ha terakãporã"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ndive",
+      "marks": "pirapire hetáva ha terakãporã"
+    },
+    {
+      "surface": "הון",
+      "gloss": "heta mbaʼe"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "itapova"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ha tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T16:30:08.012310330Z",
+  "model": "glm-5.3"
+}

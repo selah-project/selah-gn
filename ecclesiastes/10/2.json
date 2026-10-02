@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Arandu korasõ oĩ ipo akatúape, ha javero korasõ oĩ ipo asúpe.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "arandu"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ipo akatúape"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ha javero korasõ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "javero"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ipo asúape"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:53.232211566Z",
+  "model": "glm-5.3"
+}

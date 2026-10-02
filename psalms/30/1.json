@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Mizmor — purahéi ⟨óga⟩ ñemomba'e jey rehegua, David rembiapokue.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ñemomba'e jey"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapokue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:29.848398573Z",
+  "model": "glm-5.3"
+}

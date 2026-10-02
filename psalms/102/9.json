@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Opa ⟨ára⟩, umi ñorãirõhára ohechauka che raʼe; umi che rehe oĩmbáva ojapo ñeʼẽmeʼẽ che rehe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Opa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ohechauka che raʼe"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "umi ñorãirõhára"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "umi che rehe oĩmbáva"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ojapo ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:54.588424291Z",
+  "model": "glm-5.3"
+}

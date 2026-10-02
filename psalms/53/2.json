@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 53,
+  "translation": "Navy he'i iñe'ẽ pyti'ápe: Ndaipóri Elohim. Ojavyju hikuái, oiko vai ha opaichagua java; ndaipóri ojapóva mba'e porã.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navy"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iñe'ẽ pyti'ápe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ndaipóri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Ojavyju hikuái"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "oiko vai"
+    },
+    {
+      "surface": "עול",
+      "gloss": "opaichagua java"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mba'e porã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:06.262356049Z",
+  "model": "glm-5.3"
+}

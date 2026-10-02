@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Oiko hikuái, ohechávo ⟨את⟩ chupe, ha ogueru hikuái mbohapypa mboirũha, ha oiko hikuái ⟨את⟩ hese.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko hikuái"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "ohechávo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "chupe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ha ogueru hikuái"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mboirũha"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha oiko hikuái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hese",
+      "marks": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T18:57:35.915669768Z",
+  "model": "glm-5.3"
+}

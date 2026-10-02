@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve heʼi Moche-pe: Eho Parao-pe, che aiporõgui hese iñakãngueta ha iñakãngueta umi i-mbaʼapoharakuéra, che amoĩ hag̃ua koʼã che rechaukaha imbytépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che aiporõgui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "aiporõ hese iñakãngueta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãngueta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñakãngueta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñakãngueta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iñakãngueta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i-mbaʼapoharakuéra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amoĩ hag̃ua"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "che rechaukaha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "imbytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:41.988323348Z",
+  "model": "glm-5.3"
+}

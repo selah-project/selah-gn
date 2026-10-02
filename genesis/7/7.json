@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Noach oike, ha iña membykuéra, ha iña kuñakaraĩ, ha iña membykuéra kuñanguéra ichuga ⟨את⟩, yvyrakuárape, ⟨ה⟩mba'ebou ý rehegua.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ha oike"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ha iña membykuéra"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ha iña kuñakaraĩ"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ha kuñanguéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iña membykuéra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ichuga",
+      "marks": "Noach ra'y kuéra kuñanguéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "yvyrakuárape"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "y"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "mba'ebou"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:09.246521358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve Elohim omondo ñeʼẽ yvypórape heʼívo: Opaitéma yvyra kuéra Ñeʼẽmeʼẽ kóvagui, rekaru kalypapa peẽngatu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "omondo ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvypórape"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaitéma"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra kuéra"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "Ñeʼẽmeʼẽ kóvagui"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "rekaru"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "peẽngatu"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:45.697930562Z",
+  "model": "glm-5.3"
+}

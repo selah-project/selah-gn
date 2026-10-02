@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "ha ⟨את⟩ aopoʼi jehechaukahápe ha ⟨את⟩ aopoʼi marangatu Aharán paʼirã guasu g̃uarã, ha ⟨את⟩ raʼýpe g̃uarã aopoʼi, paʼi ramo oiko hag̃ua hikuái.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aopoʼi jehechaukahápe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aopoʼi"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "jehechaukahápe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aopoʼi marangatu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aopoʼi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharán g̃uarã"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼirã guasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raʼýpe g̃uarã aopoʼi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aopoʼi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "paʼi ramo oiko hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:45:53.025522401Z",
+  "model": "glm-5.3"
+}

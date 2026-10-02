@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Evyʼaite ha epurahéi, neʼĩra Tsiýn rekóva; haʼe haguã pe Marangatu Jisrael pegua nde apytépe iñakãguasúva.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "evyʼaite"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "epurahéi"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "rekóva"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiýn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe haguã"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "iñakãguasúva"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nde apytépe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Marangatu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael pegua"
+    }
+  ],
+  "timestamp": "2026-10-02T12:30:43.368992072Z",
+  "model": "glm-5.3"
+}

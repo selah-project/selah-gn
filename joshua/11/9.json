@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Yehochua ojapo chupekuéra pe Jahve oheʼi haguéicha chupe: ⟨את⟩ umi kavaju py oikutu ha ⟨את⟩ umi karru omonandi tata rehe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "peichahaguéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kavaju"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "umi kavaju"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "oikutu py"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi karru"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "umi karru"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:54:22.451113582Z",
+  "model": "glm-5.3"
+}

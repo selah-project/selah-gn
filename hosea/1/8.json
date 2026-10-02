@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Lo-Ruchamá oñemokã rire, kuñakuairete omembýjey ha omemby peteĩ mitãkuimba'e.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "oñemokã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruchamá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchamá"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "omembýjey"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mitãkuimba'e"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:35.164852881Z",
+  "model": "glm-5.3"
+}

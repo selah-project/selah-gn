@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Kuarahy osẽvo, umi kapiʼyvusu oñembyaty oho hag̃ua iñekorasõme ha okeo ipype.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "osẽvo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oho hag̃ua"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "iñekorasõme"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "okeo ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:31.516126702Z",
+  "model": "glm-5.3"
+}

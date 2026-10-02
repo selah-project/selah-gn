@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha pe táva ruvichakuéra ogueraháta yvy gotyo ⟨את⟩ pe kuãirũ peteĩ ysyry ikangúva peve, ndojembaʼapóiva ha ndoñeñotỹiva hyepýpe, ha upépe oipeʼa hikuái ⟨את⟩ pe kuãirũ iñakã pe ysyry ryepýpe.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "ogueraháta yvy gotyo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuãirũ"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kuãirũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ikangúva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "jembaʼapói"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hyepýpe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo…"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ñeñotỹi"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "oipeʼa hikuái iñakã"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuãirũ"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kuãirũ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ysyry ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:01:27.111738548Z",
+  "model": "glm-5.3"
+}

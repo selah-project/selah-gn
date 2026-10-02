@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha oikótavaʼerã pe árape: ambohováita, heʼi Jahve; ambohováita ⟨את⟩ yvágape, ha umíva ombohovaita ⟨את⟩ yvype.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha oikótavaʼerã"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ambohováita"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ambohováita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvága"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha umíva"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ombohovaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T14:44:56.781892478Z",
+  "model": "glm-5.3"
+}

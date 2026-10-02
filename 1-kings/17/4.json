@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha upéicha, pe ysyrýgui reʼyta, ha che aheʼu ⟨את⟩ umi guaakuéra omongakuaa hag̃ua nde upépe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha upéicha"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "pe ysyrýgui"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "reʼyta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi guaakuéra"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "umi guaakuéra"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "che aheʼu"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "omongakuaa hag̃ua nde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:54:20.771778906Z",
+  "model": "glm-5.3"
+}

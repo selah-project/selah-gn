@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Pohýi Arávia rehegua: kaʼaguýpe, Arávia-pe, peñembyaty pyharekue, eʼã peẽ Dedan-gua kuéra guatahára.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pohýi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "Arávia rehegua"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "kaʼaguýpe"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "Arávia-pe"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "peñembyaty pyharekue"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "guatahára kuéra"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "Dedan-gua kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:53.481520658Z",
+  "model": "glm-5.3"
+}

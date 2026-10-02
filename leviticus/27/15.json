@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha omoĩ marangatu va’ekue ojogua jeyramo ⟨את⟩ ióga, omoĩvéta pirapire ipoha — ne ñemohenda — hese, ha upéva oikóta ichupe guarã.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "…ramo"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "omoĩ marangatu va’ekue"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ojogua jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ióga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ióga"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "omoĩvéta"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "ipoha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pirapire"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ne ñemohenda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe guarã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:13:52.894180227Z",
+  "model": "glm-5.3"
+}

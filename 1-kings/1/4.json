@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha kuñataĩ porãite eterei, ha ha'e kuri mburuvicha moirũhã, ha omoñandu chupe, ha mburuvicha ndaikuaái chupe.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "Ha kuñataĩ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "porãite"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eterei pe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "eterei"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ha ha'e kuri"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "moirũhã"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "omoñandu chupe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...ai"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ikuaái chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:10.154579845Z",
+  "model": "glm-5.3"
+}

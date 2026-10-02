@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Pe oikóva Elyon ñemihape, Chadai pytũmbýpe opytáta.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ñemihape"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "pytũmbýpe"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "opytáta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:53.238624088Z",
+  "model": "glm-5.3"
+}

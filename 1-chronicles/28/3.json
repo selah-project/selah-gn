@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Elohim heʼi cheve: ani rejapo hóga che rérape, nde haʼe ⟨yvypóra⟩ ñorairõnguéra rehegua, ha hovy nde reho.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Ha Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hóga"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "che rérape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ñorairõnguéra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ha hovy"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "reho"
+    }
+  ],
+  "timestamp": "2026-10-02T19:35:56.102992200Z",
+  "model": "glm-5.3"
+}

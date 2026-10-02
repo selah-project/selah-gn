@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Jahve oipe'a ⟨את⟩ ikũ marangatu opaite tetãnguéra ohechahápe; ha opaite yvy rembe'y ohecha ⟨את⟩ ñepysõrã ore Elohim mba'éva.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikũ marangatu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ikũ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ohechahápe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ha ohecha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "rembe'y"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñepysõrã ore Elohim mba'éva"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ñepysõrã"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T12:57:58.219604953Z",
+  "model": "glm-5.3"
+}

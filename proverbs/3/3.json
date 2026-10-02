@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Hesed ha emet ani oheja nde; ejopy chuguikuéra nde tíra ári, ha ehai chuguikuéra nde korasõ kuatiápe.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ha emet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "oheja nde"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ejopy chuguikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "nde tíra"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ehai chuguikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "kuatia"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde korasõ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:28:37.212949188Z",
+  "model": "glm-5.3"
+}

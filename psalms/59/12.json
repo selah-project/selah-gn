@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Ani rejuka hikuái, che retãyguakuéra ndohesarai haguã; nde puʼaka-pe emombo hikuái jerere, ha emoĩguejy hikuái, ñande angarekoha, Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "rejuka hikuái"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ndo... haguã"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ndohesarai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãyguakuéra"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "emombo hikuái jerere"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "nde puʼaka-pe"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "ha emoĩguejy hikuái"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ñande angarekoha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:23.763533239Z",
+  "model": "glm-5.3"
+}

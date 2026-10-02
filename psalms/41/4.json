@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Jahve oipytyvõ chupe iñañãngue tug̃uápe; opaite itug̃ua remyengovia oiko hague iñañãnguégui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "oipytyvõ chupe"
+    },
+    {
+      "surface": "על",
+      "gloss": "—pe"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "tug̃uápe"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "iñañãngue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "itug̃ua"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "remyengovia"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "iñañãnguégui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:36.089729921Z",
+  "model": "glm-5.3"
+}

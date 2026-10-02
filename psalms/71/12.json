@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Elohim, ani emombyry chegui; che Elohim, eg̃uahu pya'e che pytyvõrã.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "emombyry"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chegui"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "che pytyvõrã"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "eg̃uahu pya'e"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:52.162223440Z",
+  "model": "glm-5.3"
+}

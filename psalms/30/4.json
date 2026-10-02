@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Jahve, nde bosévo che rekove Cheol guive, nde che mongakuaa jevy che nag̃uahẽimoʼãi yvykuʼepe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "nde bosévo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "che mongakuaa jevy"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "nag̃uahẽimoʼãi"
+    },
+    {
+      "surface": "בור",
+      "gloss": "yvykuʼepe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:29.848863405Z",
+  "model": "glm-5.3"
+}

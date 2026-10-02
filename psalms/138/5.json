@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "Ha opurahéita Jahve rapekuéra rehe, tuichaiterei Jahve kunuʼã.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ha opurahéita"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "rapekuéra rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaiko jaʼeháipe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunuʼã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:26.647083942Z",
+  "model": "glm-5.3"
+}

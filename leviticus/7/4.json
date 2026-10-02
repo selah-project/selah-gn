@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ⟨את⟩ mokõi riñón ha ⟨את⟩ pe arã oĩva hiʼári, oĩva umi katuetereíre, ha ⟨את⟩ pe vore tuvicháva tiʼiguasu ári, riñón ykére oñeipeʼapaita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi riñón"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "riñón"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe arã"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "pe arã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "hiʼári"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "umi katuetereíre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe vore tuvicháva tiʼiguasu ári"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "pe vore tuvicháva tiʼiguasu ári"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tiʼiguasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "riñón"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "oñeipeʼapaita"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:40.244980788Z",
+  "model": "glm-5.3"
+}

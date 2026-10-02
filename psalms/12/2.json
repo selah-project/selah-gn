@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Eipytyvõ ore, Jahve, umi marangatu opaitémavo, umi jeroviaháva noimavéima yvypóra raʼýkuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Eipytyvõ ore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "opaitéma"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "oguahẽ pahápe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "umi marangatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "noimavéima"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "umi jeroviaháva"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "raʼýkuéra apytégui"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:02.961118072Z",
+  "model": "glm-5.3"
+}

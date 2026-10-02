@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Avram oreko pokõi pa poteĩ ary, Hagar oraʼýrakuévo ⟨את⟩ Jishmael Avram-pe.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Ha Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oreko ary"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "pokõi pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha poteĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "oraʼýrakuévo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avram-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:38:22.536688091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha omondo ⟨את⟩ pe guyra hũ, ha osẽ, osẽvo ha oguerevojeyvo, pe y oupyta vevuímavo peve yvy ári gui.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe guyra hũ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "pe guyra hũ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "osẽvo"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "oguerevojeyvo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "oupyta vevuímavo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ári gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:28.620415454Z",
+  "model": "glm-5.3"
+}

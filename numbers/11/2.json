@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha pe tavayguakuéra ohokẽ Moche rehe, ha Moche oñemboʼe Jahve rehe, ha pe tata oñembogue.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ohokẽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavayguakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "oñembogue"
+    },
+    {
+      "surface": "האש",
+      "gloss": "pe tata"
+    }
+  ],
+  "timestamp": "2026-10-02T09:23:18.403894316Z",
+  "model": "glm-5.3"
+}

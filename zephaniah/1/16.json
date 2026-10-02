@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Tavapu (shofar) ha ñe'enguasu ára, umi táva oñemoñyrõva ári ha umi yvate ykekuéra ári.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "tavapu (shofar)"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ha ñe'enguasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "umi táva"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "oñemoñyrõva"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha umi... ári"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "yvate ykekuéra"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "yvate"
+    }
+  ],
+  "timestamp": "2026-10-02T15:10:47.748245834Z",
+  "model": "glm-5.3"
+}

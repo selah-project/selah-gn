@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha koʼãva heñói chupe Jerusalaim-pe: Chimá, ha Chovav, ha Natán, ha Chelomó — irundy — Bat-chúa Amiel-ña raʼýikuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ha koʼãva"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Chimá"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ha Chovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ha Natán"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ha Chelomó"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "לבת",
+      "gloss": " rehe"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-chúa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ña"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    }
+  ],
+  "timestamp": "2026-10-02T18:01:39.911798900Z",
+  "model": "glm-5.3"
+}

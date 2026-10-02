@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Che, aikuaa nderehe ku yvy yvytyhápe, yvýpe tekuetépe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "aikuaa nderehe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ku yvy yvytyhápe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "tekuetépe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:49:35.515442864Z",
+  "model": "glm-5.3"
+}

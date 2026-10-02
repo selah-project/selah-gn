@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha che ndaijaʼéi ⟨את⟩ opaite che amoñemu, che amoñemu haguére kuarahýpe, emivoípa ohasata che amoñemu yvypórape oguerahataha che rire.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "che ndaijaʼéi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite che amoñemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "che amoñemu"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "che"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "amoñemu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kuarahýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahý"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ohasata"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "yvypórape"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "oguerahataha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "che rire"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:39.959748844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Pe motenondehárã g̃uarã; Ani rejopy; purahéi Asaf-meg̃uarã, ñeʼẽpoty.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "motenondehárã g̃uarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "rejopy"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf-meg̃uarã"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ñeʼẽpoty"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:45.539286485Z",
+  "model": "glm-5.3"
+}

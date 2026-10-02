@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha pehekáta ⟨את⟩ chéve, ha pejuhúta chéve, pehekàgui chéve pe korasõ gapygue ndive.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "pehekáta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ chéve",
+      "marks": "chéve"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "pejuhúta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "pehekà chéve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pe korasõ gapygue"
+    }
+  ],
+  "timestamp": "2026-10-02T13:34:02.409048980Z",
+  "model": "glm-5.3"
+}

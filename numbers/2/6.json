@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha iñorairõhára aty ha umi ojeipapavaʼekue: irundy ha papo pa su ha irundy sa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ha iñorairõhára aty"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ha umi ojeipapavaʼekue"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ha papo pa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ha irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:48.559905703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Ani pejokuái che Machiah-kuéra rehe, ha che nabi-kuérare ani pejapo vai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "pejokuái"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "che Machiah-kuéra rehe"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ha che nabi-kuérare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "pejapo vai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:23.279602028Z",
+  "model": "glm-5.3"
+}

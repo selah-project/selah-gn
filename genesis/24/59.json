@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha omondo ⟨את⟩ Rivka, iñakyrayũ, ha ⟨את⟩ imondyhýva, ha ⟨את⟩ Avraham rembiguái ha ⟨את⟩ iñirũnguéra.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "iñakyrayũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imondyhýva"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "imondyhýva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham rembiguái"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rembiguái"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũnguéra"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "iñirũnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:44:37.538374374Z",
+  "model": "glm-5.3"
+}

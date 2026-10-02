@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Upe árape ojeʼýne Jerusalaim-pe: Ani reñañuã; Sion, ani remomichĩ nde po.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Upe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ojeʼýne"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "reñañuã"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "temomichĩ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "nde po"
+    }
+  ],
+  "timestamp": "2026-10-02T15:10:28.456670749Z",
+  "model": "glm-5.3"
+}

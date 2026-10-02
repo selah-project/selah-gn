@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Che retẽgue ndoñemokañýi ndevegui, che ajapo va'ekue kañy rógape, che mongu'i va'ekue yvy iñuvyguápe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndo...ĩi"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ndoñemokañýi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "che retẽgue"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndevegui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "che ajapo va'ekue"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kañy rógape"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "che mongu'i va'ekue"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "iñuvyguápe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:54.421495687Z",
+  "model": "glm-5.3"
+}

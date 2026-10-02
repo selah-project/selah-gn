@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha omoheʼõ ichupe irundy kuarepoti vera, ha omoĩ ⟨את⟩ umi vera irundy esquina ári, oĩva irundy py ári.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "omoheʼõ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "vera"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi vera"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "umi vera"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "esquina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "irundy-pe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "py"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:18.549623544Z",
+  "model": "glm-5.3"
+}

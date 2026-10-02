@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 12:11",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oiko chugui: mburuvicha oguata jave Jahve óga pépe, umi rysýi ou ha oguereko hikuái umi mbuai, ha upéi omoĩjey hikuái umi rysýi kotýpe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko chugui"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "jave jave"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "umi rysýi"
+    },
+    {
+      "surface": "ונשאום",
+      "gloss": "oguereko hikuái umi"
+    },
+    {
+      "surface": "והשבום",
+      "gloss": "omoĩjey hikuái umi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תא",
+      "gloss": "kotýpe"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "rysýi"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:19.277514033Z",
+  "model": "glm-5.3"
+}

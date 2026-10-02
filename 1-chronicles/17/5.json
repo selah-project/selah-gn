@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha'e rupi naroʼãi vaʼekue óga ryepýpe, ára guive ajupijey ⟨את⟩ Jisrael, koʼág̃a peve; aho vaʼekue toldo gui toldo peve, ha Michkan guive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha'e rupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "naroʼãi vaʼekue"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "óga ryepýpe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajupijey hague ára"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ajupijey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "aho vaʼekue"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "toldo gui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toldo peve"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "toldo"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "Michkan guive"
+    }
+  ],
+  "timestamp": "2026-10-02T18:12:35.008979866Z",
+  "model": "glm-5.3"
+}

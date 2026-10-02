@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Bavel rajy, oñembyaihaháva: iporãitereípe pe omeʼẽtáva ndéve ⟨את⟩ nde mbaʼeapo, rejapo vaʼekue ñanderehe.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "rajy"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "oñembyaihaháva"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "iporãitereípe"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde mbaʼeapo"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "nde mbaʼeapo"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "rejapo vaʼekue"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñanderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:42.902739382Z",
+  "model": "glm-5.3"
+}

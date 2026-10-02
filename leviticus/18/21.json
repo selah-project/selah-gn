@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha nde ñemitỹgui ani emeʼẽ Molech pe ohasávo hag̃ua, ha ani rembyai ⟨את⟩ Elohim réra; che Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "ha nde ñemitỹgui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ohasávo hag̃ua"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molech pe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "rembyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim, ndéva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:55:45.010493246Z",
+  "model": "glm-5.3"
+}

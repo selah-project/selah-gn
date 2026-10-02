@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Ojekuaauko hag̃ua Jahve téra Tision-pe, ha iñemboaty Jerusalaim-pe.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "ojekuaauko hag̃ua"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tision-pe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ha iñemboaty"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:28.331951274Z",
+  "model": "glm-5.3"
+}

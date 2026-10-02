@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Ndaipóri nde jojaháicha Elohim apytépe, Adonai, ha ndaipóri mbaʼeve nde mbaʼapóicha.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nde jojaháicha"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim apytépe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "nde mbaʼapóicha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:31.371371451Z",
+  "model": "glm-5.3"
+}

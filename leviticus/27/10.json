@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ani omoambue chupe, ani ojoko ipo rupi: iporãva ivaívape, térã ivaíva iporãvape; ha omoambuéramo mymba peteĩ mymbáre, upéicharõ pe mymba ha iñemoambue marangatu tánta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "omoambue chupe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ojoko ipo rupi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iporãva térã ivaíva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ivaívape"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "iporãvape"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha omoambuéramo"
+    },
+    {
+      "surface": "המר",
+      "gloss": "omoambue"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "omoambue jey"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mymbáre"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "upéicharõ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pe mymba"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ha iñemoambue"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tánta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:13:09.910152545Z",
+  "model": "glm-5.3"
+}

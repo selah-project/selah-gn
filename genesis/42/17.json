@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha omoĩ ⟨את⟩ chuguikuéra michmãpe mbohapy ára.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "michmã"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:53.901844113Z",
+  "model": "glm-5.3"
+}

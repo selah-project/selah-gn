@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 120,
+  "translation": "Heta aravo che rekove oiko ndaijaʼéiva shalom reheguándi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Heta aravo"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "עם",
+      "gloss": "...reheguándi"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ndaijaʼéiva"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:44.597400657Z",
+  "model": "glm-5.3"
+}

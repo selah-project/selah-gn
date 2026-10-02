@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha upéicha peñangareko ⟨את⟩ ko ñeʼẽmeʼẽ ñeʼẽnguéra, ha pejapo ⟨את⟩ chukuéra, ikatu hag̃uáicha pekatu porã opaite pejapóva.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ha peñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽmeʼẽ ñeʼẽnguéra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ha pejapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chukuéra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikuatu hag̃uáicha"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "pekatu porã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite pejapóva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "pejapóva"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:09.707606789Z",
+  "model": "glm-5.3"
+}

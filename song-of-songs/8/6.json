@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 8:6",
+  "book": "song-of-songs",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Emoĩ cherehe chombeʼo raʼangaicha nde pyʼape, chombeʼo raʼangaicha nde ñuã ári; hayhu ipuʼakáva manóicha; pyʼarasy asha Cheol peichahuângue; ichugui verakuéra osẽ, verakuéra tatagui, Ja tata rakã.",
+  "tokens": [
+    {
+      "surface": "שימני",
+      "gloss": "Emoĩ cherehe"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "chombeʼo raʼangaicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pyʼape"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde pyʼa"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "chombeʼo raʼangaicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "nde ñuã"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "manóicha"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "hayhu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "asha"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "Cheol peichahuângue"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "pyʼarasy"
+    },
+    {
+      "surface": "רשפיה",
+      "gloss": "ichugui verakuéra osẽ"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "verakuéra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tatagui"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "tata rakã"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-02T17:14:39.038859155Z",
+  "model": "glm-5.3"
+}

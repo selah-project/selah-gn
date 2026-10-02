@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Ñorairõhára ñe'ẽgui, marangatu'ỹva iñakãrakuégui — oipe'a mba'e vai che ári, ha iñarõme oñembyatycherehe.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ñe'ẽgui"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iñakãrakuégui"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "iñakãraku"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "marangatu'ỹva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "און",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "iñarõme"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "oñembyatycherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:30.978005427Z",
+  "model": "glm-5.3"
+}

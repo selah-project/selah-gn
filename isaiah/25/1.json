@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Jahve, che Elohim, nde ⟨reime⟩; amomba'eguasu nde, añañeteka nde réra, porque rejapo mba'e iporãvaitereí — ñemoñarõ tujaakuéra mombyrygua, je'ypyre ha añetegua.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "amomba'eguasu nde"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "añañeteka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mba'e iporãvaitereí"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ñemoñarõ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "tujaakuéra mombyrygua"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "je'ypyre"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:48.810975505Z",
+  "model": "glm-5.3"
+}

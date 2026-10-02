@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pe paʼi ogueraha ⟨את⟩ kuríra ashámpe ha ⟨את⟩ log andy, ha pe paʼi oñemonguʼe upéicha Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuríra asham"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kuríra"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ashámpe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "log andy"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "andy"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "oñemonguʼe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ upekuéra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ñemonguʼe reheve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:36.471006369Z",
+  "model": "glm-5.3"
+}

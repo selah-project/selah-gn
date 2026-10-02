@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Oity hetaiterei tetãnguéra, ha ohukapa mburuvichakuéra ipuʼakaitéva.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Oity"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ha ohukapa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "ipuʼakaitéva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:22.661096442Z",
+  "model": "glm-5.3"
+}

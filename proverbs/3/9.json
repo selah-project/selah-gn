@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Emombaʼeguasu ⟨את⟩ Jahve ne mbaʼekuéra rehe, ha ñepyrũrã guive opaite ne recoidagui.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Emombaʼeguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ne mbaʼekuéra rehe"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ha ñepyrũrã guive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ne recoida"
+    }
+  ],
+  "timestamp": "2026-10-02T16:26:44.917446437Z",
+  "model": "glm-5.3"
+}

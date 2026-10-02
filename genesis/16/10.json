@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Jahve ñeʼẽngára heʼi chupe: Ahetaitereíta ⟨ndive⟩ ahetave ⟨את⟩ nde ñemoñare, ha hetaitereígui ndojepapapóita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ñeʼẽngára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ahetaitereíta"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ahetave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ñemoñare"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nde ñemoñare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ojepapapói"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "hetaitereígui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:38:31.561122019Z",
+  "model": "glm-5.3"
+}

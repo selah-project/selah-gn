@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Ohesaʼỹijo nde tavayguakuéra tsedek rehe, ha nde mboriahu kuéra hekojojahápe.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ohesaʼỹijo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde tavayguakuéra"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tsedek rehe"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ha nde mboriahu kuéra"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hekojojahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:57.171004492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Upeichéramo, eñandu: umi mburuvicha oñembyaty hikuái, ohasa oñondive.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upeichéramo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eñandu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "umi mburuvicha"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "oñembyaty hikuái"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "oñondive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:36.835915922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Jahve heʼi Mochepe: Mboy áma peẽpa reñembohapypáta che jeroviapyrã ha che Tora?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha Jahve heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mochepe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mboy áma"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "reñembohapypáta"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "jeroviapyrã"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "che jeroviapyrã"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "che Tora"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:37.051604320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha ojapo ⟨הָרַע⟩ vaí Jahve resápe; upánte, ndaha'éicha umi Jisrael mburuvicha oikova'ekue henondepe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "vaí"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "upánte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaha'éicha"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "mburuvicha kuéra ndaha'éicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikova'ekue"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "henondepe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:17:48.604343037Z",
+  "model": "glm-5.3"
+}

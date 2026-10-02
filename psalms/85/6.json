@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "¿Saʼi ara pukúpe reñenoĩ ñanderehe? ¿Nde rũʼi ojekarusu taʼãnguéra rupi taʼãnguéra aja?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "¿saʼi ara pukúpe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "reñenoĩ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ñanderehe"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ojekarusu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nde rũʼi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "taʼãnguéra rupi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "taʼãnguéra aja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:37.255468986Z",
+  "model": "glm-5.3"
+}

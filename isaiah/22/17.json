@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Hína, Jahve ojerere-jere nderehe, ojerere py'aguapy'ỹre, karai mbareté, ha ojaho'isa nde ojaho'isaite.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hína"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "ojerere nderehe"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "py'aguapy'ỹre ojerere"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "karai mbareté"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "ha ojaho'isa nde"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "ojaho'isaite"
+    }
+  ],
+  "timestamp": "2026-10-02T12:38:14.931663121Z",
+  "model": "glm-5.3"
+}

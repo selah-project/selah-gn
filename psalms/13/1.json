@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Pe omyakãvape. David-pe g̃uarã mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe omyakãvape"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:49.195083673Z",
+  "model": "glm-5.3"
+}

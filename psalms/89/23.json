@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ñorairõhára ndoimoʼãi chupe, ha teko vai raʼy nomombaʼapýtãi chupe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nd... ãi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ndoimoʼãi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "teko vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd... ãi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "nomombaʼapýtãi chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:46.027144515Z",
+  "model": "glm-5.3"
+}

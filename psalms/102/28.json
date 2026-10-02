@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Ha nde, nde peichagua nde, ha ne arakuéra ndoikatúi opa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde peichagua nde"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ha ne arakuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndoikatúi"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "opa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:47.874622022Z",
+  "model": "glm-5.3"
+}

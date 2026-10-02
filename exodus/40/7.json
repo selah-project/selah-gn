@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Emoĩ ⟨את⟩ pe jahuha Ohel Moéd ha ⟨i⟩ itave mbytépe, ha emoĩ upépe y.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jahuha"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "pe jahuha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moéd"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha mbytépe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "itave"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:38.961792514Z",
+  "model": "glm-5.3"
+}

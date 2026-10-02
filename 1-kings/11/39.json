@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ambohypyjeyta ⟨את⟩ David ñemoñare, upéva rehe; hákatu ndaha'emo'ãi opaite áragui.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ambohypyjeyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David ñemoñare"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upéva rehe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hákatu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaha'emo'ãi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "áragui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:46.697323715Z",
+  "model": "glm-5.3"
+}

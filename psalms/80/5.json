@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Jahve Elohim Tsevaot, araka'epe reipytaho ou ⟨את⟩ nembaʼejerure rerohayhuerã ne retãme?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "araka'epe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "araka'epe"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "reipytaho ou"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "nembaʼejerure rerohayhuerã"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne retãme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:07.000775513Z",
+  "model": "glm-5.3"
+}

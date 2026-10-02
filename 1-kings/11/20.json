@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Tachpenes isaiʼõ omemby chupe ⟨את⟩ Genubat, itaʼŷra; Tachpenes omoñemu chupe Paroh óga ryepýpe, ha Genubat oiko Paroh ógape, Paroh membykuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "isaiʼõ"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼŷra"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "omoñemu chupe"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T11:51:33.168214493Z",
+  "model": "glm-5.3"
+}

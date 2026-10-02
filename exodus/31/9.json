@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ⟨את⟩ mbovapyha hoʼuha reheve ha ⟨את⟩ opaite mbaʼe apopyrã ijojaha, ha ⟨את⟩ jahugua ha ⟨את⟩ hoguepyahuẽ,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbovapyha hoʼuha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mbovapyha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hoʼuha reheve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe apopyrã ijojaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mbaʼe apopyrã ijojaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jahugua"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "jahugua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hoguepyahuẽ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "hoguepyahuẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T18:45:53.024723002Z",
+  "model": "glm-5.3"
+}

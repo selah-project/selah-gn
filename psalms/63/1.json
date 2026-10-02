@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "David ñeʼẽporãhai, oĩ aja Jihuda kaʼaguasýpe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ñeʼẽporãhai"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "oĩ aja"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguasýpe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:06.479416531Z",
+  "model": "glm-5.3"
+}

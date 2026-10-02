@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Enosh ovekove ⟨את⟩ Kenan omboheñói rire papo ary ha po sa ary, ha omboheñói memby kuimbaʼe ha memby kuña.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ovekove"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "omboheñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ha poapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ha omboheñói"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "memby kuimbaʼe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha memby kuña"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:48.862882487Z",
+  "model": "glm-5.3"
+}

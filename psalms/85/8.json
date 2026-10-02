@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Ehechauka oréve nde hesed, Jahve, ha nde jeyveha emeʼẽ oréve.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Ehechauka oréve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "ha nde jeyveha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:37.255754800Z",
+  "model": "glm-5.3"
+}

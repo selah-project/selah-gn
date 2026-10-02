@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 149,
+  "translation": "Ojapyhy hag̃ua imburuvichakuéra sogueguasúpe, ha imbaʼehatãva kuarepoti sogueguasúpe.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ojapyhy hag̃ua"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "imburuvichakuéra"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "sogueguasúpe"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "ha imbaʼehatãva"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "sogueguasúpe"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "kuarepoti"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:30.409029499Z",
+  "model": "glm-5.3"
+}

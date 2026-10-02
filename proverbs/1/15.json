@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Che raʼẽy, ani reho ⟨את⟩ hikuái ndive tape árape; eipeʼa nde py hikuái tapegui.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Che raʼẽy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "reho"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape árape"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hikuái ndive"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "eipeʼa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "nde py"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "hikuái tapegui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:41.966005847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Aravokuéra ári, ijapytépe, roguejy ñande kinorkuéra.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "aravokuéra"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ijapytépe"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "roguejy"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ñande kinorkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:21.202091597Z",
+  "model": "glm-5.3"
+}

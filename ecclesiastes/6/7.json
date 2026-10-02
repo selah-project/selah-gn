@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Opaite yvypóra mbaʼapo poʼypy haʼeha ⟨⟨iñeʼẽnguʼápe⟩⟩ g̃uarã, ha ku nepech katu ndoijyporãi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mbaʼapo poʼypy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "iñeʼẽnguʼápe g̃uarã"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha katu"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ku nepech"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd…ái"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "doijy"
+    }
+  ],
+  "timestamp": "2026-10-02T17:24:19.387557091Z",
+  "model": "glm-5.3"
+}

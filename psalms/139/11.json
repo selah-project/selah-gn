@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Ha che heʼi: añetehápe kangy ojopyta chéve, ha pyhare kuarahyʼã ramo che jerére.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ha che heʼi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangy"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ojopyta chéve"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuarahyʼã ramo"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "che jerére"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:37.242486333Z",
+  "model": "glm-5.3"
+}

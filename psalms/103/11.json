@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Che, yvaga ijatuvaitereícha ⟨yvy⟩ ári, upéicha hesed ijapuʼakaiterei umi chupe jakatu vaʼekue ári.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ijatuvaitereícha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ijapuʼakaiterei"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "umi chupe jakatu vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:48.724225071Z",
+  "model": "glm-5.3"
+}

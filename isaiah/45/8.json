@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 45:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Toŷu yvága yvateguive, ha ararovaʼikuéra tosyrýi tsedek; yvy toipeʼa, ha toñemuña iñesãrõ, ha tsedaká toñemuñante peteĩcha; che Jahve ajapo chupe.",
+  "tokens": [
+    {
+      "surface": "הרעיפו",
+      "gloss": "toŷu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yvateguive"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "ha ararovaʼikuéra"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "tosyrýi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "toipeʼa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "ha toñemuña"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "iñesãrõ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ha tsedaká"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "toñemuñante"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "peteĩcha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ajapo chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:55:52.772400326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha David isãso Jisrael tuichakue ári; ha David ojapo hekojojaha ha tsedek opa itapyakuérape.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "isãso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itapyakuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:00.667351940Z",
+  "model": "glm-5.3"
+}

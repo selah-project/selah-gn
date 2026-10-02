@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Elohim ⟨haʼe⟩ ojapo hekojoja: peteĩ oñembyasy ha peteĩ ojupi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ojapo hekojoja"
+    },
+    {
+      "surface": "זה",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ha peteĩ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ojupi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:38.091785774Z",
+  "model": "glm-5.3"
+}

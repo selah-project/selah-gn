@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ahenóirõ chuguãkuéra, hikuái oho hesakuera ári; Baal-kuérape ojuka hikuái mymba ñemeʼẽme, ha taʼanga ojepyapóvape omoî hikuái hyakuã.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "ahenóirõ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguãkuéra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "hesakuera ári"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baal-kuérape"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ojuka mymba ñemeʼẽme"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "taʼanga ojepyapóvape"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "omoî hyakuã"
+    }
+  ],
+  "timestamp": "2026-10-02T14:49:39.498935106Z",
+  "model": "glm-5.3"
+}

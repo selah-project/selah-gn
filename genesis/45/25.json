@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Ha ojupi ⟨את⟩ Mitsraim-gui, ou haguã Kenaan yvýpe, Jaakov, i-ru, rendápe.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "i-ru"
+    }
+  ],
+  "timestamp": "2026-10-02T08:05:24.096631702Z",
+  "model": "glm-5.3"
+}

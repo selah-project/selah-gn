@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Jehochua oñemotenonde ko'ẽ pya'eterei ha omoĩ Jisrael ⟨את⟩ iñaty guasu kuéra apytépe; ha ojeipy Yehuda aty guasu.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "oñemotenonde ko'ẽ pya'eterei"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "iñaty guasu kuéra apytépe"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ojeipy"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aty guasu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T10:22:20.094639763Z",
+  "model": "glm-5.3"
+}

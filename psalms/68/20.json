@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Mbaʼeporãiterãpa Adonai, ára ha ára oity ñanderehe ⟨mbaʼe porã⟩; pe El haʼe ore ñongatu. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mbaʼeporãiterãpa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ha ára"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "oity ñanderehe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñanderehe"
+    },
+    {
+      "surface": "האל",
+      "gloss": "pe El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ore ñongatu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:05.156604260Z",
+  "model": "glm-5.3"
+}

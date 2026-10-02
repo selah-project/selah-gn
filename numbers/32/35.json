@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha ⟨את⟩ Aterot-Chofán, ⟨את⟩ Yaazer, ha Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aterot-Chofán"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Aterot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Chofán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "Yogbeha"
+    }
+  ],
+  "timestamp": "2026-10-02T09:40:38.409587963Z",
+  "model": "glm-5.3"
+}

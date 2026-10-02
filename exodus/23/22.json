@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha rehendúramo hetaite iñeʼẽ ha rejapóramo opa mbaʼe che añeʼẽha, che vaʼerã rovai ⟨את⟩ nde rovaikuéra rehe, ha aipyʼapyta ⟨את⟩ nde pyʼapývare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hendu"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rehendu"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "che añeʼẽha"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "che vaʼerã rovai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rovaikuéra"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "nde rovaikuéra"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "aipyʼapyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde pyʼapýva"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "nde pyʼapýva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:45:18.663534776Z",
+  "model": "glm-5.3"
+}

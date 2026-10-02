@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha paʼi heʼitahápe ojegueraha hag̃ua potĩvávape g̃uarã mokõi guyra mbarete porã, ha yvyra sedro, ha pano pytã, ha ysopo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "heʼitahápe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ojegueraha hag̃ua"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "potĩvávape g̃uarã"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "porã"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ha yvyra"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha pano"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "pytã"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ha ysopo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:51:50.652728459Z",
+  "model": "glm-5.3"
+}

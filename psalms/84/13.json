@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Jahve Tsevaot, iporãite pe yvypóra ojerovia ndéve.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "iporãite"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "pe yvypóra"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ojerovia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:16.913110451Z",
+  "model": "glm-5.3"
+}

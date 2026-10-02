@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Eli ra'ýkuéra niko Belial-ra'ýkuéra; ndaikuaái ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ha ra'ýkuéra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…kuaái"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:52:40.703521153Z",
+  "model": "glm-5.3"
+}

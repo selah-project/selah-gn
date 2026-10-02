@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha David heʼi Shaúl-pe: Mbaʼérepa rehenói ⟨את⟩ yvypóra ñeʼẽ heʼíva: Maʼẽ, David oheka nde vaivai?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl-pe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rehenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra ñeʼẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼíva"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "maʼẽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "nde vaivai"
+    }
+  ],
+  "timestamp": "2026-10-02T11:13:12.425915503Z",
+  "model": "glm-5.3"
+}

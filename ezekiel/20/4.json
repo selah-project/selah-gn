@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "¿Remoĩporãta hekojoja chupekuéra, yvypóra raʼýpe, remoĩporãta hekojoja chupekuéra? Eikuaauka chupekuéra ⟨את⟩ ituakuéra mbaʼevai hetavaʼekue.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "¿Remoĩporãta hekojoja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "hekojoja"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "remoĩporãta hekojoja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ituakuéra mbaʼevai hetavaʼekue"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "mbaʼevai hetavaʼekue"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ituakuéra"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Eikuaauka chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T14:17:01.445454796Z",
+  "model": "glm-5.3"
+}

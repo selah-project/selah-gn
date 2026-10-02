@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ojapo ⟨את⟩ umi tabla Michkan peg̃uarã: mokõipa tabla ñemby pehẽnguépe, ñemby gotyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ha ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "umi tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Michkan peg̃uarã"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pehẽnguépe"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñemby"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ñemby gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:49.862897516Z",
+  "model": "glm-5.3"
+}

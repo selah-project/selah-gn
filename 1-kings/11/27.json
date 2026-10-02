@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha kóva pe mbaʼe ojapo haguére pe po mburuvicháre: Shelomoh omopuʼã ⟨את⟩ Milo ha omboty ⟨את⟩ pe kyvy Davide távape, itúvape.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ha kóva"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapo haguére"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ombovyʼa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mburuvicháre"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "omboty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kyvy"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pe kyvy"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúvape"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:42.207055049Z",
+  "model": "glm-5.3"
+}

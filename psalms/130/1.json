@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Purahéi yvate gotyo. Che rovasa mbytégui ahenói ndéve, Jahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "che rovasa mbytégui"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ahenói ndéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:00.774385191Z",
+  "model": "glm-5.3"
+}

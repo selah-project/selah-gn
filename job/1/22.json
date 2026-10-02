@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Koʼã mbaʼe opaitehápe Ijov ndajavai, ha nomomeʼẽi mbaʼe javyʼaha Elohim pe.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "opaitehápe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼã mbaʼe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "javai"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha no-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "momeʼẽi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mbaʼe javyʼaha"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim pe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:44:36.081483317Z",
+  "model": "glm-5.3"
+}

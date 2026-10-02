@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Upévare ahayhu ⟨את⟩ ne mba'ejerurekuéra, itaju ári, itaju porã ári avei.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ahayhu"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ne mba'ejerurekuéra"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "itaju ári"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "itaju porã ári avei"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:41.936508826Z",
+  "model": "glm-5.3"
+}

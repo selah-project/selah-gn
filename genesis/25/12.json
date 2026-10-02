@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha koʼã haʼe ñemoñare Ichmael pegua, Avraham raʼy, omembyʼekue Hagar, mitsraim-ygua, Sara kuñakambái, Avraham-pe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ha koʼã haʼe"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ichmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe omembyʼekue"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "omembyʼekue"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "mitsraim-ygua"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "kuñakambái"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham-pe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:21.149033921Z",
+  "model": "glm-5.3"
+}

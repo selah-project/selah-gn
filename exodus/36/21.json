@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Pokoĩ ama pe tabla ipukukue, ha peteĩ ama ha ⟨mbyte⟩ pe peteĩ tabla jepeʼape.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "pokoĩ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pe tabla"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha ⟨mbyte⟩"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "pe ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "jepeʼape"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pe tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "pe peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:49.862498340Z",
+  "model": "glm-5.3"
+}

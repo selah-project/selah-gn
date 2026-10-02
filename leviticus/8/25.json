@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ogueru ⟨את⟩ ⟨pe⟩ kyra, ha ⟨את⟩ pe tigua, ha ⟨את⟩ opaite kyra oĩva tague kuéra ári, ha ⟨את⟩ iguasu vore, ha ⟨את⟩ mokõi rriñónde ha ikyra, ha ⟨את⟩ py akatúa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kyra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tigua"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "tigua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite kyra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tague kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iguasu vore"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "vore"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "iguasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi rriñónde"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "rriñónde kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikyra"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ikyra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "py akatúa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "py"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "akatúa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:57.771392172Z",
+  "model": "glm-5.3"
+}

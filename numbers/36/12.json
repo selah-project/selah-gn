@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 36:12",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Menache, Josef memby, ñemoñare atykuéra apytégui oikokuéra kuña ramo; ha iñemombaʼe opyta pe aty ári, itúva ñemoñare aty pegua.",
+  "tokens": [
+    {
+      "surface": "ממשפחת",
+      "gloss": "ñemoñare atykuéra apytégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oikokuéra"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "kuña ramo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ha opyta"
+    },
+    {
+      "surface": "נחלתן",
+      "gloss": "iñemombaʼe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pe aty"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare aty pegua"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:40.808577353Z",
+  "model": "glm-5.3"
+}

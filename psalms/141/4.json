@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 141,
+  "translation": "Ani embohasa che korasõ mbaʼe rehe, ajapo hag̃ua jepokuaa mbaʼevaípe, ⟨את⟩ umi kuimbaʼe ojapóva mbaʼevai ndive; ha ndajajuʼuse hikuái karanambiúgui.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תט",
+      "gloss": "embohasa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mbaʼe rehe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ajapo hag̃ua"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "jepokuaa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "mbaʼevaípe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kuimbaʼe ojapóva mbaʼevai"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ndajajuʼuse"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "hikuái karanambiúgui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:31.179237563Z",
+  "model": "glm-5.3"
+}

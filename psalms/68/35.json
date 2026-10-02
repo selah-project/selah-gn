@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Me'ẽ ⟨את⟩ ipu'aka Elohim-pe; Jisrael ári iñakãguasu, ha ipu'aka yvagápe.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Me'ẽ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ipu'aka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "iñakãguasu"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ha ipu'aka"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "yvagápe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:23.365652195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Che omoĩporã ⟨ne⟩ okẽ jokoha; omeʼẽ mbarete nde raʼýpe nde rekohápe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "omoĩporã"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "jokoha"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "⟨ne⟩ okẽ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "omeʼẽ mbarete"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nde raʼýpe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nde rekohápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:51.503076585Z",
+  "model": "glm-5.3"
+}

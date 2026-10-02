@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Menora ipotĩvape omohenda ⟨את⟩ umi tatarendy, Jahve renondépe, tapiaite.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ipotĩva"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "omohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tatarendy"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "umi tatarendy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:34.783619811Z",
+  "model": "glm-5.3"
+}

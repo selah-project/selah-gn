@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Aguara kuñakuéra oipeʼa hikuái heteti, omeʼẽ hikuái kamby imembykuérape; che avakuéra raʼy iñakãnundu, oikóvaicha ñandu guasu yvyguasu nandípe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "aguara kuñakuéra"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "oipeʼa hikuái"
+    },
+    {
+      "surface": "שד",
+      "gloss": "heteti"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "omeʼẽ hikuái kamby"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "imembykuérape"
+    },
+    {
+      "surface": "בת",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che avakuéra"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "iñakãnundu"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ñandu guasu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvyguasu nandípe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:17:34.395634712Z",
+  "model": "glm-5.3"
+}

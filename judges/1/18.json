@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jehuda ohupyty ⟨את⟩ Aza ha ⟨את⟩ hete tereke, ⟨את⟩ Chakelon ha ⟨את⟩ hete tereke, ⟨את⟩ Ekron ha ⟨את⟩ hete tereke.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hete tereke"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "hete tereke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chakelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Chakelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hete tereke"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "hete tereke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hete tereke"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "hete tereke"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:04.454894485Z",
+  "model": "glm-5.3"
+}

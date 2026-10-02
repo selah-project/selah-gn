@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha oheʼi cherehe: yvypóra raʼy, epyso nde py ári, ha amboatẽ ⟨את⟩ nde rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "epyso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "nde py"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "amboatẽ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:55:39.805316242Z",
+  "model": "glm-5.3"
+}

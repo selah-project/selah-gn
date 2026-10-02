@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "And יהוה said: Because they have forsaken ⟨את⟩ my Tora which I set before them, and have not obeyed my voice, and have not walked in it —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and said"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "על",
+      "gloss": "because"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "they have forsaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my Tora"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "my Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I set"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "before them"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and not"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "they obeyed"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and not"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "they walked"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in it"
+    }
+  ],
+  "timestamp": "2026-10-02T13:15:40.794979918Z",
+  "model": "glm-5.3"
+}

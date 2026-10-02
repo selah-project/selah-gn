@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Jahve ojehechakuaa iñakãguasúramo, oikógui yvateitépe; omohuʼã Tsiyon hekojojaha ha tsedek rehe.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ojehechakuaa iñakãguasúramo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oikógui"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yvateitépe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "omohuʼã"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ha tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T19:07:56.598277203Z",
+  "model": "glm-5.3"
+}

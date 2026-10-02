@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 29:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Nde ohóvo haguã ñeʼẽmeʼẽ Jahve, nde Elohim, ryepýpe, ha iñeʼẽmeʼẽ hatãme — Jahve, nde Elohim, oikysẽ nde rehe koʼág̃a.",
+  "tokens": [
+    {
+      "surface": "לעברך",
+      "gloss": "nde ohóvo haguã"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ñeʼẽmeʼẽ ryepýpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ובאלתו",
+      "gloss": "ha iñeʼẽmeʼẽ hatãme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "oikysẽ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "koʼág̃a"
+    }
+  ],
+  "timestamp": "2026-10-02T10:08:14.326234053Z",
+  "model": "glm-5.3"
+}

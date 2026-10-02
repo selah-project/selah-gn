@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Yvy túi mburuvichakuéra ha opaite tetãnguéra ruichakuéra; isaikuéra ha opaite yvy hekojojaha kuéra.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy túi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "tetãnguéra ruichakuéra"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "isaikuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hekojojaha kuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.042328246Z",
+  "model": "glm-5.3"
+}

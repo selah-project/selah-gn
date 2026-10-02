@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Jahve, nde Elohim, oikove haguãicha, ndaipóri avanoʼõ térã tavetã hendivepa nde jára nohenóiva oheka hag̃ua nde rehe; ha heʼírõguare: ndaipóri koʼápe, haʼe ojerurekatu ñeʼẽmeʼẽ ⟨את⟩ tavetã ha ⟨את⟩ avanoʼõ ndívope, ani hag̃ua ojuhu nde.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haguãicha"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "avanoʼõ"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "térã tavetã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hendivepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nohenói"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nde jára"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upe hetãme"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "oheka hag̃ua nde rehe"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ha heʼírõguare"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri koʼápe"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "ojerurekatu ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavetã"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "tavetã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "avanoʼõ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "avanoʼõ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "ojuhu nde"
+    }
+  ],
+  "timestamp": "2026-10-02T11:55:21.078840160Z",
+  "model": "glm-5.3"
+}

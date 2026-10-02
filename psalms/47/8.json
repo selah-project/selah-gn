@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Elohim haʼe ⟨the⟩ opavave yvy mburuvicha guasu; eipurahéi arandúpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼe rupi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "eipurahéi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "arandúpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:09.536267869Z",
+  "model": "glm-5.3"
+}

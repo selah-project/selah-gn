@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oiko upéva, heta rire iñembo'e Jahve renondépe, Eli oma'ẽ ⟨את⟩ hyeguape.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha oiko upéva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…rire"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "heta rire"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "iñembo'e"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ha Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "oma'ẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyeguape"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "hyeguape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:52:24.448086910Z",
+  "model": "glm-5.3"
+}

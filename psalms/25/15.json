@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Che hesa tapiaite ohecha Jahve-pe, haʼe ogueru che pykuéra jahugui.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "che hesa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe rupi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ogueru esẽ"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "jahugui"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "che pykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:41.451385115Z",
+  "model": "glm-5.3"
+}

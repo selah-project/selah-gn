@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha oisãmbyhy chupekuéra iéra rehegua, oikuaauka hag̃ua ⟨את⟩ ipuʼakapa.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Ha oisãmbyhy chupekuéra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iéra"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "oikuaauka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipuʼakapa"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ipuʼakapa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:56.873091486Z",
+  "model": "glm-5.3"
+}

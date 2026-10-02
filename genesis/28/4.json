@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha ome ndeve ⟨את⟩ Avraham ñeporiahuvereko — ndéve ha nde ñemoñarépe nde ndive — nde rerekóvo ⟨את⟩ yvy nde rekohaguáva, umíva Elohim ome Avraham-pe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ha ome"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham ñeporiahuvereko"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ñeporiahuvereko"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ha nde ñemoñarépe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde ndive"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "nde rerekóvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "nde rekohaguáva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ome"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:49:29.171238089Z",
+  "model": "glm-5.3"
+}

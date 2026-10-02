@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Hiʼaite voi guyra michĩ ojuhu óga, ha doror oguereko guaʼu oñemoĩ hag̃ua hese imembykuéra: ⟨את⟩ ne mbopehenguéra, Jahve Tsevaot, che mburuvicha guasu ha che Elohim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hiʼaite voi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "guyra michĩ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "ha doror"
+    },
+    {
+      "surface": "קן",
+      "gloss": "guaʼu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñemoĩ hag̃ua hese"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mbopehenguéra"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "ne mbopehenguéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "che mburuvicha guasu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ha che Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:30.312196278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Ajohéita Mitsraim Mitsraim rehe, ha oñorairõta kuimbaʼe ijakavere, ha kuimbaʼe irũndi; tava tavandi, tetã tetãndi.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Ajohéita"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim rehe"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "oñorairõta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ijakavere"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimbaʼe"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "irũndi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tava"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tavandi"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "tetãndi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:38:49.764762263Z",
+  "model": "glm-5.3"
+}

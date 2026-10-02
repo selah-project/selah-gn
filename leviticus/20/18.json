@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuimba'e okéva peteĩ ⟨את⟩ kuñáme imba'asýpe, ha oipe'a ⟨את⟩ hese tyai — ⟨את⟩ hese yvu oipe'a — ha ha'e oipe'a ⟨את⟩ hese yvu itugu'ígui; mokõive ojekaitẽta ituichaguéra apytégui.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ha kuimba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okéva"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuña imba'asýva"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuñáme"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "imba'asýpe"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "ha oipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hese tyai"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hese tyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hese yvu"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "hese yvu"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ha ha'e"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hese yvu itugu'ígui"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "hese yvu"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "itugu'ígui"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "ojekaitẽta"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ituichaguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:51.731061788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha jarýi umi jokoha apohápe ndahechakuaái ⟨את⟩ Yosef, ha oñemongueterei chugui.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha nda...i"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hechakuaái"
+    },
+    {
+      "surface": "שר",
+      "gloss": "jarýi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "umi jokoha apohápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ha oñemongueterei chugui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:56:35.067772129Z",
+  "model": "glm-5.3"
+}

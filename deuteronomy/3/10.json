@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Mishor táva opaite, ha Gilead opaite, ha Chachan opaite, Salja peve ha Edrei peve — Belti 769 — táva guasu Og retãme, Chachán peve.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "Mishor"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Chachan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salja"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ha Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "retã"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Chachán-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:56.693078438Z",
+  "model": "glm-5.3"
+}

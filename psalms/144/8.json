@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Upeicha pevarã, hembeʼy oñeʼẽ mbaʼe jeguakaʼỹre, ha i po akatúa haʼe peteĩ po jeguakaʼỹréva.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "upeicha pevarã"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hembeʼy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mbaʼe jeguakaʼỹre"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ha i po akatúa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "po"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "jeguakaʼỹréva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:46.587422702Z",
+  "model": "glm-5.3"
+}

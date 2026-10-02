@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha peẽ nomanduʼái ⟨את⟩ Jahve, peẽ Elohim; haʼe ohepoi ⟨את⟩ peẽ Sisera pópe, Hatsor norairõ aty ruvicha, ha Pelishto-kuéra pópe, ha Moav mburuvicha pópe; ha umi oñorairõ peẽ rehe.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "nomanduʼái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ohepoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ruvicha"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "norairõ aty"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ha pópe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishto-kuéra"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ha pópe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "oñorairõ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "peẽ rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:26.808622466Z",
+  "model": "glm-5.3"
+}

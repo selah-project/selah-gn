@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Pe overe ombojo'a ⟨את⟩ ipo ha ho'u ⟨את⟩ ikyra.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Pe overe"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ombojo'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ha ho'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikyra"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ikyra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:22.619232434Z",
+  "model": "glm-5.3"
+}

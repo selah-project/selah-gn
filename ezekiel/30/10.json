@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Upéicha he'i Adonai Jahve: Che amboykéta ⟨את⟩ Mitsraim aty guasuetepe Nevukadretsar, Bavel mburuvicha pópe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "amboykéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim aty guasuete"
+    },
+    {
+      "surface": "המון",
+      "gloss": "aty guasuete"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-02T14:25:19.477990938Z",
+  "model": "glm-5.3"
+}

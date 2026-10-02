@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Ñemboʼe pe oñembyasývape g̃uarã, oñemonguʼírõguare, ha Jahve renondépe omonoʼõ iñepyʼamongeta.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ñemboʼe"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "pe oñembyasývape g̃uarã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rõguare"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "oñemonguʼí"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ha ... renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "omonoʼõ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "iñepyʼamongeta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:48.474981048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Che rayhuhára ha che angirũkuéra che mbaʼasy renondégui oĩ hikuái ⟨את⟩, ha che mboyvehakuéra oĩ mombyry.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "che rayhuhára"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ha che angirũkuéra"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "renondégui"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "che mbaʼasy"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "oĩ hikuái"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "ha che mboyvehakuéra"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "mombyry"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "oĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:55.434409375Z",
+  "model": "glm-5.3"
+}

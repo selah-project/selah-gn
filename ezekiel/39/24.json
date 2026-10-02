@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Iñañakuéra ha ijejavykuéra rireichépe ajapo ⟨את⟩ chuguikuéra, ha añemi che ase hesekuéra.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "iñañakuéra rireichépe"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ijejavykuéra rireichépe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "añemi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che ase"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "hesekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T14:36:18.356207234Z",
+  "model": "glm-5.3"
+}

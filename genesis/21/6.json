@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Sara heʼi: Elohim ojapo che g̃uarã tchaʼeko; opaite ohendúva otaʼeko cherehe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "tchaʼeko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che g̃uarã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ohendúva"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "otaʼeko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:05.911037093Z",
+  "model": "glm-5.3"
+}

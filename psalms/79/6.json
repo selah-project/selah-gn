@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Esénã nde py'aguapy umi tetãnguéra ári nderekuaa'ỹvare, ha umi ñesãmbyhykuéra ári, umíva nde réra ndo'ẽiva.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Esénã"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "nde py'aguapy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo'ẽi"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "nderekuaa'ỹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha umi ... ári"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ñesãmbyhykuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo'ẽi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ndo'ẽiva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:11.994721306Z",
+  "model": "glm-5.3"
+}

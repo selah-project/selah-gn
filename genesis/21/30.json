@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha heʼi: ⟨את⟩ umi pokõi ovecha raʼỹi reguatarã che po.gui, che mbohovairã che ahuʼã hague upe ⟨את⟩ ykua koʼãva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(najái)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi pokõi ovecha raʼỹi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ovecha raʼỹi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "reguatarã"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "che po.gui"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "(hag̃uate)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ojehúta⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "mbohovairã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(hag̃uáicha)"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ahuʼã hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upe ykua koʼãva"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ykua"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "koʼãva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:01.413710336Z",
+  "model": "glm-5.3"
+}

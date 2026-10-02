@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Nehenóiriko ⟨את⟩ ipópe, pe ára ombojerure hikuái ñorairõháragui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nahániri"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "nehenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipópe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "pe ára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe ára ojehúva"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ombojerure"
+    },
+    {
+      "surface": "מני",
+      "gloss": "…gui"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ñorairõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:40.403342030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "ha umi mburuvichápe oĩva yvatevoguápe, yvyty ryepýpe, yvy guasúpe Kinerot ñembyvoguápe, yvy vypyguápe, ha Dor rembeʼýpe, paraguasu ñembyvoguápe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ha … -pe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "umi mburuvicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "yvatevoguápe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty ryepýpe"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "yvy guasúpe"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñembyvoguápe"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "yvy vypyguápe"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "ha … rembeʼýpe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "paraguasu ñembyvoguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:25:30.801825729Z",
+  "model": "glm-5.3"
+}

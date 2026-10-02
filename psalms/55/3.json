@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Embojepy'apy cherehe ha eñembohovái chéve; ahesa'i che mba'erandu pype ha ahu'u.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Embojepy'apy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "eñembohovái chéve"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ahesa'i"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "che mba'erandu pype"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "ahu'u"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:30.977848900Z",
+  "model": "glm-5.3"
+}

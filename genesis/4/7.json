@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "¿Anipa nde rejupíta, remeñõporã ramo? Ha ndemeñõporãi ramo, mbaʼevai oĩ oñeno karasópe; ha nde rehe iñmoinge, ha nde reisãmbyhy hese.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "anipa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "remeñõporã"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "rejupíta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha ... ramo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "emeñõporãi"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "karasópe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "oñeno"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "iñmoinge"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "reisãmbyhy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:25.257139086Z",
+  "model": "glm-5.3"
+}

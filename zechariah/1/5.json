@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Peí tuakuéra, mamópa oĩ haʼekuéra? Ha umi nabi, ¿ovevekuaapa saʼyju aja?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "peí tuakuéra"
+    },
+    {
+      "surface": "איה",
+      "gloss": "mamópa oĩ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ha umi nabi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "saʼyju aja"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ovevekuaapa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:24.403886061Z",
+  "model": "glm-5.3"
+}

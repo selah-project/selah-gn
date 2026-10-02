@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha he'i isãmbyrepe: Ehecha, pe ñemoñare — Jisrael mitãkuéra — hetaiterei ha ipu'akave ñandévégi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isãmbyre"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ha ipu'akave"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ñandévégi"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:15.907021118Z",
+  "model": "glm-5.3"
+}

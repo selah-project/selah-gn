@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Tekove ojerure nembyejupe, remoĩ chupe ⟨את⟩ hese — ára pukukue, sára ha sáraite.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nembyejupe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "remoĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sára ha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sáraite"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:34.606708133Z",
+  "model": "glm-5.3"
+}

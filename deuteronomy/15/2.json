@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha kóva pe chemita ñeʼẽ: opaite mbaʼu jára ipópe omeʼẽvaʼekue iñirũme g̃uarã, oñemboyke vaʼerã; ani ojepyso ⟨את⟩ iñirũ ha ⟨את⟩ iñkyra rehe, chemita oñembohéra rupi Jahve rérape.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ha kóva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "chemita"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "oñemboyke vaʼerã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "jára"
+    },
+    {
+      "surface": "משה",
+      "gloss": "mbaʼu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekue"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "iñirũme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iñirũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñkyra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iñkyra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oñembohéra"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "chemita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rérape"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:38.527113331Z",
+  "model": "glm-5.3"
+}

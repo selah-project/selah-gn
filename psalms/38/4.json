@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Che retépe ndaipóri katuete, nde kyrai reheguaitépe; che rusúpe ndaipóri pyʼaguapy, che jejavy reheguaitépe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "katuete"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "che retépe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "reheguaitépe"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "nde kyrai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "che rusúpe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "reheguaitépe"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "che jejavy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:45.978363779Z",
+  "model": "glm-5.3"
+}

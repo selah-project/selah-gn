@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha peheʼi ñandéve Jahve, nde Elohim, ⟨את⟩ pe tape jahekomboʼa hagua pe aveguinte, ha ⟨את⟩ pe mbaʼe jajapotaha.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ha peheʼi ñandéve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tape"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "pe tape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נלך",
+      "gloss": "jahekomboʼa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pe aveguinte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mbaʼe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "jajapotaha"
+    }
+  ],
+  "timestamp": "2026-10-02T13:42:32.055540597Z",
+  "model": "glm-5.3"
+}

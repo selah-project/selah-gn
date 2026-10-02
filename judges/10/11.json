@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve heʼi Jisrael mitãnguérape: ¿Nachepa che amonguera peẽ Mitsraim gui, Emori gui, Amon mitãnguéra gui ha Pelichtim gui?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguérape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿Nachepa?"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim gui"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha gui"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha gui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha gui"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelichtim"
+    }
+  ],
+  "timestamp": "2026-10-02T10:40:53.099594145Z",
+  "model": "glm-5.3"
+}

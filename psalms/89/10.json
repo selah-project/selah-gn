@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Nde rejára ⟨the⟩ rory overãparaguépe; opuʼã jave umi ñendyrũ, nde rejoko chukuéra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "rejára"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "rory overãparaguépe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨the⟩"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "opuʼã jave"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "umi ñendyrũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "rejoko chukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:49.283072763Z",
+  "model": "glm-5.3"
+}

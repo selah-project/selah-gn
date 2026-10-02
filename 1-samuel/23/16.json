@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Jonatan, Shaúl raʼýpe, oñemonguʼévo ohóvo ha oho David ága, Jorécha-pe, ha omombarete ⟨את⟩ ipo Elohim reheve.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "oñemonguʼévo ohóvo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ága"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Jorécha-pe"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "omombarete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:06.998256250Z",
+  "model": "glm-5.3"
+}

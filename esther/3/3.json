@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha mburuvicha guasu mba'apohára, umíva oĩva mburuvicha guasu rokẽme, he'i Mordejai-pe: mba'érepa rehasa ⟨את⟩ mburuvicha guasu mbo'e?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mba'apohára"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "rokẽme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordejai-pe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mba'érepa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "rehasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha guasu mbo'e"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mbo'e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T17:27:48.322262343Z",
+  "model": "glm-5.3"
+}

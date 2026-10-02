@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim heʼi: Y oñemombaʼe heta tekove oikovéva rehe, ha guyra oveve yvy ári, japepo yvaga ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "oñemombaʼe heta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "mymba michĩ heta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "oikovéva"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "oveve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ryepýpe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "japepo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:34.048380047Z",
+  "model": "glm-5.3"
+}

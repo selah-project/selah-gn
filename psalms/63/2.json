@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Elohim, che El, nde ⟨nde⟩; koʼẽme aheka nde; che reko ochuʼe nderendápe, che rete ojepyʼamongeta nderehe, yvy kuʼi asukaʼírõpe, hasyva ha yʼỹrépe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde ⟨nde⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "koʼẽme aheka nde"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ochuʼe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nderendápe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che reko"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ojepyʼamongeta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nderehe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "che rete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy… -pe"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kuʼi asukaʼírõ"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "hasyva"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "yʼỹréva"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:06.479691030Z",
+  "model": "glm-5.3"
+}

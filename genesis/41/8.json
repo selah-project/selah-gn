@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Oiko ko'ẽme ha Paroh ruah ojepy'apy, ha omondo ohenói ⟨את⟩ Mitsraim mbara'ehára paite ha ⟨את⟩ iñarandukuéra paite; Paroh omombe'u chupekuéra ⟨את⟩ iñemonga'u, ha ndaipóri oimo'ãva Paroh g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ojepy'apy"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim mbara'ehára paite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "paite"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "mbara'ehára"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñarandukuéra paite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "paite"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "iñarandukuéra"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "omombe'u"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñemonga'u"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "iñemonga'u"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "oimo'ãva"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ñemonga'u"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroh g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:58:48.675161384Z",
+  "model": "glm-5.3"
+}

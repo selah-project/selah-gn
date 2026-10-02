@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Novaj ohóvo ojagarra ⟨את⟩ Kenat ha ⟨את⟩ iñtápaikuéra, ha héra ou heseicha Kenat oñemoambue Novaj-pe, iñepypeguáre.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Ha Novaj"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ojagarra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñtápaikuéra"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "iñtápaikuéra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "hérava ichupe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novaj"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "iñepypeguáre"
+    }
+  ],
+  "timestamp": "2026-10-02T09:39:33.094385154Z",
+  "model": "glm-5.3"
+}

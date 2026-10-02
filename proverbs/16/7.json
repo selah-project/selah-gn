@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Kuimbaʼe tape kuéra oipotáramo Jahve, avei ⟨את⟩ iñoirõkuéra ojapo pyʼaguapy chugui.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "oipotáramo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "tape kuéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "iñoirõkuéra"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ojapo pyʼaguapy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chugui — kuimbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:35:23.070662014Z",
+  "model": "glm-5.3"
+}

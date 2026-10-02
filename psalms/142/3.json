@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 142,
+  "translation": "Atasa che ñemongeta iñypykuépe; che añañarõ iñypykuépe amoñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "atasa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñypykuépe"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "che ñemongeta"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "che añañarõ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñypykuépe"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "amoñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:33.344695870Z",
+  "model": "glm-5.3"
+}

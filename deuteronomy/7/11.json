@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Upévare reñangarekovaʼerã ⟨את⟩ pe mitsva, ⟨את⟩ umi tekorã ha ⟨את⟩ umi hekojojaha che namoneĩva ndéve ko ára rejapo hag̃ua chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "reñangarekovaʼerã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitsva"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pe mitsva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi tekorã"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "umi tekorã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi hekojojaha"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "umi hekojojaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "namoneĩva ndéve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "rejapo hag̃ua chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:16.676029251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha tavaygua heʼi Chemuel-pe: Mávapa heʼi Chaúl oisãmbyhyta ñandére? Peemeĩ ko umi kuimbaʼe jajuka hag̃ua chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "oisãmbyhyta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñandére"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "peemeĩ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "jajuka hag̃ua chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:59:46.082956676Z",
+  "model": "glm-5.3"
+}

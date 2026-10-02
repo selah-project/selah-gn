@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ojapo ⟨את⟩ pe a'o guasu, pe efod pegua, joha apopy, opaite hovy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe a'o guasu"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "pe a'o guasu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "pe efod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "apopy"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "joha"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "hovy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:42.617375873Z",
+  "model": "glm-5.3"
+}

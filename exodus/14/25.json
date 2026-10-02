@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oipe'a ⟨את⟩ imba'yratakuéra kuãngue, ha ojogueraha hikuái atu'úpe; ha umi Mitsraim-gua he'i: Jañani Jisrael renondégui, Jahve oñorairõ chupekuéra rehe, umi Mitsraim-gua ári.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'yrata kuãngue"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "kuãngue"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "imba'yratakuéra"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "ojogueraha"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "atu'úpe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-gua"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "jañani"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondégui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "oñorairõ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra rehe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-gua ári"
+    }
+  ],
+  "timestamp": "2026-10-02T08:18:34.764941007Z",
+  "model": "glm-5.3"
+}

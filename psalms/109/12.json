@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ani oĩ ombosakoʼíva hesed chupe, ani oĩ oguerohorýiva itaʼýra itúaʼỹvape.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ombosakoʼíva"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "oguerohorýiva"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "itaʼýra itúaʼỹvape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:08.011365216Z",
+  "model": "glm-5.3"
+}

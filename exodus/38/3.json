@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ojapo ⟨את⟩ opaite mbaʼe jupiha g̃uarã: ⟨את⟩ tambichi kuéra, ⟨את⟩ jysaja kuéra, ⟨את⟩ kambuchi kuéra, ⟨את⟩ soʼo kyse kuéra ha ⟨את⟩ tata guaha kuéra; opaite i-mbaʼe jupiha g̃uarã ojapo kuarepoti pytã gui.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe jupiha g̃uarã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼe jupiha g̃uarã"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jupiha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tambichi kuéra"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "tambichi kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "jysaja kuéra"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "jysaja kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "kambuchi kuéra"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "kambuchi kuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʼo kyse kuéra"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "soʼo kyse kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "tata guaha kuéra"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "tata guaha kuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i-mbaʼe jupiha g̃uarã"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kuarepoti pytã gui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:03.150160086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Ani emeʼẽ tóra rapykuere ne reru'ã; ani rejava ne mba'asyguasúvape apytuépe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "mymba rapykuere"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "reruʼã"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "ne tóra"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "ne mba'asyguasúvape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "rejava"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "apytuépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:40.456738736Z",
+  "model": "glm-5.3"
+}

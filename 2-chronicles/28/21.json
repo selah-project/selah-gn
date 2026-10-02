@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Ajás ohaipa ⟨את⟩ Jahve óga, ⟨את⟩ mburuvicha óga ha umi karai guasu mbaʼégui, omeʼẽ Asiria mburuvichápe, ha ndaipytyvũi chupe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ohaipa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ha umi karai guasu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichápe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asiria"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndai-"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "pytyvũi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:32:35.026989761Z",
+  "model": "glm-5.3"
+}

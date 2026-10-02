@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ojopoívo oho Eli rehegua, ha heʼi: Aime ápe, nde ohenói cherehe. Ha pe heʼi: Che nahenói cherehe nde rehe; ejujey ha eke jevy. Ha ohóvo oke.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ojopoívo ohóvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Aime ápe che"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nahenói che"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ejujey"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "eke jevy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "oke"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:42.756153980Z",
+  "model": "glm-5.3"
+}

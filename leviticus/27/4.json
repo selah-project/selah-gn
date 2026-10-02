@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Kuñataĩ ramo, nde juavaha táva mbohapy pa chekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "kuñataĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hikuái⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "nde juavaha"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapy pa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "chekel"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:45.254425382Z",
+  "model": "glm-5.3"
+}

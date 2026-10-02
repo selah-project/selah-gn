@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Mikal oguereko ⟨את⟩ umi terafim ha omoĩ mimõíme, ha ⟨את⟩ kavir kavara ruguwi omoĩ iñakã rakãre, ha oñemboapy peteĩ aoháre.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "umi terafim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "mimõi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kavir kavara ruguwi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "kavir"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kavara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "iñakã rakãre"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "oñemboapy"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "peteĩ aoháre"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:28.703495497Z",
+  "model": "glm-5.3"
+}

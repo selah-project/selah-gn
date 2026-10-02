@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Añetehápe, oĩ pyte iñemosãso ijeroviandívape g̃uarã, ikatu hag̃uáchi oiko tuvichakue ñane yvýpe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "oĩ pyte"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ijeroviandívape g̃uarã"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "iñemosãso"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ikatu hag̃uáchi oiko"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tuvichakue"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ñane yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:15.284982058Z",
+  "model": "glm-5.3"
+}

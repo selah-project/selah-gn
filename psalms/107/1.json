@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Jahve-pe g̃uarã ejahái aguyje, iporã haguére ichupe, hese hesed opaite ára haguére.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "ejahái aguyje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe g̃uarã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hese hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:15.055102398Z",
+  "model": "glm-5.3"
+}

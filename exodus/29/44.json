@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha che amombaʼéta marangatu ⟨את⟩ Juajuha Tenda ha ⟨את⟩ pe tatagua renda; ha ⟨את⟩ Aharon ha ⟨את⟩ imembykuéra ambaʼéta marangatu paʼi ramo che g̃uarã.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "amombaʼéta marangatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juajuha Tenda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Juajuha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatagua renda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe tatagua renda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imembykuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "ambaʼéta marangatu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "paʼi ramo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:24.065052160Z",
+  "model": "glm-5.3"
+}

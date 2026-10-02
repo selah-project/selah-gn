@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Tsiion tajýi ohejapyre, icha karaĩ gapõme, icha ogaʼi merõme, icha táva ñemohaʼãngáva.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "ha ohejapyre"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tajýi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiion"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "icha karaĩ"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "gapõme"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "icha ogaʼi"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "merõme"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "icha táva"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "ñemohaʼãngáva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:27.005000698Z",
+  "model": "glm-5.3"
+}

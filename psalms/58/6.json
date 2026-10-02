@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Pe hikuái noñehendúiva ñeʼẽ ñeʼẽnguáva pegua, ojapóva mbaʼe jukyha kateteitéva.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...i"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "ñeʼẽnguáva pegua"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "mbaʼe jukyha"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "kateteitéva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:13.502690875Z",
+  "model": "glm-5.3"
+}

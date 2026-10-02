@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Upévare che kambarekuéra hikuái, umíva acheru ⟨את⟩ hikuái Mitsraim yvygui; ani ojekuaamoʼã kambare jehepymeʼẽicha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che kambarekuéra"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "acheru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hikuái (Mitsraim yvygui)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ojekuaamoʼãi"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "jehepymeʼẽicha"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kambare"
+    }
+  ],
+  "timestamp": "2026-10-02T09:02:44.626988184Z",
+  "model": "glm-5.3"
+}

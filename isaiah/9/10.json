@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Jahve omongakuaa Retsin ⟨את⟩ ñorairõhára kuéra hendive ári, ha ⟨את⟩ iñorairõhára kuéra ojoaju.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin ñorairõhára kuéra"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ñorairõhára kuéra"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hendive ári"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñorairõhára kuéra"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iñorairõhára kuéra"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "ojoaju"
+    }
+  ],
+  "timestamp": "2026-10-02T12:31:46.839476446Z",
+  "model": "glm-5.3"
+}

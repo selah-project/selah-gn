@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jehochua he'i: Peipe ⟨את⟩ itakuá juru, ha egueru che gotyo ⟨את⟩ ko'ã poha mburuvichakuéra itakuágui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "peipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itakuá juru"
+    },
+    {
+      "surface": "פי",
+      "gloss": "juru"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "itakuá"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ha egueru"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che gotyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'ã poha mburuvichakuéra"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "poha"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "itakuágui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:22:55.486386012Z",
+  "model": "glm-5.3"
+}

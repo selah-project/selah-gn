@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha Jahve omopuʼã hese peteĩ mburuvicha Jisrael ári, oipeʼa tavaguasúva ⟨את⟩ Jaravam óga — koʼápe ára pe; ha mbaʼépa, koʼág̃a?",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oipeʼa tavaguasúva"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "oipeʼa tavaguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaravam óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravam"
+    },
+    {
+      "surface": "זה",
+      "gloss": "péva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "koʼápe ára pe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mbaʼépa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "koʼág̃a"
+    }
+  ],
+  "timestamp": "2026-10-02T19:03:52.976661447Z",
+  "model": "glm-5.3"
+}

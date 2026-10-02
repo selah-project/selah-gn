@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha oipeʼúta ⟨את⟩ iñaokuéra ha ojahuʼúta ambue aokuéra; ha ogueraháta ⟨את⟩ pe deshen táva okápe, táva marangatu rendápe.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "oipeʼúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñaokuéra"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iñaokuéra"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ojahuʼúta"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "aokuéra"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe deshen"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "pe deshen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "táva okápe"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "táva gui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:46:47.664051069Z",
+  "model": "glm-5.3"
+}

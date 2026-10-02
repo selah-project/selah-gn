@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Koʼã haʼe téra Esav memby kuéra: Elifaz, Ada rayhu, Esav kuña; Reuel, Bachemat rayhu, Esav kuña.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "téra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby kuéra"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "rayhu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "rayhu"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bachemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:33.085363040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ojapo hikuái ⟨את⟩ Pésaj peteĩha jasýpe, jasýpa irundyha ára, aravo paʼũme, Sinái yvyguápe; ojehaichagua Jahve omanda kuri ⟨את⟩ Moche-pe, upéicha ojapo Jisrael membykuéra.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésaj"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésaj"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "peteĩha jasýpe"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "irundyha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "jasýpa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "paʼũme"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvyguápe"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinái"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ojehaichagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omanda kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T09:22:33.046513206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Yoktan omomembý ⟨את⟩ Almodad, ⟨את⟩ Chelef, ⟨את⟩ Chatsarmavet ha ⟨את⟩ Jareaj.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "omomembý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Chelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jareaj"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jareaj"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:56.144913193Z",
+  "model": "glm-5.3"
+}

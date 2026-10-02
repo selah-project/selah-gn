@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Mávapa oikuaa mbaʼéichapa ipuʼaka nde verõ, ha, nde jeroviaja rehe, nde verõ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ipuʼaka"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nde verõ"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "nde jeroviaja rehe"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "nde verõ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:31.394211383Z",
+  "model": "glm-5.3"
+}

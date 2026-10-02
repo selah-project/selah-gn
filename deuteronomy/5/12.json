@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Eñangareko ⟨את⟩ Chabat ára rehe, eñemongaratu hag̃ua hese, omyesakã haguéicha ndeve Jahve, nde Elohim.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Eñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chabat ára"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "eñemongaratu hag̃ua hese"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "omyesakã haguéicha"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "omyesakã ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T09:49:02.636729355Z",
+  "model": "glm-5.3"
+}

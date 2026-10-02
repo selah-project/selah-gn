@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 42:15",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha koʼág̃a, upévare, ehendu ⟨את⟩ Jahve ñeʼẽ, peẽ Yehuda opaitemíva: Upéicha heʼi Jahve Tsevaot, Jisrael Elohim: ‘Peẽ añetehápe pejesareko pene jesareko ⟨Mitsraim⟩-pe, ha peikévo peiko upépe,’",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "opaitemíva"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "שום",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "תשמון",
+      "gloss": "pejesareko"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "pene jesareko"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "peikévo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "peikévo"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "peiko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:45:46.431639826Z",
+  "model": "glm-5.3"
+}

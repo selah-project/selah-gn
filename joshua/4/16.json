@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Emombeʼu ⟨את⟩ paʼikuérape, umi ohupytýva ñeʼẽ jahechauka ryru, ha pehupi Jarden gui.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Emombeʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paʼikuéra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ohupytýva"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ryru"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ñeʼẽ jahechauka"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ha pehupi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:15.439315465Z",
+  "model": "glm-5.3"
+}

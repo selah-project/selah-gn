@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 3:51",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Moche omeʼẽ ⟨את⟩ ⟨ה⟩ kuarepoti jeipeʼarãrã Aharon-pe ha iñemoñarekuérape, Jahve iñeʼẽ rehe, ojapouka haguéicha Jahve ⟨את⟩ Moche.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "הפדים",
+      "gloss": "jeipeʼarãrã"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon-pe"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ha iñemoñarekuérape"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojapouka haguéicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojapouka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    }
+  ],
+  "timestamp": "2026-10-02T09:14:47.363568868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha peẽ pekaru ⟨peẽ⟩ raʼykuéra soʼo, ha peẽ rajykuéra soʼo pekaru.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "pekaru"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "soʼo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "peẽ raʼykuéra"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "soʼo"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "peẽ rajykuéra"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "pekaru"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:26.289108198Z",
+  "model": "glm-5.3"
+}

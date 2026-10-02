@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Aháe umi oñehaʼãva omokañy Jahve gui iñeʼẽnguéra, ha umi mbaʼe ojapóva oiko ypytũme; ha heʼi: Máva pa ohecha ore? Ha máva pa oikuaa ore?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aháe"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "umi oñehaʼãva tuichakue"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahve gui"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "omokañy hag̃ua"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "iñeʼẽnguéra"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ha ⟨oiko⟩"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "ypytũme"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "umi mbaʼe ojapóva"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Máva pa"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "ohecha ore"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha máva pa"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "oikuaa ore"
+    }
+  ],
+  "timestamp": "2026-10-02T12:45:10.787868439Z",
+  "model": "glm-5.3"
+}

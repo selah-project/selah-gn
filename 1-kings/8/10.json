@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Oiko paʼikuéra ohesẽvo marangatu rendágui, ha pe ao ohenyhẽ ⟨את⟩ Jahve óga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ohesẽvo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu rendá"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ha pe ao"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ohenyhẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:45:02.450480736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Efraim oñeʼẽ vove, jetuʼu oĩ; haʼe ojepyso Jisrael-pe, Baal-pe ojavy ha omano.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "oñeʼẽ vove"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "jetuʼu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal-pe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-02T14:50:30.389869Z",
+  "model": "glm-5.3"
+}

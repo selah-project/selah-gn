@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "David ndoipotái ohasa chupe ⟨את⟩ aron Jahve, hógape, David távape; David ohoharõkuaa chupe Oved-Edom gatigua rógape.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndoipotái"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ndoipotái"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "péa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ohoharõkuaa chupe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rógape"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gatigua"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:13.304132937Z",
+  "model": "glm-5.3"
+}

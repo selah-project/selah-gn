@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Opa koʼã mbaʼépe hikuái ojapo jepe jejavy, ha ndojeroviái hikuái hembi porã hetaitereívape.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "opa koʼã mbaʼépe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ojapo jepe jejavy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jepe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nanĩ"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ndojeroviái hikuái"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "hembi porã hetaitereívape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:11.556225793Z",
+  "model": "glm-5.3"
+}

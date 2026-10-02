@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha nde: emopuʼã ⟨את⟩ nde takuara ha enohã ⟨את⟩ nde po ypa ári rehe ha epoi ypa; ha Jisrael mitãnguéra oikeʼyta ypa mbytépe, yvy kuʼípe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "emopuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde takuara"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "nde takuara"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ha enohã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ypa"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ha epoi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha oikeʼyta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ypa"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "yvy kuʼípe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:18:21.905381827Z",
+  "model": "glm-5.3"
+}

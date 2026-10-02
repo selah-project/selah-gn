@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ohupi hova ventana-pe ha he'i: Máva ⟨che ndive⟩ ⟨את⟩, máva? Ha mokõi térã mbohapy eunucokuéra ohecha hendive.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ventana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨che ndive⟩ ⟨את⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "upe hendive"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "eunucokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:03:04.864131053Z",
+  "model": "glm-5.3"
+}

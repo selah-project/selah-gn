@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Tsadik juru oñeʼẽta kuaa rehe, ha iñeʼẽngue oñeʼẽta hekojojaha.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "juru"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadik"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ha iñeʼẽngue"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:47.230086357Z",
+  "model": "glm-5.3"
+}

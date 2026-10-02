@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 14:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha heʼi Moche rehe: ¿Ndeipóri pa tŷha Mitsraim-pe, emonguʼe hag̃ua orépe romano hague kaʼaguy yvýpe? ¿Mbaʼépa rejapo oréve, egueru hag̃ua orépe Mitsraim-gui?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "¿Ndeipóri pa… hag̃ua?"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndeipóri"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "tŷha"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "לקחתנו",
+      "gloss": "emonguʼe hag̃ua orépe"
+    },
+    {
+      "surface": "למות",
+      "gloss": "romano hague"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguy yvýpe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "¿Mbaʼépa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    },
+    {
+      "surface": "להוציאנו",
+      "gloss": "egueru hagũa orépe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:40.500842348Z",
+  "model": "glm-5.3"
+}

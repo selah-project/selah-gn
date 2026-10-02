@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha Josef he'i Parahó-pe: Parahó kerayvoty peteĩ año ⟨ha'e⟩; pe Elohim ojapótava ohesakã ⟨את⟩ Parahó-pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parahó"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "kerayvoty"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parahó"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "año ha'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'e Elohim ojapótava"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapótava"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ohesakã"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parahó-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:58:16.440838231Z",
+  "model": "glm-5.3"
+}

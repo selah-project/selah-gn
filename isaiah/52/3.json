@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Upéicha he'i Jahve: mba'everã'ỹre peñemu, ha kuarepoti'ỹre peñemosãsóta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mba'everã'ỹre"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "peñemu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ... 'ỹre"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "peñemosãsóta"
+    }
+  ],
+  "timestamp": "2026-10-02T12:59:17.971749647Z",
+  "model": "glm-5.3"
+}

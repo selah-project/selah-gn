@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Omonoi ⟨את⟩ iñete omanóva raʼe itúva yyvugúipe, ha oñasãñotĩ hikuái hese, heʼívo: Aî, che kyvy!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "omonoʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñete omanóva raʼe"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "iñete omanóva raʼe"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "itúva yyvugúipe"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "oñasãñotĩ hikuái"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Aî"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che kyvy"
+    }
+  ],
+  "timestamp": "2026-10-02T11:51:51.236259459Z",
+  "model": "glm-5.3"
+}

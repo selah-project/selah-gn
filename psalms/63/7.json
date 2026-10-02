@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Amandu'a jave nde che kochí ári, pyhare ñangareko árape amoñe'ẽ nde rehe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jave"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "amandu'a nde"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "che kochí"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "pyhare ñangareko árape"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "amoñe'ẽ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:54.272832332Z",
+  "model": "glm-5.3"
+}

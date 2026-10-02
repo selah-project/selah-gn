@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha koʼág̃a, neʼĩra, agueru ⟨את⟩ raʼypy huʼã yvygui neremoneiʼéma chéve, Jahve. Ha emohẽta upéva Jahve, nde Elohim renondépe, ha enupãta tesãi Jahve, nde Elohim renondépe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "neʼĩra"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "agueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raʼypy huʼã"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "raʼypy"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "huʼã"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "neremoneiʼéma"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "nemonei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "ha emohẽta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ha enupãta tesãi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T10:05:17.256922251Z",
+  "model": "glm-5.3"
+}

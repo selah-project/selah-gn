@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha ñorãirõ oiko Asa ha Baasha, Jisrael mburuvicha, apytuépe, opaikuéra arakuéra aja.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ha ñorãirõ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytuépe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaikuéra"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "arakuéra aja"
+    }
+  ],
+  "timestamp": "2026-10-02T11:54:41.438001121Z",
+  "model": "glm-5.3"
+}

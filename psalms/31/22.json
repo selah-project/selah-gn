@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Iñomba'eguasúva Jahve, ha'e ningo ojapo va'ekue tuichaiterei hesed che rehe peteĩ tetã jeikytĩrépe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Iñomba'eguasúva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ojapo va'ekue tuichaiterei"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "jeikytĩrã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:55.747935Z",
+  "model": "glm-5.3"
+}

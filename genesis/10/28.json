@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ⟨את⟩ Ovall-re, ⟨את⟩ Avimael-re ha ⟨את⟩ Cheva-re.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Oval"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cheva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:17.251104941Z",
+  "model": "glm-5.3"
+}

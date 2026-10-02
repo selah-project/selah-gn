@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Eñuhendu, che tavayguakuéra, ha amombaʼe che ñeʼẽ; eñuhendu, Jisrael, ha ahechauka ndeve: che haʼe Elohim, nde Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Eñuhendu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che tavayguakuéra"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ha amombaʼe che ñeʼẽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ha ahechauka ndeve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:21.018728013Z",
+  "model": "glm-5.3"
+}

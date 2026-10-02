@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Che Chabat kuéra peñangarekóta, ha che marangatu rendápe peñemombaʼeguasúta: che Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che Chabat kuéra"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "che Chabat kuéra"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "peñangarekóta"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ha che marangatu rendápe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "peñemombaʼeguasúta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:31.642208031Z",
+  "model": "glm-5.3"
+}

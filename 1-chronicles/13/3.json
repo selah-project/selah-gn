@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha jahera jey ⟨את⟩ ore Elohim arca ore rendápe, tavague'ã ndorohekaiva'ekue hese Shaúl ára kuérape.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "jahera jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore Elohim arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ore rendápe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tavague'ã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-va'ekue"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "rohekaiva'ekue hese"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ára kuérape"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:26.183943315Z",
+  "model": "glm-5.3"
+}

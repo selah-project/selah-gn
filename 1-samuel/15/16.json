@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Samuél he'i Shaúl-pe: Eipyta py'aguapy, ha amombe'úta ndéve ⟨את⟩ upe Jahve oñe'ẽ hague cherehe ko pyharegue. Ha ha'e he'i chupe: Eñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "eipyta py'aguapy"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "amombe'úta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upe Jahve oñe'ẽ hague"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñe'ẽ hague"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ko pyharegue"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:46.482011904Z",
+  "model": "glm-5.3"
+}

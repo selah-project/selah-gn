@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 7:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Oúvo Paroh oñeʼẽta peẽme, heʼívo: Ehechauka peẽme g̃uarã peteĩ techaukaha; upémarõ reñeʼẽta Aharon-pe: Egueru ⟨את⟩ ne mota ha ehapykueho Paroh ñandepýpe, ha oikóta mbói ramo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "oúvo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ehechauka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme g̃uarã"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "peteĩ techaukaha"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "reñeʼẽta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קח",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mota"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ne mota"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "ehapykueho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñandepýpe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "mbói ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:45.040584581Z",
+  "model": "glm-5.3"
+}

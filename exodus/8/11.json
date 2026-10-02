@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Paroh ohecha ⟨heʼíva⟩ oĩha pytuʼurõ, ha ojopy ⟨את⟩ iñapytuʼũ, ha ndohenói chupekuéra, Jahve oñeʼẽ hagueicha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨heʼíva⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oĩha"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "pytuʼurõ"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñapytuʼũ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñapytuʼũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "henói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-hagueicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:39.780999873Z",
+  "model": "glm-5.3"
+}

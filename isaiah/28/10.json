@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Haʼeháicha tekorã tekorã ári, tekorã tekorã ári, sã sã ári, sã sã ári, michĩ kóape, michĩ upépe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Haʼeháicha"
+    },
+    {
+      "surface": "צו",
+      "gloss": "tekorã"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "tekorã ári"
+    },
+    {
+      "surface": "צו",
+      "gloss": "tekorã"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "tekorã ári"
+    },
+    {
+      "surface": "קו",
+      "gloss": "sã"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sã ári"
+    },
+    {
+      "surface": "קו",
+      "gloss": "sã"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sã ári"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "michĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kóape"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "michĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:13.376291392Z",
+  "model": "glm-5.3"
+}

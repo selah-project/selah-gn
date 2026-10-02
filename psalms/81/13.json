@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Ha upévare, amboyke chupekuéra iñpyʼa hatãhápe, ha ohó hikuái imoʼãnguépe.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "amboyke chupekuéra"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "hatãhápe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "iñpyʼa"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ohó hikuái"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "imoʼãnguépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:11.713147903Z",
+  "model": "glm-5.3"
+}

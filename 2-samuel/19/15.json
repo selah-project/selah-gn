@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ombovyʼápa ⟨את⟩ pyʼagwey Juda opavavégui peteĩ kuimbaʼéicha; ha omondo ku mburuvichápe: Ejevy nde, nde ha nde mbaʼapoñemuñanguéra opavave ndive.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ombovyʼápa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyʼagwey"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pyʼagwey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavégui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "peteĩ kuimbaʼéicha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ha omondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku mburuvichápe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ejevy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha ... opavave"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mbaʼapoñemuñanguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:32:16.575367073Z",
+  "model": "glm-5.3"
+}

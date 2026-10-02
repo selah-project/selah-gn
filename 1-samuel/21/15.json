@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Akish heʼi imbaʼapoharárape: Penaʼã, pehecha peteĩ kuimbaʼe oiko tavy ramo; mbaʼérepa pe moĩ ⟨את⟩ cherehe che renondépe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imbaʼapoharakuéra"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "penaʼã"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "oiko tavy ramo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "pe moĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cherehe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:28.024628180Z",
+  "model": "glm-5.3"
+}

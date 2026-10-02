@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Elohim heʼi Avraham-pe: Sarai, nde remireko, aníkena rehenói héra Sarai; iméra Sarai ndahaʼéi — Sara héra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha … heʼi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "nde remireko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aníkena"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "rehenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "héra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nimbo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "héra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:39:11.884098063Z",
+  "model": "glm-5.3"
+}

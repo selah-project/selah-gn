@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha David oke irũnguéra ruʼichagua ndive, ha oñeñotỹ David távape.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "irũnguéra ruʼichagua"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "oñeñotỹ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:49.679512272Z",
+  "model": "glm-5.3"
+}

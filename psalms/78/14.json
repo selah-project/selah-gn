@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ogueraha chupekuéra arahasa ndive ára jave ha opa pyhare katu tata resáre.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ogueraha chupekuéra"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "arahasa ndive"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ára jave"
+    },
+    {
+      "surface": "ו כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "באור",
+      "gloss": "resa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:14.903479252Z",
+  "model": "glm-5.3"
+}

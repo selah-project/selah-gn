@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Ha okuéyta ka'a apytépe, yvyrakuéraicha ysyry y rembe'ýpe.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "okuéyta"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ka'a"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "yvyrakuéraicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "...re"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T12:53:21.735940434Z",
+  "model": "glm-5.3"
+}

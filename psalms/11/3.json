@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Mbaʼérepe pe: ojeity vove umi ypy, mbaʼépa pe ojapo hikuái pe hekojojáva?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mbaʼérepe pe"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "umi ypy"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ojeity vove"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe hekojojáva"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ojapo hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:18.860665708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ojoaju ⟨את⟩ umi po ao ojehegui, ha ⟨את⟩ umi poteĩ ao ojehegui.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ha ojoaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi po ao"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "umi ao"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ojehegui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi poteĩ ao"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "umi ao"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ojehegui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:32.041182371Z",
+  "model": "glm-5.3"
+}

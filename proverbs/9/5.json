@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ejeyke, eʼu che mbujape, ha eʼu che kaguyjy ajeʼysévape.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ejeyke"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "eʼu"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "che mbujape"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ha eʼu"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "che kaguyjy"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ajeʼysévape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:30:33.481484958Z",
+  "model": "glm-5.3"
+}

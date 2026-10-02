@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Añeteháme, peẽ ⟨pe⟩ umi tavayguakuéra, ha peẽ ndive omano jeikuaa.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Añeteháme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨pe⟩ umi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ha peẽ ndive"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jeikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:52:04.987499526Z",
+  "model": "glm-5.3"
+}

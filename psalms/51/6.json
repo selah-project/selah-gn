@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Nde rehe, nde añoite, che achatá, ha ivaíva ajapo nde resapeguápe, ikatu hag̃uáicha eiko tsedek-pe nde ñe'ẽme, ha reiko morombípe nde hekojoja jave.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nde añoite"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "che achatá"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ha ivaíva"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nde resapeguápe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃uáicha"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "eiko tsedek-pe"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "nde ñe'ẽme"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "reiko morombípe"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "nde hekojoja jave"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:52.043608675Z",
+  "model": "glm-5.3"
+}

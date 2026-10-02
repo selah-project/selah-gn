@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Emombaʼeguasu ⟨את⟩ nde ru ha ⟨את⟩ nde sy, ikatu hag̃uáicha nde arakuéra ojehasa puku pe yvýpe Jahve, nde Elohim, omeʼẽtava ndéve.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "emombaʼeguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ru"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde sy"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nde sy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃uáicha"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "ojehasa puku"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "nde arakuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽtava"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:17.297022470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Haʼeháicha hikuái ojapysaka pe rejapysaka vaʼekue rehe, ha omombeʼu ñembyasy umi reñani vaʼekue rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Haʼeháicha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe ... vaʼekue"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "rejapysaka"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ojapysaka hikuái"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ñembyasy rehe"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "umi reñani vaʼekue"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "omombeʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:25.321655305Z",
+  "model": "glm-5.3"
+}

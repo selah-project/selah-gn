@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 100,
+  "translation": "Eikuaa peẽ Jahve haʼeha Elohim; haʼe orejapo, ha ñande ndorojapói ñande; haʼéra ñande: ijavakuéra roiko, ha ovecha iñakãrakuérape g̃uarã.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "eikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "orejapo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndajaʼéi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ijavakuéra"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ha ovecha"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "iñakãrakuérape g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:25.743548930Z",
+  "model": "glm-5.3"
+}

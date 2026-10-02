@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha ⟨את⟩ Aharon ha ⟨את⟩ raʼakuéra renohẽ ñandy hiʼári, ha remoñangatu ⟨את⟩ chupekuéra che paʼíramo che g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raʼakuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "raʼakuéra"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "renohẽ ñandy hiʼári"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "remoñangatu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "che paʼíramo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:54.386491865Z",
+  "model": "glm-5.3"
+}

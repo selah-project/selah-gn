@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ambohasávo che ñeʼẽ ⟨את⟩ pe goláha rehe, opaite Jahve ñeʼẽ, haʼe ohechaukákuri chéve.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ha ambohasávo che ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pe goláha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ñeʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ohechaukákuri chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T13:59:47.172576710Z",
+  "model": "glm-5.3"
+}

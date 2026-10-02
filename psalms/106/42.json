@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha umi ñorairõhára kuéra ojopy chupekuéra, ha oñemomichĩ hikuái ikuéra pópe guýpe.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ojopy chupekuéra"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "umi ñorairõhára kuéra"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "oñemomichĩ hikuái"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ikuéra pópe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:49.964158820Z",
+  "model": "glm-5.3"
+}

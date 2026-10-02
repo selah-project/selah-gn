@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Ruah kuarahyresẽguigua ndive rembyai Tarshish ygaratakuéra.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ruah ... ndive"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "kuarahyresẽguigua"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "rembyai"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ygaratakuéra"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:36.836606430Z",
+  "model": "glm-5.3"
+}

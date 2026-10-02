@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Ahopono ⟨ta⟩ Elohim Yvatevévape, El ojapótava che rehe ojaposéva.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ahopono ⟨ta⟩"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Yvatevévape"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ojapótava... ojaposéva"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:38.564810649Z",
+  "model": "glm-5.3"
+}

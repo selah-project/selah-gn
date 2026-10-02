@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 100,
+  "translation": "Peñangareko ⟨את⟩ Jahve rehe, vyʼa reheve; peike iñapytuʼũme purahéi ndive.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "vyʼa reheve"
+    },
+    {
+      "surface": "באו",
+      "gloss": "peike"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iñapytuʼũme"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "purahéi ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:25.743393939Z",
+  "model": "glm-5.3"
+}

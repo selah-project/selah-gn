@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha nde ajapóta ⟨את⟩ ketoret, jepyhy, apohára rembiapo, jukupyréva, potĩ ha marangatu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "nde ajapóta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ketoret"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ketoret"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "jepyhy"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "apohára"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "jukupyréva"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "potĩ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:51.136587463Z",
+  "model": "glm-5.3"
+}

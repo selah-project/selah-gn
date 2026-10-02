@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha ome chupekuéra ⟨את⟩ Kiriat-Arba, Anak ru, ha'éva Hevron, Yehuda yvyty apytépe, ha ⟨את⟩ umi yvy okápe ijerére.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ha ome"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiriat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ru"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ha'éva"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty apytépe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "yvy okápe"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "yvy okápe"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:39.644164431Z",
+  "model": "glm-5.3"
+}

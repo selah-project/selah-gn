@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha omoĩmba chupe ⟨את⟩ Elohim ruah — kuaakatu, ñemongeta katu ha jeguakatu pe opaite mba'apópe.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ha omoĩmba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Elohim ruah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "kuaakatu"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ñemongeta katu"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ha jeguakatu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "pe opaite"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mba'apópe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:19.503413818Z",
+  "model": "glm-5.3"
+}

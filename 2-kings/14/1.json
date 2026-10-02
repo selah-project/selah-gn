@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ary mokõiha aja Joash, Yoahaz ra'y, Jisrael mburuvicha ramo guare, Amatsiahu, Joash ra'y, Jehudah mburuvicha, oisãmbyhy.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ary"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Joash peguarã"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:20.338756888Z",
+  "model": "glm-5.3"
+}

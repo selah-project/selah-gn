@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ogueru upégui iñembojopói, tatajepokuaa Jahve-pe: ⟨את⟩ pe ryku oñembojaháva ⟨את⟩ kere ári, ha ⟨את⟩ opaite ryku oĩva kere ári.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "iñembojopói"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tatajepokuaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ryku"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "pe ryku"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oñembojaháva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kere"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite ryku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ryku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kere"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:52.336743369Z",
+  "model": "glm-5.3"
+}

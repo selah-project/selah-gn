@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Nde rehe che añañetĩ che sy rógagui; che sy pyti'úgui nde che pe'a. Che jeguaropavẽ nde rehegua opaite ára.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "che añañetĩ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "che sy rógagui"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "che sy pyti'úgui"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "che sy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "che pe'a"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehegua"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "che jeguaropavẽ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opaite ára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:34.231715369Z",
+  "model": "glm-5.3"
+}

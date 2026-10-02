@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Ha ohenyhẽ ⟨את⟩ itetãygua kuéra hetaiterei, ha omombarete chupe ivairõhára kuéra ári.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "ohenyhẽ hetaiterei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itetãygua kuéra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itetãygua kuéra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "ha omombarete chupe"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "ivairõhára kuéra ári"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:37.563626054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 7:47",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Salomõ oheja ⟨את⟩ opaite umi mbaʼeraʼã ojesarekoʼỹre haguére — hetaitegui, heta, hetaeterei; nahániri ojekuaavei pe varẽa raʼã.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi mbaʼeraʼã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "umi mbaʼeraʼã"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "hetaitegui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaeterei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "ojekuaavei"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "raʼã"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "pe varẽa"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:49.207844574Z",
+  "model": "glm-5.3"
+}

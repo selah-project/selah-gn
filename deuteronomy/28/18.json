@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ojepyso nde rehe mbaʼevai rapykuere ne raʼỹi apytuʼũme, ne yvy raʼỹíre, ne vaka raʼykuéra ha ne ovecha raʼykuéra ári.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ojepyso nde rehe mbaʼevai rapykuere"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "raʼỹi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ne apytuʼũme"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ha raʼỹi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ne yvy"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ha raʼykuéra"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ne ovecha"
+    }
+  ],
+  "timestamp": "2026-10-02T10:10:04.754880672Z",
+  "model": "glm-5.3"
+}

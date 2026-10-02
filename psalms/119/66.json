@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Emboʼe chéve taʼã porã ha kuaa; upévare cherovia nde mboʼe rehe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "taʼã"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ha kuaa"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "emboʼe chéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "nde mboʼe rehe"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "cherovia"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:23.595488506Z",
+  "model": "glm-5.3"
+}

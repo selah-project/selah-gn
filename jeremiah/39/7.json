@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ombova ⟨את⟩ Tsidkiahu resa, ha omoĩ chupe kuarepoti jokohápe, ogueraha hag̃ua ⟨את⟩ chupe Bavel-pe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiahu resa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "resa"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ombova"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "omoĩ chupe kuarepoti jokohápe"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "kuarepotípe"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ogueraha hag̃ua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavel-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:40:33.517915372Z",
+  "model": "glm-5.3"
+}

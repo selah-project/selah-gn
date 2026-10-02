@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ojapo ⟨את⟩ yvypóra iñeraʼangápe; Elohim raʼangápe ojapo ⟨את⟩ chupe; kuimbaʼe ha kuña ramo ojapo ⟨את⟩ chukuéra.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "iñeraʼangápe"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "raʼangápe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:38.394131051Z",
+  "model": "glm-5.3"
+}

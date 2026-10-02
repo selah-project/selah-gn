@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 7:8",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha i hóga, oiko haguã upépe, oĩ kóra ambue, ulam ryepýpe, ko apopyicha ou vaʼekue; ha ojapo avei peteĩ hóga Paroh rajy peg̃uarã, pe Shelomo oguerúva, ko ulam raẽicha.",
+  "tokens": [
+    {
+      "surface": "וביתו",
+      "gloss": "ha i hóga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oiko haguã"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "kóra"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "לאולם",
+      "gloss": "ulam ryepýpe"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ko apopyicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ou vaʼekue"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ha peteĩ hóga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapo avei"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "rajy peg̃uarã"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ogerúva"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "כאולם",
+      "gloss": "ko ulam raẽicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T11:43:53.402091519Z",
+  "model": "glm-5.3"
+}

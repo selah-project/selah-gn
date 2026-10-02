@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Ha che, ndaikuaái ha ndereikuaái, mymba guasu ramo aikoe ndive.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ndaikuaái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndereikuaái"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mymba guasu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aikoe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:18.163840334Z",
+  "model": "glm-5.3"
+}

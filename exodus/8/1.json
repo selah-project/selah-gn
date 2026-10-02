@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha upéi Jahve heʼi Mochépe: ere Aharonpe: enoʼẽ ⟨את⟩ ne po ne mbatogui umi ysyry ári, umi kanã ári ha umi y ryapu ári, ha eheja ⟨את⟩ kururu ojupi hag̃ua Mitsraim yvy ári.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha upéi heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moichépe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moiché"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aharónpe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "enoʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "ne mbatogui"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "umi ysyry"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "umi kanã"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "umi y ryapu"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ha eheja ojupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kururu"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kururu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:18.490044751Z",
+  "model": "glm-5.3"
+}

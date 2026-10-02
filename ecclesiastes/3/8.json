@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Aravo hayhu hag̃ua, ha aravo ndaija'ei hag̃ua; aravo ñorãirõ, ha aravo py'aguapy.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "hayhu hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ndaija'ei hag̃ua"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "py'aguapy"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:24.507494791Z",
+  "model": "glm-5.3"
+}

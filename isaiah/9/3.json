@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Kóvare ⟨את⟩ iñuãnga tyapẽrã, ⟨את⟩ takua ijakatuguasu ári ha ⟨את⟩ — ha takua ombopohẽiva chupe, nde romokyhyjerere Midián ára javeguáicha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kóvare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñuãnga tyapẽrã"
+    },
+    {
+      "surface": "על",
+      "gloss": "iñuãnga"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "tyapẽrã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takua ijakatuguasu ári"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "takua"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ijakatuguasu ári"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "taku"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ombopohẽiva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "nde romokyhyjerere"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ára javeguáicha"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midián"
+    }
+  ],
+  "timestamp": "2026-10-02T12:30:53.668128411Z",
+  "model": "glm-5.3"
+}

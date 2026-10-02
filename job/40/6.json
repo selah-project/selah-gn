@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha Jahve ombohovái ⟨את⟩ Ijov-pe yvytu ngangyrykuígui, ha heʼi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ha Jahve ombohovái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "yvytu ngangyrykui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T17:05:41.607668148Z",
+  "model": "glm-5.3"
+}

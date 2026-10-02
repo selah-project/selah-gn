@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha che aikuaaveʼãta ⟨את⟩ Parao iñakãngatu, ha ajepyso che techaukakuéra ha che mbaʼeguasukuéra Mitsraim retãme.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ha che"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "aikuaaveʼãta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao iñakãngatu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iñakãngatu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ajepyso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che techaukakuéra"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "che techaukakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che mbaʼeguasukuéra"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "che mbaʼeguasukuéra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:46.814712725Z",
+  "model": "glm-5.3"
+}

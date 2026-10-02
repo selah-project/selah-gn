@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Pe tapichakuérape g̃uarã, Korach taʼýra kuérape g̃uarã, peteĩ mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe tapichakuérape g̃uarã"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "taʼýra kuérape g̃uarã"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:14.748953217Z",
+  "model": "glm-5.3"
+}

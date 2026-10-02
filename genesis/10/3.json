@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Gomer ra'ýkuéra: Achkenaz, Rifat ha Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ha ra'ýkuéra"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Achkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "Togarma"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:12.980176563Z",
+  "model": "glm-5.3"
+}

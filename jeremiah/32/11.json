@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha agueru ⟨את⟩ kuatia jeguatarã: ⟨את⟩ pe ojeikuapỹ vaʼekue — tekorã ha tekoiterape — ha ⟨את⟩ pe ojehecháva.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "agueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuatia jeguatarã"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatia"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "jeguatarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ojeikuapỹ vaʼekue"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "pe ojeikuapỹ vaʼekue"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "tekorã"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ha tekoiterape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe ojehecháva"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "pe ojehecháva"
+    }
+  ],
+  "timestamp": "2026-10-02T13:35:59.746733825Z",
+  "model": "glm-5.3"
+}

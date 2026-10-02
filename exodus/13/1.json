@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Jahve oñeʼẽ Moche rehe, heʼívo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ha oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:18:56.502626609Z",
+  "model": "glm-5.3"
+}

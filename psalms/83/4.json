@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Nde retãnguéra rehe ojapo hikuái ñe'ẽñemi kynha'ãme, ha oñomongeta nde ñemihakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retãnguéra"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ojapo hikuái"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ñe'ẽñemi kynha'ãme"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "oñomongeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "nde ñemihakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:04.639592013Z",
+  "model": "glm-5.3"
+}

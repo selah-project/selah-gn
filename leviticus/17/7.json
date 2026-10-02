@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha ani oĩve ojapo ⟨את⟩ iñembyai umi kavara-ñaiʼũ pe, oikutahápe hese kuñakaráicha; kóva haʼéta chupekuéra teko meʼẽ opa tekove pahápe, umi iñemoñarenguéra pýpe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha ani"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ojapo iñembyai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "oĩve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñembyai"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "iñembyai"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "umi kavara-ñaiʼũ pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikutahápe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hese"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "kuñakaráicha"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "hese"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "teko meʼẽ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opa tekove pahápe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "haʼéta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "umi iñemoñarenguéra pýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:48:01.426553209Z",
+  "model": "glm-5.3"
+}

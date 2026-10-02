@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Chemuél ombaʼapo Jahve ⟨את⟩ renondépe, mitãrõ guare, ojeréva hese peteĩ ephod inimbo rehegua.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ha Chemuél"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ombaʼapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve renondépe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitãrõ guare"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ojeréva hese"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "inimbo rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T10:54:44.784222066Z",
+  "model": "glm-5.3"
+}

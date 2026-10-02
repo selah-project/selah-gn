@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Marot okundaháva ohaʼarõ iporãre; ha ivaíva og̃uahẽ Jahve ⟨את⟩-gui, Jerusalaim rokẽme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ohaʼarõ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "iporãre"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "okundaháva"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "rokẽme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:42.688868191Z",
+  "model": "glm-5.3"
+}

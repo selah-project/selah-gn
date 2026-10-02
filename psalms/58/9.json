@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Kuimbaʼe ruguai ichagua ojapo hese ohasa hag̃ua oñemondývo hovy; kuña raʼy manombývaicha, ndohechamoʼãi kuarahy.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ichagua"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "kuimbaʼe ruguai"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "oñemondývo hovy"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "raʼy manombýva"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ndo…moʼãi"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kuarahy"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:45.491393198Z",
+  "model": "glm-5.3"
+}

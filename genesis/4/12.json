@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Rembaʼapo ramo ⟨את⟩ yvy, nomoĩvéima ogueru hag̃ua ipoguasu ndéve; ekororõ ha embosarái ehára nde reikótaha yvy ári.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "rembaʼapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "nomoĩvéima"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ogueru hag̃ua"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ipoguasu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "נע",
+      "gloss": "ekororõ"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "embosarái"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nde reikótaha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ári"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:14.831659954Z",
+  "model": "glm-5.3"
+}

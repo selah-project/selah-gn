@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Haʼehaguangueterei ára ha ára, pyhare katu, nde po ipohýi che ári; che rovyũkue oñemoambue araraki kirirĩguáicha. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼehaguangueterei"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ára ha ára"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "pyhare katu"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ipohýi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "oñemoambue"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "che rovyũkue"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "kirirĩguáicha"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "araraki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:58.346170252Z",
+  "model": "glm-5.3"
+}

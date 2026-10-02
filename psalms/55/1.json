@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Pe mongu'ehára neguina réra rehe g̃uarã — David ñemoarandu purahei.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe mongu'ehára"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "neguina réra rehe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ñemoarandu purahei"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mba'éva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:30.977491563Z",
+  "model": "glm-5.3"
+}

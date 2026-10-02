@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Emboguata cherehe nde añeteguápe ha eñarandu cherehe, néinte nde ⟨haʼe⟩ Elohim che pysyrõhaguãrã; ⟨את⟩ Nde roha'ārō opa ára paitépe.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "emboguata cherehe"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nde añeteguápe"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ha eñarandu cherehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "néinte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "che pysyrõhaguãrã"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Nde (roha'ārō raʼãhára)"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "roha'ārō"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:52.701987886Z",
+  "model": "glm-5.3"
+}

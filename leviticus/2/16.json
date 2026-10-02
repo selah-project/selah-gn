@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha paʼi ohybytáta ⟨את⟩ pehengue manduʼarã — kuʼi pegua ha ekyra pegua — opa i levona reheve; jopói tata-pe g̃uarã Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ohybytáta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pehengue manduʼarã"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "pehengue manduʼarã"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kuʼi pegua"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ha ekyra pegua"
+    },
+    {
+      "surface": "על",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "i levona"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jopói tata-pe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:57.469844828Z",
+  "model": "glm-5.3"
+}

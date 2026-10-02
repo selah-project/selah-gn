@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 20:18",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha ahe'i pe umi membykuéra rape yvyguasúpe: Ani peho pe tekorã rupi pe rukuéra peguáre; ani peñangareko ⟨את⟩ hekojojaha kuéra rehe; ha taʼangakuéra rehe ani peñembyaikuaa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ha aheʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "umi membykuéra rape"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvyguasúpe"
+    },
+    {
+      "surface": "בחוקי",
+      "gloss": "pe tekorã rupi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "pe rukuéra peguáre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "peho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hekojojaha kuéra"
+    },
+    {
+      "surface": "משפטיהם",
+      "gloss": "hekojojaha kuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "ובגלוליהם",
+      "gloss": "ha taʼangakuéra rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "peñembyaikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:15:27.073530896Z",
+  "model": "glm-5.3"
+}

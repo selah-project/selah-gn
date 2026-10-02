@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ehaíta umi itáre ⟨את⟩ opaite ko Tora ñeʼẽnguéra, ehaí hesakãporã.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Ha ehaíta"
+    },
+    {
+      "surface": "על",
+      "gloss": "re"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "umi ita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ko Tora ñeʼẽnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ko Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ehaí hesakãporã"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "iporãháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:14.401509771Z",
+  "model": "glm-5.3"
+}

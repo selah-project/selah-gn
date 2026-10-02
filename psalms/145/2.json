@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Opa ára ajopa nde, ha añemomba'eguasu nde réra rehe opa'ỹre, opaitevévo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Opa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ajopa nde"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ha añemomba'eguasu nde"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa'ỹre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "opaitevévo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:38.647948505Z",
+  "model": "glm-5.3"
+}

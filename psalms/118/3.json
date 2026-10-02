@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Aharon óga ñaneʼẽ koʼág̃a: hesed oiko opa ára peve.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ñaneʼẽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ára peve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:14.834643854Z",
+  "model": "glm-5.3"
+}

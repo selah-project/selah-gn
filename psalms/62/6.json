@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Che pyʼa, eñenoʼã añoite Elohim peve; upévare heseguaitégui ou che akõ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim peve"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "eñenoʼã"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che pyʼa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "heseguaitégui"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "che akõ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:42.776638558Z",
+  "model": "glm-5.3"
+}

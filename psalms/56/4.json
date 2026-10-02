@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Pe ára che kyhyjéva, che jerovia ne rehe.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "pe ára"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "che kyhyje"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "che jerovia"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:43.901326268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 10:8",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ojopy ha ombopyʼarory ⟨את⟩ Jisrael membykuéra upe arýpe — poapy ary poapy ary pukukue — opaite ⟨את⟩ Jisrael membykuéra oĩva Yarden yke gotyo, emoreo yvýpe, oĩva Gilead-pe.",
+  "tokens": [
+    {
+      "surface": "וירעצו",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "וירצצו",
+      "gloss": "ombopyʼarory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "upe arýpe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "poapy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ary pukukue"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Jisrael membykuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "yke gotyo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoreo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gilead-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:43:31.929479726Z",
+  "model": "glm-5.3"
+}

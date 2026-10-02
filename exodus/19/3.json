@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Moche oguata amo Elohim rendápe, ha Jahve ohenói chugui yvyty guive, he'ívo: Ko'ãcha re'éta Jaakov óguape ha emombe'u Jisrael mitãnguérape.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Ha Moche"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "oguata amo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko'ãcha"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "re'éta"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óguape"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "emombe'u"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mitãnguérape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:54.793642280Z",
+  "model": "glm-5.3"
+}

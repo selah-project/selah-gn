@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve ohecha Lea haʼeháicha ndaijaʼéi chupe, ha oipe'a ⟨את⟩ Lea ñandy; ha Raquel katu naimeméi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "ndaijaʼéi chupe"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea ñandy"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ñandy"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ha Raquel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "naimeméi"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:18.277867512Z",
+  "model": "glm-5.3"
+}

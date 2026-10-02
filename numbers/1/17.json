@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Upéicha Moche ha Aharon ogueru ⟨את⟩ koʼã kuimbaʼe, oñemohenda vaʼekue hikuái iñára rupive.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã kuimbaʼe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "iñára rupive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:13:34.899025611Z",
+  "model": "glm-5.3"
+}

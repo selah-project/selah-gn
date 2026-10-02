@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha mba'érepa peẽ pegueru ⟨את⟩ Jahve aty ko ka'aguy tuja-pe, jamano hag̃ua upépe oréva ha ore mymbakuéra ndive?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Ha mba'érepa"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "pegueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve aty"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ko ka'aguy tuja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למות",
+      "gloss": "jamano hag̃ua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "oréva"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "ore mymbakuéra ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:32:13.393140091Z",
+  "model": "glm-5.3"
+}

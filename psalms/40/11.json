@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Nde tsedek nañomi che py'a ryepýpe; nde je'akuarahã ha ne ñemoã aikuaauka; nde hesed ha nde ñe'ẽ ete nañomi aty guasúpegui.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "nde tsedek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na... i"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "nañomi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che py'a"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "nde je'akuarahã"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "ha ne ñemoã"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aikuaauka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na... i"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "nañomi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ha nde ñe'ẽ ete"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "aty... pégui"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:01.668396213Z",
+  "model": "glm-5.3"
+}

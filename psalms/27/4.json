@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Peteĩ mbaʼe che jerure ⟨את⟩ Jahve rehe; ⟨את⟩ kóva che aheka: aiko hag̃ua Jahve roguaquépe opaite che rekove ára, ahecha hag̃ua Jahve iporãngue, ha aheka hag̃ua iheikálpe.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Peteĩ"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "che jerure"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "kóva che aheka"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "che aheka"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "roguaquépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "ahecha hag̃ua"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "iporãgüe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ha aheka hag̃ua"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "iheikálpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:59.197288211Z",
+  "model": "glm-5.3"
+}

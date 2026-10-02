@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Kaʼaru jave, Lavan ogueru ⟨את⟩ Lea, imemby kuña, ha omoĩ chupe Jaakov-pe; ha Jaakov oho chupe ndive.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kaʼaru jave"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "imemby kuña"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Jaakov-pe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oho chupe ndive"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:41.240371474Z",
+  "model": "glm-5.3"
+}

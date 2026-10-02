@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Dan will be a snake upon the road, a horned adder upon the path, that bites ⟨את⟩ the heels of a horse, and its rider will fall backward.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "it will be"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "a snake"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "upon"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "the road"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "a horned adder"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "the path"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "that bites"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the heels of a horse"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "the heels of"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "a horse"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "and it will fall"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "its rider"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "backward"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:32.033718067Z",
+  "model": "glm-5.3"
+}

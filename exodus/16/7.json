@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ko'ẽme pehecháta ⟨את⟩ Jahve mba'eguasu, ohendúvo ⟨את⟩ pe ñe'ẽ vai peñe'ẽva Jahve rehe; ñande mba'épa, peñe'ẽ vai ñanderehe hikuái?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "pehecháta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve mba'eguasu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "mba'eguasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ohendúvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñe'ẽ vai"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "pe ñe'ẽ vai"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'épa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "peñe'ẽ vai"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñanderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:22.384577288Z",
+  "model": "glm-5.3"
+}

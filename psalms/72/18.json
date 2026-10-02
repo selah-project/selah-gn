@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Iporã Jahve Elohim, Jisrael Elohim, haʼe añónte ojapovaʼerã mbaʼe tuichaitereíva.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Iporã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼerã"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mbaʼe tuichaitereíva"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "haʼe añónte"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:44.161101560Z",
+  "model": "glm-5.3"
+}

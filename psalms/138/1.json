@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "David-pe g̃uarã. Aaguyje ndeve che py'a tuichakue javeve; Elohim renondépe apuraheita ndeve.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aaguyje ndeve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tuichakue javeve"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che py'a"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "apuraheita ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:30.486932481Z",
+  "model": "glm-5.3"
+}

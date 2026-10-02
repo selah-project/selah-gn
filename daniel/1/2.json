@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 1:2",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Adonai omeʼẽ ipoúpe ⟨את⟩ Yehojakim, Yehuda mburuvicha, ha Elohim róga mbaʼe apytiete; ogueraha Chinár yvýpe, i tupã rógape, ha ⟨את⟩ umi mbaʼe ogueraha i tupã mbyjaipi rógape.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipoúpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehojakim, Yehuda mburuvicha"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehojakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומקצת",
+      "gloss": "ha ... apytiete"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Chinár"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "i tupã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "umi mbaʼe"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "mbyjaipi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "i tupã"
+    }
+  ],
+  "timestamp": "2026-10-02T17:30:58.440109528Z",
+  "model": "glm-5.3"
+}

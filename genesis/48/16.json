@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "pe anjel che isãva opa mbaʼe vaígui, omboʼe ⟨את⟩ umi mitãraʼỹi, ha che réra ojemoĩ hesekuéra ári, ha che ru kuéra réra — Avraham ha Jitshak réra —; ha okakuaa hetaite yvy mbytépe.",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "pe anjel"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "che isãva"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opa mbaʼe vaígui"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "omboʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mitãraʼỹi"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "umi mitãraʼỹi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ojemoĩ ári"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hesekuéra"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "che réra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ha réra"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "che ru kuéra réra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "ha Jitshak"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "okakuaa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:46.223245248Z",
+  "model": "glm-5.3"
+}

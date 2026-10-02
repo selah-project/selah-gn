@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha peñangarekota ⟨את⟩ che chukókuéra opavavére ha ⟨את⟩ che hekojojakuéra opavavére, ha pejapota ⟨את⟩ umíva: che ⟨ahã⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ha peñangarekota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che chukókuéra opavavére"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavére"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "che chukókuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "che hekojojakuéra opavavére"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavére"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "che hekojojakuéra"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ha pejapota"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ umíva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:09.903795027Z",
+  "model": "glm-5.3"
+}

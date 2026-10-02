@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 92,
+  "translation": "Asór ári, pa tague apuʼa, ha nevel ári, higaión-peteĩ kinar rehe.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asór"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ha ... ári"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higaión"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinar rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:57.337001703Z",
+  "model": "glm-5.3"
+}

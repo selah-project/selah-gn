@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Paʼi rekove iporãmba akóinte, ha oguereko ⟨את⟩ efod, ⟨את⟩ terafim ha ⟨את⟩ pesel, ha ou ava kuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "iporãmba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ha oguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pesel"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "pesel"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ava kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:49:37.524622642Z",
+  "model": "glm-5.3"
+}

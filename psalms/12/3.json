@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Mbaʼe newarõ oñeʼẽ peteĩ kuimbaʼe ⟨את⟩ iñirũ rehe; ijurukuaa korapỹ, korasõ ha korasõ oñeʼẽ hikuái.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "mbaʼe newarõ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũ rehe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iñirũ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ijurukuaa"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "korapỹ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ha korasõ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "oñeʼẽ hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:02.961316577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Jasy raʼýpe, jasy pyahu peteĩhápe, emoĩpyta vaʼerã ⟨את⟩ Michkan, ñembojasarã rogue.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "peteĩhápe"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "emoĩpyta vaʼerã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "rogue"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ñembojasarã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:46:15.052045295Z",
+  "model": "glm-5.3"
+}

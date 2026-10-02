@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Oúta umi mbaretévakuéra Mitsraim-gui; Kuch osundyry pyaʼe ohupi hese ipo Elohim pe.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "oúta"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "mbaretévakuéra"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuch"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "osundyry pyaʼe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim pe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:39.212316465Z",
+  "model": "glm-5.3"
+}

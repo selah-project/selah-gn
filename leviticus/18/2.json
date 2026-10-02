@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Eñeʼẽ Jisrael raʼýkuéra rehe ha ere chupekuéra: Che Jahve, peẽ Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:13.992581533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 143,
+  "translation": "Pya'e eñembohovái cherehe, Jahve; che ruah opa haguã oĩma; ani reñomi nde ape chegui, ahasarã umi ohóvagui yvy ku'ape.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Pya'e"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eñembohovái cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "opa haguã oĩma"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "reñomi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde ape"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chegui"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ahasarã"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…ndive"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "umi ohóva"
+    },
+    {
+      "surface": "בור",
+      "gloss": "yvy ku'ape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:34.591707107Z",
+  "model": "glm-5.3"
+}

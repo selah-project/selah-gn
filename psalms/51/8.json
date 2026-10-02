@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Mañã: emomba'eguasu ñaña'ỹre iñakã ryepýpe, ha kañymby ehayhu; upévare cherehe ere chakuruhápe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Mañã"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ñaña'ỹ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "emomba'eguasu"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "iñakã ryepýpe"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ha kañymby"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "chakuruhápe"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "cherehe ere"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:52.043911532Z",
+  "model": "glm-5.3"
+}

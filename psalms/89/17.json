@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ne rérape ovyʼa opaite ára aja, ha ne tsedek rupi ojehupipýta yvate.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "ne rérape"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára aja"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ha ne tsedek rupi"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ojehupipýta yvate"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:37.408316994Z",
+  "model": "glm-5.3"
+}

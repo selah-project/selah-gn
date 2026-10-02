@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Egueru cherehe ⟨את⟩ pe resaʼi oguerohorýva, ohai hikuái che rehe oñomi vaʼekue; nde che moʼãha ningo.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "egueru cherehe"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "resaʼi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "pe"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ohai hikuái oñomi vaʼekue"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "che moʼãha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:50.307284610Z",
+  "model": "glm-5.3"
+}

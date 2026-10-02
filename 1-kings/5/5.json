@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Yehuda ha Jisrael oiko tekopotĩme, peteĩteĩva i-uva yvyrá guýpe ha i-higuéra guýpe, Dan-gui Beer Sheva peve, Shelomo ára kuéra opaite aja.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tekopotĩme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩva"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "uva yvyra"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ha … guýpe"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "higuéra"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan-gui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:42:19.912269076Z",
+  "model": "glm-5.3"
+}

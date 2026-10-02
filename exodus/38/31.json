@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha ⟨את⟩ umi korapy ypy ijerére, ⟨את⟩ umi korapy okẽ ypy, ⟨את⟩ opaite Michkan takuára, ha ⟨את⟩ opaite korapy takuára ijerére.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi korapy ypy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ypy"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi korapy okẽ ypy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ypy"
+    },
+    {
+      "surface": "שער",
+      "gloss": "okẽ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Michkan takuára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "takuára"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite korapy takuára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "takuára"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T08:39:33.430949961Z",
+  "model": "glm-5.3"
+}

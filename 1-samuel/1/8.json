@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 1:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elkana, Chana ména, heʼi chupe: Chaná, mbaʼérepa rejaʼo, ha mbaʼérepa ndereʼukaʼei, ha mbaʼérepa ne korasõ oñembyasy? Che ndahaʼéipa nde g̃uarã mbaʼe porãve pa mitã kuimbaʼe gui?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ména"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chaná"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "תבכי",
+      "gloss": "rejaʼo"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ha mbaʼérepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "ndereʼukaʼei"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ha mbaʼérepa"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ne korasõ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ndahaʼéipa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde g̃uarã"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mitã kuimbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:53:05.281110824Z",
+  "model": "glm-5.3"
+}

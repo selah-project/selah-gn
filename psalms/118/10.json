@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Opaite tetã ojerereko ⟨che⟩ rehe, hákatu Jahve rérape aipeʼáta chuguakuéra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ojerereko ⟨che⟩ rehe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hákatu"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "aipeʼáta chuguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:11.566520898Z",
+  "model": "glm-5.3"
+}

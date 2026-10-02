@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 65,
+  "translation": "Ivyja pe rembojoporaváva ha remombopýva nde ikatuháipe, oiko hag̃ua nde korapýpe; ñahenyhẽta nde óga mbaʼe porã rehe, nde óga marangatu rehe, nde heikal rehe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivyja"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "rembojoporaváva"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "remombopýva nde ikatuháipe"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "nde korapýpe"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "ñahenyhẽta"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde óga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "nde heikal"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:01.314529824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ojejokuaávo chupe, osẽva ivaikóva ramo, ha ijerurepy oikóta ange ramo.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Ojejokuaávo chupe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽva"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ivaikóva ramo"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ha ijerurepy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "ange ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:13.967171256Z",
+  "model": "glm-5.3"
+}

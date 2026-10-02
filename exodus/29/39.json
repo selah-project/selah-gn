@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "⟨את⟩ pe kavara raʼy peteha rejapóta koʼẽme, ha ⟨את⟩ pe kavara raʼy mokõiha rejapóta umi kaʼaru apytépe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kavara raʼy peteha"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "pe kavara raʼy"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe kavara raʼy mokõiha"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "pe kavara raʼy"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "umi kaʼaru"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:05.296308170Z",
+  "model": "glm-5.3"
+}

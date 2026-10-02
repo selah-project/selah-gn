@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Emeʼẽ aguyje Jahve-pe, hdfaipe iporã, hdfaipe hiʼhesed opaʼỹre ndaje.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "emeʼẽ aguyje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hdfaipe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hdfaipe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaʼỹre ndaje"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hiʼhesed"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:21.537136529Z",
+  "model": "glm-5.3"
+}

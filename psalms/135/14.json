@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Upeicha Jahve ojapóta hekojoja ⟨את⟩ ijavakuéra rehe, ha ihayhúta imbaʼapoharakuéra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upeicha"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ojapóta hekojoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ijavakuéra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imbaʼapoharakuéra"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ihayhúta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:01.829365718Z",
+  "model": "glm-5.3"
+}

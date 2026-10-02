@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Térã pe hetẽ oikovéva ojevy ha oñemoambue morotĩpe, ha ou ⟨pe⟩ pa'i rendápe.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Térã"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "pe hetẽ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "oikovéva"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ha oñemoambue"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "morotĩpe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe pa'i"
+    }
+  ],
+  "timestamp": "2026-10-02T08:51:38.152310790Z",
+  "model": "glm-5.3"
+}

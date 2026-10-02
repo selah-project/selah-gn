@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha oñoty ⟨את⟩ kokuéra, ha omoĩ yva ñoty, ha ojapo ffruto japopyre.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "oñoty"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "kokuéra"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "omoĩ yva ñoty"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "yva ñoty (ykĩ?)"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ffruto"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "japopyre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:23.744912308Z",
+  "model": "glm-5.3"
+}

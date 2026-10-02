@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oiko upévare, umi pe'ãhára orecta'ã ⟨את⟩ Elohim rehe, ha ⟨Elohim⟩ ojapo chupekuéra hógakuéra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "orecta'ã"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "umi pe'ãhára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hógakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:11.413997564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che nde mbaʼe: eroñangareko che, haʼehaguére nde pikuʼikuéra che ahaʼã.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "eroñangareko che"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼehaguére"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "nde pikuʼikuéra"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "che ahaʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:05.211888275Z",
+  "model": "glm-5.3"
+}

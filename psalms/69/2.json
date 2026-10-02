@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Eñope'ã cherehe, Elohim, y pe amoĩ haguére che rekoveápe.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Eñope'ã cherehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "y pe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "amoĩ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:06.179453696Z",
+  "model": "glm-5.3"
+}

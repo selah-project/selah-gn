@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ha'e iñe'ẽrasýpe guere oñembo'e Jahve rehe, ha ojejerovasy, ojejerovasy eterei.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ha ha'e"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "iñe'ẽrasýpe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "guere"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "oñembo'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ojejerovasy"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "ojejerovasy eterei"
+    }
+  ],
+  "timestamp": "2026-10-02T10:52:24.447704428Z",
+  "model": "glm-5.3"
+}

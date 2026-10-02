@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ehaʼã cherehe, Elohim, ha eñorairõ che ñorairõ ⟨tetã⟩ imarangatuʼỹva rehe; yvypóra mbaʼevai apohágui ha ivaietégui eipeʼa cherehe.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ehaʼã cherehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ha eñorairõ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "che ñorairõ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "tetã imarangatuʼỹva rehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "yvypóra gui"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mbaʼevai apohágui"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ha ivaietégui"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "eipeʼa cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:12.752281995Z",
+  "model": "glm-5.3"
+}

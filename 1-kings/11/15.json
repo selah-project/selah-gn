@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Oiko, David oikóvo ⟨את⟩ Edom-pe, Joav — ñorãirõ aty isã — osẽvo yvate amoĩ hag̃ua yvyguýpe ⟨את⟩ umíva omanovaʼekue, ha oity opaite kuimbaʼe Edom-pe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "oikóvo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "osẽvo yvate"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "isã"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ñorãirõ aty"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "amoĩ hag̃ua yvyguýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umíva omanovaʼekue"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "umíva omanovaʼekue"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oity"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:47.887002034Z",
+  "model": "glm-5.3"
+}

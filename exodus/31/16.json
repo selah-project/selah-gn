@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Jisrael mitãnguérapekuaaʼãngatuta ⟨את⟩ Chabat, ojapo hag̃ua ⟨את⟩ Chabat ijamoñarekuérape, ñeʼẽmeʼẽ opaʼỹvape g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "pekuaaʼãngatuta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ijamoñarekuérape"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opaʼỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:36.666568408Z",
+  "model": "glm-5.3"
+}

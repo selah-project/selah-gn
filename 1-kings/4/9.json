@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Deker raʼy, Makat-pe, Chaalvim-pe, Veit Chemech-pe, ha Eilon-Veit-Janán-pe.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "Makat-pe"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "Chaalvim-pe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "Veit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Chemech-pe"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "Eilon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Veit"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Janán-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:41.624757359Z",
+  "model": "glm-5.3"
+}

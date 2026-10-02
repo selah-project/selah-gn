@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha peñangareko ejapo hag̃ua ⟨את⟩ opaite tekorãnguéra ha ⟨את⟩ hekojojahakuéra che amome'ẽva peñandehápe ko árape.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ejapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tekorãnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "tekorãnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hekojojahakuéra"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hekojojahakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amome'ẽva"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "peñandehápe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:22.428003120Z",
+  "model": "glm-5.3"
+}

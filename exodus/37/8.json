@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Peteĩ kerubi peteĩ pahápe, ko y gotyo; ha peteĩ kerubi ambue pahápe, upe y gotyo; mbotyha gui ojapo ⟨את⟩ kerubikuéra, imokõi pahápe.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko y gotyo"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ha kerubi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "upe y gotyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "mbotyha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubikuéra"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubikuéra"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ipahakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:26.310545612Z",
+  "model": "glm-5.3"
+}

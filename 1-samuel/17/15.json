@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha David oho ha ou jey Shaúl águi, omondo hag̃ua ⟨את⟩ isy ryru'akuéra itúva rógape, Peisipo Lekeme-pe.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ha David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ou jey"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "águi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "omondo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isy ryru'akuéra"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "isy ryru'akuéra"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rógape ... -pe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Peisipo Lekeme"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:19.406295373Z",
+  "model": "glm-5.3"
+}

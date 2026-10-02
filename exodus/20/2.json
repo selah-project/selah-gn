@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Che aha Jahve, nde Elohim, cheruca nde Mitsraim yvýgui, kambõi rógogui.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cheruca"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "cheruca nde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "rógogui"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kambõi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:14.939272650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jahve Elohim omondo chupe Eden kaʼag̃ýgui, ombaʼapo hag̃ua ⟨את⟩ yvýre, oñemoĩhague upégui.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "Ha omondo chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kaʼag̃ýgui"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ombaʼapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oñemoĩhague"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:36.383545776Z",
+  "model": "glm-5.3"
+}

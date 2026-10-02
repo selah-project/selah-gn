@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Epurahéi chupe, embopu purahéi chupe, peñeʼẽ opa hembiapo jahupytyséva rehe.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "epurahéi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "embopu purahéi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "peñeʼẽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hembiapo jahupytyséva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:42.069850994Z",
+  "model": "glm-5.3"
+}

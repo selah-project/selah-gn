@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha David he'i Jonatan-pe: ¿Mápa amombe'úta chéve? térã ¿mba'épa ne rembohovái ne ru, karia'y?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mápa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "amombe'úta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'épa"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ne rembohovái"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ne ru"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "karia'y”"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:08.629931510Z",
+  "model": "glm-5.3"
+}

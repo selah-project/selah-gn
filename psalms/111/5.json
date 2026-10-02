@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 111,
+  "translation": "Ome'ẽ tembi'u ijae'ẽvape; imandu'a opaite ára iñe'ẽme'ẽre.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "tembi'u"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ijae'ẽvape"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": "imandu'a"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iñe'ẽme'ẽre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:39.942320347Z",
+  "model": "glm-5.3"
+}

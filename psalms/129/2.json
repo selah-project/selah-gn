@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Heta jey ojopy cherehe che mitãkuñamí guive, ha ndaipukatuéi cherehe.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "heta jey"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ojopy cherehe"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "che mitãkuñamí guive"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipukatuéi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "pe ipuʼaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:26.668757883Z",
+  "model": "glm-5.3"
+}

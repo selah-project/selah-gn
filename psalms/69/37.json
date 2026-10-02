@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Ha umíva ivoría ipojáva oguerekoéta chupe, ha umi iñeʼẽ ryru ohayhúva oikoéta ipype.",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "Ha umíva ipojáva ivoría"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ipojáva ivóra"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "oguerekoéta chupe"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ha umi ohayhúva"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iñeʼẽ ryru"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "oikoéta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:52.094659490Z",
+  "model": "glm-5.3"
+}

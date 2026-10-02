@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve heʼi haSatán-pe: Emaʼẽ, upéva i ne pópe; emombaʼe año ⟨את⟩ hekove.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "haSatán"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Emaʼẽ, upéva"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i ne pópe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "año"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekove"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hekove"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "emombaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:47:10.670256267Z",
+  "model": "glm-5.3"
+}

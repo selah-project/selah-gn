@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha peteĩ asaron ovecha raʼy peteĩpe, umi pa irundy ovecha raʼy kuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "Ha peteĩ asaron"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "asaron"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ovecha raʼy peteĩpe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "pe irundy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa irundy rehe"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ovecha raʼy kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:39:18.915982597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Pe motenondehárape g̃uarã. David purahéi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe motenondehárape g̃uarã"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mba'éva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:36.089135313Z",
+  "model": "glm-5.3"
+}

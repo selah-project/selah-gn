@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha peẽ peʼarandu ⟨אתם⟩ ⟨את⟩ peẽ membykuérape oñeʼẽ hag̃ua hikuái rehe; nde eirívo nde rógape, nde jeguatávo tape apére, nde tokévo ha nde jeguávo.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "peʼarandu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "che ñeʼẽ koʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ membykuéra"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "peẽ membykuéra"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "oñeʼẽ hag̃ua"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hikuái rehe"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "nde eirívo"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nde rógape"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "nde jeguatávo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape apére"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "nde tokévo"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "nde jeguávo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:21.916056791Z",
+  "model": "glm-5.3"
+}

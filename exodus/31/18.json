@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 31:18",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha ome Moche-pe, Jahve opa rire oñeʼẽ hese ⟨אתו⟩ Sinaí yvyty rupi, mokõi ita'ĩ angaʼuha marandu rehegua, ita'ĩ angaʼuha ojehaíva Elohim kuãrangue reheve.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ha ome"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "opa rire"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "oñeʼẽ hese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Moche-pe oñeʼẽ hese"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty rupi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ita'ĩ angaʼuha"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "marandu rehegua"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ita'ĩ angaʼuha"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "ojehaíva"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "kuãrangue reheve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:16.428251065Z",
+  "model": "glm-5.3"
+}

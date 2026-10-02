@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha peẽ pejapo Jahve — peẽ Elohim — rehe kuaa ⟨את⟩ Jahve, peẽ Elohim; ha oñemoĩporãta ⟨את⟩ peẽ mbujape ha ⟨את⟩ peẽ y; ha amboykéta mbaʼasy peẽ apytégui.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "pejapo kuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "oñemoĩporãta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ mbujape"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "peẽ mbujape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ y"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "peẽ y"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ha amboykéta"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "mbaʼasy"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "peẽ apytégui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:23.241130149Z",
+  "model": "glm-5.3"
+}

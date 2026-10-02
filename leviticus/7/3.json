@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ⟨את⟩ opaiterei iñarã oñemboheta ichugui: ⟨את⟩ pe akuape ha ⟨את⟩ pe arã oñembojaháva ⟨את⟩ pe apyñuʼíre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaiterei iñarã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaiterei"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "iñarã"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "oñemboheta ichugui"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ichugui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe akuape"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "pe akuape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe arã"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "pe arã"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oñembojaháva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe apyñuʼíre"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "pe apyñuʼíre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:40.244820Z",
+  "model": "glm-5.3"
+}

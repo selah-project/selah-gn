@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ohomboja voiete iñeʼẽ ha omohatã chupekuéra, ha oiporara chupekuéra iñomanombaʼégui.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ohomboja voiete"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "omohatã chupekuéra"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "oiporara chupekuéra"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "iñomanombaʼégui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:01.356284263Z",
+  "model": "glm-5.3"
+}

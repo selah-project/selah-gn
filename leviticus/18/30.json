@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Peneñangareko ⟨את⟩ che ñangarekóre, ani pendejapo umi jeikovai jepokuaa ojejapova'ekue pende mboyveguarã, ha ani penekovai hikuái pype; che Jahve, pene Elohim.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Peneñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñangareko"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "che ñangarekóre"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "pendejapo"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "jepokuaa ... gui"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "jeikovai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ojejapova'ekue"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pende mboyveguarã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "penekovai hikuái"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pype"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pene Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:55:29.320410200Z",
+  "model": "glm-5.3"
+}

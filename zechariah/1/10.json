@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 1:10",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha pe kuimbaʼe oĩva umi hadas yvyra apytépe ombohovái ha heʼi: Koʼã haʼeha umi Jahve omondovaʼekue oho hag̃ua oikundaha yvy ape ári.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ombohovái"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "umi hadas yvyra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼeha umi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omondovaʼekue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "oho hag̃ua oikundaha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:12:06.205254329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha ogueru ⟨את⟩ chuguikuéra pa'i rendápe; ha ogueru tenonde ⟨את⟩ pe chatat g̃uarãva, ñepyrũrãme; ha isãtĩ ⟨את⟩ iñakã ijatukupe renondépe, ani oikytĩ.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ha ogueru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i rendápe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ha ogueru tenonde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe chatat g̃uarãva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "chatat g̃uarãva"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ñepyrũrãme"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ha isãtĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ijatukupe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "oikytĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:46:28.959050798Z",
+  "model": "glm-5.3"
+}

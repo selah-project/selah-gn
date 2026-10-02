@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ijyra ⟨haʼe⟩ kavaju ñemoñangeha; ha iñimbaguetereípe ndogueroviaha ⟨mbaʼeveve⟩.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ijyra"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ñemoñangeha"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "iñimbaguetereípe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "iñimbague"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…ri"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ndogueroviaha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:28.330983853Z",
+  "model": "glm-5.3"
+}

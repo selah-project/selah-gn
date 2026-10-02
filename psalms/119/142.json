@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Nde tsedek ⟨haʼe⟩ tsedek opaite árape, ha ne Tora ⟨haʼe⟩ añetegua.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Nde tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite árape"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ha ne Tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:28.915665962Z",
+  "model": "glm-5.3"
+}

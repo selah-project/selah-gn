@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ani pejapo upéicha Jahve, peẽ Elohim peguarã.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "pejapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:20.042027954Z",
+  "model": "glm-5.3"
+}

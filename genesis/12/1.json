@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jahve heʼi Avram-pe: Eho nde reché nde yvýgui, nde teʼýiretégui ha nde túva rógagui, hoʼa hag̃ua pe yvy ⟨ova⟩ ahechaukátava ndéve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde reché"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "nde yvýgui"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "ha nde teʼýiretégui"
+    },
+    {
+      "surface": "ו מבית",
+      "gloss": "ha rógagui"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde túva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoʼa hag̃ua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ova⟩"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ahechaukátava ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:31.461889554Z",
+  "model": "glm-5.3"
+}

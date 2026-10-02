@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Amonesẽrõ ndeve, Jerusalaim, monesẽta ⟨⟨ndee⟩⟩ che po akatúa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "amonesẽ ndeve"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "monesẽta"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "che po akatúa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:23:42.902023450Z",
+  "model": "glm-5.3"
+}

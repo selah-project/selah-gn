@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha che avei ameʼẽ ⟨את⟩ peẽ jepeʼypyre ha pypeʼỹréva opaite tavayguakuéra renondépe, peichépe peẽ nahesãmbyhyríri ⟨את⟩ che rekóre ha peẽ oipesaiterei hova Tora-pe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha che avei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "jepeʼypyre ha pypeʼỹréva"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "jepeʼypyre"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "ha pypeʼỹréva"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite … renondépe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "peichépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "nahesãmbyhyríri"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "hesãmbyhy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che rekóre"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "che rekóre"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "ha oipesaiterei"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "hova"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "Tora-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:20:50.500269848Z",
+  "model": "glm-5.3"
+}

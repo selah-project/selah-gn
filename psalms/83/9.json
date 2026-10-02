@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Ashur avei ojoaju hikuái ndive; oiko chuguikuéra ipóicha Lote ra'ýikuéra peg̃uarã. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hikuái ndive"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko chuguikuéra"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ipóicha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ra'ýikuéra peg̃uarã"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:21.511386445Z",
+  "model": "glm-5.3"
+}

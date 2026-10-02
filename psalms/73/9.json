@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Iñeʼẽ jurua oñemohenda yvágape, ha iñeʼẽngatu ojeporeko yvy ári.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "iñeʼẽ jurua"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ha iñeʼẽngatu"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "ojeporeko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:32.122399141Z",
+  "model": "glm-5.3"
+}

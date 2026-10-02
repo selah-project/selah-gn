@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha che aiké nabi kuña rendápe, ha ohayʼu, ha oguereko peteĩ raʼýi; ha Jahve heʼi cherehe: Ebohéra chupe Macher-Chalal-Hach-Baz.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "ha che aiké"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "nabi kuña"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ha ohayʼu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ha oguereko raʼýi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ebohéra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Macher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Chalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hach"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-10-02T12:29:18.497005357Z",
+  "model": "glm-5.3"
+}

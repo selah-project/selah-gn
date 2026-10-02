@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pe paʼi ogueraháta ⟨את⟩ peteĩva michĩrõ kuéra apytégui ha omoĩta ⟨את⟩ chupe jejavyréi ramo, ha ⟨את⟩ pe log sevo rykue, ha ojereréta ⟨את⟩ chikuái peteĩ jerere ramo Jahve ñanderape.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ha ogueraháta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩva michĩrõ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "michĩrõ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩva"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ha omoĩta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "michĩrõ"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "jejavyréi ramo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe log sevo rykue"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "sevo rykue"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ha ojereréta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chikuái",
+      "marks": "michĩrõ ha log sevo rykue"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "jerere ramo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñanderape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:56.812620201Z",
+  "model": "glm-5.3"
+}

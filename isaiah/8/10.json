@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Pejapo ñemongeta, ha ojetyaita; peñeʼẽ peteĩ ñeʼẽ, ha ndojupíi, upévare El oĩ ñande ndive.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "pejapo ñemongeta"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ñemongeta"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ha ojetyaita"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "peñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndojupíi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ojupíta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ñande ndive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T12:29:13.744845311Z",
+  "model": "glm-5.3"
+}

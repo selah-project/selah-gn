@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ko'ẽrõme David ohai peteĩ kuatiañeʼe Joav-pe, ha omondo Urija po rupive.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "þa sarradura"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽrõme"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatiañeʼe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po rupive"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:41.642612886Z",
+  "model": "glm-5.3"
+}

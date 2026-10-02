@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 112,
+  "translation": "Heta mbaʼe ha taverã oĩ ⟨hóga⟩ ryepýpe, ha iñtsedek opyta opaʼỹre.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "heta mbaʼe"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ha taverã"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "hóga ryepýpe"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ha iñtsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "opaʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:20.823516571Z",
+  "model": "glm-5.3"
+}

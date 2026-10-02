@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Elohim omoĩ oiko hagua óga-pe umi oikóva ichugua añoete, ogueru iporãve hápe umi kaʼirãmeguáva; hákatu, umi ndaijaʼéiva añonte oiko yvy kuʼi pytúvape.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "omoĩ oiko hagua"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "umi oikóva ichugua añoete"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "óga-pe"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "umi kaʼirãmeguáva"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "iporãve hápe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hákatu añonte"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "umi ndaijaʼéiva"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "yvy kuʼi pytúva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:50.776650559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Jahve oguerekóta ⟨את⟩ Jehuda iporavopyréicha yvy marangatúpe, ha oiporavóta jey Jerusalaim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "oguerekóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "iporavopyréicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatúpe"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "oiporavóta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:14:25.118139172Z",
+  "model": "glm-5.3"
+}

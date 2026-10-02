@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Elohim omanduʼa ⟨את⟩ Rajel rehe, ha Elohim ohendu chupe, ha ombojuruja ⟨את⟩ hembýroga.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "omanduʼa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rajel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ombojuruja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembýroga"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "hembýroga"
+    }
+  ],
+  "timestamp": "2026-10-02T07:49:13.852727519Z",
+  "model": "glm-5.3"
+}

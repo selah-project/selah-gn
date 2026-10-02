@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha ohe'i: Peheja chupe; avave ani ondyry iñanguekuérape. Ha iñanguekuéra oñangareko ⟨את⟩ nabi ra'ýi ñanguekuéra ndive, oúva Shomron-gui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "peheja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "avave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "ondyry"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "iñanguekuéra"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "iñanguekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi ñanguekuéra"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ñanguekuéra"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(rel)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomron-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:22:55.151598875Z",
+  "model": "glm-5.3"
+}

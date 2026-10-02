@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 95,
+  "translation": "Eju, tañemboja hese, tañenupã jepyapýpe, tañeʼẽ mboraʼy Jahve — ore apohárape — renondépe.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Eju"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "tañemboja hese"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "tañenupã jepyapýpe"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "tañeʼẽ mboraʼy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ore apohárape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:53.165349258Z",
+  "model": "glm-5.3"
+}

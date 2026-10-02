@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Avraham oñemongu'ẽ hese imano va'ekuegui, ha oñe'ẽ Het ra'ýkuéra ndive, he'i hague:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ha ... oñemongu'ẽ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hese"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "imano va'ekue"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ha ... oñe'ẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'i hague"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:51.018956850Z",
+  "model": "glm-5.3"
+}

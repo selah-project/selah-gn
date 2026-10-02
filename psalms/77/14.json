@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Elohim, marangatu pype oĩ ne tape; máva pa El guasu Jahveicha?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu pype"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ne tape"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva pa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "Jahveicha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:59.483999065Z",
+  "model": "glm-5.3"
+}

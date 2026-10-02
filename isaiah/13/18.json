@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 13:18",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Hiʼyvápe ojaposyry umi mitãrusukuéra; ñepyrũrã reñemoñare vaʼerã hikuái naiñakãrapuʼãi; mitãnguéra rehe iñakãgue ndaijahái.",
+  "tokens": [
+    {
+      "surface": "וקשתות",
+      "gloss": "hiʼyva"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mitãrusukuéra"
+    },
+    {
+      "surface": "תרטשנה",
+      "gloss": "ojaposyry"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ñepyrũrã reñemoñare"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kuñanga ryepýgui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…ãi"
+    },
+    {
+      "surface": "ירחמו",
+      "gloss": "naiñakãrapuʼãi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…ãi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ndaijahái"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "iñakãgue"
+    }
+  ],
+  "timestamp": "2026-10-02T19:05:43.712933616Z",
+  "model": "glm-5.3"
+}

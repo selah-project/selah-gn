@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ohenda Jisrael-yguakuéra opavavépe, kuimbaʼégui kuña peve, peteĩteĩ kuimbaʼépe peteĩ mbuʼapo apaʼũ, ha peteĩ eshpar, ha peteĩ ashishá.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ohenda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuimbaʼégui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "peteĩteĩ kuimbaʼépe"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "apaʼũ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbuʼapo"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "eshpar"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "ashishá"
+    }
+  ],
+  "timestamp": "2026-10-02T18:09:19.161927668Z",
+  "model": "glm-5.3"
+}

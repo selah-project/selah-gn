@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha omondo ⟨את⟩ guyra oikovéva táva okápe, kokue renondépe, ha ojapo ñemonguera ⟨pe⟩ óga rehe, ha oñemopotĩ ⟨pe⟩ óga.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyra oikovéva"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "oikovéva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "okápe"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokue"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ojapo ñemonguera"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "oñemopotĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:33.579800766Z",
+  "model": "glm-5.3"
+}

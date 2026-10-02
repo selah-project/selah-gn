@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha peteĩteĩ ojuka ijojaháva; ha Aram ohaʼãno, ha Jisrael ohapykueho chuguikuéra; ha Ben-Hadad, Aram mburuvichavete, ohopa kavaju ári, kavajuguára ndive.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ha ojuka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩ"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "ijojaháva"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ohaʼãno"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "ohapykueho chuguikuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ohopa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvichavete"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "kavajuguára ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:58:29.548866628Z",
+  "model": "glm-5.3"
+}

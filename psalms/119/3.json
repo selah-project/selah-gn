@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Umi ndojapói mba'e vai; ne mba'ekuéra ryepýpe oiko hikuái.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Umi avei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndojapói"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "i tapekuéra ryepýpe"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "oiko hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:07.394786759Z",
+  "model": "glm-5.3"
+}

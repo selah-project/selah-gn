@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Egrasia che rehe, Jahve, che jakytýpe g̃uarã: che py'angýpe oñembyai che resãi, che rekove ha che ryekue.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "egrasia che rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "g̃uarã"
+    },
+    {
+      "surface": "צר",
+      "gloss": "jakyty"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che…pe"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "che py'angýpe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resãi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ha che ryekue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:48.278993633Z",
+  "model": "glm-5.3"
+}

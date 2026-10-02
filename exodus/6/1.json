@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Jahve heʼi Moche-pe: koʼág̃a reikuaáta mbaʼépa ajapóta Parao-pe; che pó puʼakaitévape omondéta chupekuéra, ha che pó puʼakaitévape omonañõta chupekuéra ise retãmegui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "reikuaáta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ajapóta"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parao-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "puʼakaitévape"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "omondéta chupekuéra"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ha pópe"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "puʼakaitévape"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "omonañõta chupekuéra"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ise retãmegui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:06.220330268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Upéicharamo, che amboja ⟨את⟩ che vyʼapavẽ peẽme poha ary-pe, ha upéva ojapóta ⟨את⟩ mbaʼeapopy mbohapy ary peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "che amboja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che vyʼapavẽ"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "che vyʼapavẽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ary-pe"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "poha"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼeapopy"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "mbaʼeapopy"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ary peg̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:02:50.808228005Z",
+  "model": "glm-5.3"
+}

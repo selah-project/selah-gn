@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Jahve oipytyvõ opavavépe oguejývape, ha omoĩ jevy yvate opavavépe oñemokũrỹivévape.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "oipytyvõ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "oguejývape"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ha omoĩ jevy yvate"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "oñemokũrỹivévape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:59.826204818Z",
+  "model": "glm-5.3"
+}

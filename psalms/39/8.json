@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha koʼag̃a, mbaʼépa ahaʼarõ? Adonai, che ahaʼarõha ⟨oĩ⟩ nde rehepe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼag̃a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ahaʼarõ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "che ahaʼarõha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehepe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "oĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:02.755490245Z",
+  "model": "glm-5.3"
+}

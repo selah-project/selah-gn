@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Pe yvoty? Umi yvyty ogueraha pyʼaguapy tavayguakuérape, ha umi yvyty michĩvéva tsedek rehe.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "umi yvyty"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tavayguakuérape"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ha umi yvyty michĩvéva"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "tsedek rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:57.171197270Z",
+  "model": "glm-5.3"
+}

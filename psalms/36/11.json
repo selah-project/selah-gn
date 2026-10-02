@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Eipesaitévo ne hesed umi ndoikuaávape, ha ne tsedek umi py'aguapy apytu'ũmeguávape.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "eipesaitévo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ne hesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "umi ndoikuaávape"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ha ne tsedek"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "umi ... apytu'ũmeguávape"
+    },
+    {
+      "surface": "לב",
+      "gloss": "py'aguapy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:15.841385876Z",
+  "model": "glm-5.3"
+}

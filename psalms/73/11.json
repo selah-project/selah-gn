@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Ha heʼi hikuái: mbaʼéichapa El oikuaáta? òpa ikuaa Elyón?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Ha heʼi hikuái"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaáta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "òpa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ikuaa"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Elyón"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:32.122805092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Koʼẽ osarambitévo, umi kuimbaʼe oñemondo, haʼekuéra ha ikavaraikuéra.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "osarambi"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "oñemondo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "ha ikavaraikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:02:45.749771584Z",
+  "model": "glm-5.3"
+}

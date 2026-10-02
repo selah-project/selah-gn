@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ou Jisrael ruvichakuéra opaite, ha paʼikuéra ogueru ⟨את⟩ arón.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arón"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "⟨the⟩ arón"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:26.635048980Z",
+  "model": "glm-5.3"
+}

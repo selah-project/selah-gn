@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha he'i: Nderembyasyiva'ekue oréve, ndepenahẽiva'ekue oréve, nderejeruréi peteĩ yvypóra pógui mba'evéichapa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nde... -va'ekue"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "derembyasyiva'ekue oréve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nde... -va'ekue"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "depenahẽiva'ekue oréve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nderejeruréi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "rejerure"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ yvypóra"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mba'evéichapa"
+    }
+  ],
+  "timestamp": "2026-10-02T11:01:50.298115718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ovecha ha vaka, opaite umíva, ha avei yvyty mymbakuéra.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ha vaka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opaite umíva"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mymbakuéra"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "yvyty"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:49.970645297Z",
+  "model": "glm-5.3"
+}

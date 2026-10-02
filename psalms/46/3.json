@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Upéicha rupi ñande jaikyhyjeʼýne, yvy oñemoambuéramo jepe, ha yvytykuéra osyryvo para ryepýpe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "upéicha rehe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha rupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...ʼỹ"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "jaikyhyje"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "oñemoambuévo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ha osyryvo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "para"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:06.491650517Z",
+  "model": "glm-5.3"
+}

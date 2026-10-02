@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Tata ha yryvary, yryvũ ha tyvã; ruah mbarete, ojapóva iñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ha yryvary"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "yryvũ"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ha tyvã"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:39.983132739Z",
+  "model": "glm-5.3"
+}

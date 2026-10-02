@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Erayhu ⟨את⟩ Jahve, opa pe i marangatukuéra; Jahve katu ohapykueho umi jerovia rerekóva, ha ohepyme'ẽ tuichaitereípe py'aguasu apohárape.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Erayhu pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "i marangatukuéra"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "jerovia rerekóva"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ohapykueho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ha ohepyme'ẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "upe"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tuichaitereípe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "apohára"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "py'aguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:55.748277600Z",
+  "model": "glm-5.3"
+}

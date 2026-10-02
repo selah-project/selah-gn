@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ojapo ⟨את⟩ pe tesakãjapeʼa — korón marangatu, itajuru poty — ha ohai ipype peteĩ jehai, selo embosaráicha: Marangatu Jahve pe guarã.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tesakãjapeʼa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "pe tesakãjapeʼa (tzitz)"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korón"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itajuru"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "poty"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "ohai"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "peteĩ jehai"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "embosaráicha"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "selo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Marangatu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve pe guarã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:18.617070333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Umi ojesarekóva ⟨את⟩ Jahve ñeʼẽre, Paroh mbokuára apytégui, oho pyaʼe ⟨את⟩ i mbokuéra ha ⟨את⟩ imymbakuéra ógapýpe.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "ojesarekóva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "mbokuára apytégui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "oho pyaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i mbokuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i mbokuára"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imymbakuéra"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "imymbakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ógapýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:40.694096956Z",
+  "model": "glm-5.3"
+}

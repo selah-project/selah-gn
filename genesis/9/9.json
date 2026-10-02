@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha che, peína, aheja ypy che ñeʼẽmeʼẽ ⟨את⟩ — ⟨את⟩ peẽ ndive ha ⟨את⟩ peẽ ñemoñare, peẽ rire.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ha che"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "peína"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "aheja ypy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ ndive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "peẽ ñemoñare"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "peẽ ñemoñare"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "peẽ rire"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:09.829528338Z",
+  "model": "glm-5.3"
+}

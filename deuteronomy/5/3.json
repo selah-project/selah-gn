@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ndojapói Jahve ⟨את⟩ ore ruãkuéra ndive ⟨את⟩ ko ñeʼẽmeʼẽ; voi ⟨את⟩ ñande ndive — ñande koʼape koʼág̃a, opaite ñande ñaikovéva.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndojapói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore ruãkuéra ndive"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ore ruãkuéra"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ko ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñande ndive"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼape"
+    },
+    {
+      "surface": "פה",
+      "gloss": "koʼape"
+    },
+    {
+      "surface": "היום",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "opaite ñande"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ñaikovéva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:49:11.082394754Z",
+  "model": "glm-5.3"
+}

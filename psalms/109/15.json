@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Oĩta Jahve renondépe opa ára, ha ojeipeʼa yvygui iñemanduʼa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opa ára"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ha ojeipeʼa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "iñemanduʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:25.096504485Z",
+  "model": "glm-5.3"
+}

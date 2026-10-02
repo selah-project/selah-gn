@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha upéicha hikuái ojerovia hemiandúpe — heʼi hague rehe — ha opurahéi hikuái hemombaʼeguasu.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ojerovia"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "heʼi hague rehe"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "opurahéi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hemombaʼeguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:29.688677849Z",
+  "model": "glm-5.3"
+}

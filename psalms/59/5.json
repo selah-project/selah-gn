@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Mbaʼe vai ʼỹre oju hikuái ha oñemboja; emyandyry che rekávo ha ehecha.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "ʼỹre"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "oju"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "emyandyry"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "che rekávo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ehecha"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:53.688731181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha tavayguakuéra oñemoĩ Moche rehe, heʼívo: Mbaʼe ýpa jaʼuta?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "oñemoĩ (ñeʼẽ vai ndive)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ýpa jaʼuta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:43.994862062Z",
+  "model": "glm-5.3"
+}

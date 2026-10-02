@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha ojhu peteĩ kuimbaʼe Mitsraim-gua kokupe, ha ogueru ⟨את⟩-pe David peve, ha omeʼẽ ichupe mbujape, ha hoʼu; ha ojeyʼu hese y.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "ojhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsraim-gua"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokupe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-pe",
+      "marks": "David peve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "hoʼu"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ojeyʼu hese"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:02.785765640Z",
+  "model": "glm-5.3"
+}

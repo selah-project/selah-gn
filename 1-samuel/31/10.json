@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha omohenda ⟨את⟩ iñembokuakuaha Ashtarot ógape, ha ⟨את⟩ hete omoĩ Óga-chan óga itie yvatére.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "omohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñembokuakuaha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iñembokuakuaha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hete"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "hete"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "itie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Óga-chan"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Óga-chan"
+    }
+  ],
+  "timestamp": "2026-10-02T11:17:55.564605859Z",
+  "model": "glm-5.3"
+}

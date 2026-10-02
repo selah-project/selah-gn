@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 8:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Chazael heʼi: Mbaʼépa che, nde mbaʼerechácha, peteĩ jagua, chejapo ta ko mbaʼe guasu koʼá? Ha Elisa heʼi: Jahve ohechauka chéve ⟨את⟩ nde — mburuvicha Aram-re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde mbaʼerechácha"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "peteĩ jagua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chejapo ta"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chejapo ta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "koʼá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ohechauka chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde — mburuvicha Aram-re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T19:04:05.559504730Z",
+  "model": "glm-5.3"
+}

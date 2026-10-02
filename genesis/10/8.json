@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Kuch ogueru ⟨את⟩ Nimrod; haʼe haʼeʼehína pe oñepyrũva oiko ichugui ipuʼakapáva yvy ape ári.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ha Kuch"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "oñepyrũ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "oiko ichugui"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ipuʼakapáva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:09.820429309Z",
+  "model": "glm-5.3"
+}

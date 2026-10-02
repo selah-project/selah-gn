@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 113,
+  "translation": "Jahve iñakatúa opaite tetãnguéra ári; imbaʼeguasu yvága ári.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "iñakatúa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "imbaʼeguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:02.799993008Z",
+  "model": "glm-5.3"
+}

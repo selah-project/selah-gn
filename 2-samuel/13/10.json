@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 13:10",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Amnon heʼi Tamar-pe: Egueru ⟨pe⟩ tembiʼu koty ryepýpe ha akaru nde po pegua. Ha Tamar oguereu ⟨את⟩ ⟨umi⟩ mbichyʼi ojapóva, ha ogueru Amnon-pe, ijayky, koty ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "tembiʼu"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "koty ryepýpe"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "ha akaru"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nde po pegua"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "oguereu"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbichyʼi"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "mbichyʼi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "Amnon-pe"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ijayky"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "koty ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:01:30.375181279Z",
+  "model": "glm-5.3"
+}

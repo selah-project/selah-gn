@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ivyrãguápa umi ñangarekóva hekojojaháre, ojapóva tsedek opaite árape.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivyrãguápa"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "umi ñangarekóva"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaháre"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עת",
+      "gloss": "árape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:15.978143586Z",
+  "model": "glm-5.3"
+}

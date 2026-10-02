@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ani reiko marangatu hetaitereíicha, ani rechekakua hetaitereíicha; mbaʼérepa rembyai nde reko?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "reiko"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatúpe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hetaitereícha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "rechekakua"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "hetaitereícha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "rembyai nde reko"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:02.424283580Z",
+  "model": "glm-5.3"
+}

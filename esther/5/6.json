@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha mburuvicha he'i Esterpe, kaguy jy'aguasupe: Mba'e pa ne porandu? Ha oñeme'ẽta ndéve. Ha mba'e pa ne jerure? — mburuvichaty mbyte peve — ha ojejapota.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterpe"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "jy'aguasupe"
+    },
+    {
+      "surface": "היין",
+      "gloss": "kaguy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mba'e pa"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "ne porandu"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "Ha oñeme'ẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ha mba'e pa"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ne jerure"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mbyte"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "mburuvichaty"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ha ojejapota"
+    }
+  ],
+  "timestamp": "2026-10-02T17:26:40.020315593Z",
+  "model": "glm-5.3"
+}

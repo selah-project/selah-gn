@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Jahve, ahayhu ne róga moĩhápe ñemohenda, ha ne Marañguaty oikóha Michkan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ahayhu"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "moĩhápe ñemohenda"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ne róga"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ha … renda"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ne Marañguaty"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:48.868582915Z",
+  "model": "glm-5.3"
+}

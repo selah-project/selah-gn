@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Ehecha ñeʼẽmeʼẽ rehe: yvy iñapytũnguéra oĩmbaite ojuehe pehẽngue vai apyte.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ñeʼẽmeʼẽ rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "oĩmbaite ojuehe"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "iñapytũnguéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pehẽngue apyte"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:40.456884018Z",
+  "model": "glm-5.3"
+}

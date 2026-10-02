@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Emeʼẽ aguyje Jahve-pe, eñehenói héra rérape, pehechauka tetãnguéra apytépe hembiapo iñapañuãiva.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "emeʼẽ aguyje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "eñehenói"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "héra rérape"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "pehechauka"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tetãnguéra apytépe"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hembiapo iñapañuãiva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:42.069637612Z",
+  "model": "glm-5.3"
+}

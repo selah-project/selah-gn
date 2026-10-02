@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 7:27",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Oñembojeráke Jahve, ñande ruvichakuéra Elohim, omeʼéva koʼã mbaʼe mburuvicha korasõ pe, Jahve ⟨את⟩ óga jeguakarã hag̃ua oĩva Jerusalaim pe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Oñembojeráke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ñande ruvichakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omeʼéva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼe"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "koʼã mbaʼe"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "korasõ pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "לפאר",
+      "gloss": "jeguakarã hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim pe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:48:50.327278499Z",
+  "model": "glm-5.3"
+}

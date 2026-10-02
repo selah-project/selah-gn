@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Ha ojekarai Jahve-pe iñañuãme, ha iñakãrasýgui oiporu chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ojekarai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iñañuãme"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "iñakãrasýgui"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "oiporu chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:09.270464559Z",
+  "model": "glm-5.3"
+}

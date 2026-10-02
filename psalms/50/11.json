@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Che aikuaa opaite yvyty guyra, ha kaʼaguy mymba che ndive oĩva.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ha mymba"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "che ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:15.169487247Z",
+  "model": "glm-5.3"
+}

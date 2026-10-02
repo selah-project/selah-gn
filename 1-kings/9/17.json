@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Shelomo ojapo ⟨את⟩ Guezer ha ⟨את⟩ Beit-Joron, pe yvy gotyógui oĩva.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Guezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Guezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Beit-Joron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Joron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "yvy gotyógui oĩva"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:41.348584858Z",
+  "model": "glm-5.3"
+}

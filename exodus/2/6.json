@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Oipe'a ha ohecha ⟨את⟩ pe mitã, ha iméra pe mitãrõi vaikerei. Opy'aguapy chugui ha he'i: Kóva haʼe umi Evrio mitã apytégui.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "ohecha chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitã"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha iméra"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitãrõi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "vaikerei"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "opy'aguapy chugui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "mitã apytégui"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Evrio"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kóva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:35.000952352Z",
+  "model": "glm-5.3"
+}

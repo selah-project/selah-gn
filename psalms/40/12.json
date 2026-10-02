@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Nde, Jahve, ani rejoko nde rekoasãi cheregui; nde hesed ha nde ñe'ẽ ete opa ára che moñangareko.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "rejoko"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "nde rekoasãi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "cheregui"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ha nde ñe'ẽ ete"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opa ára"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "che moñangareko"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:01.668568875Z",
+  "model": "glm-5.3"
+}

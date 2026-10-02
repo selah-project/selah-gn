@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Avimelek heʼi Avraham-pe: mbaʼe rehechápa rejapo haguá ⟨את⟩ ko mbaʼe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avraham-pe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "rehechápa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rejapo haguá"
+    },
+    {
+      "surface": "עשית",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mbaʼe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:01.318886491Z",
+  "model": "glm-5.3"
+}

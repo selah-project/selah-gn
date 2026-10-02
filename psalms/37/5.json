@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Emonoi Jahve ári ⟨את⟩ nde rape, ha ejerovia Hese, ha Haʼe ojapóta.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Emonoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nde rape"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "ha ejerovia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Hese"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha Haʼe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:16.759820985Z",
+  "model": "glm-5.3"
+}

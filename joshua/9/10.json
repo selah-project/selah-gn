@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ⟨את⟩ opaite mbaʼe ojapovaʼekue mokõi emorea mburuvicháre, umíva oĩva Yardén ypa yvategua gotyo: Sijón, Jesbón mburuvicha, ha Og, Basán mburuvicha, oĩva Astarot-pe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe ojapovaʼekue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvicháre"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ypa yvategua gotyo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Jesbón"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ha Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basán"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "Astarot-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:20:46.422281886Z",
+  "model": "glm-5.3"
+}

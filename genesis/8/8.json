@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha omondo ⟨את⟩ pe juʼi ⟨את⟩ ijatýgui, ohecha hag̃ua oñemomichĩpa pe y yvy rakã ári gui.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe juʼi"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pe juʼi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ijatýgui ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ohecha hag̃ua"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "oñemomichĩpa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ári gui"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rakã"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:28.620652864Z",
+  "model": "glm-5.3"
+}

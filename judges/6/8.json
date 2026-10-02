@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Jahve omondo peteĩguyra, peteĩ nabi, Jisrael mitãkuérape, ha he'i chupekuéra: Ko'ãva he'i Jahve, Jisrael Elohim: che ambojára peẽ ⟨את⟩ Mitsraim-gui, ha ahesa'ỹjo peẽ ⟨את⟩ mba'aporãhára óga-gui.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩguyra"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ko'ãva"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ambojára"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ (Jisrael mitãkuéra)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "ahága ahesa'ỹjo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ (Jisrael mitãkuéra)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "óga-gui"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mba'aporãhára"
+    }
+  ],
+  "timestamp": "2026-10-02T10:36:28.861977693Z",
+  "model": "glm-5.3"
+}

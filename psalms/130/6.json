@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 130,
+  "translation": "Che rekove Adonai rehe ohaʼãrõ, koʼẽrag̃uere ñangarekoháraichagueteri — koʼẽrag̃uere ñangarekoháraicha.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai rehe"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ñangarekoháraichagueteri"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "koʼẽrag̃uere"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ñangarekoháraicha"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "koʼẽrag̃uere"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:23.852604129Z",
+  "model": "glm-5.3"
+}

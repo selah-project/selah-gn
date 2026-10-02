@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Jahve ohendu ⟨את⟩ che jerure mbaʼemĩrã̃va; Jahve ogueraháta ⟨את⟩ che ñeʼẽmeʼẽ jerure.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "che jerure mbaʼemĩrã̃va"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñeʼẽmeʼẽ jerure"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ogueraháta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:49.755649675Z",
+  "model": "glm-5.3"
+}

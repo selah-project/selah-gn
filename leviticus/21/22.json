@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Hembiʼu Elohim mbaʼe — marangatuete apytégui ha marangatu mbaʼe apytégui hembiʼuraʼãta ⟨hikuái⟩.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "hembiʼu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim mbaʼe"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "marangatuete apytégui"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "marangatu mbaʼe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha apytégui"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "marangatu mbaʼe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hembiʼuraʼãta"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:00.878429758Z",
+  "model": "glm-5.3"
+}

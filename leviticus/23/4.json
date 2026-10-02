@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ko'ã ha'e Jahve aravo kuéra, marangatu ñembyaty, peẽ pe'ñe'ẽta ⟨את⟩ chupekuéra heñóihápe iñaravo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ko'ã"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "aravo kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ñembyaty"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "pe'ñe'ẽta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "heñóihápe iñaravo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:46.882107522Z",
+  "model": "glm-5.3"
+}

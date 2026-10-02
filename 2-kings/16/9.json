@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Ashur mburuvicha ohendu chupe: Ashur mburuvicha ou Damásekpe, ojapyhy pe táva, oho pe tavaygua Kir-pe ha ⟨את⟩ Retsin ojuka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damásek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "oho pe tavaygua…-pe"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ojuka"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:06.291058261Z",
+  "model": "glm-5.3"
+}

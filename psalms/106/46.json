@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha omeʼẽ ⟨את⟩ chupekuéra ojehecharamo hag̃ua opaite oipeʼavaʼekue chupekuéra kaʼirãme tenondeitépe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ojehecharamo hag̃ua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenondeitépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "oipeʼavaʼekue chupekuéra kaʼirãme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:59.766981069Z",
+  "model": "glm-5.3"
+}

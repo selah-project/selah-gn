@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha ombaʼapo hikuái ⟨את⟩ i taʼangakuéra rehe, ha umíva oiko chuguikuéra moirõha ramo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ha ombaʼapo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i taʼangakuéra"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "i taʼangakuéra"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "moirõha ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:37.296878077Z",
+  "model": "glm-5.3"
+}

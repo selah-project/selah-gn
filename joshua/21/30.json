@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Acher atygui ⟨את⟩ Michal ha ⟨את⟩ ijyvy karugua, ⟨את⟩ Avdon ha ⟨את⟩ ijyvy karugua.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ha atygui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Acher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Michal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijyvy karugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijyvy karugua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijyvy karugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijyvy karugua"
+    }
+  ],
+  "timestamp": "2026-10-02T10:30:15.257823787Z",
+  "model": "glm-5.3"
+}

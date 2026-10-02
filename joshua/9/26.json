@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha upéicha ojapo chupekuéra; oipeʼa ⟨את⟩ chupekuéra Jisrael raʼýkuéra pópegui, ha ndomanohikuãi chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ha ojapo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pópegui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "manohikuãi chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:20:26.037776317Z",
+  "model": "glm-5.3"
+}

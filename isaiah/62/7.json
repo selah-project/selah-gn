@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 62,
+  "translation": "Ha aníke peẽ peñemeʼẽ chupe pyʼaguapy, pe oñemohenda meʼẽ peve ha pe omoĩ meʼẽve ⟨את⟩ Jerusalaim ñemombaʼeguasu yvy ape ári.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ha aníke"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "peñemeʼẽ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…meʼẽ peve"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha …meʼẽ peve"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ñemombaʼeguasu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T13:05:42.847111511Z",
+  "model": "glm-5.3"
+}

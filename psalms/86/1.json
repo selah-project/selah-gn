@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Ñemboʼe David mbaʼéva. Eñakãpa Jahve, nde apysa che rehe, ha eñembohovái che rehe, che rekovai ha michĩva che haʼeha rupi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ñemboʼe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼéva"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Eñakãpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nde apysa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eñembohovái che rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "che rekovai"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ha michĩva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che haʼeha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:20.462183555Z",
+  "model": "glm-5.3"
+}

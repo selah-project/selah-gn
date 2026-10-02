@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha mburuvicha guasu ojere ⟨את⟩ iñakã, ha oguerovia ⟨את⟩ Jisrael atyguasu opaite; ha Jisrael atyguasu opaite oĩhína.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "oguerovia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael atyguasu opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "atyguasu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "atyguasu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "oĩhína"
+    }
+  ],
+  "timestamp": "2026-10-02T18:20:49.821330943Z",
+  "model": "glm-5.3"
+}

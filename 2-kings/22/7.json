@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Añonte, pe kuarepoti ojeomeʼe ipópe ndojechauka vaʼerãi chupekuéra, añetegua pe ombaʼapo hikuái.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añonte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…vaʼerãi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ojechauka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "upekuéra"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pe kuarepoti"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ojeomeʼe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gui"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "omb aʼapo"
+    }
+  ],
+  "timestamp": "2026-10-02T12:21:39.211398733Z",
+  "model": "glm-5.3"
+}

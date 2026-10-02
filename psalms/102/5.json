@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Che pyʼa oñenohẽ ⟨⟨חוּכָה⟩⟩ kaʼaruguy raʼangáicha, ha omoʼĩ; che pyʼa oiko vaígui, aheja che añuʼu che mbujape.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "oñenohẽ"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kaʼaruguy raʼangáicha"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ha omoʼĩ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che pyʼa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaígui"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "che añuʼu"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "che mbujape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:17.977741525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Yvágagui Jahve ojesareko, ohecha ⟨את⟩ opavave yvypóra taʼýra.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ojesareko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opavave yvypóra taʼýra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:51.771497639Z",
+  "model": "glm-5.3"
+}

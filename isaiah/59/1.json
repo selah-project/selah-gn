@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Peína, ndahaʼéi mbygui Jahve po ojapo hag̃ua iporãva, ha ndahaʼéi ipohyiete iñakã apysa ohendu hag̃ua;",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Peína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "oñembygui"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "ojapo hag̃ua iporãva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndahaʼéi"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ipohyiete"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "iñakã apysa"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ohendu hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T13:03:16.206047670Z",
+  "model": "glm-5.3"
+}

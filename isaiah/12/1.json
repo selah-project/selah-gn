@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha upépe eʼéta upéva árape: aaguyjepóta ndeve, Jahve, nde reñeirũ cherehe; nde ñeirũ ovojey ha che ñemoirũ.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "eʼéta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aaguyjepóta ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "reñeirũ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ovojey"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nde ñeirũ"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "che ñemoirũ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:32:32.395861584Z",
+  "model": "glm-5.3"
+}

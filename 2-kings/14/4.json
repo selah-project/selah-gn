@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Hákatu año umi bamot (yvate renda) ndojeipe'ái: tavayguakuéra opyta ojapo jopói ha ombovyvy kyraʼami umi bamot-pe.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hákatu año"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "umi bamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…i"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "jeipe'ái"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ojapo jopói"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ha ombovyvy kyraʼami"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamot-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:13:20.339336828Z",
+  "model": "glm-5.3"
+}

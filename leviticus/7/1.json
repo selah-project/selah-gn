@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha kóva Tora pe acham mbaʼepe g̃uarã: marangatuete marangatu haʼe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ha kóva"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "pe acham mbaʼepe g̃uarã"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatuete"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:40.244375354Z",
+  "model": "glm-5.3"
+}

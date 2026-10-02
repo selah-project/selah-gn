@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Yvy jitá ha seorá rehegua, gefen, teaná ha rimon rehegua; yvy zait yryra ha eíra rehegua.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "jitá"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ha seorá"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "teaná"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "rimon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zait"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yryra"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "eíra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:29.247869434Z",
+  "model": "glm-5.3"
+}

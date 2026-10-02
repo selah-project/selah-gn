@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha trigo ha kusemet ndojehukái, ha'e kuéra imichĩ gueteri rupi.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Ha trigo"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ha kusemet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ojehukái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "imichĩ gueteri"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ha'e kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:52.193677669Z",
+  "model": "glm-5.3"
+}

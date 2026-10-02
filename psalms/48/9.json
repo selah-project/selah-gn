@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Rojapysaka haguáicha, upéicha rohecha Jahve Tsevaot távape, ore Elohim távape; Elohim omopyenda ⟨hína⟩ heta ára paháme. Selah.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "haguáicha"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "Rojapysaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "rohecha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "omopyenda ⟨hína⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "paháme"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "heta ára"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:13.373484368Z",
+  "model": "glm-5.3"
+}

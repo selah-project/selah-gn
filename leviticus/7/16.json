@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha nerẽrã térã mboypýi rei ramo ijkorapõ, hembipota árape — oñeguerúvo ⟨את⟩ ijkorapõ — oñekaru vaʼerã; ha koʼẽrõmíme avei, pe ohasáva upégui oñekaru vaʼerã.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha nerẽ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nerẽrã"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mboypýi rei"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korapõ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ijkorapõ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "oñeguerúvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijkorapõ"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ijzevaj"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oñekaru vaʼerã"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ha koʼẽrõmíme"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "pe ohasáva"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oñekaru vaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:21.917772711Z",
+  "model": "glm-5.3"
+}

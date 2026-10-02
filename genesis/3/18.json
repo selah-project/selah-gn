@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Tunu ha karaguata oñemoheñóita ndéve g̃uarã, ha re'uta ⟨את⟩ kokue ka'avo.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "tunu"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "karaguata"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "oñemoheñóita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve g̃uarã"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ha re'uta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokue ka'avo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ka'avo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokue"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:21.293350903Z",
+  "model": "glm-5.3"
+}

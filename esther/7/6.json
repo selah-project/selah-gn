@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Ester heʼi: Peteĩ jañy ryguasu ha tapiaguasu — Haman ko ivaikuaáva. Ha Haman ojekyhyje mburuvicha mburuvicha kuña renondépe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "jañy ryguasu"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ha tapiaguasu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ivaikuaáva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Ha Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "ojekyhyje"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "mburuvicha kuña"
+    }
+  ],
+  "timestamp": "2026-10-02T17:32:12.802261197Z",
+  "model": "glm-5.3"
+}

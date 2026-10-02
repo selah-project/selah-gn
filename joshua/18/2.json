@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha opa Jisrael membykuéra apytépe hetave'ỹva umi ndojaguatéi gueteri ⟨את⟩ ijeroviakue — pokõi tetãygua aty.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "opa... hetave'ỹva"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "apytépe... membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo... gueteri"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ojaguatéi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijeroviakue"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ijeroviakue"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "tetãygua aty"
+    }
+  ],
+  "timestamp": "2026-10-02T10:27:40.318850861Z",
+  "model": "glm-5.3"
+}

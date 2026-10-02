@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha pira karaikuéra ovy'ave'ỹ, opaite oiporúva huka yeor-pe oguerohory'ỹ hikuái, ha umi osarambíva joi y ári ohypy'ũ hikuái.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "ovy'ave'ỹ"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "pira karaikuéra"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "oguerohory'ỹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "oiporúva"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "yeor-pe"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "huka"
+    },
+    {
+      "surface": "ופורשי",
+      "gloss": "ha umi osarambíva"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "joi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פני",
+      "gloss": "y"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ohypy'ũ hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:18.491850504Z",
+  "model": "glm-5.3"
+}

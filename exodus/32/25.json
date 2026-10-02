@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Moche ohecha ⟨את⟩ tavakuéra ojeheja vaharei hague — Aaron ojeheja vai haguérupi chupekuéra, ivaihag̃uarã umi ñorãirõhárare.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavakuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "ojeheja vaharei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguérupi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ojeheja vai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "ivaihag̃uarã"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "umi ñorãirõhárare"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:14.684110202Z",
+  "model": "glm-5.3"
+}

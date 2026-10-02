@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha ameʼẽ Jitshak-pe ⟨את⟩ Jaakov ha ⟨את⟩ Esav; ha ameʼẽ Esav-pe ⟨את⟩ Seʼir yvyty, oikóvo ⟨את⟩ hese; ha Jaakov ha iñemoñare oguejy Mitsraim-pe.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ha ameʼẽ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshak-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ha ameʼẽ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seʼir yvyty"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seʼir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "oikóvo hese"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hese"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ha Jaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ha iñemoñare"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:41.401322205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve oguerekókuri ipoguýpe ⟨את⟩ y guasu (mabul) ramo; ha Jahve, mburuvicha, opytáta opa áragui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "y guasu (mabul) ramo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oguerekókuri ipoguýpe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "opytáta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa áragui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:45.559909419Z",
+  "model": "glm-5.3"
+}

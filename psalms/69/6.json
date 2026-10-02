@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Elohim, nde reikuaa che varai; ha che jejavy ndehegui ani okañy.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "che varai"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ha che jejavy"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndehegui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "okañy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:37.977723956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha pe tembiguái oñe'ẽrõ teete he'íva: Ahayhu ⟨את⟩ che jára, ⟨את⟩ che rembireko ha ⟨את⟩ che ra'ýra; ndasẽmo'ãi sãso.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha…rõ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "pe tembiguái"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ahayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jára"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che rembireko"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "che rembireko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "che ra'ýra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che ra'ýra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…mo'ãi"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "sẽ"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "sãso"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:42.341574440Z",
+  "model": "glm-5.3"
+}

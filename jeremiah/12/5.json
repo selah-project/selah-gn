@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Eguata haʼeháicha ⟨את⟩ py kukúi apoha ñande yvypóra kuéra ndive, ha umíva omondýi ndeve, mbaʼeichapa rehaʼãta ⟨את⟩ kavaju kuéra ndive? Ha yvy pytuʼukuehápe eeroviahápe, mbaʼeichapa rejapóta Yarden tuichakue guasúpe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼéramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "py kukúi apoha kuéra"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "py kukúi apoha kuéra"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "eguata haʼeháicha"
+    },
+    {
+      "surface": "וילאוך",
+      "gloss": "omondýi ndeve"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ha mbaʼeichapa"
+    },
+    {
+      "surface": "תתחרה",
+      "gloss": "rehaʼãta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kavaju kuéra"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kavaju kuéra"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "yvy ... -pe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pytuʼukuehápe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nee"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "eeroviahápe"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ha mbaʼeichapa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "tuichakue guasúpe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-02T13:22:04.265665888Z",
+  "model": "glm-5.3"
+}

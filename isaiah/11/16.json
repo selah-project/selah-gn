@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 11:16",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Oĩta peteĩ tape iñemoñare mbytereiguávape g̃uarã, Ashur gui oúva, haʼéicha oikóva Jisrael-pe ára ojupihaguépe Mitsraim yvy gui.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "tape"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "mbytereiguávape g̃uarã"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "oúva Ashur gui"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashur gui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haʼéicha"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ojupihaguépe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvy gui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T12:33:41.048179775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha oguereko hikuái chupe ha omona ⟨את⟩ chupe yvykuʼápe; ha pe yvyku'a ⟨⟨nandi⟩⟩, ndaipóri ipype ⟨y⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "oguereko hikuái chupe"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ha omona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "yvykuʼápe"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ha pe yvyku'a"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T07:59:03.803695194Z",
+  "model": "glm-5.3"
+}

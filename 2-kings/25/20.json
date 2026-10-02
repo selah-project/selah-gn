@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "And Nebuzaradan, chief of the slaughterers, took ⟨את⟩ them, and led ⟨את⟩ them to the king of Bavel, to Rivla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and he took"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ them",
+      "marks": "them — the captives of verses 18–19"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "of the slaughterers"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and he led"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ them",
+      "marks": "them — the captives"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "the king of"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "to Rivla"
+    }
+  ],
+  "timestamp": "2026-10-02T12:25:55.680993371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha ohovaʼerõ ⟨את⟩ chéve tujá tuichaitévape; oipeʼa chéve, cherayhu haguére chéve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ha ohovaʼerõ"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "tujá tuichaitévape"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "chéve"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "oipeʼa chéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": ","
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "cherayhu haguére"
+    },
+    {
+      "surface": "בי",
+      "gloss": "chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:34:48.806680686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Paroh oipyguarahã pyaʼe ohenói hag̃ua Moche-pe ha Aharon-pe, ha heʼi: Ajejavy Jahve, pe Elohim rehe, ha peẽ rehe.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "oipyguarahã pyaʼe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ohenói hag̃ua"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moche-pe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ha Aharon-pe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aejejava"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ha peẽ rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:32.823024871Z",
+  "model": "glm-5.3"
+}

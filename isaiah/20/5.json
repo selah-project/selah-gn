@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Oikotyryrỹ ha ovy'arãʼỹ Kuch-gui — hiʼañotevẽ haguegui — ha Mitsraim-gui — ijayvygui.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "oikotyryrỹ"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ovyʼarãʼỹ"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kuch"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "hiʼañotevẽ hague"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha ... -gui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ijayvy"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:00.866994459Z",
+  "model": "glm-5.3"
+}

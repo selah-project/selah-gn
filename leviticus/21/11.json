@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha opaite manóba árape ani oho; itúva térã isýpe g̃uarã ani oñembyai.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "árape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "manóba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "manóva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "oho"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "itúvape"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "isýpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "oñembyai"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:34.192402229Z",
+  "model": "glm-5.3"
+}

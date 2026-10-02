@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 40:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Yvyty yvate ári, epe, Tsiyon ñemuha; embojuruja mbaretehápe ne ñe'ẽ, Jerusalaim ñemuha guasu; embojuruja, ani rejesareko; eñe'ẽ Jehuda távakuérare: Péina pe Elohim!",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "ñemuha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "embojuruja"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "mbaretehápe"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ne ñe'ẽ"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "ñemuha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "embojuruja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "rejesareko"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "távakuérare"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Péina"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:53.608089515Z",
+  "model": "glm-5.3"
+}

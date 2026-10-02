@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Pe ñangarekohárape g̃uarã, «Almút Labén» rehe — David mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe ñangarekohárape g̃uarã"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almút"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labén"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼéva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:25.180763620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jehochua he'i: Ko rupípe peikuaáta pe El rekove oĩha pe mbytépe, ha ohohemapaitéva oipe'áta peñande rekóive ⟨את⟩ kenaaníva, ha ⟨את⟩ hitíva, ha ⟨את⟩ hiuíva, ha ⟨את⟩ perisíva, ha ⟨את⟩ girgachíva, ha ⟨את⟩ amoríva, ha ⟨את⟩ jebusíva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ... he'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Ko rupípe"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "peikuaáta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "pe mbytépe"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "ohohemapaitéva"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "oipe'áta"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "peñande rekóive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaaníva"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaníva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hitíva"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hitíva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hiuíva"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiuíva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "perisíva"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perisíva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "girgachíva"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgachíva"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ha amoríva"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ha jebusíva"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:04.337917507Z",
+  "model": "glm-5.3"
+}

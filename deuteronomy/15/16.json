@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha oikóta ha he'íramo ndeve: Nachesẽi nde rendégui — cherayho hague rehe ha ⟨את⟩ nde roga rehe, oikoporã hague rehe ichupe nde ndive.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "he'íramo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…i"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "chesẽta"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "nde rendégui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "cherayho hague"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nde roga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde roga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague rehe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "oikoporã"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:14.336575470Z",
+  "model": "glm-5.3"
+}

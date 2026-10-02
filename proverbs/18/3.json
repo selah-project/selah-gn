@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oúvo ivaíva, ou avei mboyve'ỹ, ha vaimeme ndive ñe'ẽ vai.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "oúvo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ivaíva"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "mboyve'ỹ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha ... ndive"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "vaimeme"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ñe'ẽ vai"
+    }
+  ],
+  "timestamp": "2026-10-02T16:36:46.977006637Z",
+  "model": "glm-5.3"
+}

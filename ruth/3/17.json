@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha heʼi: Koʼã poteĩ ⟨⟨sehi⟩⟩ omeʼẽ chéve, haʼe haʼe hague: Ani ereju nandi nde sy-ruʼã rendápe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "sehi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe haʼe hague"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "ereju"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "nde sy-ruʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T17:11:31.768716148Z",
+  "model": "glm-5.3"
+}

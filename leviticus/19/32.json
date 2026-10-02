@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Tuja vakã ári peresaráita, ha remombaʼeguasuéta tuja rere, ha nde Elohim rejahechakuaáta: che Jahve.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ári peresaráita"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "tuja vakã"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "peresaráita"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "ha remombaʼeguasuéta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rere"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tuja"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ha rejahechakuaáta"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "nde Elohim-gui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:31.642505230Z",
+  "model": "glm-5.3"
+}

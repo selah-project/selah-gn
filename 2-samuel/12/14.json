@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Péva añoite, upévare ko ñe'ẽme reipohýi ⟨את⟩ Jahve ñorairõhárakuéra, ha pe memby heñóiva ndéve añetehápe omanóta.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Péva añoite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "reipohýi"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "reipohýi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñorairõhárakuéra"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ñorairõhárakuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ko ñe'ẽme"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "pe memby"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "heñóiva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omanóta"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "añetehápe omanóta"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:56.642385436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Arfachad omomembý ⟨את⟩ Chelaj, ha Chelaj omomembý ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfachad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "omomembý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Chelaj"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Chelaj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "omomembý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:56.144597065Z",
+  "model": "glm-5.3"
+}

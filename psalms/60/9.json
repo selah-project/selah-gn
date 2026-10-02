@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Che mba'e Gilad, che mba'e avei Menasheh; Efrain che akã pu'aka; Jehudah che léi moapysẽhára.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "che mba'e"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "che mba'e avei"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrain"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pu'aka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "che akã"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "che léi moapysẽhára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:54.654034618Z",
+  "model": "glm-5.3"
+}

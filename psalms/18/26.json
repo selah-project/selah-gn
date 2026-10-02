@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Chasid ndive reiko hesed-peháicha; peteĩnteva ndive reiko peteĩnteháicha.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chasid"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "reiko hesed-peháicha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yvypóra ⟨peteĩnteva⟩"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "peteĩnteva"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "reiko peteĩnteháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:22.841034907Z",
+  "model": "glm-5.3"
+}

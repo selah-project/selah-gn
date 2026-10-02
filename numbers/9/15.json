@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha koʼẽrã pe oñemohatã ⟨את⟩ Michkan ára, ahyja oñembojasa ⟨את⟩ Michkan ári — ñeʼẽjoajuhápe — ha kaʼirũ jave oĩta Michkan ári tata raʼangáicha, koʼẽ meve.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ha … ára"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "oñemohatã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "oñembojasa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ahyja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ñeʼẽjoajuhápe"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ñeʼẽjoaju"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "ha kaʼirũ jave"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "raʼangáicha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T09:22:40.786685824Z",
+  "model": "glm-5.3"
+}

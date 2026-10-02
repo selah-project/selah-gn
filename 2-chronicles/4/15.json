@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "⟨את⟩ Peteĩ para guasu, ha ⟨את⟩ umi vaka guasu pakõi irundy ipytuʼerãguápe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peteĩ para guasu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para guasu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Peteĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi vaka guasu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "umi vaka guasu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ipytuʼerãguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:20:13.938061639Z",
+  "model": "glm-5.3"
+}

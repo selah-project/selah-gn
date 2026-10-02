@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha rejapóta ⟨את⟩ umi syry'i acasia yvyrágui, ha reheka ⟨אתם⟩ Itaju rehe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi syry'i"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "umi syry'i"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyrágui"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "heka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Itaju rehe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Itaju"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:14.859396988Z",
+  "model": "glm-5.3"
+}

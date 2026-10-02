@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Guasu oikotevẽ opytapýpe y syrykuéra ndive, upéicha che rekove oikotevẽ nde rehe, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "oikotevẽ opytapýpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "y syrykuéra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "oikotevẽ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:12.855578559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Paroh taʼýra heʼi chupe: Egueru ⟨את⟩ ko mitā ha esū chupe cheharõ, ha che ameʼẽta ⟨את⟩ nde jepeguarã. Ha pe kuña ogueru ⟨את⟩ pe mitā ha osū chupe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mitā"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mitā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "ha esū chupe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cheharõ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ameʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde jepeguarã"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "nde jepeguarã"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mitā"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "ha osū chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:06.613417891Z",
+  "model": "glm-5.3"
+}

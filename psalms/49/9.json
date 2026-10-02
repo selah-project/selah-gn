@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ha tuichaiterei ⟨pe⟩ jeyipe'a hekove rehegua, ha opa opaite ára rehe.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ha tuichaiterei"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "jeyipe'a"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hekove"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:00.659014992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 70,
+  "translation": "Elohim, che moasãso hag̃ua, Jahve, che pytyvõrã, eipy'ara'ã.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "che moasãso hag̃ua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "che pytyvõrã"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "eipy'ara'ã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:03.659391304Z",
+  "model": "glm-5.3"
+}

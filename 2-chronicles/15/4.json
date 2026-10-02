@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha pyʼarasy-pe ojevy hese, Jahve, Jisrael Elohim ápe, ha oheka hese, ha ojejuhu chukuéra.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "pyʼarasy-pe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "על",
+      "gloss": "ápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "ha oheka hese"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ha ojejuhu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:27:12.489970158Z",
+  "model": "glm-5.3"
+}

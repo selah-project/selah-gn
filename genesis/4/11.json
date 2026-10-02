@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha koʼág̃a, nde reñembyái yvy gui — pe oipeʼa hague ⟨את⟩ iñakua, omboja hag̃ua ⟨את⟩ nde joykeʼy rugui nde po gui.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha koʼág̃a"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "reñembyái"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe ... hague"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "oipeʼa hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakua"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "iñakua"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "omboja hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde joykeʼy rugui"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "rugi (juaju)"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde joykeʼy"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "nde po gui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:14.831502170Z",
+  "model": "glm-5.3"
+}

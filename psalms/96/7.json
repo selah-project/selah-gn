@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Emeʼẽ Jahve-pe, umi tetãnguéra ñemoñarenguéra; emeʼẽ Jahve-pe terakua ha puʼaka.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Emeʼẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "umi ñemoñarenguéra"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "terakua"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ha puʼaka"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:49.405634760Z",
+  "model": "glm-5.3"
+}

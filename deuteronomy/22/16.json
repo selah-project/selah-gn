@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha kuñataĩ ru he'i umi karai kuãrasýpe: ⟨את⟩ che rajy aguereko chugui ha ame'ẽ ko kuimba'épe hembirekorã, ha upéi ndaija'ei chupe.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ru"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kuñataĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "umi karai kuãrasýva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che rajy"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "che rajy"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ame'ẽ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kuimba'épe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "hembirekorã"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ndaija'ei chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:04:36.535893623Z",
+  "model": "glm-5.3"
+}

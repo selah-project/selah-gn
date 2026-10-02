@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Aroñeʼẽ porã ⟨את⟩ Jahve rehe, omboʼéva cherehe; avei pyharekuérape che tilokuéra ohekomboʼe cherehe.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "aroñeʼẽ porã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omboʼéva"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "pyharekuérape"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ohekomboʼe cherehe"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "che tilokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:55.766772634Z",
+  "model": "glm-5.3"
+}

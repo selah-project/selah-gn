@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Adonai ombotuche chupe, ohechaaguáguicha oguerahataha ára.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ombotuche"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ohechaaguáguicha"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oguerahataha"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "oguerahataha"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:46.713875748Z",
+  "model": "glm-5.3"
+}

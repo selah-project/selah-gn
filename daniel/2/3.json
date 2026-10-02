@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha mburuvicha he'i chupekuéra: Ta'anga'õ ahecha, ha che ruah oñembyasy aikuaa hag̃ua ⟨את⟩ pe ta'anga'õ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ... he'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Ta'anga'õ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aikuaa hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ta'anga'õ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "pe ta'anga'õ"
+    }
+  ],
+  "timestamp": "2026-10-02T17:31:25.556836272Z",
+  "model": "glm-5.3"
+}

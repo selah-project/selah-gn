@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Aharon ha imembykuéra oñembosarãta hese ⟨את⟩ ipokuéra ha ⟨את⟩ ipykuéra.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "oñembosarãta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ha imembykuéra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipokuéra"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ipokuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ipykuéra"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ipykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:08.838023459Z",
+  "model": "glm-5.3"
+}

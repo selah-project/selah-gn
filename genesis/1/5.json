@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ohenói ⟨pe⟩ tesãi Ára, ha ⟨pe⟩ pytũ ohenói Pyhare; ha oiko kaʼaru, ha oiko koʼẽ — ára peteĩ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "pe tesãi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ára"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ha pe pytũ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Pyhare"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kaʼaru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:26.371135327Z",
+  "model": "glm-5.3"
+}

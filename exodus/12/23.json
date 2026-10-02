@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Jahve ohasa ojuka hag̃ua ⟨את⟩ Mitsraim; ha ohechávo ⟨את⟩ pe rague oĩva yvyrarunga ári ha umi mokõi yvyra yke ári, Jahve ohasa ogaja ári, ha nomẽmo'ãi pe ojukaáva oike hag̃ua peẽ rogakuérape ojuka hag̃ua.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "ojuka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ohechávo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rague"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rague"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "yvyrarunga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha umi... ári"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "yvyra yke"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ogaja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nomẽmo'ãi"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "ojukaáva"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "oike hag̃ua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "peẽ rogakuéra"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "ojuka hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:17:18.806162867Z",
+  "model": "glm-5.3"
+}

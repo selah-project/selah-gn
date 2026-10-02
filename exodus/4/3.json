@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨eʼe⟩: Embou yvýpe. Ha ombou yvýpe, ha ojehu chuguichatuichagua mboi; ha Moche oñemondýi ichugui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ⟨eʼe⟩"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "embou"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ombou"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "mboi"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "oñemondýi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ichugui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:22.990504836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Katui peẽ eñakārame ⟨את⟩ Jahve rehe ha peẽ mbopiapo ⟨את⟩upe añetegua ha peẽ rekorasõpaite rupi; peẽ rehecháma mba'eichaitépa ojapo peẽ ndive.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Katui"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "eñakārame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ha mbopiapo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩upe",
+      "marks": "upe (Jahve)"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "paite"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "rekorasõ"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rehecháma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'e ojapóva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ojapo mbarete"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "peẽ ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:39.742260384Z",
+  "model": "glm-5.3"
+}

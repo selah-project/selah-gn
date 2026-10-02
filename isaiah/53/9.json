@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 53,
+  "translation": "Omeʼẽ ⟨את⟩ umi ivaíva ityvyra-ñongatuha, ha ⟨את⟩ peteĩ oguenoẽva imano apytépe; haperã, ñorairõʼasy ndojapói, ha ñembyaʼi iñeʼẽme ndaipóri.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ivaíva"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ityvyra-ñongatuha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩ oguenoẽva"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "peteĩ oguenoẽva"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "imano apytépe"
+    },
+    {
+      "surface": "על",
+      "gloss": "haperã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…i"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ñorairõʼasy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha na…i"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ñembyaʼi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iñeʼẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T12:59:03.561047264Z",
+  "model": "glm-5.3"
+}

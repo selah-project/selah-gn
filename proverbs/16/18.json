@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ñembyai mboyve oi ⟨pyʼaguasu⟩, ha jeikueʼã mboyve oi pyʼa yvate.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ñembyai"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pyʼaguasu"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ha mboyve"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "jeikueʼã"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "pyʼa yvate"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "pyʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:35:46.939769976Z",
+  "model": "glm-5.3"
+}

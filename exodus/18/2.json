@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Jitro, Moche túra, oguereko ⟨את⟩ Tsipora, Moche rembireko, oñemondo rire chupe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "túra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "rembireko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "rire"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "oñemondo chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:58.850609497Z",
+  "model": "glm-5.3"
+}

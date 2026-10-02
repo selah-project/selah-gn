@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "¿Nde roykekópa ⟨את⟩ pe Kemosh, nde Elohim, ome'ẽva ndeve? Ha ⟨את⟩ opaite Jahve, ore Elohim, omonandiva'ekue ore renondégui, roykeko ore.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿...pa?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umba'éva Kemosh ome'ẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umba'éva"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "ome'ẽva ndeve oykeko hag̃ua"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kemosh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "roykeko"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "roykeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umba'éva Jahve omonandiva'ekue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umba'éva"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "omonandiva'ekue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ore renondégui"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "roykeko ore"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "roykeko ore"
+    }
+  ],
+  "timestamp": "2026-10-02T10:45:15.091116723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ndahaʼéipa Kalno Karkemichicha? Hamat Arpadichapa? Shomeron Damasékohapa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ndahaʼéipa"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Karkemichicha"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Arpadicha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Damasékoha"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-02T12:31:10.334879127Z",
+  "model": "glm-5.3"
+}

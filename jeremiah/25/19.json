@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paroh, Mitsraim mburuvicha, ⟨את⟩ imba'apojarakuéra, ⟨את⟩ ikaruai-kuéra ha ⟨את⟩ opaite itapo-kuéra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imba'apojarakuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imba'apojarakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ikaruai-kuéra"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ikaruai-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite itapo-kuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itapo-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:29:27.150320686Z",
+  "model": "glm-5.3"
+}

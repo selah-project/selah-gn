@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "obadiah 1:9",
+  "book": "obadiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha nde mbaretekuéra, Teiman, okangy, ojeipeʼa hag̃ua opaite kuimbaʼe yvyty Esáv gui, jejokapýgui.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "okangy"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "nde mbaretekuéra"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teiman"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ojeipeʼa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "opaite kuimbaʼe"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "yvyty gui"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esáv"
+    },
+    {
+      "surface": "מקטל",
+      "gloss": "jejokapýgui"
+    }
+  ],
+  "timestamp": "2026-10-02T14:59:42.825090465Z",
+  "model": "glm-5.3"
+}

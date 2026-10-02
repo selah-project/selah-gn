@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha omoĩ ipo pe kavara kuimbaʼe akã ári ha ojuka ⟨את⟩ chupe tendápe ojukahápe ⟨את⟩ pe mbaʼe ojupíva tataípe, Jahve renondépe; hetat haʼe.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pe kavara kuimbaʼe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe kavara kuimbaʼe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩháme"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ojukahápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mbaʼe ojupíva tataípe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe mbaʼe ojupíva tataípe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hetat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:04.664822428Z",
+  "model": "glm-5.3"
+}

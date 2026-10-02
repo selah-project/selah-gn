@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Nde avati raʼypy, nde kaguyjey, nde yva raʼỹ, ha nde ovecha raʼypy raʼỹkuéra, emeʼẽta chupe.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "raʼypy"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "nde avati"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "nde kaguyjey"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "ha nde yva raʼỹ"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ha raʼypy"
+    },
+    {
+      "surface": "גז",
+      "gloss": "raʼỹkuéra"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "nde ovechakuéra"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:03:43.914211698Z",
+  "model": "glm-5.3"
+}

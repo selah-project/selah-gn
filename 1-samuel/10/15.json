@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Shaul iñemoñare he'i chupe: Eñe'ẽ chéve ko'ẽpe, mba'épa he'i Shemuel peẽme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko'ẽpe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'épa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-10-02T18:58:10.026838746Z",
+  "model": "glm-5.3"
+}

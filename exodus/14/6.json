@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ohaʼãjey ⟨את⟩ ikarréta, ha ⟨את⟩ itavaygua oguereko hendive.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ohaʼãjey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikarréta"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ikarréta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itavaygua"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itavaygua"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:16:30.002383567Z",
+  "model": "glm-5.3"
+}

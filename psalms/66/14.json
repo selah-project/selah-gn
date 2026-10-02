@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Pe che jururembe oipe'a haguére, ha che juru oñe'ẽ hague che asy jave.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "oipe'a haguére"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "che jururembe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ha oñe'ẽ hague"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "che asy jave"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:21.965031981Z",
+  "model": "glm-5.3"
+}

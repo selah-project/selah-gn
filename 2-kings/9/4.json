@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha pe mitãusu — pe mitãusu, pe nabi raʼy — oho Ramot-Gilad-pe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ha…oho"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pe mitãusu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pe mitãusu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pe nabi raʼy"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:07:05.596912867Z",
+  "model": "glm-5.3"
+}

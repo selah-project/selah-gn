@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ojehu Joná-pe vai tuichaiterei, ha oñembyasy chupe iñairãme.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Joná"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vai"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "oñembyasy iñairãme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:03:17.916764412Z",
+  "model": "glm-5.3"
+}

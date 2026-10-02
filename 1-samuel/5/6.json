@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Jahve po ojehu pohýi umi Ashdod-yguárakuéra rehe: omonandi chuguakuéra, ha oipohýi chuguakuéra ano vevúikuéra rehe, ⟨את⟩ Ashdod ha ⟨את⟩ ijyvy rembeʼykuéra.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ojehu pohýi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…rehe"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Ashdod-yguárakuéra"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "omonandi chuguakuéra"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oipohýi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod-yguárakuéra"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ano vevúikuéra rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijyvy tembeʼykuéra"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ijyvy tembeʼykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:58:52.331086131Z",
+  "model": "glm-5.3"
+}

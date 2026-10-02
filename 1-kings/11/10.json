@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oñeʼẽ haguã chupe ko ñeʼẽ rehe, ani hag̃ua oho ambue Elohim rapykuere; ha ndohejái ojapo pe Jahve ojerure vaʼekue ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ha oñeʼẽ ojerure"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rapykuere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ndohejái ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Jahve ojerure vaʼekue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:04.224287827Z",
+  "model": "glm-5.3"
+}

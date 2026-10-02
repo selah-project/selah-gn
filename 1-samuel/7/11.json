@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha umi Jisrael kuimba'e osẽ Mitzpa-gui, ha omboyryrõ ⟨את⟩ umi Plichtim, ha ojuka chuguikuéra peve Bet-Kar iguýpe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "osẽ hikuái"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimba'e kuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "omboyryrõ hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Plichtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plichtim"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ojuka chuguikuéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iguýpe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-10-02T10:56:11.703467889Z",
+  "model": "glm-5.3"
+}

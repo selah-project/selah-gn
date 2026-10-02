@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Pe motenondehárã g̃uarã, Guitita ári, David ñemborai.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "motenondehárã g̃uarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Guitita"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ñemborai"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:24:19.016447145Z",
+  "model": "glm-5.3"
+}

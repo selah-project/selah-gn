@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Pe iporãva ha ikorasõguasuva nemoñangareko hína, ha ne mba'e porãygua rairoʼy ñeʼẽ che amanduʼase.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "pe iporãva ha ikorasõguasuva"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nemoñangareko"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "hína"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ha ñeʼẽ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ne mba'e porãygua rairoʼy"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "che amanduʼase"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:10.833457043Z",
+  "model": "glm-5.3"
+}

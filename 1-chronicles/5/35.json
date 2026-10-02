@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ajimaats katu ñemongaraʼi ⟨את⟩ Asarja; Asarja ñemongaraʼi ⟨את⟩ Jojanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Ajimaats katu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ñemongaraʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Asarja"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Asarja katu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ñemongaraʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jojanan"
+    }
+  ],
+  "timestamp": "2026-10-02T18:02:32.952289220Z",
+  "model": "glm-5.3"
+}

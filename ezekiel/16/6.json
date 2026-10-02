@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 16:6",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ahasákuri nde ári, ahechákuri nde mityryry nde tuguy apytépe; ha aheʼi ndéve — nde tuguy apytépe, eiko — ha aheʼi jey ndéve — nde tuguy apytépe, eiko.",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "ha ahasa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde ári"
+    },
+    {
+      "surface": "ואראך",
+      "gloss": "ahecha nde"
+    },
+    {
+      "surface": "מתבוסססת",
+      "gloss": "mityryry"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "nde tuguy apytépe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ha aheʼi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "nde tuguy apytépe"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "eiko"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ha aheʼi jey"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "nde tuguy apytépe"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "eiko"
+    }
+  ],
+  "timestamp": "2026-10-02T14:13:11.125383856Z",
+  "model": "glm-5.3"
+}

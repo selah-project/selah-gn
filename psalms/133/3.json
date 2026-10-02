@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 133,
+  "translation": "Chermon yrypyicha osyryva Tsion yvytykuéra ári; upévagui upépe Jahve omohenda ⟨את⟩ ⟨pe⟩ jopói: tekove, ag̃a guive opaʼỹre.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "yrypycha"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "osyryva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévagui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omohenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jopói"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "pe jopói"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ag̃a guive"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "opaʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:58.372851696Z",
+  "model": "glm-5.3"
+}

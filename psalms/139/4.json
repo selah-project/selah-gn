@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Cheresã ndaipóri ñeʼẽ che ñeʼẽme — maheʼẽ, Jahve, reikuaaite ⟨opaite⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "cheresã"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "che ñeʼẽme"
+    },
+    {
+      "surface": "הן",
+      "gloss": "maheʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaaite"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "opaite"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:14.056511361Z",
+  "model": "glm-5.3"
+}

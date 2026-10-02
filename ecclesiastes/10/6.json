@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Pe tavy oñemeʼẽ yvate renda hetaitévape, ha umíva imbaʼeguasúva oiko yvy yvateʼỹpépe.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "oñemeʼẽ"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "pe tavy"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "yvate renda hetaitévape"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaitéva"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ha umíva imbaʼeguasúva"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "yvy yvateʼỹpépe"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oiko"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:22.730423238Z",
+  "model": "glm-5.3"
+}

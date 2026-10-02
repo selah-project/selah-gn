@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che rekove toiko ha toñemombaʼe nde rehe, ha nde hekojojaha ou che pytyvõrã.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "toiko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ha toñemombaʼe nde rehe"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ha nde hekojojaha"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "ou che pytyvõrã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:18.362562299Z",
+  "model": "glm-5.3"
+}

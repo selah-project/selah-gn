@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha oiko, túva isãsorã oñemongakuaapávo hese, ha ojukapa ⟨את⟩ imba'apohára kuéra, ⟨את⟩ pe mburuvicha itúva ojukava'ekue hikuái.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "… jave"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "oñemongakuaapávo, oñemoñaretãvo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "isãsorã"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ojukapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba'apohára kuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imba'apohára kuéra"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ojukava'ekue hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mburuvicha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:32:40.489764466Z",
+  "model": "glm-5.3"
+}

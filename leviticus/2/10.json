@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha minhágui okañýva, Aharon raʼýkuéra haʼehã, marangatuetéva, Jahve tupãryguasúgui.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "okañýva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhágui"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "raʼýkuéra haʼehã"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatuetéva"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tupãryguasúgui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:45:52.637275462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Eme'ẽ nde ryre'ívapekuéra poyvi oñemoĩ hag̃ua yvate, añetegua rehe. Selá.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Eme'ẽ"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "nde ryre'ívapekuéra"
+    },
+    {
+      "surface": "נס",
+      "gloss": "poyvi"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "oñemoĩ hag̃ua yvate"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:50.137484178Z",
+  "model": "glm-5.3"
+}

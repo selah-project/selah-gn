@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 35:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha ohosemby Bet-El guive; ha oĩ gueteri yvy jepohy ohóvo Efrata-pe, ha Rajel oñemoñarã, ha iñembyaty vai imemby raʼẽ aja.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ohosemby"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oĩkuri"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "yvy jepohy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efrata-pe"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "oñemoñarã"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "ותקש",
+      "gloss": "iñembyaty vai"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "imemby raʼẽ aja"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:37.708144478Z",
+  "model": "glm-5.3"
+}

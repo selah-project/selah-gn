@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Chemembyré, che ñeʼẽkuéra reipuru ramo, ha che mboʼekuéra reñongatu nde reheve ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Chemembyré"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "reipuru"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "che ñeʼẽkuéra"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ha che mboʼekuéra"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "reñongatu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nde reheve ⟨את⟩",
+      "marks": "nde reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:28:38.925913907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha nde, embojoaju nde rehe ⟨את⟩ Aharon, nde joyke'y, ha ⟨את⟩ iñemoñare hikuái, Jisrael memby apytégui, omba'apo hag̃ua chupe che rayhára ramo chehegui. Aharon, Nadav ha Avihú, Elazar ha Itamar, Aharon membykuéra.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "embojoaju nde rehe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde joyke'y"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñemoñare"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hikuái ⟨את⟩ ndive"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "omba'apo hag̃ua chupe che rayhára ramo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chehegui"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ha Avihú"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ha Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T08:28:51.161529422Z",
+  "model": "glm-5.3"
+}

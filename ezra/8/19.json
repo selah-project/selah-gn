@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ⟨את⟩ Chashavia, ha hesaíva ⟨את⟩ Ishaia, Merari ta'ýrakuéra apytégua, ijoyke'ykuéra ha ita'ýrakuéra, mokõi pa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chashavia"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashavia"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ha hesaíva ⟨את⟩",
+      "marks": "Ishaia"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Ishaia"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ta'ýrakuéra apytégua"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ita'ýrakuéra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõi pa"
+    }
+  ],
+  "timestamp": "2026-10-02T17:49:33.198791435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ehaʼã ko ⟨את⟩ ne mbaʼirũkuéra ára pa puku; ha ome oréve ñandýgui jajapo hag̃ua jakaru, ha y, jayʼu hag̃ua.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "ehaʼã"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mbaʼirũkuéra"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ne mbaʼirũkuéra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ha ome"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "ñandýgui"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "jajapo hag̃ua jakaru"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ha y"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "jayʼu hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T17:29:45.209165483Z",
+  "model": "glm-5.3"
+}

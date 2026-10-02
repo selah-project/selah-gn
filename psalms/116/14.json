@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Che ñeʼẽmeʼẽ Jahve-pe amohuʼã, koʼág̃a, opaite iñemoñare tenondépe.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "amohuʼã"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "tenondépe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:42.005615988Z",
+  "model": "glm-5.3"
+}

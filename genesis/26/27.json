@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Jitshak heʼi chupekuéra: Mbaʼérepa peẽ ou che rendápe, peẽ che ndaijaʼéi ⟨את⟩ che rehe, ha peẽ chemondo ⟨את⟩ peẽ apytégui?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "peẽ ou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rendápe"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ha peẽ"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "ndaijaʼéi che rehe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "peẽ chemondo"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ peẽ apytégui",
+      "marks": "peẽ apytégui"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:41.567778892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Jahve rogarã, ñande Elohim ógo rehe, aheka ndéve mbaʼe porã.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rogarã"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ógo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "aheka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:57.014718789Z",
+  "model": "glm-5.3"
+}

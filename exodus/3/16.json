@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Eho ha embyaty ⟨את⟩ Jisrael ruvichakuéra, ha eréta chupekuéra: Jahve, peñande ru Elohim — Avraham, Jitshak ha Jaakov Elohim — ojehechau chéve, he'i va'erã: Ahechauka añete ahechauka ⟨את⟩ peẽ ha ⟨את⟩ peẽme oñembyaíva Mitsraim-pe.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ha embyatyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael ruvichakuéra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha eréta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "peñande ru"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ojehechau"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ha Jaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'i va'erã"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Ahechauka añete"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ahechauka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "oñembyaíva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:50.019023099Z",
+  "model": "glm-5.3"
+}

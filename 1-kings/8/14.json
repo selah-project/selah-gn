@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha mburuvicha ojere ⟨את⟩ hovape, ha omongarai ⟨את⟩ Jisrael atyguasu opavavévape; ha Jisrael atyguasu opavave opytante oʼúpe.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovape"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hovape"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "omongarai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael atyguasu opavavévape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "atyguasu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha Jisrael atyguasu opavave"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "atyguasu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "opytante"
+    }
+  ],
+  "timestamp": "2026-10-02T11:47:14.616761445Z",
+  "model": "glm-5.3"
+}

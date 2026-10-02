@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Eke, eñeʼẽ Paroh, Mitsraim mburuvicha guasu rehe, ha omondo hag̃ua ⟨את⟩ Jisrael mitãnguéra ijerére guive.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "eke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ijerére guive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:50.913200474Z",
+  "model": "glm-5.3"
+}

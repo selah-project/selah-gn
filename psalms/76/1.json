@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Tapiaite ñangarekohárape g̃uarã, mbaraka jokopyrépe. Salmo Asaf-pe g̃uarã, purahéi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "tapiaite ñangarekohárape g̃uarã"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "mbaraka jokopyrépe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf-pe g̃uarã"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:53.398672316Z",
+  "model": "glm-5.3"
+}

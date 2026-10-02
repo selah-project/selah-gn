@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha oñondivo ⟨את⟩ chupekuéra onohẽ rupi morotĩngue, morotĩngue; ha ⟨ה⟩ yvy ojepysóvo tyai.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "oñondivo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "morotĩngue"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "morotĩngue"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ojepysóvo tyai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:39.780834684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Aguerohory nde py'a joja ndive, che aikuaave jave nde tsedek hekojojaha.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "aguerohory nde"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "joja ndive"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "py'a"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "che aikuaave jave"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "nde tsedek"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:03.725552656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Upévape oho haguépe oñembojavývo ⟨את⟩, upépe omano, ha ⟨את⟩ ko yvy ani ohecha jey.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévape"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oha haguépe"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "oñembojavývo hikuái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Chalum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ko yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    }
+  ],
+  "timestamp": "2026-10-02T13:24:54.401265157Z",
+  "model": "glm-5.3"
+}

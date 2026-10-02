@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Ndaipóri ambue tetã ojapóicha chupekuéra; iñhekojojaha katu ndoikuaái. Emomba'eguasu Ja!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndaipóri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóicha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upeichagua"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ha iñhekojojaha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ndoikuaái"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Emomba'eguasu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:09.344825582Z",
+  "model": "glm-5.3"
+}

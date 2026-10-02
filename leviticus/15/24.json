@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 15:24",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha upéicharõ kuimbaʼe oke hese ⟨את⟩ ha iñano oñemoĩ hese, ojavy pokõi ára, ha opa kere oke hese ojavy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha upéicharõ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hese"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "iñano"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "Ha opa"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "kere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "oke hese"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ojavy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:26.653684427Z",
+  "model": "glm-5.3"
+}

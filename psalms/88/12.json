@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "¿Oñemombeʼúpa nde hesed ⟨pe⟩ túape? ¿Nde jeroviakue Avadonpe?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "oñemombeʼúpa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "túape"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "nde jeroviakue"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Avadonpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:11.016405979Z",
+  "model": "glm-5.3"
+}

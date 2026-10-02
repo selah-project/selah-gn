@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 79,
+  "translation": "Péicha ojukapy ⟨את⟩ Jaakov, ha ⟨את⟩ hóga ojaho'ipa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Péicha"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ojukapy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hóga"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hóga"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ojaho'ipa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:11.994884678Z",
+  "model": "glm-5.3"
+}

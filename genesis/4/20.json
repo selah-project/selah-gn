@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Ada omombaʼu ⟨את⟩ Javal; haʼe tuvakuéra apytépe oĩ umi oiko tapyiʼape ha mymba apytepeve kaziquárape.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "omombaʼu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Javal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Javal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tuvakuéra apytépe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tapyiʼape"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "mymba"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:52.399852196Z",
+  "model": "glm-5.3"
+}

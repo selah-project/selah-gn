@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha omopu'ã pe táva ijerére, Milo-gui amo ijerére peve; ha Joav ombopu'ã jey ⟨את⟩ pe táva mba'e ohasava'ekue.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ha omopu'ã"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Milo-gui"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "amo ijerére"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ha Joav"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ombopu'ã jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe táva mba'e ohasava'ekue"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mba'e ohasava'ekue"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:05:35.763953357Z",
+  "model": "glm-5.3"
+}

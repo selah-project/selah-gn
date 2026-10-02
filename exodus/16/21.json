@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ohejy hikuái ⟨את⟩ maná ko'ẽme ko'ẽme, tapichakuéra ha'etéva ho'ukuaa hãguáicha; ha kuarahy akyvóvo, oñemongey.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "ohejy hikuái"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "maná (Hebreo: oha'ã ha'ekuéra ohejýva)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tapichakuéra"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ha'etéva...hãguáicha"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ho'ukuaa"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "akyvóvo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "oñemongey"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:48.709418669Z",
+  "model": "glm-5.3"
+}

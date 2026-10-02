@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Ojehecha ne mba'apo nde rembiguáikuérape, ha nde tekoporã umi imembykuérare.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Ojehecha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuérape"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde rembiguáikuéra"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ne mba'apo"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ha nde tekoporã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "umi imembykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:48.785836215Z",
+  "model": "glm-5.3"
+}

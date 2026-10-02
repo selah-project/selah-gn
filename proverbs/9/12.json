@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Rejakatu ramo, nde rejavatu nde rehénte; remboʼeguaru ramo, nde año nde reguataʼerã.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "rejakatu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "rejavatu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehénte"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "remboʼeguaru"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nde año"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nde reguataʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:29:19.618936472Z",
+  "model": "glm-5.3"
+}

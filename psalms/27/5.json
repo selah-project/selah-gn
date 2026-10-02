@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Upévarã ⟨haʼe⟩ oñomi chèche isuka ryepýpe, mbaʼe vai árape; oñomi chèche itenda kañymépe, ituʼã ári omonguʼé chèche yvatépe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upévarã"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "oñomi chèche"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "isuka ryepýpe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "oñomi chèche"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kañymépe"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "itenda"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ituʼã ári"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "omonguʼé chèche yvatépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:05.367303182Z",
+  "model": "glm-5.3"
+}

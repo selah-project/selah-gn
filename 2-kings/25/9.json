@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha omyandy ⟨את⟩ Jahve róga, ⟨את⟩ ⟨the⟩ mburuvicha róga, ⟨את⟩ Jerusalaim rogakuéra opaite; ha ⟨את⟩ peteĩteĩ óga guasu omyandy tatápe.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "omyandy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve róga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha róga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rogakuéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rogakuéra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩteĩ óga guasu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "peteĩteichagua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "omyandy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:24:59.941224707Z",
+  "model": "glm-5.3"
+}

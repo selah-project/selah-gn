@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha peẽ peñemoĩ ⟨את⟩ che ñeʼẽ koʼã peẽ pyʼape ári ha peẽ rekove ári, ha peẽ pejopy ⟨אתם⟩ techaukaháramo peẽ pópe, ha oĩta totafot-ramo peẽ resa mbytépe.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "peñemoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽ koʼã"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "peẽ pyʼape"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "peẽ rekove"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "pejopy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "techaukaha"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "techaukaháramo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "peẽ pópe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha oĩta"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "totafot-ramo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "peẽ resa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:21.915861917Z",
+  "model": "glm-5.3"
+}

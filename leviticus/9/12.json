@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ojuka ⟨את⟩ pe ohundirã, ha Aharon ra'akuéra ogueru chupe ⟨את⟩ pe tuguy, ha osarambi ⟨pe⟩ tuguy pe altar ári, ijerére.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ohundirã"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe ohundirã"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'akuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tuguy"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "pe tuguy"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "osarambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:12.037811286Z",
+  "model": "glm-5.3"
+}

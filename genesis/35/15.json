@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha Jaakov ombohéra ⟨את⟩ pe tenda réra, Elohim oñeʼẽ haguépe ⟨את⟩ cherehe upépe, Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ombohéra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tenda réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rera"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "pe tenda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽ haguépe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rehe",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T07:54:37.707998777Z",
+  "model": "glm-5.3"
+}

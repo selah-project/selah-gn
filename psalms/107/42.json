@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Umi teeñoirãva ohecha ha ovy'aiterei, ha opaite mba'e vai oipe'a iñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "umi teeñoirãva"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ovy'aiterei"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "iñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:13.335066041Z",
+  "model": "glm-5.3"
+}

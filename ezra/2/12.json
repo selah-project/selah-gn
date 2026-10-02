@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Azgad taʼýra, su ⟨á⟩ mokõi sa ⟨á⟩ mokõi pa mokõi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azgad"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõi pa"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ha mokõi"
+    }
+  ],
+  "timestamp": "2026-10-02T17:41:55.346283113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Iñakãraku peguante omeʼe ñorairõ; ⟨את⟩ umi oñemoñeʼẽva ojuehe apytépe oĩ jakavere.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "peguante"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "iñakãraku"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼe"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ñorairõ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi oñemoñeʼẽva ojuehe"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "umi oñemoñeʼẽva ojuehe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jakavere"
+    }
+  ],
+  "timestamp": "2026-10-02T19:26:08.542985612Z",
+  "model": "glm-5.3"
+}

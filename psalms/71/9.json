@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Ani che mboguete za'i árape, che pu'aka opa vove, ani reheja cherehe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "che mboguete"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "árape"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "za'i"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "opa vove"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "che pu'aka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "reheja cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:52.161751902Z",
+  "model": "glm-5.3"
+}

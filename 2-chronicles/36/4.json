@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha Mitsraim mburuvicha omoĩ ⟨את⟩ Eliakim, iermanokuévo, mburuvichárõ Yehuda ha Jerusalaim ári, ha oñemoambue ⟨את⟩ héra Jehoiakim-pe. Ha ⟨את⟩ Jehoajaz, iermanokuévo, Nejó ogueraha ha ogueroita Mitsraim-pe.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "omoĩ mburuvichárõ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iermanokuévo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "oñemoambue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehoiakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoajaz"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Jehoajaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iermanokuévo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Nejó"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ogueroita chupe"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:12.148091602Z",
+  "model": "glm-5.3"
+}

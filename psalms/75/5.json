@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 75,
+  "translation": "Aha'ã chéuri umi je'upyrekóvape: ani peñemoñe'ẽ mboyve, ha umi ndaija'etévape: ani pejupi ⟨את⟩ pe yvyrakuã.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aha'ã chéuri"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "umi je'upyrekóvape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "peñemoñe'ẽ mboyve"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "ha umi ndaija'etévape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "pejupi"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "pe yvyrakuã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:38.091289720Z",
+  "model": "glm-5.3"
+}

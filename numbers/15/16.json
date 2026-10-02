@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Peteĩ Tora ha peteĩ tekojoja opáta peẽme, ha ambue retãygua oikóva peẽ ⟨את⟩ ndive.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Peteĩ Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ha tekojoja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "opáta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ha ambue retãygua"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:27:29.023106893Z",
+  "model": "glm-5.3"
+}

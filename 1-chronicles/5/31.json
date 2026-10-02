@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Avichua omongakuaa ⟨את⟩ Bukki; ha Bukki omongakuaa ⟨את⟩ Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Avichua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    }
+  ],
+  "timestamp": "2026-10-02T18:02:31.380381001Z",
+  "model": "glm-5.3"
+}

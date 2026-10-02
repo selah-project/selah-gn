@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Ha Josef heʼi ijoyke'ykuérape: Che Josef. ¿Orovépa oiko che ru? Ha ijoyke'ykuéra ndaikatu ohayhu ⟨את⟩ chupe, tuichaitereígui oñemongyhyjeygui hese.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "orovépa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "וילא",
+      "gloss": "ndaikatu…"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "…ikatu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…gui"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "oñemongyhyjey"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:48.646770978Z",
+  "model": "glm-5.3"
+}

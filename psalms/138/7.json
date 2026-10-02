@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 138,
+  "translation": "Che aiko hasyʼasy mbytépe, remombuji cherehe; che remombotyʼýhara ñeʼẽrõ ári remondo re pó, ha re po akatúa che ipysyrõta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "che"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "hasyʼasy"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "remombuji cherehe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ñeʼẽrõ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "che remombotyʼýhara"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "remondo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "re pó"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ha che ipysyrõta"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "re po akatúa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:26.647577411Z",
+  "model": "glm-5.3"
+}

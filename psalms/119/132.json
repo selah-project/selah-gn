@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Ejesarei cherehe ha eheja cherehe pera poriahuvereko, hekojojaicha umi nde réra rayhúvape g̃uarã.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ejesarei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ha eheja cherehe pera poriahuvereko"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "hekojojaicha"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "umi rayhúvape"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:41.346613855Z",
+  "model": "glm-5.3"
+}

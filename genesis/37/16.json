@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ⟨Jósef⟩ he'i: Che joyke'ykuéra ⟨את⟩ aheka. Eikuaauka chéve ko'ág̃a, mamo pa oime ha oñangarekova'erã kavara rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che joyke'ykuéra"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che joyke'ykuéra"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "aheka"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Eikuaauka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chéve ko'ág̃a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "mamo pa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oime ha"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "oñangarekova'erã kavara rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:26.342329142Z",
+  "model": "glm-5.3"
+}

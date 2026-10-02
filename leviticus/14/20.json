@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pa'i omonguʼéta ⟨את⟩ olah ha ⟨את⟩ minha oñemomorãha ári; ha pa'i ojapóta chupe jekupyty, ha oñemopotĩta.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "omonguʼéta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "oñemomorãha ári"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ojapóta chupe jekupyty"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "oñemopotĩta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:52:10.408553964Z",
+  "model": "glm-5.3"
+}

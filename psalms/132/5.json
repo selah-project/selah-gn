@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "translation": "Peve ajuju ⟨tendápe⟩ Jahve g̃uarã, Michkan-kuéra Jaakov Ipu'akapáva g̃uarã.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ajuju"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve g̃uarã"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Michkan-kuéra"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Ipu'akapáva g̃uarã"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:43.145957596Z",
+  "model": "glm-5.3"
+}

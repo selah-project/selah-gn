@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Térõ yvypóra raʼýkuéra, térõ kuimbaʼe raʼýkuéra, ojoajúvo, umi ikatupyryva ha umi tekotevẽva.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Térõ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "térõ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ojoajúvo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ikatupyryva"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ha umi tekotevẽva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:44.342633639Z",
+  "model": "glm-5.3"
+}

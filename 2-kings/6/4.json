@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha haʼe oho ⟨את⟩ chikuéra ndive, ha ou Jardén peve, ha okái umi yvyra.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chikuéra"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Jardén peve"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "okái"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "umi yvyra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:05:46.401574289Z",
+  "model": "glm-5.3"
+}

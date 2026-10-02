@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha upéi oho upégui Karmel yvyty gotyo, ha upégui ojevy Shomron-pe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ha upégui"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:59:04.813452752Z",
+  "model": "glm-5.3"
+}

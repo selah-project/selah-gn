@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha iñemoñare kuéra ojapo chupe upéicha, oñeʼẽ hagueicha ichupekuéra.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñare kuéra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hagueicha"
+    },
+    {
+      "surface": "צום",
+      "gloss": "oñeʼẽ hague ichupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:14.876848479Z",
+  "model": "glm-5.3"
+}

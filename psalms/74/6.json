@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Koʼag̃a katu iñaiñombeʼakuéra omboguejy oñondivepa hacháre ha kachapúre, ohendívo.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "koʼag̃a katu"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "iñaiñombeʼakuéra"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "oñondivepa"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "hacháre"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "ha kachapúre"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ohendívo omboguejy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:16.363690703Z",
+  "model": "glm-5.3"
+}

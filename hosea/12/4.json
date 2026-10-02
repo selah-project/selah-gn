@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Kuña ryepýpe ojapyhi ⟨את⟩ iñirũngue ipy ári, ha ipuʼakakuérape oñorãirõ ⟨את⟩ Elohim rehe.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "Kuña ryepýpe"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ojapyhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũngue"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iñirũngue"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ha ipuʼakakuérape"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "oñorãirõ ha ipuʼaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T14:49:57.535093862Z",
+  "model": "glm-5.3"
+}

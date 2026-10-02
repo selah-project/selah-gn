@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Reñuhẽta Jahve iñeʼẽ rehe, nde Elohim, ha rejapóta ⟨את⟩ iñeʼẽmeʼẽ kuéra ha ⟨את⟩ ichakuéra ñemohenda, che amohendáva ndéve ko árape.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "reñuhẽta"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iñeʼẽ rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ha rejapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽmeʼẽ kuéra"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "iñeʼẽmeʼẽ kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ichakuéra ñemohenda"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ichakuéra ñemohenda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…-va"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "amohenda ndéve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:05:20.121679625Z",
+  "model": "glm-5.3"
+}

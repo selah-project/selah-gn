@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oñangarekóta ⟨את⟩ hiʼãngareko rehe, ha ⟨את⟩ ⟨את⟩ opaite aty ñangareko rehe, oha oñembyatyhápe renondépe, ojapo hag̃ua ⟨את⟩ Michkan mbaʼapo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ha oñangarekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiʼãngareko"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "hiʼãngareko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aty ñangareko"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ñangareko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "oha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oñembyatyhápe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan mbaʼapo"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mbaʼapo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:47.403057300Z",
+  "model": "glm-5.3"
+}

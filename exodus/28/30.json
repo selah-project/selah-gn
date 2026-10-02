@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 28:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Emongeʼa choshen hekojojahápe ⟨את⟩ Urim ha ⟨את⟩ Tumim, ha ota Aharon pyʼa ári, ou jave Jahve tenondépe; ha Aharon ogueraháta ⟨את⟩ Jisrael mitãnguéra hekojoja iñpyʼa ári Jahve tenondépe opa árape.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Emongeʼa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "choshen"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hekojojahápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha ota"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ou jave"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra hekojoja"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojoja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñpyʼa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opa árape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:41.959844621Z",
+  "model": "glm-5.3"
+}

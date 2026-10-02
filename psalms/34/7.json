@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ko tekotevẽva ohenói, ha Jahve ohendu, ha oñongatu chupe opa ikyrỹiguãgui.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tekotevẽva"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ikyrỹiguãgui"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "oñongatu chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:08.238747701Z",
+  "model": "glm-5.3"
+}

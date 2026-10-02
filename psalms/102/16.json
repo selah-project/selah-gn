@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Ha umi tetã okapegua omomba'eguasúta ⟨את⟩ Jahve téra, ha yvy reiguáva mburuvichakuéra opaite ⟨את⟩ ne porãnguera rehe.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "omomba'eguasúta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetã okapegua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve téra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy reiguáva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne porãnguera"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ne porãnguera"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:02.724690347Z",
+  "model": "glm-5.3"
+}

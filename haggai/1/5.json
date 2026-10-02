@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha koʼag̃aite, upéicha heʼi Jahve Tsevaot: peħa peñeʼẽrã ⟨pekorãsóvo⟩ pekoʼeʼẽre amove pe Tape rekovérare.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼag̃aite"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "peħa peñeʼẽrã"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pekorãsóvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "amove"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "pe Tape rekovéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:12:30.317638909Z",
+  "model": "glm-5.3"
+}

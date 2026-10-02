@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Chiram omondo mburuvichápe sa mokõi pa kíkar oro.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichápe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mokõi pa"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kíkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    }
+  ],
+  "timestamp": "2026-10-02T11:48:18.736267062Z",
+  "model": "glm-5.3"
+}

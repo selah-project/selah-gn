@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Pejupi purahéi ha peñani tambor, kinor vevýi nevel ndive.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Pejupi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ha peñani"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tambor"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "vevýi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:55.733837313Z",
+  "model": "glm-5.3"
+}

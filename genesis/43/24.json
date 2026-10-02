@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha pe kuimbaʼe ogueru ⟨את⟩ umi kuimbaʼe Yochef óga peve; omeʼẽ y, ha ojohéi hikuái ikuái py; ha omeʼẽ kapiʼi ikuái kavajupe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ha ogueru"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kuimbaʼe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "óga peve"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yochef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha omeʼẽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "ha ojohéi hikuái"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ikuái py"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha omeʼẽ"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "kapiʼi"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "ikuái kavajupe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:39.582784403Z",
+  "model": "glm-5.3"
+}

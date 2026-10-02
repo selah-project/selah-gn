@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Opa árape ijeýna ne ao morotĩ, ha yvyratĩ ne akã ári aní ojety.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "árape"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ijeýna"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ne ao"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "morotĩ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ha yvyratĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ne akã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aní"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ojety"
+    }
+  ],
+  "timestamp": "2026-10-02T17:24:32.771008037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ojuka; ha Moche omosyry ⟨את⟩ pe tuguy altar rehe, jereregua.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "omosyry"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tuguy"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "pe tuguy"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jereregua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:34.276244835Z",
+  "model": "glm-5.3"
+}

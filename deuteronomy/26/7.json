@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha roñe'ẽnguaitéi Jahve, ore ruvakuéra Elohim pe, ha Jahve ohendu ⟨את⟩ ore ñe'ẽ, ha ohecha ⟨את⟩ ore ñemonañũ, ⟨את⟩ ore jepy'apy, ⟨את⟩ ore ñemongyhyje.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "roñe'ẽnguaitéi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ore ruvakuéra"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore ñe'ẽ"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ore ñe'ẽ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore ñemonañũ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ore ñemonañũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ore jepy'apy"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ore jepy'apy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ore ñemongyhyje"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ore ñemongyhyje"
+    }
+  ],
+  "timestamp": "2026-10-02T10:06:11.404631216Z",
+  "model": "glm-5.3"
+}

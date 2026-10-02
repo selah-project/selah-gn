@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Jisrael membykuéra oñemuña, oñemomichĩ hetaiterei, omoheta ha omopu'aka ite itereípe, ha pe yvy omyenyhẽ ⟨אתם⟩ hikuái.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ha membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "oñemuña"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "oñemomichĩ hetaiterei"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "omoheta"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "omopu'aka"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ite"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "itereípe"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ohenyhẽ — omyenyhẽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "hikuái (Jisrael membykuéra)"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:37.944105748Z",
+  "model": "glm-5.3"
+}

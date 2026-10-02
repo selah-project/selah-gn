@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha pe mburuvicha heʼi: Ha koʼẽpe, moõpa neẽ jára raʼýpe? Ha Tsiba heʼi pe mburuvichape: Katuete, ojerére Jeruslaimpe, haʼe ramoʼag̃a heʼi: Koꞌape Jisrael óga omeʼẽjeyta chéve ⟨את⟩ che ru mburuvichaha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha pe mburuvicha heʼi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "Ha koʼẽpe, moõpa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "neẽ jára"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvichape"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katuete"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ojerére"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaimpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe ramoʼag̃a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Koꞌape"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "omeʼẽjeyta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvichaha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mburuvichaha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    }
+  ],
+  "timestamp": "2026-10-02T11:28:50.679146239Z",
+  "model": "glm-5.3"
+}

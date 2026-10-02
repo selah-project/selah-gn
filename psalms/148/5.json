@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Ompoyhu ⟨את⟩ Jahve réra; haʼe ohenói kuatiañeʼẽme, ha ojejapo hikuái.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ompoyhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve réra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe rupi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ohenói kuatiañeʼẽme"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ha ojejapo hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:39.982577804Z",
+  "model": "glm-5.3"
+}

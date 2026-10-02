@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Chembosigoíma yvyty iñepyrũ pahápe; yvy ijokakuéra oñembyaty che jerére areterei hag̃ua; hákatu ⟨nde⟩ ogueru jey che rekove repytipe guive, Jahve che Elohim.",
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "yvyty iñepyrũ pahápe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "chembosigoi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "ijokakuéra"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "che jerére"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "areterei"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ogueru jey"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "repytipe guive"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:35.149211006Z",
+  "model": "glm-5.3"
+}

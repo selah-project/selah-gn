@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 110,
+  "translation": "Nde tetãnguéra ome'ẽ cheipota nde pu'aka árape, marangatu jeguakápe; ko'ẽ ryeguigua guive, nde mitãrusy ro'y nde reheguáicha ysaja.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Nde tetãnguéra"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ome'ẽ cheipota"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "nde pu'aka"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "jeguakápe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ryeguigua guive"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde reheguáicha"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ysaja"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "nde mitãrusy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:03.877347692Z",
+  "model": "glm-5.3"
+}

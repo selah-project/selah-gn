@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 29:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha reguereko ⟨את⟩ pe pyʼa ovecha moĩmbaʼerã pegua, Aharon mbaʼe, ha reguereroje ⟨אתו⟩ jereháicha Jahve renondépe; upéva nombaʼéta ndéve mbaʼe retepy ramo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "reguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe pyʼa"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "pe pyʼa"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "moĩmbaʼerã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pegua"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon mbaʼe"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "reguereroje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jereháicha"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "jereháicha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nombaʼéta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "mbaʼe retepy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:32:55.353615494Z",
+  "model": "glm-5.3"
+}

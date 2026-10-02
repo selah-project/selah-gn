@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Che ahe'áramo: arapa'ũme peve oñemopu'ã hesed; yvága, upépe rejemoĩta ne jeroviakatu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "che ahe'á"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "arapa'ũme peve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "oñemopu'ã"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "rejemoĩta"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ne jeroviakatu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:21.187989109Z",
+  "model": "glm-5.3"
+}

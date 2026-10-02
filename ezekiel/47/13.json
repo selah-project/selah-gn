@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 47:13",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Upéicha heʼi Adonai Jahve: Kóva ⟨pe⟩ rembe'y peẽmonguetahápe ⟨את⟩ ⟨yvy⟩ mokõipa mokõi Jisrael atýre; Josef, mokõi pehẽngue.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גה",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rembe'y"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תתנחלו",
+      "gloss": "peẽmonguetahápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "mokõi pehẽngue"
+    }
+  ],
+  "timestamp": "2026-10-02T14:41:42.280506121Z",
+  "model": "glm-5.3"
+}

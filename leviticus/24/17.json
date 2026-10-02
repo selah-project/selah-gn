@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha tekotevẽramo peteĩ kuimbaʼe ojuka oimeraẽ yvypóra tekove, omanovaʼerã tekove rehe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ha tekotevẽramo peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tekotevẽramo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oimeraẽ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omanovaʼerã"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oikóvaʼerã omano"
+    }
+  ],
+  "timestamp": "2026-10-02T18:47:05.409616920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Jisrael mburuvicha osẽ ha oiporu ⟨את⟩ kavaju rehe ha ⟨את⟩ karréta rehe, ha ojuka Aram-guakuéra apytépe jejuka hetaite.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oiporu... rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kavaju"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karréta"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "karréta"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ojukuére"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram-guakuéra apytépe"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "jejuka"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hetaite"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:19.400300434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oñakãrapuʼã pe ⟨את⟩ kokorapakuéra, ha omoĩ ijapytepe mburuvichakuéra ha ñongatu tuichakue karu, kamby ñandy ha kaguyjey.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "oñakãrapuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokorapakuéra"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "kokorapakuéra"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ijapytepe"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "ñongatu tuichakue"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "karu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "kamby ñandy"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "kaguyjey"
+    }
+  ],
+  "timestamp": "2026-10-02T18:22:31.755406187Z",
+  "model": "glm-5.3"
+}

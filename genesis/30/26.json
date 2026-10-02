@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Emeʼẽ chéve ⟨את⟩ che kuñanguéra ha ⟨את⟩ che mitãkuéra, che mbaʼapoha hikuái nderehe, ha che ahaguã; nde reikuaa ⟨את⟩ che mbaʼapo, mbaʼe a mbaʼapo hague nderehe.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Emeʼẽ chéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che kuñanguéra"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "che kuñanguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "che mitãkuéra"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "che mitãkuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che mbaʼapoha hikuái"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ambaʼapo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nderehe"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "che ahaguã"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che mbaʼapo"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "che mbaʼapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "a mbaʼapo hague nderehe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:50:06.409244583Z",
+  "model": "glm-5.3"
+}

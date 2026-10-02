@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Upévare kuimbaʼe oheja ⟨את⟩ itúva ha ⟨את⟩ isy, ha ojoaju kuñáme, ha oiko peteĩ tuguʼíicha.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "upévare (ári)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "isy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isy"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "kuñáme"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "tuguʼíicha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:43.979998488Z",
+  "model": "glm-5.3"
+}

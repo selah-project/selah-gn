@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ome ⟨את⟩ Daníel g̃uarã hesed raʼãnga ha jepokuaa rory, pe sarísiakuéra jára renondépe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ome"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daníel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daníel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesed raʼãngápe g̃uarã"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ha jepokuaa rory g̃uarã"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "jára"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarísiakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:29:45.208505219Z",
+  "model": "glm-5.3"
+}

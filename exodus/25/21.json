@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Emoĩ ⟨את⟩ pe kaporet pe arón ári, yvategotyo; ha pe arón ryepýpe emoĩ ⟨את⟩ pe ñemomarandurã che ameʼẽta ndéve.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pe kaporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "pe arón"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yvategotyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ryepýpe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "pe arón"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñemomarandurã"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pe ñemomarandurã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ameʼẽta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:58.546549708Z",
+  "model": "glm-5.3"
+}

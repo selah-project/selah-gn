@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha pe paʼi ohecha ⟨את⟩ pe mancha, ha oñemboty ⟨את⟩ pe mancha pokõi ára aja.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mancha"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "pe mancha"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "oñemboty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mancha"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "pe mancha"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:13.571827121Z",
+  "model": "glm-5.3"
+}

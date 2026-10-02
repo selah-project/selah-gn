@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Adonai heʼi: Bashan-gui ajeyyjeyta, ajeyyjeyta ⟨ ⟨hikuái⟩⟩ y guasu iypýgui.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Bashan-gui"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ajeyyjeyta"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ajeyyjeyta"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "iypýgui"
+    },
+    {
+      "surface": "ים",
+      "gloss": "y guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:29.746829416Z",
+  "model": "glm-5.3"
+}

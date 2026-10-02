@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha upéi ajeʼi peẽme upe árape, haʼemí hagua: nahániri ahína katu che año areni ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ha ajeʼi"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "upe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "haʼemí hagua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ahína katu"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "che año"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "areni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:37.138574903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "ha ko yva apy ne pópe akatúa oñotỹva, ha pe mitã rembarete nde reirápe.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ha ko yva apy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "oñotỹva"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ne pópe akatúa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pe mitã"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "rembarete"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde reirápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:05.783980311Z",
+  "model": "glm-5.3"
+}

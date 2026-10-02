@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Pe mburuvicha omanda ⟨את⟩ opaite tavayguakuérape, heʼívo: Ejapu pe Pésach Jahve pe g̃uarã, peñande Elohim, ojehaíháicha ko ñeʼẽmeʼẽ kuatiañeʼẽme.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "omanda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tavayguakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ejapu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve pe g̃uarã"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peñande Elohim"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ojehaíháicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T12:21:53.328631012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Ha che hesed nahániri aipeʼa chugui, ha nahániri ambojoyvy che jeʼetépe.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "che hesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "aipeʼa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "ambojoyvy"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "che jeʼetépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:57.739624166Z",
+  "model": "glm-5.3"
+}

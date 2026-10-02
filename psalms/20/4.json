@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Omanduʼa opaite nde miháre, ha nde juka juka porã omoneĩ. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Omanduʼa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "nde miháre"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ha nde juka"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "juka porã omoneĩ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:43.382567594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ityke réra Juval; haʼe vaʼekue itúva opaite oiporúva kinor ha ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ha réra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ityke"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Juval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "oiporúva"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ugav"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:27.314309746Z",
+  "model": "glm-5.3"
+}

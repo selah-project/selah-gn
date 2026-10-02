@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ani reiko jakaira ne resýpe; ejaʼova ⟨את⟩ Jahve, ha eheja mbaʼe vaí.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "reiko"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "jakaira"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ne resýpe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ejaʼova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ha eheja"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mbaʼe vaí"
+    }
+  ],
+  "timestamp": "2026-10-02T16:27:51.963164224Z",
+  "model": "glm-5.3"
+}

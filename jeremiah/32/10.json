@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha ahaikuave'ẽ kuatiañe'ẽme, amboaje, amomba'e umi ohechava'ekue, ha amoha'ã ⟨viru⟩ moakãme.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ahaikuave'ẽ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kuatiañe'ẽme"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "amboaje"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "amomba'e umi ohechava'ekue"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "umi ohechava'ekue"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "amoha'ã"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "viru"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "moakãme"
+    }
+  ],
+  "timestamp": "2026-10-02T13:35:59.746563678Z",
+  "model": "glm-5.3"
+}

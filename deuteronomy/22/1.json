@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ani rehecha ⟨את⟩ nde tykeʼýra vaka térã ⟨את⟩ hovecha oñemombóva, ha reñomi chuguikuéra; embojevy vaʼerã chupekuéra nde tykeʼýrápe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde tykeʼýra"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovecha"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "hovecha"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "oñemombóva"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ha reñomi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "השב",
+      "gloss": "embojevy"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "vaʼerã chupekuéra"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "nde tykeʼýrápe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:51:46.767066494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha upéi, Mitsraim mburuvicha osẽ umi hebrea kuñakarai recohárape, umíva apytépe pe peteĩha réra Shifra, ha pe mokõiha réra Puá.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kuñakarai recohárape"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebrea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva apytépe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "pe peteĩha"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ha réra"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "pe mokõiha"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puá"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:28.160325278Z",
+  "model": "glm-5.3"
+}

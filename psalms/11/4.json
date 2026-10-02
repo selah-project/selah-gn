@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Jahve oĩ i óga marangatu ryepýpe; Jahve, yvaga pe oĩ i mburuvicha rugua. I resakuéra ohecha, i resa raʼãngakuéra omoñehaʼã umi yvypóra kuéra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i óga ryepýpe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvaga pe"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "i mburuvicha rugua"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i resakuéra"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "i resa raʼãngakuéra"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "omoñehaʼã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:18.860793528Z",
+  "model": "glm-5.3"
+}

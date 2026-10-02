@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Eñe'ẽ ko'ág̃a avakuéra apysápe, ha ojerureta kuimba'e iñirũngue rehe ⟨את⟩ ha kuñakarai iñirũkuña rehe ⟨את⟩, mba'e kuarepoti ha mba'e itaju.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "eñe'ẽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "apysápe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ha ojerureta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũngue (mba'e kuarepoti ha itaju)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iñirũngue"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ha kuñakarai"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũkuña"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "iñirũkuña"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ha mba'e"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:38.761182771Z",
+  "model": "glm-5.3"
+}

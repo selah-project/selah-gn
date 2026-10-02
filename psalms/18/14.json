@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Jahve otoroky yvágape, ha Ijyvatevéva ombohyapu iñeʼẽ — chova ha tata kuʼi tata.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "otoroky"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "Ijyvatevéva"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ombohyapu"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chova"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ha tata kuʼi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:04.630352208Z",
+  "model": "glm-5.3"
+}

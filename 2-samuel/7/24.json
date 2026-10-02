@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 7:24",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Remopyenda ndevete ⟨את⟩ nde retãyguára Jisrael, ndevete retãyguáramo ára pahápe, ha nde, Jahve, reko chuguikuéra Elohim ramo.",
+  "tokens": [
+    {
+      "surface": "ותכונן",
+      "gloss": "remopyenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndevete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde retãyguára Jisrael"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retãyguára"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndevete"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "retãyguáramo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "árapahápe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היית",
+      "gloss": "reko hague"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:52.513441708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Ojajesarekóta nde rehe kuarahy ndive, ha jasy mboyve, ñemoñare ñemoñareakuéra.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ojajesarekóta nde rehe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ha mboyve"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ñemoñareakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:54.410340858Z",
+  "model": "glm-5.3"
+}

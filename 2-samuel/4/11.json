@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Mbovýpa upéicha, ko kuimba'e vaíva kuéra ojukapa ⟨את⟩ peteĩ kuimba'e hekojojaha ióga ryepýpe, iñe'ẽnguasu korapýpe; ha ko'ág̃a, ndajava'éi pa aheka ⟨את⟩ iñange pende po rireguágui, ha amogue pa peẽ pende yvy rireguágui?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "mbovýpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kuimba'e kuéra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vaíva kuéra"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩ kuimba'e hekojojaha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ióga ryepýpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ikorapýpe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ha ko'ág̃a"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ndajava'éi pa"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "aheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñange"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iñange"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "pende po gui"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "ha amogue"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨peẽ⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T11:20:27.730965777Z",
+  "model": "glm-5.3"
+}

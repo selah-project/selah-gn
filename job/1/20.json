@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Job ovevúi, ojesa'i ⟨את⟩ iao'o, ijyvavai ⟨את⟩ iñakã, oñoity yvy ári ha oñemomba'e.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ovevúi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Job"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ojesa'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iao'o"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "iao'o"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ijyvavai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakã"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "oñoity"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "oñemomba'e"
+    }
+  ],
+  "timestamp": "2026-10-02T16:47:11.001266349Z",
+  "model": "glm-5.3"
+}

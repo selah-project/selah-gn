@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "El Jahve, ha okuarahyʼi ñanderehe; ejoaju ⟨arete⟩ sãnguéra ndive, mizbeaj yakãnguéra peve.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "okuarahyʼi ñanderehe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñanderehe"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ejoaju"
+    },
+    {
+      "surface": "חג",
+      "gloss": "arete"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "sãnguéra ndive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "yakãnguéra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:41.276978681Z",
+  "model": "glm-5.3"
+}

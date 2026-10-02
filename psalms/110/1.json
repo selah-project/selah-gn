@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 110,
+  "translation": "David rembiasakue, mizmor. He'i Jahve che jára pe: Eguerovy'a che akatúa gotyo, amondoja peve umi ndaipohanóiva nde rehe, jepe'a nde pykuéra g̃uarã.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiasakue"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "He'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "che jára pe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Eguerovy'a"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "che akatúa gotyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amondoja peve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "amondoja"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "umi ndaipohanóiva nde rehe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jepe'a"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "nde pykuéra g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:03.876870916Z",
+  "model": "glm-5.3"
+}

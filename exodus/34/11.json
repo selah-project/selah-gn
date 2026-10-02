@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Eñangareko nde rehe ⟨את⟩ pe che ohaʼã ndeve ko árape: ajépa, che ahai nde renondápe ⟨את⟩ haʼemori, kanaani, jiti, perisi, jivi ha yevusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe che ohaʼã ndeve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ohaʼã ndeve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ajépa che"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ahai"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nde renondápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haʼemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haʼemori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "kanaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "jiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "perisi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "jivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "yevusi"
+    }
+  ],
+  "timestamp": "2026-10-02T18:47:00.810659618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Haʼe ⟨haʼe⟩ tekoʼã Jisrael-pe g̃uarã, hekojojaha Elohim Jaakov mbaʼe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Haʼe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "tekoʼã"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael-pe g̃uarã"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨haʼe⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:26.182635764Z",
+  "model": "glm-5.3"
+}

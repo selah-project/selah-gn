@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 11:17",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha omombarete ⟨את⟩ Jehuda retãygua rekuái, ha omombarete ⟨את⟩ Rehavam, Chelomo raʼýpe, mbo ary: ha hikuái oiko David ha Chelomo rekópe mbo ary pukukue.",
+  "tokens": [
+    {
+      "surface": "ויחזקו",
+      "gloss": "omombarete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda retãygua rekuái"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "retãygua rekuái"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויאמצו",
+      "gloss": "omombarete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rehavam"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mbo ary"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "mbo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "rekópe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ha Chelomo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mbo ary"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "pukukue"
+    }
+  ],
+  "timestamp": "2026-10-02T18:24:16.586094384Z",
+  "model": "glm-5.3"
+}

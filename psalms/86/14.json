@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Elohim, umi jepe'everekuéra ojuvu che rehe, ha umi mbaretevaʼekuéra aty oheka ⟨את⟩ che tekove, ha nahániri noñemohãi nde chupekuéra tenondépe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "umi jepe'everekuéra"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ojuvu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "ha umi mbaretevaʼekuéra aty"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "mbaretevaʼekuéra"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che tekove"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "noñemohãi nde"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "chupekuéra tenondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:19.221888339Z",
+  "model": "glm-5.3"
+}

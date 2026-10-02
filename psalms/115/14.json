@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Jahve omoĩve peẽme, peẽme ha peẽ raʼýkuérape.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "omoĩve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "peẽ raʼýkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:02.106318842Z",
+  "model": "glm-5.3"
+}

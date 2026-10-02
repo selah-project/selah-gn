@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Moche ha Aharon oike Paroh rendápe, ha ojapo upéicha Jahve omandáicha; Aharon ohapykueho ⟨את⟩ imota Paroh ñandepýpe ha iñangarekoharakuéra ñandepýpe, ha oikó mbói ramo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "oike"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ha Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "omandáicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Jahve omandá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ohapykueho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imota"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "imota"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñandepýpe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ha ... ñandepýpe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñangarekoharakuéra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oikó"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "mbói ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:45.040823738Z",
+  "model": "glm-5.3"
+}

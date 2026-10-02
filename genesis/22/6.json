@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Avraham oguereko ⟨את⟩ yvyra — ⟨the⟩ holokáuto-rã-gua — ha omohuʼã Jitshak, iñemoñare ári; ha ipópe oguereko ⟨את⟩ tata ha ⟨את⟩ kyse; ha oho mokõive peteĩcha.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvyra — ⟨the⟩ holokáuto-rã-gua"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holokáuto-rã-gua"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "omohuʼã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kyse"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "peteĩcha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:01.396552088Z",
+  "model": "glm-5.3"
+}

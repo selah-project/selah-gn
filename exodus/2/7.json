@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha isykára? — he'i ityke'ry kuña Paroh ra'ỹipe: Ahapa ha ambohyapu ndéve peteĩ kuña kamambu meʼẽha Evrio kuñakuéra apytégui, ha omeʼẽkamambu ⟨את⟩ pe mitã ndéve?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ityke'ry kuña"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Ahapa"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ambohyapu ndéve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "kamambu meʼẽha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Evrio"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "omeʼẽkamambu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mitã"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pe mitã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:35.001102594Z",
+  "model": "glm-5.3"
+}

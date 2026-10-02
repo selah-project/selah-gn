@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pe kohen ogueru oî log mbaʼégui, ha omondyʼy pe kohen po asúre.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe kohen"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "log mbaʼégui"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oî"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "omondyʼy"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כף",
+      "gloss": "po"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe kohen"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "asúre"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:45.829030410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 8:23",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Gidón he'i chupekuéra: Nda che mosāmbyhy mo'ā ñande ári, che memby avei nomosāmbyhy mo'āi ñande ári; Jahve mosāmbyhyta ñande ári.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidón"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...mo'āi"
+    },
+    {
+      "surface": "אמשל",
+      "gloss": "mosāmbyhy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ñande ári"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha...mo'āi"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "omosāmbyhy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che memby"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ñande ári"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "mosāmbyhyta"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ñande ári"
+    }
+  ],
+  "timestamp": "2026-10-02T10:42:34.501017907Z",
+  "model": "glm-5.3"
+}

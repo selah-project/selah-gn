@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 113,
+  "translation": "Omopuʼã ⟨את⟩ vaekúi yvy guʼẽgui, omoĩ yvate ⟨את⟩ teko-ivaʼũ oñembyai hágua guive.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Omopuʼã"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "yvy guʼẽgui"
+    },
+    {
+      "surface": "דל",
+      "gloss": "vaekúi"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "oñembyai hágua guive"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "omoĩ yvate"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "teko-ivaʼũ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:58.861674641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha pa'i ovaʼekue ojombojy ⟨את⟩ chupe ha ombopyahu ⟨את⟩ ipo pa'i ramo isýva réirã, oñembovóita ha oñembokuambáta ⟨את⟩ liño a'o, marangatu a'o.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "oñembovóita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekue"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "ojombojy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "chupe — pa'i"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha ovaʼekue"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ombopyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pa'i ramo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "régui"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isýva"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ha oñembokuambáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liño a'o"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "a'o"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "liño"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "a'o"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:29.004002521Z",
+  "model": "glm-5.3"
+}

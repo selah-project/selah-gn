@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "¡Ûa ore rehe! Mávapa oñemosãso oréve koʼã Elohim imbaʼeguasúva po gui? Koʼã haʼe ⟨umi⟩ Elohim oitytava ⟨את⟩ Mitsraim opaichagua mbaʼeasãi rehe, yvy ijarýipe.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "¡Ûa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "oñemosãso oréve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "imbaʼeguasúva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Koʼã"
+    },
+    {
+      "surface": "הם",
+      "gloss": "haʼe ⟨umi⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "oitytava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaichagua"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mbaʼeasãi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvy ijarýipe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:57:49.723566629Z",
+  "model": "glm-5.3"
+}

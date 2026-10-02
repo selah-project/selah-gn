@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Ehendu, che retã, ha amoñe'ẽta ndeve: Jisrael, ehendu ramo nde che rehe —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retã"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ha amoñe'ẽta ndeve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:22.835626978Z",
+  "model": "glm-5.3"
+}

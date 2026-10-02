@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Oúvo opavave Jisrael ohecha hag̃ua ⟨את⟩ Jahve terã — nde Elohim — pe rendápe oiporavótava, emboʼéta ⟨את⟩ ko Tora opavave Jisrael renondépe, ipenguerãi.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Oúvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ohecha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve terã"
+    },
+    {
+      "surface": "פני",
+      "gloss": "terã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "pe rendápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiporavótava"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "oiporavótava"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "emboʼéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ipenguerãi"
+    }
+  ],
+  "timestamp": "2026-10-02T10:14:01.438488690Z",
+  "model": "glm-5.3"
+}

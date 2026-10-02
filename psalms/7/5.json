@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Aháramo ajapo vai umi che rekópy'aguapyrãva rehe, ha ansávo che ñorãirõhára pe'o'ỹre.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Aháramo"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "che rekópy'aguapyrãva"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ansávo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "che ñorãirõhára"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "pe'o'ỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:27.908102589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 15:11",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha David ohenói Tsadok-pe ha Evyatar-pe, umi paʼikuéra, ha umi levítakuéra-pe: Uriel, Asaja, Joel, Chemaja, Eliel ha Aminadav.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Tsadok-pe"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "ha Evyatar-pe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi paʼikuéra"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "ha umi levítakuéra-pe"
+    },
+    {
+      "surface": "לאוריאל",
+      "gloss": "Uriel"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaja"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ha Joel"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Chemaja"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ha Eliel"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ha Aminadav"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:03.753277736Z",
+  "model": "glm-5.3"
+}

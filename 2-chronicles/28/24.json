@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 28:24",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Ajás ombyaty ⟨את⟩ Elohim óga rembiporu, okytĩ ⟨את⟩ Elohim óga rembiporu, omboty ⟨את⟩ Jahve óga roguedakuéra, ha ojapo ichupe oñemongaʼuha Jerusalaim opaite tũsahápe.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ombyaty"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim óga tembiporu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tembiporu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקצץ",
+      "gloss": "okytĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim óga tembiporu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tembiporu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "omboty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roguedakuéra"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "roguedakuéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "oñemongaʼuha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "tũsahápe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:32:35.027694588Z",
+  "model": "glm-5.3"
+}

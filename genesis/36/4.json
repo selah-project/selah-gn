@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha Ada omombaʼu Esav-pe ⟨את⟩ Elifats, ha Vosmat omombaʼu ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ha omombaʼu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifats"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifats"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ha Vosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "omombaʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:44.981679945Z",
+  "model": "glm-5.3"
+}

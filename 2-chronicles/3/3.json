@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Koʼãva haʼe umi jeypy Shelomo omoĩ vaʼekue ojapo hagua ⟨את⟩ Elohim óga: pukukue, ama-pe, tuichakue raʼére, ama mbohapaposi; ipypuku ama mokõipa.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "jeypy omoĩ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ojapo hagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama-pe"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "raʼére"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mbohapaposi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ipypuku"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    }
+  ],
+  "timestamp": "2026-10-02T18:19:40.882954629Z",
+  "model": "glm-5.3"
+}

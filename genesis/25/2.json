@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha omemby chupe ⟨את⟩ Zimran, ⟨את⟩ Yokchan, ⟨את⟩ Medan, ⟨את⟩ Midian, ⟨את⟩ Jichbak ha ⟨את⟩ Chua.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ha omemby"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokchan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokchan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jichbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jichbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chua"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Chua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:46:34.042116022Z",
+  "model": "glm-5.3"
+}

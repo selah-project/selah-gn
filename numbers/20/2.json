@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha ndaipóri y ⟨aty guasu-pe⟩, ha oñembyaty Moche rehe ha Aharon rehe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ndaipóri⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "⟨aty guasu-pe⟩"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T09:32:13.392785897Z",
+  "model": "glm-5.3"
+}

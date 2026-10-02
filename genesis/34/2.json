@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha Shekem, Chamor itaʼýra, pe jajavai, tetã jára, ohecha chupe; ha oguereko ⟨את⟩ chupe, ha oke ⟨את⟩ chupe, ha omoñemoñeʼẽ chupe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "pe jajavai"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "jára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "omoñemoñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:55:04.569737058Z",
+  "model": "glm-5.3"
+}

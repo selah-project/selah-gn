@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ani erevẽ chuguãche, pe apañuãi oúma: ndaipóri che pyʼmongetahára.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "erevẽ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "chuguãche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upeichéramo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "apañuãi"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "oúma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "pyʼmongetahára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:23.385882734Z",
+  "model": "glm-5.3"
+}

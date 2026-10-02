@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha omondo ⟨את⟩ Eljakim, oĩva hógape ári, ha ⟨את⟩ Chevna, kuatiañeʼẽ haihára, ha ⟨את⟩ umi pa'i rakãeʼỹ, oñembovyʼa sáko rehe, oho hag̃ua Yeshajahu, Amot raʼýi, pe nabi ndive.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hógape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Chevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Chevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "kuatiañeʼẽ haihára"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi pa'i rakãeʼỹ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "rakãeʼỹ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "oñembovyʼa"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "sáko rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oho hag̃ua"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amot"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:49:42.838390124Z",
+  "model": "glm-5.3"
+}

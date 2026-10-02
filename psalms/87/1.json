@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 87,
+  "translation": "Korach membykuéra pe g̃uarã — purahéi, ñeʼẽpoty. Iñepyrũrã ojepopa umi yvyty marangatu ári.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "membykuéra pe g̃uarã"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ñeʼẽpoty"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "iñepyrũrã ojepopa"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "umi yvyty ári"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:04.019969865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Oĩrõ iolah i-korban vaka apytégui, kuimbaʼe ivaíʼỹva oguerúta ⟨את⟩; tenda juajuha jeypýpe ogueru ⟨את⟩ hoguejey hag̃ua, Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "oĩrõ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "i-korban"
+    },
+    {
+      "surface": "מן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ivaíʼỹva"
+    },
+    {
+      "surface": "יקרריבנו",
+      "gloss": "oguerúta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeypy"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "juajuha"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i-korban"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "hoguejey hag̃ua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:15.584293712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Umi ararã hetáva ojohéi y, umi yvaga omeʼẽ ⟨את⟩ pu; avei nde ysajakuéra oso ombohasa hese.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "ojohéi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ararã hetáva"
+    },
+    {
+      "surface": "קול",
+      "gloss": "pu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "nde ysajakuéra"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "oso ombohasa hese"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:46.628702313Z",
+  "model": "glm-5.3"
+}

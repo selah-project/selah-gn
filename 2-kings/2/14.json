@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 2:14",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha ogueru ⟨את⟩ pe ao guasu Eliahu mbaʼe oñemokanguavaʼekue huguete, ha oipeʼa ⟨את⟩ y ha heʼi: Kópepa oĩ Jahve, Eliahu Elohim? Ha haʼe avei oipeʼa ⟨את⟩ y, ha oñembojaʼo koʼẽ gotyo ha koʼẽ gotyo, ha Elisa ohasa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ao guasu Eliahu mbaʼe"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "ao guasu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "oñemokanguavaʼekue"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "huguete"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "y"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kópepa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "y"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "oñembojaʼo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼẽ gotyo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "koʼẽ gotyo"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:39.802761245Z",
+  "model": "glm-5.3"
+}

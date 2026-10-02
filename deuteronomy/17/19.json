@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 17:19",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha upéva oĩ vaʼerã hendive, ha omoñeʼẽ vaʼerã pype opa ára hekove pukukue aja, ikatú hag̃ua oñemoarandu jahyha hag̃ua ⟨את⟩ Jahve, i Elohim rehe, ha oñangareko ⟨את⟩ opa ñeʼẽ ko Tora mbaʼéva ha ⟨את⟩ koʼã chukakuéra rehe, ojapo hag̃ua ichupekuéra.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Ha upéva oĩ vaʼerã"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ha omoñeʼẽ vaʼerã"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pype"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "hekove pukukue aja"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatú hag̃ua"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "oñemoarandu"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "jahyha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "oñangareko hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa ñeʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã chukakuéra"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "chukakuéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "ojapo hag̃ua ichupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:02:36.887841929Z",
+  "model": "glm-5.3"
+}

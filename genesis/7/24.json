@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha umi y okuaveʼẽ ⟨hikuái⟩ yvy ári sa ha papoha arakuéra.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "okuaveʼẽ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "umi y"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "papoha"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ha sa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "arakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:53.239391776Z",
+  "model": "glm-5.3"
+}

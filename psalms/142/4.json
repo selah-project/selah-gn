@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 142,
+  "translation": "Che ruah oimõãrã che ári ha nde reikuaa che tape — tape che aha pype, oñomi japyha che g̃uarã.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "oimõãrã"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "che tape"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "tape pype"
+    },
+    {
+      "surface": "זו",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "che aha"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "oñomi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "japyha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:33.344848766Z",
+  "model": "glm-5.3"
+}

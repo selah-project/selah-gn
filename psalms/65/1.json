@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 65,
+  "translation": "Pe aty mongu'ehárape g̃uarã. Mizmor David mba'éva. Purahéi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pe aty mongu'ehárape g̃uarã"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mba'éva"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:01.557933095Z",
+  "model": "glm-5.3"
+}

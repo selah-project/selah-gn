@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha umi paʼi ogueru ⟨את⟩ Jahve ñeʼẽmeʼẽ aron hoguarã, oho hag̃ua ogahápe, óga deivír pe, marangatu apytépe marangatuetéva pe, kerubim pepo guýpe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ha ogueru"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽmeʼẽ aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho hag̃ua"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "hoguarã ogahápe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oho hag̃ua"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "deivír"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "apytépe marangatuetéva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "pepo"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubim"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:09.209257482Z",
+  "model": "glm-5.3"
+}

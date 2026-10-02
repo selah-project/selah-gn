@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Embohasa ⟨את⟩ chupekuéra yvytúpe ha yvytu ogueraháta, ha yvytu mbarete omeanóta ⟨את⟩ chupekuéra; ha nde evy'áta Jahve rehe, Jisrael Marangatu rehe reñemomba'eguasúta.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Embohasa yvytúpe"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ha yvytu"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "ogueraháta chupekuéra"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "ha yvytu mbarete"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "omeanóta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "evy'áta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "Marangatu rehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "reñemomba'eguasúta"
+    }
+  ],
+  "timestamp": "2026-10-02T12:52:21.970637362Z",
+  "model": "glm-5.3"
+}

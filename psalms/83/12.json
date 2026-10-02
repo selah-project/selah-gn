@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Emohenda umi karai guasu Orev raʼangaicha ha Zeév raʼangaicha; ha Zevaj raʼangaicha ha Tsalmena raʼangaicha opaite umi mburuvicha.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Emohenda"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "umi karai guasu"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "Orev raʼangaicha"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ha Zeév raʼangaicha"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "ha Zevaj raʼangaicha"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ha Tsalmena raʼangaicha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "umi mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:25.855015261Z",
+  "model": "glm-5.3"
+}

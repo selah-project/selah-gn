@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Machir-pe che ameʼẽ ⟨את⟩ Guilad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Ha Machir-pe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che ameʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Guilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Guilad"
+    }
+  ],
+  "timestamp": "2026-10-02T18:51:31.444072904Z",
+  "model": "glm-5.3"
+}

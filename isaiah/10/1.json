@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ĩ! Mbaʼe vai umi ojapóva kuai tee mbaʼe vai, ha umi ohaíva apañuãi, ohaʼa kuatia.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ĩ"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "umi ojapóva kuai tee"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "kuai tee"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ha umi ohaíva"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "apañuãi"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ohaʼa kuatia"
+    }
+  ],
+  "timestamp": "2026-10-02T12:33:56.702418387Z",
+  "model": "glm-5.3"
+}

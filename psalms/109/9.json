@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Itaʼýra kuimbaʼeʼỹgua opyta itúaʼỹre, ha hembireko opyta kuimbaʼeʼỹre.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "itúaʼỹre"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ha hembireko"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "kuimbaʼeʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:08.010812865Z",
+  "model": "glm-5.3"
+}

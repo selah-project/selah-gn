@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Emokirĩ, emokirĩ, enandu, Jerusalaim, pe nde'u va'ekue Jahve po gui ⟨את⟩ iñam̃ã kuara; ⟨את⟩ kuimbe'ẽ, jerekoreko kuara, nde'u, ha pahite peve nde'u.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "emokirĩ"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "emokirĩ"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "enandu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "nde'u va'ekue"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñam̃ã kuara"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kuara"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "iñam̃ã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuimbe'ẽ"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "kuimbe'ẽ"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kuara"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "jerekoreko"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "nde'u"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "pahite peve nde'u"
+    }
+  ],
+  "timestamp": "2026-10-02T13:00:30.244985645Z",
+  "model": "glm-5.3"
+}

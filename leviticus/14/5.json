@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha pe pa'i ohechauka va'erã, ha ojuka ⟨את⟩ pe guyra peteĩva, mba'apo'yvyra itakuarepotiguigua ryepýpe, y hetaitereíva ári.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ohechauka va'erã"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe pa'i"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ha ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe guyra peteĩva"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "pe guyra"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "peteĩva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ryepýpe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mba'apo'yvyra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "itakuarepoti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hetaitereíva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:53:27.329359046Z",
+  "model": "glm-5.3"
+}

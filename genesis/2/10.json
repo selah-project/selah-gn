@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha peteĩ y osẽ Eden gui omonandy hagua ⟨את⟩ ⟨pe⟩ kóga; ha upégui ojepe'a, ohaʼã irundy akãnguéra ramo.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ha y"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Eden gui"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "omonandy hagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kóga"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "kóga"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ha upégui"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ojepe'a"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ohaʼã"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "akãnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:24.025539570Z",
+  "model": "glm-5.3"
+}

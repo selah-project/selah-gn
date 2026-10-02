@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ojevyta hese ichugui iñarõngatu hi'akãme, ha imba'evaiapo oguejýta iñakã apére.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ojevyta hese ichugui"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "iñarõngatu"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "hi'akãme"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "iñakã apére"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "imba'evaiapo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "oguejýta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:47.500863129Z",
+  "model": "glm-5.3"
+}

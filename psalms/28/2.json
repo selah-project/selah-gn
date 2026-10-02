@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ehenói che jerure ñe'ẽ, aikumby jave nde rehe, aipe'a jave che po nde marangatu ñongatuhápe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ehenói"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "che jerure"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "aikumby jave"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "aipe'a jave"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñongatuhápe"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "marangatu ñongatu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nde marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:31.874904343Z",
+  "model": "glm-5.3"
+}

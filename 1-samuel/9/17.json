@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Chemuél ohecha ⟨את⟩ Chaúl-pe, ha Jahve oñembohovái chupe: Pe karaʼe, che ahekuaa ndéve mboyve, kóva oisãmbyhy che retãyguáre.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ha Chemuél"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaúl-pe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl-pe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "oñembohovái chupe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "karaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che ahekuaa ndéve mboyve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ahekuaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "che retãyguáre"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:41.194960182Z",
+  "model": "glm-5.3"
+}

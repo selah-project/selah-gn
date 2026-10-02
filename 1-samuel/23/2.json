@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "David oporandu Jahve-pe heʼívo: ¿Ahaʼa aha aity hag̃ua umi pelishti? Ha Jahve heʼi David-pe: Eho, aity pelishtikuéra rehe, ha eipysyrõ ⟨את⟩ Keila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "oporandu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "¿Ahaʼa aha?"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "aity hag̃ua"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "pelishtikuéra rehe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "umi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "David-pe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "aity"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "pelishtikuéra rehe"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "eipysyrõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    }
+  ],
+  "timestamp": "2026-10-02T11:12:52.145576317Z",
+  "model": "glm-5.3"
+}

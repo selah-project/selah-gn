@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 99,
+  "translation": "Jahve Tuichaiterei Tsiyon-pe, haʼe iguasuite opaite avanoʼõ ári.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon-pe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Tuichaiterei"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "iguasuite"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "avanoʼõ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:23.809795734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha heñói chupe hembireko Chodesh-gui: ⟨את⟩ Jovav, ha ⟨את⟩ Tsivja, ha ⟨את⟩ Mecha, ha ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ha heñói chupe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Tsivja"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Mecha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mecha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:39.288109056Z",
+  "model": "glm-5.3"
+}

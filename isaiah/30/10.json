@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Upe aja oheʼi umi hechávape: «Ani pehecha», ha umi ohecháva ñandérape: «Ani pehecha ñandéve mbaʼe joja; eñeʼẽ ñandéve mbaʼe mbegue porã, ehecha ñandére mbaʼe japu».",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Upe aja"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "umi hechávape"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ha umi ohecháva ñandérape"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "mbaʼe joja"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "mbaʼe mbegue porã"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "mbaʼe japu"
+    }
+  ],
+  "timestamp": "2026-10-02T19:07:41.531556017Z",
+  "model": "glm-5.3"
+}

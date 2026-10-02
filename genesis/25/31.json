@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Jaakov heʼi: Emuñe chéve ko árape ⟨את⟩ nde mbaʼerecha tenondeguáva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Emuñe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde mbaʼerecha tenondeguáva"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "nde mbaʼerecha tenondeguáva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:55.867235813Z",
+  "model": "glm-5.3"
+}

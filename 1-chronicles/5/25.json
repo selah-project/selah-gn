@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 5:25",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha oñembyai hikuái iñande ruvakuéra Elohim rehe, ha ojokay hikuái ⟨yvy tavayguakuéra⟩ tupã rekópe, umi Elohim ombogue vaʼekue hikuái renondépe.",
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "oñembyai hikuái"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "iñande ruvakuéra"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ojokay hikuái"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rekópe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tupã"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "ombogue vaʼekue"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "hikuái renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:02:44.072401514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha aju Jerusalaim-pe, ha akoípe arakuéra mbohapy.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "aju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ha aiko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akoípe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "arakuéra"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    }
+  ],
+  "timestamp": "2026-10-02T17:51:10.811942548Z",
+  "model": "glm-5.3"
+}

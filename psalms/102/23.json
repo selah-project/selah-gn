@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "translation": "Oñembyaty jave umi tetãnguéra ojoyvype, ha umi tavetã, omba'apo hag̃ua ⟨את⟩ Jahve rehe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "oñembyaty jave"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojoyvype"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ha umi tavetã"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "omba'apo hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:28.332104449Z",
+  "model": "glm-5.3"
+}

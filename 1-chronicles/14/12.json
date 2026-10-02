@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oheja hikuái upépe ⟨את⟩ i-tupãnguéra, ha David oñe'ẽ, ha oñembyaipyta tatápe.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ha oheja hikuái"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-tupãnguéra"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "i-tupãnguéra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "oñembyaipyta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatápe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:07:35.726357373Z",
+  "model": "glm-5.3"
+}

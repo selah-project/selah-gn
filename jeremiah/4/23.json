@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Che ahecha ⟨את⟩ yvy, ha ningo oiko chugui tohu ha vohu; ha yvágape che ahecha, ha ndaipóri ikuéra.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "che ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha ningo"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ha vohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T19:09:02.149738884Z",
+  "model": "glm-5.3"
+}

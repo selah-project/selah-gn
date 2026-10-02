@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha peẽ mongarapýta umi tetã apytépe, ha ñorairõhárakuéra yvy karúta ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "mongarapýta"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "umi tetã apytépe"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "karúta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ñorairõhárakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:03.152040575Z",
+  "model": "glm-5.3"
+}

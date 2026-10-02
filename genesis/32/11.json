@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 32:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ache michĩve opaite hesed-gui ha opaite añetegua-gui rejapo ⟨את⟩ che remoñirãre; che takuaruʼĩ ndive che sãí ⟨את⟩ ko Jarden, ha koʼag̃aite aikovaʼerã mokõi aty ramo.",
+  "tokens": [
+    {
+      "surface": "קטנתי",
+      "gloss": "Ache michĩve"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite …gui"
+    },
+    {
+      "surface": "החסדים",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ha opaite …gui"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che remoñirã"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "che remoñirã"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "במקלי",
+      "gloss": "che takuaruʼĩ ndive"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "che sãí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ko Jarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼag̃aite"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aikovaʼerã"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mokõi … ramo"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "aty"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:45.639529180Z",
+  "model": "glm-5.3"
+}

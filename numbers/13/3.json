@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Moche omondo ⟨את⟩ chuguikuéra Paaran yvy nandígui, Jahve ñeʼẽ rupive; opavavéva kuimbaʼe, Jisrael mitãnguéra iñakãguasukuéra, haʼekuéra.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chuguikuéra",
+      "marks": "Moche omondo vaʼekue kuimbaʼekuéra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "yvy nandígui"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opavavéva"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iñakãguasukuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:24:53.761915158Z",
+  "model": "glm-5.3"
+}

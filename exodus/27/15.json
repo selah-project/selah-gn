@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha mokõiha katýpe, 15 amá aõnguéra; itu pilar mbohapy, ha imypykuéra mbohapy.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "ha katýpe"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "mokõihápe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "5"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "10 (15 ojuehe)"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "aõnguéra"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "itu pilar kuéra"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ha imypykuéra"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:19.203685899Z",
+  "model": "glm-5.3"
+}

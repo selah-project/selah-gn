@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha ojerure hese Jahve rehe, ha omeʼẽ chupe jeyʼurã; ha ⟨את⟩ Goliat pelishteo mohaiʼe omeʼẽ chupe.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ojerure hese"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "jeyʼurã"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Goliat pelishteo mohaiʼe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mohaiʼe"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelishteo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:45.517301842Z",
+  "model": "glm-5.3"
+}

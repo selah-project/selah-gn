@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani rembojeguaru ⟨את⟩ ne irũ ne apytuʼũme; ñemongeta pype emoñemongeta ⟨את⟩ nde irũnguérape, ha ani regueraha hese jejava.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "rembojeguaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne irũ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ne irũ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nde apytuʼũme"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ñemongeta pype"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "emoñemongeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde irũnguérape"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "nde irũnguérape"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "regueraha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "jejava"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:48.905362791Z",
+  "model": "glm-5.3"
+}

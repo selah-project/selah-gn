@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha kuimbaʼe oúvo chugui kyrakue, ojohéi ýpe ⟨את⟩ iñakãrague ha opaite hetépe, ha ndaikatuvéima ojeporu marangatu arakaʼeve peñemoñangue peve.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "oúvo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "kyrakue"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kyrakue"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ojohéi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãrague"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hetépe"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ndaikatuvéima ojeporu marangatu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arakaʼeve"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "peñemoñangue peve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:51.961914230Z",
+  "model": "glm-5.3"
+}

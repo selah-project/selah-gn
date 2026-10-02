@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha roikóta ñande avei opaite tetãnguéraicha; ore mburuvicha ojapóta ñande hekojojaha, osẽta ore renondépe, ha oñorãirõta ⟨את⟩ ore ñorãirõ.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "roikóta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite ... aicha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ojapóta ñande hekojojaha"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ore mburuvicha"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽta"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ore renondépe"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "oñorãirõta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore ñorãirõ"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "ore ñorãirõ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:44.948277532Z",
+  "model": "glm-5.3"
+}

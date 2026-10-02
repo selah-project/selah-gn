@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Adonai, che mboipy'u opaite oĩ nde renondépe, ha che ñeʼẽngatu nde rehegua ndokañy.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "che mboipy'u"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ha che ñeʼẽngatu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nde rehegua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…i"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "kañy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:55.434092339Z",
+  "model": "glm-5.3"
+}

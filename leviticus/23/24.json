@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Eñeʼẽ Jisrael membykuéra rehe heʼihápe: jasy pokõiha pype, jasy ñepyrũ ára pype, peẽme g̃uarã oikóta Chabaton, manduʼa jerureity, mbohape marangatu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼihápe"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasy… pype"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "pokõiha"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ñepyrũ ára pype"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme g̃uarã"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Chabaton"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "manduʼa"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jerureity"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "mbohape"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:41.219073887Z",
+  "model": "glm-5.3"
+}

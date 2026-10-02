@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ojapo ⟨את⟩ ulam amud apytépe: ipukukue porundypa kua, ipekue mbohapypa kua; ha peteĩ ulam oĩ umi tenondépe, ha umi amud ha peteĩ yvyra mbarete oĩ umi tenondépe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulam"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ulam"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "amud apytépe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "porundypa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kua"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapypa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kua"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "ha peteĩ ulam"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "umi tenondépe"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "ha umi amud"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "ha peteĩ yvyra mbarete"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "umi tenondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:43:53.401726010Z",
+  "model": "glm-5.3"
+}

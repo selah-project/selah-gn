@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Emeʼẽ chupe emeʼẽte, ha ani nde korasõ vai emeʼẽvo chupe; ko mbaʼe reheve Jahve, nde Elohim, omboja nde rehe opa nde japoypyre ha opa mbaʼe reñotỹva nde po.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "emeʼẽte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "emeʼẽvo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…rehe"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "omboja nde rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "nde japoypyre"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "po ñemondo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nde po"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:20.969104474Z",
+  "model": "glm-5.3"
+}

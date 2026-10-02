@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ⟨את⟩ ñu ndepeguáva, ha ⟨את⟩ yva ñandeʼy ndepeguáva, ha itaʼỹi marangatuete ndepeguáva oguerekóta, ha omeʼẽta imbaʼapohárape.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñu ndepeguáva"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "ñu ndepeguáva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yva ñandeʼy ndepeguáva"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "yva ñandeʼy ndepeguáva"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "itaʼỹi ndepeguáva"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "marangatuete"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "oguerekóta"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "imbaʼapohárape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:14.421912424Z",
+  "model": "glm-5.3"
+}

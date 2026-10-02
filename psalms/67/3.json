@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 67,
+  "translation": "Ikatu hag̃ua ojeikuaa yvy ári ⟨את⟩ nde rape, tetãnguéra opavavépe nde ñemoñarã.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ikatú hag̃ua ojeikuaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nde rape"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "nde ñemoñarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:19.157046686Z",
+  "model": "glm-5.3"
+}

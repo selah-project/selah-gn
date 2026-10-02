@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Chaúl ohecha ⟨את⟩ pelichtikuéra machane, ha okyhyje, ha iñpyʼa okyhyje vaieterei.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelichtikuéra machane"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "machane"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelichtikuéra"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "okyhyje"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "okyhyje"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñpyʼa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vaieterei"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:56.752076480Z",
+  "model": "glm-5.3"
+}

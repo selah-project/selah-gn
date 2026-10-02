@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 65,
+  "translation": "Ha upéicha oĩta: ohenóĩ mboyve hikuái, che ambohovaita; oñe'ẽ gueteri hikuái, che ahenduta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha upéicha oĩta"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ohenóĩ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "che…"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "…ambohovaita"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "che…"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "…ahenduta"
+    }
+  ],
+  "timestamp": "2026-10-02T13:06:25.230134472Z",
+  "model": "glm-5.3"
+}

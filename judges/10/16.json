@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha umíva oipeʼo ⟨את⟩ umi Elohim ijypyguáva ambuéva iñakãtévagui ha ojapo tembiguái ⟨את⟩ Jahve rehe; ha ipytu oñembyasy Jisrael asajýre.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "oipeʼo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Elohim ijypyguáva ambuéva"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "umi Elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ijypyguáva ambuéva"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "iñakãtévagui"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ojapo tembiguái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ipytu"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "asajýre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:41:24.685993806Z",
+  "model": "glm-5.3"
+}

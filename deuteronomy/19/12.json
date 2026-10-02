@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "upéicha itáva ruvichakuéra omondo ha ogueraha ⟨את⟩ chupe upégui, ha omeʼẽ ⟨את⟩ chupe goél-tuguy pópe, ha omano.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "itáva"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ha ogueraha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "upe kuimbaʼe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ha omeʼẽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "upe kuimbaʼe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goél"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ha omano"
+    }
+  ],
+  "timestamp": "2026-10-02T10:01:03.276367892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve, peẽ Elohim, oguatahápe pene mboyve, haʼe oñorairõta peẽre, ojapóicha ⟨את⟩ peẽre Mitsraim-pe, pene resái renondépe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "oguatahápe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pene mboyve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "oñorairõta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽre"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ojapóicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽre"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "pene resái renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:46.688399614Z",
+  "model": "glm-5.3"
+}

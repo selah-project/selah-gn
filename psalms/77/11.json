@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Ha aheʼi: che hasykue hína koʼã iñambue Elyon po akatúa.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "Ha aheʼi"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "che hasykue"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "hína"
+    },
+    {
+      "surface": "שְׁנוֹת",
+      "gloss": "iñambue"
+    },
+    {
+      "surface": "יְמִין",
+      "gloss": "po akatúa"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:09.451298017Z",
+  "model": "glm-5.3"
+}

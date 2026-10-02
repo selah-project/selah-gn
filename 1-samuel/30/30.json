@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha umípe oĩva Jorma-pe, ha umípe oĩva Kor-Achan-pe, ha umípe oĩva Ataj-pe.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "ha umípe oĩva"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Jorma-pe"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ha umípe oĩva"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Kor-pe"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Achan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ha umípe oĩva"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Ataj-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:14:50.728275062Z",
+  "model": "glm-5.3"
+}

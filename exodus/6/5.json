@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha avei che ahecha ⟨את⟩ Jisrael membykuéra nderasýva, umíva Mitsraim ombaʼapoakantereíva ⟨את⟩ chupekuéra, ha che amanduʼa ⟨את⟩ che ñeʼẽmeʼẽ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael membykuéra nderasýva"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "nderasýva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ombapoakantereíva"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chupekuéra"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "che amandua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:42.001395106Z",
+  "model": "glm-5.3"
+}

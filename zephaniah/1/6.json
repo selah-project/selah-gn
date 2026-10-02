@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ umi esẽva Jahve rikégui, ha umi ndohekaivaʼekuéi ⟨את⟩ Jahve, ha nomboguatakuaivaʼekuéi chupe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi esẽva Jahve rikégui"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "umi esẽva"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "rikégui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ha umi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...ivaʼekuéi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo...ivaʼekuéi"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "nomboguatakuaivaʼekuéi chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:12:32.054709823Z",
+  "model": "glm-5.3"
+}

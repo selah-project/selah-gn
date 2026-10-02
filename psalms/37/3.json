@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ejerovia Jahve rehe ha ejapo porã; ekóke yvy ape ápe ha emongakuaa jeroviakatu.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ejerovia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ha ejapo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "porã"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ekóke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy ape ápe"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ha emongakuaa"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "jeroviakatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:11.125797547Z",
+  "model": "glm-5.3"
+}

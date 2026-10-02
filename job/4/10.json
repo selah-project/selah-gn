@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Jaguarete okaray ha iñe'ẽ mbaretépe, ha jaguarete mbarete ra'y kuéra jejui ojetyvyry.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "okaray"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "jaguarete"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ha iñe'ẽ mbaretépe"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "jaguarete mbarete"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha jejui"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "jaguarete ra'y kuéra"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "ojetyvyry"
+    }
+  ],
+  "timestamp": "2026-10-02T16:45:05.445421246Z",
+  "model": "glm-5.3"
+}

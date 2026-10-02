@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Umi heʼívaʼekue: Jarekóta oréve g̃uarã ⟨את⟩ Elohim ñu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "umi heʼívaʼekue"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "heʼívaʼekue"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "jarekóta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve g̃uarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ñu"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ñu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:43.666083226Z",
+  "model": "glm-5.3"
+}

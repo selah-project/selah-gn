@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha oiko peichagua, opa rire umi ñorãirõhára kuimba'e omano hague tavayguakuéra apytégui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko peichagua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rire"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "opa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "umi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ñorãirõhára kuimba'e"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "למות",
+      "gloss": "omano hague"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:39.081814288Z",
+  "model": "glm-5.3"
+}

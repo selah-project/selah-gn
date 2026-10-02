@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "David okakuaa ha ijyra arakuéra, ha ombojára ⟨את⟩ Shelomo, iñememby, Jisrael ári.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "okakuaa"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ijyra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "arakuéra"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ombojára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iñememby"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:14:04.859207507Z",
+  "model": "glm-5.3"
+}

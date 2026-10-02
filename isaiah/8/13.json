@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahve Tsevaot pe peñemongaraíta ⟨את⟩, haʼe taʼépe pende jerovyhy, haʼe taʼépe pende jerevõ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "peñemongaraíta"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "peñemongaraíta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "pende jerovyhy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "pende jerevõ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:28:19.305008320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Oje'e hikuái: Eju, jaityke jaheja hag̃ua chagua tetã ramo, ani ojejasareko Jisrael réra araka'eve.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "oje'e hikuái"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Eju"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "jaityke jaheja hag̃ua chagua"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "tetã ramo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ojejasareko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "araka'eve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:33.348427961Z",
+  "model": "glm-5.3"
+}

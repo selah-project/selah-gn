@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Jechbon ha ⟨את⟩ imigrakuéra, ⟨את⟩ Jazer ha ⟨את⟩ imigrakuéra; opaite háicha táva irundy.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jechbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Jechbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrakuéra"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigrakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrakuéra"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigrakuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite háicha"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:25.411492345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Chiramo ondyvu ⟨את⟩ iñangirũakuéra ygarata apytépe — ygarata yvypóra, y oikuaáva — Chelomo iñangirũakuéra ndive.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ondyvu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiramo"
+    },
+    {
+      "surface": "באני",
+      "gloss": "ygarata apytépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñangirũakuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñangirũakuéra"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ygarata"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "oikuaáva"
+    },
+    {
+      "surface": "הים",
+      "gloss": "y"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "iñangirũakuéra"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:47:27.987093559Z",
+  "model": "glm-5.3"
+}

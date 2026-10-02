@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Chaʼã che takurukuéra oñemyenyhẽ tata ojapysóva rehe, ha ndaipóri tekoporã che ruguípe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chaʼã"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "che takurukuéra"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "oñemyenyhẽ"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "tata ojapysóva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "tekoporã"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "che ruguípe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:29.303764496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Ojevy hikuái kaʼaru, ohyapu jaguaicha ha ojere tava rehe.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "kaʼaru"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ohyapu"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jaguaicha"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tava"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:53.689116946Z",
+  "model": "glm-5.3"
+}

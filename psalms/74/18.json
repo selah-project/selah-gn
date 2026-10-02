@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Eñamindu'u ko mba'e reheve: ñorairõhára omoñeʼẽ Jahve, ha ñemoñare tavañyguára ombojoe'i ne réra.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Eñamindu'u"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko mba'e reheve"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "omoñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha ñemoñare"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "tavañyguára"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ombojoe'i"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:40.456573408Z",
+  "model": "glm-5.3"
+}

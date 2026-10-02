@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha oipeʼa ⟨את⟩ umi tupã ñemiguáva ha ⟨את⟩ pe taʼanga Jahve róga gui, ha opaite mbaʼerendy ojapovaʼekue Jahve róga yvytyréipe ha Jerusalaim-pe, ha omondo okape táva gui.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tupã ñemiguáva"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tupã"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ñemiguáva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe taʼanga"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "taʼanga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "róga gui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mbaʼerendy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvytyréipe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ha Jerusalaim-pe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "okape"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "táva gui"
+    }
+  ],
+  "timestamp": "2026-10-02T18:36:47.145334584Z",
+  "model": "glm-5.3"
+}

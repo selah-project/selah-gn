@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Jahve, ñande Adonai, mbaʼéicha iporã ne réra opaite yvy ári, ⟨ha⟩ nde rekomeʼẽ guasu emoĩ yvágakuéra ári!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ñande Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼéicha"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "nde rekomeʼẽ guasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:24:19.016741830Z",
+  "model": "glm-5.3"
+}

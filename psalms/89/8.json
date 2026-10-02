@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "El ojehejarei tuichaiterei marangatukuéra ñemiguasu apytépe, ha ojekuaava'erã opaite ijerekue rehe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "ojehejarei"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ñemiguasu apytépe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatukuéra"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ha ojekuaava'erã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ijerekue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:55.201026719Z",
+  "model": "glm-5.3"
+}

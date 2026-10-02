@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha opávo omongarai ⟨את⟩ marangatu rehe, ⟨את⟩ Ohol Moʼõ ha ⟨את⟩ altar, ogueraha ⟨את⟩ pe kavara ovevéva.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "ha opávo"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "omongarai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marangatu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ohol Moʼõ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohol"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moʼõ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kavara ovevéva"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kavara"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ovevéva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:38.772074020Z",
+  "model": "glm-5.3"
+}

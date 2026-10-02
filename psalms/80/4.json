@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Elohim, embojevy ñandéve, ha embosakã nde jesareko, ha upéicharõ ñande jeypeʼáta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "embojevy ñandéve"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ha embosakã"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde jesareko"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ha upéicharõ ñande jeypeʼáta"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:54.165372287Z",
+  "model": "glm-5.3"
+}

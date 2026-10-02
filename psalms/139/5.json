@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Kupe ha tenonde rehe che rejoko, ha nde po rupiʼa emoĩ che ári.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "kupe"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ha tenonde"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "che rejoko"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "nde po rupiʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:51.765335542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Che rechakuaáva opavave ombotavy che rehe hikuái; oipeʼa iñwirũ ombohyapu haguã, omonguʼe iñakãguasu —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "che rechakuaáva"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ombotavy che rehe hikuái"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "oipeʼa iñwirũ ombohyapu haguã"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "iñwirũ"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "omonguʼe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iñakãguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:35.666505924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha oheja chupekuéra ⟨את⟩ Moav mburuvicha renondépe, ha ove hikuái hendive David oĩrãguare mbosukoihápe opaite ára.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav mburuvicha renondépe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ove"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "היות",
+      "gloss": "oĩrãguare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mbosukoihápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:13:08.663247015Z",
+  "model": "glm-5.3"
+}

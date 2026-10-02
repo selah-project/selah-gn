@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ⟨את⟩ Izevel jaguakuéra ho'uta Jizreel pehẽ'ẽme, ha ndaipóri oñeñotỹva chupe. Ha upéi ojuruja pe rokẽ ha ova'evi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ho'uta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "jaguakuéra"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "pehẽ'ẽme"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "oñeñotỹva"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ojuruja"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pe rokẽ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ova'evi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:08:25.839232168Z",
+  "model": "glm-5.3"
+}

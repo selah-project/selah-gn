@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Rehayhu tsedek ha ndaijaʼei mbaʼe vai rehe; upévare Elohim, nde Elohim, oñohẽ nde ári ñandy sasõ nde irũnguéra apytépe.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "rehayhu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ha ndaijaʼei"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "oñohẽ nde ári"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ñandy"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sasõ"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "nde irũnguéra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:14.673759162Z",
+  "model": "glm-5.3"
+}

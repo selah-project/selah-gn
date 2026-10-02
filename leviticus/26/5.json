@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Pe kokuere ohasáta ⟨את⟩ ñuatierei ári, ha ñuatierei ohasáta ⟨את⟩ kía ári; ha peẽ karu peẽmbujape hoʼa peve, ha pekue tekoviarãme peẽ yvýpe.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ohasáta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme guarã"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "kokuere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuatierei"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ñuatierei"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ha ñuatierei"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "ohasáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kía"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kía"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ha peẽ karu"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "peẽmbujape"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hoʼa peve"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ha pekue"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tekoviarãme"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "peẽ yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:05:22.979662242Z",
+  "model": "glm-5.3"
+}

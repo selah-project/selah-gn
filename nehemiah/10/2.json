@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha pe oimoĩva kuatia apytepe oĩ Nechemja, Tirshata, Chakalja raʼy, ha Tsidkija.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "oimoĩva kuatia"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemja"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Tirshata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakalja"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "Tsidkija"
+    }
+  ],
+  "timestamp": "2026-10-02T17:55:18.922848719Z",
+  "model": "glm-5.3"
+}

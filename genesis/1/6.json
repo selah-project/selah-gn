@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim heʼi: Toiko rakiá ⟨pe⟩ y mbytépe, ha toiko ojopeva ⟨pe⟩ y ha ⟨pe⟩ y apytépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Toiko"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakiá"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha toiko"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ojopeva"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "למים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:26.371426659Z",
+  "model": "glm-5.3"
+}

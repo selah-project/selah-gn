@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ojeike ⟨את⟩ i vuʼikuéra kuãnguéra rupi, ha umi vuʼi opytahína mizbeaj mokõi yke rehe, ojerereka jave ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "ojeike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vuʼikuéra"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "i vuʼikuéra"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "kuãnguéra rupi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha opytáta"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "umi vuʼi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "yke"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "ojerereka jave"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (pe mizbeaj)"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:44.754298882Z",
+  "model": "glm-5.3"
+}

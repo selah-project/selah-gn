@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Upéicha rejapysoko chuguikuéra nde yvyraperẽ ndive, ha nde asaajápe embopoko chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "rejapysoko chuguikuéra"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "nde yvyraperẽ ndive"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ha nde asaajápe"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "embopoko chuguikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:43.666611269Z",
+  "model": "glm-5.3"
+}

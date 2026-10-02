@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Eñemanda ⟨את⟩ Jisrael mitãnguéra rehe, ha ogueru nde reheve sevoʼi rykue, ipotĩva, mboypýva, rendy haguã, omyendy hag̃ua tatarendy tapiaite.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "eñemanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde reheve"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "rykue"
+    },
+    {
+      "surface": "זית",
+      "gloss": "sevoʼi"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ipotĩva"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "mboypýva"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "rendy haguã"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "omyendy hag̃ua"
+    },
+    {
+      "surface": "נר",
+      "gloss": "tatarendy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:34.783156935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Oity i yvateóga jeyʼóguasu ýpe, araraʼã kuéra omoĩ i guataha guasu ramo, oguata ruah pepo kuéra ári.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "oity i yvateóga jeyʼóguasu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "i yvateóga jeyʼóguasu"
+    },
+    {
+      "surface": "השם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "araraʼã kuéra"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "i guataha guasu"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "pepo kuéra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:42.797143472Z",
+  "model": "glm-5.3"
+}

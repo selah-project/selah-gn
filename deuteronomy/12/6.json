@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha upépe peẽ embyaty ⟨את⟩ peẽ jukai kuéra, ⟨את⟩ peẽ juka kuéra, ⟨את⟩ peẽ mbohapypa kuéra ha ⟨את⟩ peẽ po jopói kuéra, peẽ ñe'ẽme'ẽ kuéra, peẽ mboavai kuéra, ha peẽ vaka ra'ypy kuéra ha peẽ ovecha kuéra.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "ha peẽ embyaty"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "peẽ jukai kuéra"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "ha ⟨את⟩ peẽ juka kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ mbohapypa kuéra"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "peẽ mbohapypa kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ po jopói kuéra"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "jopói"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "peẽ po"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "ha peẽ ñe'ẽme'ẽ kuéra"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "ha peẽ mboavai kuéra"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "ha peẽ ra'ypy kuéra"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "peẽ vaka"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "ha peẽ ovecha kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:56:11.848877336Z",
+  "model": "glm-5.3"
+}

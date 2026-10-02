@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Peẽ, che amoĩta ⟨את⟩ Jerusalaim tuĩngue opaite umi tetãme ijerére; ha Jehudá ári avei oĩta cerco-pe Jerusalaim rehegua.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Peẽ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "שם",
+      "gloss": "amoĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "סף",
+      "gloss": "tuĩngue"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "kangykue"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite umi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tetãme"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudá"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "cerco-pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T19:20:36.437048806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Haʼe heʼi: Nde rejaposyso pe jerure; jepeve, ere chugui ⟨את⟩ che jeguerohypy ndehegui, upéicha tapysẽ ndevénte; ha ndaipórirõ, ndoikomoʼãi upéicha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Haʼe heʼi"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "rejaposyso"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "pe jerure"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jepeve"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "jeguerohypy"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩-ndehegui"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "tapysẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndevénte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha ndaipórirõ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipórirõ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndoikomoʼãi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ndoikomoʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T12:00:15.551559355Z",
+  "model": "glm-5.3"
+}

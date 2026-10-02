@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Umi arandukuéra ñeʼẽ oñehendu kirirĩháme, tuichave pe mburuvicha osapukái hague umi aranduʼỹvápe.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "umi arandukuéra"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "kirirĩháme"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "oñehendu"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "tuichave pe osapukái hague"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "umi aranduʼỹvápe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:05.887275667Z",
+  "model": "glm-5.3"
+}

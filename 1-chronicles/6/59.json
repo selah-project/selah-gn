@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Asher kuáirũ gui, ⟨את⟩ Mashal ha iñeʼẽrenda vuʼi rehegua, ha ⟨את⟩ Abdon ha iñeʼẽrenda vuʼi rehegua.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuáirũ gui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Mashal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeʼẽrenda vuʼi rehegua"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iñeʼẽrenda vuʼi rehegua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñeʼẽrenda vuʼi rehegua"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iñeʼẽrenda vuʼi rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:55.625964141Z",
+  "model": "glm-5.3"
+}

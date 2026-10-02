@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Pe mitā okakuaa vove, kuña ogueru Moche Paroh taʼýrape, ha ohupyty chupe iñemoñarã. Ha ohenói héra Moche, ha heʼi: Y kuýgui aime aipeʼa hague chupe.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ha okakuaa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mitā"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "ha ogueru chupe"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "taʼýrape"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha ohupyty"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "iñemoñarã"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ha ohenói"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuýgui"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "aipeʼa hague chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:06.613651252Z",
+  "model": "glm-5.3"
+}

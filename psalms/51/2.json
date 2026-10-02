@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Oúvo hikuái ichupe Natan pe nabi, oúvo rire oho hague Bat-Cheva rehe.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Oúvo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pe nabi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "oúvo rire… hague"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:56.906259206Z",
+  "model": "glm-5.3"
+}

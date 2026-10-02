@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 92,
+  "translation": "Nde eresaka che takuru yvatevehápe remimo yrúicha; ojohéi chereche ýra pyahu.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "eresaka yvatevehápe"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "remimo yrúicha"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "che takuru"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ojohéi chereche"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ýra"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "pyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:28.126273129Z",
+  "model": "glm-5.3"
+}

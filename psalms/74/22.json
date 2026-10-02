@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Eñepyrũ juaju, Elohim, ne ñemoñarõ rehe; nemandu'a ne mbaʼeguarúre — navál-gui, ⟨árape⟩ opaite ára.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Eñepyrũ juaju"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ñemoñarõ"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ne ñemoñarõ rehe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nemandu'a"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ne mbaʼeguarúre"
+    },
+    {
+      "surface": "מני",
+      "gloss": "—navál-gui"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "navál"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "árape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:57.988495744Z",
+  "model": "glm-5.3"
+}

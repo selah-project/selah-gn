@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Jahve oipe'a ⟨את⟩ chupekuéra upégui, oipesãi opaite yvy apére, ha opa hikuái ojapo táva.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "oipe'a oipesãi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chupekuéra"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "פני",
+      "gloss": "apére"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ha opa hikuái"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:11.498554263Z",
+  "model": "glm-5.3"
+}

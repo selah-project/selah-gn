@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ga'erua ha tekoha chepe ko'ápe peẽ ndive; peẽme chéve peteĩ yvy joavy manórã ñemohẽrã ñande rehegua, ha aheja áta che manórã che resaroi guive.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "ga'erua"
+    },
+    {
+      "surface": "וותושב",
+      "gloss": "ha tekoha",
+      "surface_alt": "ותושב"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "chepe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "peẽ ndive"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "yvy joavy ... ñande rehegua"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "manórã ñemohẽrã"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "peẽ apytépe"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "ha aheja áta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "che manórã"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "che resaroi guive"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:51.019101014Z",
+  "model": "glm-5.3"
+}

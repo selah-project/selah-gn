@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 12:10",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Eʼẽ chupekuéra: Upéicha heʼi Adonai Jahve: ko mbaʼeguasu — pe mburuvicha — Jerusalaim-pe g̃uarã, ha Jisrael óga ituichakue, haʼekuéra oĩva ijerere.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Eʼẽ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "mbaʼeguasu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ikuéra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:00:37.707352579Z",
+  "model": "glm-5.3"
+}

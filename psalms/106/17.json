@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Yvy oipeʼa ha omboʼe Datán, ha oñemboja ombope aty Abirám rehe.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ha omboʼe"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datán"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ha oñemboja ombope"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "aty"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Abirám"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:07.949932704Z",
+  "model": "glm-5.3"
+}

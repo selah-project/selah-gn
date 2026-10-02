@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Nderehe, Jahve, aheja che rekove; ani arovacha arakaʼeve; eñepyrũita nde tsedek rehe che mongakuaa.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Nderehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aheja che rekove"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "arovacha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "arakaʼeve"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nde tsedek rehe"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "che mongakuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:30.868052424Z",
+  "model": "glm-5.3"
+}

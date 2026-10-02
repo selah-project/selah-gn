@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha oikóta: pe ára Jahve ogueraha ndeve Kenaan-yguára retãme, ojurujáicha ndéve ha nde ruakuérape, ha ome'ẽta koa ndéve —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pe ára"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "ogueraha ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaan-yguára"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojurujáicha"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ojuru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "ha nde ruakuérape"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ha ome'ẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:16:59.465274991Z",
+  "model": "glm-5.3"
+}

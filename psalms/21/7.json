@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Reimévo chupe mba'eporãme sára ha sáraite reipytyvõ chupe vy'ápe ⟨את⟩ ne ára reñaihâme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "reimévo"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "mba'eporãme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sára ha sáraite"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "reipytyvõ chupe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "vy'ápe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ára"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ára reñaihâme"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:34.607064073Z",
+  "model": "glm-5.3"
+}

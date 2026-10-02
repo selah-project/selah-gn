@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che ne mba'apohára che; embojekuaa chéve, ha upéicha aikuaáta ⟨את⟩ ne ñe'ẽme'ẽnguéra.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "ne mba'apohára"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "embojekuaa chéve"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ha upéicha aikuaáta"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ne ñe'ẽme'ẽnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:16:41.936046159Z",
+  "model": "glm-5.3"
+}

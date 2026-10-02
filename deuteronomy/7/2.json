@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Jahve, nde Elohim, omeʼevaʼerã chupekuéra nde renondépe, ha rejuka chupekuéra: jeipeʼapaitepa reipeʼaite chupekuéra ⟨אתם⟩; ani rejapo chupekuéra ndavei ñeʼẽmeʼẽ, ani reñangareko chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "omeʼevaʼerã chupekuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "rejuka chupekuéra"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "jeipeʼapaitepa"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "reipeʼaite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chupekuéra (umi tavakuéra)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "anejapói"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra ndavei"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "reñangareko chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:51:47.250732013Z",
+  "model": "glm-5.3"
+}

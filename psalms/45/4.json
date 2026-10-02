@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Emboja ne mbaʼe juky ne kangue ári, ipuʼakapáva — ne mbaʼetuʼĩ guasu ha nemombaʼeguasu ndive.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "emboja"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ne mbaʼe juky"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ne kangue"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ipuʼakapáva"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ne mbaʼetuʼĩ guasu"
+    },
+    {
+      "surface": "ו הדרך",
+      "gloss": "ha nemombaʼeguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:18.185118622Z",
+  "model": "glm-5.3"
+}

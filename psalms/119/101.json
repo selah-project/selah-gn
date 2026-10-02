@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Opa tape vaígui aikũnguéi che py, amombaʼe hag̃ua ne ñeʼẽ.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "opa … -gui"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tape"
+    },
+    {
+      "surface": "רע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "aikũnguéi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "che py"
+    },
+    {
+      "surface": "למען",
+      "gloss": "… hag̃ua"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "amombaʼe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ne ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:59.135617231Z",
+  "model": "glm-5.3"
+}

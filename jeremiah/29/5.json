@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jogapo óga ha eiko pype; ñotỹ ka'avokuéra ha karu ⟨את⟩ hua.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "jogapo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "eiko pype"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ñotỹ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ka'avokuéra"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "karu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hua"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "hua"
+    }
+  ],
+  "timestamp": "2026-10-02T13:32:59.133667474Z",
+  "model": "glm-5.3"
+}

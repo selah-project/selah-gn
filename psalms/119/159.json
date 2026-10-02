@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 159,
+  "ref": "psalms 119:159",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Ehecha, mbaʼéicha aipota ne mboʼepykuéra, Jahve; ne hesed rehe emombaʼejey che rekove.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼéicha"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ne mboʼepykuéra"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aipota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ne hesed rehe"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "emombaʼejey che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:43.137503618Z",
+  "model": "glm-5.3"
+}

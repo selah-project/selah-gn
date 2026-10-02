@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha upéi heʼi: Ehechauka cheve, ejapóke koʼág̃a, ⟨את⟩ nde rendy porã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ehechauka cheve"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ejapóke koʼág̃a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rendy porã"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "nde rendy porã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:43.986572851Z",
+  "model": "glm-5.3"
+}

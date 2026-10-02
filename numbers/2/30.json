@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha ijehesaʼỹijoha tsava, ha umi ojehesaʼỹijovaʼekue hikuái mbohapypa mbohapy su irundy sa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ha ijehesaʼỹijoha tsava"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ha umi ojehesaʼỹijovaʼekue hikuái"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:16.333217866Z",
+  "model": "glm-5.3"
+}

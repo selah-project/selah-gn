@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Shaúl ñeʼẽ Jónatan, iñañakãrakuéra rehe, ha opaite iñangirĩkuéra rehe, ojuka hag̃ua hikuái ⟨את⟩ David; ha Jónatan, Shaúl raʼy, oipotaiterei David.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iñañakãrakuéra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha … rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iñangirĩkuéra"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ojuka hag̃ua hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ha Jónatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipotaiterei"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David rehe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iterei"
+    }
+  ],
+  "timestamp": "2026-10-02T11:09:47.015753986Z",
+  "model": "glm-5.3"
+}

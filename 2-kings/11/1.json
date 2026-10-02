@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Atalia, Ahazia isy, ohecha omanoha itaʼýra, ha opuʼã ha ojuka ⟨את⟩ opaite ñemoñare mburuvicha guasu rehegua.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Ha Atalia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "isy"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "marã"
+    },
+    {
+      "surface": "מת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ñemoñare mburuvicha guasu rehegua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mburuvicha guasu rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T19:06:25.754752924Z",
+  "model": "glm-5.3"
+}

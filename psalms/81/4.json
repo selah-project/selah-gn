@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Pekuã shofar jasy pyahu aja, jasy henyhẽ vove, ñande fiesta guasu árape.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Pekuã"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasy pyahu aja"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "jasy henyhẽ vove"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ñande fiesta guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:55.733962688Z",
+  "model": "glm-5.3"
+}

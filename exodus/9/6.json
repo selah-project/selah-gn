@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve ojapo ⟨את⟩ ko ñe'ẽ ko'ẽ mboyve, ha opaite Mitsraim mymba juehegua omano; ha Jisrael membykuéra mymba jueheguágui ndomanói peteĩ ave.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñe'ẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ko'ẽ mboyve"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mymba juehegua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ha ... mymba jueheguágui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndomanói"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mano"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ ave"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:38.779262465Z",
+  "model": "glm-5.3"
+}

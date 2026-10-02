@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha ou opaite umi kuaáva ojapóva ⟨את⟩ opa tembiapo marangatu, kuimbaʼe kuimbaʼe i tembiapógui, umíva ojapo hague.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "umi kuaáva"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa tembiapo marangatu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "i tembiapógui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-02T08:40:30.709845035Z",
+  "model": "glm-5.3"
+}

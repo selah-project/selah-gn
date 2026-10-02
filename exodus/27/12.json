@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha korápe ipékue, kuarahyreike yképe: toldo poapa jyva; iñamud pa, ha iñadana kuéra pa.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "ha ipékue"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korápe"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "yképe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kuarahyreike (ýpa)"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "toldokuéra"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "poapa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "jyva"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "iñamudkuéra"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ha iñadanakuéra"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:06.473445898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Tuvicha oveveháicha iñemoñarépe, Jahve oveve hesuva kuéra ári.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "oveveháicha"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "iñemoñare kuéra"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "oveve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "hesuva kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:33.580452139Z",
+  "model": "glm-5.3"
+}

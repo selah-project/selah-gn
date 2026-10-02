@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Ha Jaakov omboporã ⟨את⟩ Paroh, ha osẽ Paroh renondépegui.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ha omboporã"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépegui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T08:03:34.563872179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha oho Jisrael mburuvichaguasukuéra aporekópe, ha avei ⟨את⟩ i raʼýpe ohasa tata peve, umi tetãnguéra ivaikueráva aporekóicha, umíva Jahve oipeʼa Jisrael membykuéra renondépe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "aporekópe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichaguasukuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i raʼýpe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "i raʼýpe"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ohasa tata peve"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "aporekóicha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umi tetãnguéra ivaikueráva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umi tetãnguéra ivaikueráva"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:34.400437734Z",
+  "model": "glm-5.3"
+}

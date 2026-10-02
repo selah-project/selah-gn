@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Binjamín oguereko taʼýra: ⟨את⟩ Bela, iñepyrũguare; Achbel, mokõiha; ha Ajaraj, mbohapyha.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Ha Binjamín"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "oguereko taʼýra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "iñepyrũguare"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Achbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "ha Ajaraj"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "mbohapyha"
+    }
+  ],
+  "timestamp": "2026-10-02T18:04:17.905423803Z",
+  "model": "glm-5.3"
+}

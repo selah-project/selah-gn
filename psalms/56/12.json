@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Elohim apytépe cherenduʼa; che jahyʼo, mbaʼépa yvypóra ikatu ojapo che rehe?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim apytépe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "cherenduʼa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "che jahyʼo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ikatu ojapo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:29.788928448Z",
+  "model": "glm-5.3"
+}

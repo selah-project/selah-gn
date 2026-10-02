@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha opa táva ha táva iñapytepe oĩ mbokapu aʼãnguéra ha takúa puku, ha omoheñói chupekuéra hetaiteeterei; ha Jehuda ha Binjamín ku mbaʼeapoha.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "opa ... iñapytepe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "mbokapu aʼãnguéra"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "takúa puku"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "omoheñói chupekuéra"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iteeterei"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mbaʼeapoha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Binjamín"
+    }
+  ],
+  "timestamp": "2026-10-02T18:22:31.755660990Z",
+  "model": "glm-5.3"
+}

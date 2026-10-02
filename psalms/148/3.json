@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Emomba'eguasupe kuarahy ha jasy, emomba'eguasupe itu kuarahy'i mba'everãva.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "emomba'eguasupe"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ha jasy"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "emomba'eguasupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "kuarahy'i"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mba'everãva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:07.236323310Z",
+  "model": "glm-5.3"
+}

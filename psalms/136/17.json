@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Pe ojuka vaʼekuépe umi mburuvicha guasu, ko'ẽgue pyahu hesed; opave'ỹre i hesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "ojuka vaʼekuépe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko'ẽgue pyahu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opave'ỹre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "i hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:29.900297897Z",
+  "model": "glm-5.3"
+}

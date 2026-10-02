@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Che Elohim, nde reñembohasa nde rembiguái pepoʼape ⟨את⟩ — ojapotaha chupe hógã — upévare nde rembiguái ojuhu korasõ oñemboʼe hag̃ua nde rendápe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "reñembohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rembiguái pepoʼape"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "pepoʼape"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde rembiguái"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hógã"
+    },
+    {
+      "surface": "על",
+      "gloss": "upe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rare"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde rembiguái"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "oñemboʼe hag̃ua"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:11:38.483416833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "⟨את⟩ bat haiáana ra'ỹicha, ⟨את⟩ hatajmas, ⟨את⟩ hashaf, ⟨את⟩ hanetz imimbi reheháicha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bat haiáana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "haiáana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hatajmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "hatajmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hashaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "hashaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hanetz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "hanetz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "imimbi reheháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:47:42.551015940Z",
+  "model": "glm-5.3"
+}

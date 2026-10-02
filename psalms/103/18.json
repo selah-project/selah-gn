@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "umíva oñangarekóva hiñe'ẽme'ẽre, ha omandu'áva iñe'ẽmbojaruguéra rehe, ojapo hag̃ua umíva.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "umíva oñangarekóva"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "hiñe'ẽme'ẽre"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "ha omandu'áva"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "iñe'ẽmbojaruguéra rehe"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ojapo hag̃ua umíva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:28.773048413Z",
+  "model": "glm-5.3"
+}

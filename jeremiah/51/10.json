@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Jahve ogueru ⟨את⟩ ñande tsedek; eike ha jañemombeʼu Tsiyon-pe ⟨את⟩ Jahve Ñande Elohim rembiapo.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande tsedek"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "ñande tsedek"
+    },
+    {
+      "surface": "באו",
+      "gloss": "eike"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "ha jañemombeʼu"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Ñande Elohim rembiapo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Ñande Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T13:55:01.443531896Z",
+  "model": "glm-5.3"
+}

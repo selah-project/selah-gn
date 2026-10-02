@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Ha Jahve chéve oiko mo'ãha yvatévaramo, ha che Eloha ita che mo'ãha ramo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "mo'ãha yvatévaramo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ha che Eloha"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ita"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "che mo'ãha ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:12.151440508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha ojeporavo ⟨את⟩ Yehuda kuimbaʼeñemoñare, ⟨את⟩ Tsiyon yvyty, pe oahovasa vaʼekue.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ojeporavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda kuimbaʼeñemoñare"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kuimbaʼeñemoñare"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon yvyty"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "oahovasa vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:35.540544473Z",
+  "model": "glm-5.3"
+}

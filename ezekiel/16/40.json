@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ohyapúta nde rehe joajuha, ha okangaukuita ⟨את⟩ nde ita reheve, ha oikutáta nde hikuái kuimbeʼe reheve.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "ha ohyapúta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "joajuha"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ha okangaukuita"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ita reheve"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "ha oikutáta nde"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "hikuái kuimbeʼe reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T14:12:42.865982947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Upéicha, mburuvichavusu Jizkiahu mbaʼeapohakuéra ou Jechaiahu rendápe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mbaʼeapohakuéra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvichavusu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jechaiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T12:48:56.917105459Z",
+  "model": "glm-5.3"
+}

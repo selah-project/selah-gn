@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jehuda osẽ, ha Jahve omeʼẽ ⟨את⟩ kenaanikuéra ha perichikuéra i pópe; ojuka chupekuéra Bechek-pe — pa su kuimbaʼe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaanikuéra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaanikuéra"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "perichikuéra"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i pópe"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ojuka chupekuéra"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bechek-pe"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:48.100222803Z",
+  "model": "glm-5.3"
+}

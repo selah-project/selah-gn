@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 120,
+  "translation": "Jahve, eipeʼa che pytiʼanga iñeʼẽ añeteʼỹva tẽĩgui ha ñeʼẽ ojukypyre gui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "eipeʼa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che pytiʼanga"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "iñeʼẽ añeteʼỹva tẽĩgui"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "añeteʼỹ"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "ñeʼẽgui"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ojukypyre"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:15.187157344Z",
+  "model": "glm-5.3"
+}

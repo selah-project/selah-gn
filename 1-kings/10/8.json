@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ivyrã nde kuimbaʼekuéra, ivyrã umi nde mbaʼapohára koʼãva, umi oĩva nde renondépe opa ára ha ohendúva ⟨את⟩ nde kuaa porã.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivyrã"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "nde kuimbaʼekuéra"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ivyrã"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mbaʼapohára"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opa ára"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ohendúva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde kuaa porã"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "nde kuaa porã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:45:03.795650944Z",
+  "model": "glm-5.3"
+}

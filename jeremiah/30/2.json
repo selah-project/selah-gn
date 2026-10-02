@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Upéicha heʼi Jahve, Jisrael Elohim: Ehai nde rérape kuatiañeʼẽme ⟨את⟩ opaite umi ñeʼẽ che amboʼe ndeve.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hag̃ua"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Ehai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rérape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñeʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "che amboʼe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatiañeʼẽme"
+    }
+  ],
+  "timestamp": "2026-10-02T13:34:11.226000201Z",
+  "model": "glm-5.3"
+}

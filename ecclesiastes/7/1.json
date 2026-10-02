@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Téra porã iporãve ⟨michĩve⟩ ñandy iporãvagui, ha ⟨⟩ manõ ára iporãve heñói hague áragui.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iporãve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ñandy iporãva…gui"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ha … ára"
+    },
+    {
+      "surface": "המות",
+      "gloss": "manõ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "…áragui"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "heñói hague"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:27.230156460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 131,
+  "translation": "Purahéi ⟨jupigua rapópe⟩, David-pe g̃uarã. Jahve, che korasõ ndojupíi vaʼekue, ha che resãi ndoreremoãi; che ndoikékuri mbaʼeguasúre térã tesaʼẽjavévape, che mbaʼévaʼekuégui.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "⟨jupigua rapópe⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahaniri"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ndojupíi vaʼekue"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahaniri"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ndoreremoãi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resãi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nahaniri"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ndoikékuri"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "mbaʼeguasúre"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "ha tesaʼẽjavévape"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "che mbaʼévaʼekuégui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:10.314197605Z",
+  "model": "glm-5.3"
+}

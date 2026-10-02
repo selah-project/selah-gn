@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha Jitshak, itúva, he'i chupe: Nde kópa nde? Ha ha'e he'i: Che, nde ra'y, nde ra'y peteĩha, Echav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nde kópa nde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ha'e he'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde ra'y"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "nde ra'y peteĩha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Echav"
+    }
+  ],
+  "timestamp": "2026-10-02T07:49:15.554678710Z",
+  "model": "glm-5.3"
+}

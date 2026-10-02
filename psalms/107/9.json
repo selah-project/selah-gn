@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Upévare ohenyhẽte tekove ohekoseʼýva ha ohenyhẽ tekove ovyʼaitereíva mbaʼe porãme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ohenyhẽte"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ohekoseʼýva"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ha tekove"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ovyʼaitereíva"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ohenyhẽ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porãme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:09.169707913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha oiko Avrahám tembiguái ohendúrõ ⟨את⟩ he'ikuéra, oñembo'y yvýpe Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-rõ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tembiguái"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "he'ikuéra"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "he'ikuéra"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "oñembo'y"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:44:33.266082349Z",
+  "model": "glm-5.3"
+}

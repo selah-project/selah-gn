@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "ha ⟨את⟩ hakós, ha ⟨את⟩ hachalách ha ⟨את⟩ hayanchóf.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hakós"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "hakós"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hachalách"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "hachalách"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hayanchof"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "hayanchof"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:32.296364655Z",
+  "model": "glm-5.3"
+}

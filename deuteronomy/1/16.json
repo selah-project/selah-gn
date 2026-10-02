@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha amomandu'a ⟨את⟩ peẽ juez-kuérape pe aravópe, he'ívo: Eñehendu peẽ joyke'akuéra apytépe ñemongeta, ha pehekojoja tsedek, peteĩ kuimba'e ha ijoyke'y, ha ipýva hendive apytépe.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Ha amomandu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ juez-kuérape"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "peẽ juez-kuérape"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pe aravópe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "he'ívo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Eñehendu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "peẽ joyke'akuéra"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "ha pehekojoja"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimba'e"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoyke'y"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ipýva hendive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:47:09.400074902Z",
+  "model": "glm-5.3"
+}

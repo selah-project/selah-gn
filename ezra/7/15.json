@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 7:15",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha egueraha hag̃ua kuarepoti ha itaju, mburuvicha ha iñe'ẽ'uhára ome'ẽ'asy'ỹre Elohim Jisrael-pe g̃uarã — Michkan oĩ Jerusaláime.",
+  "tokens": [
+    {
+      "surface": "ולהיבלה",
+      "gloss": "egueraha hag̃ua"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ודהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "די",
+      "gloss": "upe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ויעטוהי",
+      "gloss": "ha iñe'ẽ'uhára"
+    },
+    {
+      "surface": "התנדבו",
+      "gloss": "ome'ẽ'asy'ỹre"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "די",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusaláime"
+    },
+    {
+      "surface": "משכנה",
+      "gloss": "Michkan"
+    }
+  ],
+  "timestamp": "2026-10-02T17:47:39.780032501Z",
+  "model": "glm-5.3"
+}

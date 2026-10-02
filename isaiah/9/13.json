@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jahve oikutu Jisraelgui ⟨את⟩ pe akã ha pe huguái, pe pindo rogue ha pe karaguata, peteĩ árape.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "oikutu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisraelgui"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pe akã"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ha pe huguái"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "pe pindo rogue"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ha pe karaguata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:33:25.726587169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Kuaraʼỹ ryepýpe, lujot-kuéra ndive, rejapóta ⟨את⟩ chupe; peichahápe ojehechauka ⟨את⟩ ndeve yvyty ári — upéicha ojapóta.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "kuaraʼỹ ryepýpe"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lujot-kuéra ndive"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (pe mizbeaj)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "peichahápe"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ojehechauka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ndeve"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty ári"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ojapóta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:44.754453384Z",
+  "model": "glm-5.3"
+}

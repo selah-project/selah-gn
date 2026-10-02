@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Esẽ pe yga guasu-gui, nde, nde remireko, ne mitãkuéra ha ne mitãkuéra remirekokukuéra ⟨את⟩ nde ndive ⟨את nde ndive⟩.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Esẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "pe yga guasu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nde remireko"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ne mitãkuéra"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "remirekokukuéra"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ne mitãkuéra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:57.457832640Z",
+  "model": "glm-5.3"
+}

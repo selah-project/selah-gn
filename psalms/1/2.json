@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Hetaiterei ichupe güara Jahve Tora rembiaporã: ha i Tora rehe oñeʼẽ ñemomarandu ara ha pyhare javeve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hetaiterei"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tora rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "rembiaporã remiandu güara"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ha i Tora rehe"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "oñeʼẽ ñemomarandu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ara javeve"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ha pyhare"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:36.320056653Z",
+  "model": "glm-5.3"
+}

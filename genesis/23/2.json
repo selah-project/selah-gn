@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Sara omano Kiriat-Arba-pe — ha'éva Chevrón — Kenáan retãme; ha Avraham ou oñembyasy hag̃ua Sara rehe ha oita hag̃ua hese.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ha ... omano"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "Kiriat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba-pe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'éva"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevrón"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenáan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ha ... ou"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "oñembyasy hag̃ua"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sara rehe"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "ha oita hag̃ua hese"
+    }
+  ],
+  "timestamp": "2026-10-02T07:42:51.018809613Z",
+  "model": "glm-5.3"
+}

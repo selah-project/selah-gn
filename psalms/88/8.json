@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "translation": "Nde vera oñemoĩ che ári, ha nde ygarungakuéra paʼũ rehe rembyasy cherehe. Chelah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "oñemoĩ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "nde vera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "nde ygarungakuéra paʼũ"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "rembyasy cherehe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chelah"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:14.454912681Z",
+  "model": "glm-5.3"
+}

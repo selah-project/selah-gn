@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha che avei, che resyry nomoñeʼẽmoʼãi, che pyʼa ndaijaʼéi chupekuéra; amohaʼãta heguata kuéra iñakã ári.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd-"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "momoñeʼẽmoʼãi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che resyry"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda-"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "aijaʼéi"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "heguata kuéra"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "iñakã ári"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "amohaʼãta"
+    }
+  ],
+  "timestamp": "2026-10-02T14:00:25.001667310Z",
+  "model": "glm-5.3"
+}

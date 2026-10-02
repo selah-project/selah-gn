@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "⟨את⟩ pe menorá iñangirĩva, ⟨את⟩ ikandelakuéra — umi kandela oñemohendahápe —, ha ⟨את⟩ opaite imbaʼekuéra, ha ⟨את⟩ yra ojeporúva tesape hag̃ua.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe menorá iñangirĩva"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "pe menorá"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "iñangirĩva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikandelakuéra"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ikandelakuéra"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "umi kandela"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "oñemohendahápe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite imbaʼekuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "imbaʼekuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yra tesape hag̃ua"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yra"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "tesape hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:07.875302186Z",
+  "model": "glm-5.3"
+}

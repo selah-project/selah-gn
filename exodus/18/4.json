@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha ambue réra Eliezer, ha'e haguére: che ru Elohim che pytyvõhára va'ekue, ha omonguera cherehe Paroh mboka-gui.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'e haguére"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "che pytyvõhára"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "omonguera cherehe"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mboka-gui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:58.850942039Z",
+  "model": "glm-5.3"
+}

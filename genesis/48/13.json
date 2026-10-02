@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Ha Jocé oguereko ⟨את⟩ mokõive: ⟨את⟩ Efráin iñakatúape, Jisrail iñasúpe aguãre, ha ⟨את⟩ Manasé iñasúpe, Jisrail iñakatúa aguãre; ha ogueroigua hese.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jocé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõive"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efráin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráin"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "iñakatúape"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "iñasúpe aguãre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Manasé"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasé"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "iñasúpe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "iñakatúa aguãre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrail"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ogueroigua"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T08:04:46.222458134Z",
+  "model": "glm-5.3"
+}

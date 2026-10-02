@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Umi imarangatuʼỹva hetave jave, jeheja vai hetave avei; ha umi marangatu ohecha hikuái iñapañuãi.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "hetave jave"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "imarangatuʼỹva kuéra"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "hetave avei"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "jeheja vai"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ha umi marangatu"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "iñapañuãi-pe"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ohecha hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:43:10.969115975Z",
+  "model": "glm-5.3"
+}

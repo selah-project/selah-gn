@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 3:28",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Papapy pype opa kuimba'e, peteĩ jasy ra'ýgua guive ha upe ári, poapy su ha poteĩ sa — umíva ñangareko marangatu ñangarekorãre.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "papapy pype"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ra'ýgua guive"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ha upe ári"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "poapy"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha poteĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "umíva ñangarekohakuéra"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ñangarekorã"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T09:15:40.797569595Z",
+  "model": "glm-5.3"
+}

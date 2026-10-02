@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha Timna kuakua haʼe Elifaz, Esav rayhu, mborayhu ñembépe; ha omongakuaa Elifazpe ⟨את⟩ Amalek; koʼã haʼe Ada memby kuéra, Esav kuña.",
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "ha Timna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "kuakua mborayhu ñembépe"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elifazpe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "rayhu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ha omongakuaa"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elifazpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby kuéra"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:33.085708433Z",
+  "model": "glm-5.3"
+}

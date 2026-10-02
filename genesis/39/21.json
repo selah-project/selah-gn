@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha Jahve oiko ⟨את⟩ Jósef ndive, ha omoĩ hesed ichupe, ha omeʼẽ ichupe chen tendota kaʼirõ óga tesape.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósef ndive"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "chen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "tesape"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tendota"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kaʼirõ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:57:04.007529729Z",
+  "model": "glm-5.3"
+}

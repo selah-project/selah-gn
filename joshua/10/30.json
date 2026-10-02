@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 10:30",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve omeʼẽ avei ⟨את⟩ upéva, ha ⟨את⟩ imburuvicha, Jisrael pópe; ha ojuka kyse ijurúre, ha ⟨את⟩ opaite tekove oikóva ipype; nahániri oheja ipype oikoveypaʼỹva; ha ojapo imburuvichape ojapoháicha Jerijo mburuvichape.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ upéva",
+      "marks": "Livna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imburuvicha"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "imburuvicha"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ijurúre"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tekove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "oikoveypaʼỹva"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "למלכה",
+      "gloss": "imburuvichape"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojapoháicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvichape"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerijo"
+    }
+  ],
+  "timestamp": "2026-10-02T18:53:49.612837473Z",
+  "model": "glm-5.3"
+}

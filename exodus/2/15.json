@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Farao ohendu ⟨את⟩ ko mba'e, ha oheka ojuka hag̃ua ⟨את⟩ Moche. Upéicharõ Moche oñemondýi Farao renondégui, opyta Midian yvýpe, ha opyta ⟨ári⟩ y ku'ua.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mba'e"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ojuka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "oñemondýi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondégui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "y ku'ua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:25.919619706Z",
+  "model": "glm-5.3"
+}

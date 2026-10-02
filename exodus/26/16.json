@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Pa amá pe kua'ã pukukue, ha peteĩ amá ha pe amá mbyte — pe kua'ã peteĩva ipehẽngue.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amá"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pe kua'ã"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ amá"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha mbyte"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "pe amá"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ipehẽngue"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pe kua'ã"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:55.992508697Z",
+  "model": "glm-5.3"
+}

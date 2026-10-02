@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha oĩne peteĩ suka pytuʼuha ramo arape hakuitégui, ha oñemoʼãha ramo ha okañyha ramo zorrotrõgui ha okygui.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "ha suka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oĩne"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "pytuʼuha ramo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "arape"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "hakuitégui"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ha oñemoʼãha ramo"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ha okañyha ramo"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "zorrotrõgui"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ha okygui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:27:28.754704238Z",
+  "model": "glm-5.3"
+}

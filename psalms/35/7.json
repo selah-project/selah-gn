@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Oiméne sa'imi ha'ekuéra oñomi haguã che rehe guembe apu'a, iñangarehoha; sa'imi oñemyanyhẽ haguã che rekópe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Oiméne"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sa'imi"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "oñomi haguã"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "guembe apu'a"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "iñangarehoha"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sa'imi"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "oñemyanyhẽ haguã"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "che rekópe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:39.206517137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Tekovahai oĩ iñapytũnguépe, ha jepe ambue ha ñemoñemigua ndoheja opyta hague iñekuéra ruʼãnguégui.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "tekovahai"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "iñapytũnguépe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoheja"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ndoheja opyta hague"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "iñekuéra ruʼãnguégui"
+    },
+    {
+      "surface": "תך",
+      "gloss": "jepe ambue"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ha ñemoñemigua"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:59.204178851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Mbaʼe porãpa pe oikóva nde róga ryepýpe — opaitéma ojahei hikuái nde rehe. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mbaʼe porãpa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "pe oikóva"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde róga ryepýpe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opaitéma"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ojahei hikuái nde rehe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:22.692905086Z",
+  "model": "glm-5.3"
+}

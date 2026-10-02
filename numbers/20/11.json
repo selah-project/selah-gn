@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Moche oiupi ipo yvate, ha oipe ⟨את⟩ ⟨the⟩ ita iysvyrãre mokõi jey; osẽ y hetaite, ha ⟨the⟩ aty ou'u, ha iymbakuéra avei.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "oiupi ipo yvate"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ita"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ita"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "iysvyrãre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mokõi jey"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ou'u"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "iymbakuéra avei"
+    }
+  ],
+  "timestamp": "2026-10-02T09:31:32.611612430Z",
+  "model": "glm-5.3"
+}

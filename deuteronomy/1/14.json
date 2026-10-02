@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha peẽ ne'ẽ ⟨את⟩ cherehe ha pe'e: Iporã pe mba'e reñe'ẽ rejapo hagua.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "ha peẽ ne'ẽ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "cherehe"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ha pe'e"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Iporã"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דברת",
+      "gloss": "reñe'ẽ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "rejapo hagua"
+    }
+  ],
+  "timestamp": "2026-10-02T09:47:09.399746481Z",
+  "model": "glm-5.3"
+}

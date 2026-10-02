@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Che ru ha che sy oheja ramo chereve ⟨araka'eve⟩, Jahve che ñembyaty ⟨hína⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨araka'eve⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "che sy"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "oheja chereve"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "che ñembyaty"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:18.341380876Z",
+  "model": "glm-5.3"
+}

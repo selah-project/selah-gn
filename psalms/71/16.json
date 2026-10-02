@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Ahasa Jahve Adonai ipuʼakapakuéra rehe; amanduʼa ⟨nde⟩ tsedek rehe, nde yearõnte.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ahasa"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ipuʼakapakuéra rehe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "amanduʼa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "nde tsedek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nde yearõnte"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:21.344129284Z",
+  "model": "glm-5.3"
+}

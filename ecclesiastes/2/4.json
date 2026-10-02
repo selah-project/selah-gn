@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Aguerekove che apopyre: achog̃i chevaʼerã óga kuéra, ahejo chevaʼerã yva ñu kuéra.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "aguerekove"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "che apopyre"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "achog̃i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chevaʼerã"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "óga kuéra"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ahejo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chevaʼerã"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "yva ñu kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T17:20:37.119291897Z",
+  "model": "glm-5.3"
+}

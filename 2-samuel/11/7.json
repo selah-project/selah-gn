@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Uriá ou hogenópe, ha David ojerurekuri Joav rekoporã, tavayguakuéra rekoporã ha ñorãirõ rekoporã rehe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriá"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hogenópe"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ojerurekuri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rekoporã"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "rekoporã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "rekoporã"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:24:36.427458806Z",
+  "model": "glm-5.3"
+}

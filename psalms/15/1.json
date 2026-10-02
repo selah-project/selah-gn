@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Purahéi David pegua. Jahve, mávapa oiko nde karuguápe, mávapa oiko nde yvyty marangatupe?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David pegua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "nde karuguápe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nde yvyty"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "marangatupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:44.798609735Z",
+  "model": "glm-5.3"
+}

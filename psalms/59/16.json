@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Upekuéra oho ha ou kaʼuru rekávo, pe jepe ndojukysáiramo oiko pyporã opa pyhare.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Upekuéra"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "oho ha ou"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kaʼuru rekávo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pe jepe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ndojukysáiramo"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "oiko pyporã opa pyhare"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:51.533287288Z",
+  "model": "glm-5.3"
+}

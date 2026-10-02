@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Oikundaha ⟨את⟩ umi kuaapyréva ndive ha kuaa; ha tavykuéra ndive oikundaháva ohasa asy.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "oikundaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kuaapyréva"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "umi kuaapyréva"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ha kuaa"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ha oikundaháva"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "tavykuéra ndive"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ohasa asy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:33:27.562801992Z",
+  "model": "glm-5.3"
+}

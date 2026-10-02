@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Upéicha he'i Jahve: Mahe'ã, peteĩ avano'õ ou yvategua tetã-gui, ha peteĩ ñemoñare guasu ojepysóta yvy rembe'y pahape guive.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Mahe'ã"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avano'õ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tetã-gui"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yvategua"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "ha ñemoñare"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ojepysóta"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "yvy rembe'y pahape guive"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T13:11:50.427505307Z",
+  "model": "glm-5.3"
+}

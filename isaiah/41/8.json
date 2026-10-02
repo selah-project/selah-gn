@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha nde, Jisrael, che rembiguái, Jaakov, che reiporavopyre, Avraham raʼỹi, che rayhuha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che rembiguái"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "che reiporavopyre"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "raʼỹi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "che rayhuha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:45.677911959Z",
+  "model": "glm-5.3"
+}

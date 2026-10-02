@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Elohim ani reñeʼẽvai, ha nde retã ruvichápe avei ani reñeʼẽvaiete.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "reñeʼẽvai"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ha ruvicha"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "nde retã apytépe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "reñeʼẽvaiete"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:51.307343503Z",
+  "model": "glm-5.3"
+}

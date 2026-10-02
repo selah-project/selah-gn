@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha pe kuimbaʼe, pe yvy jára, heʼi oreve: Kóicha aikuaáta peẽ haʼeha tapicha añetegua; ermánokueraitegui peteĩ eheja cherehe, ha ⟨את⟩ tembiʼu mbarachápe g̃uarã peẽ rógape g̃uarã egueru ha ereho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "oreve"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "jára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "kóicha"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "aikuaáta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "tapicha añetegua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "peẽ ermánokuera"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "eheja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cherehe",
+      "marks": "ermánokuera ojejapóva hembigua ku peheja hagua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tembiʼu"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "mbarachápe g̃uarã"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "peẽ rógape g̃uarã"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ereho"
+    }
+  ],
+  "timestamp": "2026-10-02T08:01:19.794760782Z",
+  "model": "glm-5.3"
+}

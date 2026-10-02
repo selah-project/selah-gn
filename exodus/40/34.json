@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha pe arapoty oñembohyru ⟨את⟩ Ohel Mo'ed rehe, ha Jahve imba'eguasu ohenyhẽ ⟨את⟩ Michkan.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "oñembohyru"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "arapoty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ohel Mo'ed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "imba'eguasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ohenyhẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:55.202739870Z",
+  "model": "glm-5.3"
+}

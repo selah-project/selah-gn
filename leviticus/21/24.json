@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Moche oñeʼẽ Aharon rehe, ha iRaʼýkuéra rehe, ha opaite Jisrael raʼýkuéra rehe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iRaʼýkuéra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:00.878734151Z",
+  "model": "glm-5.3"
+}

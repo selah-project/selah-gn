@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Emoĩ peteĩ tape hag̃uáicha ou pere — che peve: Embou ⟨את⟩ Rava — Amõ raʼýpe — ha ⟨את⟩ Jihudai Jerusalemba, óreva ipochýre.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hag̃uáicha ou"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rava — Amõ raʼýpe"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rava"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amõ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jihudai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihudai"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalemba"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "óreva ipochýre"
+    }
+  ],
+  "timestamp": "2026-10-02T14:16:32.327854872Z",
+  "model": "glm-5.3"
+}

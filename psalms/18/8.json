@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha yvy ondyryry ha omongyhyje, yvytykuéra ypykuéra jetyvyry ha ondyryry, upévare py'a rasa oky'ã hese.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "omongyhyje"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ondyryry"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "ypykuéra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "jetyvyry"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ondyryry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "py'a rasa oky'ã"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:24.287470222Z",
+  "model": "glm-5.3"
+}

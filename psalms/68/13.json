@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Tsevaot mburuvicha kuéra ohekýi, ohekýi, ha óga mbojaovy haʼéva oñohẽ ⟨את⟩ botĩ.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvicha kuéra"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ohekýi"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ohekýi"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ha mbojaovy haʼéva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "oñohẽ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "⟨את⟩ botĩ",
+      "marks": "botĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:12.765980129Z",
+  "model": "glm-5.3"
+}

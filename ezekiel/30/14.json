@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha aitanĩta ⟨את⟩ Patros, ha amoĩta tata Tsoán-pe, ha ajapóta umi juerã No-pe.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Ha aitanĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ha amoĩta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoán-pe"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ha ajapóta"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "umi juerã"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "No-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T14:25:41.116247371Z",
+  "model": "glm-5.3"
+}

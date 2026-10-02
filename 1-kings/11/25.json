@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha upéi oiko pe ñorairõhára Jisrael reheguápe Shelomoh ára opaite aja, ha ⟨את⟩ pe ivaikue ojapo Hadad; ha ovyʼa Jisrael rehe, ha isãmbyhy Aram ári.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha upéi oiko"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ñorairõhára"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael reheguápe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe ivaikue"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pe ivaikue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael rehe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "isãmbyhy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:42.206582115Z",
+  "model": "glm-5.3"
+}

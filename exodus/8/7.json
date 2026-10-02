@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha kururu kuéra osẽta nde rejégui, ha nde ógui, ha nde mba'apoháragui ha nde retãnógui; ypyrápe añoite opytóta.",
+  "tokens": [
+    {
+      "surface": "וסרוס",
+      "gloss": "osẽta"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kururu kuéra"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nde rejégui"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "ha nde ógui"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "ha nde mba'apoháragui"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "ha nde retãnógui"
+    },
+    {
+      "surface": "רק",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ypyrápe"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "opytóta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:36.902427834Z",
+  "model": "glm-5.3"
+}

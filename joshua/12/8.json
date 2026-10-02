@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Yvytyguápe, yvytyrysýi guýpe, tajakueguápe, yvyty yvateguípe, ka'aguýpe ha ñemby gotyo: Chiti, Emori, Kanaani, Perichi, Jivi ha Jebúsi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "yvytyguápe"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "yvytyrysýi guýpe"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "tajakueguápe"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "yvyty yvateguípe"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "ka'aguýpe"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "ñemby gotyo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chiti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perichi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Jivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Jebúsi"
+    }
+  ],
+  "timestamp": "2026-10-02T10:24:56.459008764Z",
+  "model": "glm-5.3"
+}

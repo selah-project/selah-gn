@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Ha oguahẽ Tsiyon-pe peteĩ mbojevyhára, ha umi ojevýva jeikoviái-gui Jaakov-pe, heʼi Jahve.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ha oguahẽ"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Tsiyon-pe"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "mbojevyhára"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "ha umi ojevýva"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "jeikoviái-gui"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakov-pe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T13:03:51.335133821Z",
+  "model": "glm-5.3"
+}

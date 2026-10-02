@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha ñañembyaty ⟨את⟩ ijyvy, ha ñameʼẽ chupe mbaʼe rekorãrõ Reuvenipe, Gadipe ha Menashe aty vorekuepe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ha ñañembyaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijyvy"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ijyvy"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ha ñameʼẽ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "mbaʼe rekorãrõ"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reuvenipe"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Gadipe"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "aty vorekuepe"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aty"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:09.707434406Z",
+  "model": "glm-5.3"
+}

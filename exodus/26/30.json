@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Epyryvéta ⟨את⟩ Michkan, ijeiporuicha rehecha haguéicha yvyty ári.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Epyryvéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "ijeiporuicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "rehecha hague"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty ári"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:09.927374919Z",
+  "model": "glm-5.3"
+}

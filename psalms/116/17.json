@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 116,
+  "translation": "Nendépe che ñembyahýi che ajapo ⟨את⟩ ñembyahýi aguyjeguarã, ha che amoĩ nde réra, Jahve réra.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Nendépe"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "che ajapo ñembyahýi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "⟨את⟩ ñembyahýi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "aguyjeguarã"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ha che amoĩ nde réra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rera"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:49.919008214Z",
+  "model": "glm-5.3"
+}

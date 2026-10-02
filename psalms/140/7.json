@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Ahe'i cheheve Jahve-pe: che Elohim ⟨nde reí⟩; ehendu porã, Jahve, che jerure py'apyporã.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ahe'i cheheve"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ehendu porã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "jerure"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "py'apyporã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:46.305765219Z",
+  "model": "glm-5.3"
+}

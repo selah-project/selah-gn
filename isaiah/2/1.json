@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Pe ñeʼẽ Yeshajahu, Amots raʼýi, ohecha Yehuda rehe ha Jerusalen rehe.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Pe ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ha Jerusalen"
+    }
+  ],
+  "timestamp": "2026-10-02T12:26:11.941229021Z",
+  "model": "glm-5.3"
+}

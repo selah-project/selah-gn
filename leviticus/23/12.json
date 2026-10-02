@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha upéi, árape peẽ omyandývo ⟨את⟩ omer, pejapóta peteĩ ovecha raʼy kuimbaʼe, ivaíva ỹre, ary pagũaite oguerekóva, oñebyaitéva tatápe Jahve pe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "pejapóta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "peomyandývo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ovecha raʼy kuimbaʼe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ivaíva ỹre"
+    },
+    {
+      "surface": "בן",
+      "gloss": "peteĩ ary"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "oguerekóva"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "oñebyaitéva tatápe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve pe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:39.873422159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha ojuka ⟨את⟩ opaite bama pa'ikuéra oĩva upépe umi altár ári, ha omondyi ⟨את⟩ yvypóra ñanguekuéra hesakuéra ári, ha ohójevy Jerusalenpe.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ojuka (sacri ramo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite bama pa'ikuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(rel)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altár"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "omondyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra ñanguekuéra"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ñanguekuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hesakuéra ári"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ohójevy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalen"
+    }
+  ],
+  "timestamp": "2026-10-02T12:22:55.151956003Z",
+  "model": "glm-5.3"
+}

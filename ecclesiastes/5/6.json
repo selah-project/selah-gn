@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Taʼãnga hetakuégui, mbaʼe nandi ha ñeʼẽ hetaiterei ojehu; hákatu ⟨את⟩ Elohim rekovia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hetakuégui"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "taʼãnga"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ha mbaʼe nandi"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ha ñeʼẽ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hákatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "rekovia"
+    }
+  ],
+  "timestamp": "2026-10-02T17:24:18.013700763Z",
+  "model": "glm-5.3"
+}

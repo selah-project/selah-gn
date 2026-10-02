@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Jahve verópe oiko peva Jerusalaimpe ha Judape, oipe'a peve chuguikuéra iñakãgui ñembojarara; ha Tsidkia oñembyaty ohekávo Bavel mburuvicha rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upevarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oiko peva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaimpe"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "Judape"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chuguikuéra (Jerusalaim ha Juda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iñakãgui ñembojarara"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkia"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-02T12:25:14.307278118Z",
+  "model": "glm-5.3"
+}

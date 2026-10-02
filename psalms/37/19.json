@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ndajaʼemoʼãi vai ára kuérape, ha okẽguasu ára kuérape okaru porũta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nda...ãi"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "jaʼemoʼãi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ára kuérape"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ha ára kuérape"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "okẽguasu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "okaru porũta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:41:57.817092273Z",
+  "model": "glm-5.3"
+}

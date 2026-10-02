@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha ojuka ⟨את⟩ ⟨peteĩ guyra⟩ japypýpe, y oikóva ári.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩ guyra"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–pe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "japypýpe"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "japypýpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "oikóva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:51:38.768288794Z",
+  "model": "glm-5.3"
+}

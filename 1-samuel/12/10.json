@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha umi ogueroayvu Jahve peve ha heʼi: Javy rojapo, roheja haguére ⟨את⟩ Jahve ha romombaʼe haguére ⟨את⟩ Baal-kuéra ha ⟨את⟩ Ashtarot; koʼág̃a katu eipeʼa oréve ñanembyasyhára pógui, ha romombaʼéta ndeve.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ogueroayvu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Javy rojapo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "roheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "romombaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal-kuéra"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "koʼág̃a katu"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "eipeʼa oréve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "pógui"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ñanembyasyhára"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "romombaʼéta ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:00:26.808883624Z",
+  "model": "glm-5.3"
+}

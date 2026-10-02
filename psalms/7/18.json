@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Aha'ãã Jahve imarangatukue rehe, ha apurahéi Jahve Tuvichavéva réra.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "aha'ãã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "imarangatukue rehe"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ha apurahéi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Tuvichavéva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:47.501140840Z",
+  "model": "glm-5.3"
+}

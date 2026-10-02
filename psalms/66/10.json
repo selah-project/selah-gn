@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Upévare rehechamante che rehe, Elohim, remongarati cherehe tajygue oñemongaratiháicha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "rehechamante che rehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "remongarati cherehe"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "oñemongaratiháicha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tajygue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:56.058113932Z",
+  "model": "glm-5.3"
+}

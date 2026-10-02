@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha omonda vaʼekue peteĩ kuimbaʼe ha ovende chupe, térã ojejuhu isãime, ojukapaite vaʼerã.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "omonda vaʼekue"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ovende chupe"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ojejuhu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "isãime"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ojukapaite"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "vaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:48.038992262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ojere ha ovyʼa yvyty ári, ha og̃uahẽ Echkol yguasúpe, ha ohecha jesareko ⟨את⟩ hese.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "yvyty ári"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "yguasu"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Echkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ohecha jesareko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hese (yvy)"
+    }
+  ],
+  "timestamp": "2026-10-02T09:45:16.410335505Z",
+  "model": "glm-5.3"
+}

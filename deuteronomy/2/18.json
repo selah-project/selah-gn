@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ne, ko árape rehasa ⟨את⟩ Moav rembeʼy — ⟨את⟩ Ar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "rehasa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav rembeʼy"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rembeʼy"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:08.036779437Z",
+  "model": "glm-5.3"
+}

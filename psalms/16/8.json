@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ahechauka Jahve che renondépe tapiaite, ha upévare — che akatúa gotyope — ndajehasamoʼãi cherehe.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "ahechauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha upévare"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "che akatúa gotyope"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nda"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "jehasamoʼãi cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:55.766897381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ejevy, Jisrael, Jahve, nde Elohim peve, rejere haguére nde jejavýpe.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Ejevy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "rejere"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "nde jejavýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:19:34.430012954Z",
+  "model": "glm-5.3"
+}

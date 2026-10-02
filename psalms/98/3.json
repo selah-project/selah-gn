@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 98,
+  "translation": "Omanõ hesed ha ijerovia Jisrael óga reheguívape; yvy rembe'ykuéra opaite ohecha ⟨את⟩ ñande Elohim ñemosãso.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "omanõ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ha ijerovia"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óga reheguívape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "rembe'ykuéra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñemosãso"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ñemosãso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:52.879825181Z",
+  "model": "glm-5.3"
+}

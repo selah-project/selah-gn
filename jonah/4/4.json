@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Jahve heʼi: Iporãpa nde reñairã hese?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Iporãpa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "reñairã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    }
+  ],
+  "timestamp": "2026-10-02T15:03:17.917480064Z",
+  "model": "glm-5.3"
+}

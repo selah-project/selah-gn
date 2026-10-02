@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 149,
+  "translation": "Umi hesed-guáva ovyʼa tekuãmeʼẽme, ombojoaju hikuái puraheikuéra ikaruãme.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "umi hesed-guáva"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "tekuãmeʼẽme"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ombojoaju puraheikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-me"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ikaruãme"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:30.408397732Z",
+  "model": "glm-5.3"
+}

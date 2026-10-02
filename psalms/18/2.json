@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha oheʼa: Añuã ndeve, Jahve, che ipuʼaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oheʼa"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "añuã ndeve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "che ipuʼaka"
+    }
+  ],
+  "timestamp": "2026-10-02T15:32:48.088739408Z",
+  "model": "glm-5.3"
+}

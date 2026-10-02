@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Haman katu oñembojoko ha ou hogaꞌõme, ha omondo ha ogueru ⟨את⟩ iñirũnguéra ha ⟨את⟩ Zeresh, hembireko.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "oñembojoko"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hogaꞌõme"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñirũnguéra"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "iñirũnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    }
+  ],
+  "timestamp": "2026-10-02T17:26:43.589000319Z",
+  "model": "glm-5.3"
+}

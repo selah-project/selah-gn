@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha kuña he'i mbóipe: Koku yvyra huágui jakaru.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ha kuña he'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mbói"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "huágui"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "koku"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "jakaru"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:29.816827796Z",
+  "model": "glm-5.3"
+}

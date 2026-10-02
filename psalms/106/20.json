@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha ombohasa ijatygue ⟨את⟩ taʼãnga voiʼỹrépe, kapiʼi hoʼúva.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ohaʼãrõ juajuꞌukue ndive; oñemoambue hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijatygue"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ijatygue"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "taʼãnga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "voiʼỹre"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hoʼúva"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kapiʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:07.950450410Z",
+  "model": "glm-5.3"
+}

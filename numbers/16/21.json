@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Embojaʼo peẽ ko joja aty mbytégui, ha aju hikuái ⟨אתם⟩ sapyʼaitépe.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "embojaʼo peẽ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mbytégui"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ko joja aty"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ha aju"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hikuái"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "sapyʼaitépe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:27:14.760667976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve heʼi Moche-pe: Eipysó ne po yvága ári, ha ojehúta ypytũ Mitsraim yvy ári, ha pe ypytũ ojepysuʼukuaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Eipysó"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha ojehúta"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ypytũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "ha ojepysuʼukuaa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pe ypytũ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:01.541505657Z",
+  "model": "glm-5.3"
+}

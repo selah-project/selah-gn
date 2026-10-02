@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 108,
+  "translation": "Che korasõ ⟨o⟩ĩmba, Elohim; apurahéi, amizmor avei che mbarete ndive.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "oĩmba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "apurahéi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "amizmor avei"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "che mbarete"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:20.847801403Z",
+  "model": "glm-5.3"
+}

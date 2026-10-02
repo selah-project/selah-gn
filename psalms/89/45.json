@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Remoi pytuhẽ imimbove, ha remboy itrono yvy pe.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "remoi pytuhẽ"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "imimbove"
+    },
+    {
+      "surface": "וככסאו",
+      "gloss": "ha itrono"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvy pe"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "remboy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:25.207534064Z",
+  "model": "glm-5.3"
+}

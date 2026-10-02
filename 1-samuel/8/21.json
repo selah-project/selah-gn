@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Chemuel ohendu ⟨את⟩ opaite umi ñeʼẽ pe kuãerarõguasu apytuʼũmépe, ha oñeʼẽ umi ñeʼẽ Jahve apysápe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñeʼẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe kuãerarõguasu apytuʼũmépe"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "oñeʼẽ umi ñeʼẽ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "apysápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:54:57.208467088Z",
+  "model": "glm-5.3"
+}

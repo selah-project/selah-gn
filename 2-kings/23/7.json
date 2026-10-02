@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha oñembyai ⟨את⟩ umi kadesh kuéra óga, oĩva Jahve óga ryepýpe, umi kuña ojapo haguépe upípe ao ojepysóva Ashera peg̃uarã.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kadesh kuéra óga"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadesh kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "óga ryepýpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapo haguépe"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "umi kuña"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upípe"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ao ojepysóva"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Ashera peg̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T12:22:01.499041247Z",
+  "model": "glm-5.3"
+}

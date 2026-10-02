@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Oheʼi ha omoĩ pe ruah tajy, ha upéva omoĩ yvate umi yguasu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "ויעמיד",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "tajy"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "omoĩ yvate"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "umi yguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:56.583949751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha umíva ojopyva nde, che ajopyta chupe; umíva oesaʼỹijóva nde, che ahesaʼỹijóta chupe; ha yvy ape ári opaite ñemoñare ojopyta nde rupive.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "ajopyta"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "umíva ojopyva nde"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "umíva oesaʼɨijóva nde"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ahesaʼỹijóta"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "ojopyta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rupive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T07:37:31.462396573Z",
+  "model": "glm-5.3"
+}

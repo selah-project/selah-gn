@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Jahve omoĩ ijapytepe peteĩ ruah oiko vaíva, ha omondó ⟨את⟩ Mitsraim hape opaite ojaposapópe, cha pe ka'úva ojoka oiko hague iñera ryepýpe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "omoĩ ijapytepe"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ijapytepe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "oiko vaíva"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "omondó hape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ojaposapópe"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "cha ojoka oiko hague"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ka'úva"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "iñera ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:36:48.810958264Z",
+  "model": "glm-5.3"
+}

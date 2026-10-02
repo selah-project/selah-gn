@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Jahve resa oĩ umi hekojojáva ári, ha iñakãnguéra ohendu hikuái ojekarai haʼekuéra.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "resa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oĩ … ári"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "umi hekojojáva"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ha iñakãnguéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohendu hikuái"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ojekarai haʼekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:42.652354924Z",
+  "model": "glm-5.3"
+}

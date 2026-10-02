@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Jahve Elohim ohendu kuña rehe: —Mbaʼépa rejapo kóva? Ha kuña heʼi: —⟨הנחש⟩ nachachi oombojavy cheve, ha che karu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuña rehe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nachachi"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "oombojavy cheve"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ha che karu"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:21.047609910Z",
+  "model": "glm-5.3"
+}

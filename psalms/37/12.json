@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ko ivairõva ombosakoʼi mbaʼe vai umi oikóva joja reheguápe, ha oikytĩ hese i tẽkuéra.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "ombosakoʼi mbaʼe vai"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ko ivairõva"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "umi oikóva joja reheguápe"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ha oikytĩ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "i tẽkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:33.128395193Z",
+  "model": "glm-5.3"
+}

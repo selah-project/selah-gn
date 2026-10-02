@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Che avei amomba'eguasúta nderehe arpa reheve, nde añetegua rehe, che Elohim; apurahéi nderehe kinora reheve, Jisrael marangatu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "amomba'eguasu nderehe"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "arpa reheve"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nde añetegua"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "apurahéi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehepe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinora reheve"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:45.650776900Z",
+  "model": "glm-5.3"
+}

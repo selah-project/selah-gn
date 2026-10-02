@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Ajav oñemombeʼu Izevel-pe ⟨את⟩ opaite mbaʼe ojapo vaʼekue Eliyahu, ha ⟨את⟩ opaite mbaʼe ojukavaʼekue ⟨את⟩ opaite nabi kuéra pokã rehe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "oñemombeʼu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izevel-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo vaʼekue"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ojukavaʼekue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite nabi kuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi kuéra"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pokã rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:58:50.727474090Z",
+  "model": "glm-5.3"
+}

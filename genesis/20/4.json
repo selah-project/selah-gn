@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Avimelech katu ndou chupe gotyo; ha he'i: Adonai, ¿reyukápa avei tetã tsadik?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd…i"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ou gotyo"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "¿…tetã"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadik"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "reyukápa"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:13.000927408Z",
+  "model": "glm-5.3"
+}

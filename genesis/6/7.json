@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Jahve heʼi: Amboguete ⟨את⟩ yvypóra, pe che ajapo vaʼekue, yvy ape rerapeguiguive; yvypóra guive mymba peve, mymba oikóva yvýra peve, ha yvágaguyra kuéra peve, cheroykekove haguére ajapo hague chuguakuéra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Amboguete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "che ajapo vaʼekue"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "rerapeguiguive"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rerape"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy ape"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "yvypóra guive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mymba oikóva yvýra"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "guyra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágaguyra kuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "cheroykekove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ajapo hague chuguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:42.162266888Z",
+  "model": "glm-5.3"
+}

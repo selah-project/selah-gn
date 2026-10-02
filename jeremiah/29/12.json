@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Peẽ ojejerure ⟨אתי⟩ cherehe, peẽ oho ha oñemboʼe cherehe, ha che amongakuaa ⟨the⟩ peẽ rehe.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "peẽ ojejerure"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "cherehe"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "peẽ oho"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "che amongakuaa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "peẽ rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:31:53.805603818Z",
+  "model": "glm-5.3"
+}

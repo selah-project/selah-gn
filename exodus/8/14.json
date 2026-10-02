@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha umi ñarandukuéra ojapo upéicha iñemihãme omyengovívo ⟨את⟩ kyju, ha ndaipuʼakái; ha kyju ou yvypóra rehe ha mymba rehe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "umi ñarandukuéra"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "iñemihãme"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "omyengovívo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyju"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kyju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipuʼakái"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kyju"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "yvypóra rehe"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mymba rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:39.876921850Z",
+  "model": "glm-5.3"
+}

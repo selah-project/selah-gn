@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha upéi omeʼẽ kuñákuaa yʼu hag̃ua ⟨את⟩ kuñakuaa ⟨את⟩ y ervaʼýva, y omboʼáva mbaʼekuaaʼỹ; ha umi y omboʼáva mbaʼekuaaʼỹ oike hendápe ervaʼýramo.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "omeʼẽ yʼu hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuñakuaa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuñakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "y ervaʼýva"
+    },
+    {
+      "surface": "מי",
+      "gloss": "y"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ervaʼýva"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "omboʼáva mbaʼekuaaʼỹ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ha oike"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "umi y"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "omboʼáva mbaʼekuaaʼỹ"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "ervaʼýramo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:18:05.545114653Z",
+  "model": "glm-5.3"
+}

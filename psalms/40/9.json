@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ne remiandu rejapo hag̃ua, che Elohim, che reipotaiterei, ha ne Tora oĩ che py'a ryepýpe.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "rejapo hag̃ua"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ne remiandu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "che reipotaiterei"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ha ne Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oĩ... ryepýpe"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "che py'a"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:01.667887308Z",
+  "model": "glm-5.3"
+}

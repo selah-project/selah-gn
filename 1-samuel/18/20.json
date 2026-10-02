@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha Mijal, Shaúl ra'ýikuña, ohayhu ⟨את⟩ David; ha omomarandu Shaúl-pe, ha pe mba'e ovy'a chugui hesépe.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "ha ohayhu"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mijal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ýikuña"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ha omomarandu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl-pe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ha ovy'a chugui"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe mba'e"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hesépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:09:59.707283646Z",
+  "model": "glm-5.3"
+}

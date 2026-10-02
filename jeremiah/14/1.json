@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Pe ñeʼẽ Jahve-gui ou Jirmejahu-pe, umi vaivai ýke rehegua rehe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "umi... rehegua"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "vaivai ýke rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T13:21:47.401780520Z",
+  "model": "glm-5.3"
+}

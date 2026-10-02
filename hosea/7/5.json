@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ore mburuvicha árape, umi meravía ojepo'a kaguyi hakúgui; ha'e oipe'a ⟨את⟩ umi mbo'echakýihára ndive.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ore mburuvicha"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ojepo'a"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "umi meravía"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "haku"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kaguyi"
+    },
+    {
+      "surface": "משך",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbo'echakýihára"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "umi mbo'echakýihára ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T14:49:34.827925134Z",
+  "model": "glm-5.3"
+}

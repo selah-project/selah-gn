@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Jahve ⟨haʼehína⟩ nde ñangarekoha; Jahve ⟨haʼehína⟩ nde reke, nde po akatúape.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "nde ñangarekoha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "nde reke"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-pe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nde akatúa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:39.162595695Z",
+  "model": "glm-5.3"
+}

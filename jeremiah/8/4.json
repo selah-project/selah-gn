@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha reʼíta chupekuéra: Koʼáicha heʼi Jahve: Ojerepa hikuái ha ndojupíipa? Ojevy rakaʼe ha ndojevyipa?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "reʼíta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כה",
+      "gloss": "koʼáicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "ojerepa hikuái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "jupíipa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ojevy rakaʼe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "jevyipa"
+    }
+  ],
+  "timestamp": "2026-10-02T13:17:37.394295326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Jananiah pe nabi ogueru ⟨את⟩ pe joka Yirmejah pe nabi ajúgui, ha ojova.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Jananiah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pe nabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe joka"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "pe joka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ajúgui"
+    },
+    {
+      "surface": "צואאר",
+      "gloss": "ajú"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmejah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pe nabi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ojova"
+    }
+  ],
+  "timestamp": "2026-10-02T13:31:50.810663937Z",
+  "model": "glm-5.3"
+}

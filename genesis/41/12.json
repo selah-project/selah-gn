@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Ha upépe ⟨את⟩ ore ndive oĩ peteĩ mitãrusu hebreo, mbaʼapohára umi koveakuéra ruvichape g̃uarã; roñeʼẽ haguã chupe, ha haʼe omoheñói ⟨את⟩ ore manduʼakuéra — tahacha peteĩte i manduʼa reheve.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ha upépe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ore ndive"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mitãrusu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebreo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mbaʼapohára"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "ruvichape g̃uarã"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "umi koveakuéra"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "roñeʼẽ haguã"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "omoheñói"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "oréve",
+      "note": "FIX: surface must be לנו exactly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore manduʼakuéra"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "ore manduʼakuéra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tahacha peteĩte"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "i manduʼa reheve"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "omoheñói"
+    }
+  ],
+  "timestamp": "2026-10-02T07:58:02.465288136Z",
+  "model": "glm-5.3"
+}

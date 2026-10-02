@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Miryam, kuña nabi, Aharon pehẽngue, ogueru ⟨את⟩ mbaraka i pópe; ha opaite kuñakuéra osẽ iñapyrũi mbaraka ha jeroky ndive.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "kuña nabi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaraka"
+    },
+    {
+      "surface": "התף",
+      "gloss": "mbaraka"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "i pópe"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kuñakuéra"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "iñapyrũi"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "mbaraka"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "ha jeroky ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:18:13.400673257Z",
+  "model": "glm-5.3"
+}

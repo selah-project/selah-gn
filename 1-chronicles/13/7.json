@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha oñemoĩ ⟨את⟩ Elohim arón peteĩ kareta pyahu ári Avinadav óga-gui; Uza ha ijoyke'y Ahio omongu'e pe kareta.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "oñemoĩ hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim arón"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "óga-gui"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ha Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ha ijoyke'y"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "omongu'e"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kareta"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:45.109417495Z",
+  "model": "glm-5.3"
+}

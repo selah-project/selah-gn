@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Oñemopotĩ paʼikuéra ha Levikuéra, ha oñemopotĩ ⟨את⟩ ava kuéra, ⟨את⟩ ñesẽha kuéra ha ⟨את⟩ korapy.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "oñemopotĩ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ha Levikuéra"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "oñemopotĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ava kuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ava kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñesẽha kuéra"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ñesẽha kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "korapy"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "korapy"
+    }
+  ],
+  "timestamp": "2026-10-02T17:57:55.572004544Z",
+  "model": "glm-5.3"
+}

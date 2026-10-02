@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Yvy ojokoʼi, avei yvága ohyʼi Elohim renondépe — kóva Sinái, Elohim renondépe, Jisrael Elohim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ojokoʼi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "ohyʼi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinái"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:34.161716913Z",
+  "model": "glm-5.3"
+}

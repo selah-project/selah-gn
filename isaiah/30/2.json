@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Umi oho vaʼekue ohóvo Mitsraim-pe, ha che jurua ndojerure chugui; oiporavo hag̃ua puʼaka Paraó puʼakápe, ha oñemoĩ hag̃ua yvuápe Mitsraim yvuápe.",
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "umi oho vaʼekue"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ha che jurua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "puʼaka"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "puʼakápe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraó"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "ha oñemoĩ hag̃ua"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "yvuápe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T12:45:46.862901300Z",
+  "model": "glm-5.3"
+}

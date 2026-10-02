@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Chet oikove Enosh oheñói rire ⟨את⟩-pe, poapysa pokõi ary; ha oheñói umi memby kuimbaʼe ha umi memby kuña.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "oheñói hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ha poapysa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "…sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "oheñói"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "umi memby kuimbaʼe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha umi memby kuña"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:31.461654456Z",
+  "model": "glm-5.3"
+}

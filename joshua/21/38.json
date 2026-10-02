@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Gad ñemboʼapeguaitégui, ⟨את⟩ táva eñemoñongatu hag̃ua pe ojukáva g̃uarã, ⟨את⟩ Ramot Gilead ryepýpe ha ⟨את⟩ imigrakuéra, ha ⟨את⟩ Majanaim ha ⟨את⟩ imigrakuéra.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ha ... ñemboʼapeguaitégui"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táva eñemoñongatu hag̃ua pe ojukáva g̃uarã"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "eñemoñongatu hag̃ua"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pe ojukáva g̃uarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot Gilead ryepýpe"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gilead ryepýpe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrakuéra"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigrakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Majanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Majanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrakuéra"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigrakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:25.411281826Z",
+  "model": "glm-5.3"
+}

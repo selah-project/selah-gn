@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha rejapóta peteĩ mesa akasia yvyrágui: mokõi ama ipukukue, peteĩ ama ipekue, ha peteĩ ama ha mbyte ijykue.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "peteĩ mesa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "mokõi ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha mbyte"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ijykue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:27:58.547002248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Tavyʼa ha tetarõ oguahẽ che ryepýpe, ha tetarõ vai ombohyku cherehe.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "tavyʼa"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ha tetarõ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "oguahẽ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che ryepýpe"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ombohyku cherehe"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tetarõ vai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:19.101921880Z",
+  "model": "glm-5.3"
+}

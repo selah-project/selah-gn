@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Umi ivai vaekuéra omoĩ japyra che rehe, ha nde mba'erechakuéra apyte nda chere'i.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivai vaekuéra"
+    },
+    {
+      "surface": "פח",
+      "gloss": "japyra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ha nde mba'erechakuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "chere'i"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:47.010549353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha pehecha ⟨את⟩ ikyʼakuéra ha ⟨את⟩ itaʼangakuéra — yvyra ha ita, kuarepy ha itaju — oĩva hendivekuéra.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ha pehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikyʼakuéra"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ikyʼakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itaʼangakuéra"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "itaʼangakuéra"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ha ita"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepy"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ha itaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "hendivekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:22.920566968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Nahãirãi peẽme ⟨את⟩ ko yvyty jejere; epẽ peẽ yvate gotyo.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Nahãirãi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "סב",
+      "gloss": "jejere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvyty"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "epẽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "yvate gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:25.106633035Z",
+  "model": "glm-5.3"
+}

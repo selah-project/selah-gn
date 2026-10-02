@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha pe kohen ojahuʼúta iñao lino, ha ijykyao lino ojahuʼúta itinímbo ári; ha oguerúta ⟨את⟩ pe deshen — pe tata oñeʼẽ hague ⟨את⟩ pe olah-pe, pe mizbeaj ári — ha omoĩta pe mizbeaj yvondýpe.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "ojahuʼúta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe kohen"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "iñao"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "ijykyao"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "ojahuʼúta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "itinímbo"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "oguerúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe deshen"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "pe deshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "oñeʼẽ hague"
+    },
+    {
+      "surface": "האש",
+      "gloss": "pe tata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe olah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe mizbeaj"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "omoĩta"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yvondýpe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe mizbeaj"
+    }
+  ],
+  "timestamp": "2026-10-02T08:46:47.663888115Z",
+  "model": "glm-5.3"
+}

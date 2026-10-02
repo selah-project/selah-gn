@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Ohaʼã mbaʼéichapa oñemohenda mbyja kuéra; ohenói opaite hikuái téra réi.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Ohaʼã mbaʼéichapa oñemohenda"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mbaʼe oñemohendahápe"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "mbyja kuéra"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "opaite hikuái"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "téra réi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ohenói"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:52.710539023Z",
+  "model": "glm-5.3"
+}

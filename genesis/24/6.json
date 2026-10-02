@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Avraham he'i chupe: Eñangareko nde rehe, ani embojevy ⟨את⟩ che ra'ýpe upépe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "embojevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ra'ýpe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che ra'ýpe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:43:29.266357123Z",
+  "model": "glm-5.3"
+}

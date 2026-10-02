@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha ⟨את⟩ py akatuáva peʼa terumá ramo paʼipe, peẽ chelamim zevajkuéra mbyteguá.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "py akatuáva"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "py"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "akatuáva"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "peʼa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumá"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "paʼipe"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "zevajkuéra"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "chelamim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:59.695076453Z",
+  "model": "glm-5.3"
+}

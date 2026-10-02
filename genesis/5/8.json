@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Opaite ára kuéra Chet ⟨hína⟩ pyporundysa mokõi pa ary, ha omano.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨hína⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ha pyporundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "…sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:31.461799039Z",
+  "model": "glm-5.3"
+}

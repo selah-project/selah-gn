@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Jahve ñeʼẽ ombotremble kaʼaguy yvy ndahasýiva rehe; Jahve ombotremble Kadesh kaʼaguy yvy rehe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ombotremble"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kaʼaguy yvy ndahasýiva"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ombotremble"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kaʼaguy yvy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:30.307559990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha iporãve mokõivévagui ⟨את⟩ pe koʼẽrã gueteri na heñóiva, pe na hechavaʼekue ⟨את⟩ mbaʼapo vai ojehovaʼekue kuarahýre voi.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ha iporãve"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "mokõivévagui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe koʼẽrã gueteri na heñóiva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "koʼẽrã gueteri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼapo vai"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mbaʼapo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ojehovaʼekue"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahýre"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:48.659707142Z",
+  "model": "glm-5.3"
+}

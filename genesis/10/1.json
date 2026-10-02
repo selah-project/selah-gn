@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ko'ãva ⟨⟨⟩⟩ ou Noach ra'ýkuéra ra'yñangarekogui: Chem, Cham ha Jafet; ha upéi oheñói hikuái ta'ýra tuichavoveha mba'eguasu aja.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ha ko'ãva"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ra'yñangareko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ýkuéra"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ha Jafet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "oheñói hikuái"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ta'ýra"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "upéigui"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "mba'eguasu guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:12.979802044Z",
+  "model": "glm-5.3"
+}

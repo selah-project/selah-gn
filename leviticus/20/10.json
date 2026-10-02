@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuimbaʼe oiko jopói vai ⟨את⟩ ambue kuimbaʼe rembireko — oiko jopói vai ⟨את⟩ i-ñirũ rembireko rehe — ojekuaa omano: pe jopói kuimbaʼe ha pe jopói kuña.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "oiko jopói vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambue kuimbaʼe rembireko"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tembireko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "oiko jopói vai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-ñirũ rembireko"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tembireko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "i-ñirũ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ojekuaa omano"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "pe jopói kuimbaʼe"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ha pe jopói kuña"
+    }
+  ],
+  "timestamp": "2026-10-02T09:00:48.296228771Z",
+  "model": "glm-5.3"
+}

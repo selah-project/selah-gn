@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Chakuirĩ oñemomanduʼa ⟨את⟩ iñeʼẽ marangatu rehe, ⟨את⟩ Avraham, imbaʼaporãhára rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chakuirĩ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "oñemomanduʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽ marangatu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "imbaʼaporãhára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:19.139453930Z",
+  "model": "glm-5.3"
+}

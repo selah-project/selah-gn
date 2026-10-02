@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Jahve heʼi: Ehecha, ⟨את⟩ che ykére oĩ peteĩ tenda, ha emuña tahachi ári.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che ykére"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "emuña"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "tahachi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:33:29.184041236Z",
+  "model": "glm-5.3"
+}

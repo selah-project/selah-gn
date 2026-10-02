@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Pe okuaveʼẽvápe g̃uarã, Guitit ári. Korach membykuéra ñembopurahéi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe okuaveʼẽvápe g̃uarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Guitit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ñembopurahéi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:30.311510660Z",
+  "model": "glm-5.3"
+}

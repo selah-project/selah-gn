@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Upéicha rire, David korasõ ojepyʼapaite chupe, oikói haguére okõi hague ⟨את⟩ pe rembe Saúl máchagui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Upéicha rire"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rire"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ojepyʼapaite"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (David)"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikói"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "okõi hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rembe"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "rembe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saúl máchagui"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:42.262331527Z",
+  "model": "glm-5.3"
+}

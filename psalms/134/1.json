@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 134,
+  "translation": "Purahéi jehasárape. Pehecha, pejopa ⟨את⟩ Jahve, opaite peẽ Jahve rembiguáikuéra, umíva opekuaáva Jahve ógape pyharekuérape.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "jehasárape"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Pehecha"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pejopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rembiguáikuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "umíva opekuaáva"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "pyharekuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:34.867028882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Elohim, remboyke ore, resarambi ore, repy'arõ ore rehe — embojevy ore.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "remboyke ore"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "resarambi ore"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "repy'arõ"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "embojevy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:26.264814422Z",
+  "model": "glm-5.3"
+}

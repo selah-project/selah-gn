@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Ha Acher jeroja ári, kuarahyreike vore guive kuarahyhyke vore peve, Naftali, peteĩ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ha … ári"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "jeroja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Acher"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "vore guive"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "kuarahyreike"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "vore"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "kuarahyhyke"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T19:19:21.635170528Z",
+  "model": "glm-5.3"
+}

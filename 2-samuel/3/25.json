@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Reikuaa ⟨את⟩ Avner, Ner ra'y, ou hague nde moanga'u hag̃ua, ha eikuaa hag̃ua ⟨את⟩ ne ñesẽ ha ⟨את⟩ ne jeike, ha eikuaa hag̃ua ⟨את⟩ opa mba'e rejapóva.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "nde moanga'u hag̃ua"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ha eikuaa hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ñesẽ"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ne ñesẽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ne jeike"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ne jeike"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ha eikuaa hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opa mba'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rejapóva"
+    }
+  ],
+  "timestamp": "2026-10-02T11:20:01.823636503Z",
+  "model": "glm-5.3"
+}

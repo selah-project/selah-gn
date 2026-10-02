@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 56,
+  "translation": "Nde oipe'ũ che rekove ⟨che⟩ manogui; nde pýpe ojekuaa: ¿che py nojekangyimóipa, ajoguata hag̃ua tenonderãme Elohim, tesakãme tekovekuerã mba'éva?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nde pýpe ojekuaa"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "oipe'ũ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "manogui"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿...pa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "che py"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "nojekangyimóipa"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "ajoguata hag̃ua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenonderãme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "tesakãme"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tekovekuerã mba'éva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:56.433915489Z",
+  "model": "glm-5.3"
+}

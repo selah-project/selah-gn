@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oñembyaty hikuái ⟨את⟩ opaite aty jasy mokõihápe, ára peteĩhápe; ha oñemombeʼu iñemoñare ituvichakuéra óga rupive, iñarakuéra papapy rupive, iñakãguaícha, mokõipa ary guive ha uperire.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite aty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ára peteĩhápe"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõihápe"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "oñemombeʼu iñemoñare"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "iñemoñare aty"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ituvichakuéra"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "papapy rupive"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "iñarákuéra"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ha uperire"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "iñakãguaícha"
+    }
+  ],
+  "timestamp": "2026-10-02T09:13:34.899372052Z",
+  "model": "glm-5.3"
+}

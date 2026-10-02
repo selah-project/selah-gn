@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Che katuete, chakuriʼa hetavévape, kaʼñy hetave; ha oikuaa hetavévape, mbaʼasýi hetave.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Che katuete"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hetavévape"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "chakuriʼa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetave"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kaʼñy"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ha oikuaa hetavévape"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "hetave"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "mbaʼasýi"
+    }
+  ],
+  "timestamp": "2026-10-02T17:18:43.872882462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha iñakymbaʼe hérava Sheará; ha Sheára omopuʼã ⟨את⟩ Bet Jorón iguýva ha ⟨את⟩ yvategua, ha ⟨את⟩ Uzén-Sheará.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "iñakymbaʼe"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "hérava Sheará"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet Jorón"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Jorón"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "iguýva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvategua"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yvategua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzén-Sheará"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzén"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheará"
+    }
+  ],
+  "timestamp": "2026-10-02T18:04:34.315151951Z",
+  "model": "glm-5.3"
+}

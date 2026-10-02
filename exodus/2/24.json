@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Elohim ohendu ⟨את⟩ iñetyaihi, ha Elohim omandu'ajey ⟨את⟩ iñe'ẽme'ẽ — ⟨את⟩ Avraham rehe, ⟨את⟩ Jitshak rehe ha ⟨את⟩ Jaakov rehe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñetyaihi"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "iñetyaihi"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "omandu'ajey"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñe'ẽme'ẽ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iñe'ẽme'ẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ rehe",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ rehe",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ rehe",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:05.903100168Z",
+  "model": "glm-5.3"
+}

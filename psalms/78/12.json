@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "I túva kuéra renondépe ojapo mbaʼe porã guasu, Mitsraim yvýpe, Tsoan ñúme.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "i túva kuéra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mbaʼe porã guasu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ñúme"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:06.307937955Z",
+  "model": "glm-5.3"
+}

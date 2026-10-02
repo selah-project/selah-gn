@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha David he'i opaite atyguárape: Na, ejopami ⟨את⟩ Jahve, pende Elohim; ha opaite aty ojopa Jahve-pe, hikuái tuvakuéra Elohim-pe, ha oñemokuã ha oñenupã Jahve-pe ha mburuvichárape.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "atyguárape"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ejopa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pende Elohim"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ha ojopa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "ituvakuéra"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "ha oñemokuã"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oñenupã"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "ha mburuvichárape"
+    }
+  ],
+  "timestamp": "2026-10-02T18:17:57.872557723Z",
+  "model": "glm-5.3"
+}

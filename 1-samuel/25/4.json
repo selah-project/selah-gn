@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha David ohendu yvy nandíme Nabal oikytĩhague ⟨את⟩ iñovecha.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "yvy nandíme"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "—"
+    },
+    {
+      "surface": "גֹּזֵז",
+      "gloss": "oikytĩhague"
+    },
+    {
+      "surface": "נָבָל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "iñovecha"
+    },
+    {
+      "surface": "צֹאנֽוֹ",
+      "gloss": "iñovecha"
+    }
+  ],
+  "timestamp": "2026-10-02T11:13:49.159338232Z",
+  "model": "glm-5.3"
+}

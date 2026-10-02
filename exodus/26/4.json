@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 26:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha rejapóta takuara´i hovy ⟨umíva⟩ peteĩ jaho´i rembe´ýpe, juajuha iñakãme; upéicha avei rejapóta ambue jaho´i ykeguigua rembe´ýpe, juajuha mokõihápe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "takuara´i hovy"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "hovy"
+    },
+    {
+      "surface": "על",
+      "gloss": "… ári"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rembe´ýpe"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "jaho´i"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "iñakãme"
+    },
+    {
+      "surface": "בחברת",
+      "gloss": "juajuha"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "upéicha avei"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "בשפת",
+      "gloss": "rembe´ýpe"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "jaho´i"
+    },
+    {
+      "surface": "הקיצונה",
+      "gloss": "ykeguigua"
+    },
+    {
+      "surface": "במחברת",
+      "gloss": "juajuha"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "mokõihápe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:28:33.993793847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Mbaʼeichapa roipuruahéita ⟨את⟩ Jahve purahéi ambue tetã yvy ári?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Mbaʼeichapa"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "roipuruahéita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve purahéi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ambue tetãgua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:21.202380205Z",
+  "model": "glm-5.3"
+}

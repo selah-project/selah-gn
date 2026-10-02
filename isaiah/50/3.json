@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ahoʼa yvágakuéra tukumbýpe, ha kuimbeʼe ajapo chuguera ahoʼarã.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Ahoʼa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvágakuéra"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "tukumbýpe"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ha kuimbeʼe"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "chuguera ahoʼarã"
+    }
+  ],
+  "timestamp": "2026-10-02T13:00:33.081594231Z",
+  "model": "glm-5.3"
+}

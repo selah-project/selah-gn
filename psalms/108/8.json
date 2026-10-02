@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 108,
+  "translation": "Elohim oñeʼẽ iñemarangatúpe: ajukyrerei, amoã Shekem, ha amoĩ paha Sukot ysaja.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "iñemarangatúpe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ajukyrerei"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "amoã"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ha ysaja"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "amoĩ paha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:43.722020892Z",
+  "model": "glm-5.3"
+}

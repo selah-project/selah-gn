@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Hever ojapo raʼy ramo ⟨את⟩ Jaflet, ⟨את⟩ Chomer, ⟨את⟩ Chotam, ⟨את⟩ Chua, iñkeñákara.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Ha Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ojapo raʼy ramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Chomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Chua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "iñkeñákara"
+    }
+  ],
+  "timestamp": "2026-10-02T18:04:59.480497204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 122,
+  "translation": "Toĩ tekojoja nde itá ryepýpe, py'aguapy nde óguasukuéra ryepýpe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "toĩ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "nde itá ryepýpe"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "py'aguapy"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "nde óguasukuéra ryepýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:47.860228571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Upéicharõ Shemuel omombe'u chupe ⟨את⟩ opaite umi ñe'ẽ, ha ndomañomi chugui mba'eve rivé. Ha Elí he'i: Jahve ⟨haʼe⟩; pe iporãva hese iñakãme ojapóta.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "omombe'u"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñe'ẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñe'ẽ"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ha ndomañomi"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "ndomañomi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨haʼe⟩"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "pe iporãva"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "hese iñakãme"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóta"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:15.493454721Z",
+  "model": "glm-5.3"
+}

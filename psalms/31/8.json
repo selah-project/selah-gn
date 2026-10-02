@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Avyʼáta ha ajovaita nde hesed rehe, rehechágui ⟨את⟩ che milaguarõ; ndeikuaa che pyʼarasynguéra iñipytyhõhague.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "avyʼáta"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ha ajovaita"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "nde hesed rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rehechágui"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che milaguarõ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "che milaguarõ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ndeikuaa"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "iñipytyhõhague"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che pyʼarasynguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:50.307790931Z",
+  "model": "glm-5.3"
+}

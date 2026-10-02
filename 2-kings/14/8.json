@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 14:8",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Upépe Amatsia omondo ñeʼẽguatahakuéra Jehoas ndive, Jehoajaz raʼýi, Jehu raʼýi raʼýi, Jisrael mburuvicha, heʼívo: Eju, jajehecha hikuái jakueruja.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Upépe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsia"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ñeʼẽguatahakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ndive"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoajaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýi raʼýi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Eju"
+    },
+    {
+      "surface": "נתראה",
+      "gloss": "jajehecha"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "hikuái jakueruja"
+    }
+  ],
+  "timestamp": "2026-10-02T12:14:19.892342689Z",
+  "model": "glm-5.3"
+}

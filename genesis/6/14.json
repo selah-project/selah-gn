@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ejapo nde reirã peteĩ yguá gofer yvyrágui; kyhakuéra rejapóta ⟨את⟩ ⟨pe⟩ yguá, ha rejokuáta ⟨את⟩ ⟨pe⟩ ñandy rehe, ryepýgui ha okaguigua.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ejapo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde reirã"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "yguá"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyrágui"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kyhakuéra"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yguá"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "yguá"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ha rejokuáta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yguá"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ryepýgui"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ha okaguigua"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ñandy rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:34:44.521890126Z",
+  "model": "glm-5.3"
+}

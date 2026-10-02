@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha ameʼéta pyʼaguapy ⟨pe⟩ yvýpe, ha pekesa ha ndaipóri ombotytýva; ha aheja mboguepaita mbaʼe iva mymba ⟨pe⟩ yvy gui, ha kyse guasu nahániri ohasamoʼãi peẽ yvýpe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ha ameʼéta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "ha pekesa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ombotytýva"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ha aheja mboguepaita"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaʼe iva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy gui"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ha kyse guasu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ohasamoʼãi"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "peẽ yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:05:22.979913202Z",
+  "model": "glm-5.3"
+}

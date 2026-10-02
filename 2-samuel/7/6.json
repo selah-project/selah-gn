@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Térã che ndaikói óga-pe, ára ahupi rireguive ⟨את⟩ Jisrael raʼykuéra Mitsraim-gui, ko ára peve, ha aiko aikundaháva toldo-pe ha Michkan-pe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Térã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aikói"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "óga-pe"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "áraguíve"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ahupi rireguive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael raʼykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ha aiko"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "aikundaháva"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "toldo-pe"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "ha Michkan-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:00:22.003239954Z",
+  "model": "glm-5.3"
+}

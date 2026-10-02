@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Peteĩteĩva oñemombaʼe vaʼerã isýre ha itúvare, ha ⟨את⟩ che Chabat-kuéra peñangareko; che aí Jahve, pe Elohim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩva"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isýre"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ha itúvare"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "oñemombaʼe vaʼerã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "che Chabat-kuéra"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "che Chabat-kuéra"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:48:36.020793223Z",
+  "model": "glm-5.3"
+}

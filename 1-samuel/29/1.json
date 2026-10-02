@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha umi Pelishti oñembyaty ⟨את⟩ opaite iñorairõ atykuéra Afek-pe, ha Jisrael oñemohenda peteĩ ysyry rembeʼýpe, pe oĩva Jizreʼel-pe.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "umi Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite iñorairõ atykuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "iñorairõ atykuéra"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afek-pe"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ha Jisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ysyry rembeʼýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe oĩva"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizreʼel-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:00:16.139085756Z",
+  "model": "glm-5.3"
+}

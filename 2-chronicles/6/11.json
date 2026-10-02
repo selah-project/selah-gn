@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha amoĩ upépe ⟨את⟩ arón, upépe oĩva Jahve ñeʼẽmeʼẽ, oity vaʼekue Jisrael taʼýrakuéra ndive.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "amoĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arón"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oity vaʼekue"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "oity"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýrakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T18:20:20.730745349Z",
+  "model": "glm-5.3"
+}

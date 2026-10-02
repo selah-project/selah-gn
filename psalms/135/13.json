@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Jahve, nde réra opyta opaʼã aja; Jahve, nde manduʼa ñemoñarépe ha ñemoñarépe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opyta opaʼã aja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "nde manduʼa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ñemoñarépe"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ha ñemoñarépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:01.829043513Z",
+  "model": "glm-5.3"
+}

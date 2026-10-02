@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ani peʼe Gat-pe; ani peñasãi; Bet Le-Afra-pe, che jepe añeno yvýre.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gat-pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "peʼe"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "peñasãi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "peñasãi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Le-Afra-pe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "yvýre"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "che jepe añeno"
+    }
+  ],
+  "timestamp": "2026-10-02T15:02:42.688491227Z",
+  "model": "glm-5.3"
+}

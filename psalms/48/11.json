@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 48,
+  "translation": "Nde réra ichagua, Elohim, upéicha nde jeguaka yvy rembeʼýpe peve; tsedek omyenyhẽ nde po akatúa.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Nde réra ichagua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "nde jeguaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "rembeʼýpe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "omyenyhẽ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nde po akatúa"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:13.373904708Z",
+  "model": "glm-5.3"
+}

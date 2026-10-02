@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Ohenói cherehe ha ambohovái chupe; che aháta hendyrumi apysyry aja, aipe'a chupe ha añemeʼẽ porã chupe.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Ohenói cherehe"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ha ambohovái chupe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendyrumi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "apysyry aja"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "aipe'a chupe"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ha añemeʼẽ porã chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:29.397155663Z",
+  "model": "glm-5.3"
+}

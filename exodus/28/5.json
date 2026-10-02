@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha umi ogueru ⟨את⟩ kuarepoti, ⟨את⟩ tekelet, ⟨את⟩ argaman, ⟨את⟩ tolaat chani ha ⟨את⟩ chesh.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ha umi"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "tekelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "tolaat chani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "chani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "chesh"
+    },
+    {
+      "surface": "השש",
+      "gloss": "chesh"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:17.439331542Z",
+  "model": "glm-5.3"
+}

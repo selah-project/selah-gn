@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 67,
+  "translation": "Omomba'e ⟨את⟩ Elohim rehe umi avano'õ; omomba'e umi avano'õ opaite.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "omomba'e"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umi avano'õ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "omomba'e"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umi avano'õ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opaite"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:26.650838816Z",
+  "model": "glm-5.3"
+}

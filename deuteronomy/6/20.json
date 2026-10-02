@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Oĩrõ arakaʼe nde memby oporandu ndeve, heʼívo: Mbaʼetépa koʼã jeʼau, teko ypykuakuéra ha hekojojaha, Jahve — ore Elohim — omboaje vaʼekue ⟨את⟩ peẽme?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "oĩrõ arakaʼe"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "oporandu ndeve"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde memby"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "arakaʼe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼetépa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "jeʼau"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "teko ypykuakuéra"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omboaje vaʼekue"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omboaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽme",
+      "marks": "peẽme (2ª pl.)"
+    }
+  ],
+  "timestamp": "2026-10-02T09:50:09.371039694Z",
+  "model": "glm-5.3"
+}

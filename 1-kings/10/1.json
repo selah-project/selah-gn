@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Sheva kuñakarai guasu ohendu ⟨את⟩ Shlomo jehasa — Jahve rérape — ha ou oñeha'ã hag̃ua ichupe porandu sarandy ndive.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "ha kuñakarai guasu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomo jehasa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "jehasa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "réra reheve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "oñeha'ã hag̃ua ichupe"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "porandu sarandy ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:46:15.675631145Z",
+  "model": "glm-5.3"
+}

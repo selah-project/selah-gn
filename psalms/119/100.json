@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Karuai kuéra reheguágui che añandukuaave, nde ñangarekoha kuéra ningo che moñangareko vaʼekue.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "karuai kuéra reheguágui"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "che añandukuaave"
+    },
+    {
+      "surface": "כי",
+      "gloss": ","
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "nde ñangarekoha kuéra"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "che moñangareko vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:06.490865173Z",
+  "model": "glm-5.3"
+}

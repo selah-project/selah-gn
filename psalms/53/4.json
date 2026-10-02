@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 53,
+  "translation": "Opaite ovy'arei hikuái, oñondive oñembyai; ndaipóri ojapóva mba'e porã, ndaipóri avei peteĩña.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ovy'arei hikuái"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "oñondive"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mba'e porã"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩña"
+    }
+  ],
+  "timestamp": "2026-10-02T15:49:06.262698789Z",
+  "model": "glm-5.3"
+}

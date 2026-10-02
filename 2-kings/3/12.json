@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Jehochaphat he'i: Jahve ñe'ẽ ⟨is⟩ oĩ ⟨את⟩ ichupe. Upévare, Jisrael mburuvicha ha Jehochaphat ha Edom mburuvicha oguejy hikuái ichupe gotyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehochaphat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñe'ẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "oguejy hikuái"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ichupe gotyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Jehochaphat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T12:01:38.553451267Z",
+  "model": "glm-5.3"
+}

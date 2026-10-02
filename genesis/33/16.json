@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha upéramo, upeteĩ árape, Esav ojevy iñe'ẽ rape Seir gotyo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upeteĩ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "iñe'ẽ rape"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Seir gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:50:58.718649580Z",
+  "model": "glm-5.3"
+}

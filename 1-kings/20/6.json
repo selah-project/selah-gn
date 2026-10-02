@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Katu koʼẽrõ, ko arange, che amondóta ⟨את⟩ che mbokuaviʼíva ndeve, ha ohekáta ⟨את⟩ nde óga ha ⟨את⟩ umi óga nde mbokuaviʼívagui; ha oĩta opa mbaʼe nde resápe iporãva, omoĩta ipo apytépe ha ogueráta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ko arange"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "koʼẽrõ"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "che amondóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che mbokuaviʼíva"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che mbokuaviʼíva"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "ha ohekáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde óga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde óga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi óga"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "umi óga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mbokuaviʼívagui"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ha oĩta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "mbaʼe iporãva"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "nde resápe"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "omoĩta"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ipo apytépe"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ha ogueráta"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:54.960852085Z",
+  "model": "glm-5.3"
+}

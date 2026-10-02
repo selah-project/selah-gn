@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upe rire, mburuvichavusu Shelomo ohayhu kuña okaraháigua heta, ha ⟨את⟩ Paroh rajýi, Moav-gua, Amon-gua, Edom-gua, Tsidon-gua, Hiti-gua.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mburuvichavusu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "okaraháigua"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh rajýi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "rajýi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moav-gua"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amon-gua"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edom-gua"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidon-gua"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hiti-gua"
+    }
+  ],
+  "timestamp": "2026-10-02T11:52:12.441383529Z",
+  "model": "glm-5.3"
+}

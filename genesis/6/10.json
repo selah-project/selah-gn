@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Noe renói mbohapy raʼýpe: ⟨את⟩ Chem, ⟨את⟩ Cham ha ⟨את⟩ Jafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "renói"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:22.393603371Z",
+  "model": "glm-5.3"
+}

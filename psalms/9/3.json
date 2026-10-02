@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ajoviaséta ha ahetaveʼéta nde rehe; apurahéita nde réra, Elyón.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ajoviaséta"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "ahetaveʼéta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "apurahéita"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyón"
+    }
+  ],
+  "timestamp": "2026-10-02T15:31:25.181166428Z",
+  "model": "glm-5.3"
+}

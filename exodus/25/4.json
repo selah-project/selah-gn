@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Hovy asu? hovyũ, pyta yoʼiguáva, mandyju porã ha kavara rague.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "hovy asu?"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "hovyũ"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "pyta yoʼiguáva"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pyta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mandyju porã"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "kavara rague"
+    }
+  ],
+  "timestamp": "2026-10-02T08:28:02.727090189Z",
+  "model": "glm-5.3"
+}

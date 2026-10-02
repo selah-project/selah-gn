@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Avram oiko Kenaan retãme, ha Lot oiko kuru távakuéra apytépe, ha omoĩ itenda Sedom peve.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ha Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "távakuéra apytépe"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "omoĩ itenda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:36.781165695Z",
+  "model": "glm-5.3"
+}

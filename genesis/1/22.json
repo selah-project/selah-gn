@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim omoñemuarã ⟨את⟩ chupekuéra heʼivo: Peñemuña ha peheta, ha pehenyhẽ ⟨את⟩ umi y yguasúpe, ha taguato jetypyru yvýpe.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "omoñemuarã"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chupekuéra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼivo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Peñemuña"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "peheta"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "pehenyhẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi y"
+    },
+    {
+      "surface": "המים",
+      "gloss": "umi y"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "yguasúpe"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ha taguato"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "jetypyru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:14.577872953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Opuʼãva poʼã ⟨haʼe⟩ taváva ipuʼakáva; ha umi imboriahu añuetéva ñehundi haʼe hikuái iñambiahu.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "poʼã"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "opuʼãva"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "taváva"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ñehundi"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "umi imboriahu añuetéva"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "iñambiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:32:00.768075800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Eñesãi, che py'aguasu; eñesãi, nevel ha kinor: amoñesãita ko'ẽ.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "eñesãi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "che py'aguasu"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "eñesãi"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ha kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "amoñesãita"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ko'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:37.151340826Z",
+  "model": "glm-5.3"
+}

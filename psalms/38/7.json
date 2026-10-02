@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Añakarãi, añembyahýi hetaite peve; opaite árape amomorõmbýpe aguata.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Añakarãi"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "añembyahýi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "amomorõmbýpe"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aguata"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:29.303537912Z",
+  "model": "glm-5.3"
+}

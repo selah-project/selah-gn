@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha Iyov oikove upéi rire sa ha irundy pa ary, ohecha ⟨את⟩ i memby kuimbaʼe ha ⟨את⟩ umi memby raʼy — irundy ñemoñare.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Ha oikove"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "upéi rire"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "upéi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ha irundy pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i memby kuimbaʼe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i memby kuimbaʼe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi memby raʼy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby raʼy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i memby raʼy"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-02T17:09:01.079755735Z",
+  "model": "glm-5.3"
+}

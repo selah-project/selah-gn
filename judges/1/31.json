@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Acher ndoipeʼái ⟨את⟩ umi oikóva Akko-pe, ni ⟨את⟩ umi oikóva Tsidon-pe, ni ⟨את⟩ Ajlab, ni ⟨את⟩ Akziv, ni ⟨את⟩ Jelva, ni ⟨את⟩ Afek, ni ⟨את⟩ Rejov.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Acher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndoipeʼái"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ndoipeʼái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi oikóva Akko-pe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "umi oikóva"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "Akko-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi oikóva Tsidon-pe"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "umi oikóva"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon-pe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajlab"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Ajlab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akziv"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akziv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jelva"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Jelva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rejov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rejov"
+    }
+  ],
+  "timestamp": "2026-10-02T10:32:36.162972123Z",
+  "model": "glm-5.3"
+}

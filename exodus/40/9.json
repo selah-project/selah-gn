@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha egueru ⟨את⟩ ñandy ñeñohẽha, ha eñohẽ ⟨את⟩ Michkan ha ⟨את⟩ opa mba'e oĩva ipype; ha emomba'e marangatu ⟨את⟩ chupe ha ⟨את⟩ opa iñembokatuaha, ha opytáta marangatu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñandy ñeñohẽha"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ñandy"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ñeñohẽha"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "eñohẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa mba'e oĩva ipype"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e oĩva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "emomba'e marangatu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa iñembokatuaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iñembokatuaha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "opytáta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:42.629239886Z",
+  "model": "glm-5.3"
+}

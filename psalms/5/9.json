@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Jahve, eneŋorairõme cherehe nde tsedek rehe, che ñorãirõhárakuéra reheguáicha; emboja nde tape che renondépe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "eneŋorairõme cherehe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nde tsedek rehe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "reheguáicha"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "che ñorãirõhárakuéra"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "emboja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nde tape"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:11.495121007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Che ipuʼaka — nendive añangarekóta, tavéi Elohim ⟨haʼe⟩ che moirũha.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "che ipuʼaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nendive"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "añangarekóta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tavéi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "che moirũha"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:16.743108309Z",
+  "model": "glm-5.3"
+}

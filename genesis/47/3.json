@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Ha Paroh he'i joyke'ykuéra pe: mba'e mba'apo pende? Ha he'ẽ hikuái Paroh pe: nde tembiguáikuéra ⟨ha'e⟩ rakuã ñangarekohára, ore avei, ore ruvakuéra avei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "joyke'ykuéra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "pende mba'apo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'ẽ hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ñangarekohára"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "rakuã"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde tembiguáikuéra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ore"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ore ruvakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:05:53.875540465Z",
+  "model": "glm-5.3"
+}

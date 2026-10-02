@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Omeʼẽ yrypyʼa ojuehe guembepy ári; piru ojuehe lavyryrýicha oipysyrõ henyhẽ hag̃ua.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "yrypyʼa"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ojuehe guembepy ári"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "piru"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "ojuehe lavyryrýicha"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "oipysyrõ henyhẽ hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:51.503685860Z",
+  "model": "glm-5.3"
+}

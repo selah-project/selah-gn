@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha upéicha ojapo opaite hembireko pytagua kuéra rehe g̃uarã, ombotyvyry ha ombojopói hikuái imbaʼerã tupãnguéra rehe.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ha upéicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hembireko kuéra"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "pytagua"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "ombotyvyry hikuái"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "ha ombojopói hikuái"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "tupãnguéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:30.632257859Z",
+  "model": "glm-5.3"
+}

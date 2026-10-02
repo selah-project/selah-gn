@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Paroh omondo ohecha hag̃ua, ha katu — ndomanói peteĩ ave Jisrael mymba jueheguágui; ha Paroh apy'a ojueheguapy, ha ndomondivéi ⟨את⟩ ⟨pe⟩ tavayguakuéra.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha katu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndomanói"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mano"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "mymba jueheguágui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ave"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "ojueheguapy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "apy'a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mondivéi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavayguakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:38.779453497Z",
+  "model": "glm-5.3"
+}

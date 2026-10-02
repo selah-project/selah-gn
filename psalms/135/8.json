@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Pe omondyíva Mitsraim kuimba'e ra'ýra tenondeguáva, yvypóra guive mymba peve.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "pe omondyíva"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "kuimba'e ra'ýra tenondeguáva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "yvypóra guive"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…peve"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mymba"
+    }
+  ],
+  "timestamp": "2026-10-02T16:20:17.949131133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Che kanguekuéra opavave ohechaukáta: Jahve, mávapa nde rekópe ojokóiva? Oñemoʼãva oimbeʼýva ipuʼakapýva ipógui, ha oimbeʼýva ha oikotevẽva omondahávagui.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "che kanguekuéra"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ohechaukáta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nde rekópe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "oñemoʼãva"
+    },
+    {
+      "surface": "עני",
+      "gloss": "oimbeʼýva"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ipuʼakapýva"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ipógui"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ha oimbeʼýva"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ha oikotevẽva"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "omondahávagui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:21.885522766Z",
+  "model": "glm-5.3"
+}

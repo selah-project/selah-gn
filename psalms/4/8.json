@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Nde reme'ẽ vy'a che py'ape, hetaiterei hetave ojehetaha rire hikuái itaty ha ikaguy.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Nde reme'ẽ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vy'a"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "che py'ape"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "hetaiterei hetave... rire"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "itaty"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ha ikaguy"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ojehetaha rire hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:22.493472472Z",
+  "model": "glm-5.3"
+}

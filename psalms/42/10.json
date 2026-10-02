@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ahe'ãta El, che itápe: mba'érepa che rei? Mba'érepa aguata vy'ave'ỹre che ñorairõhára jekutu rupive?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ahe'ãta"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "che itápe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mba'érepa"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "che rei"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mba'érepa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "vy'ave'ỹre"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aguata"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "jekutu rupive"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "che ñorairõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:05.898203596Z",
+  "model": "glm-5.3"
+}

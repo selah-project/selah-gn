@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Umi ipo kirirĩva ha iñapytuʼũ marangatuva, ndoipeʼaiva iña ⟨⟨נפש⟩⟩ mbaʼe vai japyhapyrépe, ha ndojurureiha ijapopeʼỹre.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "kirirĩva"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ha marangatuva"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "iñapytuʼũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…iva"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ndoipeʼaiva"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "mbaʼe vai japyhapyrépe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "iña"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo…ha"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ndojurureiha"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ijapopeʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T19:19:57.614981284Z",
+  "model": "glm-5.3"
+}

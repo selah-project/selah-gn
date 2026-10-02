@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ohecha ⟨את⟩ tesapé, iporãha haguére; ha Elohim ojesareko tesapé ha pytũ apytépe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ha Elohim ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tesapé"
+    },
+    {
+      "surface": "האור",
+      "gloss": "tesapé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãha"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ojesareko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "האור",
+      "gloss": "tesapé"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha pytũ"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "pytũ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:34.829780209Z",
+  "model": "glm-5.3"
+}

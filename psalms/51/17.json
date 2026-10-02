@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Adonai, eñepyrũ ne rembiapo che juru rovakepe: reipe'a che yarikakuaa; ha che juruai omoañete ta'ãngatu nde rehegua. ⟨את⟩ Che juru reipe'a: che juruai oñemoañete ne ta'ãngatu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "che yarikakuaa"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "reipe'a"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ha che juruai"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "oñemoañete"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ne ta'ãngatu"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:51.965731136Z",
+  "model": "glm-5.3"
+}

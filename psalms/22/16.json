@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Che pu'aka okuere joguao ryreícha, ha che ñeʼẽ oñemboja che tenguápe; ha remoĩ cherehe ⟨yvype⟩ manóva túime.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "okuere"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "joguao ryreícha"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "che pu'aka"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ha che ñeʼẽ"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "che tenguápe"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ha yvy túime"
+    },
+    {
+      "surface": "מות",
+      "gloss": "manóva"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "remoĩ cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:21:37.090410624Z",
+  "model": "glm-5.3"
+}

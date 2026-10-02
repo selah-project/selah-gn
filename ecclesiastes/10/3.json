@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha avei, tape rupi oguata jave pe javero, ikorasõ oĩ mba'erepy'ỹre, ha he'i opavavépe haʼeha javero.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape rupi"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "javero jave"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ikorasõ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "oĩ mba'erepy'ỹre"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opavavépe"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "javero"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼeha"
+    }
+  ],
+  "timestamp": "2026-10-02T17:22:53.232341621Z",
+  "model": "glm-5.3"
+}

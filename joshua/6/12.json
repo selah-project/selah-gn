@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Jehochua oñemosãi ko'ẽmboyve, ha pa'ikuéra ohupi ⟨את⟩ arón Jahve.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "oñemosãi ko'ẽmboyve"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ko'ẽme"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arón Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:17:37.377988042Z",
+  "model": "glm-5.3"
+}

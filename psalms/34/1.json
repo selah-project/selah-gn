@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "David rembiapokue, oñemoambuévo ⟨את⟩ ijeja Avimelej renondépe, ha kóva omondyi chupe, ha ohóvo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapokue"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "oñemoambuévo ijeja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijeja"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ijeja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelej"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ha kóva omondyi chupe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ha ohóvo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:57.121860152Z",
+  "model": "glm-5.3"
+}

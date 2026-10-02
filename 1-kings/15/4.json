@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha'eháicha, David rehegua, Jahve, iñElohim, ome'ẽ chupe peteĩ mba'erendy Jerusalaim-pe, omopyenda hag̃ua ⟨את⟩ irũta'ýra iheguírõ, ha omopyenda hag̃ua ⟨את⟩ Jerusalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha'eháicha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iñElohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "mba'erendy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "omopyenda hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irũta'ýra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "irũta'ýra"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "iheguírõ"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "ha omopyenda hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T19:04:16.618691371Z",
+  "model": "glm-5.3"
+}

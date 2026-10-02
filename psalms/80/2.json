@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Eñuhẽ nde apysa, Jisrael ñangarekohára; Yosef ovechakuéraicha ogueraháva, kerubim ári oĩva, ehesakã.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "ñangarekohára"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "eñuhẽ nde apysa"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ogueraháva"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ovechakuéraicha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubim ári"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "ehesakã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:54.165092968Z",
+  "model": "glm-5.3"
+}

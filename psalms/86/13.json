@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 86,
+  "translation": "Nde hesed guasuitere che rehe, ha nde oipe'a ⟨את⟩ che tekove Cheol iguýgui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tekorã"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasuitere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ha nde oipe'a"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che tekove"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Cheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "iguýgui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:19.221636820Z",
+  "model": "glm-5.3"
+}

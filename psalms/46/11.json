@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "translation": "Emombaʼeguíke ha eikuaa che haʼeha Elohim; ahupyty ypyaguasu tetãnguéra apytépe, ahupyty ypyaguasu ⟨the⟩ yvy ape ári.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Emombaʼeguíke"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ha eikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che haʼeha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ahupyty ypyaguasu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tetãnguéra apytépe"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ahupyty ypyaguasu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:02.085446617Z",
+  "model": "glm-5.3"
+}

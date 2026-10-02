@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ovevéta umi Pelishtim asakuéra ári, para gotyo; oñondive omonombaʼéta ⟨את⟩ umi Kedem ñemoñare; oipeʼáta ipo Edom ha Moav ári, ha umi Amón ñemoñare ohechakuaáta chupekuéra.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "ovevéta"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "asakuéra ári"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "para gotyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "oñondive"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "omonombaʼéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Kedem ñemoñare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "ha Moav"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "oipeʼáta ipo... ári"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha umi ... ñemoñare"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "ohechakuaáta chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:33:41.047849539Z",
+  "model": "glm-5.3"
+}

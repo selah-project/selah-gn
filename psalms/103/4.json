@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Haʼe omoñemihã nde reko yvy guaʼũgui, ha omoĩ nde ári hesed ha ñakãrapuʼã pehẽnguemu.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "omoñemihã nde reko"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "yvy guaʼũgui"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "nde reko"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "omoĩ nde ári"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ñakãrapuʼã pehẽnguemu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:19.203937269Z",
+  "model": "glm-5.3"
+}

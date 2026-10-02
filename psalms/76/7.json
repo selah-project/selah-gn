@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 76,
+  "translation": "Ne ñeʼẽ ryguasu oĩ vove, Elohim Jaakov pegua, karru ha kavaju oñemongey.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "ne ñeʼẽ ryguasu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim pegua"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "oñemongey"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ha karru"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ha kavaju"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:18.079462778Z",
+  "model": "glm-5.3"
+}

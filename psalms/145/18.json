@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Oĩ pytu'uami Jahve opaite ohendúvape, opaite héra ohenóiva ichupe añetegua rehe.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Oĩ pytu'uami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "ohendúvape"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oha'ãñóva"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ohenóiva ichupe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "añetegua rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:49.150960320Z",
+  "model": "glm-5.3"
+}

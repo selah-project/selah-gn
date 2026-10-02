@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Nahániri péicha; eha na kuimbaʼekuéra año, ha emombaʼeguasu ⟨את⟩ Jahve, upévape peẽ rekahína. Ha omonoʼõ ⟨את⟩ chuguakuéra Parao renondépe guive.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nahániri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "kuimbaʼekuéra"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ha emombaʼeguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévape"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "rekahína"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "Ha omonoʼõ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chuguakuéra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ … guive"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:05.865498510Z",
+  "model": "glm-5.3"
+}

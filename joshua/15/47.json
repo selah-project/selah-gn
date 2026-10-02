@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "joshua 15:47",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Achdod, imbaʼekuéra ha itavakuéra; Aza, imbaʼekuéra ha itavakuéra; Mitsraim ykuʼi peve; ha paraguasu guasu ha ⟨pe⟩ jeréreko.",
+  "tokens": [
+    {
+      "surface": "אשדוד",
+      "gloss": "Achdod"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "imbaʼekuéra"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "ha itavakuéra"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "imbaʼekuéra"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "ha itavakuéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ykuʼi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ha paraguasu guasu"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "⟨pe⟩ jeréreko"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "ha jeréreko"
+    }
+  ],
+  "timestamp": "2026-10-02T10:27:08.186034930Z",
+  "model": "glm-5.3"
+}

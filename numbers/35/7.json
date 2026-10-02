@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Opaite táva peeme'ẽta levítapekuérape: irundy pa poapy tavusu — ⟨את⟩ umívape ha ⟨את⟩ ijere yvykuéra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peeme'ẽta haguã"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "peeme'ẽta"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levítapekuérape"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundy pa"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ha poapy"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tavusu"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "umívape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijere yvykuéra"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ijere yvykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:44:16.089073359Z",
+  "model": "glm-5.3"
+}

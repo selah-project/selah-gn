@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Ha ko'ág̃a, ehendu, Jaakov, che tembiguái, ha Jisrael, ha'e che aiporavo hese.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha ko'ág̃a"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che tembiguái"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ha Jisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "che aiporavo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    }
+  ],
+  "timestamp": "2026-10-02T12:53:21.735344778Z",
+  "model": "glm-5.3"
+}

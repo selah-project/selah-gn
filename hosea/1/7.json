@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha ⟨את⟩ Jehuda roga che aporiahuverekóta, ha aiporãvéta chupekuéra Jahve, cheruvícha Elohim rupi — nahániri keshet rupi, nahániri téy-pe, nahániri ñorãirõ-me, nahániri kavaju-kuéra rupi, nahániri kavaju ári yvypóra-kuéra rupi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda roga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "aporiahuvereko"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "aiporãvéta chupekuéra"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve rupi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "cheruvícha Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "aisalvamo'ãi chupekuéra"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "keshet rupi"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "téy-pe"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ñorãirõ-me"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kavaju-kuéra rupi"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "kavaju-ári yvypóra-kuéra rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:35.164650534Z",
+  "model": "glm-5.3"
+}

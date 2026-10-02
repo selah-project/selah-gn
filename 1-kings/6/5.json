@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha oñemopuʼā ⟨את⟩ pe óga hoja renondépe peteĩ jepeʼa ijerére, ⟨את⟩ pe óga hojakuéra ijerére, heikálpe ha debírpe; ha ojapo ykeógakuéra ijerére.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "oñemopuʼā"
+    },
+    {
+      "surface": "על",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "hoja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "jepeʼa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe óga hojakuéra"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "hojakuéra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "heikálpe"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "ha debírpe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "ykeógakuéra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T11:43:25.139729689Z",
+  "model": "glm-5.3"
+}

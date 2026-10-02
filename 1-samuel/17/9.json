@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ikatu ramo oñorãirõ ⟨את⟩ che reheve ha ojuka chéve, roikóta peẽme angirũ ramo; ha che ikatúramo chupe ha ojuka chupe, peẽ ikóta ore angirũ ramo ha angirũta ⟨את⟩ ore reheve.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ikatu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che reheve",
+      "marks": "che reheve"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ha ojuka chéve"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "roikóta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "angirũ ramo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ikatúramo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "ha ojuka chupe"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "peẽ ikóta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ore"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "angirũ ramo"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ha angirũta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ore reheve",
+      "marks": "ore reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T11:06:29.725080087Z",
+  "model": "glm-5.3"
+}

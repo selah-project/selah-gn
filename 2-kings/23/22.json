@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Téra ndojapói Pésach koichagua umi hekojojahára ára guive — umíva ohekojoja ⟨את⟩ Jisrael — ha opaite mburuvichakuéra Jisrael ára, ha mburuvichakuéra Yehuda reheguávape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "téra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndojapói"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nojapói"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "Pésach jojaháicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ára guive"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "hekojojahakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ohekojoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "ha mburuvichakuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T12:21:53.328913613Z",
+  "model": "glm-5.3"
+}

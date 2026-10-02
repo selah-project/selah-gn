@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Pevare, mbaʼe Jahve ojekyhyjéva ⟨⟨⟩⟩opavavéva ojapóva koʼã mbaʼe; ha koʼã mbaʼe ojekyhyjéva rupive Jahve, nde Elohim, oka ⟨את⟩umi nde renondépegui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pevare"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "mbaʼe ojekyhyjéva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavéva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã mbaʼe"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "ha … rupive"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "mbaʼe ojekyhyjéva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "oka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩umi",
+      "marks": "nde renondépegui ojeikuaáva umi tetã"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nde renondépegui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:38.393296016Z",
+  "model": "glm-5.3"
+}

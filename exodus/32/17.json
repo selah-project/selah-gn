@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Jehochua ohendu ⟨את⟩ ⟨the⟩ tyapu ⟨the⟩ tavakuã ohecharamo jave, ha oñeʼẽ Moche rehe: Tyapu ñorãirõgua oĩ ⟨the⟩ kampohápe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyapu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tyapu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavakuã"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ohecharamo jave"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tyapu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kampohápe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:36.273741344Z",
+  "model": "glm-5.3"
+}

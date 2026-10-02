@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "David opa rire pe mbopiru mbaʼe ha pe pyʼaguapyrã mbaʼe ñemeʼẽ, omongarai ⟨את⟩ tavayguakuérape Jahve rérape.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "opa rire"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "pe ñemeʼẽ rire"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mbopiru mbaʼe"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "pyʼaguapyrã mbaʼe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "omongarai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavayguakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rérape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:09:19.161762480Z",
+  "model": "glm-5.3"
+}

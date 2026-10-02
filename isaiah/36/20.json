@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Mávapa oĩ umi Elohim apytépe ko'ã yvynguéra pegua osãso hague ⟨את⟩ iñyvy che pógui, Jahve osãso hag̃ua ⟨את⟩ Jerusalaim che pógui?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "umi apytépe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "yvynguéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko'ã ... pegua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "osãso hague"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "osãso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñyvy"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "iñyvy"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "che pógui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hag̃ua ... rã"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "osãso hag̃ua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "che pógui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:47:55.477428783Z",
+  "model": "glm-5.3"
+}

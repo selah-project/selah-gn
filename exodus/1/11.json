@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Upévare omoĩ hikuái ipýpe mbaʼerepy sopyry isãmbyahára ojoporavo hag̃ua chupe kyreʼỹ ndive; ha omopuʼã hikuái táva ñongatuha Paraó peg̃uarã: ⟨את⟩ Pitom ha ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "omoĩ hikuái"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ipýpe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "isãmbyahára"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "mbaʼerepy sopyry"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ojoporavo hag̃ua"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "kyreʼỹ ndive"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ha omopuʼã hikuái"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ñongatuha"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paraó peg̃uarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-10-02T18:43:40.975619279Z",
+  "model": "glm-5.3"
+}

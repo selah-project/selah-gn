@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 11:11",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha oikóta pe ára pe: Adonai oiporu jey mokõiha jey i po oguereko hag̃ua ⟨את⟩ toʼove i retãygua oĩvagui Ashur-gui, Mitsraim-gui, Patros-gui, Kuch-gui, Elam-gui, Chinar-gui, Chamat-gui, ha yguasu ypa-gui.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pe ára pe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "oiporu jey"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mokõiha jey"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i po"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "oguereko hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toʼove i retãygua"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "toʼove"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "i retãygua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "toʼove"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashur-gui"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "ומפתרוס",
+      "gloss": "Patros-gui"
+    },
+    {
+      "surface": "ומכוש",
+      "gloss": "Kuch-gui"
+    },
+    {
+      "surface": "ומעילם",
+      "gloss": "Elam-gui"
+    },
+    {
+      "surface": "ומשנער",
+      "gloss": "Chinar-gui"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "Chamat-gui"
+    },
+    {
+      "surface": "ומאיי",
+      "gloss": "ypa-gui"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T12:32:35.320783505Z",
+  "model": "glm-5.3"
+}

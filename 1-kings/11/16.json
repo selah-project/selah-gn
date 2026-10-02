@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Upévare poteĩ jasy Joav oiko upépe, ha opaite Jisrael, peve oipeʼopa opaite kuimbaʼe Edom-pe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "oipeʼopa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:49:47.887135442Z",
+  "model": "glm-5.3"
+}

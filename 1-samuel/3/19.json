@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Shemuel tuichave, ha Jahve oĩ hendive, ha noñembojái chupe opaite iñe'ẽnguéra yvy pe.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "tuichave"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha noñembojái"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "noñembojái"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "iñe'ẽnguéra"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvy pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:15.493580166Z",
+  "model": "glm-5.3"
+}

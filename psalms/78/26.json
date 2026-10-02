@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ogueraha yvate Pepo kuarahy resẽ gotyo, ha ipuʼakaitégui oguerojerure para ñemby Pepo.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "kuarahy resẽ Pepo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "oguerojerure"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "ipuʼakaitégui"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "para ñemby Pepo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:32.212246634Z",
+  "model": "glm-5.3"
+}

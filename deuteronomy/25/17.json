@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Eñamandu'a ⟨את⟩ mba'épa ojapo Amalek ndéve tape ári, peẽ osẽvo ku Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Eñamandu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'épa ojapo Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'épa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape ári"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "peẽ osẽvo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ku Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:04:19.202212550Z",
+  "model": "glm-5.3"
+}

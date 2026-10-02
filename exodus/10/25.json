@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Moche he'i: nde avei eme'êta ore pópe ñemongarai ha mba'e oñemondóva tatápe, jajapo hagua ⟨את⟩ Jahve-pe, ore Elohim-pe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "eme'êta"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ore pópe"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ñemongarai"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "ha mba'e oñemondóva tatápe"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "ha jajapo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:44:48.296331305Z",
+  "model": "glm-5.3"
+}

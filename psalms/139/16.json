@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 139,
+  "translation": "Nde resýpe ohecha che hekove'ỹrã gueteri; ha nde kuatiañeʼẽme opaite ojehai, umi ára ojejapo haguépe gueteri, ha peteĩnte ndoikóiva hikuái upépe gueteri.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "che hekove'ỹrã"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "nde resýpe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "(nde kuatiañeʼẽme)"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "nde kuatiañeʼẽme"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ojehai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ojejapo haguépe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha... gueteri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩnte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:54.421666812Z",
+  "model": "glm-5.3"
+}

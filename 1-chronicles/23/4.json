@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Kóvagui, Jahve óga mbaʼapópe ñangarekoháramo, mokõipa irundy su; ha mbaʼaporendahára ha tekojojakuaahára, poteĩ su.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Kóvagui"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ñangarekoháramo"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mbaʼapo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "mbaʼaporendahára"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "tekojojakuaahára"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-02T18:14:04.859877691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Ha ⟨את⟩ umi tavayguakuéra ohasa ⟨את⟩ umi távape, peteĩ Mitsraim rembeʼy vore guive pe ambue vore peve.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi tavayguakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavayguakuéra"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umi távape"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "umi távape"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "peteĩ vore guive"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rembeʼy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "pe ambue vore"
+    }
+  ],
+  "timestamp": "2026-10-02T08:05:21.046668210Z",
+  "model": "glm-5.3"
+}

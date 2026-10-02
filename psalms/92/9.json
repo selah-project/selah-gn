@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 92,
+  "translation": "Ha nde, Jahve, reime ⟨yvatevépe⟩ opa ára pukukue.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yvatevépe"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "opa ára pukukue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:28.125838960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ogueru chupe ha oguahẽ isýpe, ha okaraʼi isypy ári asaje peve, ha omano.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ogueru chupe"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "oguahẽ chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isýpe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "okaraʼi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "isypy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "asaje"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-02T12:04:38.703941113Z",
+  "model": "glm-5.3"
+}

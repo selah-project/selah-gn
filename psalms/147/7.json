@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 147,
+  "translation": "Epurahéi Jahve-pe aguyje reheve; epurahéi ñande Elohim-pe kenor ndive.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Epurahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "aguyje reheve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "epurahéi"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ñande Elohim-pe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kenor ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:21.057029326Z",
+  "model": "glm-5.3"
+}

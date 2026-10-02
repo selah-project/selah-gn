@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Paroh tembiguaikuéra he'i chupe: «Mboy ára peve ko kuimba'e oikóta orévape trampa ramo? Emondo ⟨את⟩ umi kuimba'e, omba'apo haguã ⟨את⟩ Jahve rehe, Elohim-pe; ndereikuaa gueteri pa Mitsraim oñembyaima hague?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tembiguaikuéra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mboy ára"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko kuimba'e"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "orévape"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "trampa ramo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "emondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kuimba'e"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimba'e"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "omba'apo haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:41.669506871Z",
+  "model": "glm-5.3"
+}

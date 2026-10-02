@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha ombo'o ⟨את⟩ opaite ojejuhúva Jerusalaimpe ha Viniaminpe tojapo upéva; ha umi Jerusalaimpe ikerekuaraháva ojapo Elohim ñe'ẽme'ẽicha — itúvakueguéra Elohim pegua.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ombo'o tojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ojejuhúva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ojejuhúva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaimpe"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ha Viniaminpe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "umi ikerekuaraháva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaimpe"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "ñe'ẽme'ẽicha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim pegua"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "itúvakueguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:39:48.129612239Z",
+  "model": "glm-5.3"
+}

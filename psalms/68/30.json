@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Nde óga guasu ári Jerusalaim-pe, nde-rehe mburuvichakuéra ogueraháta jopói.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "nde óga guasu guive"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde-rehe"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "שי",
+      "gloss": "jopói"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:39.211966112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Ha Jisrael membykuéra ojekarasẽ ⟨את⟩ Moche rehe Moav ñu guasúpe, mbohapy pa ára; upéi opa umi ára ojekarasẽ ha oñembyasýhápe Moche rehe.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "Ha ojekarasẽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ñu guasúpe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapy pa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ojekarasẽ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "oñembyasýhápe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:14:06.589498234Z",
+  "model": "glm-5.3"
+}

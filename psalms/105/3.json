@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Eñemombaʼe héra marangatu rehe; vyʼáta ⟨pe⟩ korasõ oguerohyvéva Jahve.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "eñemombaʼe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "héra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יִשמח",
+      "gloss": "vyʼáta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "korasõ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "oguerohyvéva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:42.069988174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha osẽ oñorãirõ Pelichtim rehe, ha omboguete ⟨את⟩ Gat itára, ⟨את⟩ Ivne itára ha ⟨את⟩ Achdod itára; ha omopuʼã táva Achdod-pe ha Pelichtim apytépe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelichtim rehe"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "omboguete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat itára"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "itára"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ivne itára"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "itára"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Ivne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Achdod itára"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "itára"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Achdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "omopuʼã"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Achdod-pe"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "Pelichtim apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:31:39.642383297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Reaja, Shoval raʼýku, omombaʼapó ⟨את⟩ Jajat; ha Jajat omombaʼapó ⟨את⟩ Ajumai ha ⟨את⟩ Laad. Umíva ⟨н.debian⟩ ⟨are⟩ צרעתי-yguákuéra ógaóraite (mishpajot).",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Ha Reaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýku"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omombaʼapó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jajat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jajat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ha Jajat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "omombaʼapó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ajumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Laad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Laad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Umíva"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ógaóraite (mishpajot)"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Tseraʼat-yguákuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T18:03:00.389666380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "David ha ikuimba'ekuéra ou távape, ha ningo táva ojemondyi tataĩme; hikuái kuñakuéra, ta'ýrakuéra ha tajýrakuéra ojepekariahy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ha ikuimba'ekuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha ningo"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "ojemondyi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tataĩme"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ikuñakuéra"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ita'ýrakuéra"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "itajýrakuéra"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ojepekariahy"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:56.258108499Z",
+  "model": "glm-5.3"
+}

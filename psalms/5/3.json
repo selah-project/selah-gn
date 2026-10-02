@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ehendu che tapiai ryapu, che mburuvicha ha che Elohim, ha'e ningo ndeve añembo'e.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ryapu"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "che tapiai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "che mburuvicha"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ha che Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'e ningo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "añembo'e"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:26.496752211Z",
+  "model": "glm-5.3"
+}

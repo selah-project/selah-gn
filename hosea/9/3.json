@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ndaikatúta oiko Jahve retãme; Efráim ojevyta Mitsraim-pe, ha Achur-pe omanombaʼýva hoʼuta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndaikatúta"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ojevyta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ha Achur-pe"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "omanombaʼýva"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hoʼuta"
+    }
+  ],
+  "timestamp": "2026-10-02T14:49:55.480767824Z",
+  "model": "glm-5.3"
+}

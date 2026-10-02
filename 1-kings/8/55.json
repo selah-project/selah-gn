@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha opuʼã, ha omeʼẽ bendisión ⟨את⟩ opaite Jisrael atýpe, hendýpe tuicha, heʼi haguã:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ha opuʼã"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ha omeʼẽ bendisión"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Jisrael aty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hendýpe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi haguã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:47:33.754882255Z",
+  "model": "glm-5.3"
+}

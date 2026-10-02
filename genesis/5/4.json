@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Adam arakuéra ou rire iñakarape ⟨את⟩ Chet, poapy sa ary; ha ou iñakarape umi mitãkuimbaʼe ha mitãkuña.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "arakuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ou rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "iñakarape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "poapy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ha ou iñakarape"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mitãkuimbaʼe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha mitãkuña"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:40.847016469Z",
+  "model": "glm-5.3"
+}

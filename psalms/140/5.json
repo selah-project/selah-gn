@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Eñemongakuaa cherehe, Jahve, ivai pókuéra gui; eñangareko cherehe mba'evai'ỹ ha'etéva kuimba'e gui, umi oñemoĩva oiñepyrũmoĩ hag̃ua ombogue hag̃ua che jeguatakuéra.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "eñemongakuaa cherehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "pókuéra gui"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ivai"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuimba'e gui"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "mba'evai'ỹ ha'etéva"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "eñangareko cherehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi oñemoĩva"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "oiñepyrũmoĩ"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "ombogue hag̃ua"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "che jeguatakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:46.305069403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha pe mburuvicha omondo, ha oñembyaty hese opaite tuja kuéra Jehuda ha Jerusalaim pegua.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ha oñembyaty"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tuja kuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ha Jerusalaim"
+    }
+  ],
+  "timestamp": "2026-10-02T12:23:47.376719638Z",
+  "model": "glm-5.3"
+}

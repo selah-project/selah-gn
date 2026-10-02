@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 5:1",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Opa pe tembiapo Shelomo ojapóva Jahve óga guarã oĩmba ára; ha Shelomo ogueru ⟨את⟩ David itúva mbaʼe marangatu — ⟨את⟩ kuʼi ha ⟨את⟩ itaju ha ⟨את⟩ opa umi mbaʼe ryru — omoĩ oporrãhápe Elohim óga ryepýpe.",
+  "tokens": [
+    {
+      "surface": "ותשלם",
+      "gloss": "oĩmba ára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa pe"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óga guarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David mbaʼe marangatu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mbaʼe marangatu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuʼi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuʼi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itaju"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa umi mbaʼe ryru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "umi mbaʼe ryru"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "oporrãhápe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:21:20.583118985Z",
+  "model": "glm-5.3"
+}

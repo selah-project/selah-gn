@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Aikutu ⟨ñe'ẽme'ẽ⟩ che poravopyrére; che jure David che mba'apohárape.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "aikutu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨ñe'ẽme'ẽ⟩"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "che poravopyrére"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "che jure"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che mba'apohárape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:21.188157091Z",
+  "model": "glm-5.3"
+}

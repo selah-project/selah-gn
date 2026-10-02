@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 144,
+  "translation": "Embojera ne po yvágagui, esãso chéve ha eñemongakuaa chéve heta ysýi gui, umi tetãygua ndaijáiva po güi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "embojera"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "esãso chéve"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ha eñemongakuaa chéve"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ysýi gui"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po güi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umi … retãygua"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ndaijáiva tetãygua"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:46.587121521Z",
+  "model": "glm-5.3"
+}

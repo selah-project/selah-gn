@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Ojapo i maranduhára kuéra ruah ramo, i mbaʼaporãhára kuéra tata henondepegua ramo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "i maranduhára kuéra"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruah kuéra"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "i mbaʼaporãhára kuéra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "להט",
+      "gloss": "henondepegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:42.797369916Z",
+  "model": "glm-5.3"
+}

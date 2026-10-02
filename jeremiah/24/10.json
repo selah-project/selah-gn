@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha chemondóta chupekuéra ári ⟨את⟩ pe kyse guasu, ⟨את⟩ pe karaiʼu guasu ha ⟨את⟩ pe mbaʼasy okaráva, oñemonguʼe pevegui pe yvy, pe che ameʼẽvaʼekue chupekuéra ha itúvakuérape g̃uarã.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "chemondóta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chupekuéra ári"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kyse guasu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pe kyse guasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe karaiʼu guasu"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "pe karaiʼu guasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mbaʼasy okaráva"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe mbaʼasy okaráva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "oñemonguʼe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gui"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che ameʼẽvaʼekue"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "ha itúvakuérape g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T13:26:45.483218965Z",
+  "model": "glm-5.3"
+}

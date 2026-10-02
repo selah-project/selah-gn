@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Eñuhendu, ta'ỹi, ha ehecha, ehundi ne apysa; emongarasu ne avakuéra ha ne ru róga.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "eñuhendu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ta'ỹi"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ehundi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ne apysa"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "emongarasu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne avakuéra"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ha ne ru róga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ne ru"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:27.208265427Z",
+  "model": "glm-5.3"
+}

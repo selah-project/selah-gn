@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Efraim, Benjamin ha Manashe renondépe, embopuʼa ⟨את⟩ nde puʼaka, ha eju ñande jeypeʼa hag̃ua.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "Manashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "embopuʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde puʼaka"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "nde puʼaka"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ha eju"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "jeypeʼa hag̃ua"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:54.165264233Z",
+  "model": "glm-5.3"
+}

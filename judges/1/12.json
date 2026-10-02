@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Kalev heʼi: Pe ojukáva ⟨את⟩ Kiryat Sefer ha ogueraháva chupe, chupe che amomeʼẽta ⟨את⟩ Aksa, che rajy, iménarã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ojukáva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ha ogueraháva chupe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "che amomeʼẽta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "che rajy"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "iménarã"
+    }
+  ],
+  "timestamp": "2026-10-02T10:31:29.470950274Z",
+  "model": "glm-5.3"
+}

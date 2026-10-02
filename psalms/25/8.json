@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Iporã ha hekojoja Jahve ⟨haʼe⟩; upévare ohekombo'e jejavývape ⟨i⟩ tape pýpe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Iporã"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ha hekojoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "upéva rehe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ohekombo'e"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "jejavývape"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape pýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:52.702559933Z",
+  "model": "glm-5.3"
+}

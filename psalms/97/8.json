@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Oñehendúvo Sion ovyʼa, ha Jehuda kuñatakuéra ovyʼaiterei nde hekojojahakuéra rehe, Jahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "oñehendúvo"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ovyʼaiterei"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kuñatakuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "nde hekojojahakuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:44.666467499Z",
+  "model": "glm-5.3"
+}

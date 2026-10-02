@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Jahve ñeʼẽ og̃uahẽ vaʼekue Joél-pe, Petuél raʼýpe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼúva"
+    },
+    {
+      "surface": "היה",
+      "gloss": "og̃uahẽ vaʼekue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joél"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuél"
+    }
+  ],
+  "timestamp": "2026-10-02T14:50:24.397770006Z",
+  "model": "glm-5.3"
+}

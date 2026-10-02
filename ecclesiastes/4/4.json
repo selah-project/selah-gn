@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha che ahecha ⟨את⟩ opaite mbaʼapo asha, ha ⟨את⟩ opaite katupyry ojehechauka mbaʼapópe: haʼe pyʼavai peteĩ kuimbaʼe iñirũrãgui. Kóva avei haʼe hevel ha ñehaʼã ruah rehe.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ha ahecha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼapo asha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mbaʼapo asha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite katupyry"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "katupyry"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mbaʼapópe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼéicha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "pyʼavai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimbaʼe"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "iñirũrãgui"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ha ñehaʼã"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:48.659892027Z",
+  "model": "glm-5.3"
+}

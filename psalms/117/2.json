@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 117,
+  "translation": "Neʼĩrã pe hesed ijetuʼu ore rehe, ha Jahve iñeʼẽpaʼũ opaite ára pukukue. Pejapora Ja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neʼĩrã"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ijetuʼu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "pe hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ha iñeʼẽpaʼũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opaite ára pukukue"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pejapora"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:50.329417938Z",
+  "model": "glm-5.3"
+}

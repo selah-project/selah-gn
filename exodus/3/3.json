@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Moche heʼi: Ahasáva che, ahechasévo ⟨את⟩ ko mbaʼe tuichavéva, mbaʼérepa ndaipochyi pe sene?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Moche heʼi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Ahasáva"
+    },
+    {
+      "surface": "נא",
+      "gloss": "che"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ahechasévo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mbaʼe tuichavéva"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "mbaʼe tuichavéva"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "tuichavéva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipochyi"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ndaipochyi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "pe sene"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:29.000535997Z",
+  "model": "glm-5.3"
+}

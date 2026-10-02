@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Ehejuru che rehe, Elohim, nde hesed rehe; nde rekoasakatu hetaiterei rupi, eresa che jejavykuéra.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ehejuru che rehe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "nde hesed rehe"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "hetaiterei rupi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "nde rekoasakatu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "eresa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "che jejavykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:47:56.906439482Z",
+  "model": "glm-5.3"
+}

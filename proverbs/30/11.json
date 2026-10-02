@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Oĩ peteĩ ñemoñarare oñeʼẽ vai itúva rehe, ha ⟨את⟩ isý nahániri oñeʼẽ porã hese.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ñemoñarare"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "oñeʼẽ vai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isý"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isý"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "oñeʻẽ porã hese"
+    }
+  ],
+  "timestamp": "2026-10-02T16:43:36.181566454Z",
+  "model": "glm-5.3"
+}

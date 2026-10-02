@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Umi ombotaitĩva iñeʼẽ kuimbeʼýicha, omoĩva henda pype iñeʼẽ kyʼa — ñeʼẽ hũ vai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "ombotaitĩva"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "kuimbeʼýicha"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "omoĩva henda pype"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "hũ vai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:42.750056761Z",
+  "model": "glm-5.3"
+}

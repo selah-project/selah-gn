@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 85,
+  "translation": "Emet okyty yvy guive, ha tsedek ojesareko ohechaukávo yvágagui.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "emet"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvy guive"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "okyty"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ha tsedek"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "ojesareko ohechaukávo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:15.285271644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Che rekove ⟨⟩ che pópe opa ára, ha nde Tora na che mandu'ái.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "che pópe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "opa ára"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ha nde Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "che mandu'ái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:47.010209756Z",
+  "model": "glm-5.3"
+}

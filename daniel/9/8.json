@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Jahve, ñandéve rova vera, ore mburuvichakuérape, ore ruvichakuérape ha ore ypykuérape, jahaikuaavy haguére nderehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "vera"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "rova"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ore mburuvichakuérape"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ore ruvichakuérape"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ha ore ypykuérape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "jahaikuaavy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:38:43.146889045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha ⟨את⟩ Dedan, ha ⟨את⟩ Tema, ha ⟨את⟩ Buz, ha ⟨את⟩ opaite umi iñakã apysa ikapóva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite umi iñakã apysa ikapóva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "ikapóva"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "iñakã apysa"
+    }
+  ],
+  "timestamp": "2026-10-02T19:10:56.348169883Z",
+  "model": "glm-5.3"
+}

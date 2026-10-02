@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 110,
+  "translation": "Ysyrygui tape ári omboʼu; upévare omboýta ⟨e⟩ iñakã.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ysyrygui"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape ári"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "omboʼu"
+    },
+    {
+      "surface": "על",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "omboýta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iñakã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:34.992885075Z",
+  "model": "glm-5.3"
+}

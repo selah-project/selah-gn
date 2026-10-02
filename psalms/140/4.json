@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 140,
+  "translation": "Ombotĩ iñeʼẽ haim ramoguáicha; kanambiu mbaʼevarái oĩ iñeʼẽnguéra guýpe. Chela.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ombotĩ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ramoguáicha"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "haim"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mbaʼevarái"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "kanambiu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "iñeʼẽnguéra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:22.081705363Z",
+  "model": "glm-5.3"
+}

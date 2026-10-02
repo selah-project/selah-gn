@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Nda ⟨את⟩ peĩme añónte ndive: che aikyty ⟨את⟩ ko ñeʼẽmeʼẽ ha ⟨את⟩ ko turity.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peĩme"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "añónte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "aikyty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ko ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ko turity"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko turity"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:22.919989892Z",
+  "model": "glm-5.3"
+}

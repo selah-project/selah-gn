@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ha omoĩ che rehe mbaʼe vaí ⟨rangue⟩ mbaʼe porã, ha mbaʼe ndaijaʼéiva ⟨rangue⟩ che rayhu.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ha omoĩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaʼe vaí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangue"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ha mbaʼe ndaijaʼéiva"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rangue"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "che rayhu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:13.966779484Z",
+  "model": "glm-5.3"
+}

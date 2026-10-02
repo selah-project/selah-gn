@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Kóicha aikuaa nde reipota che, che ñorãirõhára ndorove'ijey mo'ãi chere ári.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Kóicha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "reipota"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...mo'ãi"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "orove'ijey"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "che ñorãirõhára"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chere ári"
+    }
+  ],
+  "timestamp": "2026-10-02T19:23:14.767434786Z",
+  "model": "glm-5.3"
+}

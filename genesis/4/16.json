@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Kajin osẽ Jahve resa águi, ha oiko Nod yvýpe, Eden kuarahy resẽ gotyo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "resa águi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:10.935699781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha apeno ichupe rehe ⟨את⟩ Baál ára kuéra rehe, oñu'ũ hague chupe kuéra, ha oñembosako'i ijope ha ijeguaka, ha oho hi'ári iñirũnguéra — ha che rehe ⟨את⟩ omongara'i — Jahve ñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "apeno"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ichupe rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baál ára kuéra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baál kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "oñu'ũ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupe kuéra"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "oñembosako'i"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "ijope"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "ijeguaka"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hi'ári"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "iñirũnguéra"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "omongara'i"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T14:46:11.499438789Z",
+  "model": "glm-5.3"
+}

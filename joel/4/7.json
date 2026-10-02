@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Che ahína: amopuʼãta chupekuéra umi tendágui, pe tendápe oñemúpa peẽ chupekuéra, upépe; ha ambojevyta peẽ meʼẽrã peẽ akãvape.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Che ahína"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "amopuʼãta chupekuéra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "umi tendágui"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "pe tenda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe tendápe"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "oñemúpa peẽ chupekuéra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ha ambojevyta"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "peẽ meʼẽrã"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "peẽ akãvape"
+    }
+  ],
+  "timestamp": "2026-10-02T14:53:26.616808867Z",
+  "model": "glm-5.3"
+}

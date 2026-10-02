@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 97,
+  "translation": "Yvágakuéra ohechauka ⟨את⟩ iñtsedek, ha opaite tetãnguéra ohecha ⟨את⟩ iterãi.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágakuéra"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "iñtsedek"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ha ohecha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "iterãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:44.666206061Z",
+  "model": "glm-5.3"
+}

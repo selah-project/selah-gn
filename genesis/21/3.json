@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Avraham ombohéra ⟨את⟩ itaʼyra raʼy hoguerekóva chugui, Sara omongakuaaʼakue chugui, Jitshak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ombohéra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tera"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itaʼyra raʼy"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "hoguerekóva chugui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "omongakuaaʼakue"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    }
+  ],
+  "timestamp": "2026-10-02T07:41:54.741476487Z",
+  "model": "glm-5.3"
+}

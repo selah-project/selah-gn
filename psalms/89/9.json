@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Jahve, Elohim Tsevaot, máva ojogua ndéve, Ja ipuʼakáva? Ha nde añetegua ojerére nde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "máva"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ojogua ndéve"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "ipuʼakáva"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ha nde añetegua"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "ojerére nde"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:49.282828718Z",
+  "model": "glm-5.3"
+}

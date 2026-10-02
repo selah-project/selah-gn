@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ani omoĩ hikuái chupekuéra jejavy ñembyairã, oguʼúvo hikuái ⟨את⟩ imbaʼe marangatu; che aháicha Jahve, haʼe omombaʼéva marangatu chupekuéra.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "Ani omoĩ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra jejavy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "jejavy"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "ñembyairã"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "oguʼúvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼe marangatu"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "imbaʼe marangatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼéramo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "omombaʼéva marangatu chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:17.480067341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha rejapóta ⟨את⟩ choshen ári mokõi kuãi itajuigua, ha remoĩta ⟨את⟩ mokõi kuãi choshen mokõi rembére.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ha rejapóta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "kuãi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itajuigua"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ha remoĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi kuãi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "kuãi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "rembe"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshen"
+    }
+  ],
+  "timestamp": "2026-10-02T08:29:20.281467678Z",
+  "model": "glm-5.3"
+}

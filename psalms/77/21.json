@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Emyendu'aháicha reime ohunda ⟨את⟩ ne'ñande ruvichahára renondépe Moche ha Aharon róga rupi.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "reime ohunda"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "emyendu'aháicha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne'ñande ruvichahára"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "róga rupi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:44.885666065Z",
+  "model": "glm-5.3"
+}

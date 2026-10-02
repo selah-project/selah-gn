@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ha oĩta upéicha pe árape Jahve omondoíta nde py'aguapy nde hasygui ha nde jepy'apyguígui, ha mba'apo asyguígui ojejapóva nde rehe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha oĩta upéicha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pe árape"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "omondoíta nde py'aguapy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "nde hasygui"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "ha nde jepy'apyguígui"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ha ... guígui"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "mba'apo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "asy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojejapóva"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mba'apo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:34:17.984661499Z",
+  "model": "glm-5.3"
+}

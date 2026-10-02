@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Jahve heʼi Moche-pe: Eho Paraʼo ndive, ha ere chupe: Péicha heʼi Jahve: Eheja ⟨את⟩ che retãyguakuéra, ombaʼapo hag̃ua che rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ndive"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraʼo"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "eheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che retãyguakuéra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãyguakuéra"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ombaʼapo hag̃ua che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:02.380080358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Eñangareko ⟨את⟩ jasýre Avív pegua, ha ejapo Pésaj Jahve nde Elohim-pe g̃uarã, queríko jasýpe Avív pegua Jahve nde Elohim ohasaʼãnde ⟨nde⟩ Mitsraim-gui pyhare.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jasy"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Avív pegua"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ha ejapo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pésaj"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe g̃uarã"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "queríko"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Avív pegua"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ohasaʼãnde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    }
+  ],
+  "timestamp": "2026-10-02T09:58:10.160561411Z",
+  "model": "glm-5.3"
+}

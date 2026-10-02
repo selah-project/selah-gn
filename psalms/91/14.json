@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "translation": "Che rayhu rupi, aipe'a chupe mba'evaiégui; ahupi chupe, che réra oikuaágui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "rayhu"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "aipe'a chupe mba'evaiégui"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ahupi chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oikuaágui"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "che réra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:05:29.396978391Z",
+  "model": "glm-5.3"
+}

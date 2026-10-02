@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 73,
+  "translation": "Ha katu che, Elohim iñemboja ⟨che⟩ g̃uarã iporã; acheheja Adonai Jahve che akãñyhaʼéicha, amombeʼu hag̃ua opaite ne mbaʼe apopyre.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ha katu che"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "iñemboja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che g̃uarã"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "acheheja"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "che akãñyhaʼéicha"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "amombeʼu hag̃ua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "ne mbaʼe apopyre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:03.145854709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Emombaʼeguasu Jahve opaite iñapore kuéra, opaite hendaitépe iñeʼẽreko rupi; emombaʼeguasu che rekove, ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Emombaʼeguasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "iñapore kuéra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite... -pé"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "hendaitépe"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "iñeʼẽreko rupi"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "emombaʼeguasu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:18.540599327Z",
+  "model": "glm-5.3"
+}

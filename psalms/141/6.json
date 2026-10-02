@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 141,
+  "translation": "Oino kuaihára kuéra itakã ijykére, ha ohendúta che ñeʼẽ, iporãgui hikuái.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "oino"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ijykére"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "itakã"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "kuaihára kuéra"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ha ohendúta"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "iporãgui hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:22:51.661653997Z",
+  "model": "glm-5.3"
+}

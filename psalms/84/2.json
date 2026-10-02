@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Mbaʼéichapa iñhayhu ne Michkan-kuéra, Jahve Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼéichapa"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "iñhayhu"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ne Michkan-kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:30.311771329Z",
+  "model": "glm-5.3"
+}

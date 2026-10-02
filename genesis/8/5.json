@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha pe y ohóvo ha oñemomichĩvo pe jasy papaha mokõiha pahápe; pe jasy papaha mokõiha-pe, peteĩha ára jasýpe, ojehecha umi yvyty akã.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Ha pe y"
+    },
+    {
+      "surface": "היו",
+      "gloss": "haʼe hikuái"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "ha oñemomichĩvo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "pe jasy"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "papaha mokõiha"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "papaha mokõiha-pe"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "peteĩha ára"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "ojehecha"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akã"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "umi yvyty"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:28.619972485Z",
+  "model": "glm-5.3"
+}

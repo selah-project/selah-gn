@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Merajot ñemongaraʼi ⟨את⟩ Amarja; Amarja katu ñemongaraʼi ⟨את⟩ Ajituv.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ñemongaraʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Amarja katu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ñemongaraʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ajituv"
+    }
+  ],
+  "timestamp": "2026-10-02T18:02:32.951622390Z",
+  "model": "glm-5.3"
+}

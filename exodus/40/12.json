@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha egueru ⟨את⟩ Aharon ha ⟨את⟩ iñemoñarakuéra Oñombyatýha Toldo jeikehápe, ha ejohéi ⟨את⟩ chupekuéra y rehe.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñemoñarakuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iñemoñarakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jeikehápe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeikeha"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Toldo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Oñombyatýha"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ejohéi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon ha iñemoñarakuéra"
+    },
+    {
+      "surface": "במים",
+      "gloss": "y rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:42.629737127Z",
+  "model": "glm-5.3"
+}

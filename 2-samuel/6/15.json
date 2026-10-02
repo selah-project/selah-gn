@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha David ha opaite Jisrael óga ogueraha yvate ⟨את⟩ Jahve mbaʼeryru, oñeʼẽ heta ñeʼẽme ha shofar poguasu ndive.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ha David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ogueraha yvate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve mbaʼeryru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mbaʼeryru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "oñeʼẽ heta ñeʼẽme"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "poguasu ndive"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:28.521142762Z",
+  "model": "glm-5.3"
+}

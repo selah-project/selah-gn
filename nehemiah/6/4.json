@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha omondo chéve ⟨את⟩ ku ñeʼẽicha koʼãva irundy jey, ha che ambohováikuéra ⟨את⟩ ku ñeʼẽicha koʼãvape.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ku ñeʼẽicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jey"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ambohováikuéra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ku omondohárape"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ku ñeʼẽicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "koʼãva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:31:34.630260730Z",
+  "model": "glm-5.3"
+}

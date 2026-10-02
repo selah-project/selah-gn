@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ovy'aite tao ha yvy kuʼi, ha Arabá ovy'a ha oñemoñase yvoty réicha.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "Ovy'aite"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tao"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "ha yvy kuʼi"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ha ovy'a"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Arabá"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ha oñemoñase"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "yvoty réicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:46:58.345081478Z",
+  "model": "glm-5.3"
+}

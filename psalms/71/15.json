@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Che juru omombeʼu ⟨nde⟩ tsedek, opaite ára ⟨nde⟩ ñemosãso; che ndaikuaái hikuái papapy.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "omombeʼu"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "nde tsedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "nde ñemosãso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda... i"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ikuaái"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "papapy"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:21.343979322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Kohelet oheka ojuhu hag̃ua ñeʼẽ iporã ñanemombaʼeguasúva, ha ojehaíva tekopeʼãme — ñeʼẽ añetegua.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ojuhu hag̃ua"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iporã ñanemombaʼeguasúva"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ha ojehaíva"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tekopeʼã"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T17:26:00.491697071Z",
+  "model": "glm-5.3"
+}

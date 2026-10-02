@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Nde eguata jave, ogueraha nde ⟨את⟩; eke jave, oñangareko nderehe; ha eñesãimvo, haʼe oñeʼẽ ndendive.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "nde eguata jave"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "eke jave"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nderehe"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "ha eñesãimvo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "oñeʼẽ ndendive"
+    }
+  ],
+  "timestamp": "2026-10-02T16:29:28.927806636Z",
+  "model": "glm-5.3"
+}

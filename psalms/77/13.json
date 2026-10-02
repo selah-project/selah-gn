@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "translation": "Amombaʼapóta ne mbaʼeapóre ijojáva rehe, ha ne mbaʼeapó guasu rehe amombeʼúta.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "amombaʼapóta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ijojáva"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ne mbaʼeapóre"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "ne mbaʼeapó guasu rehe"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "amombeʼúta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:59.483752575Z",
+  "model": "glm-5.3"
+}

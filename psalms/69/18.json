@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Ani eñomi nde jerovýva nde mba'apoháragui, che kyrãi haguere; eke, eñembohovái cherehe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "eñomi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde jerovýva"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "nde mba'apoháragui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguere"
+    },
+    {
+      "surface": "צר",
+      "gloss": "che kyrãi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "eke"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eñembohovái cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:15.224378017Z",
+  "model": "glm-5.3"
+}

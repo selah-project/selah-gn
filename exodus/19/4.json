@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Peẽ pehecha mba'épa ajapo Mitsraim rehegua, ha ambyatypa ⟨את⟩ peẽ taguato kuéra asy ári, ha agueraha ⟨את⟩ peẽ cherendápe.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Peẽ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraim rehegua"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ambyatypa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "asy"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "taguato kuéra"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "agueraha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:54.793863696Z",
+  "model": "glm-5.3"
+}

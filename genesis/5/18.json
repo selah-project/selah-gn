@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Jered ekove mokõi ha pa papy ary ha sa peteĩ ary arýpe, ha oguereko ⟨את⟩ Janoj.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ekove"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ha pa papy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ha sa peteĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ha oguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Janoj"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janoj"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:03.721678824Z",
+  "model": "glm-5.3"
+}

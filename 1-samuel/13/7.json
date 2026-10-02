@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha ivri-kuéra ohasa ⟨את⟩ Jarden, yvy Gad ha Guilad peve; Shaúl opyta gueteri Jilgal-pe, ha opaite tavaygua okirirĩ hapy.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ha ivri-kuéra"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ha Guilad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaúl katu"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "opyta gueteri"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Jilgal-pe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "okirirĩ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hapy"
+    }
+  ],
+  "timestamp": "2026-10-02T18:57:15.516906300Z",
+  "model": "glm-5.3"
+}

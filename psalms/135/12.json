@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 135,
+  "translation": "Ha omeʼe iñaretãnguéra jeyvy ramo, jeyvy Jisrael-pe, iavakuérape.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Ha omeʼe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "iñaretãnguéra"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "jeyvy ramo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "jeyvy"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iavakuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:22.661452661Z",
+  "model": "glm-5.3"
+}

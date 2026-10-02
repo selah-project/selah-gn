@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha upéi heʼi: Taʼe meʼe ⟨את⟩ Avichag, Chunamgua, Adoniahúpe, ne joykeʼýpe, henoirã.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ha upéi heʼi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Taʼe meʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avichag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avichag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Chunamgua"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniahúpe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ne joykeʼy"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "henoirã"
+    }
+  ],
+  "timestamp": "2026-10-02T11:39:33.221269829Z",
+  "model": "glm-5.3"
+}

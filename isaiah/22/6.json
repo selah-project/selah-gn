@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha Elám ogueru jukyryryru, yvypóra karetakuéra ndive, kavaju ári yvyporakuéra; ha Kir oipeʼa pe mbao.",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "Ha Elám"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "jukyryryru"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "karetakuéra ndive"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kavaju ári yvyporakuéra"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "ha Kir"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mbao"
+    }
+  ],
+  "timestamp": "2026-10-02T12:37:23.321706144Z",
+  "model": "glm-5.3"
+}

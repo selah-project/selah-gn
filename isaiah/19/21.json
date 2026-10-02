@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Jahve ojeikuaaukáta Mitsraim-pe, ha Mitsraim oikuaáta ⟨את⟩ Jahve upéicha árape, ha ojapóta zevaj ha minha, ha oñe'ẽta ñe'ẽme'ẽ Jahve-pe ha ojapóta opaite.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "ojeikuaaukáta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "oikuaáta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zevaj"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ha minha"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "oñe'ẽta"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ñe'ẽme'ẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ojapóta opaite"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:26.173447982Z",
+  "model": "glm-5.3"
+}

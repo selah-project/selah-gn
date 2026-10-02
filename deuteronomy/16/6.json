@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Katu pe tendápe Jahve nde Elohim oiporavóta oimoĩ hag̃ua héra upépe, upépe rejukáta ⟨את⟩ Pésach kaʼaru, kuarahy oguejývo, aravo egrandýpe remaĩ hague Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "katu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe tendápe"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "pe tenda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "oiporavóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "oimoĩ hag̃ua"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "rejukáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kaʼaru"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "oguejývo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "remaĩ hague"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:49.503870153Z",
+  "model": "glm-5.3"
+}

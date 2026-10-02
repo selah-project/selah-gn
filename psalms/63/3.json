@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 63,
+  "translation": "Upéicha che ahecha nde marangatupe, ahecha hag̃ua nde mbarete ha nde vera.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "marangatupe"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "che ahecha nde"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ahecha hag̃ua"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nde mbarete"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "ha nde vera"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:06.479854472Z",
+  "model": "glm-5.3"
+}

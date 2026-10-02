@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ko ára peigua, yvypóra omonda ⟨את⟩ oguerekóva itaju ta'ãngakuéra ha ⟨את⟩ oguerekóva oro ta'ãngakuéra, ojapo vaekue chupe oñemboyke hag̃ua, tujuruku ha vampiro-urukureʼakuérape.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "peigua"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "omonda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaju ta'ãngakuéra"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "ta'ãngakuéra"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oro ta'ãngakuéra"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "ta'ãngakuéra"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaekue"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "oñemboyke hag̃ua"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "tujuruku"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "vampiro-urukureʼakuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T12:23:26.836294175Z",
+  "model": "glm-5.3"
+}

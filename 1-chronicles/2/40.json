@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Elasa oguereko ra'y ⟨את⟩ Sismai, ha Sismai oguereko ra'y ⟨את⟩ Chalum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Ha Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "oguereko ra'y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ha Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "oguereko ra'y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chalum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Chalum"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:55.180841537Z",
+  "model": "glm-5.3"
+}

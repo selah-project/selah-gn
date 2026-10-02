@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Jisrael membykuéra aty opavavete oñeʼẽ vai Moche rehe ha Aharon rehe, upe yvynandípe.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "oñeʼẽ vai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavete"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "aty"
+    },
+    {
+      "surface": "בני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvynandípe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:37.496723355Z",
+  "model": "glm-5.3"
+}

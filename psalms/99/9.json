@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 99,
+  "translation": "Eñakãrũ peve Jahve, ñande Elohim, ha peñemboʼa iñeʼẽmarangatu yvýpe, Jahve ñande Elohim marangatuite jaʼehaguére.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Eñakãrũ peve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ha peñemboʼa"
+    },
+    {
+      "surface": "להר",
+      "gloss": "iñeʼẽmarangatu yvýpe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iñeʼẽmarangatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaʼehaguére"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatuite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:04.810292321Z",
+  "model": "glm-5.3"
+}

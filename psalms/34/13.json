@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Máva pa pe yvypóra oipotáva tekove, ohayhúva ⟨ára⟩ heta ohecha hag̃ua mbaʼe porã?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Máva"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe yvypóra"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "oipotáva"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ohayhúva"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨ára⟩ heta"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ohecha hag̃ua"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:42.651618946Z",
+  "model": "glm-5.3"
+}

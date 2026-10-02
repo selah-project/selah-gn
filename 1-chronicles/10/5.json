@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ohecha pe oguerúva iñorãirõmba'e Shaúl omano hague, ha ha'e avei oyvu peteĩ mba'e syryi ári, ha omano.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "oguerúva"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iñorãirõmba'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "מת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "oyvu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "peteĩ mba'e syryi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    }
+  ],
+  "timestamp": "2026-10-02T18:07:06.429012877Z",
+  "model": "glm-5.3"
+}

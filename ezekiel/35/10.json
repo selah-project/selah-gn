@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Upévare re'e haguére: mokõi tetãnguéra ha ⟨את⟩ mokõi yvykuéra che mba'e oikóta, ha jaipyhóta — ha katu Jahve upépe oĩkuri.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "re'e haguére"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi tetãnguéra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mokõi yvykuéra"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "yvykuéra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che mba'e"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "ha jaipyhóta"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩkuri"
+    }
+  ],
+  "timestamp": "2026-10-02T14:32:45.020128496Z",
+  "model": "glm-5.3"
+}

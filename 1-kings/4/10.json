@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Chesed raʼy, Arubot-pe; isóve ichupe Choko ha Khefer yvypo reínte.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "Arubot-pe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Choko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha ... reínte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvypo"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefer"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:41.625050507Z",
+  "model": "glm-5.3"
+}

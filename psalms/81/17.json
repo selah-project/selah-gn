@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Ha ombou'ú chupe trigo kyra-gui, ha ita-gui eirete, ahenyhẽta ndeve.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "ombou'ú chupe"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kyra-gui"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "ha ita-gui"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "eirete"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ahenyhẽta ndeve"
+    }
+  ],
+  "timestamp": "2026-10-02T15:58:52.073287482Z",
+  "model": "glm-5.3"
+}

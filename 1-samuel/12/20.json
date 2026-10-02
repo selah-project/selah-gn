@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 12:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Shemuel heʼi tavayguakuéra-pe: Ani pekyhyje; peẽ pejapo ⟨את⟩ opaite ko mbaʼe vai; hákatu ani pehova Jahve ryrégui, ha peñangareko ⟨את⟩ Jahve rehe pe pyʼa pypeve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pekyhyje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "pejapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite ko mbaʼe vai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mbaʼe vai"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hákatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "pehova"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ryrégui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pypeve"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pe pyʼa"
+    }
+  ],
+  "timestamp": "2026-10-02T11:02:38.360434957Z",
+  "model": "glm-5.3"
+}

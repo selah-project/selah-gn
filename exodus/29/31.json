@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha reguereko ⟨את⟩ pe ovecha kuimbaʼe ñemyandy guasu mbaʼéva, ha rejyta ⟨את⟩ hetuguʼi peteĩ tenda marangatu pépe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha reguereko ⟨את⟩",
+      "marks": "pe ovecha kuimbaʼe ñemyandy guasu mbaʼéva"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ovecha kuimbaʼe"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ñemyandy guasu mbaʼéva"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "reguereko"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ha rejyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hetuguʼi"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hetuguʼi"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "peteĩ tenda pépe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:31:51.455895740Z",
+  "model": "glm-5.3"
+}

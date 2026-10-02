@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ndaipóri marangatu Jahve raʼãnga, ndaipóri nde javeguáva; ha ndaipóri ita ñande Elohim raʼãnga.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Jahve raʼãnga"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "nde javeguáva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "ñande Elohim raʼãnga"
+    }
+  ],
+  "timestamp": "2026-10-02T10:54:14.837397312Z",
+  "model": "glm-5.3"
+}

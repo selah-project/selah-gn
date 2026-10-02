@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Jarmut ha ⟨את⟩ ijyvy karugua, ⟨את⟩ Ein Ganim ha ⟨את⟩ ijyvy karugua; táva irundy.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarmut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Jarmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijyvy karugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijyvy karugua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ein Ganim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijyvy karugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijyvy karugua"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:30:15.257613897Z",
+  "model": "glm-5.3"
+}

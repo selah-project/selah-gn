@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha haʼe heʼi: Mbaʼe tapepa jajupita? Ha haʼe heʼi: Edom kaʼaguy tape.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha haʼe heʼi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mbaʼe tapepa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "jajupita"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha haʼe heʼi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:21.107920498Z",
+  "model": "glm-5.3"
+}

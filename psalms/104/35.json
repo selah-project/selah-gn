@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Opa ta umi jejavyva'ekue yvy-gui, ha umi ivaléva ndojavymo'ãve. Eja'o, che py'a, ⟨את⟩ Jahve; peja'opo Ja.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "Opa ta"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "umi jejavyva'ekue"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ha umi ivaléva"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mo'ãve"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ndo... iko'ãve"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Eja'o"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che py'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "peja'opo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:03.940408683Z",
+  "model": "glm-5.3"
+}

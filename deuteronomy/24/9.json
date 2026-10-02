@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ñamandu'a ⟨את⟩ umi mbaʼe Jahve, nde Elohim, ojapo Miriam rehe, tape ári, pe ñesẽnguépe peẽ Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ñamandu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi mbaʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriam rehe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape ári"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "pe ñesẽnguépe peẽ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:05:04.887674870Z",
+  "model": "glm-5.3"
+}

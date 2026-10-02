@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha che, ne hesed hetaitégui aikéta nde rógape; atupãta pe nde róga guasu marangatu hiʼári, ne reriarõápe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hetaitégui"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ne hesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aikéta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde róga"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "atupãta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "nde róga guasu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "ne reriarõápe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:36.746173043Z",
+  "model": "glm-5.3"
+}

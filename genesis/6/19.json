@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 6:19",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha opa tekove apytégui, opa tuguýgui, mokõive opaiteichagua reeregui nde rejapóta ⟨⟨את⟩⟩ teevápe, oikove hag̃ua nde reheve; kuimba'e ha kuña niko oĩta hikuái.",
+  "tokens": [
+    {
+      "surface": "ומכל",
+      "gloss": "Ha opa ... apytégui"
+    },
+    {
+      "surface": "החי",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opa ... apytégui"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tuguýgui"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaiteichagua"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "nde rejapóta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ree"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teevápe"
+    },
+    {
+      "surface": "להחית",
+      "gloss": "oikove hag̃ua"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde reheve",
+      "marks": "nde reheve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ha kuña"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "oĩta hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:33.864751896Z",
+  "model": "glm-5.3"
+}

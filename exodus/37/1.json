@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha Betsalel ojapo ⟨את⟩ Aron shitim yvyra gui: ipukukue mokõi amat ha ivóla, ipykue peteĩ amat ha ivóla, ha iyvatekue peteĩ amat ha ivóla.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "mokõi amat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha ivóla"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "peteĩ amat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha ivóla"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipykue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "peteĩ amat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha ivóla"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "iyvatekue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:38:40.603915305Z",
+  "model": "glm-5.3"
+}

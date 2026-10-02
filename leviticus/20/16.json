@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuña oñemondóva oimeraẽ mymba rehe omoirũ haguã ⟨את⟩ chupe, rejukava'erã ⟨את⟩ pe kuña ha ⟨את⟩ pe mymba; omanova'erã hikuái, iñange hikuái.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Ha kuña"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "oñemondóva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oimeraẽ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "omoirũ haguã"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "rejukava'erã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuña"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe kuña"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mymba"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "pe mymba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omanova'erã"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "hikuái omanova'erã"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "iñange"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:24.224063165Z",
+  "model": "glm-5.3"
+}

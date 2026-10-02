@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Upéi, omembymi peteĩ mitãkuña, ha ohenói ⟨את⟩ héra Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Upéi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "omembymi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mitãkuña"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "héra"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-10-02T07:49:13.852502542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Bavel mburuvicha omoĩ mburuvicháramo ⟨את⟩ Matania, itúva joykegua, hendýpe, ha omoambue ⟨את⟩ héra Tsidkia.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "omoĩ mburuvicháramo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matania"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matania"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "itúva joykegua"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hendýpe"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "omoambue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkia"
+    }
+  ],
+  "timestamp": "2026-10-02T12:25:14.306723462Z",
+  "model": "glm-5.3"
+}

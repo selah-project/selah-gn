@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ijoykeʼykuéra ndaipóriramo ichupe, peẽme ⟨את⟩ i mbaʼe jarekokue itúva ijoykeʼykuérape.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha... ndaipóriramo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ijoykeʼykuéra"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i mbaʼe jarekokue"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "i mbaʼe jarekokue"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ijoykeʼykuérape"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    }
+  ],
+  "timestamp": "2026-10-02T09:37:46.343534872Z",
+  "model": "glm-5.3"
+}

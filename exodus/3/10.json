@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéi, eju, ha amondo ndeve Paraópe, ha esẽ ⟨את⟩ che retãygua, Jisrael mitãnguéra, Mitsraim-gui.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eju"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ha amondo ndeve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraó"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ha esẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che retãygua"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che retãygua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:17.431461322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Pe ogueraha ⟨את⟩ peẽve Mitsraim retã guive, che hag̃ua peẽme Elohim ramo; che Jahve.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Pe ogueraha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽve",
+      "marks": "Mitsraim retã"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "retã guive"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "che hag̃ua"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ramo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:58:57.499474217Z",
+  "model": "glm-5.3"
+}

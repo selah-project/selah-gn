@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Porgués ojopi ⟨okuéra⟩ kuarepoti pytã pegua, ha kuarepoti juakaha kuéra oity.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porgués"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ojopi"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "okuéra"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kuarepoti pytã"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "juakaha kuéra"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "oity"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:09.270990158Z",
+  "model": "glm-5.3"
+}

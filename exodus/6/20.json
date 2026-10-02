@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha Amram omoirũ hese ⟨את⟩ Iokebed, itúva rykeʼy, hembirekorã; ha kuñakarai omemby chupe ⟨את⟩ Aharon ha ⟨את⟩ Moche; ha Amram rekove ary pokõi ha mbohapapy ha sa ary.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "omoirũ hese"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iokebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Iokebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "itúva rykeʼy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "hembirekorã"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha ... ary"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapapy"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ha sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:04.135478651Z",
+  "model": "glm-5.3"
+}

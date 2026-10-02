@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Che ahecha ⟨את⟩ opaite tembiapo ojapóva kuarahýpe guýpe; ha jepeʼa, opaite haʼe hevel ha pyʼapy ruah rehegua.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tembiapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahýpe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha jepeʼa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ha pyʼapy"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:52.527320688Z",
+  "model": "glm-5.3"
+}

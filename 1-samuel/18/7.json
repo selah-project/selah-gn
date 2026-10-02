@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha kuñanguéra oñembohapíva oñemoañetékuri hikuái ha heʼíkuri: Chaul ojuka su, ha David ojuka su su.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "oñemoañetékuri hikuái"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kuñanguéra"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "oñembohapíva"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "heʼíkuri"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "su"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ha David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "su su"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:21.508396407Z",
+  "model": "glm-5.3"
+}

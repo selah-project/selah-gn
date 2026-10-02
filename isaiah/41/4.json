@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Máva pa ojapo ha omoheñói, ohenóiva ñemoñarenguéra iñepyrũ guive? Che, Jahve, peteĩha, ha ⟨את⟩ umi pahaguekuéra ndive che añete.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Máva"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ha omoheñói"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ohenóiva"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "ñemoñarenguéra"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "iñepyrũ guive"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "peteĩha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi pahaguekuéra"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "pahaguekuéra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "añete"
+    }
+  ],
+  "timestamp": "2026-10-02T12:52:59.202777682Z",
+  "model": "glm-5.3"
+}

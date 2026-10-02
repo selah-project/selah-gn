@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Oiko rire pe Rajel oguereko ⟨את⟩ Yosef, Jaakov he'i Lavan-pe: Emondo cherehe, che ahaguã che rendápe ha che yvýpe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko rire"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Emondo cherehe"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "che ahaguã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "che rendápe"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "che yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:50:06.408916931Z",
+  "model": "glm-5.3"
+}

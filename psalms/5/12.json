@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Tovyʼaite opaite umi nde rehe oikóva; hekove pahaʼỹre tove opurahéi; ha nde emboñemi chupekuéra; nde réra rayhohárakuéra tovyʼa avei nde rehe.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "tovyʼaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite umi"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "nde rehe oikóva"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hekove pahaʼỹre"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "tove opurahéi"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "emboñemi"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "tovyʼa avei"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "rayhohárakuéra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:23:11.495666303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ipykue paha ojeipeʼa hag̃ua; ambue ñemoñare pukukue oñemboguéta hikuái réra.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "ipykue paha"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ojeipeʼa hag̃ua"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ñemoñare pukukue"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambuépe"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "oñemboguéta"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hikuái réra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:25.096037348Z",
+  "model": "glm-5.3"
+}

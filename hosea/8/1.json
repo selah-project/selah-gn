@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Emoĩ shofar ne jurúpe; taguato ichaguýpe ⟨Jahve⟩ roga ári, oity rupi che ñeʼẽmeʼẽ ha che Tora rehe ojapo vai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne jurúpe"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ne juru"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "taguato"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "oity rupi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oity"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "che Tora"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ojapo vai"
+    }
+  ],
+  "timestamp": "2026-10-02T14:48:57.405897319Z",
+  "model": "glm-5.3"
+}

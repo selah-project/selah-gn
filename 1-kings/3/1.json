@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Shelomo ojoykeky Paroh, Mitsraim mburuvicha rehe, ha oguereko ⟨את⟩ Paroh rajy, ha ogueraha chupe David távape, opa meve omoĩmba hógape, ⟨את⟩ Jahve ógape ha ⟨את⟩ Jerusalaim itakuape ijerére.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "ojoykeky"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh rajy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "rajy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "ogueraha chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ve"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "opa meve"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "omoĩmba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hóga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hóga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim itakuape"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "itakuape"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T11:40:23.631440173Z",
+  "model": "glm-5.3"
+}

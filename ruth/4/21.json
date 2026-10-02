@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Salmono raʼýra ⟨את⟩ Boaz, ha Boaz raʼýra ⟨את⟩ Obed-pe.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Ha Salmono"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "raʼýra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ha Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "raʼýra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-10-02T17:11:06.194325758Z",
+  "model": "glm-5.3"
+}

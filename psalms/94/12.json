@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 94,
+  "translation": "Ivyryʼaiterei kuimbaʼe remomboajéva, ja, ha remboʼéva chupe nde Toragui.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivyryʼaiterei"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "remomboajéva"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "nde Toragui"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "remboʼéva chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:04.630679964Z",
+  "model": "glm-5.3"
+}

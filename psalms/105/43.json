@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Ha ogueru ⟨את⟩ iveikuéra vyʼapópe, puraheípe ⟨את⟩ iporavopyrékuéra.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ha ogueru"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iveikuéra"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "vyʼapópe"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "puraheípe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iporavopyrékuéra"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "iporavopyrékuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:19.139586919Z",
+  "model": "glm-5.3"
+}

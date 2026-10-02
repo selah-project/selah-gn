@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha ⟨a⟩ yvy Chabat oikóta pemongaruʼu hagua: ndéve, nde mbaʼapohárape, nde kuñakaraípe, nde mboguatahárape ha ndéve g̃uarã ⟨umí⟩ okarai oikóva nde ndive.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ yvy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pemongaruʼu hagua"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "karu hagua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "nde mbaʼapohárape"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "nde kuñakaraípe"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "nde mboguatahárape"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "nde okaráipe"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "⟨umí⟩ okarai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T09:03:01.231637259Z",
+  "model": "glm-5.3"
+}

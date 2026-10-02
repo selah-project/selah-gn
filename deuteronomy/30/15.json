@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Maheʼã, aheja nde renondépe ko árape ⟨את⟩ pe tekove ha ⟨את⟩ pe mbaʼe porã, ha ⟨את⟩ pe mano ha ⟨את⟩ pe mbaʼe vai.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Maheʼã"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tekove"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "pe tekove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mbaʼe porã"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "pe mbaʼe porã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mano"
+    },
+    {
+      "surface": "המות",
+      "gloss": "pe mano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mbaʼe vai"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pe mbaʼe vai"
+    }
+  ],
+  "timestamp": "2026-10-02T10:11:09.510286994Z",
+  "model": "glm-5.3"
+}

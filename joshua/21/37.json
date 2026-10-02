@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemot ha ⟨את⟩ imigrakuéra, ⟨את⟩ Mefaat ha ⟨את⟩ imigrakuéra; táva irundy.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrakuéra"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigrakuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Mefaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imigrakuéra"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigrakuéra"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:25.410919878Z",
+  "model": "glm-5.3"
+}

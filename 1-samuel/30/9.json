@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "David oho, haʼe ha poteĩ sa kuimbaʼe ovaʼekue ⟨את⟩-ndive, ha og̃uahẽ ysyry Besor peve; ha umi oikovéva opyta.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ha poteĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekue"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ndive",
+      "marks": "poteĩ sa kuimbaʼe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ysyry"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "ha umi oikovéva"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "opyta"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:02.785306605Z",
+  "model": "glm-5.3"
+}

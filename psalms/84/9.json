@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "translation": "Jahve Elohim Tsevaot, ehendu che ñemboʼe; ehendu porã, Elohim Jaakov rehegua. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "che ñemboʼe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ehendu porã"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-02T16:01:37.093261228Z",
+  "model": "glm-5.3"
+}

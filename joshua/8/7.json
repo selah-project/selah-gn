@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha peẽ pesẽta peñembyahýigui, pemombaʼapáta ⟨את⟩ pe táva; ha Jahve, pe Elohim, ome'ẽta pe pópe.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ha peẽ"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "pesẽta"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "peñembyahýigui"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "pemombaʼapáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ome'ẽta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "pe pópe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:21:36.330534717Z",
+  "model": "glm-5.3"
+}

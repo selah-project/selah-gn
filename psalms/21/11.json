@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Iyvakuéra rejukýta yvygui, ha imembykuéra yvypóra memby apytégui.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "iyvakuéra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "rejukýta"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "memby apytégui"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:22.796388049Z",
+  "model": "glm-5.3"
+}

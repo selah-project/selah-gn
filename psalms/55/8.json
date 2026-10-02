@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Maheʼẽ, ahekýi mombyry, ake kaʼaguy ryepýpe. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Maheʼẽ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ahekýi mombyry"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "añeʼẽrysýi"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ake"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguy ryepýpe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:19.102267134Z",
+  "model": "glm-5.3"
+}

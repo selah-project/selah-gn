@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Pe oporoñangarekóvape, pe pupoʼa poapyhápe; tajasopo David mbaʼe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "oporoñangarekóvape"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "pupoʼa poapyhápe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "tajasopo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:02.960849441Z",
+  "model": "glm-5.3"
+}

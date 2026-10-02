@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 87,
+  "translation": "Jahve ohayhu ⟨את⟩ umi Tsiyon okẽnguéra, opaite Jaakov rokokuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "umi okẽnguéra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite apytépe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "rokokuéra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T16:02:04.020257845Z",
+  "model": "glm-5.3"
+}

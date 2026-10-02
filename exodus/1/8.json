@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha opu'ã peteĩ mburuvicha pyahu Mitsraim ári, ha'éva ndaikuaái ⟨את⟩ Josef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "opu'ã"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha'éva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...kuaái"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ikuaái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-10-02T08:06:37.944295594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha David heʼi jey: Omeʼẽpa Keilá jára-hára ⟨את⟩ che ha ⟨את⟩ che kuimbaʼépe Shaúl pópe? Ha Jahve heʼi: Omeʼẽta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi jey"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Omeʼẽpa"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "jára-hára"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilá"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "che kuimbaʼépe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "che kuimbaʼépe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Omeʼẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:58.930006803Z",
+  "model": "glm-5.3"
+}

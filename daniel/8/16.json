@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha ahendu peteĩ kuimba'e ñe'ẽ Ulai ypa mokõi yképe oúva, ha ohenói ha he'i: Gavriel, ejapo ko kuimba'e oikuaa hag̃ua ⟨את⟩ pe hechauka.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ahendu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mokôi yképe"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulai"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gavriel"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ejapo oikuaa hag̃ua"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "ko kuimba'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe hechauka"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pe hechauka"
+    }
+  ],
+  "timestamp": "2026-10-02T17:37:31.165047491Z",
+  "model": "glm-5.3"
+}

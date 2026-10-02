@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha rejapóta mokõi kerubim itaju; ojopy hag̃uáicha rejapóta ⟨את⟩ chakuéra, kaporet mokõi pahápe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ojopy hag̃uáicha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chakuéra (umi kerubim)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    }
+  ],
+  "timestamp": "2026-10-02T08:28:42.978427955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Elohim rehe ojeguaru oréve opaite ára, ha ne'ẽrata ore ja'aháicha ag̃aite peve. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim rehe"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "ojeguaru oréve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ha ne'ẽrata"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ag̃aite peve"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "ore ja'aháicha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:31.794668061Z",
+  "model": "glm-5.3"
+}

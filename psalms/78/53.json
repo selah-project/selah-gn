@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "translation": "Ha ogueraha ⟨hikuái⟩ tekorãme, ha ndovyʼaʼarõi hikuái; ha ⟨את⟩ iñairõguakuéra para omboypy.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tekorãme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ovyʼaʼarõi hikuái"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñairõguakuéra"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "iñairõguakuéra"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "omboypy"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:25.433610372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha pe mburuvicha guasu, hembiapojarakuéra ha opaite aty Jerusalaim-pe oñemoañete ojapo hag̃ua ⟨pe⟩ Peschaj jasy mokõiha-pe.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "oñemoañete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha guasu"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "hembiapojarakuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Peschaj"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasy-pe"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    }
+  ],
+  "timestamp": "2026-10-02T18:35:28.597697974Z",
+  "model": "glm-5.3"
+}

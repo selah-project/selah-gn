@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha ojere ⟨את⟩ hova oky ári, ha oñemboʼe Jahve rehe, heʼívo:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hova"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hova"
+    },
+    {
+      "surface": "אל",
+      "gloss": " rehe"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "oky"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    }
+  ],
+  "timestamp": "2026-10-02T12:21:39.412919331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Ha oheʼi chupekuéra: ¿Peikuaápa ⟨את⟩ Lavan, Najor raʼy? Ha heʼi hikuái: Jaikuaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha oheʼi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "¿Peikuaápa?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha heʼi hikuái"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Jaikuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T07:48:11.713175673Z",
+  "model": "glm-5.3"
+}

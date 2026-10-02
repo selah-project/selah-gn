@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Purahéi Jahve-pe, emomba'eguasu ⟨את⟩ Jahve, Jahve osãso ⟨את⟩ tekove imba'erehávagui po umívagui ivaívagui.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Purahéi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "emomba'eguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Jahve osãso"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "osãso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekove"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "imba'erehávagui"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "umívagui ivaívagui"
+    }
+  ],
+  "timestamp": "2026-10-02T13:23:31.608424503Z",
+  "model": "glm-5.3"
+}

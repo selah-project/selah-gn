@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Eñangareko ⟨את⟩ Jahve nde Elohim mboʼekuéra rehe, eho hag̃ua i tapekuéra rupi ha ejakatu hag̃ua ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve nde Elohim mboʼekuéra"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mboʼekuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "eho hag̃ua"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "i tapekuéra rupi"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "ha ejakatu hag̃ua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:52:29.247521945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 17:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha Elazar paʼi oguereko ⟨את⟩ umi kuarepoti machta omeʼẽvaʼekue umi ojejuka tapiagui vaʼekue kuéra, ha kuéra ojovoha mboipe ramo altar áre.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kuarepoti machta"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "umi machta"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "omeʼẽvaʼekue"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "umi ojejuka tapiagui vaʼekue"
+    },
+    {
+      "surface": "וירקעום",
+      "gloss": "ojovoha"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "mboipe ramo"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altar áre"
+    }
+  ],
+  "timestamp": "2026-10-02T09:28:50.558377839Z",
+  "model": "glm-5.3"
+}

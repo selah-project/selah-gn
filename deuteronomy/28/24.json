@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Jahve omeʼẽta ⟨את⟩ nde yvý gy yvyrỹi ha kuarepe ramo; yvágagui oguejýta nde rehe, nde oñembyai peve.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde yvý gy"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "gy"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "nde yvy"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "yvyrỹi"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ha kuarepe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "oguejýta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "nde oñembyai"
+    }
+  ],
+  "timestamp": "2026-10-02T10:09:44.139069712Z",
+  "model": "glm-5.3"
+}

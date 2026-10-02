@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Oñemoĩmbaite yvyra Jahve, pe Lívano kedra, haʼeva oñotỹ vaʼekue.",
+  "tokens": [
+    {
+      "surface": "יִשְׂבְּעוּ",
+      "gloss": "Oñemoĩmbaite"
+    },
+    {
+      "surface": "עֲצֵי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "kedra"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Lívano"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "haʼeva"
+    },
+    {
+      "surface": "נָטָע",
+      "gloss": "oñotỹ vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T16:08:17.559376493Z",
+  "model": "glm-5.3"
+}

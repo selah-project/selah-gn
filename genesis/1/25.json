@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ojapo ⟨את⟩ yvy mymbakuéra iñeʼẽjoja rupi, ha ⟨את⟩ mymbakuéra iñeʼẽjoja rupi, ha ⟨את⟩ opaite mymba okundaháva yvýre iñeʼẽjoja rupi; ha Elohim ohecha iporãha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy mymbakuéra"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mymbakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "iñeʼẽjoja rupi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mymbakuéra"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mymbakuéra"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "iñeʼẽjoja rupi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mymba okundaháva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "okundaháva"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvýre"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "iñeʼẽjoja rupi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iporãha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:38.393711760Z",
+  "model": "glm-5.3"
+}

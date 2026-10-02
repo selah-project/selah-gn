@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 146,
+  "translation": "Jahve oñangareko ⟨את⟩ umi pytaguárare; oipytyvõ oporareíva ha kuñakata; ha umi ivaikuaáva rape ombojavy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi pytaguára"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "umi pytaguára"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "oporareíva"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ha kuñakata"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "oipytyvõ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ha rape"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaikuaáva"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ombojavy"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:01.041216115Z",
+  "model": "glm-5.3"
+}

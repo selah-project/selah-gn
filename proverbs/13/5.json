@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Pe oikóva joja ndaijaʼei ⟨pe⟩ ñeʼẽ ñañeteeʼỹva; pe ivaíva katu héra vai ha oñehovasái.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ñañeteeʼỹva"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ndaijaʼei"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe oikóva joja"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "pe ivaíva"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "héra vai"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ha oñehovasái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:32:36.796307930Z",
+  "model": "glm-5.3"
+}

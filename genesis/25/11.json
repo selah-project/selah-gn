@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha oiko Avraham manóma rire, Elohim ombopora ⟨את⟩ Jitshak, imemby; ha Jitshak oiko Ver-Lajai-Roi ykére.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "מות",
+      "gloss": "manóma"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ombopora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "imemby"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ver"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lajai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:21.148901701Z",
+  "model": "glm-5.3"
+}

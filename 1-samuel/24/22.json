@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha upéi, eñeʼẽmeʼẽ chéve Jahve reheve: nderejapótamoʼã ⟨את⟩ che ñemoñare che rire, ha nderemondóimoʼã ⟨את⟩ che réra che ru ógagui.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "eñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve reheve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sérõ nderejapótamoʼã"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "rekortáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñemoñare"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "che ñemoñare"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "che rire"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha sérõ"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "remondóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che réra"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "che réra"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ógagui"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    }
+  ],
+  "timestamp": "2026-10-02T11:10:37.595996643Z",
+  "model": "glm-5.3"
+}

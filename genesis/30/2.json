@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Jaakov iñapytu Rajel rehe, ha heʼi: ¿Che haʼa ⟨Elohim⟩ rendápe, pe omboykéva ndéhegui memby kuñagua?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "iñapytu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iñapy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Rajel rehe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che haʼa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "omboykéva"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndéhegui"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "memby"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kuñagua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:50:00.724738228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Mbaʼéichaiterei hekopirârẽ nende hesed, Elohim! Upévare yvypóra membykuéra nende jaguakuéra ñahãme oñemoñemi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mbaʼéicha"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "hekopirârẽ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nende hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha membykuéra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ñahãme"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nende jaguakuéra"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "oñemoñemi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:47.693008409Z",
+  "model": "glm-5.3"
+}

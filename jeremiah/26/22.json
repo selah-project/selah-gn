@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha pe mburuvicha Jehojakim omondo mígua Mitsraim-pe: ⟨את⟩ Elnatan, Akvor raʼýpe, ha ñamemby ⟨את⟩ ndive, eve Mitsraim-pe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mígua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnatan"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akvor"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ha ñamemby"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ndive ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T13:27:06.870513130Z",
+  "model": "glm-5.3"
+}

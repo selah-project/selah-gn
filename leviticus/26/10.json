@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Peẽ tuʼúta yvachu tuja vaitereíva, ha yvachu tuja peẽ monguetáta pyahu rehe.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "peẽ tuʼúta"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "tujáva"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "tuja vaitereíva"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ha yvachu tuja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "peẽ monguetáta"
+    }
+  ],
+  "timestamp": "2026-10-02T09:04:31.075005852Z",
+  "model": "glm-5.3"
+}

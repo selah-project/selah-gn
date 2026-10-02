@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Churam, Tsor mburuvicha, ohechauka kuatiañeʼẽme ha omondo Chelomope: Jahve orayhu ⟨את⟩ ipehẽnguekuéra rehegua rupi, omoĩ nde chupe mburuvicháramo chuguãkuéra ári.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Churam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "kuatiañeʼẽme"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Chelomope"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "orayhu rupi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipehẽnguekuéra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ipehẽnguekuéra"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "omoĩ nde chupe mburuvicháramo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chuguãkuéra ári"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T18:20:04.231607152Z",
+  "model": "glm-5.3"
+}

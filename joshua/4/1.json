@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha oiko peve, opa rire ⟨את⟩ Jardén pehasa pe tetã opaite, Jahve oñeʼẽ Jehochúa rehe heʼi hag̃ua:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "peve"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "opa rire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "pe tetã"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "pehasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochúa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼi hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T10:18:30.313357290Z",
+  "model": "glm-5.3"
+}

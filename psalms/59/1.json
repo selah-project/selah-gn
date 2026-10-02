@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "translation": "Purahéi jára rayhárã g̃uarã: Ani rejavyi. David mbaʼe, michkam jehaipyre, Shaul omondo jave ha umi ohenduta ⟨את⟩ ⟨the⟩ óga ojuka hag̃ua chupe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "purahéi jára rayhárã g̃uarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "rejavyi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "michkam jehaipyre"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "omondo jave"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ha umi ohenduta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ojuka hag̃ua chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:16.331248313Z",
+  "model": "glm-5.3"
+}

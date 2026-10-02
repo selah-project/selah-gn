@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha oiméramo nahániri osãso jey ⟨את⟩ pe ñoty, ha oiméramo oñemu ⟨את⟩ pe ñoty ambue yvypórape, nahániri osãso jey arave.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha oiméramo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "osãso jey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñoty"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pe ñoty"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha oiméramo"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "oñemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñoty"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pe ñoty"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "yvypórape"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ambuépe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "osãso jey"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "arave"
+    }
+  ],
+  "timestamp": "2026-10-02T09:13:24.276508703Z",
+  "model": "glm-5.3"
+}

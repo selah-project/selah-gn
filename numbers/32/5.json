@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha heʼi hikuái: Rojuhu ramo jehayhu nde resáre, oñemeʼẽ ⟨את⟩ ko yvy nde tembiguáikuérape mbaʼerã ramo; ani rembohasa orépe ⟨את⟩ Jarden yvýre.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi hikuái"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "rojuhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "jehayhu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nde resáre"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "oñemeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "nde tembiguáikuérape"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "mbaʼerã ramo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "tembohasa orépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    }
+  ],
+  "timestamp": "2026-10-02T09:40:31.244731202Z",
+  "model": "glm-5.3"
+}

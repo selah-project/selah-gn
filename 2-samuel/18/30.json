@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha mburuvicha he'i: Eho ijykegue ha eñemohẽ ko'ápe. Ha oho ijykegue ha oñemohẽ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "סב",
+      "gloss": "eho ijykegue"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "eñemohẽ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko'ápe"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "oho ijykegue"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "oñemohẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:31:45.771302649Z",
+  "model": "glm-5.3"
+}

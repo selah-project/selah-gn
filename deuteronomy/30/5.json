@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Jahve nde Elohim ogueraháta nde ⟨pe⟩ yvýpe ova nde tuakuéra oreko vaʼekue, ha nde reiporúta chupe; ha omboporãta nde ha omboguerekóta nde hetave nde tuakuéra rehegui.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ogueraháta nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ova"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "oreko vaʼekue"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "nde tuakuéra"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "reiporúta chupe"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "omboporãta nde"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "omboguerekóta nde hetave"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "nde tuakuéra rehegui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:11:10.314570274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Oiko pe ojapópa rire ohupi haguã ⟨pe⟩ cha'arepy, ha katuete Chemuél ou; Chaúl osẽ oĩ haguã ichupe, oguerovia haguã chupe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko pe"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "ojapópa rire"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ohupi haguã"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cha'arepy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha katuete"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuél"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "oĩ haguã ichupe"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "oguerovia haguã chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:59:42.954228052Z",
+  "model": "glm-5.3"
+}

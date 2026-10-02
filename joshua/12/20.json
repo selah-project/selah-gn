@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Chimron-Meron mburuvicha, peteĩ; Akchaf mburuvicha, peteĩ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Chimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akchaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T10:23:59.523639574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha pejapóta peteĩ arón yvyra chitim-gua: ipukukue omokykýi mokõi ama ha peteĩ mbytépe, ipekue peteĩ ama ha peteĩ mbytépe, ipytukue peteĩ ama ha peteĩ mbytépe.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "pejapóta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "chitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "mokõi ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha peteĩ mbytépe"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue omokykýi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha peteĩ mbytépe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ha peteĩ ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ha peteĩ mbytépe"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ipytukue"
+    }
+  ],
+  "timestamp": "2026-10-02T08:26:57.056935532Z",
+  "model": "glm-5.3"
+}

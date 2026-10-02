@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Ha pe ojapovaʼekue oiko vai Jahve resápe, ha Jahve ojuka avei ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "oiko vai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:16.434324393Z",
+  "model": "glm-5.3"
+}

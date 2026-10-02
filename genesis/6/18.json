@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha che ajapóta che ñeʼẽmeʼẽ nde rehe ⟨את⟩, ha eikeséta pe tevýpe: nde, ne raʼykuéra, ne remirekóre ha ne raʼykuéra remirekoikuéra nde ndive ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Ha che ajapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nde rehe ⟨את⟩"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "Ha eikeséta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tevýpe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ne raʼykuéra"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ne remirekóre"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ha ne raʼykuéra remirekoikuéra"
+    },
+    {
+      "surface": "בניך",
+      "gloss": ""
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nde ndive ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T18:41:33.250787134Z",
+  "model": "glm-5.3"
+}

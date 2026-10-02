@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha che amondo peendive ⟨את⟩ kaʼaguy mymba, ha omoñaro ⟨את⟩ peẽ, ha oipeʼa opaite ⟨את⟩ peẽ mymba kuéra, ha omomichĩ ⟨את⟩ peẽ, ha peẽ tape kuéra oiko nandi.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "che amondo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "peendive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaʼaguy mymba"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "omoñaro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "oipeʼa opaite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ mymba kuéra"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "peẽ mymba kuéra"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "omomichĩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "oiko nandi"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "peẽ tape kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:04.520768742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Emboapyte nde rapyko, ha embohapy vove ⟨את⟩ ne yvy rembeʼy, Jahve nde Elohim omeʼẽva ndeve jeroviaha ramo; upéicha oĩta peve oho hag̃ua opaite ojukáva.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "emboapyte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rapyko"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "embohapy vove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yvy rembeʼy"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rembeʼy"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ne yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "omeʼẽva ndeve jeroviaha ramo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "upéicha oĩta"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "ohóvo oho hag̃ua"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "peve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ojukáva"
+    }
+  ],
+  "timestamp": "2026-10-02T10:00:32.296523010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ⟨את⟩ Jevusi, ha ⟨את⟩ ha Emori, ha ⟨את⟩ ha Girgachi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "Jevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ha Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ha Girgachi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ha Girgachi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:16.902288599Z",
+  "model": "glm-5.3"
+}

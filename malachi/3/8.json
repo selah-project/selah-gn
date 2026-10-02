@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "¿Yvypóra ojopo pa Elohim mbaʼe? ¿Peẽ ningo che jopo. Ha peẽ peʼe: Mbaʼégui pa rojopo ne? Pe maʼẽarã ha pe jopói.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "ojopo pa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "che jopo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "peẽ peʼe"
+    },
+    {
+      "surface": "במה",
+      "gloss": "mbaʼégui pa"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "rojopo ne"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "maʼẽarã"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "jopói"
+    }
+  ],
+  "timestamp": "2026-10-02T15:24:10.538413635Z",
+  "model": "glm-5.3"
+}

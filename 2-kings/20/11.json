@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 20:11",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Jeshajahu pe nabi ohenói Jahve-pe, ha ojevy ⟨את⟩ pe hats'e umi maláot ári, Ajaz maláot ári oguejýva'ekue hikuái, eve papote pa maláot.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeshajahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pe nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe hats'e"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "pe hats'e"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "umi maláot ári"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oguejýva'ekue"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "oguejý"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "maláot ári"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "eve papote"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "maláot"
+    }
+  ],
+  "timestamp": "2026-10-02T12:20:29.043827966Z",
+  "model": "glm-5.3"
+}

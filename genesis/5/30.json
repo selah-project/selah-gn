@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Lemech oikove ⟨את⟩ Noach heñói rire pono pa po ary ha sa ary, ha heñói raʼykuéra ha taʼykuéra.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemech"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "heñói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "pono pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ha sa…"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ha heñói"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha taʼykuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:09.534423606Z",
+  "model": "glm-5.3"
+}

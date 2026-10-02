@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 90,
+  "translation": "Emohenda ñande jejavy nde renondépe, ñande ñembyaíva nde rova resakãme.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "emohenda"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ñande jejavy"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ñande ñembyaíva"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "resakãme"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde rova"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:48.303640066Z",
+  "model": "glm-5.3"
+}

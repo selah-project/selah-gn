@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Ojere iñpyʼakuéra oiko haguã naijaʼéi hetã rehe, omboʼapaʼa haguã hembimoĩrãre.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "iñpyʼakuéra"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "naijaʼeihaguã"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hetã"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "omboʼapaʼahaguã"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "hembimoĩrãre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:10:40.093654255Z",
+  "model": "glm-5.3"
+}

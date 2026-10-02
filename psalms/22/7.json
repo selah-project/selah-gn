@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha che katu, che haʼe michĩmbagua, ndahaʼéi kuimbaʼe; yvypóra kuéra jepyʼarã, ha avakuéra ojehejareíva.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che katu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "michĩmbagua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nda-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndahaʼéi kuimbaʼe"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "jepyʼarã"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra kuéra"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ha ojehejareíva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:35.666355683Z",
+  "model": "glm-5.3"
+}

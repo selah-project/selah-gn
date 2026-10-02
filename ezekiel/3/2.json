@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha che jurua aipeʼa, ha oichuka chéve ⟨את⟩ ko jehaitira.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "che jurua aipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jurua"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che jurua"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "oichuka chéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko jehaitira"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "jehaitira"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T13:58:35.904615203Z",
+  "model": "glm-5.3"
+}

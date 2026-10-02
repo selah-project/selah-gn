@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Che tembiguái Jaákovo rehegua, ha Jisrael che iporavopyrépe, che ahendu nde réra; che ambohéra va'ekue ndéve, ha ndereikuaái che rehe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che tembiguái"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ha Jisrael"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "che iporavopyrépe"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "che ahendu va'ekue"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nde rérape"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "che ambohéra va'ekue ndéve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ndereikuaái che rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:56:24.445376971Z",
+  "model": "glm-5.3"
+}

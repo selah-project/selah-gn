@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Kuarahy osẽ, ha kuarahy og̃uahẽ; ha iñe'̃rendápe ojeipyso py'aguapy'ỹre, osẽjey haguã; upépe ⟨ha'e⟩ osẽ jey ojuehe.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha...pe"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iñe'̃rendápe"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ojeipyso py'aguapy'ỹre"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "osẽjey haguã"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ha'e⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:43.423263045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha Shaúl heʼi Shemuel-pe: Che ahendu hikuái Jahve ñeʼẽ, ha aho pe tape Jahve ochemondo hague peve, ha che aguereko ⟨את⟩ Agag, Amalek mburuvicha, ha ⟨את⟩ Amalek aiporavo ñembyai tee ramo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ahendu hikuái"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe tape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…hague"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ochemondo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "aguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "aiporavo ñembyai tee ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:43.858125439Z",
+  "model": "glm-5.3"
+}

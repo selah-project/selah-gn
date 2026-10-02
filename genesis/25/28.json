@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Jitshak ohayhu ⟨את⟩ Echav, japi oĩgui iñeʼẽme; Rivka katu ohayhu ⟨את⟩ Jaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Echav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Echav"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ציד",
+      "gloss": "japi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iñeʼẽme oĩgui"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "Rivka katu"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "ohayhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T07:45:40.779968848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Embaʼerã ⟨את⟩ Jahve-pe yrendýpe, ha eñembovyʼa turuʼĩrére.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Embaʼerã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "yrendýpe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ha eñembovyʼa"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "turuʼĩrére"
+    }
+  ],
+  "timestamp": "2026-10-02T15:22:49.410690431Z",
+  "model": "glm-5.3"
+}

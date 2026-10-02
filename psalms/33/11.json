@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Jahve apopy opa'ỹetépe opytánte, iñapopy py'agui téra ryepýpe, téra reyrégui.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "apopy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa'ỹetépe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "opytánte"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "iñapopy"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "py'agui"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "téra ryepýpe"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "téra reyrégui"
+    }
+  ],
+  "timestamp": "2026-10-02T19:22:57.388041211Z",
+  "model": "glm-5.3"
+}

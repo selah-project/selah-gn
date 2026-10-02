@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 121,
+  "translation": "Ani oheja nde kuã oguejy ha ani oke ñangarekóhā nde rehegua.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "nde kuã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "oke"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ñangarekóhā nde rehegua"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:57.744911739Z",
+  "model": "glm-5.3"
+}

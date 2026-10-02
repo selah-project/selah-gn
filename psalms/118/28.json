@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Nde che El, ha aguyje ndéve; nde che Elohim, amombaʼeguasu ndéve.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "che El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "aguyje ndéve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "amombaʼeguasu ndéve"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:41.277107548Z",
+  "model": "glm-5.3"
+}

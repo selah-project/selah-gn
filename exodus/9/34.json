@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 9:34",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Paroh ohecha opa hague oky, yrypa ha ñeʼẽryapu, ha ojapo jeýpe heko vai, ha omohatã i pyʼa, haʼe voi ha i tembiguáikuéra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "המטר",
+      "gloss": "oky"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "yrypa"
+    },
+    {
+      "surface": "והקלת",
+      "gloss": "ñeʼẽryapu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ojapo jeýpe"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "heko vai"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "omohatã"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "i pyʼa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe voi"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "i tembiguáikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:12:47.451088690Z",
+  "model": "glm-5.3"
+}

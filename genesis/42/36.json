@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha Jaakov ituakuéra heʼi chupekuéra: Che rehe peẽ aipeʼa hikuái che membykuéra; Josef noĩri, Chimón noĩri, ha ⟨את⟩ Binjamin peẽ oguerotáta; opaite koʼã mbaʼe che rehe ogueru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ituakuéra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che",
+      "marks": "che rehe aipeʼa hagua che membykuéra"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "aipeʼa hikuái"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "noĩri"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "Chimón"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "noĩri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "peẽ oguerotáta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "opaite koʼã mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:01:19.795377051Z",
+  "model": "glm-5.3"
+}

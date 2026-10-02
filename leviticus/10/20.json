@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Moche ohendu ha oikóporã iñesípe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "oikóporã"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "iñesípe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:50:53.102604901Z",
+  "model": "glm-5.3"
+}

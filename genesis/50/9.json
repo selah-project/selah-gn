@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 50,
+  "translation": "Ha ou hese avei karru, avei kavajúre ohóva kuéra, ha ⟨pe⟩ aty guasuite aiterei.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karru"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kavajúre ohóva kuéra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "guasuite"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:14.876123253Z",
+  "model": "glm-5.3"
+}

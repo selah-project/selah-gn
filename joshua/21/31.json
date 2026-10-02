@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Jelkat ha ⟨את⟩ ijyvy karugua, ha ⟨את⟩ Rejov ha ⟨את⟩ ijyvy karugua; táva irundy.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Jelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijyvy karugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijyvy karugua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Rejov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rejov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijyvy karugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijyvy karugua"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:30:15.257963621Z",
+  "model": "glm-5.3"
+}

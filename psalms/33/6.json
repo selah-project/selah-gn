@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Jahve ñeʼẽ rupi yvága ojapojeýpa; ha iñeʼẽngue ruah rupi opa itsevaakuéra.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "ñeʼẽ rupi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ojapojeýpa"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ha ruah rupi"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "iñeʼẽngue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "itsevaakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:14.956647024Z",
+  "model": "glm-5.3"
+}

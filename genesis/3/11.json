@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha Haʼe heʼi: Mávapa ohechauka ndéve reimehague katupyryʼỹre? ¿Nde reʼu pa yvyra gui che amombeʼúva ndéve ani nde reʼu hague?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "katupyryʼỹre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "reimehague"
+    },
+    {
+      "surface": "המן",
+      "gloss": "¿Nde"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "yvyra gui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che amombeʼúva"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "amombeʼu ndéve"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nde reʼu hague"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "reʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T07:28:58.915613766Z",
+  "model": "glm-5.3"
+}

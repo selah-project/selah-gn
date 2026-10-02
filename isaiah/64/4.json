@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 64,
+  "translation": "Rendu ⟨את⟩ pe ovyʼapópe ojapóva tsedek, umi nemanduʼáva nde rekópe; maheʼẽ, nde reĩ mbopochýpe ha jajejavýma — upévape jajesarekóta arakaʼe guaite.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "rendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ovyʼapópe ojapóva tsedek"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ovyʼapópe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "nde rekópe"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "nemanduʼa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "maheʼẽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "reĩ mbopochýpe"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "jajejavýma"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "upévape"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "arakaʼe guaite"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "jajesarekóta"
+    }
+  ],
+  "timestamp": "2026-10-02T13:02:49.699944937Z",
+  "model": "glm-5.3"
+}

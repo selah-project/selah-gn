@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha David kuimbeʼekuéra heʼi chupe: Ehérõ, ñande koʼape Yehuda-pe jaryrũ; taʼẽ mbovýpa jaháta Keila-pe, pelishtikuéra ñorairõaty rehe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimbeʼekuéra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehérõ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "פה",
+      "gloss": "koʼape"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda-pe"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "jaryrũ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "taʼẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbovýpa"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "jaháta"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Keila-pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": " rehe"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ñorairõaty"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:12:52.145722437Z",
+  "model": "glm-5.3"
+}

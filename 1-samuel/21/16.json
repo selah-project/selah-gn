@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "¿Tavykuéra pa che ndaipóri, emombaʼe haguáicha ⟨את⟩ ko kuimbaʼe oiko hag̃ua tavy ramo che renondépe? ¿Ko kuimbaʼe outa che rógape?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "ndaipóri che"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "tavykuéra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguáicha"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "pemombaʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko kuimbaʼe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko kuimbaʼe"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "oiko hag̃ua tavy ramo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko kuimbaʼe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "outa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "che róga"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:28.024777513Z",
+  "model": "glm-5.3"
+}

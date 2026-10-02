@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha ombouku ⟨אתו⟩ kuarepoti ijyguýpe, ha ojapo chupe ijerére jey yvyra kuarepotígui apopyre joaja guasu.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ombouku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kuarepoti ijyguýpe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ijyguýpe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "apopyre joaja guasu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepotígui"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:57.092432272Z",
+  "model": "glm-5.3"
+}

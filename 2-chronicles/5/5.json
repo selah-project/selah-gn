@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha upéi ohupi ⟨את⟩ aron, ⟨את⟩ ⟨tenda⟩ aty rehegua, ha ⟨את⟩ opaite mbaʼe marangatu oĩva tenda ryepýpe; umívape ohupi ⟨את⟩ paʼikuéra Levita-gui.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tenda aty rehegua"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨tenda⟩"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "aty rehegua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe marangatu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tenda ryepýpe"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paʼikuéra Levita kuéra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levita-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T18:20:45.718465485Z",
+  "model": "glm-5.3"
+}

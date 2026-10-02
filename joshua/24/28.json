@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Ha Jehochua omondo ⟨את⟩ ⟨pe⟩ tetã, peteĩteĩ iñane mbaʼeheraguápe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tetã"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩ"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "iñane mbaʼeheraguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:31:46.017198390Z",
+  "model": "glm-5.3"
+}

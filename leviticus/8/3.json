@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Embojoja ⟨את⟩ opaite aty, ñembyaty Oha Ñembojarã iñesẽme.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite aty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "embojoja ñembyaty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iñesẽme"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ñembojarã"
+    }
+  ],
+  "timestamp": "2026-10-02T18:46:17.846348171Z",
+  "model": "glm-5.3"
+}

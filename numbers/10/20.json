@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha pe Gad membykuéra aty sãmbyhy ári oĩ Eljasaf, Deuel raʼy.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ha ... ári"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sãmbyhy"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-10-02T09:22:01.406096502Z",
+  "model": "glm-5.3"
+}

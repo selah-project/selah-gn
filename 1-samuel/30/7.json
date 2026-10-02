@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha David oñeʼẽ Eviatar paʼi, Ajimélek raʼýpe: Egueru chéve koʼág̃a, jakuarahiʼã, pe efod; ha Eviatar ogueru ⟨את⟩ pe efod David peve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ajimélek"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Egueru"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koʼág̃a, jakuarahiʼã"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "pe efod"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "pe efod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:37.257298922Z",
+  "model": "glm-5.3"
+}

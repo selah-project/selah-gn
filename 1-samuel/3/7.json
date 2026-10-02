@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Shemuel ndaikuaáipa gueteri ⟨את⟩ Jahve, ha Jahve ñeʼẽ noñembojáva gueteri chupe.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ndaikuaáipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ha gueteri no… gueteri"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "noñembojáva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Jahve ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T10:55:42.756599743Z",
+  "model": "glm-5.3"
+}

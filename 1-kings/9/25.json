@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 9:25",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Chelomo omboja upi mbohypy jave ary ryepýpe ⟨את⟩ hayhupyre ñeme'ẽ (olot) ha ⟨את⟩ jokopy ñeme'ẽ (chelamim) pe marangatugua renda ári ojapova'ekue Jahve peg̃uarã, ha omono'ĩ tata ⟨את⟩ hese, pe oĩva Jahve renondépe; upéicha ombopaha ⟨את⟩ óga.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "omboja upi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohypy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jave"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ary ryepýpe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "hayhupyre ñeme'ẽ (olot)"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "jokopy ñeme'ẽ (chelamim)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe marangatugua renda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapova'ekue"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve peg̃uarã"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ha omono'ĩ tata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hese",
+      "marks": "pe marangatugua renda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ombopaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    }
+  ],
+  "timestamp": "2026-10-02T11:47:27.986621044Z",
+  "model": "glm-5.3"
+}

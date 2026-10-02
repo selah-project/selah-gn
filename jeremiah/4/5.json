@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 4:5",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Emombeʼu Jehuda-pe ha Jerusalaim-pe, emomarandu ha peʼẽ: Eipu shofar yvýpe, ehenoi mbarete ha peʼẽ: Peñembyaty ha jaike táva mbaretekuérape.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Emombeʼu"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehuda-pe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ha Jerusalaim-pe"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "emomarandu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ha peʼẽ"
+    },
+    {
+      "surface": "ותקעו",
+      "gloss": "Eipu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ehenoi mbarete"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ha peʼẽ"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "Peñembyaty"
+    },
+    {
+      "surface": "ונבואה",
+      "gloss": "ha jaike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-pe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "mbaretekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:12:18.013922870Z",
+  "model": "glm-5.3"
+}

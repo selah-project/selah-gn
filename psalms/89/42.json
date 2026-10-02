@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 89,
+  "translation": "Omondata chupe opa umi ohasáva ⟨⟨tape⟩⟩; oiko chugui jejaru umi iykéguakuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "omondata chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "umíva ohasa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko chugui"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "jejaru"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "iykéguakuéra apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:03:00.059061868Z",
+  "model": "glm-5.3"
+}

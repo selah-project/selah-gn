@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha Moche heʼi atyguárape: Kóva pe ñeʼẽ Jahve ojapo hag̃ua ohekomandávo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "atyguárape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohekomandávo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ohekomandá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T08:49:12.347856468Z",
+  "model": "glm-5.3"
+}

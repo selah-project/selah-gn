@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Najor oikove porundy pa mokõi ary, ha omemby ⟨את⟩ Teraj.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "porundy"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "pa mokõi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omemby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teraj"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraj"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:13.582710602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Ahániri, oimeraẽ yvypóra ndaikatúi jogua jey ityke'y; nahániri ome'ẽ Elohim-pe ijoguara'ã.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ahániri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "jogua jey"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ojogua jeykuaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ijoguara'ã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:45:36.988216270Z",
+  "model": "glm-5.3"
+}

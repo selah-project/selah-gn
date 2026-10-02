@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Kuarahy'ỹiguáicha jepe, kuimba'e kuaañe'ẽ ipu'akáva, ha kuimba'e kuaa reheguáva omombaretete ⟨i⟩pu'aka.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "kuaañe'ẽ"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ipu'akáva"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha kuimba'e"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "omombaretete"
+    },
+    {
+      "surface": "כח",
+      "gloss": "pu'aka"
+    }
+  ],
+  "timestamp": "2026-10-02T16:39:36.644224782Z",
+  "model": "glm-5.3"
+}

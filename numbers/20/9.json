@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha Moche ogueru ⟨את⟩ ⟨the⟩ ysvyrã Jahve renondépe guive, ha'e omandu'a haguéicha chupe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ysvyrã"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ysvyrã"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépe guive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "haguéicha"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "omandu'a chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:31:32.611136422Z",
+  "model": "glm-5.3"
+}

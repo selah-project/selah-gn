@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Oiko va'erã chuguãkuéra kuarepoti'etaicha yvatu ahape, ha Jahve marangatu omondoho va'erã chuguãkuéra.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Oiko va'erã chuguãkuéra"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kuarepoti'etaicha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "apype"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah, yvatu aha"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ha ⟨malak⟩ marangatu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "omondoho va'erã chuguãkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:39.206108602Z",
+  "model": "glm-5.3"
+}

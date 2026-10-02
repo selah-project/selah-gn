@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Oiko upéi ko'ẽmbotove rire: Moche oiporavo apyre'ỹ ohekojoja hag̃ua ⟨את⟩ pe tavaygua, ha pe tavaygua oñemohenda Moche renondépe ko'ẽ guive ka'aru peve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko upéi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ko'ẽmbotove rire"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oiporavo apyre'ỹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ohekojoja hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tavaygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavaygua"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavaygua"
+    },
+    {
+      "surface": "על",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ka'aru"
+    }
+  ],
+  "timestamp": "2026-10-02T08:21:12.435664010Z",
+  "model": "glm-5.3"
+}

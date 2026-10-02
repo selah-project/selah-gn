@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oheja ⟨את⟩ umi ruvichakuéra ñemitŷ oñemitŷva hese, ha oñemitŷ ⟨את⟩ umi mitãkuimbaʼe okakuaapýva henda reheve ⟨את⟩, umíva oĩvare ichugui renondépe.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ha oheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ruvichakuéra ñemitŷ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ñemitŷ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "umi ruvichakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñemitŷva"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ha oñemitŷ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mitãkuimbaʼe"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "umi mitãkuimbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okakuaapýva"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "okakuaapýva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "henda reheve ⟨את⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "העומדים",
+      "gloss": "oĩvare"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ichugui renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:50:30.422912722Z",
+  "model": "glm-5.3"
+}

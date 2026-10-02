@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Oikove kende opaite ára peve, nahániri ohecha ⟨pe⟩ ku'era.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kende"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "opaite ára peve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "pe ku'era"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:00.659284811Z",
+  "model": "glm-5.3"
+}

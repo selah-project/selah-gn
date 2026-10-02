@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oipeʼa ⟨את⟩ pe yvypóra, ha omoĩ Eden kaʼag̃y kuarahy resã gotyo ⟨את⟩ kerubim kuéra ha ⟨את⟩ hendyta rendy ojevyvýva, oñangareko hag̃ua ⟨את⟩ tape yvyra rekovegua ári.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Ha oipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "pe yvypóra"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ha omoĩ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kuarahy resã gotyo"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "kaʼag̃ýpe"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubim kuéra"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubim kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "hendyta rendy"
+    },
+    {
+      "surface": "להט",
+      "gloss": "rendy"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "hendyta"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "ojevyvýva"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "oñangareko hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tape"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "rekovegua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:36.383710405Z",
+  "model": "glm-5.3"
+}

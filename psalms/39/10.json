@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ñeʼẽʼỹme aiko, ani amoñepyrũ che juru, ningo nde rejapo chene.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ñeʼẽʼỹme aiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "amoñepyrũ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "che juru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo chene"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:17.575920986Z",
+  "model": "glm-5.3"
+}

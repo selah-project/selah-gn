@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha umi paʼi ndaikatúi oike Jahve ógape, Jahve kerayvoty ohenyhẽ haguã ⟨את⟩ ⟨pe⟩ Jahve óga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaikatúi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi paʼi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "oike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguã"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ohenyhẽ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kerayvoty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T18:21:47.679562989Z",
+  "model": "glm-5.3"
+}

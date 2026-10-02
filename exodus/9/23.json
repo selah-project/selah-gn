@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Moche oguerecha ⟨את⟩ itaira yvágari, ha Jahve omeʼẽ tai ha yrypyʼi, ha tata oho yvy gotyo, ha Jahve omombaʼapo yrypyʼi Mitsraim yvýre.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ha oguerecha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaira"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "itaira"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ha yrypyʼi"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvy gotyo"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "ha omombaʼapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "yrypyʼi"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:14:00.616335471Z",
+  "model": "glm-5.3"
+}

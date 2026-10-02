@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha paʼi ombojoaju ⟨את⟩ kuñápe, ha omoĩ hese Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ombojoaju"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kuña"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:19:09.490576749Z",
+  "model": "glm-5.3"
+}

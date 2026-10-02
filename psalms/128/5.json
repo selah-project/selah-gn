@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 128,
+  "translation": "Jahve ombovyʼapýta nderehe Sion-gui, ha ereʼejáta Jerusalaim mbaʼe porã ngatu, ne rekove ára opaite aja.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ombovyʼapýta nderehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Sion-gui"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ereʼejáta"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ne rekove aja"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:01.414142112Z",
+  "model": "glm-5.3"
+}

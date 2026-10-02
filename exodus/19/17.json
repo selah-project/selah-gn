@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha Moche ogueru ⟨את⟩ ⟨pe⟩ avakuéra oho haguã ojuhu Elohim, ⟨pe⟩ táva mbaʼegui; ha oñemohenda ⟨pe⟩ yvyty iñpypeʼýpe.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "oho haguã ojuhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mbaʼegui"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "iñpypeʼýpe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    }
+  ],
+  "timestamp": "2026-10-02T08:20:39.376970765Z",
+  "model": "glm-5.3"
+}

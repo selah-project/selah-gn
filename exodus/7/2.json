@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Nde reñeʼẽta ⟨את⟩ opaite mbaʼe che amongẽva ndéve, ha Aharon, nde kyvy, oñeʼẽta Parao rehe, ha ohejáta ⟨את⟩ Jisrael mitãnguéra osẽvo itetãgui.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "reñeʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "che amongẽva ndéve"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ha Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde kyvy"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ohejáta osẽvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael mitãnguéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "itetãgui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:46.814496268Z",
+  "model": "glm-5.3"
+}

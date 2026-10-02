@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Opaite Jisrael aty ojapota ⟨את⟩ chupe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ojapota"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chupe",
+      "marks": "Pésaj"
+    }
+  ],
+  "timestamp": "2026-10-02T08:16:35.860901835Z",
+  "model": "glm-5.3"
+}

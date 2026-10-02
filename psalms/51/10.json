@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Ehechauka chéve vyʼa guasu ha vyʼa, kanguakuéra remomichĩ vaʼekue ovyʼa peve.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "ehechauka chéve"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "vyʼa guasu"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ha vyʼa"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ovyʼata"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kanguakuéra"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "remomichĩ vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:15.017143188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha pireramo guara oreko hovyũ sa'y, ha tajachi pirí, ha ita yvyra kapi'i.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "Ha pireramo guara"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "hovyũ sa'y oreko"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "hovyũ sa'y"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ha pireramo guara"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tajachi pirí"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ha yvyra"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ita yvyra kapi'i"
+    }
+  ],
+  "timestamp": "2026-10-02T08:26:14.918365813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Okarúta ha ndojuevýimoi; hoʼa tahãme ha nombojaháimoi; heʼísaka oheja hikuái ⟨את⟩ Jahve, ñangarekoʼỹre.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Okarúta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo…moi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ojuevýimoi"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "hoʼa tahãme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo…moi"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ombojahái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heʼísaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "oheja hikuái"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ñangarekoʼỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T14:44:16.179555808Z",
+  "model": "glm-5.3"
+}

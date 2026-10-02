@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Nde róga kyreʼỹ che aju vaʼekue, ha umi nde jarerohakuéra ñeʼẽ vai oho che ári.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kyreʼỹ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde róga"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "che aju vaʼekue"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ha ñeʼẽ vai"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "nde jarerohakuéra"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:46.196851639Z",
+  "model": "glm-5.3"
+}

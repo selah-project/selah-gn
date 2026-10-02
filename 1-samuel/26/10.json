@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha David heʼi: Che añeʼẽme, Jahve rekove haʼévo: Jahve añoite ojapóta chupe, térã ou ta i ára ha omano, térã ohóma ñorãirõme ha omano opaite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che añeʼẽme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "ojapóta chupe"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "i ára"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ou ta"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ha omano"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ñorãirõme"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ohóma"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "omano opaite"
+    }
+  ],
+  "timestamp": "2026-10-02T11:15:57.244659503Z",
+  "model": "glm-5.3"
+}

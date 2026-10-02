@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha Jahve ojapóta chupekuéra ojapóhaguáicha Sijón ha Og-pe, umi amoreakuéra mburuvichakuérare, ha iñyvýpe, oity ⟨את⟩ chupekuéra haguéicha.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojehúicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sijón-pe"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ha Og-pe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreakuéra"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "ha iñyvýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "oity"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T10:13:43.687107097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Ramo imba'ekuaarãmava hemikuaa ára, ijasy kuéra papapy ⟨את⟩ ndive, remoĩ hembigúi ha nahániri ohasamo'ã.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "imba'ekuaarãmava"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hemikuaa ára"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "papapy"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "ijasy kuéra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive",
+      "marks": "ijasy kuéra papapy"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "hembigúi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "remoĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ohasamo'ã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:52:53.143047204Z",
+  "model": "glm-5.3"
+}

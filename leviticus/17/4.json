@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 17:4",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "ha nomoïmbái Ohel Moʼed rokẽme, omeʼẽ hag̃ua korban Jahve pe, Jahve Michkan renondépe: tuguéi ojekuaata pe kuimbaʼe rehe; tuguéi ombosyryi; ha pe kuimbaʼe ojeipeʼata itavayguakuéra apytégui.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ha … rokẽme"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "rokẽ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moʼed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd… ïmbái"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nomoïmbái"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "omeʼẽ hag̃ua"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve pe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tuguéi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ojekuaata"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pe kuimbaʼe rehe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tuguéi"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ombosyryi"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ha ojeipeʼata"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itavayguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:57:47.651179782Z",
+  "model": "glm-5.3"
+}

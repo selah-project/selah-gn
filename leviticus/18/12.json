@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Erva ne ru tuakayke anerehechauka; ne ru soʼo ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "erva"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "tuakayke"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ne ru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "rehechauka"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "soʼo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ne ru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-02T08:55:23.959953431Z",
+  "model": "glm-5.3"
+}

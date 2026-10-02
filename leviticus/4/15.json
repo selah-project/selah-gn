@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨aty⟩ ruvichakuéra omoĩ ⟨את⟩ po kuéra hikuái pe vaka akã ári, Jahve renondépe, ha ojuka ⟨את⟩ pe vaka Jahve renondépe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "ha omoĩ hikuái"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "po kuéra"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "po kuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "akã"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pe vaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ha ojuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vaka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pe vaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:31.336089692Z",
+  "model": "glm-5.3"
+}

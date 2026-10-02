@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha ogueru ⟨את⟩ kuatiañe'ẽ Jisrael mburuvichape, oheja hagua: Ko'ág̃a, ko kuatiañe'ẽ oġuahẽvo ndeve, peẽ, amondo ndeve ⟨את⟩ Naaman, che rembiguái, egueru hese ipire mba'asygui.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kuatiañe'ẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oheja hagua"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "oġuahẽvo"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kuatiañe'ẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "amondo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che rembiguái"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "egueru hese"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "ipire mba'asygui"
+    }
+  ],
+  "timestamp": "2026-10-02T12:06:19.995304466Z",
+  "model": "glm-5.3"
+}

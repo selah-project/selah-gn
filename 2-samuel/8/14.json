@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 8:14",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Ha omoĩ Edom-pe ñemohenda ñorairõhára, Edom tuichakuepe omoĩ ñemohenda ñorairõhára, ha Edom tuichakue oiko David tembiguái ramo; ha Jahve oñangareko ⟨את⟩ David rehe opa mbaʼe ojapo hague.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom-pe"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ñemohenda ñorairõhára"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tuichakuepe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ñemohenda ñorairõhára"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguái ramo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ojapo hague"
+    }
+  ],
+  "timestamp": "2026-10-02T11:21:00.667158115Z",
+  "model": "glm-5.3"
+}

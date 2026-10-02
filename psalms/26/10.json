@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Upekuévo, ipokatu ipópe mbaʼe vai japoséva, ha ipó juasu ihenyhẽ jopói vaígui.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "upekuévo"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mbaʼe vai japoséva"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ipó juasu"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ihenyhẽ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "jopói vai"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:13.109313155Z",
+  "model": "glm-5.3"
+}

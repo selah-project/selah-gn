@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Akoný tipe pa'ũ vevýpe, ha ndaipóri apysãrã; aju y pa'ũguasúpe, ha y syry ogueraha cherehe.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Akoný"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "tipe"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "pa'ũ vevý"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "apysãrã"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aju"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "pa'ũguasúpe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ha y syry"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "ogueraha cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:26.492891615Z",
+  "model": "glm-5.3"
+}

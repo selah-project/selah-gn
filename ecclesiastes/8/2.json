@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Che: ereko ⟨את⟩ mburuvicha juru, ri Elohim jura rehe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "פי",
+      "gloss": "juru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ereko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ri"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "jura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:29.937508581Z",
+  "model": "glm-5.3"
+}

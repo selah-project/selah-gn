@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ngo pene esa kuéra ohecha ⟨את⟩ opaite Jahve rembiapo tuichavéva ha ojapovaʼekue.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "pene esa kuéra"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Jahve rembiapo tuichavéva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rembiapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "tuichavéva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:19.064469865Z",
+  "model": "glm-5.3"
+}

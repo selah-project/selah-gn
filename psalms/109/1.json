@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Pe omyakãvape g̃uarã. David rembiapo. Salamo. Che ñemboaʼẽrã Elohim, ani reñemi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe omyakãvape g̃uarã"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David rembiapo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Salamo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "che ñemboaʼẽrã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "reñemi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:28.748397776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ndaipórita kuña ojapovaʼerãʼỹva terã ndoñemomorãiva ne retãme; ⟨את⟩ ne ára papy amohẽmbáta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndaipórita"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oiñóta"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "ojapovaʼerãʼỹva"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "terã ndoñemomorãiva"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ne retãme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ára papy"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "papy"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ne ára"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "amohẽmbáta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:23.241511445Z",
+  "model": "glm-5.3"
+}

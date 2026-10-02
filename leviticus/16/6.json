@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Aharon omoĩ ⟨את⟩ vakakuimbaʼe jeguaru jeikerãmõ rã — pe oñembojaruvaʼekue chupe g̃uarã — ha ojaposéta mbaʼejoja chupe ha hogaʼy rehe g̃uarã.",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִיב",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vakakuimbaʼe"
+    },
+    {
+      "surface": "פַּר",
+      "gloss": "vakakuimbaʼe"
+    },
+    {
+      "surface": "הַחַטָּאת",
+      "gloss": "jeguaru jeikerãmõ rã"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "chupe g̃uarã"
+    },
+    {
+      "surface": "וְכִפֶּר",
+      "gloss": "ojaposéta mbaʼejoja"
+    },
+    {
+      "surface": "בַּעֲדוֹ",
+      "gloss": "chupe rehe"
+    },
+    {
+      "surface": "וּבְעַד",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בֵּיתוֹ",
+      "gloss": "hogaʼy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:56:50.377439409Z",
+  "model": "glm-5.3"
+}

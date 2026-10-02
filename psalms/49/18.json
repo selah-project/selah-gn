@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Haʼe omanõrõ ndoguerahamoʼãi opaite mbaʼe; i-mbaʼeguasu ndogueyimoʼãi haʼe rire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Haʼe katu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd…moʼãi"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "haʼe omanõrõ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dogueraha"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd…moʼãi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "dogueyi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "haʼe rire"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "i-mbaʼeguasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:40.080502179Z",
+  "model": "glm-5.3"
+}

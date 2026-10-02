@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "translation": "Ha Og-pe, vachan mburuvicha, ko'ẽgue pyahu hesed; opave'ỹre i hesed.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Ha Og-pe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "vachan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko'ẽgue pyahu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opave'ỹre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "i hesed"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:29.900797582Z",
+  "model": "glm-5.3"
+}

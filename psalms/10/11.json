@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha'e he'i iñpy'aguapýpe: El ojavyma, oñomi ⟨i⟩jesareko; opave'ỹre araka'eve ndohechái.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iñpy'aguapýpe"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ojavyma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "oñomi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ijesareko"
+    },
+    {
+      "surface": "בל",
+      "gloss": "araka'eve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndohechái"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "opave'ỹre"
+    }
+  ],
+  "timestamp": "2026-10-02T15:29:48.563533546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha upéicharupi oiko hikuái Jisrael ñeha'ãrã, ikuaa hag̃ua ohenondeʼápa hikuái ⟨את⟩ Jahve mboʼe kuéra, omoinge vaʼekue ⟨את⟩ itúva kuérape Moše rupive.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ha upéicharupi oiko hikuái"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ñeha'ãrã"
+    },
+    {
+      "surface": "בם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ikuaa hag̃ua"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "ohenondeʼápa hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve mboʼe kuéra"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mboʼe kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omoinge vaʼekue"
+    },
+    {
+      "surface": "צוה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itúva kuérape"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "itúva kuérape"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-02T10:33:58.301408952Z",
+  "model": "glm-5.3"
+}

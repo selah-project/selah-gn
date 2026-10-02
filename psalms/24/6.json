@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Kóva haʼe pe ñemoñarã ohekáva chupe, umi ohekaséva nde resaju — Jaakov. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoñarã"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ohekáva"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ohekaséva"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde resaju"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:24.290376478Z",
+  "model": "glm-5.3"
+}

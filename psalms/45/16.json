@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "translation": "Vyʼapavẽ ha mbaʼeguaru ndive ojeguerahata hikuái; ogueẽmbáta mburuvicha guasu óga guasúpe.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ojeguerahata hikuái"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "vyʼapavẽ ndive"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ha mbaʼeguaru"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ogueẽmbáta"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "óga guasúpe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:11.742754192Z",
+  "model": "glm-5.3"
+}

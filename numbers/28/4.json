@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "⟨את⟩ Peteĩ oreve rakã ejapóta koʼẽme, ha ⟨את⟩ oreve rakã mokõiha ejapóta koʼẽrãĩme.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peteĩ oreve rakã"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "oreve rakã"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ejapóta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oreve rakã mokõiha"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "oreve rakã"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ejapóta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "koʼẽrãĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T09:38:29.378745193Z",
+  "model": "glm-5.3"
+}

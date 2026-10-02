@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Emondo eguerohývo ⟨את⟩ pe sy, ha ⟨את⟩ umi mitã egueru ndeve; ejapo hag̃ua ivai ndeve ha arevéta haguã ára ndeve.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Emondo eguerohývo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "emondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe sy"
+    },
+    {
+      "surface": "האם",
+      "gloss": "pe sy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi mitã"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "umi mitã"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ejapo hag̃ua"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ivai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "arevéta haguã"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-02T10:02:29.709137043Z",
+  "model": "glm-5.3"
+}

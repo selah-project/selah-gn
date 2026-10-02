@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 41,
+  "translation": "Iñakãrapuʼã Jahve, Jisrael Elohim, ymaite guive opaveʼỹ meve. Amén ha Amén.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Iñakãrapuʼã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "ymaite guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "opaveʼỹ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amén"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ha Amén"
+    }
+  ],
+  "timestamp": "2026-10-02T15:42:15.937598327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Eme'ẽ chupekuéra ojapohagueicha ha i mba'e vai japoséguiicha; hikuái pópa ojapo hagueicha eme'ẽ chupekuéra; embojevy chupekuéra hikuái rembiaporã.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Eme'ẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "ojapohagueicha"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "i mba'e vai japoséguiicha"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "japoségui"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ojapo hagueicha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hikuái pópa"
+    },
+    {
+      "surface": "תן",
+      "gloss": "eme'ẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "השב",
+      "gloss": "embojevy"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "rembiaporã"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:31.875320771Z",
+  "model": "glm-5.3"
+}

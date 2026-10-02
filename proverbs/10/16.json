@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Pe marangatu apo ⟨ohó⟩ tekovépe; pe ivairõ ñemuhã ⟨ohó⟩ jejavýpe.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "apo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe marangatu"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "tekovépe"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ñemuhã"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe ivairõ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "jejavýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:32:00.768218358Z",
+  "model": "glm-5.3"
+}

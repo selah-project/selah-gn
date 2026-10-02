@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 107,
+  "translation": "Jahve ojoguajey vaʼekue kuéra jaʼe upéicha, umi ojoguajey vaʼekue ñorãirõhára ipo gui.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "jaʼe upéicha"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ojoguajey vaʼekue kuéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ojoguajey vaʼekue"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ipo gui"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ñorãirõhára"
+    }
+  ],
+  "timestamp": "2026-10-02T16:11:15.055332544Z",
+  "model": "glm-5.3"
+}

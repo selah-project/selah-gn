@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha paʼi omutũ ⟨את⟩ rarẽ mizbeaj ári, ha pyʼa katu ohóta Aharon ha imembykuérape.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "omutũ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rarẽ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rarẽ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mizbeaj ári"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ohóta"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon-pe"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "imembykuérape"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:59.694958551Z",
+  "model": "glm-5.3"
+}

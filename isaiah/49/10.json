@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Noikaruse moʼãi ha noity moʼãi; haku ha kuarahy ombohasy moʼãi chupekuéra; upépe, pe oporiahuverekóva chupekuéra oguata omog̃uahẽta, ha y resēhápe oguatárãgueraháta chupekuéra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "oikaruse moʼãi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "oity moʼãi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "ombohasy moʼãi"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "haku"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ha kuarahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "pe oporiahuverekóva chupekuéra"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "oguata omog̃uahẽta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "y resēhápe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "oguatárãgueraháta chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T12:55:15.339450487Z",
+  "model": "glm-5.3"
+}

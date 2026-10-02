@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha aipuru ⟨את⟩ Jaazanjah, Jirmejahu raʼýra, Javatsanjah raʼýra raʼýra, ha ⟨את⟩ ijoykekuéra, ha ⟨את⟩ opaite itaʼýraikuéra, ha ⟨את⟩ opaite Rekabi-kuéra óga.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ha aipuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaazanjah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Jaazanjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýra"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýra"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Javatsanjah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijoykekuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykekuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite itaʼýraikuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "itaʼýraikuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "opaite Rekabi-kuéra óga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rekabi-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T13:36:46.591533364Z",
+  "model": "glm-5.3"
+}

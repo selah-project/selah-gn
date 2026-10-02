@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 17,
+  "translation": "Ha pejepy'amongetava'erã ⟨את⟩ pene so'o piroguy; ha upéva oikóta techaukaha ramo che ñe'ẽme'ẽguigua, che ha peju mbytépe.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "ha pejepy'amongetava'erã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pene so'o piroguy"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "so'o"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "pene piroguy"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ha upéva oikóta"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "techaukaha ramo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñe'ẽme'ẽguigua"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "che mbytépe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ha peju mbytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:38:30.972357577Z",
+  "model": "glm-5.3"
+}

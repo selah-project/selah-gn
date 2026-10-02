@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "“Eñemboja Jahve rehe, ojeipyso ha oñongatu pe Jahve omongetáva: japyhy chupe Jahve, omoñepyrũ jevy chupe, hetaiterei oipota hikuái ichupe.”",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "eñemboja (pe ojeipyso vaʼekue)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "omongeta vaʼerã chupe"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "omoñepyrũ jevy vaʼerã chupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ichupe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:33:23.385372641Z",
+  "model": "glm-5.3"
+}

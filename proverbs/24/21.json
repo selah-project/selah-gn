@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "Eñembyasy ⟨את⟩ Jahve, che raʼy, ha ⟨pe⟩ mburuvicha; ani eñembojoaju umi oñemoambuéva ndive.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "eñembyasy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che raʼy"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "umi oñemoambuéva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "eñembojoaju"
+    }
+  ],
+  "timestamp": "2026-10-02T16:40:18.869942738Z",
+  "model": "glm-5.3"
+}

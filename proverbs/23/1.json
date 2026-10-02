@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Eñemboruirúrõ ⟨את⟩ jára ndive, eikũmbýke emombaʼapóke ⟨את⟩ mbaʼe oĩva nde renondépe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upeicharõ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "eñemboruirúrõ"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "emboruiru hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jára"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "jára"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eikũmbýke"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ereikũmbýke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼe oĩva nde renondépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:40:46.368866002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha aheja che pyʼa oikuaa hag̃ua chakuriʼa, ha oikuaa hag̃ua iñapañuʼi ha jejavy; aikuaamí ko mbaʼe avei haʼeha ruah jopy.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che pyʼa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "oikuaa hag̃ua"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "chakuriʼa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ha oikuaa hag̃ua"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "iñapañuʼi"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "ha jejavy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aikuaamí"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "jopy"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-02T17:18:43.872482309Z",
+  "model": "glm-5.3"
+}

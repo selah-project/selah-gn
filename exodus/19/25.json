@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha upéi Moche oguejy ⟨את⟩ tetãygua apytépe, ha oñeʼẽ chupekuéra.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãygua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:19:00.919540467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 145,
+  "translation": "Opaite resa ne rendápe ohaʼãro, ha nde remeʼẽ chupekuéra ⟨את⟩ ikaru iñárape iñárape.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "resa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ne rendápe"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ohaʼãro"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "remeʼẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikaru"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ikaru"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "iñárape iñárape"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:59.826375524Z",
+  "model": "glm-5.3"
+}

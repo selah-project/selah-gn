@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ombyaty mbovyjaháicha ⟨umí⟩ ysy ysyrýgui, omoĩ iñongatuhatãme umi ypa guasu.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "ombyaty"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "mbovyjaháicha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ysy"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ysyrýgui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "iñongatuhatãme"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ypa guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:14.956804319Z",
+  "model": "glm-5.3"
+}

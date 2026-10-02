@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha omog̃uahẽ ⟨את⟩ tavayguakuéra mba'eje'u, ha ogueru ⟨את⟩ pe rachuã javy mba'eje'u tavayguakuéra mba'éva, ha ojuka chupe ha omoĩ chupe javy mba'eje'u ramo, peteĩhaicha.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "omog̃uahẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavayguakuéra mba'eje'u"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "mba'eje'u"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rachuã"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pe rachuã"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "javy mba'eje'u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'éva"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ojuka chupe"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "omoĩ chupe javy mba'eje'u ramo"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "peteĩhaicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:48:08.716811693Z",
+  "model": "glm-5.3"
+}

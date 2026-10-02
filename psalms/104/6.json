@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Tehom rejaho'i chupe aõjeguaraháicha; yvyty ári katu opu'ã ⟨את⟩ y.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "aõjeguaraháicha"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "rejaho'i chupe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "opu'ã"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:54.247417555Z",
+  "model": "glm-5.3"
+}

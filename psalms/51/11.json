@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 51,
+  "translation": "Eñomi nde rova che mbaʼevaígui, ha embogue opaite che jeiko vaíva.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "eñomi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde rova"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "che mbaʼevaígui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "che jeiko vaíva"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "embogue"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:15.017308516Z",
+  "model": "glm-5.3"
+}

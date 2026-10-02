@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha ⟨את⟩ takuru mbaʼe tatápe meʼẽha oñemboypáva, ha ⟨את⟩ opa hembiapo, ha ⟨את⟩ ryru jepokuaa ha ⟨את⟩ ipypo py.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takuru mbaʼe tatápe meʼẽha oñemboypáva"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "takuru"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mbaʼe tatápe meʼẽha oñemboypáva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa hembiapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hembiapo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ryru jepokuaa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ryru jepokuaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ipypo py"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ipypo py"
+    }
+  ],
+  "timestamp": "2026-10-02T08:30:25.679377973Z",
+  "model": "glm-5.3"
+}

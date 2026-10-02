@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha Avraham ome'ẽ ⟨את⟩ opaite mba'e orekóva Jitshak-pe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e orekóva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "orekóva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshak-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:44:48.950811853Z",
+  "model": "glm-5.3"
+}

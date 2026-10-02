@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha David ohecha Shaúl osẽhague oheka hag̃ua ⟨את⟩ iñangirũa rekove, ha David oiko Zif kaʼaguy ýpe, Jorécha-pe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽhague"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "oheka hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñangirũa rekove"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iñangirũa rekove"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ha David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kaʼaguy ýpe"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Jorécha-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:11:06.998095113Z",
+  "model": "glm-5.3"
+}

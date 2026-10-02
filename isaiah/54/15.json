@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 54,
+  "translation": "Maheʼã: oñembyatýta háicha, che reheʼỹre; mávapa oñembyaty nde ⟨את⟩ ndive? Nde ári oipeʼa vaʼerã.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Maheʼã"
+    },
+    {
+      "surface": "גור",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "oñembyatýta"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "che reheʼỹre"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "pe oñembyatýva"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde ári"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "oipeʼa vaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-02T12:58:08.368177164Z",
+  "model": "glm-5.3"
+}

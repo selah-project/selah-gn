@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Moche opa oñeʼẽ ⟨את⟩ opaite umi ñeʼẽ koʼãgua opavave Jisrael-pe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñeʼẽ koʼãgua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼãgua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T10:12:33.780464350Z",
+  "model": "glm-5.3"
+}

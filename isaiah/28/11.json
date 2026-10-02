@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Péro ñeʼẽ jesareko vaípe ha iñambuéva ñeʼẽ ndie oñeʼẽta ko avanoa rehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Péro"
+    },
+    {
+      "surface": "בלעעגי",
+      "gloss": "ñeʼẽ jesareko vaípe"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ha ñeʼẽ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "iñambuéva"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ko avanoa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-02T12:40:13.376444218Z",
+  "model": "glm-5.3"
+}

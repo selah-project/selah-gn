@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Upévare peẽ reñongatu ⟨את⟩ che tekorãkuéra ha ⟨את⟩ che hekojojahakuéra, umíva yvypóra ojapóramo, ovekove hikuái umíva reheve; che Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "reñongatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che tekorãkuéra"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "che tekorãkuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "che hekojojahakuéra"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "che hekojojahakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóramo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ovekove hikuái"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "umíva reheve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T08:55:48.102067791Z",
+  "model": "glm-5.3"
+}

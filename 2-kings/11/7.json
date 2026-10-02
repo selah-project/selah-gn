@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha mokõi aty peẽ mokõivévagui — opaite umíva osẽvaꞌekue Chabat árape — ñangarekóta ⟨את⟩ ⟨pe⟩ Jahve roga ñangareko rehe, pe mburuvicha ijerére.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ha mokõi"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "aty"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "peẽ apytégui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "osẽvaꞌekue"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Chabat árape"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ñangarekóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñangareko"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ñangareko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T12:09:27.159477239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Pekaj, Remaliah raʼýpe, ary pokõiipa pohaĩme, Ajaz, Jotam raʼy, Juda mburuvichaguasu oisãmbyhy heta tysýi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ary...me"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõiipa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pohaĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "Pekaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaliah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oisãmbyhy heta tysýi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvichaguasu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-10-02T12:16:34.399965986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "ha rehendúta yvágagui ⟨את⟩ iñemboʼerã ha ⟨את⟩ ijerure, ha rejapóta ihekojoja.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ha rehendúta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñemboʼerã"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "iñemboʼerã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijerure"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ijerure"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ha rejapóta"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ihekojoja"
+    }
+  ],
+  "timestamp": "2026-10-02T18:20:50.126690525Z",
+  "model": "glm-5.3"
+}

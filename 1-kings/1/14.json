@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Che, nde ekatúiramo gueteri upépe reñeʼẽmba mburuvicha ndive, che aháta nde rire ha amombaʼéta ⟨את⟩ nde ñeʼẽkuéra.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Che"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "gueteri"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "reñeʼẽmba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aháta"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "nde rire"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "amombaʼéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ñeʼẽkuéra"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "nde ñeʼẽkuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:37:19.807829162Z",
+  "model": "glm-5.3"
+}

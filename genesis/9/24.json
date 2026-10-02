@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Noe oesarái huguígui, ha oikuaa ⟨את⟩ mba'e ojapova'ekue chupe ita'ýra michĩvéva.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "oesarái"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "huguígui"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba'e ojapova'ekue chupe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapova'ekue"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ita'ýra"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "michĩvéva"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:40.373709675Z",
+  "model": "glm-5.3"
+}

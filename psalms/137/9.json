@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 137,
+  "translation": "Vyʼapavẽ oguerekóta pe ogueraha ha ojovai ⟨את⟩ nde mitã okambúva itáre.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Vyʼapavẽ"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "pe ogueraha"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "ha ojovai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nde mitã okambúva"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "nde mitã okambúva"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "re"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "itáre"
+    }
+  ],
+  "timestamp": "2026-10-02T16:21:06.872288509Z",
+  "model": "glm-5.3"
+}

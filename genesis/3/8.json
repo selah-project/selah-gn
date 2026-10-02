@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ohendu hikuái ⟨את⟩ Jahve Elohim ñeʼẽ ohova kaʼaguýpe, arakaʼe yvytu roʼysã aja; ha kuimbaʼe ha ikuña okañy hikuái Jahve Elohim renondépe, kaʼaguý yvyrakuéra apytépe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Elohim ñeʼẽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ohova"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "kaʼaguýpe"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "yvytu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ára roʼysã"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "okañy hikuái"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ha ikuña"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyrakuéra"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "kaʼaguý"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:41.556420617Z",
+  "model": "glm-5.3"
+}

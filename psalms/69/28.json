@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 69,
+  "translation": "Embojoapy mbaʼevai imbaʼevai ári, ha ani oike nde tsedek apytépe.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Embojoapy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "imbaʼevai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "oike"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nde tsedek apytépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:55:25.321793951Z",
+  "model": "glm-5.3"
+}

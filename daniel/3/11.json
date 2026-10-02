@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha pe ndoguejíva ha noñemboʼíva, oñemoĩta pe tata okapũ vaípe, mbytépe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ha pe"
+    },
+    {
+      "surface": "די",
+      "gloss": "va"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "oguejíva"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "ha noñemboʼíva"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "oñemoĩta"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "pe tata rendy"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tata"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "okapũ vaípe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:34:24.526272483Z",
+  "model": "glm-5.3"
+}

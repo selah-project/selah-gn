@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Jahve añoite omonguʼe chupe, ha ndaipóri hese El ñaneʼẽʼỹva.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "omonguʼe chupe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ñaneʼẽʼỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T10:12:21.791624840Z",
+  "model": "glm-5.3"
+}

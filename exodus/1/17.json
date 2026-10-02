@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha umi mitãmongaraihára ojerovi ⟨את⟩ Elohim rehe, ha ndojapói pe mbaʼe Mitsraim mburuvicha oñeʼẽ vaʼekue chupekuéra, ha omoĩkuaa ⟨את⟩ umi mitãkuimbaʼe.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "ojerovi"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "umi mitãmongaraihára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndojapói"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapóiva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pe mbaʼe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ vaʼekue"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ha omoĩkuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mitãkuimbaʼe"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "umi mitãkuimbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:36.037712967Z",
+  "model": "glm-5.3"
+}

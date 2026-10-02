@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Saʼy hovy, saʼy pytã-hovy, pytãvera saʼykue, ao porã ha kavara ague.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "saʼy hovy"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "saʼy pytã-hovy"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "saʼykue"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pytãvera"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ao porã"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "kavara ague"
+    }
+  ],
+  "timestamp": "2026-10-02T08:34:16.117341894Z",
+  "model": "glm-5.3"
+}

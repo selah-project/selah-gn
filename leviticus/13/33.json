@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha oñemondýi haʼe, ha ⟨את⟩ pe netek ndoñemondýi; ha pe paʼi oñemongaʼi ⟨את⟩ pe netek póra ára, mokõiha jave.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "oñemondýi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "pe netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na…i"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ndoñemondýi"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "oñemongaʼi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe paʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "pe netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "póra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mokõiha jave"
+    }
+  ],
+  "timestamp": "2026-10-02T08:51:50.149222139Z",
+  "model": "glm-5.3"
+}

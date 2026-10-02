@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha kuéra ohe'i chupe: Nahániri, che jára; nde mba'epyharakuéra ou ojogua hag̃ua tembi'u.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nahániri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "ו עבדיך",
+      "gloss": "nde mba'epyharakuéra"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ojogua hag̃ua"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "tembi'u"
+    }
+  ],
+  "timestamp": "2026-10-02T07:59:59.579163496Z",
+  "model": "glm-5.3"
+}

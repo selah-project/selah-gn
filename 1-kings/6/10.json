@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha ojapo ⟨את⟩ pe óga yke rehegua opaite ⟨pe⟩ óga ári, ipo amo irũ; ha ojoaju ⟨את⟩ pe óga ereza yvyra rehe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe óga yke rehegua"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "pe óga yke rehegua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amo irũ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ipirũ"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ojoaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "yvyra rehe"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ereza"
+    }
+  ],
+  "timestamp": "2026-10-02T11:41:42.358350231Z",
+  "model": "glm-5.3"
+}

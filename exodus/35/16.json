@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "⟨את⟩ ñembyairã altar, ha ⟨את⟩ yvykuare japi ohaʼéva chupe, ⟨את⟩ iyvyrakuãi, ha ⟨את⟩ opaite imbaʼeaporembasa, ⟨את⟩ yhakuãha ha ⟨את⟩ ipy.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñembyairã altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ñembyairã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvykuare japi"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "yvykuare japi"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yvykuare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼéva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyvyrakuãi"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iyvyrakuãi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imbaʼeaporembasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yhakuãha"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yhakuãha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ipy"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ipy"
+    }
+  ],
+  "timestamp": "2026-10-02T08:36:05.542700750Z",
+  "model": "glm-5.3"
+}

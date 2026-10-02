@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Pa'ikuéra apytépe opavave kuimba'e okaru ⟨את⟩ upe — marangatu marangatuetéva hína ⟨ko⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "pa'ikuéra apytépe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "upe (jepokatuvai mba'ekueráre)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatuete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hína"
+    }
+  ],
+  "timestamp": "2026-10-02T08:43:52.105923866Z",
+  "model": "glm-5.3"
+}

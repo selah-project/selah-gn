@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Koʼág̃aite, Jahve, eñemoñeita ñande jekái; koʼág̃aite, Jahve, eheja jaiko porã jekái.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "koʼág̃aite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "eñemoñeita ñande"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekái"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "koʼág̃aite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "eheja jaiko porã"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jekái"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:41.276492895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 129,
+  "translation": "Ojaposéva chuguã kuarepoti'ỹ yvy hovyũ ári, ojapóta pe oikuaáva sapy'ami oĩmba mboyve, omanóma mboyve okakuaa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ojaposéva chuguã"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kuarepoti'ỹ yvy hovyũ"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "ojapóta pe oikuaáva sapy'ami oĩmba mboyve"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "omanóma mboyve"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "okakuaa"
+    }
+  ],
+  "timestamp": "2026-10-02T16:18:58.784333372Z",
+  "model": "glm-5.3"
+}

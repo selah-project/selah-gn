@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Ram omboʼa ⟨את⟩ Aminadab-pe; ha Aminadab omboʼa ⟨את⟩ Najchon-pe, Jehuda raʼýkuéra ruvicha.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ha Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omboʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ha Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "omboʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najchon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Najchon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ruvicha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:50.128705133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha Moche oatý ⟨את⟩ opaite aty guasu Jisrael raʼykuéra rehegua, ha heʼi chupekuéra: Koʼã haʼe umi ñeʼẽ Jahve oheisẽ ojejapo hag̃ua ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "oatý"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite aty guasu Jisrael raʼykuéra rehegua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "aty guasu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oheisẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ojejapo hag̃ua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "umi ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T08:36:23.009654178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Che Jahve nde Elohim, Jisrael marangatu, nde Mongaraihárõ che; ameʼẽ Mitsraim ne mbojopyrurõ, Kuch ha Seva nde rendápe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rõ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "nde Mongaraihára"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ne mbojopyrurõ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuch"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ha Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "nde rendápe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:52:59.069828019Z",
+  "model": "glm-5.3"
+}

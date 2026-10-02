@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha pe pa'i oguerúta iñangegua ipo ipukuépe, ha omoĩta pe mizbeaj olá peg̃uarã tako ári, ha ⟨את⟩ opaite iñange omondetáta pe mizbeaj iñe'ẽrasápe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "oguerúta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pe pa'i"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "iñangegua"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ipo ipukuépe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "omoĩta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "tako"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite iñange"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "iñange"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "omondetáta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "iñe'ẽrasa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    }
+  ],
+  "timestamp": "2026-10-02T08:46:11.448121711Z",
+  "model": "glm-5.3"
+}

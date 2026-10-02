@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Jisrael taʼýra kuéra oipeʼa ⟨את⟩ umi Baal ha ⟨את⟩ umi Ashtarot, ha oñembyatu ⟨את⟩ Jahve-pe añoite.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra kuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "umi Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "umi Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "oñembyatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "añoite"
+    }
+  ],
+  "timestamp": "2026-10-02T10:58:04.494414335Z",
+  "model": "glm-5.3"
+}

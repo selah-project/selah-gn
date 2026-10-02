@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha reñeʼẽta chupe ha remoĩta ⟨את⟩ umi ñeʼẽ iñẽme; ha che, che aháta nde ñẽ ndive ha iñẽ ndive, ha amboʼáta ⟨את peẽ⟩ ⟨את⟩ pe pejapótava.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Reñeʼẽta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ha remoĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iñẽme"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "che aháta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "nde ñẽ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha ... ndive"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "iñẽ"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ha amboʼáta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את peẽ⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe pejapótava"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "pejapótava"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:29.589738293Z",
+  "model": "glm-5.3"
+}

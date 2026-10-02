@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ⟨את⟩ pire umi kavara raʼy pegua oahẽi ipo ári ha ijũ hũngy ári.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "pire umi kavara raʼy pegua"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "pire"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kavara"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "oahẽi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ijũ"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "hũngy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:48:00.650038479Z",
+  "model": "glm-5.3"
+}

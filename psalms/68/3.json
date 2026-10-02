@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 68,
+  "translation": "Chahúicha oñemosarambi haguáicha chupe; donak tata renondépe oñemondivaʼẽicha, upéicha umi ivaiporãva oñembyai taʼãnga Elohim renondépe.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "oñemosarambi haguáicha"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "chahu"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "oñemosarambi taʼãnga chupe"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "oñemondivaʼẽicha"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "donak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "oñembyai taʼãnga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaiporãva"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T15:53:05.552473766Z",
+  "model": "glm-5.3"
+}

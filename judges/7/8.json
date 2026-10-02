@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 7:8",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha avakuéra ogueru ⟨את⟩ karu'u ipo ipýpe ha ⟨את⟩ umi shofar-kuéra; ha omondo ⟨את⟩ opaite kuimba'e Jisrael-gua, kuimba'e kuimba'e'ãme itape guasúpe; ha mbohapy sa kuimba'e oñongatu ijyvype, ha Midian taperakuéra oĩkuri ichupe iguýpe, pe yvy vevu'ípe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karu'u"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "karu'u"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ipo ipýpe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shofar-kuéra"
+    },
+    {
+      "surface": "שופרתיהם",
+      "gloss": "shofar-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite kuimba'e Jisrael-gua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e kuimba'e'ãme"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "itape guasúpe"
+    },
+    {
+      "surface": "ובשלש",
+      "gloss": "ha mbohapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "oñongatu ijyvype"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "ha taperakuéra"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩkuri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iguýpe"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "pe yvy vevu'ípe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:38:48.334881643Z",
+  "model": "glm-5.3"
+}

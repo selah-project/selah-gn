@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ogueru ⟨את⟩ tanda rykuera, ha opyta Farao tenonde; ha Moche osoʼo yvágape, ha ojehu kantra apuʼakuéra osarambíva yvyporáre ha mymbakuérare.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda rykuera"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "rykuera"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenonde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "osoʼo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "kantra"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "apuʼakuéra"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "osarambíva"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "yvyporáre"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ha mymbakuérare"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:07.839883684Z",
+  "model": "glm-5.3"
+}

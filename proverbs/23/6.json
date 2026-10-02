@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ani rekaru ⟨את⟩ mbujape yvai resa oguerekóva yvypórape, ani reipota imbaʼe heʼetáva.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "rekaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbujape"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yvai"
+    },
+    {
+      "surface": "עין",
+      "gloss": "resa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "reipota"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "imbaʼe heʼetáva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:40:42.799595972Z",
+  "model": "glm-5.3"
+}

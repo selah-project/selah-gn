@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha oñemboʼa ⟨את⟩ pe óga ita jeguakáva iporãngue rehe, ha pe itajá haʼe Parvaim itajá.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "oñemboʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ita"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "jeguakáva"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "iporãngue rehe"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ha pe itajá"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itajá"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:19:48.726505536Z",
+  "model": "glm-5.3"
+}

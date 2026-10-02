@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Nde rehe che pyʼa ohechauka: Eheka pe che rova — ⟨את⟩ nde rova, Jahve, ahekáta.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Nde rehe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che pyʼa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Eheka pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che rova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rova"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde rova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ahekáta"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:05.367808734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha oikuaaukáta ⟨את⟩ iñangaipa, ha ⟨את⟩ itúvakuéra angaipa, iñeʼẽmeʼẽ jejavy rupive ojavykuaakugue che rehe, ha avei ovaʼekue oguatakuri che ndive cherovaípe.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "oikuaaukáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñangaipa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "iñangaipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "angaipa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "angaipa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "itúvakuéra"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "iñeʼẽmeʼẽ jejavy rupive"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekue"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ojavykuaakugue"
+    },
+    {
+      "surface": "בי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekue"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "oguatakuri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che ndive"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "chervaípe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:03.152388622Z",
+  "model": "glm-5.3"
+}

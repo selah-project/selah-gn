@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 28,
+  "translation": "Ha Jaakov ohendu itúva ha isy ñeʼẽ, ha oho Padan Aram-pe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:48:08.949468064Z",
+  "model": "glm-5.3"
+}

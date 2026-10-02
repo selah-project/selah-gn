@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Arakaʼépa, Jahve, ajerure ndive ha nde ndoheái? Azeʼa ndevete: jekopyty! Ha nde chéna che porãi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Arakaʼe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ajerure ndive"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde ndo-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "heái"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "azeʼa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndevete"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jekopyty"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde chéna"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "che porãi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:08:08.305762257Z",
+  "model": "glm-5.3"
+}

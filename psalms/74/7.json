@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Omondo tata ne marangatu rendápe; yvýpe omoñaña ne réra Michkan.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "ne marangatu rendápe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "omoñaña"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:16.363812796Z",
+  "model": "glm-5.3"
+}

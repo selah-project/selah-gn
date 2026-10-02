@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "translation": "David mbaʼe, mizmor. Jahve mbaʼe ⟨ה⟩ yvy ha opa mbaʼe oĩva ipype, tetã yvóra ha umi oikóva ichype.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ה⟩ yvy"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ha opa mbaʼe oĩva ipype"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tetã yvóra"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ha umi oikóva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ichype"
+    }
+  ],
+  "timestamp": "2026-10-02T19:20:36.354921152Z",
+  "model": "glm-5.3"
+}

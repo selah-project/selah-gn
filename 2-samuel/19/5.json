@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha pe mburuvicha oñomi ⟨את⟩ iova, ha pe mburuvicha osapukai pyʼaguapyʼỹre: che memby Avchalom, Avchalom che memby, che memby.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ha pe mburuvicha"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "oñomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iova"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iova"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "osapukai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "קול",
+      "gloss": "pyʼaguapyʼỹre"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tuichaitereípe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che memby"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che memby"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che memby"
+    }
+  ],
+  "timestamp": "2026-10-02T11:33:45.231340864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha Shelach oikove ⟨את⟩ Ever mongakuaa rire mbohapy ary ha irundy sa ary, ha omongakuaa memby kuimbaʼe ha memby kuña.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "mongakuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ha irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "memby kuimbaʼe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ha memby kuña"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:39.081232729Z",
+  "model": "glm-5.3"
+}

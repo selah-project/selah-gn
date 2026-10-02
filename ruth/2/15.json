@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha haʼe opuʼã ojegua haguã, ha Boaz omanda ⟨את⟩ hiʼañongarúvare mitãrusukuéra — heʼivoi: ejegua avei umi avati mbyja apytépe, ha ani pehẽ chupe pyʼarõ.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ha opuʼã"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "ojegua haguã"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ha omanda"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiʼañongarúva mitãrusukuéra"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "hiʼañongarúva mitãrusukuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼivoi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "umi avati mbyja"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ejegua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "pehẽ chupe pyʼarõ"
+    }
+  ],
+  "timestamp": "2026-10-02T17:13:28.548400364Z",
+  "model": "glm-5.3"
+}

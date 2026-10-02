@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha yvy mbaʼeguasu opaite mbaʼépe g̃uarã ⟨is⟩; mburuvicha kokué oñembaʼapóvape.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Ha mbaʼeguasu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite mbaʼépe g̃uarã"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "kokuépe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "oñembaʼapóva"
+    }
+  ],
+  "timestamp": "2026-10-02T17:24:18.014015424Z",
+  "model": "glm-5.3"
+}

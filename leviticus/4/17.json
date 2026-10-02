@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha pe pa'i omokyry'ẽ ipópe tugua mbytégui, ha omongu'i pokõi jey Jahve renondépe, ⟨את⟩ pe mboja renondépe.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "omokyry'ẽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mbytégui"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tugua"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "omongu'i"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jey"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mboja renondépe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pe mboja"
+    }
+  ],
+  "timestamp": "2026-10-02T08:45:28.156570789Z",
+  "model": "glm-5.3"
+}

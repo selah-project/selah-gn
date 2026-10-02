@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Pe arandúva ohendu ha oñembojave ⟨iñemoarandu⟩, pe hesa'ỹjóva katu ohupyty ⟨ñemongeta arandu⟩.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "arandúva"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "oñembojave"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨iñemoarandu⟩"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "pe hesa'ỹjóva"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "⟨ñemongeta arandu⟩"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "ohupyty"
+    }
+  ],
+  "timestamp": "2026-10-02T16:25:38.433095224Z",
+  "model": "glm-5.3"
+}

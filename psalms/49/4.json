@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 49,
+  "translation": "Che jurua oñeʼẽta kuaa rehe, ha che korasõ apysa ñemosarambi ñemoarandu rehe.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Che jurua"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "oñeʼẽta"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ha che korasõ apysa ñemosarambi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ñemoarandu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:44.342790655Z",
+  "model": "glm-5.3"
+}

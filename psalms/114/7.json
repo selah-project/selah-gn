@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 114,
+  "translation": "Adonai renondépe, ejaruy, yvy; Jaakov Eloha renondépe.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ejaruy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-02T16:12:43.350072922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ereko porãmbyasy che, Jahve, ha ehaʼã che: eipohéi che ryepy ha che korasõ.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "ereko porãmbyasy che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ehaʼã che"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "eipohéi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "che ryepy"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ha che korasõ"
+    }
+  ],
+  "timestamp": "2026-10-02T15:37:52.050634497Z",
+  "model": "glm-5.3"
+}

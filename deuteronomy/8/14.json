@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "ha nde korasõ omombaʼeguasuve, ha ndejarevéi ⟨את⟩ Jahve, ne Elohim, ohasáva nde Mitsraim yvýgui, tembiguái ógui.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "omombaʼeguasuve"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ndejarevéi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ne Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ohasáva nde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvýgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ógui"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tembiguaikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T09:53:06.834734490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha oñepyrũ jey pyhare upépe, ha oguereko ⟨את⟩ imokõi rembireko kuña, ha ⟨את⟩ imokõi mbaʼapohára kuña, ha ⟨את⟩ imitãnguéra pa peteĩ, ha ohasa ⟨את⟩ Jabok hasaha.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "oñepyrũ jey"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oguereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imokõi rembireko kuña"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "imokõi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "rembireko kuña"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imokõi mbaʼapohára kuña"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "imokõi"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "mbaʼapohára kuña"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imitãnguéra pa peteĩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "pa peteĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "imitãnguéra"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jabok hasaha"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "hasaha"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jabok"
+    }
+  ],
+  "timestamp": "2026-10-02T07:51:08.037473365Z",
+  "model": "glm-5.3"
+}

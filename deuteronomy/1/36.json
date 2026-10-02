@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 1:36",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Kalev raʼýichagua, Jefune raʼýi, añoite — haʼe ohecháta ⟨את⟩ pe yvy ha ohaʼãrõ hague pype, ha che ameʼẽta chupe ha iñemoñarẽvérape, ojapo haguére heta mbaʼe Jahve reheguaitépe.",
+  "tokens": [
+    {
+      "surface": "זולתי",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýichagua"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefune raʼýi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "ohecháta"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ha chupe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "che ameʼẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ohaʼãrõ hague pype"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pype"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ha iñemoñarẽvérape"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ojapo haguére"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מלא",
+      "gloss": "heta mbaʼe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "reheguaitépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:46:16.583977771Z",
+  "model": "glm-5.3"
+}

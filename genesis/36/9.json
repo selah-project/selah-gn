@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha koʼã haʼe ⟨ko⟩ ñemoñare Esav pegua, tuva Edom-gua, yvyty Seir pe.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ha koʼã"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tuva"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "yvyty pe"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:33.085072965Z",
+  "model": "glm-5.3"
+}

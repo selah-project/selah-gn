@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha oiko ⟨ára kuera⟩ pahápe, Kain ogueru yvy vokuéragui peteĩ minha Jahve-pe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "vokuéragui"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T07:31:27.117423441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Che hebel árape ahecha ⟨את⟩ opaite mbaʼe: oĩ marangatu omano imarangatére, ha oĩ vaiekoha overekove heta iñañareípe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahecha"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "árape"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "che hebel"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "omano"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "imarangatére"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ha oĩ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "vaiekoha"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "overekove heta"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "iñañareípe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:23:02.424107845Z",
+  "model": "glm-5.3"
+}

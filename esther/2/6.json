@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Oñemongera vaʼekue Jerusalaim-gui oñemongerakuéra ndive, oñemongera vaʼekue Jekonja, Juhuda mburuvicha, ndive; chupe oñemongera vaʼekue Nevukadnetsar, Bavel mburuvicha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "oñemongera vaʼekue"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "Jerusalaim-gui"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "oñemongerakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "oñemongera vaʼekue"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Jekonja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juhuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "oñemongera"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-02T17:27:56.011906635Z",
+  "model": "glm-5.3"
+}

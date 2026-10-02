@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha umi ovecharekóhára ou ha omondyi hikuái chupekuéra; ha Moche opuʼã ha oipytyvõ hikuái chupekuéra, ha omboʼy ⟨את⟩ iñovechakuéra.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "umi ovecharekóhára"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "omondyi hikuái chupekuéra"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "opuʼã"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "oipytyvõ hikuái chupekuéra"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "omboʼy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñovechakuéra"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "iñovechakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:07:11.134825395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Eipe'a ko'ãngy ne korãgui, ha ehera'a mombyry mba'e vai ne ro'águi; mitãra'y aja ha iñakã hungy jave — hevé.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Eipe'a"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ko'ãngy"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "ne korãgui"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ha ehera'a mombyry"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ne ro'águi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "mitãra'y aja"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ha iñakã hungy jave"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevé"
+    }
+  ],
+  "timestamp": "2026-10-02T17:25:19.687700648Z",
+  "model": "glm-5.3"
+}

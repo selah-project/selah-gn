@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 131,
+  "translation": "Jisrael, eñahaʼãrõ Jahve rehe, ko áragui ha agygueite meve.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "eñahaʼãrõ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ko áragui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha ... meve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agygueite"
+    }
+  ],
+  "timestamp": "2026-10-02T16:19:10.314584837Z",
+  "model": "glm-5.3"
+}

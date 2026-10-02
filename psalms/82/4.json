@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 82,
+  "translation": "Pehosẽ michĩva ha mboriahúva umi ndaijaʼéva poigui; peñemoñanga.",
+  "tokens": [
+    {
+      "surface": "פַּלְטוּ",
+      "gloss": "pehosẽ"
+    },
+    {
+      "surface": "דַּל",
+      "gloss": "michĩva"
+    },
+    {
+      "surface": "וְאֶבְיוֹן",
+      "gloss": "ha mboriahúva"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "poigui"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "umi ndaijaʼéva"
+    },
+    {
+      "surface": "הַצִּילוּ",
+      "gloss": "peñemoñanga"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:24.080473133Z",
+  "model": "glm-5.3"
+}

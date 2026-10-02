@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Eñangareko porãiterei peẽ rehe, to ehayhu haguã ⟨את⟩ Jahve, peẽ Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "porãiterei"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "peẽ rehe"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "to ehayhu haguã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T18:55:33.762937149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha ⟨את⟩ taʼýra kuéra reguerúta chupe jegueroja hag̃ua, ha rejahoja va'erã ⟨את⟩ chukuéra aokuéra rehe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "taʼýra kuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "taʼýra kuéra"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "reguerúta jegueroja hag̃ua"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "rejahoja va'erã"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chukuéra",
+      "marks": "taʼýra kuéra"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "aokuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:42:19.234645580Z",
+  "model": "glm-5.3"
+}

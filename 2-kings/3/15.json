@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ko'ag̃a egueru chéve peteĩ mbopuhára. Ha oñembopu aja pe mbopuhára, Jahve po ou hese.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ko'ag̃a"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "mbopuhára"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Ha oikóvo"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "oñembopu aja"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "pe mbopuhára"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T12:03:23.277828941Z",
+  "model": "glm-5.3"
+}

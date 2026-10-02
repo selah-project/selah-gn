@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 47,
+  "translation": "Ojeporavo ñandeve ⟨את⟩ ñande mbaʼejerovy, ⟨את⟩ Jaakov mbareteguasu, ojepohayhúva chupe. Chela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "ojeporavo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande mbaʼejerovy"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ñande mbaʼejerovy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov mbareteguasu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mbareteguasu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼãva"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ojepohayhu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Chela"
+    }
+  ],
+  "timestamp": "2026-10-02T15:46:09.535731654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Ha ou itúvape, ha heʼi chupe: Che ru. Ha haʼe heʼi: Che koʼápe; arakaʼépa nde, che raʼýra?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúvape"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Che ru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Che koʼápe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "arakaʼépa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che raʼýra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:48:27.646118243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 74,
+  "translation": "Ñane techaukaha ndorohechakuaái: ndaipóri véva nabi, ha ndaipóri ⟨את⟩ ñandéve oikuaáva araka'épa pe pahátarã.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "ñane techaukaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...kuái"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "rohechakuaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "véva"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñandéve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaáva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "araka'épa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "pe pahátarã"
+    }
+  ],
+  "timestamp": "2026-10-02T15:57:11.962709469Z",
+  "model": "glm-5.3"
+}

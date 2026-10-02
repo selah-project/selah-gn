@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Umi vaivete ojekaru che rehe yvykuʼe, haʼéva ndahaʼéi nde Tora jahechaháicha.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ojekaru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "umi vaivete"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "yvykuʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "nde Tora jahechaháicha"
+    }
+  ],
+  "timestamp": "2026-10-02T16:17:08.230872106Z",
+  "model": "glm-5.3"
+}

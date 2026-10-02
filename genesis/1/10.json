@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha Elohim ombohéra yvy kuʼi «yvy», ha ýa onembyaty hague ombohéra «para»; ha Elohim ohecha iporãha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ha ombohéra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "yvy kuʼi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ha ýa onembyaty hague"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ombohéra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "para"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ha ohecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:29:01.189168393Z",
+  "model": "glm-5.3"
+}

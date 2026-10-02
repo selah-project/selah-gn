@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha upéi, oiko rire umi mbaʼeʼỹva koʼãgua, Elohim oñehaʼã ⟨את⟩ Avraham rehe, ha heʼi chupe: Avraham. Ha haʼe heʼi: Che koʼápe che.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha upéi oiko"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi mbaʼe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼãgua"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "oñehaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha haʼe heʼi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Che koʼápe che"
+    }
+  ],
+  "timestamp": "2026-10-02T07:43:46.655174272Z",
+  "model": "glm-5.3"
+}

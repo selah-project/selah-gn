@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ojerure pytũme, ha ndaipóri oipesaitereíva chuguikuéra; Jahve rehe ojerure, ha ndaháiva chupekuéra ñembohovái.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "ojerure pytũme"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "oipesaitereíva chuguikuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaháiva"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "chupekuéra ñembohovái"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:08.974964177Z",
+  "model": "glm-5.3"
+}

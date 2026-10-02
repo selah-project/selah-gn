@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Jaakov ojekysevei hetaete ha oñembyasy; ombojaʼo ⟨את⟩ pe tavagua ⟨את⟩ iñondive, ⟨את⟩ umi ovecha, ⟨את⟩ umi vaka ha umi kamẽ, mokõi aty-pe.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ojekysevei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hetaete"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "oñembyasy"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "ombojaʼo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tavagua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tavagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iñondive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi ovecha"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "umi ovecha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi vaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "umi vaka"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "ha umi kamẽ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "aty-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T18:42:30.173873858Z",
+  "model": "glm-5.3"
+}

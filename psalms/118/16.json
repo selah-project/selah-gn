@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 118,
+  "translation": "Jahve po akatúa ojeguerohory, Jahve po akatúa ojapo mbaretekatu.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "po akatúa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "ojeguerohory"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "po akatúa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mbaretekatu"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:15.177006863Z",
+  "model": "glm-5.3"
+}

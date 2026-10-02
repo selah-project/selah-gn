@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 15:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Oĩramo ndive peteĩ tekotevẽhára nde joykeʼykuéra apytégui, peteĩ nde okẽnguéra apytépe, ne yvýpe — pe Jahve nde Elohim omeʼẽva ndéve —, ani remombaʼe hory ⟨את⟩ ne korasõ, ani reipeʼa ⟨את⟩ ne po nde joykeʼy, pe tekotevẽhára.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "oĩramo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "tekotevẽhára"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "apytégui peteĩ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nde joykeʼykuéra"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "nde okẽnguéra apytépe"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ne yvýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "remombaʼe hory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne korasõ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ne korasõ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תקפץ",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "nde joykeʼy"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "pe tekotevẽhára"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:51.204553396Z",
+  "model": "glm-5.3"
+}

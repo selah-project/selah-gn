@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 55,
+  "translation": "Ha aju aheja che ñeʼẽ: mávapa omeʼēta cheve jatee, yvukuichagua? Ahererói ha apytuʼu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ha aju aheja che ñeʼẽ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼēta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "jatee"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "yvukuichagua"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ahererói"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ha apytuʼu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:19.102103692Z",
+  "model": "glm-5.3"
+}

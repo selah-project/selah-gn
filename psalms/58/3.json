@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Che, pekorasõme pejapo mbaʼevai; yvýpe pe pokuéra jeikarãi pemohenda.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "che"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "korasõme"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "pejapo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jeikarãi"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "pe pokuéra"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "pemohenda"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:01.597827279Z",
+  "model": "glm-5.3"
+}

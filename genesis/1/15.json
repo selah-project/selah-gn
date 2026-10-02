@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Ha oiko va'erã tesapỹíramo yvaga pakamby mbytépe, oipeʼa hag̃ua mba'erepy yvy ári; ha upéicha oiko.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Ha oiko va'erã"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "tesapỹíramo"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "yvaga pakamby mbytépe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "oipeʼa hag̃ua mba'erepy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T07:30:07.061411579Z",
+  "model": "glm-5.3"
+}

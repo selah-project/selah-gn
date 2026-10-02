@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 109,
+  "translation": "Ajopói Jahve tuicha che jurúpe, ha hetaita apytépe ajakuaa hese.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ajopói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "che jurúpe"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ha apytépe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaita"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ajakuaa hese"
+    }
+  ],
+  "timestamp": "2026-10-02T16:13:08.735129645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha pe yrypa oipytyvõ Mitsraim retã opaite rupi ⟨את⟩ opaite oĩva kokuépe, yvypóguive umi myrahãi peve; ha pe yrypa oipytyvõ ⟨את⟩ opaite kokuépe oĩva kaʼavo, ha ojova ⟨את⟩ opaite kokuépegua yvyra.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "oipytyvõ"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "pe yrypa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite rupi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "retã"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite oĩva kokuépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokuépe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "yvypóguive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "myrahãi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite kaʼavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kaʼavo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokuépe oĩva"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "oipytyvõ"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "pe yrypa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite yvyra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokuépegua"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ojova"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:38.147072103Z",
+  "model": "glm-5.3"
+}

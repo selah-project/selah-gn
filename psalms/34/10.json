@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Peñangareko pyʼapotĩme ⟨את⟩ Jahve, imarangatukuéra; pe pyʼapotĩ hese ndoguerekói mbaʼe oikotevẽva.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Peñangareko pyʼapotĩme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "imarangatukuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndoguerekói"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "mbaʼe oikotevẽva"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pe pyʼapotĩ hese"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:41.913430365Z",
+  "model": "glm-5.3"
+}

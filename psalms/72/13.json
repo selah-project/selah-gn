@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Oñangareko ⟨ה⟩ vaíva ha otekotevỹvakuéra rehe, ha umi otekotevỹva rekove oñongatu jey ojapo chuguikuéra.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "Oñangareko"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דל",
+      "gloss": "vaíva"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ha otekotevỹva"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ha umi … rekove"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "umi otekotevỹva"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "oñongatu jey ojapo"
+    }
+  ],
+  "timestamp": "2026-10-02T15:56:14.431632329Z",
+  "model": "glm-5.3"
+}

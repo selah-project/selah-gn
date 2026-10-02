@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha Paroh omoñe'ẽ kuimba'épe hese, ha omondo chupe ha ⟨את⟩ hembireko ha ⟨את⟩ opa mba'e ha'e orekóva.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "omoñe'ẽ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kuimba'épe"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hembireko"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa mba'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa mba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha'e orekóva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ha'e"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:25.864011216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ha Paroh he'i: Ema'ẽ, ko'ág̃a hetaiterei ⟨pe⟩ yvy ava, ha pejoko chupekuéra ⟨את⟩ iñevehégui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ema'ẽ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ava"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "pejoko chupekuéra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iñevehe"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "iñevehe"
+    }
+  ],
+  "timestamp": "2026-10-02T08:11:44.103973067Z",
+  "model": "glm-5.3"
+}

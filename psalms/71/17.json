@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 71,
+  "translation": "Elohim, remboʼe cherehe che mitãruguýpe guare, ha koʼág̃a peve amombeʼu ne mbaʼe porã mbeguekatu rejapóva.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "remboʼe cherehe"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "che mitãruguýpe guare"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼág̃a peve"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "amombeʼu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ne mbaʼe porã mbeguekatu rejapóva"
+    }
+  ],
+  "timestamp": "2026-10-02T15:54:59.567830766Z",
+  "model": "glm-5.3"
+}

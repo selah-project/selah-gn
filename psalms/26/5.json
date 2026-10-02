@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ndaijaʼéi chéve umi mbaʼevaíva aty, ha umi ñorãirõhára ndive ndaĩmoʼãi che.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndaijaʼéi chéve"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "aty"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "umi mbaʼevaíva"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha … ndive"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ñorãirõhára"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ĩmoʼãi"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:48.868013732Z",
+  "model": "glm-5.3"
+}

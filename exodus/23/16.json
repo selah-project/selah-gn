@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha Chaha Kose guasu, nde rembiaporã iñepyrũrãguáva, remyatymbóva kokuépe; ha Chaha Ñembyatypyrã, arañuʼápa pahápe, embyatypota ramo ⟨את⟩ nde rembiaporã kokuégui.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "Ha Chaha"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "Kose guasu"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "iñepyrũrãguáva"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nde rembiaporã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "remyatymbóva"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "remyatymbo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kokuépe"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "ha Chaha"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "Ñembyatypyrã"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "arañuʼápa pahápe"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "arañuʼápa"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "embyatypota ramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde rembiaporã"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nde rembiaporã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kokuégui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:23:52.019816218Z",
+  "model": "glm-5.3"
+}

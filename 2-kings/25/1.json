@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 25:1",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ha oiko pe iñesãso ary porundyha jave, jasýpe pakõiha, jasýga pakõiha árape, ou Nebukadnetsar, Bavel mburuvicha, haʼekuéra ha opaite ijehapeypo Jerusalaim ári, ha oñemoĩ upérupi ha oñemopuʼã upérupi korapy ijerére gueteri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ary jave"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "porundyha"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "iñesãso"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "pakõiha"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "jasýga pakõiha árape"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasýga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼekuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ijehapeypo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "oñemoĩ upérupi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "upérupi"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "oñemopuʼã"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "upérupi"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére gueteri"
+    }
+  ],
+  "timestamp": "2026-10-02T12:26:32.288886136Z",
+  "model": "glm-5.3"
+}

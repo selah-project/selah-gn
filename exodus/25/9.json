@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Opaite hína upe che ahechaukáta ⟨את⟩ ndéve rehe — ⟨את⟩ pe Michkan ra'anga ha ⟨את⟩ pe ra'anga opaite mba'e'okakuéra rehegua — upéicha pejapóta.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "opaite hína upeicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ahechaukáta"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ndéve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ra'anga"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ra'anga"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ra'anga"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ra'anga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mba'e'okakuéra"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pejapóta"
+    }
+  ],
+  "timestamp": "2026-10-02T08:26:57.056695607Z",
+  "model": "glm-5.3"
+}

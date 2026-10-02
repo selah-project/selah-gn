@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 58,
+  "translation": "Pe mbopuha renondépe g̃uarã — ani ehundipaʼa — David jehaipyre, miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "mbopuha renondépe g̃uarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ehundipaʼa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam (jehai jepysópe guarã)"
+    }
+  ],
+  "timestamp": "2026-10-02T15:50:01.597403237Z",
+  "model": "glm-5.3"
+}

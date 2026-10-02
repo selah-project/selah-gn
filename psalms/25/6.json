@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Emandu'a nde py'ahetanguéra rehe, Jahve, ha nde hesed rehe, néinte haʼekuéra oĩgui oñepyrũ guive.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "emandu'a"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "nde py'ahetanguéra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ha nde hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "néinte"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "oñepyrũ guive"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:52.702231302Z",
+  "model": "glm-5.3"
+}

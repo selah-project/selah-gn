@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha ogueraha ⟨את⟩ Agag, Amalek mburuvicha, oikove aja; ha ⟨את⟩ tavayguakuéra mayma omoĩmbaite kyse guasu jurúpe.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikove aja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tavayguakuéra mayma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mayma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "omoĩmbaite"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jurúpe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kyse guasu"
+    }
+  ],
+  "timestamp": "2026-10-02T11:05:22.426330422Z",
+  "model": "glm-5.3"
+}

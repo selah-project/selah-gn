@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "David-pe g̃uarã. Jahve, eñorã̃ ⟨את⟩ che ñorã̃hárakuéra rehe; ehaʼã ñorãirõ ⟨את⟩ che haʼãhárakuéra rehe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "eñorã̃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñorã̃hárakuéra rehe"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "che ñorã̃hárakuéra rehe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ehaʼã ñorãirõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che haʼãhárakuéra rehe"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "che haʼãhárakuéra rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:37.867060401Z",
+  "model": "glm-5.3"
+}

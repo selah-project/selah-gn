@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha Jehu oku'ẽ kavaju ári ha oho Yizreel-pe, Joram oke ha'ehápe. Ha Achazia, Yehuda mburuvicha, oguejy hecha hag̃ua ⟨את⟩ Joram.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "oku'ẽ kavaju ári"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreel-pe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Jaramo"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "oke"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ha'ehápe"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "ha Achazia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hecha hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    }
+  ],
+  "timestamp": "2026-10-02T12:08:39.663164507Z",
+  "model": "glm-5.3"
+}

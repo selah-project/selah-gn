@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Roayhu jeroviape nde ñemo'ã rehe, ha ñande Elohim rérape roipe'a ⟨poyvi⟩; Jahve ojapopa opaite nde jerurekuéra.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "roayhu jeroviape"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nde ñemo'ã rehe"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ha … rérape"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "roipe'a poyvi"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ojapopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "nde jerurekuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:35:11.110037099Z",
+  "model": "glm-5.3"
+}

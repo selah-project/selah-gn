@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Haʼe omboyke ne remiwy andeite, ha omohãiva opaite ne mbaʼasygui.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "omboyke ne remiwy andiete"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "ne remiwy andiete"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "omohãiva"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "ne mbaʼasygui"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:19.203776202Z",
+  "model": "glm-5.3"
+}

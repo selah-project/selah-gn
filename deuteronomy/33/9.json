@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Pe heʼíva itúvape ha isýpe: ndahechái chupe; ha ⟨את⟩ ijoykeʼykuéra noñaminduʼúi, ha ⟨את⟩ iñemoñare ndaikuaái; chupéicha oñangareko ne ñeʼẽre, ha ne ñeʼẽmeʼẽ oñangarekóta hikuái.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "heʼíva"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "itúvape"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ha isýpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ndahechái chupe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijoykeʼykuéra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼykuéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "noñaminduʼúi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iñemoñare"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iñemoñare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda…i"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ndaikuaái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chupéicha"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ne ñeʼẽre"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ha ne ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "oñangarekóta hikuái"
+    }
+  ],
+  "timestamp": "2026-10-02T10:11:24.958990831Z",
+  "model": "glm-5.3"
+}

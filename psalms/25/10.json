@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Opaite Jahve tape ⟨ꞌꞌꞌisꞌꞌꞌ⟩ hesed ha ñemoñañeteko, umi oñongatúvape g̃uarã iñeʼẽmeʼẽ ha iñeʼẽmongeta marangatu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Opaite"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "tape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ha ñemoñañeteko"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "umi oñongatúvape g̃uarã"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ha iñeʼẽmongeta marangatu"
+    }
+  ],
+  "timestamp": "2026-10-02T19:20:54.056354200Z",
+  "model": "glm-5.3"
+}

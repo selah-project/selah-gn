@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha peẽ ojereháta ⟨pe⟩ mburuvicha ijerére, peteĩteĩ imbaʼe jokoha ipópe; ha oúva ⟨pe⟩ atyrysyípe, ojukapóta hikuái; ha peẽta ⟨את⟩ ⟨pe⟩ mburuvicha ndive, ikesẽvo ha ikeúvo.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "peẽ ojereháta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩ"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "imbaʼe jokoha"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ipópe"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "oúva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "atyrysyípe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ojukapóta hikuái"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "peẽta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mburuvicha ndive"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ikesẽvo"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "ha ikeúvo"
+    }
+  ],
+  "timestamp": "2026-10-02T12:09:27.159632579Z",
+  "model": "glm-5.3"
+}

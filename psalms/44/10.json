@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Upéicharõ jepe, remboy héin ore, ha rembojeguaruka ore; ha nderehecha ore ehérsito ndive.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Upéicharõ jepe"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "remboy héin ore"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ha rembojeguaruka ore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ore ehérsito ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:31.794879069Z",
+  "model": "glm-5.3"
+}

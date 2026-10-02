@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Koʼãva haʼe Cham raʼýkuéra, iñemoñarekuéra reheve, iñeʼẽnguéra reheve, iñaretãnguérape ha itavayguakuéra reheve.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Koʼãva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "iñemoñarekuéra reheve"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "iñeʼẽnguéra reheve"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "iñaretãnguérape"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "itavayguakuéra reheve"
+    }
+  ],
+  "timestamp": "2026-10-02T07:35:18.117063139Z",
+  "model": "glm-5.3"
+}

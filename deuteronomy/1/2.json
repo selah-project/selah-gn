@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Peteĩ pa araguive Chorev-gui, Seir yvyty rape rupi, Kadesh-Barnea peve.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Peteĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ara"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Chorev-gui"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rape rupi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-10-02T18:50:27.769739660Z",
+  "model": "glm-5.3"
+}

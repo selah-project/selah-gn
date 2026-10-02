@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha David oiko katuete opaite heko rekópe, ha Jahve hendive.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite… -pe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "heko rekópe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "katuete"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    }
+  ],
+  "timestamp": "2026-10-02T11:08:01.790740056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Umi ojeipapapyréva Menashe ñemoñare pegua: mbohapipa mokõi su ha mokõi sa.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "umi ojeipapapyréva"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ñemoñare pegua"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ha mbohapipa(…)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ha mokõi sa"
+    }
+  ],
+  "timestamp": "2026-10-02T09:12:17.692665056Z",
+  "model": "glm-5.3"
+}

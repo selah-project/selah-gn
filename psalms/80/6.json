@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Remeʼẽ chupekuéra ⟨את⟩ karãi rasýgui, ha remuʼũ chupekuéra rasýpe hetaite.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Remeʼẽ chupekuéra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "karãi"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "rasýgui"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ha remuʼũ chupekuéra"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "rasýpe"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "hetaite"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:07.001023680Z",
+  "model": "glm-5.3"
+}

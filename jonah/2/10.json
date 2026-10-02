@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Che katu, todá ñeʼẽ ndive, aipyso che jopói — ajejopói ndeve; umi che ñeʼẽmeʼẽ amohu'ãta. Ñemoñanga Jahve-gui osẽ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "che katu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ñeʼẽ ndive"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "todá (aguyje)"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "ajejopói"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "amohu'ãta"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "ñemoñanga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-gui"
+    }
+  ],
+  "timestamp": "2026-10-02T15:01:20.963892955Z",
+  "model": "glm-5.3"
+}

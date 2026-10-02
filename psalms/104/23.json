@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "translation": "Yvypóra osẽ hembiaporãme ha hembiapo mbaretehápe kuarahy oikévo peve.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "hembiaporãme"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ha hembiapo mbaretehápe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "peve"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kuarahy oikévo"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:31.516260110Z",
+  "model": "glm-5.3"
+}

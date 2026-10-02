@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Umi chartumim ojapo upéicha i taperekoʼi ndive, ha omombaʼa ⟨את⟩ kururu ojupi hag̃ua Mitsraim yvy ári.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "umi chartumim"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "i taperekoʼi ndive"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ha omombaʼa ojupi hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kururu"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kururu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-02T08:13:18.490465860Z",
+  "model": "glm-5.3"
+}

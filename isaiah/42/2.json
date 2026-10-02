@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ndoikysei, ha nipe nañeʼẽguasúi, ha nombohyapúi iñeʼẽ tape ári.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndo…moʼãi"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "oikysei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo…moʼãi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nañeʼẽguasúi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo…moʼãi"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ombohyapu"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "tape ári"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "iñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:53:02.583354019Z",
+  "model": "glm-5.3"
+}

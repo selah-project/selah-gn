@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Emomarandu imbareteguasu tetãnguéra apytépe, iñapañuãi opaite avano'õ apytépe.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Emomarandu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tetãnguéra apytépe"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "imbareteguasu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite...apytépe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "avano'õ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "iñapañuãi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:56.604916673Z",
+  "model": "glm-5.3"
+}

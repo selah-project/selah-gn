@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha ojuehe ⟨את⟩ Jisrael mokõi pa mbohapy arýpe, ha omano, ha oñeñotỹ Chamirim-pe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ojuehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõi pa"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ha oñeñotỹ"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Chamirim-pe"
+    }
+  ],
+  "timestamp": "2026-10-02T10:43:21.963051078Z",
+  "model": "glm-5.3"
+}

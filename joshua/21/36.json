@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Reuven yvyporaʼãnguégui: ⟨את⟩ Betser ha ijere, ⟨את]] Yahatsa ha ijere.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ha … yvyporaʼãnguégui"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijere"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Yahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ijere"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ijere"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:20.633457852Z",
+  "model": "glm-5.3"
+}

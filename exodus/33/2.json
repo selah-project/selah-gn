@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha amondóta peteĩ malʼaj nde retãyrape, ha aipeʼúta ⟨את⟩ pe Kenaani, pe Emori, pe Chiti ha pe Perizi, pe Chivi ha pe Yevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "amondóta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde retãyrape"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malʼaj"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "aipeʼúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "pe Kenaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "pe Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "pe Chiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "pe Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "pe Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "pe Yevusi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:55.414922482Z",
+  "model": "glm-5.3"
+}

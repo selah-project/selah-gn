@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 53,
+  "translation": "Iñeʼã iñangirapýgui ohecháta ha oñemongusuʼúta; ikuaa rupi che mbaʼapohára marangatu omohekojojíta hetávape, ha haʼe oguerotanyta hikuái ivaíva.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "iñangirapýgui"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iñeʼã"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ohecháta"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "oñemongusuʼúta"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "ikuaa rupi"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "omohekojojíta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che mbaʼapohára"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "hetávape"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "hikuái ivaíva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "oguerotanyta"
+    }
+  ],
+  "timestamp": "2026-10-02T12:59:03.561588369Z",
+  "model": "glm-5.3"
+}

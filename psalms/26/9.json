@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ani embyaty ⟨את⟩ che rekove umi jejavy apytépe, che rekovia umi kuimbaʼe tuguy-gua apytépe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "embyaty"
+    },
+    {
+      "surface": "עם",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "umi jejavy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha … apytépe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tuguy-gua"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "che rekovia"
+    }
+  ],
+  "timestamp": "2026-10-02T15:36:13.108991859Z",
+  "model": "glm-5.3"
+}

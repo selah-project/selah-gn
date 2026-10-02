@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jisrael apytépe, Pareosh raʼýkuéra gui: Ramja, Jizija, Malkija, Mijamin, Elazar, Malkija ha Venaja.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "Ha Jisrael apytépe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "raʼýkuéra gui"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Pareosh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramja"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "Jizija"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "Malkija"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "Mijamin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "Malkija"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "Venaja"
+    }
+  ],
+  "timestamp": "2026-10-02T17:47:07.756862188Z",
+  "model": "glm-5.3"
+}

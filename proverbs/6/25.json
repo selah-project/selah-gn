@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ani reipota ipora ne korasõme, ani avei ogueraha nde pe hyapuẽnguére.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "reipota"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ipora"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ne korasõme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani avei"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "ogueraha nde pe"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "hyapuẽnguére"
+    }
+  ],
+  "timestamp": "2026-10-02T16:30:34.538839299Z",
+  "model": "glm-5.3"
+}

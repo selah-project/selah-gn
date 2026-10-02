@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha Chemchon raʼýkuéra, oñemboʼevaʼekue chupe: ⟨את⟩ Jerahmeel, ⟨את⟩ Ram ha ⟨את⟩ Chelubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chemchon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñemboʼevaʼekue chupe"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "oñemboʼevaʼekue"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerahmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerahmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Chelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Chelubai"
+    }
+  ],
+  "timestamp": "2026-10-02T17:59:50.128446280Z",
+  "model": "glm-5.3"
+}

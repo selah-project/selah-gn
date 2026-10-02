@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Koʼãva umi ohasa vaʼekue ⟨את⟩ Jarden jasy peteĩhápe, ha kóva omyanyhẽ voígui opaite i rembeʼýkuéra rehe, ha omokañy ⟨את⟩ opaite yvyape kuára, kuarahy resẽ gotyo ha kuarahy reike gotyo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "הם",
+      "gloss": "umi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasy peteĩhápe"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": ""
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "omyanyhẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "voígui… rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "i rembeʼýkuéra"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "omokañy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite yvyape kuára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "yvyape kuára"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "kuarahy resẽ gotyo"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ha kuarahy reike gotyo"
+    }
+  ],
+  "timestamp": "2026-10-02T18:08:12.388935103Z",
+  "model": "glm-5.3"
+}

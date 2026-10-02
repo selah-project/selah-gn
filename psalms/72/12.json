@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "translation": "Haʼe osãso ⟨את⟩ pe oikotevẽva ojerurevu jave, ⟨ha⟩ ⟨את⟩ pe imboriahúva,-pe noĩri oipytyvõva chupe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "osãso"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pe oikotevẽva"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "ojerurevu jave"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "pe imboriahúva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "noĩri"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "oipytyvõva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T19:24:02.541740272Z",
+  "model": "glm-5.3"
+}

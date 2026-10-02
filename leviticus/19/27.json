@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ani peẽikytu'ẽ ta peẽ akã rembe'y; ani rejoka ta ⟨את⟩ nenda rembe'y.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "peẽikytu'ẽ ta"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "rembe'y"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "peẽ akã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "rejoka ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nenda rembe'y"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "rembe'y"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "nenda"
+    }
+  ],
+  "timestamp": "2026-10-02T08:59:36.121801334Z",
+  "model": "glm-5.3"
+}

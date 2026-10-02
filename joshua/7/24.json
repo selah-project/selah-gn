@@ -1,0 +1,169 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 7:24",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Jehochua, opavave Jisrael ive rehe, ogueru ⟨את⟩ Ajan, Zerach raʼy, ha ⟨את⟩ kuarepoti, ha ⟨את⟩ aore, ha ⟨את⟩ kuarepotiju ñeʼẽ, ha ⟨את⟩ imemby kuéra, ⟨את⟩ iraʼýra kuéra ha ⟨את⟩ inaʼĩra kuéra, ha ⟨את⟩ ivaka, ha ⟨את⟩ ikavaju, ha ⟨את⟩ ovecha kuéra, ha ⟨את⟩ ióga, ha ⟨את⟩ opaite mbaʼe iñeʼẽméva; ha ohupi ⟨את⟩ chupe kuéra Emek Ajor-pe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajan"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Ajan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aore"
+    },
+    {
+      "surface": "האדרת",
+      "gloss": "aore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepotiju ñeʼẽ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuarepotiju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imemby kuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imemby kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inaʼĩra kuéra"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "inaʼĩra kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ivaka"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "ivaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikavaju"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ikavaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ovecha kuéra"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ovecha kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ióga"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ióga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼe iñeʼẽméva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iñeʼẽméva"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ive rehe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Emek Ajor-pe"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "Emek"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Ajor"
+    }
+  ],
+  "timestamp": "2026-10-02T10:22:38.944978629Z",
+  "model": "glm-5.3"
+}

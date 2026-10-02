@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 34,
+  "translation": "Eipysyrõ nde ñeʼẽ mbaʼe vaígui, ha nde juru tembe ani oñeʼẽ japúpe.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Eipysyrõ"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "nde ñeʼẽ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mbaʼe vaígui"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ha nde juru tembe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ani oñeʼẽ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "japúpe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:39:42.651932839Z",
+  "model": "glm-5.3"
+}

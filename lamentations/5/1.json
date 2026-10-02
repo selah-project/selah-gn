@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Eñaminduʼu, Jahve, mbaʼépa oréve oiko; ehecha ha ehecha ⟨את⟩ ñande jejahoʼi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Eñaminduʼu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñande jejahoʼi"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ñande jejahoʼi"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:10.021654829Z",
+  "model": "glm-5.3"
+}

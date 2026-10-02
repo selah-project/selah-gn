@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 43,
+  "translation": "Ha ou ha oipysyrõ ⟨את⟩ Mitsraim yvy: umi omanaitéva omanóta, umi oñembojahápe oñembojaháta, ha umi haimbe-pe oñeme'ẽva haimbepe oñeme'ẽta.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "oipysyrõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim yvy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "omanaitéva"
+    },
+    {
+      "surface": "למות",
+      "gloss": "omanóta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "oñembojahápe"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "oñembojaháta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "haimbe-pe oñeme'ẽva"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "haimbepe oñeme'ẽta"
+    }
+  ],
+  "timestamp": "2026-10-02T19:13:40.034000844Z",
+  "model": "glm-5.3"
+}

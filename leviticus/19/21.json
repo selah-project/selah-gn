@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha ogueru ⟨את⟩ iñasham Jahve-pe, Ohel Moed ñeg̃uahãme, peteĩ rámoro asham ramo.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñasham"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "iñasham"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ñeg̃uahãme"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "איל",
+      "gloss": "rámoro"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham ramo"
+    }
+  ],
+  "timestamp": "2026-10-02T18:48:46.073539277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha ⟨את⟩ pe ñakãirenda mbaretéva lino rehegua, ha ⟨את⟩ umi ñakãreko porã lino rehegua, ha ⟨את⟩ umi aho ñemihãrã lino rehegua, lino mokõi jey ñemonguʼíva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe ñakãirenda"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ñakãirenda"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi ñakãreko"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "umi ñakãreko porã"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "ñakãreko"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi aho ñemihãrã"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "umi aho ñemihãrã"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lino"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mokõi jey ñemonguʼíva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:15.475891150Z",
+  "model": "glm-5.3"
+}

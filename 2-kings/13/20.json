@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha Elichá omano, ha oñeñotỹ chupe. Ha umi Moav ñorãirõ aty ou ⟨pe⟩ tetãme, arýpe oúvo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elichá"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "oñeñotỹ chupe"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "umi ñorãirõ aty"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "יibאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨pe⟩ tetãme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oúvo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "arýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T12:14:53.617168785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 60,
+  "translation": "Iñorairõramo chupe Aram Naharaim rehe ha ⟨את⟩ Aram Tsoba rehe, ha Joav ojevy, oity ⟨את⟩ Edom yvytyrysýi kue'ẽme — pakõi su.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "iñorairõramo chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "oity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "yvytyrysýipe"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "kue'ẽ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-02T15:51:26.264673820Z",
+  "model": "glm-5.3"
+}

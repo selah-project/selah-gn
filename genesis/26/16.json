@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha Avimelek heʼi Jitshak-pe: Eho ñande mbytégui, reñemombaʼeguasúgui ñandegui aiterei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "ñande mbytégui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gui"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "reñemombaʼeguasu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ñandegui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aiterei"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:06.980077289Z",
+  "model": "glm-5.3"
+}

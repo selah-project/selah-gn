@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Ha eñohẽ ⟨את⟩ pe jeyapa, mba'e oñembyaíva ñembojaruha, ha ⟨את⟩ opa iñembokatuaha, ha emomba'e marangatu ⟨את⟩ pe jeyapa; ha pe jeyapa oikóta marangatu ijojaha'ỹva.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "eñohẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jeyapa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jeyapa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mba'e oñembyaíva ñembojaruha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opa iñembokatuaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iñembokatuaha"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "emomba'e marangatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe jeyapa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe jeyapa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pe jeyapa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ijojaha'ỹva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:41:42.629464584Z",
+  "model": "glm-5.3"
+}

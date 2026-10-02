@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Paraʼo ohenói Moche-pe ha heʼi: Ineho peẽ, eiñemboʼe ⟨את⟩ Jahve-pe g̃uarã; año peẽ ovekuéra ha vakakuéra opytáta, mitã michĩnguéra avei oho peendive.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ha ohenói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraʼo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ineho peẽ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "eiñemboʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "año"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "peẽ ovekuéra"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "ha vakakuéra"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "opytáta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "mitã michĩnguéra"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "peendive"
+    }
+  ],
+  "timestamp": "2026-10-02T08:15:01.542140010Z",
+  "model": "glm-5.3"
+}

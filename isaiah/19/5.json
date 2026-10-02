@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 19,
+  "translation": "Ha y opáta para-gui, ha ysyry oikanguy ha ho'ysã.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "opáta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "para-gui"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ha ysyry"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "oikanguy"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ho'ysã"
+    }
+  ],
+  "timestamp": "2026-10-02T12:35:18.491180182Z",
+  "model": "glm-5.3"
+}

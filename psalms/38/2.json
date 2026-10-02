@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 38,
+  "translation": "Jahve, ani remongovai cherehe nde pyʼapochýpe, ani chemboʼe nde korapÿpe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "nde pyʼapochýpe"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "remongovai cherehe"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "nde korapÿpe"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "chemboʼe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:43:45.978020411Z",
+  "model": "glm-5.3"
+}

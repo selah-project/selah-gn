@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha ogueru chupekuéra pógui, ha omoheñoi ⟨את⟩ chupe ñaiʼũ rehe, ha ojapo chupe peteĩ vaka michĩ oñehenói vaʼekue; ha heʼi: Koʼã nde Elohim, Jisrael, oeru vaʼekue nde Mitsraimgui.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "chupekuéra pógui"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "omoheñoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ñaiʼũ rehe"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ñaiʼũ rehe"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ojapo chupe"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vaka michĩ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "oñehenói vaʼekue"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Koʼã"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼéva"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "oeru vaʼekue"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimgui"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:14.438066007Z",
+  "model": "glm-5.3"
+}

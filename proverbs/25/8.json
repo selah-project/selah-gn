@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 25,
+  "translation": "Ani esẽ pyaʼe ñorairõre, ani reikuaápa mbaʼe rejapótaha iñpahápe, nde irũ ombojarývo ⟨את⟩ ndéve.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "esẽ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ñorairõre"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pyaʼe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani reikuaápa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapótaha"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "iñpahápe"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "ombojarývo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nde (nde irũ ojapo hese)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "nde irũ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:41:39.859180429Z",
+  "model": "glm-5.3"
+}

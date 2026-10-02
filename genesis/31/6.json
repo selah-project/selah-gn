@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Ha peẽ, peikuaa: che puʼaku tuichakue javeve ambaʼapo ⟨את⟩ pende ru rehe.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ha peẽ"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "peikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tuichakue javeve"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "che puʼaku"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ambaʼapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pende ru rehe"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "pende ru"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:25.429027791Z",
+  "model": "glm-5.3"
+}

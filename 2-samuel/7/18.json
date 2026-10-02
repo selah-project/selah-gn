@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 7:18",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha mburuvicha David ou, ohyguejy Jahve renondépe, ha heʼi: Mbaʼépa che, Adonai Jahve, ha mbaʼépa che rogaygua, reiguerahágui che koʼãápe?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ohyguejy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mbaʼépa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "che rogaygua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "reiguerahágui"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "che"
+    },
+    {
+      "surface": "עד",
+      "gloss": "… peve"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "koʼãápe"
+    }
+  ],
+  "timestamp": "2026-10-02T11:22:01.063869953Z",
+  "model": "glm-5.3"
+}

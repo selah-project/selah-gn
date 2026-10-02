@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Engeta, marangatukuéra, Jahve-pe; teko joja apohárape oikoporã momorãmby.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "engeta"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marangatukuéra"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "teko joja apohárape"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "oikoporã"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "momorãmby"
+    }
+  ],
+  "timestamp": "2026-10-02T15:40:34.225322606Z",
+  "model": "glm-5.3"
+}

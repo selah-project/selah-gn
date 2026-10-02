@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 120,
+  "translation": "Mbaʼépa oñemeʼẽta ne rehe, ha mbaʼépa oñemoĩvéta ndéve, ñeʼẽ reremíva?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbaʼépa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "oñemeʼẽta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ne rehe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mbaʼépa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "oñemoĩvéta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "reremíva"
+    }
+  ],
+  "timestamp": "2026-10-02T19:25:21.675168005Z",
+  "model": "glm-5.3"
+}

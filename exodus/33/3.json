@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "peteĩ yvýpe osyryva kamby ha eira; haʼeháicha che naguahemoʼãi nde apytépe, nde avanoʼõ ijyva rakã hatãva; ani ambyaiko nde tape ári.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "osyryva"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kamby"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ha eira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naguahemoʼãi…nahániri"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "naguahemoʼãi"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nde apytépe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avanoʼõ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hatã"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ijyva rakã"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ambyaiko nde"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape ári"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:55.415118683Z",
+  "model": "glm-5.3"
+}

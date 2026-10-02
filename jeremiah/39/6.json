@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 39,
+  "translation": "Ha Bavel mburuvicha ojuka ⟨את⟩ Tsidkiahu membykuéra Rivlápe, iñangetĩ árape; ha ⟨את⟩ opaite Yehuda yvypora guasu kuéra ojuka Bavel mburuvicha.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiahu membykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivlápe"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "iñangetĩ árape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite Yehuda yvypora guasu kuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "yvypora guasu kuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-02T13:40:33.517745853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Aravo ojepe'a hag̃ua, ha aravo ojaho'i hag̃ua; aravo ñembegue hag̃ua, ha aravo ñe'ẽ hag̃ua.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "ojepe'a hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "ojaho'i hag̃ua"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "ñembegue hag̃ua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ha aravo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ñe'ẽ hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T19:29:24.507235937Z",
+  "model": "glm-5.3"
+}

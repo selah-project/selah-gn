@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Peju pehendu, opa peẽ Elohim-gui hyhyjéva kuéra, ha amombe'úta mba'épa ojapo che tekove rehe.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Peju"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "pehendu"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ha amombe'úta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "hyhyjéva kuéra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "che tekove rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:52:21.965412158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Ha Jaakov ohóvo ijeýpe, ojuhu ichupe Elohim maranduhára kuéra.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ha Jaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ijeýpe"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ojuhu ichupe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "maranduhára kuéra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:22.995987986Z",
+  "model": "glm-5.3"
+}

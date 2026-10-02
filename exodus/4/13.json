@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha ⟨Moche⟩ heʼi: Ehéi, che Adonai, emondo jeyʼýke pe po rupi remondótava.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha ⟨Moche⟩ heʼi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ehéi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "emondo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeyʼýke"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pe po rupi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "remondótava"
+    }
+  ],
+  "timestamp": "2026-10-02T08:10:29.589215974Z",
+  "model": "glm-5.3"
+}

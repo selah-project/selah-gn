@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha Avchalom ohechauka Chuchai-pe: kópa nde hesed ne irũñángare? Mbaʼérepa nereho ⟨את⟩ ne irũ ndive?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avchalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chuchai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kópa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne irũ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ne irũ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nde-"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "reho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne irũ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ne irũ"
+    }
+  ],
+  "timestamp": "2026-10-02T11:28:22.677622099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 52,
+  "translation": "Ha omoitã ⟨את⟩ Jahve óga ha ⟨את⟩ mburuvicha óga, ha ⟨את⟩ Jerusalaim óga kuéra opaite; ha ⟨את⟩ peteĩteĩ óga guasu omoitã tata ndive.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "omoitã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mburuvicha óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jerusalaim óga kuéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "óga kuéra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "peteĩteĩ óga guasu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "peteĩteĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "omoitã"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tata ndive"
+    }
+  ],
+  "timestamp": "2026-10-02T13:54:25.500487372Z",
+  "model": "glm-5.3"
+}

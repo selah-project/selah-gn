@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 30,
+  "translation": "Ha Lea he'i: ¡Poriã oguahẽ! Ha ohero ⟨את⟩ héra Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "¡Poriã oguahẽ!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ohero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "héra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-10-02T07:47:29.844242177Z",
+  "model": "glm-5.3"
+}

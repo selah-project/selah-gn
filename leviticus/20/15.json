@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 20,
+  "translation": "Ha kuimba'e ome'ẽva ike mymba rehe, omanova'erã; ha ⟨את⟩ pe mymba pejuka.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ha kuimba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ome'ẽva"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ike"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mymba rehe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "omanova'erã"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "omanova'erã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mymba"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "pe mymba"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "pejuka"
+    }
+  ],
+  "timestamp": "2026-10-02T09:01:24.223914041Z",
+  "model": "glm-5.3"
+}

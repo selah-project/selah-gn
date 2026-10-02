@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Iporãve pe ndereñemeʼẽriramo, reñemeʼẽrõ guarãicha ha ndereimohuʼãriramo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Iporãve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "reñemeʼẽ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "reñemeʼẽrõ guarãicha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "remohuʼã"
+    }
+  ],
+  "timestamp": "2026-10-02T17:21:14.811412041Z",
+  "model": "glm-5.3"
+}

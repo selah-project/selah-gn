@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Kóva nde vore, hypeʼãicha nde jehaipyrã che pegua ⟨את⟩, heʼi Jahve, rekañy hague ⟨את⟩ cherehe ha rejerovia vaʼekue engaivaʼekuére.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "nde vore"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "hypeʼãicha"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "nde jehaipyrã"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ che pegua"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rô"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "rekañy hague"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ cherehe",
+      "marks": "che (Jahve)"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ha rejerovia vaʼekue"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "engaivaʼekuére"
+    }
+  ],
+  "timestamp": "2026-10-02T13:19:48.397047040Z",
+  "model": "glm-5.3"
+}

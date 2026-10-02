@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha oiko peteĩ ⟨ára⟩ pokõi rire, umi Mabul-y oiko yvy ári.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "pokõi rire"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨ára⟩"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "umi — y"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Mabul"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-02T07:32:18.489530512Z",
+  "model": "glm-5.3"
+}

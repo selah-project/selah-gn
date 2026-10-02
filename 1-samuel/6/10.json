@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha umi kuimbaʼe ojapo upéicha: ogueru mokõi vaka okamẽva, ombojoaju kareta rehe; ha ⟨את⟩ umi raʼy omboty hógape.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "okamẽva"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ombojoaju"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kareta rehe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi raʼy"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "umi raʼy"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "omboty"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "hógape"
+    }
+  ],
+  "timestamp": "2026-10-02T10:58:13.819260419Z",
+  "model": "glm-5.3"
+}

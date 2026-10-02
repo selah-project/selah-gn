@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha Paroh ogueroĩ avei umi kuaakuaahára kuéra ha umi pay; ha umi Mitsraim mbaʼekuaarahára kuéra ojapo avei upéicha iñeʼẽnguéra ndive.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ogueroĩ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "umi kuaakuaahára kuéra"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "ha umi pay"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "הם",
+      "gloss": "umi"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "Mitsraim mbaʼekuaarahára kuéra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "iñeʼẽnguéra ndive"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    }
+  ],
+  "timestamp": "2026-10-02T08:09:45.040969231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Kuimbaʼe mitãrusukuéra ha kuñataĩ kuéra; kuimbaʼe rakãguapáva mitãnguéra ndive.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "kuimbaʼe mitãrusukuéra"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "kuñataĩ kuéra"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kuimbaʼe rakãguapáva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mitãnguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.042452434Z",
+  "model": "glm-5.3"
+}

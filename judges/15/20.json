@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Ha ohohuaʼã ⟨את⟩ Jisrael-pe, Filisteo-kuéra ára pukukuévo, mokõiipa ary.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ha ohohuaʼã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael-pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ára pukukuévo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisteo-kuéra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõiipa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    }
+  ],
+  "timestamp": "2026-10-02T10:46:55.850637328Z",
+  "model": "glm-5.3"
+}

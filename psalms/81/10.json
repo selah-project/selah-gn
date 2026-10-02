@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 81,
+  "translation": "Ndaipóriorã El ijangy nde apytépe, ani nde eñembo'aja El okaragua rehe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndaipóriorã"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oirõ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde apytépe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ijangy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani nde"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "eñembo'aja"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El rehe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "okaragua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:59:22.835859918Z",
+  "model": "glm-5.3"
+}

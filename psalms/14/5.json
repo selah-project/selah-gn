@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 14,
+  "translation": "Upépe oñemokyryrý hovy'ỹre, pachẽ oñemokyryrýgui, Elohim oĩ marangatuverakuéra ñemoñare apytépe rupi.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "oñemokyryrý"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pachẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ñemoñare apytépe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatuverakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T15:30:35.327908816Z",
+  "model": "glm-5.3"
+}

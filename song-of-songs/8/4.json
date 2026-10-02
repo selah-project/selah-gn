@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "gn",
+  "chapter": 8,
+  "translation": "Añeʼẽmeʼẽ ⟨את⟩ Jerusalaim kuñataĩnguérape: mbaʼérepiko pe pyaʼevoi ha pe mopuʼa ⟨את⟩ hayhu, pe hayhu oipotápevo peve!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "añeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaim kuñataĩnguéra"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kuñataĩnguéra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼérepiko"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "pe pyaʼevoi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mbaʼérepiko"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "pe mopuʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayhu"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "hayhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "oipotápevo"
+    }
+  ],
+  "timestamp": "2026-10-02T17:12:39.556361888Z",
+  "model": "glm-5.3"
+}

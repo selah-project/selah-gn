@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 22,
+  "translation": "Ha nde katu, marangatu, nde eño'ĩva Jisrael ojohayhúva ári.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde katu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "eño'ĩva"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ojohayhúva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:50.899958823Z",
+  "model": "glm-5.3"
+}

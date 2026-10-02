@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Esav ojereko ⟨את⟩ itujavakuéra Kenaan íñakãkuñaraʼikuéra gui: ⟨את⟩ Ada, Elón raʼýikuñakue, pe chiti; ha ⟨את⟩ Aholivama, Ana raʼýikuñakue, Tsivón raʼýikuñakue, pe chivi.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ojereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itujavakuéra"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "itujavakuéra"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "íñakãkuñaraʼikuéra gui"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "raʼýikuñakue"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elón"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "pe chiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Aholivama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Aholivama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "raʼýikuñakue"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "raʼýikuñakue"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsivón"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "pe chivi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:53:44.981396786Z",
+  "model": "glm-5.3"
+}

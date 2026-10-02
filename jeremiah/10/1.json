@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ehendu ⟨את⟩ pe ñeʼẽ Jahve oñeʼẽva peẽre, Jisrael óga.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ehendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peẽre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T13:18:18.296875172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 32,
+  "translation": "Eñemosãso cherehe, nde pyʼaite, che joykeʼýi po gui, Esav po gui; che jahyʼo haguere ⟨את⟩ chupe, ani hag̃ua ou ha ojuka cherehe, sy umi taʼýra ndive.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Eñemosãso cherehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nde pyʼaite"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "… po gui"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "che joykeʼýi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "… po gui"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ירא",
+      "gloss": "che jahyʼo haguere"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ache"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe (Esav)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ojuka cherehe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sy"
+    },
+    {
+      "surface": "על",
+      "gloss": "… ndive"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "umi taʼýra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:52:45.639683891Z",
+  "model": "glm-5.3"
+}

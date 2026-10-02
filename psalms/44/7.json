@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Che ndajeroviai che retymbáre, ha che jukaha no cheruviaivaʼerã cherehe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda...i"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "che retymbáre"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndajeroviai"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ha che jukaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no...vaʼerã"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "cheruviaivaʼerã cherehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:20.854437511Z",
+  "model": "glm-5.3"
+}

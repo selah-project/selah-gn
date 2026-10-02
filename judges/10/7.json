@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "Ha Jahve pyʼarory oñemboypy Jisrael rehe, ha ovende hikuái chupekuéra pelishtikuéra pópe ha Amón membykuéra pópe.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "oñemboypy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pyʼarory"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael rehe"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "ovende hikuái chupekuéra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtikuéra"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ha … pópe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    }
+  ],
+  "timestamp": "2026-10-02T10:43:31.929308950Z",
+  "model": "glm-5.3"
+}

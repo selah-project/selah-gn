@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 66,
+  "translation": "Che ningo aipeʼa ha ndamoheñói? heʼi Jahve. Che ningo amohaʼãngue ha ajoko? heʼi nde Elohim.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "Che ningo"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "aipeʼa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndamoheñói"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "amoheñói"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "amohaʼãngue"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "ha ajoko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T13:06:38.776399336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha oikóta, umi Mitsraim-yguasu ohecha jave ⟨את⟩ nde, ha heʼíta: kóva hembireko; ha ojukáta ⟨את⟩ che, ha ⟨את⟩ nde omombaʼáta nde reikove hag̃ua.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…jave"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ohecha jave"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde",
+      "marks": "nde"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "umi Mitsraim-yguasu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ha heʼíta"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ojukáta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ che",
+      "marks": "che"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ nde",
+      "marks": "nde"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "omombaʼáta reikove hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-02T07:36:57.525138789Z",
+  "model": "glm-5.3"
+}

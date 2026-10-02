@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Ha ajupijupeita che po nde jorokypyre rehe — che aipotaiterei umíva — ha amomba'apóta nde joropyre rehe.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ajupijupeita"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nde jorokypyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "che aipotaiterei"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "amomba'apóta"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nde joropyre rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:33.205803572Z",
+  "model": "glm-5.3"
+}

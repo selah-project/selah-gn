@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Jañemomandu'a ⟨את⟩ pira rehe, ja'úva hague Mitsraim-pe, sa'ỹjo rehe; ⟨את⟩ umi kyumbe, ⟨את⟩ umi sandía, ⟨את⟩ umi poro, ⟨את⟩ umi sevói, ⟨את⟩ umi ajo.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Jañemomandu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pira"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "pira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ja'úva hague"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ja'u"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sa'ỹjo rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi kyumbe"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "umi kyumbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi sandía"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "umi sandía"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi poro"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "umi poro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi sevói"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "umi sevói"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi ajo"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "umi ajo"
+    }
+  ],
+  "timestamp": "2026-10-02T09:22:59.526988111Z",
+  "model": "glm-5.3"
+}

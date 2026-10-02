@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 115,
+  "translation": "Ombarete Jahve umi oñembojarúva Jahve-re, umi michĩva ojoaju umi guasúva ndive.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "Ombarete"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "umi oñembojarúva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "umi michĩva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "umi guasúva"
+    }
+  ],
+  "timestamp": "2026-10-02T16:14:02.106077241Z",
+  "model": "glm-5.3"
+}

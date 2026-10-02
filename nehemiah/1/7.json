@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 1,
+  "translation": "Rojeguaruete ndeve, ha ndoroñangarekói ⟨את⟩ ñeʼẽporãnguéra, ⟨את⟩ tekotevẽnguéra ha ⟨את⟩ hekojojahanguéra reimeha emoĩ vaʼekue ⟨את⟩ Moche, ne mboʼirãi rapykuére.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "jeguaruete"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "rojeguaruete"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndoroñangarekói"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeʼẽporãnguéra"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ñeʼẽporãnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tekotevẽnguéra"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "tekotevẽnguéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hekojojahanguéra"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hekojojahanguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "emoĩ vaʼekue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ne mboʼirãi"
+    }
+  ],
+  "timestamp": "2026-10-02T17:49:26.799030011Z",
+  "model": "glm-5.3"
+}

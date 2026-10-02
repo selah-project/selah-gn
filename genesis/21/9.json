@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha Sara ohecha ⟨את⟩ pe taʼýra Hagar mitsraimgua oheñóiva Avraham-pe, haʼe oñemboʼecha hína.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe taʼýra Hagar mitsraimgua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pe taʼýra"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "mitsraimgua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohaʼéva"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "oheñóiva"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham-pe"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "oñemboʼecha hína"
+    }
+  ],
+  "timestamp": "2026-10-02T18:40:53.466268715Z",
+  "model": "glm-5.3"
+}

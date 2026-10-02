@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Ha pe y oho amo pe mbaʼehuʼã jerére, ha avei omyenyhẽ ⟨את⟩ pe yvy joʼopyre yku.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pe y"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "amo jerére"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pe mbaʼehuʼãme"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yvy joʼopyre"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "pe yvy joʼopyre"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "omyenyhẽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yku"
+    }
+  ],
+  "timestamp": "2026-10-02T11:57:25.500288025Z",
+  "model": "glm-5.3"
+}

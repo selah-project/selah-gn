@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Ha Yehochua omandá ⟨את⟩ umi paʼikuéra rehe, heʼívo: Peñosẽ Yardenygui.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "omandá"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi paʼikuéra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi paʼikuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Peñosẽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ygui"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-02T10:16:47.476048444Z",
+  "model": "glm-5.3"
+}

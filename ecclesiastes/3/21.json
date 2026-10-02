@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Mávapa oikuaa pe ruah yvypóra taʼýra kuéra mbaʼéva, oguahẽva yvate gotyo, ha pe ruah mymba mbaʼéva, oguejýva iguýpe, yvýpe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra kuéra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "oguahẽva"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨upe⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ha ruah"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "oguejýva"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨upe⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "iguýpe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:19:24.498124492Z",
+  "model": "glm-5.3"
+}

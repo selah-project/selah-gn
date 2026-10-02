@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Ha Joséf he'i chuguikuéra mbohapyha árape: Kóicha pejapo ha peikove; ⟨את⟩ Elohim che jareko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joséf"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "mbohapyha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóicha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "pejapo"
+    },
+    {
+      "surface": "ויחיו",
+      "gloss": "ha peikove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "jareko"
+    }
+  ],
+  "timestamp": "2026-10-02T08:00:53.902096544Z",
+  "model": "glm-5.3"
+}

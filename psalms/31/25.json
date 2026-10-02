@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 31,
+  "translation": "Eñakãpitéke, ha toñakãpite peẽ korasõ, opaite peẽ ohaʼarõva Jahve rehe.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "eñakãpitéke"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ha toñakãpite"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "peẽ korasõ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ohaʼarõva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:38:36.099953891Z",
+  "model": "glm-5.3"
+}

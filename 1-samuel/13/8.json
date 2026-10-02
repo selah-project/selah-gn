@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 13,
+  "translation": "Ha ohaʼarõ poapy ára arangehápe, Chemuel mbojaopyre; ha Chemuel ndouái Jilgal-pe, ha tavaygua oñemosarambi hapy.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Ha ohaʼarõ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "poapy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "arangehápe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbojaopyre"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nd"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ouái"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Jilgal-pe"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "ha oñemosarambi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "hapy"
+    }
+  ],
+  "timestamp": "2026-10-02T18:57:15.517172976Z",
+  "model": "glm-5.3"
+}

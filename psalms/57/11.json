@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 57,
+  "translation": "Che rupi nde hesed tuichaiterei ⟨peve⟩ yvága peve, ha nde añetegua arapu'a peve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "che rupi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yvága peve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "nde hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arapu'a peve"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "arapu'a"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nde añetegua"
+    }
+  ],
+  "timestamp": "2026-10-02T15:48:37.151781561Z",
+  "model": "glm-5.3"
+}

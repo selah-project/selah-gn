@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha ojapovaʼerã vai Jahve resápe, haʼeháicha ndojapói isývaicha ha isyvicha; ha ohesapymi ⟨את⟩ vaʼerã pe Cháal mbaʼerã ñemonguʼe isýva ojapovaʼekue.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "resápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "haʼeháicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndojapói"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "isývaicha"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "ha isyvicha"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ohesapymi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Cháal mbaʼerã ñemonguʼe"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "mbaʼerã ñemonguʼe"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Cháal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isýva"
+    }
+  ],
+  "timestamp": "2026-10-02T12:02:13.106063915Z",
+  "model": "glm-5.3"
+}

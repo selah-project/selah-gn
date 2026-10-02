@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "translation": "Ha oñembyaijey hikuái iñemoñare kuimbaʼe ha kuña ⟨את⟩ umi itaʼýra michĩva, ha ⟨את⟩ umi iñemoñare kuimbaʼéva g̃uarã, omeʼẽ hikuái chupekuéra umi tuicháva ýpe.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "oñembyaijey hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñemoñare kuimbaʼe ha kuña"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "iñemoñare kuimbaʼéva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "iñemoñare kuñague"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "umo tuicháva ýpe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:04.989019565Z",
+  "model": "glm-5.3"
+}

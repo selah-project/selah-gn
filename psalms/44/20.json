@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 44,
+  "translation": "Ha nde rombyaipa oréve jaguareté rendápe, ha nde romboja ñande hakuʼi pytũ ashpépe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "rombyaipa oréve"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "jaguareté"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "romboja"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "hakuʼi pytũ ashpépe"
+    }
+  ],
+  "timestamp": "2026-10-02T15:44:32.647041020Z",
+  "model": "glm-5.3"
+}

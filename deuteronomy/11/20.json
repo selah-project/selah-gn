@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha reguatai koʼã nde róga okẽ yvyráre ha nde okẽnguérape.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "reguatai"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "okẽ yvyráre"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde róga"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "nde okẽnguérape"
+    }
+  ],
+  "timestamp": "2026-10-02T09:54:21.916166171Z",
+  "model": "glm-5.3"
+}

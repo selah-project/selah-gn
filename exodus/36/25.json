@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 36,
+  "translation": "Ha Michkan yke mokõiha, yvate gotyo, ojapo mokõipa kreashikuéra.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "yke pe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "kreashikuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T08:37:33.635840043Z",
+  "model": "glm-5.3"
+}

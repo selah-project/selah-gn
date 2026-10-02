@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Emeʼẽ Jahve-pe iñéra terakua; egueru minhã ha eju hag̃ua eike ióga rokẽkuéra rupi.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Emeʼẽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "terakua"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iñéra"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhã"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ha eju eike"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "ióga rokẽkuéra rupi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:49.405743861Z",
+  "model": "glm-5.3"
+}

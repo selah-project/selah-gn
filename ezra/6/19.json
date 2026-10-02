@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Ha guerahakuéra ojapo ⟨את⟩ ⟨Pésaj⟩ ⟨ára⟩ papo irundy-pe, jasy ñepyrũguápe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ojapo hikuái"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "guerahakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésaj"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésaj"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "papo irundy-pe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "papo irundy"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñepyrũguápe"
+    }
+  ],
+  "timestamp": "2026-10-02T17:45:26.006462147Z",
+  "model": "glm-5.3"
+}

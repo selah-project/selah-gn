@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Umi katu rechakuaa remiandu hekojoja, ha umi vaíva iñeʼẽmbychyryrygua ojapo mbeguekatu jepe ñemityrỹi.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "remiandu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "umi katu rechakuaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojoja"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "iñeʼẽmbychyryrygua"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi vaíva"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ñemityrỹi"
+    }
+  ],
+  "timestamp": "2026-10-02T16:32:26.636995644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 26,
+  "translation": "Ha umi paʼi ha umi nabi ha opaite tavayguasu ohendu ⟨את⟩ Irmiahu oñeʼẽhína ⟨את⟩ koʼã ñeʼẽ Jahve ógapype.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi paʼi"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ha umi nabi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irmiahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Irmiahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "oñeʼẽhína"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ógapype"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T13:28:18.702245373Z",
+  "model": "glm-5.3"
+}

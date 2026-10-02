@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ani reñotỹ ndéve Acherah, yvyrakuéra oimeraẽva, Jahve — nde Elohim — mizbeaj ykére, emojapóva ndéve g̃uarã.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "reñotỹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Acherah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oimeraẽva"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyrakuéra"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "emojapóva"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "emojapo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-02T09:59:34.727344969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 83,
+  "translation": "Elohim, ani eke pytu'ũ nde rehe; ani eñemi, ani ekiryrĩ, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "pytu'ũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "eñemi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani ekiryrĩ hag̃ua"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ekiryrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:04.639298656Z",
+  "model": "glm-5.3"
+}

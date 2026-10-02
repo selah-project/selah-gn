@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "translation": "Ha umi medanakuéra ohevuka ⟨את⟩ chupe Mitsraim-pe, Potifar-pe, Paroh saris-pe, tabajukuéra mburuvichape.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "umi medanakuéra"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ohevuka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Josef (chupe)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "Potifar-pe"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saris"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "tabajukuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:59:27.416178713Z",
+  "model": "glm-5.3"
+}

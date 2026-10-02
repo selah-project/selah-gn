@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha mitãraʼy Shemuel omombaʼapo ⟨את⟩ Jahve Eli renondépe, ha koʼã árape Jahve ñeʼẽ opyta ypýva, ndaipóri jehecha osẽmbáva.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ha mitãraʼy"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "omombaʼapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ha ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ypýva"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "koʼã árape"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "upekuérape"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "jehecha"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "osẽmbáva"
+    }
+  ],
+  "timestamp": "2026-10-02T18:58:01.225491944Z",
+  "model": "glm-5.3"
+}

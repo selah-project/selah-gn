@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "Ha peteĩ kuimba'e ohepaukarõ ⟨את⟩ iñakãtayra kuñáme g̃uarã tembiguái ramo, ha'e nosẽmo'ãi umi tembiguái kuimba'e oñesẽ háicha.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ha…rõ"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ohepauka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩ kuimba'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãtayra"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iñakãtayra"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "kuñáme g̃uarã tembiguái ramo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no…mo'ãi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sẽ"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "oñesẽ háicha"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "umi tembiguái kuimba'e"
+    }
+  ],
+  "timestamp": "2026-10-02T08:24:42.341997644Z",
+  "model": "glm-5.3"
+}

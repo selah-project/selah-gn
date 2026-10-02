@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "translation": "Ha ⟨את⟩ umí mba'e hyakuãva ha ⟨את⟩ ykýra, tesãi rehegua, jeno hagua ykýra, ha umí mba'e hyakuã porãva ketoret hagua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umí mba'e hyakuãva"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "umí mba'e hyakuãva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ykýra"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ykýra"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "tesãi rehegua"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "ykýra"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "jeno hagua"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ha ketoret hagua"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "umí mba'e hyakuã porãva"
+    }
+  ],
+  "timestamp": "2026-10-02T08:36:49.609238256Z",
+  "model": "glm-5.3"
+}

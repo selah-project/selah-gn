@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 96,
+  "translation": "Ovyʼa yvaga, ha yvy ovyʼaite; opu para, ha opaite oĩva ipype.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Ovyʼa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ha ovyʼaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "opu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ha opaite oĩva ipype"
+    }
+  ],
+  "timestamp": "2026-10-02T16:04:32.175154467Z",
+  "model": "glm-5.3"
+}

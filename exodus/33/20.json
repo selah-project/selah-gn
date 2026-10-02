@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "translation": "Ha Jahve heʼi: Nde ndaikatúi ehecha ⟨את⟩ che retĩ, yvypóra ndahechamoʼãi chéve ha oikove.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaikatúi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "nde… ndaikatúi"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che retĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "che retĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda… moʼãi"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ohecha chéve"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ha oikove"
+    }
+  ],
+  "timestamp": "2026-10-02T08:35:43.986903367Z",
+  "model": "glm-5.3"
+}

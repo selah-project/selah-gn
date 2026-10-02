@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 15,
+  "translation": "Reipeʼaite ⟨את⟩ ne po chupe, emeʼẽite heta ijtekotevẽ ojekotevẽva chupe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "heʼiséramo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "reipeʼaite"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "reipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "emeʼẽite"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "emeʼẽ chupe"
+    },
+    {
+      "surface": "די",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "ijtekotevẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ojekotevẽva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-02T09:57:51.204741564Z",
+  "model": "glm-5.3"
+}

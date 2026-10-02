@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "translation": "Amombaʼapo pyaʼe, ndache akãrarerãi, che areko haguã nde mboʼenguéra.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "amombaʼapo pyaʼe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nda... (-rãi)"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ndache akãrarerãi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "che areko haguã"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nde mboʼenguéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:15:16.034799151Z",
+  "model": "glm-5.3"
+}

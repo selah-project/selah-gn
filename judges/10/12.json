@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 10,
+  "translation": "ha Tsidonkuéra, Amalek ha Maon ojopy ⟨את⟩ peẽ; peẽ ohenoi cherehe ha che amonguera ⟨את⟩ peẽ kuéra ipe po gui.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "ha Tsidonkuéra"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ha Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "peẽ ohenoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "ha che amonguera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ peẽ",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kuéra ipe po gui"
+    }
+  ],
+  "timestamp": "2026-10-02T10:40:53.099773093Z",
+  "model": "glm-5.3"
+}

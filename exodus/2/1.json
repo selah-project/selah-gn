@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 2,
+  "translation": "Ha oho peteĩ kuimbaʼe Levi rogúagui, ha oireno ⟨את⟩ peteĩ kuñataĩ Levi raʼýigua.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "rogúagui"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oireno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuñataĩ Levi raʼýigua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kuñataĩ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-10-02T08:08:48.716780198Z",
+  "model": "glm-5.3"
+}

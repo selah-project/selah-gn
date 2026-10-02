@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Pa po ama yvateguápe ⟨pe⟩ y ipu'akave, ha ⟨pe⟩ yvyty oñembo'y.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yvateguápe"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ipu'akave"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ha oñembo'y"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "yvyty"
+    }
+  ],
+  "timestamp": "2026-10-02T07:33:41.945091972Z",
+  "model": "glm-5.3"
+}

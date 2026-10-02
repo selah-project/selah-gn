@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 27,
+  "translation": "Akish he'i: —¿Na peñemomba'e ko árape?— David he'i: Yehuda ñemby gotyo, Yerajmeel-kuéra ñemby gotyo, ha Keni-kuéra ñemby gotyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na..."
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "peñemomba'e"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñemby gotyo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñemby gotyo"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerajmeel-kuéra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ... gotyo"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ñemby gotyo"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keni-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:16:06.573494604Z",
+  "model": "glm-5.3"
+}

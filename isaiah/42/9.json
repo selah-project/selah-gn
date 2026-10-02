@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 42,
+  "translation": "Pe umi ñepyrũgua — eñesẽ — og̃uahẽmajey, ha umi pyahu che amombe'u, oñemosarambi mboyve chuguikuéra che ambohendu ⟨את⟩ peẽ.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "umi ñepyrũgua"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eñesẽ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "og̃uahẽmajey"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ha umi pyahu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "amombe'u"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "oñemosarambi mboyve chuguikuéra"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ambohendu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:40.542034198Z",
+  "model": "glm-5.3"
+}

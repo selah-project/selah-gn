@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 40,
+  "translation": "Kapiʼi okaraity, kachurei omonandi; ha ñande Elohim ñeʼẽ oĩta opa ag̃ave.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "okaraity"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "kapiʼi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kachurei"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ha ñeʼẽ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa ag̃ave"
+    }
+  ],
+  "timestamp": "2026-10-02T12:50:45.368906962Z",
+  "model": "glm-5.3"
+}

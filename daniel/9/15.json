@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 9:15",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Ha ko'ág̃a, Adonai, ore Elohim, ne reipe'a hague ⟨את⟩ nde retãyguakuéra Mitsraim tetãgui ipo iguasúva rupi, ha rejapo hague nde réirã téra ko ára ag̃uápe roiko vaígui, rojapo hague vai.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha ko'ág̃a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne … hague"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "reipe'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde retãyguakuéra"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde retãyguakuéra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tetãgui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ipo rupi"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "iguasúva"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ha rejapo hague"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde réirã"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ag̃ua"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "roiko hague vai"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "rojapo hague vai"
+    }
+  ],
+  "timestamp": "2026-10-02T17:38:53.985645767Z",
+  "model": "glm-5.3"
+}

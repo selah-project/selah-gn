@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 11,
+  "translation": "Ha ohenói ⟨את⟩ pe téra pe tenda upéva: Tavera, porque Jahve tata ovetãkuri chuguikuái apytépe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ha ohenói"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pe téra"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "pe tenda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tavera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ovetãkuri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chuguikuái apytépe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-02T09:23:18.404054615Z",
+  "model": "glm-5.3"
+}

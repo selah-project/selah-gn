@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 6,
+  "translation": "Koʼã haʼe pe mboʼe, umi tekorã ha umi hekojojaha Jahve Elohim peẽme omeʼẽva oñemoarandu hag̃ua peẽ, ejapovaʼerã ⟨ápe⟩ yvýpe peẽ ohasahápe upépe, eñemombaʼe hag̃ua hese.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "koʼã haʼe"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pe mboʼe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "umi tekorã"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "ha umi hekojojaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oimeháva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim peẽme g̃uarã"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "oñemoarandu hag̃ua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ejapovaʼerã"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oimehápe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ohasahápe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "eñemombaʼe hag̃ua hese"
+    }
+  ],
+  "timestamp": "2026-10-02T09:51:05.443725893Z",
+  "model": "glm-5.3"
+}

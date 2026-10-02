@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 7,
+  "translation": "Ha nde Eloha róga tekotevẽ ambuéva oíva ndéve g̃uarã eme'ẽ hag̃ua, eme'ẽta mburuvicha mba'erepy rógui.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ha tekotevẽ ambuéva"
+    },
+    {
+      "surface": "חשחות",
+      "gloss": "tekotevẽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "nde Eloha"
+    },
+    {
+      "surface": "די",
+      "gloss": "oíva"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "oíva ndéve g̃uarã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "למנתן",
+      "gloss": "eme'ẽ hag̃ua"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "eme'ẽta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rógui"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "mba'erepy"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-02T17:49:10.727886809Z",
+  "model": "glm-5.3"
+}

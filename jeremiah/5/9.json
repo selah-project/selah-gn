@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "¿Ani pápa aiporowo koʼãva rehe? heʼi Jahve; ha peteĩ tetã icha koʼáva rehe, ani pápa che rekove ndojekoviaramoʼãi?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "reheguápa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ani…moʼãi"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "aiporowo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha…pápa"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "peteĩ tetã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "koʼáva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "ndojekoviaramoʼãi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-02T13:11:28.595729617Z",
+  "model": "glm-5.3"
+}

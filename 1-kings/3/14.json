@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "translation": "Ha eho ramo che tapekuérape, eñangareko haguã che jepyru ha che jerurekuéra rehe, David nde ru oho háicha, ha amopuku nde ⟨את⟩ arakuéra.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "che tapekuérape"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "eñangareko haguã"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "che jepyru"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "che jerurekuéra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "háicha"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "amopuku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde arakuéra"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "nde arakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T11:40:00.282948054Z",
+  "model": "glm-5.3"
+}

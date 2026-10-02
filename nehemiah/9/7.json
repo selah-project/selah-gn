@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 9,
+  "translation": "Nde ⟨nde⟩ Jahve Elohim, nde rejeporavo kuri Avram rehe, ha regueru chugui Ur Kasdím-gui, ha remoĩ héra Avraham.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ndéva⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "nde rejeporavo kuri"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avram rehe"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "ha regueru chugui"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdím"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ha remoĩ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "héra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-10-02T17:57:19.138357441Z",
+  "model": "glm-5.3"
+}

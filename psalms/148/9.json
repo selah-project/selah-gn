@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 148,
+  "translation": "Yvyty guasu ha opaite yvyty michĩ; yva rakãʼỹva ha opaite sedra yvyra.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "yvyty guasu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "yvyty michĩ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yva rakãʼỹva"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yva"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedra yvyra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:24:25.041928931Z",
+  "model": "glm-5.3"
+}

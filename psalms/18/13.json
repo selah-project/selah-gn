@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 18,
+  "translation": "Iverãgui iñakãrenondépe, araraʼykuéra ohasa — chova ha tata kuʼi tata.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "iverãgui"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "iñakãrenondépe"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "araraʼykuéra"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chova"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ha tata kuʼi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    }
+  ],
+  "timestamp": "2026-10-02T15:34:04.630130025Z",
+  "model": "glm-5.3"
+}

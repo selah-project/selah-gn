@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 29,
+  "translation": "Umi marangatukuéra hetakue jave, tavayguakuéra ovy'a; ha vaijakua rejakávo, tavayguakuéra osūne.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "hetakue jave"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marangatukuéra"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ovy'a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "ha rejakávo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "vaijakua"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "osūne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-02T16:43:36.396158785Z",
+  "model": "glm-5.3"
+}

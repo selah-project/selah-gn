@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 103,
+  "translation": "Emomba'eguasu Jahve, imbojahakuéra, ipu'akapýva kuéra, ojapóva iñe'ẽ — ohendúvo iñe'ẽ ñe'ẽ.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Emomba'eguasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "imbojahakuéra"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "ipu'akapýva"
+    },
+    {
+      "surface": "כח",
+      "gloss": "pu'aka"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ohendúvo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iñe'ẽ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-02T16:07:28.773471337Z",
+  "model": "glm-5.3"
+}

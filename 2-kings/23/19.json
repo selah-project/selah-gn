@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 23:19",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "translation": "Ha avei Joachía oipe'a ⟨את⟩ opaite bama óga oĩva Shomron távakuérape, ojapova'ekue Jisrael mburuvichakuéra ombopy'aguasu hag̃ua, ha ojapo chupekuéra opaite mba'e ojapohaguéicha Bendel-pe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite bama óga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(rel)"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "távakuérape"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(rel)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mburuvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "ombopy'aguasu hag̃ua"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joachía"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite mba'e"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(rel)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bendel-pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bendel"
+    }
+  ],
+  "timestamp": "2026-10-02T12:22:55.151782922Z",
+  "model": "glm-5.3"
+}

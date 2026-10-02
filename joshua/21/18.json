@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatót hiʼáva ndive hiʼykarugua, ⟨את⟩ Almón hiʼáva ndive hiʼykarugua — táva irundy hiʼávandi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatót"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hiʼykarugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hiʼykarugua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Almón"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almón"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hiʼykarugua"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hiʼykarugua"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    }
+  ],
+  "timestamp": "2026-10-02T10:29:41.187424548Z",
+  "model": "glm-5.3"
+}

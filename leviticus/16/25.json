@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Ha ⟨את⟩ pe juka-rã ñandy omo tataverã mizbeaj ári.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "ñandy"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ñandy"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "juka-rã"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "omo tataverã"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mizbeaj ári"
+    }
+  ],
+  "timestamp": "2026-10-02T08:58:04.646677828Z",
+  "model": "glm-5.3"
+}

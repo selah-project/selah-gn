@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 4,
+  "translation": "Teko pyʼaguapýpe, joja huʼãme, che akãmbyta che tombýpe ha chentupãta; neʼĩra che pyʼaguapyrõ, nde, Jahve, añoite, nde chekokatu pyʼaguapy ha jeikuaa porãme.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "teko pyʼaguapýpe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "joja huʼãme"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "che akãmbyta che tombýpe"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ha chentupãta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neʼĩra che pyʼaguapyrõ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "pyʼaguapy ha jeikuaa porãme"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "nde chekokatu"
+    }
+  ],
+  "timestamp": "2026-10-02T15:21:33.242359149Z",
+  "model": "glm-5.3"
+}

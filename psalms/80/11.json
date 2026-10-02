@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 80,
+  "translation": "Yvytykuéra oñemoĩ geféñ yvyrarogueguýpe, ha iñakãmongakuéra ⟨El⟩ kedrakuéraicha.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "oñemoĩ (oñembovy'a)"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvytykuéra"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "yvyrarogue"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "iñakãmongakuéra"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "kedrakuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T16:00:22.242918105Z",
+  "model": "glm-5.3"
+}

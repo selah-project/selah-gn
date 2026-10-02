@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 98,
+  "translation": "Jahve renondépe, haʼe ou ndaipóri hagua ou vaʼerã yvy aporape: ojapórõ tekojoja yvy ape rehe, ha umi tetãnguéra ojapórõ hekojojahápe.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ou vaʼerã yvy aporape"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ojapórõ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yvy ape"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "hekojojahápe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:06:08.762787803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 105,
+  "translation": "Mitsraim ovyʼa oho jave ⟨hikuái⟩, ougui hikuái ku jepyʼa oguerekóva hikuái.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "oho jave ⟨hikuái⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ougui"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "oguerekóva hikuái"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ku jepyʼa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hikuái rehe"
+    }
+  ],
+  "timestamp": "2026-10-02T16:09:20.477158003Z",
+  "model": "glm-5.3"
+}
