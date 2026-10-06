@@ -1,0 +1,169 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 8:43",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Shelomo's prayer addresses Jahve directly: 'Nde reñehendu' — hear Thou."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא \/ נקרא",
+      "rationale": "Same root קרא opens (the foreigner calls) and closes (your name is called) the verse; the echo is kept with ojerure\/oñembohera but the pun is softened."
+    },
+    {
+      "kind": "crux",
+      "subject": "נקרא שמך על הבית",
+      "rationale": "Literal: 'your name is called upon this house'; KJV inverts to 'this house is called by thy name' — the literal order is kept here."
+    },
+    {
+      "kind": "substitution",
+      "subject": "omombaʼeguasu",
+      "rationale": "ליראאה is fear\/revere; avañeʼẽ 'omombaʼeguasu' (to hold in high esteem) chosen over 'jesareko' (to be afraid), which would mislead."
+    }
+  ],
+  "translation": "Nde reñehendu yvágape, ne rekohápe, ha rejapo opaite mbaʼe pe okaragua ojerure ndéve, ikatu hag̃ua opaite yvy ára retãnguéra oikuaa ⟨את⟩ ne Téra, omombaʼeguasu hag̃ua ⟨את⟩ nendive, cha ne retã Jisrael ojapóicha, ha oikuaa hag̃ua ne Téra oñembohérava ko óga ári, che ajapovaʼekue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8b5f087a71b0d041f1a59be278b941f6514bc1e69b0dc1d736b55c8e821f579d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/8\/43-43.1791273193000.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "reñehendu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "kóha"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "nde reko"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ha rejapo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "pe okaragua"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃ua"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "retãnguéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy ára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Téra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne Téra"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "omombaʼeguasu hag̃ua"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nendive"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "cha ne retã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ha oikuaa hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne Téra"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "oñembohera"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ári"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ko óga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "che ajapovaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-06T07:53:13.002010001Z",
+  "model": "glm-5.3"
+}
