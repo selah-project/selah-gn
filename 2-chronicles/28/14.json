@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "umi ñorairõhára",
+      "rationale": "החלוץ haʼe 'oñembokuakyvaʼekue ñorairõhápe' — peteĩ kateÑeʼẽ tekojoja rehegua, ndahaʼéi téra añete"
+    },
+    {
+      "kind": "elision",
+      "subject": "hikuái",
+      "rationale": "jehaipyre oheja hikuái ⟨hikuái⟩ ndive ojehechauka hag̃ua mbaʼépa ojeheja"
+    }
+  ],
+  "translation": "Upéicha umi ñorairõhára oheja ⟨את⟩ umi captivity-kuéra ha ⟨את⟩ jeikerã ⟨hikuái⟩ tenondeite umi mburuvichaguasu ha opavave aty rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4edab0bf986cd3058e09076ed12c2032bf38df39e64bfb955d9a5e360c560429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/28\/14-14.1791267186465.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "umi ñorairõhára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi captivity-kuéra"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "umi captivity-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "jeikerã"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "jeikerã"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenondeite"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "umi mburuvichaguasu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty"
+    }
+  ],
+  "timestamp": "2026-10-06T06:13:06.467833157Z",
+  "model": "glm-5.3"
+}

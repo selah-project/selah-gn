@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bekodesh hakodashim",
+      "rationale": "'Marangatu marangatuete rendápe' — JPS\/Geneva ohecha tenda (santuario ryepýpe); ASV\/BSB ohecha mbaʼeichapa oʼúva ('marangatuete ramo')."
+    },
+    {
+      "kind": "addition",
+      "subject": "upe",
+      "rationale": "Avañeʼẽ oikotevẽ mbaʼe rehegua ñeʼẽ 'oʼúta' mboyve; hebreo oiporu sufijo -o año."
+    }
+  ],
+  "translation": "Marangatu marangatuete rendápe rejapóta chupe ⟨אתו⟩; opaite kuimbaʼe oʼúta ⟨upe⟩; marangatu oikóta nde reheve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a021b1464407c29a2bbe1fe34d2a014ed27c27d51875b5a43a6691e859efaaf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/18\/9-11.1791266137004.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "marangatuete rendápe"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "rejapóta chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oʼúta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "upe marangatu mbaʼe (korban)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde reheve"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:37.007813200Z",
+  "model": "glm-5.3"
+}

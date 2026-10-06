@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "umi",
+      "rationale": "Hebrew relative אשר requires a plural demonstrative in Guarani to build the participle chain"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sarisimakuéra",
+      "rationale": "סריסים 'eunuchs' rendered phonetically as a loan plural, since Guarani lacks a native term"
+    },
+    {
+      "kind": "addition",
+      "subject": "rehe",
+      "rationale": "Hebrew construct בבריתי is bound directly; Guarani needs the postposition 'rehe' (upon)"
+    }
+  ],
+  "translation": "Upéicha he'i Jahve umi sarisimakuéra pe, umi oñangarekóva ⟨את⟩ che Chabatkuéra rehe, oiporavóva che rekoayhu va'ekue, ha ojupysyryóva che ñeʼẽmeʼẽ rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "be1be53fd61f47725c0cb08c00ea3a313d7ecf0f9da32b6e2ddaac1b5cd0d04d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/56\/4-4.1791266544210.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "umi sarisimakuéra pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "oñangarekóva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che Chabatkuéra"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "che Chabatkuéra"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "oiporavóva"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "che rekoayhu"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "ojupysyryóva"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "che ñeʼẽmeʼẽ rehe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:24.212415006Z",
+  "model": "glm-5.3"
+}

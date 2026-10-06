@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 26:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשחרך",
+      "rationale": "Literally 'I dawn toward you' — the idiom of seeking diligently at first light, rendered as rising early to seek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "che rekove",
+      "rationale": "נפש is throat\/breath\/life-force, not an immaterial 'soul'."
+    },
+    {
+      "kind": "crux",
+      "subject": "oikuaakuaáta",
+      "rationale": "למדו tense: future 'will learn' (KJV\/ASV) vs perfect 'have learned' (YLT)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Direct second-person address to God throughout the first half of the verse."
+    }
+  ],
+  "translation": "Che rekove oiko'ase hese pyhare jave; avei che ruah, oĩva che ryepýpe, ahesa'ẽjey nde rehe ko'ẽme: ha'énte nde hekojojaha ohóvo yvýpe, ⟨umi⟩ yvy ape apytu'ũnguéra oikuaakuaáta tsedek.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b45f78fab42a474762df15ef1188e5ac2d53340af0c2bbe69486886be54b0fdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/26\/9-10.1791266558699.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    },
+    {
+      "surface": "אויתיך",
+      "gloss": "oiko'ase hese"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pyhare jave"
+    },
+    {
+      "surface": "אף",
+      "gloss": "avei"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "che ruah"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "che ryepýpe"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ahesa'ẽjey nde rehe ko'ẽme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'énte"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rekópe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "nde hekojojaha"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "oikuaakuaáta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yvy ape"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:38.700924680Z",
+  "model": "glm-5.3"
+}

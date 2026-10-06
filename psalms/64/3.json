@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סוד",
+      "rationale": "סוד haʼe ñembyaty ñemi — aty guasúpe oñeñomi hag̃ua; ko'ápe oñemoĩ «ñembyaty ñemi» peteĩ ñeʼẽteẽme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "אור he'ise «nandi», «mba'evai» — ko'ápe oñeñeʼẽ mba'evai apoharakuéra rehe."
+    },
+    {
+      "kind": "addition",
+      "subject": "che",
+      "rationale": "Hebreo oreko taʼãnguéra -ני (cherehe) taisyryrã; ⟨che⟩ ojoaju mborojaihára rehe hendaguaicha."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרגשת",
+      "rationale": "Rigshá: «rivet\/commotion» (KJV «insurrection», JPS «tumult») — aty ojokuai hína akóinte, ndahaʼéi ñorairõ tee."
+    }
+  ],
+  "translation": "Eñomi cherehe ⟨את⟩ che mborojaihára ñembyaty ñemiguive, mba'evai apohára ñembyaty rivetgui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "63ef45ef9850f08ae1706b16668f4500eec7b154c8933c961e3dde24e8fc9a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/64\/3-3.1791266751709.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "eñomi cherehe"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "ñembyaty ñemi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mborojaikuéra"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "rivet"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "apohára"
+    },
+    {
+      "surface": "און",
+      "gloss": "mba'evai"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:51.714677716Z",
+  "model": "glm-5.3"
+}

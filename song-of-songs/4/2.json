@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 4:2",
+  "book": "song-of-songs",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקצובות",
+      "rationale": "'oñemongu'i va'ekue' (shorn\/clipped) vs 'jepokuaa porãva' (well-ordered, JPS); ra'ãnga tĩ mboypýi mymba rejapo."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושכלה",
+      "rationale": "'ivai'ỹva' (bereaved\/barren) vs 'ndovaléiva' (none missing, BSB)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכלם\/ושכלה",
+      "rationale": "Shin-kaf-lamed ñeʼẽ joaju: 'opavave' ha 'ivai'ỹva' — ñeʼẽjovai reko avañeʼẽme ndohechaukái."
+    }
+  ],
+  "translation": "Ne tĩnguéra ojogua mymba aty oñemongu'i va'ekuépe, osẽva je'erupýgui; opavave ojuehejoja, ha ndaipóri ivai'ỹva ipype.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e38c373cb823bb4c73e2c4d78f7bf8bbdeb00a9d04b877fe3ea4027c8295397d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/song-of-songs\/4\/2-2.1791266908782.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "ne tĩnguéra"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "ojogua mymba aty"
+    },
+    {
+      "surface": "הקצובות",
+      "gloss": "oñemongu'i va'ekuépe"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "osẽva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "je'erupý"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "ojuehejoja"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ivai'ỹva"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:28.787857698Z",
+  "model": "glm-5.3"
+}

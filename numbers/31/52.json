@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 31:52",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "16.750 chekel",
+      "rationale": "Census-tribute weighing: gold counted in shekels by commanders of thousands and hundreds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ipohýi",
+      "rationale": "Hebrew ויהי היה construction rendered as weight statement; 'was' read as 'weighed' to carry the counting sense."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת \/ ומאת",
+      "rationale": "Both prepositional aleph-tav forms rendered with ⟨את⟩ marker plus 'gui' (from), preserving the signposts."
+    }
+  ],
+  "translation": "Ha pe itaju opaite — pe terumah oñemeʼẽva Jahve-pe, ⟨את⟩ umíva su-réma jára gui ha ⟨את⟩ umíva sa-réma jára gui — ipohýi pakõi su, pokõi pa po chekel.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "79c11115a1740f9907115b6938903592bdc6fb26a48bbf99fd98a8d7ca4265a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/31\/51-52.1791266206290.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "oñemeʼẽva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pakõi su mbohapyha pa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ha pa po"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "chekel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gui",
+      "marks": "umíva su-réma jára"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "jára"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "umíva su-réma"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ha ⟨את⟩ gui",
+      "marks": "umíva sa-réma jára"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "jára"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "umíva sa-réma"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:46.292392662Z",
+  "model": "glm-5.3"
+}

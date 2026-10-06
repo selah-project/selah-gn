@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 7:18",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sa ha chekel",
+      "rationale": "Seah mbohapyha (mokõi sa, peteĩ sa) ha chekel moõitépa ojehecha koṕa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuimba'e Elohim",
+      "rationale": "איש האלהיׂ ha'e 'Elohim kuimbaʼe' — avañeʼẽme ojehecha mokõi ñeʼẽ jejoapy"
+    },
+    {
+      "kind": "addition",
+      "subject": "oguerekóta",
+      "rationale": "יהיה ko'ápe ohechauka repy tuichaháa; avañeʼẽme oñemoĩ tembiasakue katuete"
+    }
+  ],
+  "translation": "Ha oiko, peteĩ kuimba'e Elohim oñeʼẽ haguéicha mburuvicha guasu rehe, heʼívo: mokõi sa sevady chekel-pe, ha peteĩ sa avatiku'i chekel-pe, oguerekóta koʼág̃a aravo ag̃uara Samaría rokẽme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8f7998f556e88fd5e7bd36c4144c673031c9e3d04d37ec328ae6859f3c8130a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/7\/18-18.1791266403210.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "oñeʼẽ haguéicha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "mokõi sa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sevady"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "chekel-pe"
+    },
+    {
+      "surface": "וסאה",
+      "gloss": "ha peteĩ sa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "avatiku'i"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "chekel-pe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oguerekóta"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "koʼág̃a aravo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ag̃uara"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "rokẽme"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaría"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:03.210895296Z",
+  "model": "glm-5.3"
+}

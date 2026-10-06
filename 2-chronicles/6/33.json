@@ -1,0 +1,164 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 6:33",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eñemomba'e",
+      "rationale": "יראה ha'e 'jahechakuaa ha gyra' — 'eñemomba'e' (ñemomba'e) ohechauka pe jeiko rehegua ijypykue hesegua, 'pytaguáva' noĩri"
+    },
+    {
+      "kind": "crux",
+      "subject": "oñemboheraha ko óga ári",
+      "rationale": "שמך נקרא על הבית: 'nde réra oñembohéra ko óga ári' — oĩ ohendúva 'ko óga oguereko nde réra' (KJV) ha 'nde réra oñemboheraha ko óga ári' (JPS)"
+    }
+  ],
+  "translation": "Ha nde reñuhã yvágagui, nde eiko rendágui, ha rejapo opaite pe pytagua ndeve ojerureháicha; ikatu hag̃ua opaite ko Yvy retãnguéra kuaa ⟨את⟩ nde réra, ha eñemomba'e ⟨את⟩ nderehe, nde retãygua Jisrael háicha, ha ikuaa nde réra oñemboheraha ko óga ári, che ajogapóva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6bc202ec19959b422bd36de83edd3e9b5906ef7ffd78e9f0285733d093832553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/6\/33-34.1791267161944.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "reñuhã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "ממכון",
+      "gloss": "eiko renda"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "nde eikoha"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ha rejapo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaitente"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jerureháicha"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "pe pytagua"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatuhag̃ua"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "retãnguéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko Yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde réra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "ha eñemomba'e"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde",
+      "marks": "nde retãygua Jisrael háicha"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "nde retãygua háicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ha ikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "oñemboheraha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ko óga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajogapóva"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ajogapo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:41.945505547Z",
+  "model": "glm-5.3"
+}

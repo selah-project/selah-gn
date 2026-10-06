@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אזכיר\/אזכרה",
+      "rationale": "Ace same ra'ãnga ojuehe — 'ajua'ata' oje'e mokõi jey, ñe'ẽ joapyrã ndoikoporãi avaÑe'ẽme."
+    },
+    {
+      "kind": "you",
+      "subject": "Øe'Ha Ja",
+      "rationale": "Nde'Ha — ñe'ẽ pehẽngue mbohapyhápe, ñe'ẽhára ñe'ẽ Ja-rehe."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mba'eporã",
+      "rationale": "מעללי ikatu porãva ha ivaíva mokõi; kópe ojeiporu mba'eporã (oikóva) ramo."
+    }
+  ],
+  "translation": "Ajua'ata mba'eporã Ja rehegua, ajusareígui amo arpeguare nde mba'eporãiguaitéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "dbcfc1e6d7c97efa87df2400710bf8755c77c30169b91bf2aaaf499d51ff4d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/77\/12-12.1791266736973.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ajua'ata"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mba'eporã"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ajusareígui"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ajua'ata"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "amo arpeguare"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "mba'eporãiguaitéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:36.975541525Z",
+  "model": "glm-5.3"
+}

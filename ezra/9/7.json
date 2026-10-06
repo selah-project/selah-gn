@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 9:7",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Avañe'ẽ oikotevẽ ñe'ẽpehẽ 'ko' ñemoĩ 'הזה' ndive, hái oĩva hebreo-pe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בושת פנים",
+      "rationale": "Hebreo he'i 'vera rova rehegua'; avañe'ẽme 'ijára ra'ãnga' — peteĩ ñe'ẽte oĩva"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתנו",
+      "rationale": "'נתן' (ome'ẽ) ojeporu iñapysẽme 'oheja' ra'ãpe — ome'ẽ ¿? oguerekóva ijojaha'ỹva"
+    }
+  ],
+  "translation": "Ore ruãnguéra ára guive ro'u mba'eguasu roguerohory jey ore jehovaisére ko ára peve; ore jehovaisére roheja — ro'e, ore mburuvichakuéra, ore pa'ikuéra — yvy tuichakue jára kuéra po pepépe, tajáype, ka'irãme, mba'ereíme ha verápe, ijára ra'ãngápe, ko ágaicha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0d1294d23a7fd5971b41619e69579783605395fb59e7f285f7f64a4fa106a9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/9\/7-7.1791267012923.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "ára guive"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ore ruãnguéra"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ro'e"
+    },
+    {
+      "surface": "באשמה",
+      "gloss": "jehovaisére"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mba'eguasu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ובעונתינו",
+      "gloss": "ore jehovaisére"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "roheja"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ro'e"
+    },
+    {
+      "surface": "מלכינו",
+      "gloss": "ore mburuvichakuéra"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "ore pa'ikuéra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po pepépe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "jára kuéra"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "yvy tuichakue"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tajáype"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ka'irãme"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "mba'ereíme"
+    },
+    {
+      "surface": "ובבשת",
+      "gloss": "verápe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ijára ra'ãngápe"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "ko ágaicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:12.927477262Z",
+  "model": "glm-5.3"
+}

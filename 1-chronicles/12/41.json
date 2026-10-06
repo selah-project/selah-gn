@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 12:41",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 12,
+  "translation": "Ha umíva avei, umi oĩva hiʼári upeve Yissaskar, Sebulon ha Naftali, ogueru kuarepotiʼãramo: kuarepoti kuarahyʼãngue kuarepoti ijykégua, kuarepoti apuʼa, kuarepoti mbyky, mymba soʼo, kuarepoti oujape, hikuái rapéva, mamóne kuarepoti yvyrakuéra, yva tyaiʼỹva, kaguay yvotyraʼỹva, kuarepoti yvoty aku ha mymba parachuku hetaite haguã; jahechápa ou pe jerovia Ysraelpeguápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6f93150bdb249434fbf81f4b008ca6df6f8a6995730c0dfea1b9dbdf78a52980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/12\/41-41.1791267132708.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha umíva"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "umi oĩva hiʼári"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "upeve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "upeve"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "Sebulon"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "בחמורים",
+      "gloss": "kuarahyʼãngue"
+    },
+    {
+      "surface": "ובגמלים",
+      "gloss": "kuarepoti ijykégua"
+    },
+    {
+      "surface": "ובפרדים",
+      "gloss": "kuarepoti apuʼa"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "kuarepoti mbyky"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "mymba soʼo"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "kuarahyʼã oujape"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "hikuái apuʼa"
+    },
+    {
+      "surface": "וצמוקים",
+      "gloss": "mamóne"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "yva tyaiʼỹva"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "kaguay"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "kuarepoti yvoty aku"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "mymba parachuku"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "hetaite haguã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jahechápa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "jerovia"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Ysraelpeguápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:12.709313854Z",
+  "model": "glm-5.3"
+}

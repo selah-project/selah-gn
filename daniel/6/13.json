@@ -1,0 +1,214 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 6:13",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "haʼe",
+      "rationale": "Armiñaiko ndorekói kopula; יציבא mboʼeha año oĩva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שׂוּם טְעֵם rehe",
+      "rationale": "v.14-pe טעם 'ij' literal — 'omoĩ jerovia\/ñeʼẽ nde rehe'— 'regardeth not' (KJV) ha'e ñemoambue"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mbohapypa ára",
+      "rationale": "ára moñembyaty pe arekópe"
+    },
+    {
+      "kind": "you",
+      "subject": "mburuvichape (Dario)",
+      "rationale": "ñomongeta directa mburuvicha ndive — 'nde rehe nte, mburuvicha'"
+    },
+    {
+      "kind": "crux",
+      "subject": "גֹּב",
+      "rationale": "'yvykua kyju' — 'leõ kuéra roga': leõ kuéra yvykua ijyképe ojehecha"
+    },
+    {
+      "kind": "elision",
+      "subject": "להן",
+      "rationale": "ñeʼẽpehẽ 'nte' (salvo) año ojeporu, iñeʼẽpy añóva"
+    }
+  ],
+  "translation": "Upéicha ou ha he'i mburuvicha rayhupépe mburuvicha ñeʼẽmeʼẽ rehe: Ndeiko, pa, nde jehai peteĩ ñeʼẽmeʼẽ — ojeʼiháicha opaite yvypóra ojerurevaʼerã opaite Elohim térã yvypóra rehe, mbohapypa ára peve, nde rehe nte, mburuvicha, oñembohasavaʼerã chupe leõ kuéra yvykuápe? Mburuvicha oñembohovái ha heʼi: Pe mbaʼe ⟨haʼe⟩ añetegua, Madai ha Parasu tekojoja raʼýicha, haʼéicha ndomoambuéi.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c8dcb7b923c0698de08b543801d5486d3be5d5d0563a895497035d994648852b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/6\/13-14.1791267088092.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "קריבו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "rayhupépe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "pa, nahániri"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "רשמת",
+      "gloss": "nde jehai"
+    },
+    {
+      "surface": "די",
+      "gloss": "ojeʼiháicha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אנש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "די",
+      "gloss": "ojeʼevaʼekuépe"
+    },
+    {
+      "surface": "יבעה",
+      "gloss": "ojerurevaʼerã"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "ha yvypóra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "יומין",
+      "gloss": "ára"
+    },
+    {
+      "surface": "תלתין",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "להן",
+      "gloss": "nte"
+    },
+    {
+      "surface": "מנך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "oñembohasavaʼerã"
+    },
+    {
+      "surface": "לגוב",
+      "gloss": "yvykuápe"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "leõ kuéra"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "oñembohovái"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יציבא",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "pe mbaʼe"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ha Parasu"
+    },
+    {
+      "surface": "די",
+      "gloss": "haʼéicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "תעדא",
+      "gloss": "domoambuéi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:28.093666697Z",
+  "model": "glm-5.3"
+}

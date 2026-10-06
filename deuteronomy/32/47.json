@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 32:47",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ningo",
+      "rationale": "Hebrew double כי rendered with a repeated discourse particle rather than two conjunctions"
+    },
+    {
+      "kind": "substitution",
+      "subject": "reko'ove",
+      "rationale": "חייכם 'your life\/lives' rendered as reko'ove, one word covering both 'life' and 'livelihood'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jisrael",
+      "rationale": "direct plural address, Moshe's closing charge to the people before crossing the Jarden"
+    },
+    {
+      "kind": "measurement",
+      "subject": "peembýta arakuéra",
+      "rationale": "prolonging of days counted as length of life on the land"
+    }
+  ],
+  "translation": "Ningo ndaha'éi peẽme g̃uarã ñe'ẽ nandi; ha'e peẽ reko'ove; ha ko ñe'ẽ rupi peembýta arakuéra pe yvy ári, pehasáva hína ⟨את⟩ Jarden upépe, pejogua hag̃ua chupe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ba0c3edf4de653623ab699310a6afddc20b6c57362700e3f771b9510336e28bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/32\/47-47.1791266267160.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaha'éi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "peẽme g̃uarã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ningo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "חייכם",
+      "gloss": "peẽ reko'ove"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ha ko ñe'ẽ rupi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "peembýta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "arakuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "pehasáva hína"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "pejogua hag̃ua chupe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:47.167350984Z",
+  "model": "glm-5.3"
+}

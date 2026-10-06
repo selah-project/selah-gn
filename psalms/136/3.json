@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדני divino-reheguápe g̃uarã Adonai tetã mombyry, 'Ñandejára' ndaha'éi"
+    },
+    {
+      "kind": "elision",
+      "subject": "לעלם",
+      "rationale": "'opa henda ári' — hebreo 'ere ko'ẽ meve', araka'eve ndoikopahái ára"
+    },
+    {
+      "kind": "you",
+      "subject": "umíva oñembojopoi haguã",
+      "rationale": "Ñe'ẽ myangekoi 'הודו' — tapichakuérape oñe'ẽ"
+    }
+  ],
+  "translation": "Eñembojopoi Adonai jaguakuéra Adonai-pe, hesed oiko hague opa henda ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c8d791da031c621f70f085d0f95429bd8c605d2d2d688eed55eee95a3ffb42a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/136\/3-4.1791266779427.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Eñembojopoi"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "jaguakuéra Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "opa henda ári"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed oiko"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:19.427640046Z",
+  "model": "glm-5.3"
+}

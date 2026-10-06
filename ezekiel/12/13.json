@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא יראה",
+      "rationale": "Hebrew has no explicit object for 'not see'; context supplies 'that land' (Bavel), rendered 'pe yvy' as the withheld object."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רֶשֶׁת \/ מְצוּדָה",
+      "rationale": "Two different Hebrew nouns for net\/snare in one verse; Guaraní splits into 'ja'i' (fishing net) and 'jere' (springe\/snare) to keep the pair distinct."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואתה לא יראה",
+      "rationale": "'He shall not see it' — object ambiguous: the land (JPS, KJV) or Babylon itself; read here as the land."
+    }
+  ],
+  "translation": "Ha che amboja che ja'i hese ⟨את⟩, ha ojeja che jere ryepýpe; ha che amog̃uahẽta chupe ⟨אתו⟩ Bavel-pe, yvy Kasdi-kuéra peg̃uarã-pe; ha pe yvy ⟨את⟩ nohechamo'ãi, ha upépe omanóta.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b0d878bcf32ec9a2cfb2c53fd7acbc726bdab864abc1254b879faf2bb51d03e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/12\/13-13.1791266649402.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וּפָרַשְׂתִּ֤י",
+      "gloss": "ha che amboja"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "che ja'i"
+    },
+    {
+      "surface": "רִשְׁתִּי֙",
+      "gloss": "che ja'i"
+    },
+    {
+      "surface": "עָלָ֔יו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "וְנִתְפַּ֖שׂ",
+      "gloss": "ha ojeja"
+    },
+    {
+      "surface": "בִּמְצֽוּדָתִ֑י",
+      "gloss": "che jere ryepýpe"
+    },
+    {
+      "surface": "וְהֵבֵאתִ֨י",
+      "gloss": "ha che amog̃uahẽta"
+    },
+    {
+      "surface": "אֹת֤וֹ",
+      "gloss": "⟨אתו⟩",
+      "marks": "Bavel-pe"
+    },
+    {
+      "surface": "בָבֶ֨לָה֙",
+      "gloss": "Bavel-pe"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כַּשְׂדִּ֔ים",
+      "gloss": "Kasdi-kuéra peg̃uarã"
+    },
+    {
+      "surface": "וְאֹתָ֥הּ",
+      "gloss": "⟨את⟩",
+      "marks": "pe yvy Kasdi"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nohechamo'ãi"
+    },
+    {
+      "surface": "יִרְאֶ֖ה",
+      "gloss": "nohechamo'ãi"
+    },
+    {
+      "surface": "וְשָׁ֥ם",
+      "gloss": "ha upépe"
+    },
+    {
+      "surface": "יָמֽוּת",
+      "gloss": "omanóta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:09.402616320Z",
+  "model": "glm-5.3"
+}

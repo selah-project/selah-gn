@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pe oñembyaíva",
+      "rationale": "החלל haʼe pe ojepeʼaipingueva tahachi reheve, ndahaʼéi peteĩ ñeʼẽ añetegua ñembyai rehegua"
+    },
+    {
+      "kind": "elision",
+      "subject": "בקר",
+      "rationale": "hebreo heʼi 'vaka kuñataĩ vaka-mbaʼe apytégui'; avañeʼẽme vaka kuñataĩ oñembojoaju año"
+    }
+  ],
+  "translation": "Haʼe hína taʼe: pe táva oĩvéva hiʼare gotyo pe oñembyaíva rehe, umi karai kuehegua pe táva pegua ogueraha peteî vaka kuñataĩ, ndojapóiva mbaʼeve chupe ndahaʼéiva ha ndoysóiva yoípe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "188918ab01930cb0127f59a18f698c1c913c21a21dcc36c25c912bb251e2fd1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/21\/3-3.1791266164346.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "haʼe hína taʼe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pe táva"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "oĩvéva hiʼare gotyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "pe oñembyaíva"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ogueraha"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "karai kuehegua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva pegua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "vaka kuñataĩ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vaka apytégui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndahaʼéiva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ojapóiva mbaʼeve chupe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndahaʼéiva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "oysóiva"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "yoípe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:04.349576897Z",
+  "model": "glm-5.3"
+}

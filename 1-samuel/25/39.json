@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 25:39",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רב\/ריב",
+      "rationale": "Verbo רב (ñorãirõ) ha iñeʼẽryru רי׬ (ñorãirõ) ojuehe — Jahve oñorãirõ ⟨את⟩ che ñorãirõ, joavy okañy avañeʼẽme."
+    },
+    {
+      "kind": "crux",
+      "subject": "עבדו",
+      "rationale": "Mávapa pe imbaʼirũ: David (Jahve imbaʼirũ) térã Jahve ojoko David poi vai rehehápe; koápe ojekuaa David raʼe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וידבר באביגיל",
+      "rationale": "Hebreo heʼi 'oñeʼẽ Avigaíl rehe' — oñeʼẽrõguáre (consultar) rehe, ndahaʼéi 'rehe' ojaposéva hese."
+    }
+  ],
+  "translation": "Ha David ohendu Naval omanoha, ha heʼi: Iñembojeguáva Jahve, haʼe oñorãirõ ⟨את⟩ che jejahoʼi ñorãirõ Naval po gui, ha ojoko imbaʼirũ vai gui; ha ⟨את⟩ Naval vai Jahve omoĩjey iñakã ári. Ha David omondo ha oñeʼẽ Avigaíl rehe, ogueraha hag̃ua chupe iménarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "836bf9519e80c27741d9dbe19b5cb2a4e9be6bbb99569202c399bdb84d74011b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/25\/39-39.1791266352346.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Iñembojeguáva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che jejahoʼi ñorãirõ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "che jejahoʼi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "po gui"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imbaʼirũ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "imbaʼirũ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ojoko"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "vai gui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Naval vai"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "vai"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "omoĩjey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "iñakã ári"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "באביגיל",
+      "gloss": "Avigaíl rehe"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "ogueraha hag̃ua chupe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "iménarã"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:12.348289583Z",
+  "model": "glm-5.3"
+}

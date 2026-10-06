@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 5:9",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ichugui",
+      "rationale": "עלוהי 'upon him' oñembohasa Guarani pronoun ramo"
+    }
+  ],
+  "translation": "Upéicha mburuvicha Belshatsar ojepy'apyete tuichaiterei, ha ivy'apavẽ oñemoambue ⟨ichugui⟩, ha ijárakuéra guasu oñemongyhyje.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b87e5c6a98a30a590a3792bca612b18ecb946f85ec54e4005db93eab98aaecc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/5\/9-12.1791267012916.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "tuichaiterei"
+    },
+    {
+      "surface": "מתבהל",
+      "gloss": "ojepy'apyete"
+    },
+    {
+      "surface": "וזיוהי",
+      "gloss": "ha ivy'apavẽ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "oñemoambue"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "⟨ichugui⟩"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "ha ijárakuéra guasu"
+    },
+    {
+      "surface": "משתבשין",
+      "gloss": "oñemongyhyje"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:12.923998391Z",
+  "model": "glm-5.3"
+}

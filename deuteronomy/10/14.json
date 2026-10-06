@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמי השמים",
+      "rationale": "Superlative hebreo «yvaga yvagakuéra» — dual ojeiporúva tuichakue rehechauka hag̃ua."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Moïche oñeʼẽ Jisrael-pe «nde Elohim» rupive."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הן",
+      "rationale": "«Mína» — ñeʼẽ ojeréva teñoiaraháicha, ndahaʼéi mbaʼe ojehaíva hekopete."
+    }
+  ],
+  "translation": "Mína, Jahve-pe, nde Elohim, oĩ yvaga ha yvaga yvagakuéra, yvy ha opaite mbaʼe oĩva hendýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c2c0e7545143fbdc07548d7f69b7e762316c5d4720326fed8a7cdbb280e4f693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/10\/14-14.1791266170032.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Mína"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nde Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvagakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hendýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:10.035311119Z",
+  "model": "glm-5.3"
+}

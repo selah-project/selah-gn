@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 3:13",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pehẽngue",
+      "rationale": "אמה haʼe aha tuichakue (codo); avañeʼẽme ndaipóri ñeʼẽ teete, upévare 'pehẽngue' (sa pehẽngue = 1000 pehẽngue)"
+    },
+    {
+      "kind": "elision",
+      "subject": "השפות",
+      "rationale": "hebreo heʼi 'pyragua apỹi hogue' (refuse gate); avañeʼẽme 'ñorairõ' pe ambue ñeʼẽ vevuígui ojehechakuaa hag̃ua"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ñorairõ",
+      "rationale": "השפות ikatu heʼise 'apỹi ka'ugue' térã 'pyragua'; KJV 'dung gate' — mokõi jeikuaa oĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sa pehẽngue",
+      "rationale": "oyoʼóva tuichakue: 1000 ama\/yhyta pukukue"
+    }
+  ],
+  "translation": "⟨את⟩ jepeha hogue Hañun ha Zanoj ñemohanguakuéra omyatyrõkuaa; umíva ohupytysékuri hogue, oyypyso hogue kuéra, ijoka kuéra ha itaju kuéra; ha sa pehẽngue oyhyta vevuípe, ñorairõ hogue meve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9fdd9ed8b45c39139b7da0d45e93ca66d3f2c81e717bb7dcfe5a522ff7540e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nehemiah\/3\/13-13.1791267024127.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jepeha hogue"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hogue"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "jepeha"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "omyatyrõkuaa"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hañun"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ha ñemohanguakuéra"
+    },
+    {
+      "surface": "זנוח",
+      "gloss": "Zanoj"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "בנוהו",
+      "gloss": "ohupytysékuri"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "oyypyso"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "hogue kuéra"
+    },
+    {
+      "surface": "מנעליו",
+      "gloss": "ijoka kuéra"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "ha itaju kuéra"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ha sa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "pehẽngue"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "oyhyta vevuípe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hogue"
+    },
+    {
+      "surface": "השפות",
+      "gloss": "ñorairõ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:24.133897636Z",
+  "model": "glm-5.3"
+}

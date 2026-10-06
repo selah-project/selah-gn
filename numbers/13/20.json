@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 13:20",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ejepyʼaguasúta, eguerúta",
+      "rationale": "Moisé ojapouka tesayguasu: ejepyʼaguasu ha egueru voku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "uva iñepyrũrahaguépe ára",
+      "rationale": "arára ojehecha arakaʼapa oiko koʼã mbaʼe — uva ñepyrũ arahaguẽ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "itỹva\/ipoʼíva",
+      "rationale": "השמנה\/רזה heʼiséva 'tỹ' ha 'poʼi' — yvy rehe ojeporu mbaʼeichaitépa yvy reko"
+    }
+  ],
+  "translation": "Ha mbaʼéichapa pe yvy — itỹva pa haʼe, térã ipoʼíva —, oĩpa yvyra ipype, térã ndaipóri. Ha peẽ ejepyʼaguasúta, ha eguerúta yvy voku gui. Ha umi ára haʼe uva iñepyrũrahaguépe ára.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b449a58a0c65ed5da54debc003e66b3d1c6efa25f33b331667fa2fa2f85a596f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/13\/18-21.1791266164410.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ha mbaʼéichapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "השמנה",
+      "gloss": "itỹva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "térã"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "ipoʼíva"
+    },
+    {
+      "surface": "היש",
+      "gloss": "oĩpa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "térã"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "והתחזקתם",
+      "gloss": "ejepyʼaguasúta"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "eguerúta"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "voku gui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "והימים",
+      "gloss": "ha umi ára"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "iñepyrũrahaguépe"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "uva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:04.418845772Z",
+  "model": "glm-5.3"
+}

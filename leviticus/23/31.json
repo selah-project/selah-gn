@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mangara",
+      "rationale": "חקת haʼe 'tekorã oñemohendavaʼekue'; mangara ojeporu tekorã réra rehegua avañeʼẽme, ndahaʼéi jehai he'iseha añetegua."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨peẽ mangara⟩",
+      "rationale": "Hebreo ndoguerekói copula; avañeʼẽ oikotevẽ kóva."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael retãme",
+      "rationale": "Tysýi oñeʼẽ peẽme — israelita kuéra — Chabat rehegua."
+    }
+  ],
+  "translation": "Ndajejapói mbaʼeveichagua tembiapo: peẽ mangarape ko'ẽ ko'ẽre peẽ rekóra opaitehápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "15a7f21d971440010146049384349c28dc7db3ac7fabec06dbe94aaeeed72c01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/leviticus\/23\/31-31.1791266086518.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mbaʼeveichagua"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda... i"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "peẽ japó"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mangara"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ko'ẽ ko'ẽre"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "peẽ rapykuere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaitehápe"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "peẽ rekóra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:46.519777135Z",
+  "model": "glm-5.3"
+}

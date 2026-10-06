@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rekove",
+      "rationale": "נפש is 'throat\/life-force' — Guarani 'tekove\/rekove' covers living-being, not 'soul'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואביון \/ אביונים",
+      "rationale": "the root אביון repeats: 'destitute... of the destitute', a framing echo lost in Guarani"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יושיע",
+      "rationale": "causative of 'to be wide\/free': 'omeʼéta tekorerã' (he will set free) also fits the shape"
+    }
+  ],
+  "translation": "Oñemonguʼevyʼáta pe ipochýre ha pe imitỹívare, ha umi imitỹíva rekove ohayhukáta oñemoñepyrũ hag̃ua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5458c53498d81625346db6ddae61f7485f03c9ce10f8cc7f121e282ff49c1d38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/72\/13-13.1791266766124.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "oñemonguʼevyʼáta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pe ipochýre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ha pe imitỹívare"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ha umi ... rekove"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "imitỹíva"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ohayhukáta oñemoñepyrũ hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:06.127780028Z",
+  "model": "glm-5.3"
+}

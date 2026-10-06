@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גלל",
+      "rationale": "Arameo גְּלָל — 'ita oñemongakúiva \/ ita guasu'; ou tema 'ojeipeʼa rire' (rolador), ndahaʼéi 'ta'anga'au'ã'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mbohapy ndivak",
+      "rationale": "Ohaʼã hoga jokoha — mbohapy ita rysýi ha peteĩ yvyra rysýi, Cyrus ñeʼẽme."
+    },
+    {
+      "kind": "crux",
+      "subject": "נדבך",
+      "rationale": "Ndivak (jokoha apopyre) — 'rows\/courses' (KJV) térã 'layers' (BSB); Arameo tekove'ỹ, sã so'o'ỹre."
+    }
+  ],
+  "translation": "Ita ryepýpe mbohapy ndivak ita guasu rehegua, ha peteĩ ndivak yvyra pyahu rehegua; ha ñemongarai oñemeʼevaʼerã túvicha jára roguágui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b91eafa80d8feb30e53a74ed852be0b2f250adb9cb7672255d2afd1d89222e18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/6\/4-4.1791267007502.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "ndivak ryepýpe"
+    },
+    {
+      "surface": "די",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ita"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "ita guasu"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "ha peteĩ ndivak"
+    },
+    {
+      "surface": "די",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "אע",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "ha ñemongarai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "túvicha jára"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "oñemeʼevaʼerã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:07.507100458Z",
+  "model": "glm-5.3"
+}

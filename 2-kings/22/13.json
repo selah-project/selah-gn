@@ -1,0 +1,189 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 22:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Eho pe, ejeruka",
+      "rationale": "Mburuvicha Josías ñeʼẽ 指 manda: impeꞌã ñeporandu Jahve rehe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruʼã",
+      "rationale": "חמה tuichakue haꞌe haku: Jahve ruʼã tuicháva, tysýi hebreogua"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dogueroviái",
+      "rationale": "שמע heꞌise ehendu ha eñemombaʼe; avañeʼẽme ogueroviái nombojoavy porãi hendu-gui"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי, אשר, היא",
+      "rationale": "avañeʼẽme nomoñeʼẽporãi ko ñeʼẽpehẽ ojueheguáva"
+    }
+  ],
+  "translation": "Eho pe, ejeruka Jahve rehe che rehe, ha tetãnguéra rehe, ha Jihuda tuichakue rehe, ko kuatiañeʼẽ ñeʼẽnguéra rehe ojejuhúva; tuicháva Jahve ruʼã, oñemboypy ore rehe, ore ruãkuéra ndogueroviái ko kuatiañeʼẽ ñeʼẽnguérare, ojapo hag̃ua oĩháicha pe ojechaípava ore rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5dec9762e9cada8ff2278bf9d384b37c489abb0a067deca98b8b4343b279f995",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/22\/13-13.1791266491389.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Eho pe"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ejeruka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ojejuhúva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tuicháva"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ruʼã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    },
+    {
+      "surface": "נצתה",
+      "gloss": "oñemboypy"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo...ái"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dogueroviái"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ore ruãkuéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hag̃ua"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "oĩháicha"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "ojechaípava"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore rehe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:31.391338325Z",
+  "model": "glm-5.3"
+}

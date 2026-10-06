@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kasa",
+      "rationale": "קשת haʼe 'arco' (mbaʼe jukyryrã) añónte, ndahaʼéi 'arcoíris'; heta moñeʼẽhára omoĩ 'arcoíris' (BSB) ha KJV 'rainbow'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apeguasu oĩva",
+      "rationale": "וְהָיְתָה לְאוֹת בְּרִית haʼe 'oikóta ñeʼẽmeʼẽ techaukarã ramo'; avañeʼẽ oikotevẽ 'peg̃uarã' oñemohenda hag̃ua."
+    },
+    {
+      "kind": "you",
+      "subject": "avanoʼõ peẽ",
+      "rationale": "Kóva haʼe ñeʼẽ JahvéNoé ha ipehẽngue kuérape g̃uarã oĩva ñeʼẽmeʼẽ apytépe (9:12 renondépe)."
+    }
+  ],
+  "translation": "⟨את⟩ che kasa ameʼẽ arara'y ryepýpe, ha upéva oikóta techaukarã ramo ñeʼẽmeʼẽ peg̃uarã, che ha ⟨ko⟩ yvy apytépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1ea0350f8af6999ab766e11e294ca95ebbfac8f6da3d9600ababcd9775a0492d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/9\/13-16.1791265987307.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che kasa"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "che kasa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ameʼẽ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "arara'y ryepýpe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ha oikóta"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "techaukarã ramo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "che… apytépe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha… apytépe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:07.309371239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הקבה",
+      "rationale": "קֻבָּה (kubá) ojehecha koVersículo año Tanakh tuichakue javeve — 'ovetã rakãguasúva', héra ijypy peicha."
+    },
+    {
+      "kind": "crux",
+      "subject": "הקבה",
+      "rationale": "Ñeʼẽporãhára iñorairõ: 'tenda ñemboʼe' (JPS 'chamber') térã 'mbarakapype' (Wycliffe); hebreo heʼi 'rakãguasu rokẽ' añetehápe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וידקר",
+      "gloss": "ojuka ojepokoʼi",
+      "rationale": "דקר haʼe 'ojokoʼi, ojepiʼĩ' — ndahaʼéi 'ojuka' añónte; iñakãguasu rupi ojepokoʼi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קבה\/קבתה",
+      "rationale": "הקבה ha קבתה raʼy pe téra — mokõi ñeʼẽ oyguasuova ra'y oĩ haimete ojupe, oĩmbaova."
+    }
+  ],
+  "translation": "Ha ou rire kuimbaʼe Jisraelygua rehe, oho ovetã peve, ha ojuka ojepokoʼi joyvyʼape méinvo ⟨את⟩ mokõive — ⟨את⟩ pe kuimbaʼe Jisraelygua ha ⟨את⟩ pe kuña iñakãguasu peve — ha opa pe mbaʼerasyrã Jisraimembykuéra rehegui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e46fb82217669cc936824ea8f8e16b3697506f24ec29517ba6d5008e98057ded",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/25\/8-8.1791266085939.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kuimbaʼe rehe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelygua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oho"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "ovetã peve"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "ojuka ojepokoʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokõive"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuimbaʼe Jisraelygua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelygua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe kuña"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe kuña"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "iñakãguasu peve"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "opa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "pe mbaʼerasyrã"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "rehegui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:45.940869733Z",
+  "model": "glm-5.3"
+}

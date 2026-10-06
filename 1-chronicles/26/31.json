@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 26:31",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "apytépe",
+      "rationale": "avañe'ẽ oikotevẽ ko ñe'ẽpehẽ he'ise hag̃ua 'apytépe'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ñembohaguasu",
+      "rationale": "ary jepapa — David reino arykõ ñembohaguasu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ndajuhu",
+      "rationale": "הראש 'akã' — avañe'ẽme 'ndajuhu' (aty ruvicha) ha'e pe jeroviapy'e"
+    }
+  ],
+  "translation": "Chebronitakuéra apytépe Yeria ndajuhu, chebronitakuéra apytépe, iñemoñare rupi, itúvakuéra reheguápe; David reino arykõ ñembohaguasúpe ojeheka chakuéra, ha ojejuhu chupekuéra apytépe ipu'akáva kuimba'e jeguatakatu Yaeserpe, Gilape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3b51f1ff5fc8884ba253de86d18c7e17a490e47bb0543e8137b818e3b5274ad3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/26\/31-31.1791267128985.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחברוני",
+      "gloss": "chebronitakuéra"
+    },
+    {
+      "surface": "יריה",
+      "gloss": "Yeria"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ndajuhu"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "chebronitakuéra apytépe"
+    },
+    {
+      "surface": "לתלדתיו",
+      "gloss": "iñemoñare rupi"
+    },
+    {
+      "surface": "לאבות",
+      "gloss": "itúvakuéra reheguápe"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "arykõ"
+    },
+    {
+      "surface": "הארבעים",
+      "gloss": "ñembohaguasu"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "reino"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נדרשו",
+      "gloss": "ojeheka chakuéra"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ha ojejuhu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chupekuéra apytépe"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ipu'akáva kuimba'e"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jeguatakatu"
+    },
+    {
+      "surface": "ביעזיר",
+      "gloss": "Yaeserpe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilape"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:08.986305307Z",
+  "model": "glm-5.3"
+}

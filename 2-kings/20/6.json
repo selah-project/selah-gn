@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 20:6",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "po pegui",
+      "rationale": "מכף haʼe ku po ñeʼẽnguéra ryepýgua; ojehecha 'po' — hebreo ohecha po ryepýpe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ara pokõiha ha papy poha",
+      "rationale": "ary papapy: mbohapy pa ary mbovýpa oñembojoapy"
+    },
+    {
+      "kind": "you",
+      "subject": "to Hizkiahu",
+      "rationale": "Jahve ñeʼẽ oñembohasa Yeshiahu rupive Hizkiahu-pe"
+    }
+  ],
+  "translation": "Ha ambojoapy ta ara pokõiha ha papy poha nde árape; ha Ashur mburuvicha po pegui nemoñemongarai ha ⟨את⟩ ko táva koʼẽagua; ha añemoĩ ko táva koʼẽagua ári che réirã ha che mbaʼapohára David réirã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "145d3cadb6d7b693990e194429a090cda61d5bd5f8a58610d96e34f58b1b0bdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/20\/6-6.1791266488941.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והספתי",
+      "gloss": "ha ambojoapy ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ape"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "nde árape"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pokõiha ha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "papy poha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "po pegui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "nemoñemongarai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ko táva koʼẽagua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ko táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "koʼẽagua"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ha añemoĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ári"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ko táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "koʼẽagua"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "che réirã"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ha …réirã"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "che mbaʼapohára"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:28.943172197Z",
+  "model": "glm-5.3"
+}

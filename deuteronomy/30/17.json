@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 30:17",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "reho ndi",
+      "rationale": "נדחת lit. 'ojehoite\/ohojey' — ojepe'a pe tape guive, ndaha'éi 'jejavy' (Wycliffe 'disseyued')"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisráel-pe",
+      "rationale": "Moise ñe'ẽ ojapyhýva Jisrael rehe, korasõ jere rehegua"
+    }
+  ],
+  "translation": "Sã nde korasõ ojere ha nde ndoehendúi, ha reho ndi, ha nderendu Elohim ambuépe ha remba'apo chupekuéra,",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e61bc7310bfac70c0d74591db563de73f54527506c35b0a47339f82fac18f0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/30\/17-19.1791266311658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Sã"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ndoehendúi"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "reho ndi"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ha nderendu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ambuépe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ha remba'apo chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:31.660258657Z",
+  "model": "glm-5.3"
+}

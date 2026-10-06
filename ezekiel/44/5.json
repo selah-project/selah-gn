@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 44:5",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Ezekiel",
+      "rationale": "Jahve addresses the prophet directly with imperatives: set your heart, see, hear."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למבוא\/מוצאי",
+      "rationale": "Hebrew pairs entrance (מבוא) with goings-forth (מוצאי), a going-in\/going-out chiasm rendered as jeike\/osẽha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "korasõ",
+      "rationale": "לב is heart-mind-will; korasõ renders the inner seat of attention."
+    }
+  ],
+  "translation": "Jahve ohe'i chéve: yvypóra ra'ý, emoĩ nde korasõ, ehecha nde resa ndive, ha nde apysápe eñehendu ⟨את⟩ opaite mba'e che añe'ẽva ⟨את⟩ nde rehe, opaite Jahve róga rekóre ha opaite iTora rehegua; ha emoĩ nde korasõ oñemombahápe Jahve róga jeike, opaite osẽha marangatu rógagui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7e2a86305dff80826204dfb538c110f48729de5b1a250854f0a92b8ffdb6e371",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/44\/5-5.1791266647426.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'ý"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "שים",
+      "gloss": "emoĩ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nde resa ndive"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "ha nde apysápe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eñehendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "añe'ẽva"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde rehe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "rekóre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "תורתו",
+      "gloss": "iTora"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde korasõ"
+    },
+    {
+      "surface": "למבוא",
+      "gloss": "oñemombahápe jeike"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Jahve róga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "osẽha"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "marangatu rógagui"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:07.427634240Z",
+  "model": "glm-5.3"
+}

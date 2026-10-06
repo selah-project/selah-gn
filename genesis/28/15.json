@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 28:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עד אשר אם",
+      "rationale": "Double emphatic construction 'until that if' rendered as single 'peve'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaakov",
+      "rationale": "Direct address — Jahve speaking to Jaakov in the dream at Bet-El"
+    }
+  ],
+  "translation": "Ha upéi, che ndive neʼẽraʼãnguéra: che aikotevẽ nderehe, ha amboja umi mbaʼe rehepa reho, ha ambojevy nde ko yvy ape ári, che ndahaʼéi nde rejapóva che rejohéi ha che ajapo ⟨את⟩ pe oñeʼẽvaʼekue ndéve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b7b6d4631c08fa865fddf23510a9aecbd069b77d98ae1a6007d65bc1ab6750b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/28\/15-15.1791265908327.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Ha upéi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "ושמרתיך",
+      "gloss": "amongaraiko nde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "reho haguã"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "reho"
+    },
+    {
+      "surface": "והשבתיך",
+      "gloss": "ambojevy nde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ko yvy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "umímarõ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "che ndahaʼéi nde rejohóiva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "che ajapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe oñeʼẽvaʼekue ndéve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "añeʼẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:48.331631959Z",
+  "model": "glm-5.3"
+}

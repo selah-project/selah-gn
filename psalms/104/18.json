@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפנים",
+      "rationale": "Mymba réra: hyrax (BSB 'rock badgers') vs 'conejo' (KJV\/ASV) — ndahaʼéi kavaraʼi, haʼe mymba michĩ ita apytépe oikóva."
+    },
+    {
+      "kind": "crux",
+      "subject": "יעלים",
+      "rationale": "Kavara yvytygua (ibex) — ojupi yvyty rekópe, upévare réra heʼi 'ojupíva'."
+    },
+    {
+      "kind": "addition",
+      "subject": "g̃uarã",
+      "rationale": "Hebreo ndorekói ñeʼẽpehẽ 'for' — ל- interrogativo año, avañeʼẽ oikotevẽ 'g̃uarã'."
+    }
+  ],
+  "translation": "Yvyty ijatuvãva — yvyty kavara kuérape g̃uarã; itaũ mbarete — oñemongakuaa hápe chafan kuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "947889046ebfe087ba970e3d1c69a378b776465d086cafc9d05c18a848ccb210",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/104\/17-18.1791266789500.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ijatuvãva"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "yvyty kavara kuérape g̃uarã"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "itaũ mbarete"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "oñemongakuaa hápe"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "chafan kuérape g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:29.505560123Z",
+  "model": "glm-5.3"
+}

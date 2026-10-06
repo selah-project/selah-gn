@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכרתיהם",
+      "rationale": "hapax מכרה: 'their swords' (ASV\/BSB) vs 'their habitations' (KJV, as if from מכרות) vs 'their kinship' (JPS); letter-shape kept as sword"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכרה",
+      "rationale": "word occurs only here in the Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ kuagua ryguasu",
+      "rationale": "no aleph-tav in the Hebrew; supplied marker structure mirrored from syntax for the delayed subject"
+    }
+  ],
+  "translation": "Shimon ha Levi, joyke'ykuéra; mba'e juavy ha'ekuéra rembiporu, ⟨את⟩ kugua ryguasu.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "68617ee18851a38b9b5bcc6cdaffb1c15e8eedc6bbe52977f25f02331cc21269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/49\/5-5.1791265917404.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ha Levi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "joyke'ykuéra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mba'e juavy rembiporu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "juavy"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "kuagua ryguasu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:57.407695964Z",
+  "model": "glm-5.3"
+}

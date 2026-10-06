@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ndaijaʼéi",
+      "rationale": "שנא oñemoĩ 'ndaijaʼéi' (ombojeguaru) achágui ojeiporúva D3 ryepýpe, 'ohayhu' rai rehegua"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pe oikoʼỹva",
+      "rationale": "רש haʼe 'oikóva ʼỹre' — mbaʼerepy ñemohenda, ndahaʼéi téra"
+    }
+  ],
+  "translation": "Pe oikoʼỹva ndaijaʼéi ichupe, jepe iñirũramo; umi ohayhúva oguerekóvare, hetaite.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c631cde6e895336c5742b70b21791a011eaec6167112ff3af87c4afd08a66bc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/14\/20-20.1791266835478.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "jepe"
+    },
+    {
+      "surface": "לְרֵעֵהוּ",
+      "gloss": "iñirũramo"
+    },
+    {
+      "surface": "יִשָּׂנֵא",
+      "gloss": "ndaijaʼéi ichupe"
+    },
+    {
+      "surface": "רָשׁ",
+      "gloss": "pe oikoʼỹva"
+    },
+    {
+      "surface": "וְאֹהֲבֵי",
+      "gloss": "umi ohayhúva"
+    },
+    {
+      "surface": "עָשִׁיר",
+      "gloss": "oguerekóvare"
+    },
+    {
+      "surface": "רַבִּים",
+      "gloss": "hetaite"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:15.480911803Z",
+  "model": "glm-5.3"
+}

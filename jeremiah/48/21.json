@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המישר",
+      "rationale": "Haʼe téra yvy pehẽngue joja rehegua (Mishor), hákatu oñembohasa heʼiséva ramo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ומשפט",
+      "rationale": "Ikatu avei 'hekojojaha'; משפט heʼi pe ohejáva tekojoja añetegua."
+    }
+  ],
+  "translation": "Tekojoja og̃uahẽ yvy pehẽngue joja reheguápe — Cholon rehe, Jahaça rehe ha Mofaat rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7aa2119ef38448fda11c257540df2ab5a51d0e85c26ba2886bfcb6bf631e0776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/48\/21-21.1791266648273.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "בא",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reheguápe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy pehẽngue"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "joja reheguáva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Jahaça"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Mofaat"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:08.273807245Z",
+  "model": "glm-5.3"
+}

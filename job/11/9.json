@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ipuʼakáva",
+      "rationale": "מדה haʼe 'pukukue\/ichaʼanga'; ko ápe ojeporu 'ipuʼakáva' rehegua, oguerekóva avei heʼise 'moambue pyahu' (Éx 30:13) — ndahaʼéi upéva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארכה\/ורחבה",
+      "rationale": "Mokõi ñeʼẽ ojojuhuva'ekue paralelo (puku\/asãso) — Tsofar ñeʼẽ jehai porã, ndojeperdi avañeʼẽme."
+    }
+  ],
+  "translation": "Ipuʼakáva pukukue yvyguigua, ipukuvéva ⟨yvy-gui⟩; iñakãrapuʼãvoma yvyguigua, yguasu-guive oguerekóva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "39a5cb185dacabef9b0197450c13c7d185ff858c1644a50e0eb713320cd2c475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/job\/11\/9-9.1791266813055.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "ipukuvéva"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yvy-gui"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ipuʼakáva pukukue"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "iñakãrapuʼãvoma"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-guive"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yguasu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:53.060472319Z",
+  "model": "glm-5.3"
+}

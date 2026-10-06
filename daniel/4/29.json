@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 4:29",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aravo",
+      "rationale": "עדנין literally 'aravo' (set time); the traditional understanding is 'ary' (year) — seven years."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaʼavo",
+      "rationale": "the lemma gloss for עשבא shows 'a moth' (Hebrew עָשׁ), but here in Aramaic it is 'grass'."
+    },
+    {
+      "kind": "crux",
+      "subject": "túro",
+      "rationale": "כתורין is a rare Aramaic word; from the parallelism with Daniel 4:32 it is understood as 'ox'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven times",
+      "rationale": "a counted period of seven set times marks the length of Nebuchadnezzar's madness."
+    },
+    {
+      "kind": "you",
+      "subject": "to Nebuchadnezzar",
+      "rationale": "the judgment of Daniel's dream interpretation is directed to the king, with second-person singular verbs throughout."
+    }
+  ],
+  "translation": "Yvypóra apytégui oñemondýta ndeve, ha mymba kaʼaguy ndive nde roga oikóta; kaʼavo túroicha rekaru vaʼerã, ha pokõi aravo hasáta nde ári, peve reikuaa pe tarova — ⟨pe⟩ ivatevéva — oisãmbyhy yvypóra retã ári, ha omeʼẽ ⟨jey⟩ ⟨⟨mbaʼe⟩⟩ oipotávape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d0fe8c4162176dccc21e602a99950b8153718a984eaf4ad531ed3cbe32c5e594",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/4\/29-29.1791266958117.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "טרדין",
+      "gloss": "oñemondýta"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "mymba"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "nde roga oikóta"
+    },
+    {
+      "surface": "עשבא",
+      "gloss": "kaʼavo"
+    },
+    {
+      "surface": "כתורין",
+      "gloss": "túro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יטעמון",
+      "gloss": "rekaru vaʼerã"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "עדנין",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "יחלפון",
+      "gloss": "hasáta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde ári"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "די",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "תנדע",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "די",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "tarova"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "ivatevéva"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "yvypóra retã ári"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ולמן",
+      "gloss": "oipotávape"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "יצבא",
+      "gloss": "oipotáva"
+    },
+    {
+      "surface": "יתננה",
+      "gloss": "omeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:09:18.122567669Z",
+  "model": "glm-5.3"
+}

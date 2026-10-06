@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 18:8",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "okaru",
+      "rationale": "אכל 'karu' ojeporu ñeʼẽme guarãrõ: kaʼaguy ha tyapũ 'okaru' yvypóra, hebreo-pe avei upéicha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאכל\/אכלה",
+      "rationale": "mokõi jey אכל (okaru) ñorãirõ mokõi punta ijykére — tyapũ ha kaʼaguy ojojoguáva, iñpaʼũ avañeʼẽme"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וירב היער",
+      "rationale": "yuomitíva: 'kaʼaguy okaru hetave' vs ko'ãg̃agua 'kaʼaguy ohekaiterei okaru hag̃ua' (YLT)"
+    }
+  ],
+  "translation": "Ojehu upi ñorãirõ oñemosarambi opaite yvy rehe; ha kaʼaguy okaru hetave tavayguáre, ichugua tyapũ okaru vaʼekue upe árape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f2d20e65adde291987b3b91200d6791af0e4535350adcb6a914136622ffc421c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/18\/8-8.1791266411783.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ojehu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "נפצית",
+      "gloss": "oñemosarambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ykére"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "hetave"
+    },
+    {
+      "surface": "היער",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "okaru"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "tavayguáre"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ichugua"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "okaru vaʼekue"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tyapũ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:11.784287539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "irundy-pa áme",
+      "rationale": "Pe óga ipukukue oñemboja ojuehe amo-pe (áme) rehe."
+    },
+    {
+      "kind": "crux",
+      "subject": "לפני",
+      "rationale": "«Tenonde» — hebreo ñeʼẽ ikatu heʼi «devír renondépe» (ASV\/JPS) térã «tenondeguái año» (KJV)."
+    }
+  ],
+  "translation": "Ha irundy-pa áme niko pe óga — haʼe pe heikál, tenondeguái.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/6\/17-20.1791266476239.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ha irundy-pa"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "áme-pe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "pe heikál"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenondeguái"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:16.242310083Z",
+  "model": "glm-5.3"
+}

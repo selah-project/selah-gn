@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 12:4",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ichugui",
+      "rationale": "avañeʼẽ oikotevẽ mboyvegua ohechauka hag̃ua mbaʼégui ojehu, hebreo ou viʼi rire"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחמל",
+      "rationale": "'chamal' ikatu heʼise 'pyʼague asy' térã 'ani ojapo'; ko'ápe heʼise ndoipotái oiporu hetã mbaʼe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הראש",
+      "rationale": "'rash' heʼise tekotevẽha, oĩvaʼerã michĩetépe; jehaipyre ojuehe 'ashir' (opyta heta mbaʼe) ndive"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העשיר\/הראש",
+      "rationale": "'ashir' (opa mbaʼe) ha 'rash' (michĩ) — ñeʼẽ joavy ojuehe, iñimportante ko parabolape"
+    }
+  ],
+  "translation": "Oguahe peteĩ jeikekombyre ku opyta heta mbaʼe vaekuépe, ha ndoipotái oguereko hag̃ua iñeʼẽrã ojapo hagua ichupe ou vaekuépe g̃uarã, hetã mboripi ha hetã vaka apytégui; upéicharõễ, ojapo ⟨את⟩ kuñakambare ipepõ vaekuépe g̃uarã, ou haguépe ichupe pe kuimbaʼe. Haʼe ojapo chupe ku oguahẽva hógape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "64e3d2cc9c306362cb11a098f8b05dfccd719cd5b893eead7ec03ab8315e555b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/12\/4-4.1791266347668.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "oguahe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jeikekombyre"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ku opyta heta mbaʼe vaekuépe"
+    },
+    {
+      "surface": "העשיר",
+      "gloss": "opyta heta mbaʼe vaekue"
+    },
+    {
+      "surface": "ויחמל",
+      "gloss": "ndoipotái oguereko hag̃ua iñeʼẽrã"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ojapo hagua"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "hetã mboripi apytégui"
+    },
+    {
+      "surface": "ומבקרו",
+      "gloss": "hetã vaka apytégui"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo hagua"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "jeikekombyrépe g̃uarã"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ou vaekue"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ojapo ⟨ichugui⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuñakambarẽ ipepõ"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "kuñakambare ipepõ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimbaʼépegui"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ipepõ vaekue"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "ojapo chupe"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kuimbaʼépe g̃uarã"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "oguahẽva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hógape"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:07.670390775Z",
+  "model": "glm-5.3"
+}

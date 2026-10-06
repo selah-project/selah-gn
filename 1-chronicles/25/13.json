@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "opa hikuái",
+      "rationale": "Hebreo ndorekói ñeʼẽtéva 'were'; avañeʼẽ oikotevẽ kopia"
+    },
+    {
+      "kind": "elision",
+      "subject": "pakõi",
+      "rationale": "שנים עשר (mokõi-pa) peteĩ ñeʼẽtepe oñembojoaju: avañeʼẽme 'pakõi' año, tai mokõi ha pa okañy"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pakõi",
+      "rationale": "Ehotsa'a (canto) mboja moakãara: tekojoja aporã"
+    }
+  ],
+  "translation": "Poteĩha: Bukiiahu, imembykuéra ha ijoyke'ykuéra — ⟨opa hikuái⟩ pakõi.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d24bc6f6b1db5cd42a7cd8198e5b468fd4cf7361418e326e83ffaf9e5eb743bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/25\/13-16.1791267144514.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "poteĩha"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "Bukiiahu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ijoyke'ykuéra"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pakõi ⟨mokõi⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨pa⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:24.515234709Z",
+  "model": "glm-5.3"
+}

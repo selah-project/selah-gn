@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 2:17",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Umi paʼi ñeʼẽnguatu oñembohapea Jahve-pe: eñangareko, ani emeʼẽ."
+    },
+    {
+      "kind": "crux",
+      "subject": "למשל בם גוים",
+      "rationale": "'Umi tetãnguéra tojerekóvo chupekuéra' (KJV\/ASV) térã 'tojechatamíramo chupekuéra' (JPS: byword) — mokõi je'epy ojoavy."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משל \/ איה",
+      "rationale": "Pe jehai oipyguara mokõi porandu: mbaʼérepa… oĩpa — umi tetãnguéra ñeʼẽ oñembohasa mba'eporandúpe."
+    }
+  ],
+  "translation": "Pe ulam ha ⟨mbovaha⟩ apytépe okangeʼa vaʼerã umi paʼi, Jahve ñangarekohára; ha heʼi vaʼerã: Eñangareko ne avanoʼõ rehe, Jahve, ani emeʼẽ ne javyvy jejarovyraháramo, umi tetãnguéra tojerekóvo hikuái chupekuéra rehe; mbaʼérepa heʼita hikuái umi avanoʼõ apytépe: Oĩpa hikuái Elohim?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "fbbb9c46c494ba41b501d8ec80572150ca48b0be42140340e42d2a467913fe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joel\/2\/17-17.1791266724897.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "pe ulam"
+    },
+    {
+      "surface": "ו למזבח",
+      "gloss": "ha ⟨mbovaha⟩"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "okangeʼa vaʼerã"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi paʼi"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "ñangarekohára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi vaʼerã"
+    },
+    {
+      "surface": "חוסה",
+      "gloss": "eñangareko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "-rehe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne avanoʼõ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "emeʼẽ"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ne javyvy"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "jejarovyraháramo"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "tojerekóvo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "heʼita hikuái"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "umi avanoʼõ apytépe"
+    },
+    {
+      "surface": "איה",
+      "gloss": "oĩpa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:24.898859606Z",
+  "model": "glm-5.3"
+}

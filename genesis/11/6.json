@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 11:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ñe'ẽ",
+      "rationale": "שפה ipype ha'e 'rembe'y' térã 'ñe'ẽ'; avañe'ẽme 'ñe'ẽ' oipyguara ñe'ẽreko"
+    },
+    {
+      "kind": "crux",
+      "subject": "noñembotykýimo'ãi",
+      "rationale": "יבצר: 'oñembotykýta chuguikuéra' (ASV\/JPS) térã 'noipukui mo'ãi' (BSB), he'iséva ndaipóri ojokoítava"
+    },
+    {
+      "kind": "mystery",
+      "subject": "mba'eve noñembotykýimo'ãi",
+      "rationale": "Jahve ñe'ẽ ohechauka mba'e oñemíva ojapótava — he'ise'ỹ mba'épa hikuái ojapóta"
+    }
+  ],
+  "translation": "Ha Jahve he'i: Eñandu, peteĩ aty ñemoñare ha peteĩ ñe'ẽ oimépe g̃uarã, ha ko'ãva oñepyrũ hikuái ojapo; ha ko'ág̃a, mba'eve noñembotykýimo'ãi chuguikuéra, oimeraẽ ojaposéva hikuái.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "63d8ed5c80832176dea1eb32778e96e64e6983a54fb882b70d5c2f8db7a2f466",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/11\/6-6.1791265926847.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הן",
+      "gloss": "eñandu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aty ñemoñare"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ושפה",
+      "gloss": "ha peteĩ ñe'ẽ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "oimépe g̃uarã"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ha ko'ãva"
+    },
+    {
+      "surface": "החלם",
+      "gloss": "oñepyrũ hikuái"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ha ko'ág̃a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no...mo'ãi"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "noñembotykýimo'ãi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mba'eve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojaposéva"
+    },
+    {
+      "surface": "יזמו",
+      "gloss": "ojaposéva hikuái"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:06.848516213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "905 ary",
+      "rationale": "Enosh rekove ary ñemohenda: põ ha sua poapy."
+    },
+    {
+      "kind": "addition",
+      "subject": "ituku rehegua",
+      "rationale": "Hebreo heʼi 'ára' (ימים) añonte; avañeʼẽme oñemoĩ 'ara ituku' heʼisépe."
+    }
+  ],
+  "translation": "Opaite Enosh ára ituku rehegua — põ ary ha sua poapy — ha omano.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "001afc43a875d231b99ab33fcd7253ef716b78264b2c27a7bcb6e3dfdd1e091e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/5\/11-11.1791265910971.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára ituku rehegua"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "põ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ha poapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sua"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ha omano"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:50.976722172Z",
+  "model": "glm-5.3"
+}

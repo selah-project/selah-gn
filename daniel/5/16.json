@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 5:16",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותלתא",
+      "rationale": "'mbohapyha' (third ruler) vs JPS 'one of three' — Aramaic ordinal read as rank or as collegial rule"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארגונא",
+      "rationale": "purple garment; KJV 'scarlet' is a known variant reading"
+    },
+    {
+      "kind": "you",
+      "subject": "to Daniel",
+      "rationale": "Belshazzar addresses Daniel directly with promises of reward"
+    }
+  ],
+  "translation": "Che ahendu nde rehegua, reikatuha ñeʼẽrysýi jeherohag̃ua ha apore jepeʼapo hag̃ua; koʼag̃aite, eheja reñemoñeʼẽ hag̃ua ku jehai ha chemombeʼu hag̃ua heʼisekue: rejohuéta hovýpe, joyvy itaju ogueraha nde ajúra ári, ha mbohapyhápe reisãmbyhyta tavakuáipe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "150e28342bd4d26720176d5b20ea4199765d5a1ea1941ec60576327dc8875491",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/5\/16-16.1791266931615.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנה",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ahendu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde rehegua"
+    },
+    {
+      "surface": "די",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "reikatu"
+    },
+    {
+      "surface": "פשרין",
+      "gloss": "jehero"
+    },
+    {
+      "surface": "למפשר",
+      "gloss": "jeherohag̃ua"
+    },
+    {
+      "surface": "וקטרין",
+      "gloss": "apore"
+    },
+    {
+      "surface": "למשרא",
+      "gloss": "jepeʼapo hag̃ua"
+    },
+    {
+      "surface": "כען",
+      "gloss": "koʼag̃aite"
+    },
+    {
+      "surface": "הן",
+      "gloss": "eheja"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "reikatu"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "jehai"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "moñeʼẽ hag̃ua"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "heʼisekue"
+    },
+    {
+      "surface": "להודעתני",
+      "gloss": "chemombeʼu hag̃ua"
+    },
+    {
+      "surface": "ארגונא",
+      "gloss": "hovy"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "rejohueta"
+    },
+    {
+      "surface": "והמונכא",
+      "gloss": "joyvy"
+    },
+    {
+      "surface": "די",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "nde ajúra"
+    },
+    {
+      "surface": "ותלתא",
+      "gloss": "mbohapyhápe"
+    },
+    {
+      "surface": "במלכותא",
+      "gloss": "tavakuáipe"
+    },
+    {
+      "surface": "תשלט",
+      "gloss": "reisãmbyhyta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:51.620164574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 2:13",
+  "book": "song-of-songs",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "umí",
+      "rationale": "avañeʼẽ oikotevẽ jahechauka hagua heta oiko'ỹha hebreope"
+    },
+    {
+      "kind": "crux",
+      "subject": "סמדר",
+      "rationale": "'jepeʼa pyahu' térã 'ipoepy ijyvape' — hebreo ñeʼẽ michĩ, yva kuare yva raʼỹi osẽ mboyve"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ejupi",
+      "rationale": "eñemboʼáke ojeruréva ñemoñarehe, ñeʼẽ apysẽ irũme"
+    },
+    {
+      "kind": "you",
+      "subject": "che raʼy",
+      "rationale": "eñeʼẽ directamente ñemoñarape, ñorairõhára ñeʼẽme'̃"
+    }
+  ],
+  "translation": "Yva rakã omoasãi ⟨umí⟩ yva ipyahu huʼãnguéra, ha yva kuare jepeʼa kuéra omondo ⟨imbaʼe⟩ reʼãngue; ejupi, che raʼy che porãitéva, ha ereho.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f9dbc42536adf1ba2b46fb3d34a81a0a6fe2ae18e0d39dce82449d9f1522a817",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/song-of-songs\/2\/13-13.1791266910510.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התאנה",
+      "gloss": "yva rakã"
+    },
+    {
+      "surface": "חנטה",
+      "gloss": "omoasãi"
+    },
+    {
+      "surface": "פגיה",
+      "gloss": "yva ipyahu huʼãnguéra"
+    },
+    {
+      "surface": "והגפנים",
+      "gloss": "ha yva kuare kuéra"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "jepeʼa kuéra"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "reʼãngue"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ejupi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ereho"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "che raʼy"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "che porãitéva"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ha ereho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rekóvo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:30.514080103Z",
+  "model": "glm-5.3"
+}

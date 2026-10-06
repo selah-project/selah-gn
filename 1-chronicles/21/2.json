@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "umi",
+      "rationale": "avañeʼẽ oikotevẽ pluperativa kuéra ohechauka hag̃ua heta yvypóra"
+    },
+    {
+      "kind": "measurement",
+      "subject": "papapy",
+      "rationale": "ko versículo oñepyrũ tekomeʼẽ Jisrael papapy rehegua"
+    }
+  ],
+  "translation": "David ohe'i Joav ha umi tavaygua ruvichakuéra pe: Eho, epapapy ⟨את⟩ Jisrael, Beer Cheva guive Dan peve, ha egueru chéve, ha aikuaa ⟨את⟩ ipapapykuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "be6501672fe14db863f70171b63a9892d46543dcb9a3be5f2ef1eb6bc09ccc9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/21\/2-4.1791267164069.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohe'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eho"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "epapapy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cheva"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "guive peve"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ha egueru"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ha aikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipapapykuéra"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ipapapykuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:44.071740529Z",
+  "model": "glm-5.3"
+}

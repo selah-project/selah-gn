@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mokõi-pa áme x mbohapy",
+      "rationale": "Devír — tuichakue mbohapydivvõ (pukukue, perekue, yvatekue) — óga tuichakue emombeʼu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולפני הדביר",
+      "rationale": "«Pe devír renondépe» — YLT «devír ryepýpe» (before = within), KJV «forepart»; moñeʼẽhárakuéra oñemboja ou."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מזבח ארז",
+      "rationale": "Ikatu heʼi «erezo misbeaj» (misbeaj ojeporúva erezo-re) — JPS ohecha misbeaj oñemohenda vaʼekue upépe."
+    }
+  ],
+  "translation": "Ha pe devír renondépe: mokõi-pa áme ipukukue, mokõi-pa áme iperekue, mokõi-pa áme yvatekue; ha oñemonaby chupe kuarepoti saʼyju porãmbaiteva rehe, ha oñemonaby pe misbeaj erezo rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/6\/17-20.1791266476239.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "ha renondépe"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "pe devír"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mokõi-pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "áme"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ha mokõi-pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "áme"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "iperekue"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ha mokõi-pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "áme"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "i yvatekue"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ha oñemonaby chupe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti saʼyju"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "porãmbaiteva"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ha oñemonaby"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pe misbeaj"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "erezo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:16.246546027Z",
+  "model": "glm-5.3"
+}

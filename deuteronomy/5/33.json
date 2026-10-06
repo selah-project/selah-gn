@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 5:33",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "heta",
+      "rationale": "ימים plural; avañeʼẽ oikotevẽ 'heta ára' ohechauka hag̃ua heta ára."
+    },
+    {
+      "kind": "substitution",
+      "subject": "peẽrekokuaáva",
+      "rationale": "ירש he'ise 'emonda oiko hag̃ua' — ikatu 'peẽmonguerekóva'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelpe",
+      "rationale": "Moche ñe'ẽ ojapo Jisrael retã rehe, Deuteronomio 5 apytépe."
+    }
+  ],
+  "translation": "Pe tape oha'ãhápe Jahve Elohim peẽnguéra oñeñohẽ ⟨את⟩ peẽmba'e, upéicha peẽ ehohátante; ekyma, ekane'õ'ỹre, ha iporã hag̃ua peẽme g̃uarã, ha peẽrekuaa hag̃ua are yvy peẽrekokuaáva rehe, heta ára peẽ ehayhuháicha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "34f0c670934a57f4504d6821e7ea6cd01cf0be12d13089e1068b9f3a44fc6cdf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/5\/33-33.1791266174319.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "oha'ãhápe"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oñeñohẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim peẽnguéra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "peẽmba'e"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "peẽ ehohátante"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ekyma"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "ekane'õ'ỹre"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ha iporã hag̃ua"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽme g̃uarã"
+    },
+    {
+      "surface": "והארכתם",
+      "gloss": "ha peẽrekuaa hag̃ua are"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba'e"
+    },
+    {
+      "surface": "תירשון",
+      "gloss": "peẽrekokuaáva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:14.321912693Z",
+  "model": "glm-5.3"
+}

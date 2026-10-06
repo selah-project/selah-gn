@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הערפל",
+      "rationale": "Hebreo 'arafel — pytagua guasu okapegua, ypytu'ũ ao; 'ypypópe' nohasái iñakãrapu'ãpe."
+    },
+    {
+      "kind": "you",
+      "subject": "tavaygua",
+      "rationale": "Narrative, araka'eve noñeʼẽi tapichápe; ojehecha Israel tavaygua ojekuaa hague mombyryguápe."
+    }
+  ],
+  "translation": "Haʼe upépe, umi tavaygua ojekuaa mombyryguápe, ha Moche ohupytývo ohóma pe ypyguasu pypópe, upépe oĩhaguépe Elohim.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3189a9bd543a0e3179d0a221226fc0ce6f0a7a83a360fabd8ca82fb1f8be3b31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/20\/21-21.1791265994419.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ojekuaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavaygua"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "mombyryguápe"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ha Moche"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ohupytývo ohóma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ypyuasu pypópe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oĩhaguépe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:14.420598494Z",
+  "model": "glm-5.3"
+}

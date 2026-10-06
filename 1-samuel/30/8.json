@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 30:8",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השג תשיג \/ והצל תציל",
+      "rationale": "Infinitive-absolute + cognate verb repetition: 'oñemongakuaáta añetehápe' — avañeʼẽ ndoguerekói mokõi jehechajey jeguerekópe."
+    },
+    {
+      "kind": "elision",
+      "subject": "האשגנו",
+      "gloss-hint": "haʼe singular reheve heʼivo chupe, hebrev oiporu plural",
+      "rationale": "Hebrev oiporu plural 'hembiporu' rehegua oñeʼẽ hagua aty rehe."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨opaite reire⟩",
+      "rationale": "'opaite' — opaite mbaʼe jehaipyre ndaipóri hebrev pehẽngue koʼag̃agua; vokál ojeporu teñoiha pyʼýipe."
+    }
+  ],
+  "translation": "David ojerurevai Jahve-pe, heʼivo: ¿Añotenondepa ko ñorãirõ aty rire? ¿Amongakuaapa chupe? Ha Jahve heʼi chupe: Ñotenonde, porque añetehápe remongakuaáta ha ani og̃uahẽ ndojueheiramoʼãigui, remonguera opaite reire.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c206fd8abbfae45c7e52c8f6a7d0d3b8fe5a8f2b0f0af1e8ead09c46d493e380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/30\/8-8.1791266322547.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ojerurevai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼivo"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "añotenondepa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ko ñorãirõ aty"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "האשגנו",
+      "gloss": "amongakuaapa chupe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ñotenonde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "השג",
+      "gloss": "remongakuaáta"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "remongakuaáta"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "remonguera"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "remonguera"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:42.548602971Z",
+  "model": "glm-5.3"
+}

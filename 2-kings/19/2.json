@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשר על הבית",
+      "rationale": "Hebrew: 'the one over the house' — office rendered periphrastically in Guarani."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הספר",
+      "gloss": "haihára",
+      "rationale": "'The one who inscribes' — office title, not a common noun."
+    },
+    {
+      "kind": "elision",
+      "subject": "וישלח ... אל",
+      "rationale": "The verb 'sent to' split: henoí (sent for) + ohóvo (going to) to preserve the motion-toward-Isaiah."
+    }
+  ],
+  "translation": "Ha ohenói ⟨את⟩ Eljakim, oporoñangarekóva óga rehega, ha Chevná haihára, ha ⟨את⟩ pa'ikuéra ruvichakuéra, oñembo'a sa'ju aperópe, oho Jechaiahu nabi Amot itaʼýra ndive.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "2ab40ea56b6ac19ac995f887c33cc610d9c4b4f03b204f61124b12517e7569b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/19\/2-2.1791266502068.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovaʼekue"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "ha Chevná"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "haihára"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pa'ikuéra ruvichakuéra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "oñembo'a"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "sa'ju aperópe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jechaiahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "itaʼýra"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amot"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:42.069752894Z",
+  "model": "glm-5.3"
+}

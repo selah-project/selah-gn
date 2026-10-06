@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel in the camp",
+      "rationale": "Moche's summons 'Who is for Jahve? Come to me' gathers a remnant by choice."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי ליהוה אלי",
+      "rationale": "Lit. 'Who (is) for Jahve? To me' — no verb; rendered as a rallying call."
+    }
+  ],
+  "translation": "Upéicha Moche opytuʼo kampáña rokẽme ha heʼi: Mávapa Jahve reheguáva? Cherepytaperã. Ha upéi Leví taʼýra opaite oñembyatýi hese.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "027399d0b12166adf793101c49982f021b1ca9e0b5dad0f4fef2c42b58ee2a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/32\/26-26.1791265993761.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "opytuʼo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "rokẽme"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampáña"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mávapa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve reheguáva"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Cherepytaperã"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "oñembyatýi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leví"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:13.762932361Z",
+  "model": "glm-5.3"
+}

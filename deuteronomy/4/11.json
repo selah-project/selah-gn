@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iñpytépe",
+      "rationale": "לֵב 'korasõ' — hebreo oiporu 'yvaga korasõ' heʼisépe iñpytépe, mbohysýiva yvaga (dual)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך…וערפל",
+      "rationale": "Mokõi ñeʼẽ pytũ rehegua ojojuhúva — pytũngue ha pytũ mbareté — ñemoĩporã mboypýri"
+    },
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañeʼẽme oñikotevẽ 'pe' yvyty ykeguápe, hebreo oiporu artículo año"
+    }
+  ],
+  "translation": "Ha peẽ peñemombaʼe ha peñemohenda yvyty guýpe; ha pe yvyty ojypyʼapa tataípe, yvágapo iñpytépe peve, pytũngue, araraʼanga ha pytũ mbaretépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8fbb8e9ddfae168adce20121aeb9d5e3664947a34be730cba63af88e1b9a23a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/4\/11-11.1791266169216.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "peñemombaʼe"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "peñemohenda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ha pe yvyty"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ojypyʼapa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tataípe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iñpytépe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágapo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytũngue"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "araraʼanga"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ha pytũ mbaretépe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:09.217849113Z",
+  "model": "glm-5.3"
+}

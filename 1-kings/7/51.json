@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 7:51",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "papoʼã",
+      "rationale": "כסף literally 'papoʼã' (silver) — the pale metal, also used as money"
+    },
+    {
+      "kind": "substitution",
+      "subject": "marangatukuéra",
+      "rationale": "קדשי דוד is 'the holy things of David' — things set apart, dedicated"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tembiapo",
+      "rationale": "Verse marks completion of the whole temple work — a totaling-up, closing formula"
+    }
+  ],
+  "translation": "Upéicha opa opaite tembiapo ojapovaʼekue mburuvicha guasu Chelomo Jahve óga rehegua; ha Chelomo oguereko Joavy David itúva ⟨את⟩ marangatukuéra — ⟨את⟩ ku papoʼã, ⟨את⟩ ku itaju, ⟨את⟩ umi mbaʼe apopyre — omoĩ Jahve óga ñongatuhatãme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "64cf653539147952ddb9c6055594c8982c4f0265cb3bf3b8cdec97a58a416925",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/7\/51-51.1791266392421.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלם",
+      "gloss": "Upéicha opa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oguereko Joavy"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David itúva marangatukuéra"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "marangatukuéra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku papoʼã"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ku papoʼã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ku itaju"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ku itaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi mbaʼe apopyre"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "umi mbaʼe apopyre"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ñongatuhatãme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:52.423166474Z",
+  "model": "glm-5.3"
+}

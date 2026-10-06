@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעלה מעלה \/ מטה מטה",
+      "rationale": "Mokõi je'epyre — yvateve ha yvateve, yguyvévape ha yguyvévape — ohechauka jeku'era'ãnga, ndahesakãi porã avañe'ẽme."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Ñe'ẽ oñeme'ẽva Jisrael-pe, erva rehegua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגר",
+      "rationale": "Ha'e oikéva ñane apytépe — 'pytagua' — KJV ombohasa 'locust' (39 vy'aha) 43-pe, judeívape."
+    }
+  ],
+  "translation": "Pe oikéva ndeapytépe, pytagua, osyrýta yvateve ha yvateve nde ári; ha nde, katu, emboguejýtaogue yguyvévape ha yguyvévape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "fd7012087477dd0466ecb05857fa25c381c3fb0eb2d6ba650a60a20311f2b79f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/28\/43-43.1791266184031.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "pytagua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikéva"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ndeapytépe"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "osyrýta yvateve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde ári"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "yvateve"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "yvateve"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "emboguejýtaogue"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "yguyvévape"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "yguyvévape"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:24.032866550Z",
+  "model": "glm-5.3"
+}

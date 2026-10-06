@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 11:19",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ikerayvotypápe",
+      "rationale": "נפש נפשות ndahaʼéi 'alma'; haʼe tekove-rekove, henovýchepyру — ojeiporu ko'ápe 'kerayvoty' he'iséramo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "Interjeición hebreo 'profanado va'ekue'-guarã; avañeʼẽme 'Ani echa cheruã' — ñeʼẽ josapyrã"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨⟨ chupe ⟩⟩",
+      "rationale": "הביאום oguereko pronombre sufijo -ם; avañeʼẽme oñembojoaju peteĩ ñeʼẽpehẽ"
+    }
+  ],
+  "translation": "Ha heʼi: Ani echa cheruã che Elohim chejapo hagua ko mbaʼe: ¿amongakuaa pa ahuhũ ⟨את⟩ tuguy umi kuimbaʼe koʼáva rehegua, ikerayvotypápe? Chillave ikerayvotypápe ogueru hikuái ⟨⟨ chupe ⟩⟩. Upévare ndaipotái ehuhũ hikuái. Koʼã mbaʼe ojapo umi mbohapy ipuʼakapaitéva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c6d5be67d8ad30d59b21f604a42ac8e1773b8165c72d5b1f33f30404c8d74f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/11\/19-19.1791267120767.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha heʼi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Ani echa cheruã"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "chejapo hagua"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼáva"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ahuhũ"
+    },
+    {
+      "surface": "בנפשותם",
+      "gloss": "ikerayvotypápe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chillave"
+    },
+    {
+      "surface": "בנפשותם",
+      "gloss": "ikerayvotypápe"
+    },
+    {
+      "surface": "הביאום",
+      "gloss": "ogueru hikuái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Upévare ndaipotái"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ehuhũ"
+    },
+    {
+      "surface": "לשתותם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Koʼã mbaʼe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ipuʼakapaitéva"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:00.768468995Z",
+  "model": "glm-5.3"
+}

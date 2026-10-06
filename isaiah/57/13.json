@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yvytu",
+      "rationale": "רוח haʼe peteĩ ñeʼẽ año — ko'ápe yvytu; Espíritu rehegua ndahaʼéi ko hendápe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "havé",
+      "rationale": "הבל: nandi, opáva pyaʼeva — havé ojapo vaʼerã"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨la⟩",
+      "rationale": "avañeʼẽme oñeikotevẽ kuatiañeʼẽ 'la' ojeporu hag̃ua, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "crux",
+      "subject": "קבוציך",
+      "rationale": "'nde atykuéra' (umíva rejaty vaʼekue) — añetehápe umi tupã ijojahaʼỹva KJV 'companies' ha JPS 'them that thou hast gathered'icha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישא...יקח",
+      "rationale": "mokõi ñeʼẽ ojojuhúva 'gueraha\/japysy' — mokõi jehero ojuehe guaʼu, avañeʼẽme ndahetái"
+    }
+  ],
+  "translation": "Rejerure jave, pe nde atykuéra ojekaraĩta ndéve; ha yvytu ogueraháta ⟨את⟩ opaite chupekuéra, havé ojapysóta: ha oñemoĩva cherehe ohupytyta ⟨la⟩ yvy ha oguerojerata che marangatu yvyty.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3955c56660d7870becd0487d47df1d91db4e21d71ccc3287848eff26fa7f9015",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/57\/13-13.1791266551383.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "rejerure jave"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ojekaraĩta ndéve"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "nde atykuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite chupekuéra"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opaite chupekuéra"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ogueraháta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "yvytu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ojapysóta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havé"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "ha oñemoĩva"
+    },
+    {
+      "surface": "בי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "ohupytyta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "oguerojerata"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "che marangatu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:31.385256861Z",
+  "model": "glm-5.3"
+}

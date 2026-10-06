@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekove",
+      "rationale": "נפש haʼe pe oikovéva oñeʼẽva — pytu reko — ndahaʼéi ⟨ángel⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ojeipeʼáta",
+      "rationale": "נכרת — «ojekytĩ» — heʼise ojeipeʼa tetãnguéra apytégui, karaiñeʼẽme «expulsado»"
+    }
+  ],
+  "translation": "Oimeraẽ ñemoñare oúva iñeʼẽgui oikóva ohóramo o`u rangue ⟨michĩmi⟩ tuguy, pe ñemoñare oúva iñeʼẽgui oikóva ojeipeʼáta ijoavyguasúgui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d3254362fa1548f4b7c2d89f28295c14baf544cb86180dc1ea6bda1697bc36e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/leviticus\/7\/27-27.1791265994115.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "otuʼu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ojeipeʼáta"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "pe tekove"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ijoavyguasúgui"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:14.116626035Z",
+  "model": "glm-5.3"
+}

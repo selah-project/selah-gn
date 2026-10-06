@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rehayhu",
+      "rationale": "חשק ha'e 'embyaty, jeipyray' — oñembyaty heta mba'épe, noĩri 'hayhu' añónte"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ipýpe",
+      "rationale": "תאר ha'e 'ipýra, terã' — retãnguéra ñe'ẽme 'figura\/forma'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשת יפת תאר",
+      "rationale": "'kuñataĩ iporáva ipýre' — Moisés 21:9-pe oĩ avei ko ñe'ẽjoaju Sará-re; ñe'ẽ'asy ohechauka mokõi mba'e"
+    }
+  ],
+  "translation": "Ha rehecha pe takarahíre apytépe kuñataĩ iporáva ipýpe, ha rehayhu chupe, ha egueru nde rehegua nde rembireko ramo.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "50c4e924349e3ec00f3bb7a95e22e916ff1bde819e00e2f8c2c911ea4c4b4c67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/21\/11-11.1791266165116.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְרָאִיתָ֙",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "בַּשֶּׁבְיָה",
+      "gloss": "pe takarahíre apytépe"
+    },
+    {
+      "surface": "אֵ֖שֶׁת",
+      "gloss": "kuñataĩ"
+    },
+    {
+      "surface": "יְפַת",
+      "gloss": "iporáva"
+    },
+    {
+      "surface": "תֹּ֑אַר",
+      "gloss": "ipýpe"
+    },
+    {
+      "surface": "וְחָשַׁקְתָּ֣",
+      "gloss": "rehayhu"
+    },
+    {
+      "surface": "בָּ֔הּ",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "וְלָקַחְתָּ֥",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "nde rehegua"
+    },
+    {
+      "surface": "לְאִשָּֽׁה",
+      "gloss": "nde rembireko ramo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:05.118024707Z",
+  "model": "glm-5.3"
+}

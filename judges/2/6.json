@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jochua",
+      "rationale": "יהושע espelling peteĩ; Josue castellano-gui NAHÁNIRI, upévare Jochua"
+    },
+    {
+      "kind": "idiom",
+      "subject": "איש לנחלתו",
+      "rationale": "hebreo heʼi 'peteĩteĩva iñaneñotypyre pehẽnguépe', avañeʼẽme oñembojoaju peteĩ ñeʼẽme"
+    }
+  ],
+  "translation": "Josue omondo ⟨את⟩ tekovekuéra, ha Jisrael raʼýi oho tapichaitépe iñaneñotypyre hetãme, ojaposégui ⟨את⟩ yvype.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bddb6df71b0059a3358c43416aa6836e47eef0e956ae9c521274013e7b999b51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/2\/6-7.1791266267434.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekovekuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tekovekuéra"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tapichaitépe"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "iñaneñotypyre hetãme"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ojaposégui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvype"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvype"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:47.439289952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mboʼeharupa",
+      "rationale": "מזבח literally 'sacrifice-place'; no native Guarani altar word keeps the picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "katu",
+      "rationale": "ו- opening rendered as discourse connector"
+    }
+  ],
+  "translation": "Ha eñembojevývo katu Ramata gotyo, upépe oguereko hoga ha upépe ojapo hekojojaha ⟨את⟩ Jisrael rehe, ha upépe oñemopuʼã hese peteĩ mboʼeharupa Jahve peg̃uarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e714e65e23afa962580ad43f5c895393ae69c157cee7a3c2911844bae3b26786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/7\/17-17.1791266318610.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "eñembojevývo katu"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramata gotyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oguereko hoga"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ha upépe"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ojapo hekojojaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael rehe"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ha oñemopuʼã hese peteĩ mboʼeharupa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mboʼeharupa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve peg̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:38.611893233Z",
+  "model": "glm-5.3"
+}

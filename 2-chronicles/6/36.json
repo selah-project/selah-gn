@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-chronicles 6:36",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Ndojekuaa porãi avañeʼẽme; oñembojoaju ñeʼẽte ndive."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטא",
+      "rationale": "ojavy — avañeʼẽ ñeʼẽ teete 'javypo' rehegua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אויב",
+      "rationale": "ñorãirõhára — umi ndaijaʼéiva chupe (D3)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Cholem oñeʼẽ Jahve-pe, Salomón ñeʼẽme."
+    }
+  ],
+  "translation": "Oĩrõ ojavy Jahve rehe — ndaipóri yvypóra ani ojavy — ha nde ñembyasy hesekuéra, ha emeʼẽ chuguakuéra ñorãirõhára renondépe, ha umi ojerureváva oho umi ojerurékuri hikuái peteĩ yvy oky使其 hasambaʼe térã opytambaʼe gotyo,",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "39e60d6d982fed9d0fdc814cba747f53e51f20015fafb0c88926c40744dbc854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/6\/36-36.1791267118698.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Oĩrõ"
+    },
+    {
+      "surface": "יחטאו",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ojavy"
+    },
+    {
+      "surface": "ואנפת",
+      "gloss": "ha nde ñembyasy hesekuéra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hesekuéra"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ha emeʼẽ chuguakuéra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "ושבום",
+      "gloss": "ha ojerure koʼẽ"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ojerurekuaáva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "okysã mbeguimi"
+    },
+    {
+      "surface": "או",
+      "gloss": "térã"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "opyta mbeguimi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:58.698683786Z",
+  "model": "glm-5.3"
+}

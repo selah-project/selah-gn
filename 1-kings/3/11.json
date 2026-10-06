@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 3:11",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rekove",
+      "rationale": "נפש haʼe pytu\/rekove-kora, ndahaʼéi añetegua 'ãngawara'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ne ñorarõhára rekove",
+      "rationale": "KJV\/LXX 'the life of your enemies' (jerure rekove) vs BSB 'the death of your enemies' (jerure manõi hekove)"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "conjunción relativa rehe-guápe oñembojoaju, ndaipóri chupe g̃uarã ñeʼẽ añónte"
+    }
+  ],
+  "translation": "Ha Elohim ohee chupe: rehe nde rejerure ⟨את⟩ ko ñeʼẽ, ha nde rejerurei nde rekópe heta ára, ha nde rejerurei nde rekópe tavera, ha nde rejerurei ne ñorarõhára rekove, ha rejerure nde rekópe hesakãporã ehendu hag̃ua hekojojaha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c4bcf1146489031b46b58cfcb509dab1f5c1785703c3a215c1bd90c0f1a76bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/3\/11-11.1791266433066.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha ohee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "nde rejerure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "rejerurei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rekópe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "rejerurei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rekópe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tavera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "rejerurei"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rekove"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ne ñorarõhára"
+    },
+    {
+      "surface": "ושאלת",
+      "gloss": "ha rejerure"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rekópe"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "hesakãporã"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ehendu hag̃ua"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hekojojaha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:33.067156368Z",
+  "model": "glm-5.3"
+}

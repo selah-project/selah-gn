@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hekojojaha",
+      "rationale": "משפט here 'verdicts\/ordinances' — rendered per D2 as hekojojaha rather than 'ley'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "opyta",
+      "rationale": "עמדו literally 'they stand' — could be 'oĩ pyʼaguapýpe' (stand firm); opyta chosen for continuity with v.90."
+    }
+  ],
+  "translation": "Neĩ hekojojaha ndive opyta ko árape, opaite mbaʼe nde mboriahu whore guáicha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8307706866283bc913f914f095367a249fc5dda88d3d8fb50b246912a60db146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/119\/91-91.1791266748861.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "neĩ hekojojaha ndive"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "nde mboriahu whore guáicha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:48.862440820Z",
+  "model": "glm-5.3"
+}

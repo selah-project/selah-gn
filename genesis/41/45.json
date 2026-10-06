@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 41:45",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Tsefnat Paneaj",
+      "rationale": "Téra egípsio he'ỹsyry ndaipórori: 'ñemíᵈ ombojáváva' (targum) térã he'ise'ỹre jahai hebreo ipúpe."
+    },
+    {
+      "kind": "crux",
+      "subject": "pa'i",
+      "rationale": "כהן: 'pa'i' (KJV, JPS) térã 'mburuvicha guasu' (Geneva); Mitsraim-gua kóichagua hína."
+    },
+    {
+      "kind": "elision",
+      "subject": "על ארץ מצרים",
+      "rationale": "'osẽ... yvy ape ári' — hebreo he'ínte 'osẽ yvy ári', KJV omoĩ 'opavavéva'."
+    }
+  ],
+  "translation": "Ha Paroh ohenói Yosef réra: Tsefnat Paneaj; ha ome'ẽ chupe ⟨את⟩ Asenat, Poti-fera ra'ỹi, On-gua pa'i, ikuña ramo; ha Yosef osẽ Mitsraim yvy ape ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f6f5e28fa1c1560153f0926fef22bac2981f529a28f7ce69727645b2cfab9d34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/41\/45-46.1791265950616.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "téra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "Tsefnat"
+    },
+    {
+      "surface": "פענח",
+      "gloss": "Paneaj"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asenat"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asenat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "אן",
+      "gloss": "On"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ikuña ramo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "על",
+      "gloss": "ape ári"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:30.617322180Z",
+  "model": "glm-5.3"
+}

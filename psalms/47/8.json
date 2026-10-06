@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ha'e",
+      "rationale": "Hebrew lacks copula; fronted predicate 'king of all the earth is Elohim'"
+    },
+    {
+      "kind": "crux",
+      "subject": "משכיל",
+      "rationale": "'maskil': instrumental\/skillful psalm (JPS) vs 'with understanding' (KJV) vs 'understanding one' (YLT)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמרו משכיל",
+      "rationale": "imperative plural zammeru paired with maskil, echoing v.7's maskil — repetition lost in avañeʼẽ"
+    }
+  ],
+  "translation": "Niko opaite yvy mburuvicha ⟨ha'e⟩ Elohim; peñembopurahéi hesakãporãre.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "77da7d7332cf8e04e5e2f99e8ce257c1309e7f8770c5db328d062997e9c5775d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/47\/8-8.1791266753597.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "niko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "peñembopurahéi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "hesakãporãre"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:53.601848474Z",
+  "model": "glm-5.3"
+}

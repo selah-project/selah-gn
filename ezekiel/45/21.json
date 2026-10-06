@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Pesch",
+      "rationale": "הפסח — hebreo ipúpe, ndaha'éi 'Pascua'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mba'yru'ỹ",
+      "rationale": "מצות — 'mba'yru'ỹ' ojeporu ha'ãha'ỹrã; hebreo ohechauka 'mba'apo kãngy'ỹva' (maymbo'ỹ)"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael retãyguakuéra",
+      "rationale": "רענן — Tendarã oñe'ẽ pe araka'ã jey reheguávo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jasy mbohapy pa po",
+      "rationale": "Ára ha jasy ojepapapyokuaa — arete papokõi"
+    }
+  ],
+  "translation": "Peteĩháme, jasy mbohapy pa po ara (14 jasy ára) — Pesach (Pascua) gueraõ pembyaty, marangatu arete papokõi ara (7 ara); mba'yru'ỹ (bread without yeast) oje'u vaerã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "cf7797f7dff18ba3ab789bb9228a15704f103879707a1f0e3094bcc1b5405e1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/45\/21-21.1791266640970.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "peteĩháme"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "mbohapy pa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "po"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ara"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gueraõ oĩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pembyaty"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesch"
+    },
+    {
+      "surface": "חג",
+      "gloss": "arete"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "papokõi ara"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ara"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mba'yru'ỹ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oje'u vaerã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:00.970785812Z",
+  "model": "glm-5.3"
+}

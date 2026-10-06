@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 30:7",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשמו\/נשמות",
+      "rationale": "Root שׁם repeated — 'desolate among desolations' — chiastic parallel with ערים\/נחרבות preserved in Guarani by repeating 'oñembyai'."
+    },
+    {
+      "kind": "elision",
+      "subject": "תהיינה",
+      "glossless": "Hebrew emphatic verb 'they will be' rendered as 'ojejuhu' (they will be found) to carry the stative sense."
+    }
+  ],
+  "translation": "Ha oñembyai py'aguapyetépe umi yvy oñembyaíva apytépe, ha i tavakuéra ojejuhu tavakuéra oñeñotỹva apytépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b9936bbfd0df71c6dbfba1ea15a2013cb6162ed8c199f4bad7295851507cedb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/30\/7-7.1791266632181.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְנָשַׁ֕מּוּ",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "בְּת֖וֹךְ",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "אֲרָצ֣וֹת",
+      "gloss": "umi yvy"
+    },
+    {
+      "surface": "נְשַׁמּ֑וֹת",
+      "gloss": "oñembyaíva"
+    },
+    {
+      "surface": "וְעָרָ֕יו",
+      "gloss": "ha i tavakuéra"
+    },
+    {
+      "surface": "בְּת֣וֹךְ",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "עָרִ֥ים",
+      "gloss": "tavakuéra"
+    },
+    {
+      "surface": "נַחֲרָב֖וֹת",
+      "gloss": "oñeñotỹva"
+    },
+    {
+      "surface": "תִּֽהְיֶֽינָה",
+      "gloss": "ojejuhu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:52.181702575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "numbers 7:65",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "offering list",
+      "rationale": "Ko versículo ohechauka mbaʼéichapa oñemohenda karai roviahápe g̃uarã: mbovypa, mbaʼéichagua, mboy ary."
+    }
+  ],
+  "translation": "Ha umi karai roviahápe g̃uarã: mokõi vaka, poteĩ mboriku, poteĩ ovecha rãrangatu, poteĩ ovecha raʼy peteĩ ary oguerekóva. Kóva haʼe karai roviahápe g̃uarã omondóva Avidan, Gidoni raʼy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d105050aaad3c1e59ced00e05730298de8a23ea3f0a80553fbbde740d009411a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/7\/65-65.1791266087782.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "umi karai roviahápe g̃uarã"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "roviahápe g̃uarã (flesh of the peace offering)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "mboriku"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "ovecha rãrangatu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ovecha raʼy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "karai roviahápe g̃uarã omondóva"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Avidan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Gidoni"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:47.783239556Z",
+  "model": "glm-5.3"
+}

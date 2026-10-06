@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 31:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tesatuʼu",
+      "rationale": "יראה haʼe tesatuʼu ha terakuãrayhu mokõi; avañeʼẽme peteĩ ñeʼẽ año"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר",
+      "rationale": "mbohapy jevy ojejuhu ñeʼẽ jojahápe, emombeʼu iñapytỹngo"
+    }
+  ],
+  "translation": "Ha umíva, pe taʼýra kuéra, umi ndaikuaáva, ohendu ha oikuaauka chupe kuéra tesatuʼu hag̃ua Jahve Elohim-pe, ⟨את⟩ Jahve, peẽrangatuẽ rekovia pukukue yvy ári peẽ ohasahápe ⟨את⟩ Jardenpe, upépe oñembojára hag̃ua hese.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "99abd9c0012abfaf1f45fd8ac3c472d046eecf59a0286160aa6c8a6a37611c83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/31\/13-13.1791266250522.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהם",
+      "gloss": "ha itaʼýrakuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ikuaái"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "ולמדו",
+      "gloss": "oikuaauka"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "tesatuʼu hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim peẽg̃uarã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rekovia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ohasavaʼerã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "oñembojára hag̃ua hese"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:30.526486603Z",
+  "model": "glm-5.3"
+}

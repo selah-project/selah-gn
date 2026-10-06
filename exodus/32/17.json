@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול",
+      "rationale": "ko ñeʼẽ osẽ mbohapy jey ko versículo-pe, Jehochua ñeʼẽ ha Moche ñembohape ndive"
+    },
+    {
+      "kind": "you",
+      "subject": "Moche-pe",
+      "rationale": "Jehochua oñeʼẽ Moche-pe ñembyatypaite"
+    }
+  ],
+  "translation": "Ha Jehochua ohendu ⟨את⟩ yvypóra aty ñeʼẽ okuarahyʼẽvo hikuái, ha heʼi Mochepe: Ñorãirõ ñeʼẽ oiko tendaitepépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c46f8c3d569b92d0953d63b4b1370402bbce87cb49cc6aec066070942f6c0c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/32\/17-19.1791266050532.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra aty ñeʼẽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yvypóra aty"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "okuarahyʼẽvo hikuái"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "tendaitepépe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:10.533520092Z",
+  "model": "glm-5.3"
+}

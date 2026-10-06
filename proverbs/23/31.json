@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rehe",
+      "rationale": "avañeʼẽ requires relational 'rehe' on the object; Hebrew has none"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתאדם",
+      "rationale": "from אדם 'red\/flush': 'turns red' (KJV) vs 'sparkles' (ASV\/BSB); kept the literal blood-red flush"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכיס",
+      "rationale": "rare word: 'cup' here vs 'money-bag' elsewhere; rendered as generic ryru (container)"
+    },
+    {
+      "kind": "crux",
+      "subject": "במישרים",
+      "rationale": "'in uprightness\/straightness': KJV 'moveth itself aright' vs 'goes down smoothly' (ASV\/JPS); kept literal 'walks in the even\/straight'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "second-person deprecative imperative warning against wine"
+    }
+  ],
+  "translation": "Ani erecha ⟨rehe⟩ kaguy arakaʼe oky pytã hague, arakaʼe omeʼẽ ⟨rehe⟩ hesa ryru ryepýpe, ha oguata ojoja hápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "727f061c0753ce71b023c61644678963cc4b367091f0ea1443547b73c3497176",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/23\/31-31.1791266858707.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "erecha"
+    },
+    {
+      "surface": "יין",
+      "gloss": "kaguy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "arakaʼe"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "oky pytã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "arakaʼe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "ryru ryepýpe"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "hesa"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ojoja hápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:38.710936396Z",
+  "model": "glm-5.3"
+}

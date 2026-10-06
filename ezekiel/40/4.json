@@ -1,0 +1,166 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 40:4",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למען",
+      "rationale": "Maʼẽrã ñeʼẽpehẽ ( rehechauka hag̃ua ) ondyry ha oñembojoaju hikuái peteĩ mbaʼépe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבך",
+      "rationale": "Hebreo 'nde rekove pehẽngue' — avañeʼẽme 'nde rekove pehẽngue' ojeporu hekopete (hese ha'etéva), há'e 'pytuʼu' mbaʼeguasuve."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותך",
+      "rationale": "Aleph-tav ñeʼẽpehẽ ndive ojehecha — ojeporoʼã peteĩ jehechauka ramo."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי למען הראותכה",
+      "rationale": "Mokõi ñeʼẽ ojuehe — jehaipyre omoĩ 'che amombaʼeguasúta ndeve', KJV mo'ã 'I might shew them'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Yehezkel",
+      "rationale": "Ñeʼẽtenonde mbohapy — ehecha, ehendu, ehapytuʼu — ohenói ñemoñeʼẽhárare."
+    }
+  ],
+  "translation": "Ha kuimbaʼe oñeʼẽ cherehe: Yvypóra raʼýpe, ehecha nde resỹi reheve, ehendu nde apysague reheve, ehapytuʼu nde rekove pehẽngue opa mbaʼe rehe che amombaʼeguasúta ⟨את⟩ ndeve haguã; rehechauka hag̃ua ndeve ne-gueraha koʼape: emombeʼu ⟨את⟩ opaite rehegua rehecháva Jisrael ógape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "00460dab17a2c1257c7608974cb20d60275302b18b7a9f718faff9cad27522d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/40\/4-4.1791266642069.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýpe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nde resỹi reheve"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "nde apysague reheve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ehapytuʼu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nde rekove pehẽngue"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opa mbaʼe rehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "amombaʼeguasúta"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ndeve haguã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehechauka hag̃ua"
+    },
+    {
+      "surface": "למען",
+      "gloss": ""
+    },
+    {
+      "surface": "הראותכה",
+      "gloss": "rehechauka"
+    },
+    {
+      "surface": "הבאתה",
+      "gloss": "ne-gueraha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼape"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "emombeʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite rehegua rehecháva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite rehegua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rehecháva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:02.070605304Z",
+  "model": "glm-5.3"
+}

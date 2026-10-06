@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "omenaʼẽ kangué",
+      "rationale": "Hebreo 'ternura osamentakuéra' (omoñangareko tesuʼu) — jehaipyre literal 'omopotĩ kangué' noñemombeʼúi upéicha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ñemomarandu",
+      "rationale": "שמועה 'oñehendúva' — marandu oúva; ndahaʼéi 'tera porã' (geneva-1599 ojapo upéicha)"
+    }
+  ],
+  "translation": "Tesa mbaʼerendy ombovyʼa pyʼa, ha ñemomarandu iporã omenaʼẽ kangué.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4b8fd5edbee855b4f28eddb7a2412c7a0dd93bc7290a744ac58b04b6ec08e3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/15\/29-30.1791266867338.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "mbaʼerendy"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "tesa"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ombovyʼa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ñemomarandu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "omenaʼẽ"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "kangué"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:47.346860014Z",
+  "model": "glm-5.3"
+}

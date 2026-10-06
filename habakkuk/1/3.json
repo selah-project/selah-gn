@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 1:3",
+  "book": "habakkuk",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תראני",
+      "rationale": "Hiphil de ראה: 'chehechauka' (ejechauka cheve) vs 'erehecha cherehe' — hebreo ha'e 'embojuehe cherehe' añetehápe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב\/מדון",
+      "rationale": "Mokõi ñeʼẽ ojojuhúva ijojaha'ỹre: ñorairõ (kanoñemongu'ẽ) ha ñemongeta vai, paralelismo hebreo."
+    },
+    {
+      "kind": "you",
+      "subject": "habaku",
+      "rationale": "Jeroviaha oñeʼẽ Jahve rehe, ojaporokyre'ỹ hese ko mbaʼérepa"
+    }
+  ],
+  "translation": "Mbaʼérepa chehechauka mbaʼevairã, ha asoreko rehecha che renondégui? Jevyrei ha ñembyairã che renondépe, ha oiko ñorairõ, ha ñemongeta vai ojupi.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "39e2a00c517ade0763235b10ef438661586f18d2fd8b9561af607eabd553720d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/habakkuk\/1\/3-3.1791266712143.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mbaʼérepa"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "chehechauka"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaʼevairã"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ha asoreko"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ha jevyrei"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "ha ñembyairã"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ñorairõ"
+    },
+    {
+      "surface": "ומדון",
+      "gloss": "ha ñemongeta vai"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ojupi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:12.144218199Z",
+  "model": "glm-5.3"
+}

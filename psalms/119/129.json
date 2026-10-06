@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ñeʼẽmeʼẽ",
+      "rationale": "עדותיך haʼe 'ne marandu ojehaíva' — ñeʼẽmeʼẽ ojeporu D2 heʼiháicha ברית-re, upéicha avei oĩ ko'ápe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "che rekove",
+      "rationale": "נפשי haʼe 'che pytũ, che ñeikove' — 'che rekove' iporãve 'che àngirĩ' (castellano 'alma') reheguévagui"
+    },
+    {
+      "kind": "addition",
+      "subject": "hína",
+      "rationale": "Hebreo ndorekóiva copula; avañeʼẽ oikotevẽ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלאות",
+      "rationale": "Pe acróstico Pe-pe oñepyrũva ko versículo; פלאות ojoaju ñeʼẽ 'pele' (mbaʼe iporãmbaitéva) rehe"
+    }
+  ],
+  "translation": "Iporãmbaite che rehegua hína ne ñeʼẽmeʼẽ pehẽnguéra; upévare che rekove oñangareko hesekuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "54b21845bc084cb440d9413c61136ba7112f418998f647cd5c5e5e49df5e48cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/119\/129-129.1791266748238.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "iporãmbaite hína"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ne ñeʼẽmeʼẽ pehẽnguéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "oñangareko hesekuéra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "che rekove"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:48.238980415Z",
+  "model": "glm-5.3"
+}

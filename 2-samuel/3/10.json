@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tavakuairetã",
+      "rationale": "הממללכה haʼe 'tavakuairetã' — dominio ha tetã mokõiva; avañeʼẽme oĩ peteĩ ñeʼẽ año"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Dan-guive Bercheva peve",
+      "rationale": "Tenda ñembopupo rehegua: yvy pehẽngue ojueheguáva, yvategua guive yvygotyo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "oñemopyenda",
+      "rationale": "ולהקים ikatúramo 'ope'a jejopy' — ojekuaa porãva 'oñemopyenda'"
+    }
+  ],
+  "translation": "Ombosyryi hag̃ua tavakuairetã Shaul ógagui, ha oñemopyenda hag̃ua ⟨את⟩ David isã Jisrael ári ha Jehuda ári, Dan-guive Bercheva peve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1885f2c99184fb2934d1972bb31dbad3baea4cdadc7952b53ede63e48d7b13b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/3\/10-10.1791266369343.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ombosyryi hag̃ua"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "tavakuairetã"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ógagui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "oñemopyenda hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David isã"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isã"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan-guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "cheva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:29.344742245Z",
+  "model": "glm-5.3"
+}

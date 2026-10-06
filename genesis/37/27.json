@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 37:27",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko'ãga",
+      "rationale": "cohorte-marked verb requires a present-marking word in Guaraní"
+    },
+    {
+      "kind": "substitution",
+      "subject": "che pytũngue",
+      "rationale": "בשרנו is flesh\/kinship-body; Guaraní renders it as 'flesh' but the idiom of kinship remains"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "the emphatic pronoun is folded into the Guaraní predicate"
+    },
+    {
+      "kind": "you",
+      "subject": "to his brothers",
+      "rationale": "Judah's direct imperative address to his brothers"
+    }
+  ],
+  "translation": "Eho, ha jañemu ko'ãga chupe Ishmael-kuérape, ha aníke che pópe oikojey hese; ha'e che joyke'y, che pytũngue. Ha umi joyke'ykuéra ohendu chupe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9d5a312b19b7f28b90e1b555fd91837a410f295ad5e5747817581335a0ba8e7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/37\/27-27.1791265905792.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "ונמכרנו",
+      "gloss": "jañemu ko'ãga chupe"
+    },
+    {
+      "surface": "לישמעאלים",
+      "gloss": "Ishmael-kuérape"
+    },
+    {
+      "surface": "וידנו",
+      "gloss": "che pópe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aníke"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "oikojey"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'e"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "che joyke'y"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "che pytũngue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umi joyke'ykuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:45.817521942Z",
+  "model": "glm-5.3"
+}

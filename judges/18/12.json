@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 18:12",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "rationale": "Demonstrative 'that place' — gueronimo 'pe tendápe' ohóma oñembojoaju pe ñeʼẽpe, upévare gloss nandi."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרי קרית יערים",
+      "rationale": "'Behind\/after Kiryat-Yearim': umi moñeʼẽhára iñambue — 'okuéra rupi' (oeste, BSB) térã 'mboyveguasu' (KJV); 'rire' jeporu añetegua."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד היום הזה",
+      "rationale": "'Ko ára peve' — arange rehegua ñeʼẽ, moñeʼẽhára ára ohechauka."
+    }
+  ],
+  "translation": "Ha ojupi hikuái, ha oñemohenda hikuái Kiriat-Yearim-pe, Yehuda-pe; upéicha rupi ohenói hikuái pe tendápe Majane-Dan, ko ára peve; peichahína, Kiriat-Yearim rire.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b2eb826c25d8db3eb81a5ff86868db0a239dcd91a349aaff978869f004d5532b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/18\/12-12.1791266252669.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ojupi hikuái"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "oñemohenda hikuái"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "Kiriat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim-pe"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda-pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ohenói hikuái"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "pe tendápe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "Majane"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko ára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ápe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "peichahína"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:32.672950828Z",
+  "model": "glm-5.3"
+}

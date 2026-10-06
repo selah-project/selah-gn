@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ñeʼẽmeʼê",
+      "rationale": "ברית — «juramento\/ñeʼẽmeʼê» — «alianza» nahániri, pe hebreo raʼañói heʼi juramento ñombojoguagua."
+    },
+    {
+      "kind": "you",
+      "subject": "omohenda porã",
+      "rationale": "Ndajaikuaái mávapa ojapo — Salomón (JPS\/BSB) ojekuaa rire jepe, hebreo ndoheʼi téra."
+    }
+  ],
+  "translation": "Ha pe devír, óga mbytépe, okarahápe, omohenda porã oñemoĩ hag̃ua upépe ⟨את⟩ Jahve ñeʼẽmeʼê arón.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/6\/17-20.1791266476239.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודביר",
+      "gloss": "ha pe devír"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "okarahápe"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "omohenda porã"
+    },
+    {
+      "surface": "לתתן",
+      "gloss": "oñemoĩ hag̃ua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽmeʼê arón"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:16.245475970Z",
+  "model": "glm-5.3"
+}

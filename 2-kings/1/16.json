@@ -1,0 +1,168 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 1:16",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המבלי",
+      "rationale": "Sarcastic rhetorical question: 'is it because there is no Elohim in Israel?' — some versions render as statement, some as question."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות תמות",
+      "rationale": "Infinitive absolute doubling: 'dying you will die'; Guarani doubling 'reikotaha reikotáta' keeps the intensification."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Causal particle absorbed into the doubled death-formula; no separate Guarani word."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ahaziah king of Jisrael",
+      "rationale": "Elijah delivers Jahve's direct second-person judgment to the king."
+    }
+  ],
+  "translation": "Ha oñeʼẽ hese péicha: Heʼi Jahve: Ndemondo rupi maranduʼikuéra ehaporandu hag̃ua Baal Zevuv, Ekron Elohim rehe — ¿Ehaporandúgui haguére Baal Zevuv-pe? Ndaipóirõguáicha Elohim Jisrael-pe rehehaporandu hag̃ua iñeʼẽ? — Upévare, pe opa ndepehenguépe noguejumoʼãi chugui, reikotaha reikotáta.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "56bbf40968888cede9c77fbc91b51009ae7850227149e128da497ea711a6ad69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/1\/16-16.1791266436875.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "כה",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haguére"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ndemondo"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "maranduʼikuéra"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ehaporandu hag̃ua"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "Zevuv-pe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron rehe"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "— ¿ehaporandúgui haguére…?"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndaipóirõguáicha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael-pe"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "rehehaporandu hag̃ua"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "pe opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndepehenguépe"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "reguáype"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "noguejumoʼãi"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "noguejumoʼãi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "chugui"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מות",
+      "gloss": "reikotaha"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "reikotáta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:36.876903196Z",
+  "model": "glm-5.3"
+}

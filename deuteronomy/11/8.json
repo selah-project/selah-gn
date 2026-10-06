@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "היום → koʼág̃a",
+      "rationale": "Hebreo 'ko ára' — avañeʼẽme koʼág̃a ohechauka arakaʼégui oñeʼẽha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירשתם … לרשתה",
+      "rationale": "yarashá ñeʼẽ jeyjey — 'pejokaite … pejokaite hag̃ua' — oheja jeyjey hebreo guýpe"
+    },
+    {
+      "kind": "invitation",
+      "subject": "peñangareko",
+      "rationale": "Mbaʼeñemboja tetã maymávape — Jisrael retãme — ñangareko hag̃ua Tora rehe"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Ñeʼẽ oñeʼẽva Jisrael-pe, paʼi-poravopyrépe, mbaʼeñemboja rehegua"
+    }
+  ],
+  "translation": "Upévare, peñangareko ⟨את⟩ opaite mbaʼeñembojáre che amboja che koʼág̃a, ikatu hag̃uágui peipeguete ha peikévo pejaha pejokaite ⟨את⟩ pe yvy peipehẽngue hag̃ua, umíva peime pehasa hupi pejokaite hag̃ua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "18b854d9a067735799c7b3486344747ce48f3a79577ba6021396484a6470cc06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/11\/8-8.1791266186511.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "peñangareko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbaʼeñemboja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "mbaʼeñemboja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che amboja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "amboja"
+    },
+    {
+      "surface": "היום",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikuatu hag̃uágui"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "peipeguete"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "peikévo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "pejokaite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peime"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "pehasa hupi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "pejokaite hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:26.512786910Z",
+  "model": "glm-5.3"
+}

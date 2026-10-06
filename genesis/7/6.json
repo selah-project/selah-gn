@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "memby poteĩsa ary",
+      "rationale": "בן שש מאות שנה idiom 'son of six hundred years' = age 600, kept literal as 'memby'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "poteĩsa ary",
+      "rationale": "Noach's age counted: 600 years"
+    }
+  ],
+  "translation": "Ha Noach, memby poteĩsa ary, ha Mabul oiko y yvy ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "73215cca745c672dfe43eb56f9e753665b805213daeab076fc02270928323dd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/7\/6-7.1791265950341.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Ha Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "memby"
+    },
+    {
+      "surface": "שש",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ha Mabul"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:30.342350830Z",
+  "model": "glm-5.3"
+}

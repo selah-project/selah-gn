@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 44:7",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל כל תועבותיכם",
+      "rationale": "KJV\/BSB read 'because of all your abominations'; ASV\/JPS read 'to add unto all your abominations' — the preposition אל allows both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפרו",
+      "rationale": "Third-person plural ('they broke') against second-person address; rendered 'umikuéri' to keep the subject shift."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jisrael óga",
+      "rationale": "Direct second-person plural accusation continued from verse 6."
+    }
+  ],
+  "translation": "Peẽ pegueru che marangatu rendápe yvypóra okarayguakuéra — pyʼa iñembopoʼỹva ha rete iñembopoʼỹva — oĩ hag̃ua che marangatu rendápe, emombaʼy guarã ⟨⟨⟩>⟨את⟩ che óga: peẽ peamegueru ⟨את⟩ che mbujape — kue ha tuguy — ha umikuéri ombyai ⟨את⟩ che ñeʼẽmeʼẽ, peẽ javykuéra apytégui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "cf467dc18af2713647844fb3a1fba5bccb752cfa0cb6b8d8f20236dcd87df640",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/44\/7-7.1791266660688.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהביאכם",
+      "gloss": "peẽ pegueru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yvypóra kuimbaʼe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "okaraygua"
+    },
+    {
+      "surface": "ערלי",
+      "gloss": "iñembopoʼỹva"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pyʼa"
+    },
+    {
+      "surface": "וערלי",
+      "gloss": "ha iñembopoʼỹva"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "rete"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "oĩ hag̃ua"
+    },
+    {
+      "surface": "במקדשי",
+      "gloss": "che marangatu rendápe"
+    },
+    {
+      "surface": "לחללו",
+      "gloss": "emombaʼy guarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che óga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "che óga"
+    },
+    {
+      "surface": "בהקריבכם",
+      "gloss": "peẽ peamegueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che mbujape"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "che mbujape"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kue"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ha tuguy"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "ha umikuéri ombyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "תועבותיכם",
+      "gloss": "peẽ javykuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:20.691013027Z",
+  "model": "glm-5.3"
+}

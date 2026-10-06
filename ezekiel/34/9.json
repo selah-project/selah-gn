@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañeʼẽ oikotevẽ pe artículo-pe, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ehendu",
+      "rationale": "Ñeʼẽ tengatua ohenói umi oñangarekóvape ohendu hag̃ua Jahve ñeʼẽ"
+    },
+    {
+      "kind": "you",
+      "subject": "umi oñangarekóva",
+      "rationale": "Ñeʼẽ tenonde oñeʼẽ umi oñangarekóva hógamimbáre rehegua"
+    }
+  ],
+  "translation": "Upéicha rupi, umi oñangarekóva\/vnderekóva hógamimbáre, ehendu ⟨pe⟩ Jahve ñeʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "55b0fe2d16e4e044fd0f00cc52f354a966eaa3a37c682fb52d48dfc23fd32785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/34\/9-9.1791266623268.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upéicha rupi"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "umi oñangarekóva\/vnderekóva hógamimbáre"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨pe⟩ ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:43.269438944Z",
+  "model": "glm-5.3"
+}

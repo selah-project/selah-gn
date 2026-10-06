@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ojehayhuʼỹ",
+      "rationale": "בין heʼise ‘omoñepyrũ, oikuaa porã’ — ndahaʼéi ‘hyhupy’ año"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ojahoʼipa hikuái",
+      "rationale": "KJV ‘he shall destroy them’ vs. ymavévérõ ambuéva ‘He throweth them down’ — ojeiporukuaa jeipysóramo"
+    }
+  ],
+  "translation": "Hetaháicha ndojehayhu chupekuéra mbaʼe apopyre Jahve ha mbaʼe apopyre ipo rycuépe, ojahoʼipa hikuái ha oñemopuʼaʼỹ hikuái.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/28\/5-8.1791266740946.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hetaháicha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo… ñehaʼãrã"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ojehayhuʼỹ hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe rehe"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mbaʼe apopyre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mbaʼe apopyre"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ipo rycuépe"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ojahoʼipa hikuái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha no"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ñemopuʼa hikuái"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:40.948121431Z",
+  "model": "glm-5.3"
+}

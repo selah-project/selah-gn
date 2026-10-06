@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "javoy che ogápe",
+      "rationale": "צר מעון: 'rival in my habitation' (JPS) vs 'affliction of my habitation' (ASV) vs KJV 'enemy in my habitation' — mbohapy jehechakuaa tuicháva"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Jahve⟩",
+      "rationale": "ייטיב oheja mboʼehára iñeʼẽʼỹre; Jahve oñemohẽ ojekuaa hag̃ua mávapa ojapo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨peteĩ⟩",
+      "rationale": "avaÑe'ẽme oikotevẽ peteĩ ñeʼẽnte-techaukaha javoy rehegua"
+    },
+    {
+      "kind": "you",
+      "subject": "to Eli",
+      "rationale": "Ñeʼẽ ojapóva Eli-pe, ijoguahápe ojekuaa porãpaʼi hetaite"
+    }
+  ],
+  "translation": "Ha rehecháta ⟨peteĩ⟩ javoy che ogápe, opa mbaʼe iporã ⟨Jahve⟩ ojapóta ⟨את⟩ Jisrael-pe; ha karai ndaiporamoʼãi nde rógape opa ára pukukue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "36b9d2dc1078e3a8401ad6857257acd9b9413788a79162b74394dc5899fa5d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/2\/31-32.1791266381104.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "Ha rehecháta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "javoy"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "che ogápe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "iporã ojapóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael-pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaiporamoʼãi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ndaiporamoʼãi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "karai"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nde rógape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ára pukukue"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:41.107919447Z",
+  "model": "glm-5.3"
+}

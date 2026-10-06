@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמוד ענן",
+      "rationale": "Repetición de 'yvyratu yvavorã' dos veces refleja la construcción repetida en hebreo (עמוד…ענן…עמוד הענן), un eco deliberado del Éxodo."
+    }
+  ],
+  "translation": "Jahve ojekacha michkan-pe peteĩ yvavorã yvyratu ári; ha pe yvavorã yvyratu opyta michkan jeike ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "007abe2094a48d616f13594be452285b5ce9b9631c6ede3ec7dc9fd18dd019e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/31\/15-15.1791266252651.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ojekacha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "michkan-pe"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "yvyratu ári"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "yvavorã"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "yvyratu"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "yvavorã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeike"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "michkan"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:32.654129700Z",
+  "model": "glm-5.3"
+}

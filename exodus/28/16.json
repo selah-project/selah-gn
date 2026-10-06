@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jere",
+      "rationale": "זֶרֶת haʼe po rupi'a pukukue (jere po apyre peve); ndaipóri avañeʼẽme ñeʼẽ ojueheguáva, upévare 'jere' ojeporu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפול",
+      "rationale": "כפול heʼive mokõi jey oñembojoapyva — choshen oñembojopyru mokõi jey ojapo hag̃ua kirirĩʼhára."
+    },
+    {
+      "kind": "measurement",
+      "subject": "teñemohenda",
+      "rationale": "Versículo omoĩva pe choshen iñemohenda: irundy tenda, jere peteĩ, pukukue ha perekue."
+    }
+  ],
+  "translation": "Ojopotáva oĩta irundy tenda, oñembojopyruvaʼekópe; peteĩ jere ipukukue ha peteĩ jere iperekue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4ac04696f9d39710a464d11cac2008fb2a42cdcd3cd34932964d4b52b9c34935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/28\/16-16.1791266006741.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ojopotáva irundy tenda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oĩta"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "oñembojopyruvaʼekópe"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "jere"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipukukue"
+    },
+    {
+      "surface": "וזזרת",
+      "gloss": "ha peteĩ jere"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "iperekue"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:26.742362582Z",
+  "model": "glm-5.3"
+}

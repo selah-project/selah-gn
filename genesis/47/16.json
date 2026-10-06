@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mikne",
+      "rationale": "מקנה ha'e mymbakuéra ojejoguáva — avañeʼẽme oñeñongatu hebreo ipúpe, 'mbaꞌe ñemuhápe g̃uarã' rupi."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם אפס כסף",
+      "rationale": "'opáma rupi kesef' — hebreo ndaha'éi mbaꞌe porandu; KJV 'if money fail', BSB 'money is gone'; JPS omoĩ 'bread' ha hebreo iñapytuʼũróva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקניכם \/ במקניכם",
+      "rationale": "Takyryrã: peteĩ ñeʼẽ ojejevy mokõi jey — 'pe mikne... pe mikne rangue' — oñongatu avañeʼẽme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kesef",
+      "rationale": "כסף ha'e tapiʼitã ojeporúva viru ramo — jehaipyre gueteri 'kesef', hebreo ipúpe."
+    }
+  ],
+  "translation": "Ha Jósef heʼi: Pe-meꞌẽ pe mbaꞌe ñemuhápe g̃uarã (mikne) pejapóva, ha ameʼẽta peẽpe pe mbaꞌe ñemuhápe (mikne) pejapóva pe rangue, opáma rupi pe kuarepy ñandutyrã (kesef).",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "98cf7cdc1f4848e38d215761a0c22da9d3d9844c14a167eb9c9f100b16f08b6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/47\/16-16.1791265936493.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "pe-meꞌẽ"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "pe mikne (pe mbaꞌe ñemuhápe g̃uarã pejapóva)"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ha ameʼẽta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽpe"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "pe mikne rangue"
+    },
+    {
+      "surface": "אם",
+      "gloss": "opáma rupi"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "opáma"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kesef (kuarepy ñandutyrã)"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:16.494699372Z",
+  "model": "glm-5.3"
+}

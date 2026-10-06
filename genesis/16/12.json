@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 16:12",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "javorai-yvypóra",
+      "rationale": "פרא אדם haʼe 'javorai (mymba kaʼaguy, pono onager) yvypóra' — hebreo ojuehe yvypóra ha mymba kaʼaguy; avañeʼẽme oñembyaty peteĩ ñeʼẽpe."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישכן renondépe",
+      "rationale": "KJV\/hebreo ohecha 'oiko ijoykeʼakuéra renondépe'; ambue moñeʼẽhára heʼi 'oiko joajuʼỹme' (hostilidad) — hebreo año ohechauka tenda, ndahaʼéi heko."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידו בכל ויד כל בו",
+      "rationale": "Chiástico mokõi ipó ojojueheáva — 'ipó opavavére, opavavénte ipó hese' — oñemoĩmba avañeʼẽme jehaipyre joapyrépe."
+    }
+  ],
+  "translation": "Ha haʼe oikóta javorai-yvypóra ramo: ipó ota opavavére, ha opavavérente ipó ota hese; ha ijoykeʼakuéra opaite renondépe oikoáta.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "226d37cea0276c8f73be1667f5c8dbb391bdbf558ec036b219b84775f38af0f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/16\/12-12.1791265927281.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "javorai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipó"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opavavére"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ha ipó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavénte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼakuéra"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "oikoáta"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:07.282453552Z",
+  "model": "glm-5.3"
+}

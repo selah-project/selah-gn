@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 6:7",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהקיר בור",
+      "rationale": "'Cistern-digger walls its waters' vs 'fountain casts forth its waters' — same root קור read as digging\/walling or gushing."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקיר\/הקרה",
+      "rationale": "Same root frames both halves of the simile (as the well... so she), parallel sound lost in Guarani."
+    },
+    {
+      "kind": "substitution",
+      "subject": "che rovére",
+      "rationale": "על פני is literally 'upon the face of' with first-person suffix only implied by context."
+    }
+  ],
+  "translation": "Ykuá omonandíva i'ykuéra háicha, upéicha omonandi iñañãngatu; ñorairõ ha ñembyai ohenduve ipype; che rovére tapiaite oĩ mba'asy ha ky'a.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a2599ee1af0a7c28031937ec7e572e845ea8f128832e58ba4c64fcb10316f305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/6\/7-7.1791266590849.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהקיר",
+      "gloss": "háicha omonandíva"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ykuá"
+    },
+    {
+      "surface": "מימיה",
+      "gloss": "i'ykuéra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "הקרה",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "רעתה",
+      "gloss": "iñañãngatu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ñorairõ"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ha ñembyai"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohenduve"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "על",
+      "gloss": "árape"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rovére"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tapiaite"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "mba'asy"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ha ky'a"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:10.849953344Z",
+  "model": "glm-5.3"
+}

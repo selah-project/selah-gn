@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 24:22",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "beká ha pa itaverundy",
+      "rationale": "Mbaʼe pohýi jeipapa: peteĩ beká (israel ñeʼẽ, shekel mbyte) ha pa chekel itaverundy."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨peteĩ⟩",
+      "rationale": "Avañeʼẽ oikotevẽ peteĩ kuarepe momorãmbyrã; hebreo ndorekói."
+    },
+    {
+      "kind": "crux",
+      "subject": "נזם",
+      "rationale": "'tĩ apysa kuarepe' — KJV 'earring' (tĩ rangue, apysa); YLT\/JPS 'ring'."
+    }
+  ],
+  "translation": "Ha oiko upéicha: kamẽnguéra opapa rire oʼu hag̃ua, pe kuimbaʼe ogueru ⟨peteĩ⟩ tĩ-kuarepe itaverundy pegua, ipohýi peteĩ beká, ha mokõi po-joja ipokuéra ári, ipohýi pa itaverundy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f4028a9267f2c2c4b7fc0f3b57e677dd3f515836fa41a557a90c99c7f53a5239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/24\/21-22.1791265955455.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha oiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "opapa rire"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamẽnguéra"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "oʼu hag̃ua"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe kuimbaʼe"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "tĩ-kuarepe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaverundy pegua"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "beká"
+    },
+    {
+      "surface": "משקלו",
+      "gloss": "ipohýi"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha mokõi"
+    },
+    {
+      "surface": "צמידים",
+      "gloss": "po-joja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "ipokuéra"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaverundy"
+    },
+    {
+      "surface": "משקלם",
+      "gloss": "ipohýi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:35.457254192Z",
+  "model": "glm-5.3"
+}

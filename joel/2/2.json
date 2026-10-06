@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 2:2",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשחר פרש",
+      "rationale": "¿ko'ẽ (dawn) térã pytũ (blackness) oipe'a yvyty ári? KJV\/ASV\/BSB he'ĩ ko'ẽngue, JPS\/YLT he'ĩ pytũete."
+    },
+    {
+      "kind": "substitution",
+      "subject": "העולם",
+      "rationale": "'ymaitéguigua' (jo'a ko'ẽ yma guive) — hebreo 'oamor' ha'e 'kañymba'e, araka'eve ndojehecháiva paha'.",
+      "sub": ""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור ודור",
+      "rationale": "Ñemoñare ha ñemoñare — iñe'ẽjoja ñembohapeáva hebreo-pe (dor va-dor)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד שני דור ודור",
+      "rationale": "Ary kuéra ñemoñare ñemoñare peve — aravo'ỹ mo'ãha'ã."
+    },
+    {
+      "kind": "elision",
+      "subject": "עם רב ועצום",
+      "rationale": "Tetã tuicháva ha ipu'akáva — araka'eve 'ejército' térã 'ñorairõhára aty' nojehai; ha'e 'tetã' (am) hebreo ipúpe."
+    }
+  ],
+  "translation": "Ára pytare'ỹ ha pyharepytéva, ára arahasáva ha pytũetáva, ko'ẽngue oipe'a háicha yvyty ári: peteĩ tetã tuicháva ha ipu'akáva; ndaipóri ha'égui ko'ẽ ymaitéguigua, ha hapykuéri ndojemoĩvéima, ary ñemoñare ha ñemoñare ary peve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "11f2f3d2fbddbde0bd6ed502da46b2744c4d4cbec25bd7247d53f634c7d1c06e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joel\/2\/2-2.1791266718241.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pytare'ỹ"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ha pyharepytéva"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "arahasa"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ha pytũetáva"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "ko'ẽngue háicha"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "oipe'a"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tetã"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tuicháva"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ha ipu'akáva"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ha'égui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ko'ẽ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ymaitéguigua"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ha hapykuéri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ojemoĩvéima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ary"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ha ñemoñare"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:18.243506544Z",
+  "model": "glm-5.3"
+}

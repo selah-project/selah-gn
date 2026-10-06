@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הידד",
+      "rationale": "heʼisaʼyreĩ — the vintage-shout, a rare word appearing only a handful of times, always of grape-harvest acclamation"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידרך\/הדרך",
+      "rationale": "infinitive and participle of the same verb 'to tread' juxtaposed — 'tread shall the treader' — a repetition flattened in translation"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yva",
+      "rationale": "יין is fermented wine; rendered as 'yva' (grape\/fruit juice) following the harvest-pressing context"
+    }
+  ],
+  "translation": "Oñembyaty vyʼa ha mbovyʼaiterumi karañuʼã guive, ha yva kaʼaguýpe nendajaʼéi purahéi, ndajaʼéi joaju joʼasaʼyreĩ; yva nendahẽi ijyképe ojahẽvaʼekue haperãme — ojahẽhára; heʼisaʼyreĩ añuʼã aikuaa",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5549e190e1d1e93273a84fa172efa549f088e41345db0780f859ebd9a6a70ece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/16\/10-10.1791266498615.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vyʼa"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "mbovyʼaiterumi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "karañuʼã"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "yva kaʼaguýpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "jaʼéi purahéi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "jaʼéi joaju joʼasaʼyreĩ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "yva"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "ijyképe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "hahẽi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ojahẽvaʼekue haperãme"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "heʼisaʼyreĩ"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "añuʼã aikuaa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:38.616484711Z",
+  "model": "glm-5.3"
+}

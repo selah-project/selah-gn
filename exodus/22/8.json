@@ -1,0 +1,168 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 22:8",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "האלהים\/אלהים in this legal context: 'God' (JPS) vs 'judges' (KJV, following ancient interpretation); kept as Elohim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שניהם\/שנים",
+      "rationale": "'both of them' and 'double' share the root שנם\/two — the two parties and the twofold payment echo each other, lost in Guaraní."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mokõi",
+      "rationale": "Verse fixes a twofold restitution penalty — a counted legal measure."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי הוא זה",
+      "rationale": "'that it is he\/this is it' — the claimant's declaration of identification, rendered compactly as 'kóva haʼe'."
+    }
+  ],
+  "translation": "Opa mbaʼe javy rehegua — vaka rehe, mburika rehe, ovecha rehe, aoho rehe, opa mbaʼe oñembyaíva rehe — peteĩ oheʼíva: kóva haʼe ⟨kóva⟩, mokõive ñeʼẽ oguerahata Elohim renondépe; pe Elohim oiméramo oĩ javýpe, omeʼẽta mokõi iñirũme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "75146bd4194e1301939b68ba0039ba947c644b476b9fd5a29dbc3a72c35ea0c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/22\/8-8.1791266033028.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "javy"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "mburika"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "aoho"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "mbaʼe oñembyaíva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oheʼíva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "oguerahata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ירשיען",
+      "gloss": "oĩ javýpe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "iñirũme"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:53.029270218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 6:1",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tapiʼi",
+      "rationale": "החומה haʼe tapiʼi ñemoñareíva, tapiʼi ñangarekóva; tapiʼi año oheja pe mbaʼe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iñembyasyrã",
+      "rationale": "פרץ heʼise paʼũ térã kyhyjerã; iñembyasyrã ojapo pe taʼãngarã mbyaiguáva"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hikuái⟩",
+      "rationale": "hebreo ndorekói ñeʼẽpehẽ teekojoja; avañeʼẽ oikotevẽ ohechauka hag̃ua hetaiterei"
+    },
+    {
+      "kind": "elision",
+      "subject": "העמדתי",
+      "rationale": "hebreo haʼe 'che ajepo añetehápe' (amopuʼã okẽnguéra oiko hag̃ua hikuái pykuépe); amoĩ ojehai pe mbaʼe apopyrépe"
+    }
+  ],
+  "translation": "Oiko, upearí oñehendáva Sanbalat, Tobia, Guechem — aravegua — ha ore ñorãirõhára itavyvéva rehe, ajapo hague ⟨את⟩ pe tapiʼi, ha ndaipóriha oĩ hyepýpe iñembyasyrã; upéicha avei, pe arange haʼéva peve, okẽnguéra nahaniri amoĩ vaʼekue umi jeikehápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "744da1927f7f4af5648a033ffa4db7921442ae1432094e1c5bd625600bc5f089",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nehemiah\/6\/1-1.1791267051943.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upearí"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "oñehendáva"
+    },
+    {
+      "surface": "לסנבלט",
+      "gloss": "Sanbalat"
+    },
+    {
+      "surface": "וטוביה",
+      "gloss": "Tobia"
+    },
+    {
+      "surface": "ו לגשם",
+      "gloss": "Guechem"
+    },
+    {
+      "surface": "הערבי",
+      "gloss": "aravegua"
+    },
+    {
+      "surface": "וליתר",
+      "gloss": "ha ⟨hikuái⟩ itavyvéva"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ore ñorãirõhára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼéha"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tapiʼi"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "pe tapiʼi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "oĩmba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hyepýpe"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "iñembyasyrã"
+    },
+    {
+      "surface": "גם",
+      "gloss": "upéicha avei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "העת",
+      "gloss": "pe arange"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "okẽnguéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahaniri"
+    },
+    {
+      "surface": "העמדתי",
+      "gloss": "amoĩ vaʼekue"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "umi jeikehápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:51.948153131Z",
+  "model": "glm-5.3"
+}

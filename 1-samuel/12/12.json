@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 12:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלככם",
+      "rationale": "'Jahve your Elohim was\/is your king' — past (KJV) vs present rebuke (YL T 'is your king'); avañeʼẽ uses present with ningo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mburuvicha",
+      "rationale": "מלך rendered mburuvicha (chief\/ruler), the standard avañeʼẽ office term"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך\/ימלך\/מלככם",
+      "rationale": "Threefold root מלך repetition — man's king vs YHWH as king — preserved by repeating mburuvicha"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (first)",
+      "rationale": "'that\/when' conjunction folded into mbaʼéichapa; Hebrew discourse marker has no standalone avañeʼẽ form"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Samuel addresses Israel directly, second person plural throughout (pe-…)"
+    }
+  ],
+  "translation": "Ha pehecha Najash, Amón mitãnguéra mburuvicha, ou haʼehague peendive, ha peʼí chéve: Nahániri, mburuvicha oisãmbyhy vaʼerã ore ári; ha Jahve, pe Elohim, ningo pe mburuvicha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "22a70145c7adf70801b21a9b34f94ff942f53703e61092ad767066902dddc086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/12\/12-12.1791266321744.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼéichapa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Najash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peendive"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "peʼí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nahániri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaʼerã"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "oisãmbyhy"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore ári"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ha Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "pe mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:41.745313616Z",
+  "model": "glm-5.3"
+}

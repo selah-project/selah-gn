@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oiko chugui mbaʼe vai",
+      "rationale": "טָמֵא (tame) heʼise jepeparate ojeporu vaʼerãʼỹha Tupã reheguápe g̃uarã; avañeʼẽme ndaipóri ñeʼẽ ojueheguáva."
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Hebreo ndorekói copula; avañeʼẽ omoneĩ ko'ãĝa rehegua añóteko, upévare Kóva haʼe Tora ndoguerekói «haʼe»."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pokõi ára",
+      "rationale": "Yma ára papapy porã — šivʿat yamim — ohechauka kirirã aravo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "óga guatape",
+      "rationale": "אֹהֶל ikatu haʼe «toldo» térã «óga puku»; ñeʼẽ «óga guatape» ohechauka mbaʼe oikóva."
+    }
+  ],
+  "translation": "Kóva Tora: yvypóra omano rire óga guatape iñapytĩ rupi, mayma ouva óga guatapépe ha mayma oĩva ipype, oiko chugui mbaʼe vai pokõi ára.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "97ab267a8648e2730d7329cbd98dac499c176292198707b3e9704ac4e9c97176",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/19\/14-14.1791266092939.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "omano"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "óga guatape iñapytĩ rupi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mayma"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ouva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—pe"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "óga guatape"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha mayma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "oiko chugui mbaʼe vai"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:52.939804715Z",
+  "model": "glm-5.3"
+}

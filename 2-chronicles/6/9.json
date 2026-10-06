@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atukupe",
+      "rationale": "מחלצים 'loins' — avañeʼẽme ojehaíva atukupe, tekove-puʼaka rendaite"
+    },
+    {
+      "kind": "addition",
+      "subject": "g̃uarã",
+      "rationale": "לְ prep. 'g̃uarã' rehegua; avañeʼẽ oikotevẽ mboypy"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Jahve ñeʼẽ oñemboja Davípe — 'nde', 'nde raʼy'"
+    }
+  ],
+  "translation": "Emoñepyrũrãnte nde — nde ndojapomoʼãi hógape; nemongaruʼírõ, nde raʼy osẽva nde atukupegui, haʼe hógape che rérape g̃uarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b6938c4ca0c8e7aaa38440394f2c243259e4006f3b042aeeb0f1d412ea0c3975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/6\/9-10.1791267134419.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "emoñepyrũrãnte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…moʼãi"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ojapomoʼãi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hógape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nemongaruʼírõ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nde raʼy"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "osẽva"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "nde atukupegui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hógape"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "che rérape g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:14.420320443Z",
+  "model": "glm-5.3"
+}

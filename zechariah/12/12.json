@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "imbaʼekuéra",
+      "rationale": "ונשיהם 'kuñanguéra' oguerekóma posehépe; 'imbaʼekuéra' oñembojoaju hekopete hag̃ua"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבד ×4",
+      "rationale": "לבד ñembojehejajey ñepyrũrã (iñakãritee) ohechauka mbykyha ojuehegui oiko vaʼerãha"
+    }
+  ],
+  "translation": "Ha yvy oñembyasy, ñemoñare ñemoñare rehegua iñakãritee: ñemoñare David óga iñakãritee, ha imbaʼekuéra kuñanguéra iñakãritee; ñemoñare Natan óga iñakãritee, ha imbaʼekuéra kuñanguéra iñakãritee.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8acd040e4a424253ae3df0122b9dc869a88c878a0f76c9391763282b9c096820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/zechariah\/12\/12-12.1791266701397.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "ha oñembyasy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ñemoñare rehegua"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "iñakãritee"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "iñakãritee"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ha imbaʼekuéra kuñanguéra"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "iñakãritee"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "iñakãritee"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ha imbaʼekuéra kuñanguéra"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "iñakãritee"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:01.397723956Z",
+  "model": "glm-5.3"
+}

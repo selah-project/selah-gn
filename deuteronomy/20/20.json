@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד רדתה",
+      "rationale": "'hógue peve' — 'until it falls\/descends'; KJV 'until it be subdued' lee 'hasta someterla', ASV\/JPS 'until it fall' leen literal."
+    },
+    {
+      "kind": "elision",
+      "subject": "עשה עמך מלחמה",
+      "rationale": "hebreo literal 'ojapo ñorãirõ nde ndive' — oñembojoapy peteĩ ñeʼẽpe: oñorãirõva nde rehe."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצור",
+      "rationale": "mácho ojeporu tape atýpe; 'jokoha' ohai pe mbaʼe ojokóva táva."
+    }
+  ],
+  "translation": "Aniete yvyra, ne ikatúva reikuaa haʼeha yvyra ndahaʼéiva karaguaʼu, koʼã ⟨את⟩ rembyaíta ha rekóita; ha upéi remopuʼãta jokoha táva rehe, oñorãirõva nde rehe, hógue peve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9dc82383ce20b4787596541da57a8084d550e48cbfb3ea5c921f4be7b3f97019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/20\/20-20.1791266181320.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "aniete"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéiva"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "karaguaʼu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yvyra karaguaʼuʼỹva"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "rembyaíta"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "rekóita"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "remopuʼãta"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "jokoha"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñorãirõva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "hógue"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:21.321921977Z",
+  "model": "glm-5.3"
+}

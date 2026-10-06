@@ -1,0 +1,155 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 2:14",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אל יד",
+      "rationale": "Hebreo 'yvyrápe\/ypýpe' (pópe = custody) — avañeʼẽme 'pópe' ohai literal, heʼiséva ñangareko."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונקראה בשם",
+      "rationale": "'Oñehenói héra rupi' — hebreo idiom oheʼíséva mburuvicha ohenóiramo chupe terã teépe (KJV 'called by name'), ndahaʼéi herarã año."
+    },
+    {
+      "kind": "crux",
+      "subject": "שני",
+      "rationale": "'mokõiha' — oñemoñeʼẽ 'rogamokõiha' (segunda casa de las mujeres) térã 'jey' (adverbio 'otra vez'); YLT ha KJV oiporare 'second house'."
+    }
+  ],
+  "translation": "Kaʼarupýpe haʼe ou, ha koʼẽtũme haʼe ojevy kuña róga mokõiháme, Shaachgaz pópe, mburuvicha saris, pilegush kuéra ñangarekohára ypýpe; ndouvéi ou mburuvichápe, mburuvicha oipotáramo guánte chupe ha oñehenói héra rupi.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9a7525d2580947c97efaf55eb21df026fe03a492800067a1c1b0a3b69e789dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/esther\/2\/14-14.1791266926589.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בערב",
+      "gloss": "kaʼarupýpe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ha koʼẽtũme"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kuña kuéra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "שעשגז",
+      "gloss": "Shaachgaz"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saris"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "הפילגשים",
+      "gloss": "pilegush kuéra rehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "véi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "úrõ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "guánte"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ונקראה",
+      "gloss": "ha oñehenói"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "héra rupi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:46.594128291Z",
+  "model": "glm-5.3"
+}

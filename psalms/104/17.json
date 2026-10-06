@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "Yvra réra ndojeikuaaporãiva: 'ciprés' (BSB), 'pinabo' (KJV), 'enebro' — aipo peteĩ yvyra hatãva Líbano-gua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jasuka",
+      "rationale": "חסידה heʼiséva 'guyra ipochy rehechakuaáva' — jasuka réra ojeporu he'iséva guyra."
+    },
+    {
+      "kind": "addition",
+      "subject": "haʼe",
+      "rationale": "Copula hebreo ikane'õva, oñemoĩ avañeʼẽme ⟨haʼe⟩-rã."
+    }
+  ],
+  "translation": "Upépe guyrakuéra ojapo hikuái hoguéra; pe jasuka guyra — brósh yvyra haʼe hógã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "947889046ebfe087ba970e3d1c69a378b776465d086cafc9d05c18a848ccb210",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/104\/17-18.1791266789500.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upe kotýpe"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "guyrakuéra"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "ojapo hikuái hoguéra"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "jasuka guyra"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "brósh yvyra"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hógã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:29.503504874Z",
+  "model": "glm-5.3"
+}

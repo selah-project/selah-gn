@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 3:29",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yvyrápe",
+      "rationale": "ירך ndahaʼéi 'yvyra añete' — hebreo oiporu 'yvyra puku' heʼisévo tenda yke; avañeʼẽme ojehai peteĩ ñeʼẽteéramo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hóga⟩",
+      "rationale": "Hebreo heʼínte 'Michkan yvyrápe'; avañeʼẽ oikotevẽ mbaʼe oñemohendáva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "okaruʼã",
+      "rationale": "חנה haʼe 'ope pytuʼu ha omoĩ hóga'; okaruʼã avañeʼẽ mbaʼe ojuehegua"
+    }
+  ],
+  "translation": "Kehat raʼýkuéra ñemoñare okaruʼã ⟨hóga⟩ Michkan yvyrápe, ñemby gotyo.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0d2632f6155af0f0c856c903f34ed71864ad4534b3bb5a6e9f86a226fdfd5f6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/3\/29-29.1791266082031.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "okaruʼã"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yvyrápe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ñemby gotyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:42.031661175Z",
+  "model": "glm-5.3"
+}

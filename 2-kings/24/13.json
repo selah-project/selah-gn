@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 24:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Nebukadnetsar",
+      "rationale": "Hebrew has no explicit subject; verb prefix implies the king of Bavel from verse 12."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oikutu vorevore",
+      "rationale": "ויקצץ is literally 'chopped\/cut off' — 'cut in pieces' in most versions; avañe'ẽ uses 'oikutu vorevore' (split into shards)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אוצרות...אוצרות",
+      "rationale": "Repetition of 'treasures' for house of Jahve and house of the king — deliberate parallelism."
+    }
+  ],
+  "translation": "Ha oga'u guive ou upeygua hogagui opaite mba'eporãnguéra oĩva Jahve óga ryepýpe, ha opaite mba'eporãnguéra oĩva mburuvicha óga ryepýpe; ha oikutu vorevore opaite kuarapeguare mba'era'ã ojapo Shelomo, Jisrael mburuvicha, Jahve óga guasúpe — ha'eicha oñe'ẽ hague Jahve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "689b6c96d0d140faf69e59f864967b03fbb60752d87cf2e591b836b2db5f2066",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/24\/13-13.1791266518053.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ou upeygua hogagui"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upe ygua guive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'eporãnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "mba'eporãnguéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואוצרות",
+      "gloss": "ha opaite mba'eporãnguéra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha pegua"
+    },
+    {
+      "surface": "ויקצץ",
+      "gloss": "oikutu vorevore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite kuarapeguare mba'era'ã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mba'era'ã"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuarapeguare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo hague"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "óga guasúpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha'eicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñe'ẽ hague"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:58.054962098Z",
+  "model": "glm-5.3"
+}

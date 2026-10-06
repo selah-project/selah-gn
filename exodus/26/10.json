@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 26:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שפה",
+      "rationale": "Hebreo 'ijape' (joyvy'ã) — avañe'ẽme 'hova puku'ópe' (yvate gotyo) ojekuaa porãve haguã pe mba'e."
+    },
+    {
+      "kind": "measurement",
+      "subject": "poapypa takuru`i karanda`y",
+      "rationale": "Ojepapa takuru`i karanda`y — mba'e'oka jejapo."
+    },
+    {
+      "kind": "crux",
+      "subject": "הקיצנה החברת",
+      "rationale": "Pe jehai oraha hag̃ua oimeraẽ mba'e ojoajuva'ekue rehe; KJV omoambue 'pe ojoajuva'ekue mokõihape' oikuaa'ỹvo pe ñe'ẽ."
+    }
+  ],
+  "translation": "Ha upéi rejapóta poapypa takuru`i karanda`y iñemohendápe hova puku'ópe, pe oĩva iñakatúpe joapyrãme; ha upéicha avei poapypa takuru`i karanda`y iñemohendápe hova puku'ópe, pe oĩva mokõiha joapyrãme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e9a48fbb683e25c4f3b26fb16e78f58f04951cb29804ccf749515ea8876a818f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/26\/10-10.1791266024312.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "poapypa"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "takuru`i karanda`y"
+    },
+    {
+      "surface": "על",
+      "gloss": "iñemohendápe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "hova puku'ópe"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "hova puku'ógui"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "peteĩva"
+    },
+    {
+      "surface": "הקיצנה",
+      "gloss": "iñakatúpe"
+    },
+    {
+      "surface": "בחברת",
+      "gloss": "joapyrãme"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "poapypa avei"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "takuru`i karanda`y"
+    },
+    {
+      "surface": "על",
+      "gloss": "iñemohendápe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "hova puku'ópe"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "hova puku'ógui"
+    },
+    {
+      "surface": "החברת",
+      "gloss": "oĩva joapyrãme"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "mokõiha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:44.313447371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guyra juka",
+      "rationale": "יקוש literally 'the entangled one \/ fowler's snare'; rendered as bird-catcher to keep the hunting picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוות",
+      "rationale": "destruction\/desire\/ruin — rendered 'mbaʼeguaru' (great loss); some read 'deadly' as adjective with מדבר"
+    }
+  ],
+  "translation": "Upéicha haʼe omongakirupíta nde guyra jukára jeguapyha apytégui, mbaʼasy mbaʼeguarúgui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "80835f70e37000ff6029b2d1361f2e9ee6ff3a20a5069d7d91ed07944fc3547b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/91\/3-4.1791266798605.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "omongakirupíta nde"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "jeguapyha apytégui"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "guyra jukára rehegua"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mbaʼasy"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mbaʼeguaru"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:38.612619248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 34:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Mokõi mbaʼe joavypyre avañeʼẽme noikotevẽi pe ñeʼẽjoaju joajuháa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "techaukaha",
+      "rationale": "האתות haʼe techaukaha — senãl, jehechauka; ndahaʼéi 'milagro' añónte."
+    }
+  ],
+  "translation": "Opaite umi techaukaha ha umi mbaʼe guasu ijavypáva, omondo Jahve chupe ojapo haguã Mitsraim yvýpe, Parao rehe, opaite ijembiaporãvape ha opaite i yvýre.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "17922f53c1066aafe803757783fe8c7031c85e2e3335ff95980e6c5c0ad49395",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/34\/11-11.1791266240369.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "umi techaukaha"
+    },
+    {
+      "surface": "והמופתים",
+      "gloss": "ha umi mbaʼe guasu ijavypáva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "omondo chupe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapo haguã"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parao rehe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ijembiaporãva"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "i yvýre"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:20.371727631Z",
+  "model": "glm-5.3"
+}

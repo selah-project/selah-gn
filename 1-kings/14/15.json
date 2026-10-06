@@ -1,0 +1,159 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 14:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Acherá raʼãngakuéra",
+      "rationale": "אשריהם: 'Acherá raʼãngakuéra' (imágenes de Acherá) vs KJV 'groves' vs ASV\/JPS 'Asherim'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kaʼare ojereháicha y ryepýpe",
+      "rationale": "Simil hebreo: Jisrael opututaháicha kaʼare rejereháicha y ryepýpe — inestabilidad total."
+    },
+    {
+      "kind": "addition",
+      "subject": "hikuái",
+      "rationale": "Plural persona marcorã oñemoĩva'ekue, hebreo ndorekói."
+    }
+  ],
+  "translation": "Jahve oputu ⟨את⟩ Jisrael, kaʼare ojereháicha y ryepýpe; ha oipeʼu ⟨את⟩ Jisrael ko yvy porã mbytégui, haʼéva omeʼẽ hague iñakuãmeʼẽkuérape, ha ohesaʼỹi hikuái ypa guasu ambue yképe, upévare ojapo hikuái ⟨את⟩ umi Acherá raʼãngakuéra, omboʼypy hague ⟨את⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "15a8132fc88e6003114152d181a66d6c5154987994311af696f941b32fb5fb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/14\/15-15.1791266447020.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "oputu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojereháicha"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "הקנה",
+      "gloss": "kaʼare"
+    },
+    {
+      "surface": "במים",
+      "gloss": "y ryepýpe"
+    },
+    {
+      "surface": "ונתש",
+      "gloss": "oipeʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mbytégui"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "porã"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ hague"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "iñakuãmeʼẽkuérape"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "ohesaʼỹi hikuái"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ambue yképe"
+    },
+    {
+      "surface": "לנהר",
+      "gloss": "ypa guasu"
+    },
+    {
+      "surface": "יען",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼéva"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapo hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi Acherá raʼãngakuéra"
+    },
+    {
+      "surface": "אשריהם",
+      "gloss": "umi Acherá raʼãngakuéra"
+    },
+    {
+      "surface": "מכעיסים",
+      "gloss": "omboʼypy hague"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:47.021516812Z",
+  "model": "glm-5.3"
+}

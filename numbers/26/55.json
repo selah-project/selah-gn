@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chova",
+      "rationale": "גורל is literally a pebble used for drawing lots; 'chova' loses the stone image"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלק\/ינחלו",
+      "rationale": "root-play of 'divide' (חלק) and 'inherit' (נחל) in one verse, lost in Guarani"
+    },
+    {
+      "kind": "measurement",
+      "subject": "allotment",
+      "rationale": "the verse governs apportioning land by lot — an act of counting and dividing"
+    }
+  ],
+  "translation": "Añetehápe, chovape ojesareko ha oñemboja'o ⟨את⟩ yvy: umi itúva kuae tetãnguéra réra reheve ojapyhy jaha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8f16a8e812ad86715319a779346823bf61a99358d6835238d9071110a8fc9839",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/26\/55-55.1791266165043.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Añetehápe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "chovape"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "oñemboja'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "rera reheve"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "itúva kuae"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ojapyhy jaha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:05.045022437Z",
+  "model": "glm-5.3"
+}

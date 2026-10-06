@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 24:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ההצליח",
+      "rationale": "'push forward' — 'made prosperous his way' vs 'made his way succeed'; avañeʼẽ oiporavo porã hembiguái."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mחריש",
+      "rationale": "Tyrupi 'engrave\/scratch' ikatu hagua; ko'ápe he'ise cheno, upévare oñembohasa cheno."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ojeruru chupe",
+      "rationale": "ASV\/JPS 'looked stedfastly' — משתאה ikatu he'ise 'ojesareko porã chupe' hapéicha, 'astonished' rangue."
+    }
+  ],
+  "translation": "Ha pe kuimbaʼe ojeruru chupe, cheno, oikuaa hag̃ua Jahve oiporavo porãpa hembiguái térã nahániri.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f4028a9267f2c2c4b7fc0f3b57e677dd3f515836fa41a557a90c99c7f53a5239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/24\/21-22.1791265955455.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Ha pe kuimbaʼe"
+    },
+    {
+      "surface": "משתאה",
+      "gloss": "ojeruru"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "cheno"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "oikuaa hag̃ua"
+    },
+    {
+      "surface": "ההצליח",
+      "gloss": "oiporavo porã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hembiguái"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:35.456129374Z",
+  "model": "glm-5.3"
+}

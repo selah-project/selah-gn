@@ -1,0 +1,207 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 38:4",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מרפא את הידים",
+      "rationale": "'omombegue po' — literal 'slackens the hands' = discourages; avañeʼẽ keeps the hand-picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "porque",
+      "rationale": "כי rendered as 'porque' (castellano borrowing common in avañeʼẽ usage) for the causal conjunction"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשלום",
+      "rationale": "שלום as 'reko porã' (welfare\/peace), not merely absence of war"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Hebrew restrictive pair 'ki im' = 'but rather'; 'sino' carries it, אם glossed empty"
+    }
+  ],
+  "translation": "Ha umi mburuvicha heʼi mburuvichaguasupe: Teko-joja haʼeháicha, omanopa ta ko kuimbaʼe, porque upéicha haʼe omombegue ⟨את⟩ po umi ñorãirõhára kuéra oĩmava ko távape, ha ⟨את⟩ opavavete tetãygua po, oñeʼẽ hikuái hese koʼã ñeʼẽ rehegua; porque ko kuimbaʼe ndahaʼéi oheka porãvy ko tetãygua kuéra reko porãrã, ñemoñeʼẽ año.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "74df16c073b56864a7169a39dd6d49cf88d8648d179b9821fd2e012e5e6e8019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/38\/4-4.1791266588692.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "umi mburuvicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvichaguasu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "omanopa ta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teko-joja haʼeháicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko kuimbaʼe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ko kuimbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "על",
+      "gloss": "ápe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "omombegue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "po"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "po"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "umi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "oĩmava"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "távape"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "po"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavavete"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãygua kuéra"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "oñeʼẽ hikuái hese"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chukuéra rehe"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "koʼã ñeʼẽ rehegua"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "reko porãrã"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tetãygua kuéra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ñemoñeʼẽrã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:08.694459835Z",
+  "model": "glm-5.3"
+}

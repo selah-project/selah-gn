@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Hebrew כי here justifies the clause; no single Guarani word carries it, so it is folded into the sentence flow."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גבורי חיל",
+      "rationale": "literally 'powerful ones of force\/valour'; rendered as one quality phrase ipu'akapaitéva rather than two nouns."
+    },
+    {
+      "kind": "you",
+      "subject": "narrative continuation",
+      "rationale": "Verse continues the list addressed to the exilic reader of Chronicles, describing who came to David."
+    }
+  ],
+  "translation": "Ha umíva oipytyvõ David rehe hoko'ãme, ⟨את⟩ pe aty ñorãirõhára ári, che ñe'ẽme'ẽ ndaipóri — upéicharamo jepe, ha'e kuera oipytyvõ David-pe pe ñorãirõ aty rehe, umi ipu'akapaitéva apytépegui, opaite ha'e kuéra, ha oiko chuguéra ikatuha va'ekue ñorãirõhára atýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "2aacaf599fc5d328b98ed4c4dfddac0654bc04e80cf8f55599202338a46541b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/12\/22-22.1791267116680.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ha umíva"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "oipytyvõ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "aty ñorãirõhára"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ipu'akapaitéva"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pu'aka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opaite ha'e kuéra"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha oiko chuguéra"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ikatuháva"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "ñorãirõhára atýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:56.681244232Z",
+  "model": "glm-5.3"
+}

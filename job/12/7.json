@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 12:7",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rehe",
+      "rationale": "Hebrew lacks a preposition on בהמות; avañeʼẽ needs 'rehe' to mark the thing asked about"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ombo'éta",
+      "rationale": "ותרך from ירה, literally 'throw\/flow (like water)', here 'teach' — the water image is lost"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Job",
+      "rationale": "Imperatives שאל and נא summon the addressee to question the animals directly"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותרך",
+      "rationale": "Some read 'let them teach you' (from ירה II) vs 'they will correct\/instruct you'; chosen: teach"
+    }
+  ],
+  "translation": "Upéicharamo jepe, ejerure ko'ág̃a mymbakuéra rehe, ha ombo'éta ndéve; ha guyrakuéra yvágagua, ohechaukáta ndéve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0bba1091cf56c1dbc59e71c9b60c147a190a0b63ecdb2576e28e27c6f6ca481a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/job\/12\/7-7.1791266840542.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Upéicharamo jepe"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ejerure"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mymbakuéra"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "ombo'éta ndéve"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "guyrakuéra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágagua"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ohechaukáta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:20.546174030Z",
+  "model": "glm-5.3"
+}

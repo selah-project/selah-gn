@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Upévare",
+      "rationale": "Hebrew has no connective here; supplied to link the two clauses"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mburuvicha",
+      "rationale": "מלך is 'king'; rendered with the common avañeʼẽ word for ruler"
+    }
+  ],
+  "translation": "Ha Jehochafat heʼi: Jahve ñeʼẽ oĩ ⟨את⟩ hendive. Upévare Jisrael mburuvicha, Jehochafat ha Edom mburuvicha ohogue huʼã hendápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ab7d7e093b90fa6fd928bc5259826a4a5350bdb014ca29799d6f231ac2af467b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/3\/12-12.1791266389516.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehochafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hendive",
+      "marks": "Jahve ñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ohogue huʼã"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Jehochafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:49.517578911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 3:13",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "peteĩ ára año, pakõi jasy, mokõipa mokõi jasy",
+      "rationale": "The verse dates the decree precisely: one day, the thirteenth of the twelfth month (Adar)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הרצים",
+      "gloss-note": null,
+      "rationale": "'The runners' is the Hebrew term for royal couriers, rendered as 'pyaʼe ohóva \/ umuñãva' (those who run swiftly) rather than a postal office."
+    }
+  ],
+  "translation": "Ha kuatiañeʼẽ oñemondo pyaʼe ohóvape, opaite mburuvicha guasu tavakuairetãme, oñembyai hag̃ua, oñemeʼẽ hag̃ua teʼõngue ha oñehundí hag̃ua ⟨את⟩ opaite hudío, mitã guive tuja peve, mitãʼí ha kuña, peteĩ ára año — pakõi jasy ára jave, mokõipa mokõi jasy, haʼehína Adar jasy — ha imbaʼeeta oñemondaselo hag̃ua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f319f9e8f8c247900b6a4d5ea5b6bec31578b8214e361223a860fcfe34c51675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/esther\/3\/13-13.1791266934138.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשלוח",
+      "gloss": "oñemondo"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pyaʼe ohóvape"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "umuñãva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "tavakuairetã"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu mbaʼépe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "oñembyai hag̃ua"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "oñemeʼẽ hag̃ua teʼõngue"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "ha oñehundí hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite hudío"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "hudío"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "mitã guive"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tuja"
+    },
+    {
+      "surface": "טף",
+      "gloss": "mitãʼí"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "ha kuña"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "peteĩ ára"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "año"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ára jave"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasy ára jave"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõipa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼehína"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ושללם",
+      "gloss": "ha imbaʼeeta"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "oñemondaselo hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:54.143919769Z",
+  "model": "glm-5.3"
+}

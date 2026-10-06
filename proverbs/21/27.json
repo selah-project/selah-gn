@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jahve-pe",
+      "rationale": "hebreo ndojeʼéi mávape oñemomorãha pe juka-jopói"
+    },
+    {
+      "kind": "crux",
+      "subject": "בזמה",
+      "rationale": "zimmah: 'iñeʼẽmeʼẽ vaí' (jeporo) vs JPS 'ovendéva mbaʼe vai guive' (zimma,mano) — KJV\/Geneva 'mente malvada'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "juka-jopói",
+      "rationale": "זבח haʼe mymba juka ha upégui oikóva jopói, ndahaʼéi jopói añónte"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף כי",
+      "rationale": "a fortiori rape — 'mbaʼéichapa upéicha aguapeve' — avañeʼẽme ndaipóri peteĩ ñeʼẽpehẽ ojueheguáva"
+    }
+  ],
+  "translation": "Umi ndaijaʼéiva juka-jopói ⟨pe⟩ ichuguai peve Jahve-pe; mbaʼéichapa upéicha aguapeve, oguerúramo iñeʼẽmeʼẽ vaípe ⟨ichuguai⟩!",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "679136356765fec0089e512c02a0caeef136f3bf8240077183567f78bf88d034",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/21\/27-27.1791266830512.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "juka-jopói"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ndaijaʼéiva"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ichuguai peve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aguapeve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaʼéichapa upéicha"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "iñeʼẽmeʼẽ vaípe"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "oguerúramo ⟨ichuguai⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:10.515612037Z",
+  "model": "glm-5.3"
+}

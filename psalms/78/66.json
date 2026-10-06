@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Salmo 78 addresses Israel retelling history, direct summons in v.1"
+    },
+    {
+      "kind": "substitution",
+      "subject": "opaite ára",
+      "rationale": "עולם is 'concealed\/vanishing point', long indefinite duration, not literally 'eternal'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחור\/חרפת",
+      "rationale": "striking 'backward' paired with 'disgrace', the shame is put on the retreating foes; lost in Guaraní"
+    }
+  ],
+  "translation": "Ha ombojoka ichupekuéra iñakã gotyo umi vaíva rehe, Jahve omeʼẽ chupekuéra chekojahy opaite ára.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e586cd6a9665be7e37403051208f0913f294ac31140cdd28db9acb9db5486bb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/78\/66-66.1791266754106.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ombojoka ichupekuéra"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "umi vaíva rehe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "iñakã gotyo"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "chekojahy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opaite ára"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:54.109703462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 33:26",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישרון",
+      "rationale": "KJV 'God of Jeshurun' vs ASV\/JPS 'O Jeshurun' — construct or vocative; orejapo hikuái kóva tenda ñeʼẽpukúramo (Jechuren)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמים \/ שחקים",
+      "rationale": "Mokõi ñeʼẽ yvagáreigua ojoysyvéva paralelismo-pe; avañeʼẽme g̃uarã jaiporu mokõi ñeʼẽ yvagáreigua ani peteĩnteramo."
+    },
+    {
+      "kind": "addition",
+      "subject": "orejapo hikuái",
+      "rationale": "Hebreo ndoguerekói mbohapyhápe ñeʼẽpehẽ (pronoun) 'who rides' heʼiséva; avañeʼẽme oñemohendavaʼerã ⟨orejapo hikuái⟩ ikatúramo jepe jaheja nandi."
+    }
+  ],
+  "translation": "Ndaipóri El-ichagua, Jechuren; ovoha yvágare ndepytyvõrã, ha imandu'ápe chuguire umi yvagape'ánguéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e9bdc6e0eb10ecf1c49e54ff4defaed405c8a65c1ef2e08866c6e14b177b735e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/33\/26-26.1791266232003.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "El-ichagua"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "Jechuren"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ovoha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yvágare"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "ndepytyvõrã"
+    },
+    {
+      "surface": "ובגאותו",
+      "gloss": "ha imandu'ápe chuguire"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "umi yvagape'ánguéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:12.007732235Z",
+  "model": "glm-5.3"
+}

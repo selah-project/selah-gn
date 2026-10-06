@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 7:9",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañeʼẽme tekomeʼẽ oñeikotevẽ, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ojerovicótáta ore rehe",
+      "rationale": "ונסבו heʼive «ojeroviyo ñande rehe», jerovicópe g̃uarã oñembohasa"
+    },
+    {
+      "kind": "you",
+      "subject": "Josué oñeʼẽ Jahve rehe",
+      "rationale": "Porandu ojapo Josué Jahve-pe ijára réra rehegua"
+    }
+  ],
+  "translation": "Ojavyʼýta hikuái pe kenahaníguarakuéra ha opaite yvy rekohára, ojerovicótáta ore rehe, ha oikutýta ⟨את⟩ ore réra yvygui; ha mbaʼépa rejapóta nde réra tuichaitévape g̃uarã?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8907f55660a98f428dc02c1429a28bfca9c0713f70bf6b49ffdba0a3b71089c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/7\/9-9.1791266235662.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ojavyʼýta hikuái"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "pe kenahaníguarakuéra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yvy rekohára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ונסבו",
+      "gloss": "ojerovicótáta ore rehe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "והכריתו",
+      "gloss": "oikutýta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore réra"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "ore réra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ha mbaʼépa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "nde réra"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "tuichaitévape g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:15.667493990Z",
+  "model": "glm-5.3"
+}

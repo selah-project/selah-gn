@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "umi",
+      "rationale": "Avañeʼẽ oikotevẽ ñemohenda ñeʼẽpa'ũ, hebreo ndorekói"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mba'e yguata",
+      "rationale": "הארון ha'e 'caja' rupi; avañeʼẽme 'arca' noĩri, upévare 'mba'e yguata' (Tora ryguata)"
+    },
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Hebreo arete ohóvo reínte; avañeʼẽ oikotevẽ kuatiañeʼẽ"
+    }
+  ],
+  "translation": "Ha opa Jisrael ruvichakuéra ou, ha umi pa'ikuéra ogueru ⟨את⟩ pe mba'e yguata.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "147594f9f4ab791b58a07cd7a6d63bd4d7fd6ce9d58745108b6480f0ff17b97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/8\/3-3.1791266389502.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ruvichakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "umi pa'ikuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mba'e yguata"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "pe mba'e yguata"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:49.503179175Z",
+  "model": "glm-5.3"
+}

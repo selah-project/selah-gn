@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 22:13",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nabi",
+      "rationale": "נביא ojehai nabi ramo, ndahaʼéi profeta (D2)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "פה אחד",
+      "rationale": "'peteĩ juru' — hebreo ñeʼẽ ohechauka ñomongeta ojueheguáva; avañeʼẽme ojekuaa porã péicha."
+    },
+    {
+      "kind": "you",
+      "subject": "to Micaiah",
+      "rationale": "Tavýa mbaʼejaipoha oñeʼẽ Mikaiahu pe, mbaʼejerure morotĩ."
+    },
+    {
+      "kind": "invitation",
+      "subject": "speak good",
+      "rationale": "Mbaʼejerure oñeʼẽ hag̃ua mbaʼe porã tavýape g̃uarã — pressure speech-act."
+    }
+  ],
+  "translation": "Ha mbaʼejaipoha oho vaʼekue ohenói haguã Mikaiahu, oñeʼẽ chupe heʼivoi: Ehecha ko, umi nabi ñeʼẽ peteĩ juru añópe iñpora ⟨mbaʼépe⟩ tavýape g̃uarã; toiko ko ne ñeʼẽ peteĩva ñeʼẽicha ha reñeʼẽ mbaʼe porã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e4d5b5b8133d8b6f53a1d73d7fe3f9491d2ea598d579c3ec632f7f282518e34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/22\/13-13.1791266425536.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלאך",
+      "gloss": "ha mbaʼejaipoha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ohenói haguã"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaiahu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼivoi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "umi nabi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "juru"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iñpora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨mbaʼépe⟩ g̃uarã"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tavýape"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "toiko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ne ñeʼẽ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ñeʼẽicha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩva"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "umuvaʼekuegui"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "reñeʼẽ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:25.538305406Z",
+  "model": "glm-5.3"
+}

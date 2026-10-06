@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שבע",
+      "rationale": "'Pokõi' (seven) — avaño'ẽ commonly counts seven as pokõi; sacred fullness of seven kept."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Emphatic 'and it came to pass' rendered briefly as 'ha oiko' — narrative connector."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven years",
+      "rationale": "The verse counts the end of the seven-year famine period."
+    }
+  ],
+  "translation": "Ha oiko pahávo pokõi ary, kuña ou jey Pelishtim retãgui, ha osẽ ohekávo ñeʼẽ mburuvicha rehe ióga ha itýre og̃uahĩse haguã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1c05850cbea768b55e7cf1396a97b5261654de0c94a842e234f93318e6f56fa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/8\/3-3.1791266423566.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pahávo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ary"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ou jey"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuña"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "retãgui"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "ohekávo ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "og̃uahĩse haguã"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ióga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:23.567859497Z",
+  "model": "glm-5.3"
+}

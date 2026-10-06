@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 3:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taʼãngupy",
+      "rationale": "חלום haʼe taʼãngupy — kerarãme jehecha, ndahaʼéi ñeʼẽ castellano 'sueño' ipyahúva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ñeʼẽmeʼẽ",
+      "rationale": "ברית oñembohasa 'ñeʼẽmeʼẽ' le剥离 D2icha, 'alianza' año nahániri"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jukapy",
+      "rationale": "עלות heʼiséva 'ojupíva' — soʼo jukaha Tupãme g̃uarã; 'holocausto' nahániri"
+    }
+  ],
+  "translation": "Chelomo oñesãi, ha kóicha — taʼãngupy; ou Jerusalaim-pe, opytuʼũ Adonai ñeʼẽmeʼẽ aronã renondépe, ojupi jukapy, ojapo ñarõguasu ha ojapo mboguapy opaite imbaʼapohára ranguarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "01a974ad8ff8fefd3cbc7121eae55d374489ce525fdcb50c6727f10896e9698f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/3\/15-15.1791266410689.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "oñesãi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Chelomo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha kóicha"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "taʼãngupy"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "opytuʼũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronã"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "jukapy"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ñarõguasu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mboguapy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imbaʼapohára"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:10.690060401Z",
+  "model": "glm-5.3"
+}

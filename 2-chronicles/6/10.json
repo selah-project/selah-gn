@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mburuvicha rugua",
+      "rationale": "כסא 'trono' — mburuvicha rugua, teko ipuʼakáva"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקם\/ואקום",
+      "rationale": "qum-qum mokõi jey — Jahve ojapo iñeʼẽ ha Salomón opuʼã: peteĩ ñeʼẽ, mokõi mbaʼe"
+    },
+    {
+      "kind": "addition",
+      "subject": "g̃uarã",
+      "rationale": "לְ prep. ojehecha Jahve réra ndive; avañeʼẽ oikotevē mboypy"
+    }
+  ],
+  "translation": "Ha Jahve ojapo ⟨את⟩ iñeʼẽ oñeʼẽvaʼekue ha che añepyrũ che ru Davíd rendápe, ha chemboʼapyahu Jisrael mburuvicha ruguápe, Jahve oñeʼẽ haguéicha; ha ajapo ⟨את⟩ hogape Jahve rérape g̃uarã, Jisrael Elohim.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b6938c4ca0c8e7aaa38440394f2c243259e4006f3b042aeeb0f1d412ea0c3975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/6\/9-10.1791267134419.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñeʼẽ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽvaʼekue"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "che añepyrũ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "chemboʼapyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mburuvicha ruguápe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "oñeʼẽ haguéicha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ajapo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hogape"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "rérape g̃uarã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:14.420671075Z",
+  "model": "glm-5.3"
+}

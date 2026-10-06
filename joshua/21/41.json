@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 21:41",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "paporundy poapypete",
+      "rationale": "Tavakuéra ojehaipa: 48, Levíta mbaʼéramo."
+    },
+    {
+      "kind": "addition",
+      "subject": "hína",
+      "rationale": "Hebreo ndorekói kopia; oñembojoaju hag̃ua ñeʼẽ."
+    }
+  ],
+  "translation": "Opa umi Levíta tavakuéra, Jisrael mitãrusukuéra rekoha mbytépe, hína paporundy tavakuéra poapypete ndive, ha umi kokuere ijerérekuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "56b930d2da56144b9b328abe322093373d4d1f9e313ac2a761b6c37c7b1d1f6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/21\/41-41.1791266240059.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Opa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "umi tavakuéra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levíta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "rekoha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãrusukuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tavakuéra"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "paporundy"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "poapypete"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "ha umi kokuere ijerérekuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:20.061880347Z",
+  "model": "glm-5.3"
+}

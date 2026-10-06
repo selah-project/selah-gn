@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 17:14",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד אשר עד כה",
+      "rationale": "Doble עד: 'hasta que hasta aquí' — KJV\/ASV toman la segunda cláusula como causal ('por cuanto hasta aquí me ha bendecido'), YLT la deja yuxtapuesta sin conjunción."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גורל",
+      "gloss_alt": "",
+      "rationale": "גורל es literalmente 'guijarro\/suerte' — la piedra echada para repartir tierra; 'ñembyaty' (reparto) pierde la imagen de la piedra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חבל",
+      "gloss_alt": "",
+      "rationale": "חבל es 'cuerda (de medir)', por extensión 'porción de tierra medida' — 'kordel' guarda la imagen literal."
+    },
+    {
+      "kind": "addition",
+      "subject": "che reheve",
+      "rationale": "Avañeʼẽ requiere explicitar 'por eso' implícito en la queja; el hebreo solo yuxtapone 'yo soy pueblo numeroso'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jehochúa",
+      "rationale": "Los hijos de José dirigen su queja directamente a Josué con pregunta 'mbaʼérepa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם רב \/ ברכני",
+      "rationale": "La queja apela a la bendición (ברך) como base del derecho: 'me bendijo, luego merezco más' — la retórica del reclamo."
+    }
+  ],
+  "translation": "Ha upéi, Jósef taʼýra kuéra oñeʼẽ ⟨את⟩ Jehochúa rehe, heʼiháicha: Mbaʼérepa ne meʼẽ chéve peteĩ ñembyaty año ha peteĩ kordel año che mbaʼerãyguáramo, ha che, amovéva ñembyaty ⟨che reheve⟩, jahecha haguéicha Jahve oñemboja chéve peve?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0b0e789bfee0bbcffc4a5e66d959ae06b108ac00635fde38a24fe9103a8445c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/17\/14-14.1791266233821.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taʼýra kuéra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehochúa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehochúa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼiháicha"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Mbaʼérepa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ne meʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mbaʼerãygua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ñembyaty"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ha kordel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ año"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ñembyaty"
+    },
+    {
+      "surface": "רב",
+      "gloss": "amovéva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jahecha haguéicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jahecha haguéicha año"
+    },
+    {
+      "surface": "כה",
+      "gloss": "peve"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "oñemboja chéve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:13.826809661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 26:47",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census count",
+      "rationale": "Tally of the tribe of Asher: 53,400."
+    },
+    {
+      "kind": "addition",
+      "subject": "sa",
+      "rationale": "מאות is plural 'hundreds' but functions as a fixed multiplicative after the number; rendered singular."
+    }
+  ],
+  "translation": "Ko'ãva umi mitã'ỹra Aser-pegua ñemoñare rehegua, oñemoĩ hag̃ua hikuái: mbohapy ha paporundy su aravo poha ±pa ary'ỹ. Mbohapy ha paporundy su ha evo poha pa(pahape),",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "12ed80651f27314b212f2d079da892f39303d375eca956ddabacef5dc6fa348a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/26\/47-48.1791266190098.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ko'ãva"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ñemoñare rehegua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitã'ỹra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aser"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "oñemoĩ hag̃ua hikuái"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ha paporundy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ha irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:30.101063266Z",
+  "model": "glm-5.3"
+}

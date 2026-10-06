@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 44:9",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tohu",
+      "rationale": "תהו haʼe pe ñeʼẽ ojeporúva Génesis 1:2-pe (apuʼa nandi); koʼápe heʼise mbaʼe ndovaléiva, taʼanga jepokuaaʼỹ."
+    },
+    {
+      "kind": "crux",
+      "subject": "veʼeyvaʼekue",
+      "rationale": "ועדיהם המה: 'hikuái voi iñangirũnguéra' (umi ojapóva) térã 'iñangirũnguéra voi' (taʼangakuéra ite, ndohechái) — omboja ojoavy ñeʼẽte reko."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בל tripla",
+      "rationale": "בל ñeʼẽmbyre ojejuhu mbohapy jey ojoapykuépe (bal-joʼiluo, bal-reʼi, uval-ikoʼa) — ñeʼẽ poravopyrã, ndojehechaukai guasúi avañeʼẽme."
+    },
+    {
+      "kind": "elision",
+      "subject": "and the doubling",
+      "rationale": "נאם ñeʼẽte, hapo jepe, ndaipóri — taʼanga ndoikóva rehe oñeʼẽ."
+    }
+  ],
+  "translation": "Umi omoheñóiva taʼanga ñembyaipyre, opaite hikuái apuʼa ndojeiporúiva; ha umi mbaʼe ojeroviáva hesekuéra noiporãi mbaʼeveve; ha iñangirũnguéra hikuái voi ndohechái, ha ndoikuaái, ikarẽ hag̃ua hikuái.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "39d77e7d9be265366fae917a289ae5f5b428bf6b17c785901007309a824665ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/44\/9-9.1791266521333.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצרי",
+      "gloss": "umi omoheñóiva taʼanga ñembyaipyre"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "taʼanga ñembyaipyre"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opaite hikuái"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "apuʼa ndojeiporúiva"
+    },
+    {
+      "surface": "וחמודיהם",
+      "gloss": "ha umi mbaʼe ojeroviáva hesekuéra"
+    },
+    {
+      "surface": "בל",
+      "gloss": "noiporãi"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "mbaʼeveve"
+    },
+    {
+      "surface": "ועדיהם",
+      "gloss": "ha iñangirũnguéra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hikuái voi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hechái"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ikuaái"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikarẽ hag̃ua"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hikuái"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:01.334961793Z",
+  "model": "glm-5.3"
+}

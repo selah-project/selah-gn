@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 8:43",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Chelomo ñeʼẽmeʼẽ oñeʼẽmeʼẽva ohenói Elohim pehẽngue´i."
+    },
+    {
+      "kind": "crux",
+      "subject": "ne Téra oñembohérava",
+      "rationale": "שמך נקרא על הבית — «ne Téra oñembohérava ko óga ári» (JPS\/ASV) tahaʼe «ko óga oñembohéra ne Téra reheve» (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tojerovia",
+      "rationale": "ליראא haʼe «tovyʼa ha jerovia joaju»; «jerovia» año ndaijavypa."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "אֹתְךָ koʼápe kuaarãnte («nde rehe»), ndahaʼéi ⟨את⟩ jehechaukarã."
+    }
+  ],
+  "translation": "Nde rehendúke yvágape, ne mbaʼerenda ne rekohápe, ha rejapo opaite mbaʼe ojerure ndéve pe tetã ambué-gua, ikatu hag̃ua opaite ko Yvy ayvu oikuaa ⟨את⟩ ne Téra, ha tojerovia ⟨את⟩ nde rehe, nde retãyguaicha Jisrael, ha oikuaa hag̃ua ne Téra oñembohérava ko óga ári che ahaʼãpóva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8b5f087a71b0d041f1a59be278b941f6514bc1e69b0dc1d736b55c8e821f579d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/8\/43-43.1791266438671.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rehendu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mbaʼerenda"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "ne rekohápe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ha rejapo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "pe tetã ambué-gua"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃ua"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ayvu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ko Yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Téra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne Téra"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "tojerovia"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde rehe"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "nde retãyguaicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ha oikuaa hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne Téra"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "oñembohérava"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che ahaʼãpóva"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:38.673483027Z",
+  "model": "glm-5.3"
+}

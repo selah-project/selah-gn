@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן הבקר",
+      "rationale": "\"umi vaka raʼýicha\" — hebreo heʼi ñemohenda-icha: vakakuéra raʼy, peteĩ michĩva"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mbohapy chekel · hin mbyte",
+      "rationale": "Ñemohenda ñembyaty: mbohapy chekel (efá papoteĩva) kuʼípe g̃uarã ha hin mbyte seʼy rykuépe g̃uarã"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה jehai peteĩchante \"minha\" — ndahaʼéi jopói ni impuesto ko'ápe, haʼeháicha D2"
+    }
+  ],
+  "translation": "Ha ogueru tenondeve umi vaka raʼýicha: minha — kuʼi arroguysýva mbohapy chekel-tenondeguáva, ojeheʼaʼýva seʼy rykue ndive, hin mbyte.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "829e23de5204abd30085a98bb3c43018fed57b326ad22bb13f3f9b6c153614e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/15\/9-9.1791266097144.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ogueru tenondeve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýicha"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "kuʼi arroguysýva"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "chekel-tenondeguáva"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "ojeheʼaʼýva"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "seʼy rykue ndive"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mbyte"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hin"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:57.144947429Z",
+  "model": "glm-5.3"
+}

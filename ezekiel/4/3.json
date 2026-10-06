@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hína",
+      "rationale": "Hebreo ndoguerekói ko ñeʼẽpehẽ; avañeʼẽ oikotevẽ ohechauka hag̃ua mbaʼeichapa oĩ"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחבת",
+      "rationale": "'mbaʼyvu' (takuapýpe jopeva) térã 'plancha kuarepoti' (JPS: griddle vs BSB: plate)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yejequiel",
+      "rationale": "Jahve ñeʼẽ oñemombaʼguasu Yejequiel-pe, ohechauka hag̃ua Jerusalen jeiko'ỹ ñembohapépe"
+    },
+    {
+      "kind": "mystery",
+      "subject": "אות",
+      "rationale": "Techaukarã jeikuaaʼỹva — mbaʼeraʼãngarã, Jisrael ógarã ohecha hag̃ua ha hesakã porãʼỹva"
+    }
+  ],
+  "translation": "Ha nde, egueru nde rehegua peteĩ mbaʼyvu kuarepoti rehegua, ha emoĩ ⟨את⟩ chuge korapy kuarepoti ramo nde rembeʼýpe ha táva rembeʼýpe; ha emboapyte ⟨את⟩ nde ara hendive, ha oĩta jejokórõme, ha erejere chupe; haʼe hína techaukarã Jisrael ógarã g̃uarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6307ba4fb77f133376ea747c5f8ce46414b6f9aacbebcbc472a79ce45da2e471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/4\/3-3.1791266669263.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ha nde"
+    },
+    {
+      "surface": "קח",
+      "gloss": "egueru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde rehegua"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "mbaʼyvu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "kuarepoti rehegua"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ha emoĩ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ chuge"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "nde rembeʼýpe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha ... rembeʼýpe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "והכינתה",
+      "gloss": "ha emboapyte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde ara"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde ara"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ha oĩta"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "jejokórõme"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ha erejere"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אות",
+      "gloss": "techaukarã"
+    },
+    {
+      "surface": "היא",
+      "gloss": "haʼe hína"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ógárã g̃uarã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:29.264935602Z",
+  "model": "glm-5.3"
+}

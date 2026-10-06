@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 26:25",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ñakãrapuʼã",
+      "rationale": "אדנים haʼe mbaʼe yvypegua oipytyvõva — 'base' — ñakãrapuʼã ('táva ypy') ojeporu mbaʼe oñemohendahápe g̃uarã."
+    },
+    {
+      "kind": "measurement",
+      "subject": "papapotei",
+      "rationale": "Ko versículo ohaʼã mbaʼe: poapy tabla, papotei ñakãrapuʼã itajuívagui."
+    },
+    {
+      "kind": "elision",
+      "subject": "האחד...האחד",
+      "rationale": "Iñeʼẽnga mokõiha heʼi 'peteĩ tabla' mokõi jey ojuehe — hebreo omboja peteĩ apytupe guaʼu."
+    }
+  ],
+  "translation": "Ha upéva oikóta: poapymi tablakuéra, ha iñeñakãrapuʼã itajuívagui, papotei ñakãrapuʼã; mokõi ñakãrapuʼã peteĩ tabla yvategua, ha mokõi ñakãrapuʼã peteĩ tabla yvategua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ed06586104af6889be86084bae5191eacfa01ef183b9f3e1fb0546a60af3dac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/26\/25-25.1791266009751.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "poapymi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "tablakuéra"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ha iñeñakãrapuʼã"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "itajuívagui"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "papotey"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pópei"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ñakãrapuʼã"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ñakãrapuʼã"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yvategua"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "peteĩ tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ha mokõi"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ñakãrapuʼã"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yvategua"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "peteĩ tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yvate"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:29.752892385Z",
+  "model": "glm-5.3"
+}

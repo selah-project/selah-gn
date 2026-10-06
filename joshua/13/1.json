@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 13:1",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "'ou ára hetaitereípe' — literal 'entering into days' rendered as long life."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yehochua",
+      "rationale": "Jahve addresses Yehochua directly, 'ne...'; repetition of the aging formula echoes the narrator's words."
+    },
+    {
+      "kind": "measurement",
+      "subject": "land remaining",
+      "rationale": "Verse begins an inventory of unconquered territory, a counting of regions."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זקן...בא בימים",
+      "rationale": "The narrator's phrase is repeated verbatim in Jahve's speech to Yehochua; the echo is kept."
+    }
+  ],
+  "translation": "Yehochua oñemongakuaa, ou ára hetaitereípe; ha Jahve he'i chupe: ne mongakuaa hína, reju ára hetaitereípe, ha yvy hetaite gueteri opyta ojegueraha hag̃ua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8f66c96c3f21a597dcfeea608ede633f6c8d5f1c56a81708e0fe947824d4c7b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/13\/1-2.1791266274782.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oñemongakuaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ára hetaitereípe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "mongakuaa"
+    },
+    {
+      "surface": "באת",
+      "gloss": "reju"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ára hetaitereípe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ha yvy"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "opyta"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hetaite"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gueteri hína"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ojegueraha hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:54.786487284Z",
+  "model": "glm-5.3"
+}

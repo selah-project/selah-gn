@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 15:7",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הם",
+      "rationale": "Emphatic 'they' absorbed into the rhetorical question in Guaraní"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ספר דברי הימים",
+      "rationale": "Rendered as 'kuatiañeʼe umi ára rehegua' (book of the matters of the days), keeping the literal components rather than 'Crónicas'"
+    },
+    {
+      "kind": "you",
+      "subject": "moñeʼẽhárape",
+      "rationale": "Rhetorical question (הלוא) addresses the reader directly about the written record"
+    }
+  ],
+  "translation": "Ha Ambue mbaʼe Avijam ojapovaʼekue ha opaite ojapovaʼekue, ¿ndaipóipa ojehecha kuatiañeʼépe umi ára rehegua Jihuda mburuvichakuéra peguarã? Ha oĩ ñorãirõ Avijam ha Jaravam apytépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "534c389de3753721350e660fbba3acf2fe5cda2b38ae9af51e0e0344188c1bd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/15\/7-7.1791266417077.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Ha Ambue mbaʼe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "¿ndaipóipa"
+    },
+    {
+      "surface": "הם",
+      "gloss": ""
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ojehecha kuatiañeʼépe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kuatiañeʼe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "mburuvichakuéra peguarã"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ha ñorãirõ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravam"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:17.078602629Z",
+  "model": "glm-5.3"
+}

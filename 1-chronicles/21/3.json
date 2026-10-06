@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 21:3",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "David",
+      "rationale": "Joav ñeʼẽ oñembohasa mburuvicha guasu David pe, jerure reheve ani hag̃ua ojapo papapy"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "porandu ñeʼẽ: ¿ndahaʼéipa? (ojeʼevaʼerã 'héẽ') térã porandu mbarete — moñeʼẽhára kuéra oñombyatypa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ashma",
+      "rationale": "אשמה heʼise 'carai ñemiTechaukaha, mbaʼe vai' — jehaipyre hebreo ipúpe oñeñongatu"
+    }
+  ],
+  "translation": "Ha Joav he'i: Jahve omoĩve itavaygua hikuái ári sa jey. Che jára, mburuvicha guasu, ¿ndahaʼéipa opavavete che jára mba'e, tembiguái ramo? Mbaʼérepa che jára oheka koʼãva? Mbaʼérepa oikóta Jisrael-pe g̃uarã ashma ramo?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "be6501672fe14db863f70171b63a9892d46543dcb9a3be5f2ef1eb6bc09ccc9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/21\/2-4.1791267164069.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "omoĩve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "itavaygua"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jey"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿ndahaʼéipa?"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "opavavete"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "che jára mba'e"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "tembiguái ramo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "ashma ramo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael-pe g̃uarã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:44.072982549Z",
+  "model": "glm-5.3"
+}

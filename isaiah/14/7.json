@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ñeʼẽta poʼa",
+      "rationale": "רנה haʼe pytapysãngue terakuã — vyʼa rehegua ko'ápe, pohanorã ndahasýiva"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחה שקטה",
+      "rationale": "Mokõi ñeʼẽ pytuʼu rehegua ojoapykueri, taʼãngambyky ojueheguáva"
+    }
+  ],
+  "translation": "Opyta pytuʼu ha ñembyasýpe opaite yvy; ojopyvy ñeʼẽta poʼa.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "29df4bba6a4906e0d57f4ea97068f469486817dc5c7c93037986ba251e8ed380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/14\/7-8.1791266543050.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "opyta pytuʼu"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ñembyasýpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ojopyvy"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ñeʼẽta poʼa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:23.051798754Z",
+  "model": "glm-5.3"
+}

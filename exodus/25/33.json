@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 25:33",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yvoty ryru",
+      "rationale": "גביע is a goblet \/ flower calyx; avañeʼẽ uses 'flower-container' to keep the botanical picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mandyvu raʼangáva",
+      "rationale": "משקדים literally 'almond-shaped' — one Hebrew participle rendered with a compound"
+    },
+    {
+      "kind": "measurement",
+      "subject": "counts",
+      "rationale": "verse is built on counting: three + three bowls, six branches"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקד",
+      "rationale": "שקד echoes שקד 'to watch\/wake' — almonds as watching-shape, resonance lost outside Hebrew"
+    }
+  ],
+  "translation": "Mbohapy yvoty ryru mandyvu raʼangáva peteĩ rakãme, peteĩ akãnguʼi ha peteĩ yvoty; ha mbohapy yvoty ryru mandyvu raʼangáva peteĩ rakãme, peteĩ akãnguʼi ha peteĩ yvoty; upéicha avei poteĩ rakãnguéra osẽva Menora-gui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4bf4479d55d00454d9ced2c9450e9108ea89cc8a652021d08db8da431e766c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/25\/33-33.1791266029283.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "yvoty ryru"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "mandyvu raʼangáva"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "rakãme"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "כפתר",
+      "gloss": "akãnguʼi"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ha yvoty"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ha mbohapy"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "yvoty ryru"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "mandyvu raʼangáva"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "rakãme"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "כפתר",
+      "gloss": "akãnguʼi"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ha yvoty"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "לששת",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "rakãnguéra"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "osẽva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:49.284776623Z",
+  "model": "glm-5.3"
+}

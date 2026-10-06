@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "-ta",
+      "rationale": "Jihuda ojupíta: hebreo haʼe katueteʼypy, ndahaʼéi arakaʼugarã; avañeʼẽ oikuaveʼẽ -ta"
+    },
+    {
+      "kind": "alternative",
+      "subject": "aheja",
+      "rationale": "נתתי 'che ameʼẽ' tahaʼe; KJV 'delivered' heʼise avei 'che aheja' — ameʼẽ ikatu avei"
+    }
+  ],
+  "translation": "Ha Jahve heʼi: Jihuda ojupíta. Ehé, aheja ⟨את⟩ yvy i pópe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7d1396f9b78aa21294d97fdd107ff417dcd412310d65c1e9b5cffbc322a60794",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/1\/2-2.1791266226391.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ojupíta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ehé"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i pópe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:06.395594998Z",
+  "model": "glm-5.3"
+}

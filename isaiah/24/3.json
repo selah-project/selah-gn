@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבוק תבוק \/ והבוז תבוז",
+      "rationale": "Infinitivo absoluto embojoajúva ñeʼẽmokõi — 'ojueheguaite' — ha tĩpo hapichaguea (b-q\/q-q, b-z\/z-z) noñehaʼãi porãi avañeʼẽme."
+    },
+    {
+      "kind": "elision",
+      "subject": "infinitivo absoluto",
+      "rationale": "Hebreo ojapo ñeʼẽmokõi haʼarõʼỹme; avañeʼẽme ojehecha joaju rokẽpe año."
+    }
+  ],
+  "translation": "Oñemonguʼe ha oñemonguʼe yvy, oñemonda ha oñemondaite, upévare Jahve oñeʼẽ ⟨את⟩ ko ñeʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ad4abda2217ba49aac7b8932e54643daa55d99d23e2553b8c548d42b2c31afde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/24\/3-4.1791266545445.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "oñemonguʼe"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "oñemonguʼe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "oñemonda"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "oñemondaite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñeʼẽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:25.446158447Z",
+  "model": "glm-5.3"
+}

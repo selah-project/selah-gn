@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oñemosarambi ohóvo",
+      "rationale": "יָלַךְ 'to walk' — yvyrakuéra pytagui ojeporu ñe'ẽte 'ohóvo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ינקותיו",
+      "rationale": "'his sucklings\/sprouts' (יוֹנֶקֶת) — umi versión he'i 'branches' térã 'shoots'"
+    },
+    {
+      "kind": "addition",
+      "subject": "taʼangápe ... pegua",
+      "rationale": "כ (como) oikotevẽ mbohapy jey avañe'ẽme ñe'ẽ joapyrã ojueheguáva"
+    }
+  ],
+  "translation": "Hi'yvyrakuéra iñakãrakã oñemosarambi ohóvo, hi'porãngue ojogua taʼangápe oliva yvyra pegua, ha hyakuã ojogua taʼangápe Lebanón pegua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6f4b1c1f3ce3d7e92e142fe2dc76e6549613a6196aa57a7ae3b08c77b825960d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/hosea\/14\/7-7.1791266722149.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "oñemosarambi ohóvo"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "hi'yvyrakuéra iñakãrakã"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ojoguáta"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "taʼangápe oliva yvyra pegua"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "hi'porãngue"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ha hyakuã"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichagua"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "taʼangápe Lebanón pegua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:22.150035865Z",
+  "model": "glm-5.3"
+}

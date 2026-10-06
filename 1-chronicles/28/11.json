@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בתיו",
+      "rationale": "KJV 'houses thereof' vs JPS\/BSB 'buildings' — umi óga oheja mokõi ta'ãnga porã."
+    },
+    {
+      "kind": "hapax",
+      "subject": "גנזכיו",
+      "rationale": "גַּנְזַכִּים — tesoro róga; ñe'ẽ eraka'ỹva Tanaj apytépe."
+    },
+    {
+      "kind": "measurement",
+      "subject": "תבנית",
+      "rationale": "David ome'ẽ pa'ũ ha ta'ãngarã measurements rehegua, templo ra'ãnga."
+    }
+  ],
+  "translation": "David ome'ẽ ita'ýra Chelomo-pe ⟨את⟩ pe ta'ãngarã rokẽgua ha ⟨את⟩ umi óga, umi mba'erepynga, umi yvate róga ha umi te'õ ryepy pegua, ha pe kaporet óga.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "2a1563c2656f14ab7b022b145d3f2eff3dcf29d02714ceac3621794339d1d1af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/28\/11-12.1791267155781.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Chelomo-pe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ita'ýra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ta'ãngarã rokẽgua"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ta'ãngarã"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "rokẽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umi óga"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "umi óga"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "umi mba'erepynga"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "umi yvate róga"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "umi te'õ"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "ryepy pegua"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:35.783442210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ñeñongatuhy",
+      "rationale": "המשחה haʼe ñeñongatuhy apo (acción); avañeʼẽme oñembojoaju mokõi ñeʼẽme"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Michkan mbaʼekuéra raʼãnga",
+      "rationale": "ko versículo haʼe lista mbaʼe apopyrépe g̃uarã, mizbeaj, itaʼỹ, ketoret"
+    }
+  ],
+  "translation": "Ha ⟨את⟩ mizbeaj ketoret, ha ⟨את⟩ ipekuéra, ha ⟨את⟩ itaʼỹ  ñeñongatuhy ha ⟨את⟩ ketoret samikuéra, ha ⟨את⟩ pe ao mbohyaha okẽ rehe, Michkan okẽngue renondépe;",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5309b9302bc3f58e925fdcebcb5b99394d95c40d8724da4356e7f10b65c78f87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/35\/15-15.1791266001034.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mizbeaj ketoret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ketoret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ipekuéra"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ipekuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itaʼỹ ñeñongatuhy"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "itaʼỹ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ñeñongatuhy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ketoret samikuéra"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ketoret"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "samikuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ao mbohyaha okẽ rehe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ao mbohyaha"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "okẽ rehe"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "okẽngue renondépe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:21.035684046Z",
+  "model": "glm-5.3"
+}

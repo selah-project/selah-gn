@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "pokõi ára",
+      "rationale": "The circuit is measured in seven days of travel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ijaruã pegua",
+      "rationale": "ברגליהם is literally 'at their feet', i.e. the cattle following at the army's feet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mburuvicha",
+      "rationale": "מלך is a king; 'mburuvicha' is the closest Guaraní term for a ruling chief."
+    }
+  ],
+  "translation": "Ha oho Jisrael mburuvicha, Jihuda mburuvicha ha Edom mburuvicha, ha ojere hikuái tape rakã pokõi ára pukukue, ha ndaipori vaʼekue y kampáña-pe guarã ha mymbakuéra-pe guarã, umi oĩva hikuái ijaruã pegua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "69f9c3fe0aac10c07f92dbe8288816fa11e94157f6ce46ddbae486d211d54715",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/3\/9-9.1791266391197.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "ojere hikuái"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pokõi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipori"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampáña-pe guarã"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ha mymbakuéra-pe guarã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi oĩva"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "hikuái ijaruã pegua"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:51.198284336Z",
+  "model": "glm-5.3"
+}

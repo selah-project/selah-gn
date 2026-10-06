@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרי האף",
+      "rationale": "Hebrew: 'burning of the nose\/nostrils' = fury; avañeʼẽ renders the idiom's sense, not the literal body part."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "'al introduces the quoted question; no independent avañeʼẽ word, marked by the dash."
+    },
+    {
+      "kind": "addition",
+      "subject": "heʼise",
+      "rationale": "Second מה expects a 'what means' question; verb 'heʼise' supplied to carry the interrogative sense."
+    },
+    {
+      "kind": "invitation",
+      "subject": "nations' question",
+      "rationale": "Rhetorical questions addressed by the nations — the verse is structured as direct quoted speech drawing the hearer in."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Moses' warning scene: the nations' question bears witness against Israel before the hearers."
+    }
+  ],
+  "translation": "Ha opaite tetãnguéra oheʼíta: —Mbaʼérepa Jahve ojapo upéicha ko yvýpe? Mbaʼépa heʼise ko tata pytũngy che rupiʼápe guasu koʼãga?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ee24a48496e816ae2e2bc313c241ea3a6e7d7aafba5136d8060c3a9baec88746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/29\/23-23.1791266187094.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "oheʼíta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ko yvýpe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbaʼépa"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "tata pytũngy"
+    },
+    {
+      "surface": "האף",
+      "gloss": "che rupiʼápe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "koʼãga"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:27.097533484Z",
+  "model": "glm-5.3"
+}

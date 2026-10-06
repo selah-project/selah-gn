@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימים וארבעה חדשים",
+      "rationale": "Pe hebreo he'i 'ára ha irundy jasy'; KJV\/JPS omoĩ 'peteĩ ary ha irundy jasy' oñemoañetívo pe ára papapy."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשדה",
+      "gloss": "yvýpe",
+      "rationale": "Pe hebreo he'i 'ka'aguýpe' (שדה = okaháre yvy); KJV omoĩ 'tetã pehẽngue'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "árape g̃uarã",
+      "rationale": "Ko versículo oha'ã ára ha jasy David oiko rire Pelishtikuéra apytépe."
+    }
+  ],
+  "translation": "Ha oiko pe papapy umi ára pegua David oiko va'ekue Pelishtikuéra yvýpe: ára ha irundy jasy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a93e7eaf2428f19702fd9536d214e187211401961c7e8e19a34157672a224164",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/27\/7-7.1791266328938.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "papapy"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pegua"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oiko va'ekue"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikuéra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ha irundy"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jasy"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:48.939345792Z",
+  "model": "glm-5.3"
+}

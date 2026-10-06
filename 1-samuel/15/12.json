@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 15:12",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יד",
+      "rationale": "'Omoĩ hague ichupe peteĩ jeguatarã': KJV 'a place' (place), ASV\/JPS 'a monument' (monument, monument); yma-guarã iñambuéva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יד",
+      "rationale": "Hebreo ñeʼẽ 'ypyku' heʼise kuarepoti jeguatarã avei; Taakuéra apytépe ojeguatarã oimeraẽ mbaʼe réra rehe."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויסב ויעבר",
+      "rationale": "'Ojere ha ohasa' ikatu haʼe 'ohóta ijerére' — oimeraẽ ñemoñeʼẽ iñambuéva hebreo ñeʼẽ koʼág̃a ohasáva reheguápe."
+    }
+  ],
+  "translation": "Pyhare pytepe Chemuel iñepyrũ oho ojuhu haguã Chaúl koʼẽtére, ha ojeʼevaʼekue Chemuel-pe: Chaúl og̃uahẽ Karmel-pe, ha ningo omoĩ hague ichupe peteĩ kuarepoti jeguatarã ⟨ypykúpe⟩, ha ojere ha ohasa ha oguejy Guilgal-pe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "15c818c093bc96de3a6876f9b3888694ae44309413884ea23358d0a5f88fce57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/15\/12-12.1791266331569.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "iñepyrũ pyhare pytepe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "oho ojuhu haguã"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "koʼẽtére"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ojeʼevaʼekue"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Chemuel-pe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "הכרמלה",
+      "gloss": "Karmel-pe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha ningo"
+    },
+    {
+      "surface": "מציב",
+      "gloss": "omoĩ hague"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "jeguatarã"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ohasa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oguejy"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Guilgal-pe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:51.570659503Z",
+  "model": "glm-5.3"
+}

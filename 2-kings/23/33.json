@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 23:33",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במלך",
+      "rationale": "KJV\/ASV 'that he might not reign' vs Geneva 'while he reigned' — infinitive with ב can read either purposive or temporal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuarepoti jiʼagui \/ kuarepoti pytãngy",
+      "rationale": "כסף ha זהב — avañeʼẽme ndaipóri ñeʼẽ teete, ojeporu mbaʼeraʼãnga."
+    },
+    {
+      "kind": "measurement",
+      "subject": "joha",
+      "rationale": "Ohaʼã mbaʼe: saʼe chekel kuarepoti jiʼagui ha peteĩ chekel kuarepoti pytãngy."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "Avañeʼẽme oikotevẽ pehẽngue ñeʼẽtépe, hebreo iñepyrũrãme ndaipóri."
+    }
+  ],
+  "translation": "Ha Paro Neko ojoko chupe Riblápe, Chamat retãme, ani hag̃ua oisãmbyhy Jerusalaim-pe; ha omoĩ joha ⟨pe⟩ yvy ári: saʼe chekel kuarepoti jiʼagui ha peteĩ chekel kuarepoti pytãngy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "210f30d2c4bcac4f4b3a023826588acfc82dab5f75d620d3b50222f413e2218e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/23\/33-33.1791266499994.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ojoko chupe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Riblápe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "retãme"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ani hag̃ua oisãmbyhy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "joha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saʼe"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "chekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarepoti jiʼagui"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ha peteĩ chekel"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuarepoti pytãngy"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:39.995438029Z",
+  "model": "glm-5.3"
+}

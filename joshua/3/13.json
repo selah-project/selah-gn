@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 3:13",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "y oguembýva",
+      "rationale": "הירדים ha'e 'oguembýva' — y ojehasa guasývo pe mhba'erecha, KJV he'i 'come down from above'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי הירדן...מי הירדן",
+      "rationale": "Hebreo ojerejere mokõi jey 'Yarden y' — mba'epu jehai ijojaha, ndaipóri avañe'ẽme pe je'ere'ỹ"
+    },
+    {
+      "kind": "crux",
+      "subject": "נד אחד",
+      "rationale": "'peteĩ yvype ayvu' — KJV 'an heap' vs YLT 'one heap': oĩpa oñemohenda hagua térã oñembyaty hagua"
+    }
+  ],
+  "translation": "Ha oikóta upéicha, ku pa'ikuéra py apysa — umi oguerúva Jahve, Adonai, opaite yvy jára, arón — onoñõite vove Yarden yvýpe, pe Yarden y oguembýva yvateguiguáova ojekytĩta, ha oñembyaty oñemohendávo peteĩ yvype ayvu añópe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "570ca94de08ac7e3e098a6d2f4cd184031261f29879eeef50f6c646b53b4b4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/3\/13-13.1791266232741.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ha oikóta upéicha"
+    },
+    {
+      "surface": "כנוח",
+      "gloss": "onoñõite vove"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "py apysa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ku pa'ikuéra py"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "oguerúva"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy jára"
+    },
+    {
+      "surface": "במי",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מי",
+      "gloss": "y"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "ojekytĩta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y oguembýva"
+    },
+    {
+      "surface": "הירדים",
+      "gloss": "yvateguiguáova"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yvateguive"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ha oñembyaty oñemohendávo"
+    },
+    {
+      "surface": "נד",
+      "gloss": "yvype ayvu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ añópe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:12.745413164Z",
+  "model": "glm-5.3"
+}

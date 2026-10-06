@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העבים",
+      "rationale": "עב may mean 'thick clouds\/darkness' or 'envelope of darkness'; rendered 'ararova' (clouds), the mainstream reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבו אחר הגשם",
+      "rationale": "'return after the rain' — cloud cycle idiom of endless gloom; Guaraní 'ohójey oky rire' keeps the return-after sense."
+    }
+  ],
+  "translation": "Upépe pe kuarahy ha pe tesape ha pe jasy ha umi mbyja noñemombytúi aja gueteri, ha umi ararova ohójey oky rire.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4857c94f26322da7c16113f76a54c66df7d7731ed820da83f108e6a41ab79ec1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ecclesiastes\/12\/2-2.1791266905921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "iñypytũ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "pe kuarahy"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ha pe tesape"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ha pe jasy"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ha umi mbyja"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ohójey"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "umi ararova"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "rire"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "pe oky"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:25.933297705Z",
+  "model": "glm-5.3"
+}

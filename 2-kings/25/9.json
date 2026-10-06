@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "óga guasu opaite",
+      "rationale": "KJV\/JPS 'every great man's house' vs YLT\/ASV 'every great house'; the Hebrew is simply 'every great house'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ombotyasy…ombotyasy",
+      "rationale": "שרף repeats at start and end, framing the verse; repetition kept in Guarani."
+    }
+  ],
+  "translation": "Ha ombotyasy ⟨את⟩ Jahve óga ha ⟨את⟩ mburuvicha óga, ha ⟨את⟩ Jerusalaim óga-kuéra opaite, ha ⟨את⟩ óga guasu opaite, ombotyasy tatápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "81949bc7e692f5c0d08ce2f4292e4b87e799e90b5015a0ca47a3fff22ea73d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/25\/9-9.1791266485053.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "ha ombotyasy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "mburuvicha óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "Jerusalaim óga-kuéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "óga-kuéra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "óga guasu opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ombotyasy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:25.054395465Z",
+  "model": "glm-5.3"
+}

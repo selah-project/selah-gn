@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 7:19",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך הקם הקימו",
+      "rationale": "Yvypóra oiméva: 'umi jeheguarahára oñembojaramo rire' (KJV) térã 'ojekuaauka jeheguarahárape' (YLt); hebreo ha'e infinitivo ha perfecto ojueheguáva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שופרות",
+      "rationale": "'takarãnguéra' — shofar ha'e kavaju rape'i, ndaha'éi takarã; avañe'ẽme ndaipóri ñe'ẽ teete."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקם הקימו",
+      "rationale": "Infinitivo absoluto + verbo: ñe'ẽjoapy jeheguañepyrũ, oñongatu avañe'ẽme 'oñemboja oñemboja' ichagua."
+    },
+    {
+      "kind": "measurement",
+      "subject": "האשמרת התיכונה",
+      "rationale": "Pyhare oñemboja mbohapy jeheguápe; ko'ápe pe mbohapyha ñepyrũ, aravo jehegua."
+    }
+  ],
+  "translation": "Oguahẽ Gideón ha pe satuveraguasu kuimba'e iñirũndive, kampámenti rembe'ýpe, pyhare jehegua mbohapyha ñepyrũme, hekópe oñemboja umi jeheguarahára; ha ojapo takarãnguéra pu, ha ojityi jey'únguéra orekóva ipepo poguýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "64c9ab36332d9434f0c913050cd948709299df026871694caf19249507a12273",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/7\/19-19.1791266248697.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Oguahẽ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideón"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ha pe satuveraguasu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iñirũ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ndive"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "rembe'ýpe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampámenti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ñepyrũme"
+    },
+    {
+      "surface": "האשמרת",
+      "gloss": "pyhare jehegua"
+    },
+    {
+      "surface": "התיכונה",
+      "gloss": "mbohapyha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hekópe"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "oñemboja umi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi jeheguarahára"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "jeheguarahára"
+    },
+    {
+      "surface": "ויתקעו",
+      "gloss": "ojapo pu"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "takarãnguéra"
+    },
+    {
+      "surface": "ונפוץ",
+      "gloss": "ojityi"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "jey'únguéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "orekóva"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ipepo poguýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:28.705257935Z",
+  "model": "glm-5.3"
+}

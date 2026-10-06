@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hegui",
+      "rationale": "מפני literally 'from the face of', rendered as 'hegui' ('from before')"
+    }
+  ],
+  "translation": "Ha Noach oike, ha imembykuéra, ha hembireko, ha imembykuéra rembireko ⟨את⟩ hese, teviahápe, Mabul y hegui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "73215cca745c672dfe43eb56f9e753665b805213daeab076fc02270928323dd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/7\/6-7.1791265950341.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "oike"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "hembireko"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "kuñanguéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hese",
+      "marks": "Noach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‐pe"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tevia"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "hegui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "y"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Mabul"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:30.343061315Z",
+  "model": "glm-5.3"
+}

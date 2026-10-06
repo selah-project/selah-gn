@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aty",
+      "rationale": "שבט haʼe 'takuára' ha upéichavo 'aty ñemoñare'; avañeʼẽme oñeikotevẽ peteĩ ñeʼẽ ojekuaa hag̃ua mbaʼéichagua aty"
+    },
+    {
+      "kind": "you",
+      "subject": "Moche ha Aharon-pe",
+      "rationale": "Kuatia 4:17-pe Jahve oñeʼẽ Moche ha Aharon rehe; ko ñeʼẽ ohasa chupekuéra"
+    },
+    {
+      "kind": "crux",
+      "subject": "cut off",
+      "rationale": "תכריתו: 'peipeʼa' (jegua) térã 'rejokuapy mbeguekatu' (Kehat ogasgua ani omano pe táva marangatandípe)"
+    }
+  ],
+  "translation": "Ani peipeʼa ⟨את⟩ ⟨aty⟩ ñemoñare Kehat ogasgua, umi Levi-kuéra apytégui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a5b3edb40baf44c0aba7f6d941d7c3b6f14e18efbbe3ee1c1769b4c749d386cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/4\/18-18.1791266097414.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "peipeʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aty ñemoñare Kehat ogasgua"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aty"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ogasgua ñemoñare"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "apytégui"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:57.415303954Z",
+  "model": "glm-5.3"
+}

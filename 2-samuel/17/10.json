@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 17:10",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המס ימס",
+      "rationale": "Infinitive absolute doubling the verb: 'oñemichĩ oñemichĩete' — utter melting; the Hebrew repeats the same root twice."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבו כלב",
+      "rationale": "Hebrew pun: his heart (levav) \/ like the heart (kelev) — sound-echo lost in avañeʼẽ."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pohýi-mbarete",
+      "rationale": "בן חיל kept literally as 'son-of-valour' compound shape rather than role-word like 'soldier'."
+    }
+  ],
+  "translation": "Ha pe avei, pohýi-mbarete, imbaʼe iñakã jaguarete iñakãicha, oñemichĩ oñemichĩete; polo oikuaa opaite Jisrael polo ipuʼakapáva nde ru, ha pohýikuéra-mbarete oiméva ⟨את⟩ ichuguýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "cadf8f3b31fac6c13f90eeeb131b11f9f0b67989b3fac112fdf46509e3ca8982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/17\/10-10.1791266364605.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ha pe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pohýi-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imbaʼe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "jaguarete"
+    },
+    {
+      "surface": "המס",
+      "gloss": "oñemichĩ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "oñemichĩete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "polo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "polo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ipuʼakapáva"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nde ru"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha pohýikuéra-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mbarete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oiméva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ichuguýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:24.606788277Z",
+  "model": "glm-5.3"
+}

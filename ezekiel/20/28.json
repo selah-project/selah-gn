@@ -1,0 +1,179 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 20:28",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשאתי את ידי",
+      "rationale": "'Che pópe ahechauka' — hebreo ojeporu 'po ajáva' juramento raʼãngarã."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ניחוחיהם",
+      "rationale": "'Kirirĩguasúva sãsoha' — hebreo נִיחוֹחַ heʼise 'pytuʼu porãva', jeipurupyre jeikoha jehaípe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם",
+      "rationale": "'Upépe' ojehecha poteĩ jey — mbohasapy ijeheguiete oñemboja yvypóra rekove ha'eñõme."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כעס",
+      "rationale": "KJV ombojoaju 'reruarã jepeʼa'; jepémo כַּעַס heʼise jepeʼarã, Jahve rekovegui oĩ peẽmbyre."
+    }
+  ],
+  "translation": "Ha amog̃uahẽ chupekuéra yvýpe che pehẽngue ningo ahechauka che po, ameʼẽ hag̃ua chupekuéra; ha ohecha opaite yvyty yvate ha opaite yvyra rogueguasu, ha upépe ojuka iñevajukuéra ⟨את⟩, ha upépe omeʼẽ che reruarã korvonakuéra ⟨את⟩, ha upépe omoĩ kirirĩguasúva sãsoha ⟨את⟩, ha upépe omohaʼẽ iñesãsoha ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ef87183cb9650032efdc9760f58eeb323c9cdc0e58a3c610b339844cb400439c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/20\/28-28.1791266651924.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביאם",
+      "gloss": "amog̃uahẽ chupekuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che pehẽngue ningo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ahechauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che po"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ameʼẽ hag̃ua"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ chupekuéra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "yvate"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "rogueguasu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ojuka iñevajukuéra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñevajukuéra"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "iñevajukuéra"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "che reruarã"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "korvonakuéra"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "sãsoha"
+    },
+    {
+      "surface": "ניחוחיהם",
+      "gloss": "kirirĩguasúva"
+    },
+    {
+      "surface": "ויסיכו",
+      "gloss": "omohaʼẽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñesãsoha"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "iñesãsoha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:11.925037057Z",
+  "model": "glm-5.3"
+}

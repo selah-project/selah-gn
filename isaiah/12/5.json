@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גאות",
+      "rationale": "geʼu: 'exaltación\/glory' vs 'pride' — rendered 'mbaʼe geʼu guasu' to keep the root."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זמרו",
+      "rationale": "root is playing a stringed instrument; rendered 'purahéi' (cantar), the instrument picture is lost."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מידעת",
+      "rationale": "passive 'is known' (YLT, KJV) vs jussive 'let this be known' (ASV); chosen passive as more literal."
+    }
+  ],
+  "translation": "Purahéi Jahve rehe, ojapo haguére mbaʼe geʼu guasu; koʼãva oñekuaaukáma ⟨⟨⟩⟩ opaite yvy ape ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f6a6d0d4fbf5422c266def8e6f3de7a9bbfb6cff406e76ec3e8fc4108c2736e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/12\/5-5.1791266507549.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ojapo haguére"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "mbaʼe geʼu guasu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "oñekuaaukáma"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:47.549673558Z",
+  "model": "glm-5.3"
+}

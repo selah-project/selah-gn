@@ -1,0 +1,26 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 5,
+  "translation": "Ombaʼapóva kuatiáva rokẽme ojere ipype oĩháicha, ha upéi ojeipysóva syryýi rehe ojekuaauka hag̃ua iñeʼẽ: ⟨koʼã⟩ kuarepoti oĩhína hikuái peteĩ manduʼa raʼãngára rógape, ohesaʼỹijóva mbaʼéichapa umi ava oiko joajupy haʼekuéra kuatiaʼi apytuʼũme; ha upéarõ jepe, pe tajygui ojejapóva kuatiaʼi ojeporu ojehai hag̃ua mbaʼe oikovaʼekue tuichakue javeve, ha pe mbeguekatu ojehai hese kuéra",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "36e9f63622f83bda48351561ae01ebe9bddc5f0a631a57da6379864d3a0a4bc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/5\/10-10.1791266688074.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׂנְא֥וּ",
+      "gloss": "ombiʼapohaguépe ohayhovaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:48.075028015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 11:6",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heʼi Jahve",
+      "rationale": "נאם יהוה is an oracle formula; rendered as the fixed phrase heʼi Jahve per discipline."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממציא",
+      "rationale": "Hiphil of מצא: 'cause to reach' — versions split between 'deliver into' (KJV\/JPS) and 'cause to come forth' (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "omondaha",
+      "rationale": "וכתתו 'crush\/shatter violently' rendered as 'beat down the land', the idiom of devastating a territory."
+    }
+  ],
+  "translation": "Che naʼãvéima aiporangue yvy rekohárare, heʼi Jahve; ha peĩápe, che amome ⟨את⟩ yvypóra, peteĩteĩ ijavýpe po ryepýpe ha imburuvicha po ryepýpe, ha umíva omondaha ⟨את⟩ yvy, ha che ndajesẽi umíva po ryepýgui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b042832c74a5ca08ad373551418fae13237eb0d5414e2ec73381e3a81b1ca965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/zechariah\/11\/6-6.1791266702692.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "aiporangue"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "véima"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "rekohára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha peĩápe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ממציא",
+      "gloss": "amome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvypóra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po ryepýpe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ijavýpe"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "po ryepýpe"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "imburuvichápe"
+    },
+    {
+      "surface": "וכתתו",
+      "gloss": "omondaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "אציל",
+      "gloss": "jesẽ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "umi po ryepýgui"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:02.693006672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "inventory of remaining land",
+      "rationale": "Opens a formal list of territories yet to be possessed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גלילות",
+      "gloss-of-source": "circuits\/regions",
+      "rationale": "גלילות literally 'circuits, round districts'; rendered as 'jerére' (surroundings), losing the roundness image."
+    }
+  ],
+  "translation": "Kóva pe yvy opytáva: opavave pe Plaichtim jerére, ha opavave pe Guechuri-yguára.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8f66c96c3f21a597dcfeea608ede633f6c8d5f1c56a81708e0fe947824d4c7b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/13\/1-2.1791266274782.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "opytáva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "jerére"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "pe Plaichtim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "pe Guechuri-yguára"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:54.788813610Z",
+  "model": "glm-5.3"
+}

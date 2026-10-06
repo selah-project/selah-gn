@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 29:5",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותך",
+      "rationale": "Marker of object with 2nd-person suffix; rendered as bracketed ⟨nde⟩ pronoun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאכלה",
+      "rationale": "Hebrew 'food\/eating' noun rendered as purpose phrase karu'ãrã ('to be eaten')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המדברה",
+      "rationale": "Hebrew 'wilderness\/desert' noun rendered as locative ka'irũme ('in the wilderness')."
+    }
+  ],
+  "translation": "Ha amboyke nde ka'irũme, ⟨את⟩ ⟨nde⟩ ha ⟨את⟩ opaite mbiriguini je'apegua: yvyra'ỹre ári eguera'ãta, ndojepysoitéi nde, ndojuejúi nde; mymba juehegua yvypegua ha guyra yvágape g̃uarã ame'ẽ nde karu'ãrã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a55ee52c1b688ae284a1cb2521fda2c91479ed5877e21480d16b4ff3e4a695f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/29\/5-5.1791266636208.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונטשתיך",
+      "gloss": "amboyke nde"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "ka'irũme"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨nde⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mbiriguini je'apegua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דגת",
+      "gloss": "mbiriguini"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "je'apegua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yvape"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "yvyra'ỹre"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "eguera'ãta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo..."
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "jepysoitéi nde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndo..."
+    },
+    {
+      "surface": "תקבץ",
+      "gloss": "juejúi nde"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "mymba juehegua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvypegua"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ha guyra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágape g̃uarã"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ame'ẽ nde"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "karu'ãrã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:56.208806464Z",
+  "model": "glm-5.3"
+}

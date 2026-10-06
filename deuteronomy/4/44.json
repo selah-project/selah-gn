@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "Avañeʼẽ oikotevẽ kongruentepe; hebreo ndoguerekói"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tenonde",
+      "rationale": "לפני heʼiséva 'iméva renondépe', ojeiporu joja ramo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Tora",
+      "rationale": "Ko ñeʼẽ ohechauka Tora réra ha iñemohenda — Moche omoĩ vaʼekue"
+    }
+  ],
+  "translation": "Ha koʼápe ⟨pe⟩ Tora Moche omoĩ vaʼekue Jisrael mitãnguéra tenonde.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3ae0e96ff5066b6d6d2a533b6159e74b1b18fa26ece029fc5faa0a3379870225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/4\/44-44.1791266160782.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ha koʼápe"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "⟨pe⟩ Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "שם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenonde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:00.784251145Z",
+  "model": "glm-5.3"
+}

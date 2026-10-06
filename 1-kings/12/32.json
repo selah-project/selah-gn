@@ -1,0 +1,164 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 12:32",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "jasy poapyha, ára pa poapyha",
+      "rationale": "Pe versículo omoambue arange: jasy poapyha, ára pa poapyha — Jaravoam ojapo va'ekue Iehova arete arange rehegua."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨the⟩",
+      "rationale": "Hebreo ndorekóiva artículo peteĩha; avañe'ẽe oikotevẽkuaa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mba'e reru'ã",
+      "rationale": "מזבח — 'mba'e reru'ã' (oñeme'ẽhaguai'ãpe) ojeporu mizbeaj rendápe."
+    }
+  ],
+  "translation": "Ha Jaravoam ojapo peteĩ arete jasypoapyha jasy imbyte'ỹme, jasy imbyte'ỹme ára pa poapyhápe, arete oĩháicha Jehudape; ha ohupi ⟨the⟩ mba'e reru'ã ári. Upéicha ojapo Bet-El-pe, ojuka-ra'ã hag̃ua umi verra ha'e ojapova'ekue; ha omoĩ Bet-El-pe ⟨את⟩ umi pa'i óva yvate ha'e ojapova'ekue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3f541e60a3eac67916d173329e3ef424f6330722a1d52f3479bf3630c82828fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/12\/32-32.1791266434160.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravoam"
+    },
+    {
+      "surface": "חג",
+      "gloss": "arete"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "poapyha"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "jasýpe"
+    },
+    {
+      "surface": "כחג",
+      "gloss": "arete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩháicha"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudape"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ohupi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbaʼe reruʼãme"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-Elpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ojuka-raʼã hag̃ua"
+    },
+    {
+      "surface": "לעגלים",
+      "gloss": "umi verrape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "ו העמיד",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-Elpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi paʼi óva yvate"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "umi paʼi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "óva yvate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapovaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:34.161426086Z",
+  "model": "glm-5.3"
+}

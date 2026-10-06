@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמלל…אמלל",
+      "rationale": "Verteidigte Wiederholung: Bashan ha Karmel okangy, Levanon poty okangy — Wiederholung bleibt erhalten."
+    },
+    {
+      "kind": "substitution",
+      "subject": "okangy",
+      "rationale": "אמלל = welk\/siechwürdig; Guarani okangy (schwach werden) kommt nahe, nicht aber das Bild des Welkens."
+    },
+    {
+      "kind": "alternative",
+      "subject": "omombopara",
+      "rationale": "החריב = verdorren lassen\/veröden; Alternative: omokaytu opaite (alles trocknen lassen)."
+    }
+  ],
+  "translation": "Ochuka ⟨pe⟩ ypa rehe ha omokaytu chupe, ha opaite umi ysyry omombopara: okangy Bashan ha Karmel, ha Levanon poty okangy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9f83bbd6d24c65634e57a4cafd31ee09d04b2c4a06475ca30b5c626bcbededbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nahum\/1\/4-4.1791266725342.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "ochuka"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ypa rehe"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "ha omokaytu chupe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "umi ysyry"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "omombopara"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "okangy"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ha Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ha poty"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "okangy"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:25.344014674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 12:6",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "che",
+      "rationale": "Hebreo אשים ndohechaukái mávapa ojapo; che oñembojoaju Jahve ñeʼẽ rire (v.4 tuichakue)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ohekysẽta",
+      "rationale": "ואכלו heʼisénte 'okaru' — 'ohekysẽ' (oñemonguʼe) avañeʼẽme ojepuru tahaʼeháicha metáfora-pe."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלופי",
+      "rationale": "'ituvichakuéra' (jefe de clan) ambue versión-pe: 'dukes', 'chiefs', 'clans' — אלוף haʼe heta heʼiséva."
+    }
+  ],
+  "translation": "Upe árape che amoĩta ⟨את⟩ Jihuda ituvichakuéra che ruguai tatáicha yvyra apytépe, ha tata rendáicha avati mbyjápe; ha umi ohekysẽta akatúa gotyo ha asu gotyo ⟨את⟩ opavave umi tetãnguéra ijerére; ha Jerusalaim oikojeýta iñemohendaguape, Jerusalaimpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c7c25e11117582471399d67a9bbc1c4860edded2ddbd4b1928f3562304b26dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/zechariah\/12\/6-6.1791266694175.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "upe árape"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "che amoĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jihuda ituvichakuéra"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ituvichakuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "ככיור",
+      "gloss": "che ruguai tatáicha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "בעצים",
+      "gloss": "yvyra apytépe"
+    },
+    {
+      "surface": "וכלפיד",
+      "gloss": "ha tata rendáicha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "בעמיר",
+      "gloss": "avati mbyjápe"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ha ohekysẽta"
+    },
+    {
+      "surface": "על",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "akatúa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha gotyo"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "asu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opavave umi tetãnguéra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "umi tetãnguéra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "ha oikojeýta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jeýma"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "iñemohendaguape"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaimpe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:54.175725338Z",
+  "model": "glm-5.3"
+}

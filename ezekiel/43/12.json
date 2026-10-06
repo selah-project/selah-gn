@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "haʼe",
+      "rationale": "Hebreo ndorekóiva copula, oñembojoapy vaʼerã avañeʼẽme"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה ojehai hebreo ipúpe — 'léi' año nahániri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Emombe'u jey — hebreo mokõi jey omyengovia, avañeʼẽme marangatuite marangatu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ijerére jere jere",
+      "rationale": "Yvyty jerére moñeʼẽ — tekoha jepe'a"
+    }
+  ],
+  "translation": "Kóva haʼe ógua Tora: yvyty iñakã ári, opaite ijerére jere jere marangatuite marangatu. Ehecha, kóva haʼe ógua Tora.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a01ea2d682950a468dffc47a2260155616ccab9374b530f3ff26975a642f9a6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/43\/12-12.1791266627341.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kóva"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ógua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iñakã"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jere"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jere"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "marangatuite"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ógua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:47.342166451Z",
+  "model": "glm-5.3"
+}

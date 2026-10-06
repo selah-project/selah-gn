@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 8:4",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hugui",
+      "rationale": "ירך 'yvyra hugu'i' — hebreo oiporu hetymã raʼãnga'ãi; 'base' (ASV) ha'e ñemoambue"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקשה",
+      "rationale": "Ñeʼẽ jeʼepyre mokõi jey (frame-opening ha frame-closing), avañeʼẽme ndaipóri pe jehechajey reko"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "Oñembojoaju vaʼerã 'ohechauka vaʼekue' ryepýpe, ndaipóri ñeʼẽ joavýpe"
+    }
+  ],
+  "translation": "Ha kóva haʼe tembiaporã pe Menora mbaʼéva: mbaʼe oñemboʼýva tajygui ojepoáva, huguive hiʼã peve, ojepo oñemboʼýva; pe jehechauka raʼãngáicha Jahve ohechauka ⟨את⟩ Moche-pe, upéicha ojapo ⟨את⟩ pe Menora.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e80053a8b2f1eebc8e52203518424312f934c32d48cabfb0b9cbf626e6ba9c94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/8\/4-4.1791266095808.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ha kóva"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tembiaporã"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "pe Menora"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mbaʼe oñemboʼýva ojepoáva"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tajygui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "veive"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "hugui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "hiʼã"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "oñemboʼýva ojepoáva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "jehechauka raʼãngáicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohechauka vaʼekue"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ohechauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "pe Menora"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:55.808984743Z",
+  "model": "glm-5.3"
+}

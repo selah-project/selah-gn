@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבלע",
+      "rationale": "KJV\/JPS 'when covered\/swallowed' vs ASV 'even for a moment' (בלע as 'blink'); literal 'to swallow\/destroy'."
+    },
+    {
+      "kind": "you",
+      "subject": "Kohat ñemoñare",
+      "rationale": "Direct instruction to the Kohathites via Moses and Aharon."
+    }
+  ],
+  "translation": "Ha enteraguaʼu hasyʼỹ hag̃uarã che jahái — ñande rendápe: ani oñemongakuaa. Ha kuñataĩ raʼy hesaʼỹva oñemboja, ha upéicha che ag̃uahẽta.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "efc5266b241c7e026d75322d204113a7c375607c1d4a628d53836eb8bed07229",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/4\/20-20.1791266080019.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְלֹא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "יָבֹ֧אוּ",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לִרְא֛וֹת",
+      "gloss": "hecha hag̃uarã"
+    },
+    {
+      "surface": "כְּבַלַּ֥ע",
+      "gloss": "oñemongaʼu jave"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼe marangatu"
+    },
+    {
+      "surface": "הַקֹּ֖דֶשׁ",
+      "gloss": "mbaʼe marangatu"
+    },
+    {
+      "surface": "וָמֵֽתוּ",
+      "gloss": "ha omanóta"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:40.020256924Z",
+  "model": "glm-5.3"
+}

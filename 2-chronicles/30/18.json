@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 30:18",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Pésaj",
+      "rationale": "הפסח haʼe téra, oñeñongatu hebreo ipúpe"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכפר בעד",
+      "rationale": "'ojoko raʼãnga ñemboʼe rupi' (KJV 'pardon', YLT 'receive atonement')"
+    },
+    {
+      "kind": "addition",
+      "subject": "opavavére",
+      "rationale": "בעד oheja pe ojehechavaʼekue hikuái rehe, KJV omoĩ 'every one'"
+    }
+  ],
+  "translation": "Temimoĩ rupi pe tetãygua aty, heta Efrayim-gui, Menashe-gui, Jisajar ha Zevulon-gui, noñemongakuaa porãiri jepe, ha hoʼu ⟨את⟩ Pésaj nahesakãíicha ojehaívaicha. Upévare Jizkiahu oñemboʼe chupekuéra kuéra rehe, heʼívo: Jahve, marangatuvaʼekue, ñangarekóta opavavére",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6f985aecfddd6269639778969ff4ad8b1a885f1518460200a4db882c64b01370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/30\/18-18.1791267174906.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "temimoĩ rupi"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "temimoĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pe tetãygua aty"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "heta"
+    },
+    {
+      "surface": "מאפרים",
+      "gloss": "Efrayim-gui"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "Menashe-gui"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jisajar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "Zevulon-gui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "הטהרו",
+      "gloss": "noñemongakuaa porãiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hoʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésaj"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésaj"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nahesakãíicha"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ojehaívaicha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upévare"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jizkiahu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chupekuéra rehe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "marangatuvaʼekue"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ñangarekóta"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "opavavére"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:54.906755056Z",
+  "model": "glm-5.3"
+}

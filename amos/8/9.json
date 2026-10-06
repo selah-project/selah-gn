@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 8:9",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aoʼýpe",
+      "rationale": "צהרים haʼe vokál mokõiha, koʼã koʼẽ mbyte; 'aoʼýpe' (ao oñembohysýi haguére) ojeporu avañeʼẽme koʼẽ mbyte reheg̃uarã"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביום אור",
+      "rationale": "'ára ao porã' (kuaarahã porãva) térã 'kuaara ára' — 'ao porã' ohechauka pe ironía: ára hesaʼyvéva hína pe oñembaʼapóva"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אור \/ החשכתי",
+      "rationale": "emombeʼu joaju: kuaara árape oñembaʼapóa — pe mbaʼe ojoavyva ojuehegui oĩ peteĩ ñeʼẽjoapy ryepýpe"
+    }
+  ],
+  "translation": "Ha oikóta koʼã ára-pe, heʼi Adonai Jahve, che ambohéra ⟨araha⟩ ⟨kuarahy⟩ oguejývo aoʼýpe, ha ambaʼapóa yvy ao porã árape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "73b3f8bdcd0ec52552bf6691ccaf82877ef2d1a5d9ad1dc53b45523f2cedc204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/8\/9-9.1791266691904.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְהָיָ֣ה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "koʼã ára-pe"
+    },
+    {
+      "surface": "הַה֗וּא",
+      "gloss": "koʼã"
+    },
+    {
+      "surface": "נְאֻם֙",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִ֔ה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וְהֵבֵאתִ֥י",
+      "gloss": "ambohéra"
+    },
+    {
+      "surface": "הַשֶּׁ֖מֶשׁ",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "בַּֽצָּהֳרָ֑יִם",
+      "gloss": "aoʼýpe"
+    },
+    {
+      "surface": "וְהַחֲשַׁכְתִּ֥י",
+      "gloss": "ambaʼapóa"
+    },
+    {
+      "surface": "לָאָ֖רֶץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "בְּי֥וֹם",
+      "gloss": "ára-pe"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "ao porã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:51.904896807Z",
+  "model": "glm-5.3"
+}

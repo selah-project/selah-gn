@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekove",
+      "rationale": "נפשות is closer to 'life-forces\/breathing beings' than 'souls'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨opaite⟩",
+      "rationale": "Hebrew plural נפשות; avañeʼẽ needs a pluralizer"
+    },
+    {
+      "kind": "idiom",
+      "subject": "omoñe'ẽ",
+      "rationale": "ויפח literally 'puffs\/blows out' — rendered as 'breathes forth' words"
+    }
+  ],
+  "translation": "Omongakuaa ⟨opaite⟩ tekove pe jeikuaaukaha añetegua; ha omoñe'ẽ pa'i rei — mba'ejavý.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3e25cf505c39880654c61da46551e173a9201629073208b3c212b1a25a1d0190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/14\/25-25.1791266835359.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מַצִּיל",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "נְפָשׁוֹת",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "jeikuaaukaha"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "וְיָפִחַ",
+      "gloss": "ha omoñe'ẽ"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "pa'i rei"
+    },
+    {
+      "surface": "מִרְמָה",
+      "gloss": "mba'ejavý"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:15.362388743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 8:17",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משלח\/משליח",
+      "rationale": "Shalach root repeated — 'if you do not send… I will send' — the punishment mirrors the refused verb."
+    },
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "'arrov: mixed swarm of insects (LXX 'dog-fly'), Talmudic 'wild beasts', KJV 'swarms of flies'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "Direct conditional warning addressed to Pharaoh through Moshe."
+    },
+    {
+      "kind": "addition",
+      "subject": "che",
+      "rationale": "הנני rendered as emphasized pronoun 'che' with the verb carrying the 'behold I' force."
+    }
+  ],
+  "translation": "Haʼéramo ndemondoʼi ⟨את⟩ che tetãygua, che amondóta nde rehe, ne mbaʼapohára rehe, ne tetãygua rehe ha ne óga rehe ⟨את⟩ tahýi aty; ha Mitsraim retã óga oĩmbáta tahýi aty rehe, ha ⟨yvy oguerekóva hikuái⟩ avei.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "917866005893371936d308010679907e4dfe41ef33c3cd6f5db0876ebc71b7c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/8\/17-18.1791266049417.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haʼéramo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chaguãrã"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ndemondoʼi"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "remondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che tetãygua"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "che tetãygua"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "che"
+    },
+    {
+      "surface": "משליח",
+      "gloss": "amondóta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "ne mbaʼapohára rehe"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ne tetãygua rehe"
+    },
+    {
+      "surface": "ובבתיך",
+      "gloss": "ha ne óga rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahýi aty"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tahýi aty"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "oĩmbáta"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "óga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim retã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahýi aty"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tahýi aty"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oguerekóva"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "upévape"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:09.418924126Z",
+  "model": "glm-5.3"
+}

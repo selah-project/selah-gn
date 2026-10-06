@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 13:14",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tapia okakuaaʼỹre",
+      "rationale": "תפל haʼe tapia jahúva hérava okakuaaʼỹre; hebreo pehẽngue mokõi heʼi 'ko'ẽngóre' (frivolidad), ndaipóri avañeʼẽme peteĩ ñeʼẽ año"
+    },
+    {
+      "kind": "substitution",
+      "subject": "che Jahveha",
+      "rationale": "כי + אני יהוה ojehaíva 'che Jahveha' — avañeʼẽme 'Jahve' oikóva térarã, כי ndojehai peteĩ ñeʼẽ añonetépe"
+    },
+    {
+      "kind": "elision",
+      "subject": "וידעתם כי אני יהוה",
+      "rationale": "recognition-formula — Ezequiel pe ojehecha heta jey"
+    }
+  ],
+  "translation": "Ha che aityta ⟨את⟩ pe ituja pe peẽ peẽonguéra hague tapia okakuaaʼỹre, ha chémoĩta yvy rendápe, ha ojehecháta ipy, ha oguéne, ha peẽ reñembyai pe iñembytépe, ha peẽ aikuaáta che Jahveha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7e06d7d8f0d82e9a100d53264751f88c4e5975638f1fd5f6b91dd419c4b76e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/13\/14-14.1791266648690.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרסתי",
+      "gloss": "ha che aityta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ituja"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "pe ituja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "peẽ peẽonguéra hague"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "tapia okakuaaʼỹre"
+    },
+    {
+      "surface": "והגעתיהו",
+      "gloss": "ha chémoĩta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "ha ojehecháta"
+    },
+    {
+      "surface": "יסדו",
+      "gloss": "ipy"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "ha oguéne"
+    },
+    {
+      "surface": "וכליתם",
+      "gloss": "ha peẽ reñembyai"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "pe iñembytépe"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ha peẽ aikuaáta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:08.690607654Z",
+  "model": "glm-5.3"
+}

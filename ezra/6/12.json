@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 6:12",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "oipyt ipo",
+      "rationale": "ישלח יד — 'oipy ipo' heʼiséva 'onombaʼapo ojaposévo imbaʼe vai'; oñeʼẽkuaa literal oheja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eloha",
+      "rationale": "araméo אלהא — Eloha jehaipyre, ndahaʼéi 'tupã' Téra rendápe (D1)."
+    },
+    {
+      "kind": "crux",
+      "subject": "jeyke ñeʼẽ",
+      "rationale": "ימגר haʼe mbaʼevarã (jussivo, 'ombogueke') térã ojehaíva oiko hag̃ua? JPS heʼi 'may he overthrow' — mbaʼevarã jeyke."
+    }
+  ],
+  "translation": "Ha Eloha omoĩva itéra upépe — ombogue opaite mburuvicha ha tavaygua oipytéva ipo ko mbaʼe omoambue ha ombove hag̃ua Eloha óga ko, Jerusalaim-pe. Che, Darjavosh, amohenda tekojoja: pyaʼeitépe ojapóke.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "feffb7007ac0cb7e1471286315caba45b0cc93ecd18cb165bcc4b926f614e2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/6\/11-12.1791267060464.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהא",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "omoĩva"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "itéra"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ימגר",
+      "gloss": "ombogue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha tavaygua"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "oipytéva"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "להשניה",
+      "gloss": "omoambue"
+    },
+    {
+      "surface": "לחבלה",
+      "gloss": "ha ombove hag̃ua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ko"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "che"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darjavosh"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "amohenda"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "אספרנא",
+      "gloss": "pyaʼeitépe"
+    },
+    {
+      "surface": "יתעבד",
+      "gloss": "ojapóke"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:00.473101836Z",
+  "model": "glm-5.3"
+}

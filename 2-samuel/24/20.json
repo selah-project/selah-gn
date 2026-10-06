@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ápe",
+      "rationale": "Hebreo ndoguerekói iñe'ẽpehẽ 'a', ha katu אַפָּיו אָרְצָה ohecha va'erã moõpa oñembo'y"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ijyva",
+      "rationale": "אַפָּיו ary 'ijyva' avei 'py'ung' he'iséva; avañe'ẽme 'yva' ha'e héra teete"
+    }
+  ],
+  "translation": "Aravna omaña okápe ha ohecha ⟨את⟩ mburuvicha guasu ha ⟨את⟩ imba'apohára kuéra ohasáva hese; ha Aravna osẽ ha oñembo'y mburuvicha guasu ápe, ijyva yvýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0aa8ed69d069b5ab40f40ee5bc25f1aa4f7d516361825c3ca9949bc183a1ac77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/24\/20-20.1791266398832.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "omaña okápe"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mburuvicha guasu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba'apohára kuéra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imba'apohára kuéra"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ohasáva"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "oñembo'y"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvicha guasu ápe"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "ijyva"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:58.834119819Z",
+  "model": "glm-5.3"
+}

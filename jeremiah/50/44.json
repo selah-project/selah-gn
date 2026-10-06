@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "jeremiah 50:44",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "'ipytuháva' (permanente); KJV\/JPS 'kóga imbareteguáva' (morada fuerte) vs BSB 'ka'avo ysyrýpe oñemoĩva' (pastizal perenne)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארגעה",
+      "rationale": "'amoĩta pytuʼu' (haré reposar, Genebra) vs mayoría 'de repente' (de רגע, momento); el sujeto de ארוצם es disputado"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי ×3",
+      "rationale": "Triple interrogación retórica 'mávapa' — desafío de quien habla, eco de 49:19"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "relativo sin glosa separada; absorbido en 'pe oñarõva oñembyatýta'"
+    }
+  ],
+  "translation": "Pe, jaguare ramo ojupíta Yarden ñemonguera guasúgui, oho jave ⟨upe⟩ kóga ipytuhápe; ha amoĩta chupekuéra pytuʼu ha ojaposáta pyaʼeite hendivegui; ha mávapa pe oñembojapegua amohendata hendupe? Néi, mávapa che raʼy? ha mávapa ojapóta cherehe aravo? ha mávapa pe oñarõva oñembyatýta che renondépe?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a4a5c6e82ca37e23ae33c3dc14f5ec6e1b878f0cf7b5f5bdd38df829f40e86bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/50\/44-44.1791266666750.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jaguare ramo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ojupíta"
+    },
+    {
+      "surface": "מגאון",
+      "gloss": "ñemonguera guasu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oho jave"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "kóga"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ipytuháva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "néi"
+    },
+    {
+      "surface": "ארגעה",
+      "gloss": "amoĩta pytuʼu"
+    },
+    {
+      "surface": "ארוצם",
+      "gloss": "ojaposáta pyaʼeite"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "hendivegui"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "oñembojapegua"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hendupe"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "amohendata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "néi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mávapa"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "che raʼy"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "יועדני",
+      "gloss": "ojapóta cherehe aravo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ha mávapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "pe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "oñarõva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "oñembyatýta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "che renondépe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:26.751929786Z",
+  "model": "glm-5.3"
+}

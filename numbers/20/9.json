@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "renondépegui",
+      "rationale": "מלפני literalmente 'rova renondégui' — avañeʼẽme 'renondépegui' ojeporu"
+    }
+  ],
+  "translation": "Ha Moiche og̃eraha ⟨את⟩ takuapu Jahve renondépegui, ojapoháicha chupe ojapose hague.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "27a7215e4e37d48b862708e2c5216ac5420ea14a6e81f49ef723a19d5a8f52f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/20\/8-9.1791266115488.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og̃eraha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moiche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takuapu"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "takuapu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondépegui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ojapoháicha"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ojapose hague"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:15.489650039Z",
+  "model": "glm-5.3"
+}

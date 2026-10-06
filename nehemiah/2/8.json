@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 2:8",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ipó iporãva",
+      "rationale": "'pó porã Elohim mbaʼe' — hebreo ñeʼẽte 'the good hand of God upon me' he'iséva ivaiporãva Ehérsito — ojehechauka pytyvõ ha ñemomborúicha."
+    },
+    {
+      "kind": "crux",
+      "subject": "הבירה",
+      "rationale": "Birah — 'óga guasu' (fortaleza\/palacio) térã 'birá' — hebreo ñeʼẽ he'iséva castillo; KJV 'palace', JPS 'castle'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "yvyra guasu",
+      "rationale": "Pardes haʼe peĩera yvyra guasu pegua (persa ñeʼẽ origén), ndahaʼéi tekoha rehegua año."
+    }
+  ],
+  "translation": "Ha avei peteĩ kuatiañeʼẽ Asaph-pe, pe mongaraihára pe mburuvicha guasu yvyra guasu rehegua, omeʼẽ hag̃ua chereve yvyra ingysýi hag̃ua ⟨את⟩ okẽ kuéra óga guasu, oguapýva óga-pe guarã, ha itapyi guasu táva mbaʼépe guarã, ha óga-pe amóva aikéta pype. Ha omeʼẽ chereve pe mburuvicha guasu, che Elohim ipó iporãva ipóicha che ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "2aa6d38d5ebdb7c506ec4e5b4d9cdd26b4fced1f237db3a770e66537f6a22f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nehemiah\/2\/8-8.1791267007460.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגרת",
+      "gloss": "ha avei peteĩ kuatiañeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaph"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mongaraihára"
+    },
+    {
+      "surface": "הפרדס",
+      "gloss": "yvyra guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chereve"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "לקרות",
+      "gloss": "ingysýi hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okẽ kuéra óga guasu"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "okẽ kuéra"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "óga guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oguapýva"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "óga-pe guarã"
+    },
+    {
+      "surface": "ולחומת",
+      "gloss": "ha itapyi guasu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ha óga-pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amóva"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aikéta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pype"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ha omeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chereve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha guasu"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "ipóicha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ipó iporãva"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che ári"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:07.464981310Z",
+  "model": "glm-5.3"
+}

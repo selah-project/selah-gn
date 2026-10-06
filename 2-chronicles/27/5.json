@@ -1,0 +1,167 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 27:5",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tributo",
+      "rationale": "Oĩ sãmbyhy: sa kikar itaju, pa ary sua kor trigo ha pa ary sua kor cebada, mbohapy ary pukukue."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השיבו",
+      "rationale": "Hebreo «שוב» (ojevy, omeʼẽ jey) — avañeʼẽme «omeʼẽ jey», ojehecha hikuái omeʼẽha jey, noiporũmbái."
+    },
+    {
+      "kind": "addition",
+      "subject": "upe",
+      "rationale": "Pe arýpe haʼeháicha — ההיא oĩ hebreope, avañeʼẽme oñembojoaju «pe arýpe» rehe."
+    }
+  ],
+  "translation": "Ha haʼe oñorãirõ Amón mitãnguéra mburuvicha rehe, ha ipuʼaka chuguikuéra; upémarõ Amón mitãnguéra omeʼẽ hikuái chupe pe arýpe sa kikar itaju ha pa ary sua kor trigo ha pa ary sua cebada; kóva Amón mitãnguéra omeʼẽ jey hikuái chupe, arapy mokõiha ha mbohapyhápe avei.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "58d7fa4af41c0d3f42064db4ef9bc5bd077aba5da328ad75195de9117699fc19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/27\/5-5.1791267176113.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ha haʼe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "oñorãirõ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ha ipuʼaka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "omeʼẽ hikuái"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pe arýpe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "upe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "ha pa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ary sua"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kor"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ושעורים",
+      "gloss": "ha cebada"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ary sua"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "omeʼẽ jey hikuái"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "arapy"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "mokõiha"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ha mbohapyhápe avei"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:56.114487989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרע\/קרס",
+      "rationale": "v1-pegua ombojoaju mokõi ñe'ẽ juajuha (oñemokã\/oñembokarãi) ha v2 omyengovia iñemohenda — chiasmus oñongatu va'erã"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחיה ולבהמה",
+      "rationale": "'tekove-mymba ha mymba' — ¿ta'angakuéra ojukupyty mymbáre (KJV) térã oiko mymba ramo (BSB)? mokõi je'epyre oĩ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשואתיכם",
+      "rationale": "mokõi ñe'ẽte: 'umíva nde poipeguáva' — 'nde' (juda hapichakuéra) tai reheve"
+    }
+  ],
+  "translation": "Bel oñemokã, Nevo oñembokarãi; ta'angakuéra oiko tekove-mymba ha mymba nguéra rehe; pe mba'erepy nde reheguáva henyhẽ heta mba'égui, pepo hasývape guarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5d2035182e613cda2f9cf7bfe38e3a70604bbd77fbdfec95cc7c3ef35b131b31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/46\/1-2.1791266614988.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "oñemokã"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "oñembokarãi"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ta'angakuéra"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "tekove-mymba"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ha mymba"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "pe mba'erepy nde reheguáva"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "henyhẽ heta mba'égui"
+    },
+    {
+      "surface": "משא",
+      "gloss": "pepo"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "hasývape guarã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:34.989471784Z",
+  "model": "glm-5.3"
+}

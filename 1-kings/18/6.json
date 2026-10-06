@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "halak bederekkh echad levaddo",
+      "rationale": "The phrase 'walked one way by himself' repeats verbatim for Ajav and Ovadiahu — a balanced mirrored clause preserved in the Guaraní repetition."
+    },
+    {
+      "kind": "addition",
+      "subject": "chuguakuéra",
+      "rationale": "להם 'to them' is explicit in Hebrew but the reflexive division 'among themselves' is drawn out in the rendering."
+    }
+  ],
+  "translation": "Upéicha oñembojaovy chuguakuéra ⟨את⟩ yvy ohasa hag̃ua hese; Ajav oguata peteĩ tape iñakãrireínte, ha Ovadiahu oguata peteĩ tape iñakãrireínte.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f8f72a52cc915f8f95836e5d6175d8d8919260059724cd4f0e8efd0f7c5604dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/18\/5-6.1791267231557.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "oñembojaovy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ohasa hag̃ua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "iñakãrireínte"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ha Ovadiahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oguata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tape"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "iñakãrireínte"
+    }
+  ],
+  "timestamp": "2026-10-06T06:13:51.561450434Z",
+  "model": "glm-5.3"
+}

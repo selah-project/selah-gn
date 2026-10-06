@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 21:37",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Ammón (the land addressed as feminine)",
+      "rationale": "Second-person feminine forms תהיה\/תזכרי address the land\/personified nation directly"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמך\/תזכרי",
+      "rationale": "Sound echo dam\/vezakkêr in the Hebrew judgment formula, lost in Guaraní"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאכלה",
+      "rationale": "Hebrew 'for food\/consumption' for fire rendered as 'fuel to burn', keeping the eating-for-fire picture"
+    }
+  ],
+  "translation": "Tataipe g̃uarã reñotĩ hag̃ua rembyasy: nde tuguy oikóta yvy mbytépe; ndojehueramoʼãi nde rehegua; che Jahve haʼe che ae che ñeʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1dae85b6a4b36da4122b25b01a2124369163b40f45b9a57f07887e4e15acae7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/21\/37-37.1791266625670.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאש",
+      "gloss": "tataipe g̃uarã"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "rembyasy"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "reñotĩ hag̃ua"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "nde tuguy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo-"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "jehueramoʼãi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che ae"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "che ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:45.671216167Z",
+  "model": "glm-5.3"
+}

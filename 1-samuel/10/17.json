@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויצעק",
+      "rationale": "'ohenoí' (ojoaju hagua) vs he'iséva tenondegua 'osapukái \/ omoñe'ẽ hory' — ñe'ẽ ysapukãi rg"
+    },
+    {
+      "kind": "substitution",
+      "subject": "renondépe",
+      "rationale": "Hebreo 'אל' (Jahve rupi'õ guasúpe) ohasa 'renondépe' ramo"
+    }
+  ],
+  "translation": "Ha Chemuél ohenói ⟨את⟩ umi tavaygua Jahve renondépe Mitspa-pe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7c85a177b5fde1aaebd2e1996b9e3703e0018428f9da6ad10227ce3acd0e3de1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/10\/17-17.1791266320925.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi tavaygua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umi tavaygua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:40.926423642Z",
+  "model": "glm-5.3"
+}

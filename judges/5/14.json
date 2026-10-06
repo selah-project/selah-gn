@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 5:14",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "iñakãrakũva Amalek-pe",
+      "rationale": "שרשם בעמלק: 'root of them against Amalek' (KJV) vs 'root in Amalek' (JPS, mixing with Amalekites) vs 'their root sprouted in Amalek territory'."
+    },
+    {
+      "kind": "crux",
+      "subject": "taijohára",
+      "rationale": "מחקקים: 'lawgivers' (from חקק engrave statutes) vs 'governors' (KJV\/ASV) vs 'scribes'."
+    },
+    {
+      "kind": "crux",
+      "subject": "taʼýra taijohára mbaʼéva",
+      "rationale": "שבט ספר: 'staff of the scribe' vs 'marshal's staff' (JPS\/ASV) vs 'pen of the writer' (KJV) — the same two words read three ways."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחקקים \/ ספר",
+      "rationale": "both tokens pivot on engraving\/marking — statutes, scribes, staffs all from one image-field, partially preserved in 'taijohára' twice."
+    }
+  ],
+  "translation": "Efraim-gui osẽ umi iñakãrakũva Amalek-pe; nde rire, Binjamin, nde retãnguéra apytépe; Makir-gui onoʼã umi taijohára, ha Sebulon-gui umi oityva ⟨taʼýra⟩ taijohára mbaʼéva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f7e7b2a5054518230e82b36b4a63bf49513995b36bf51d080f1bc6126b57e7ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/5\/14-14.1791266258606.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מני",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "iñakãrakũva"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "Amalek-pe"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "nde rire"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "בעממיך",
+      "gloss": "nde retãnguéra apytépe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "onoʼã"
+    },
+    {
+      "surface": "מחקקים",
+      "gloss": "taijohára"
+    },
+    {
+      "surface": "ומזבולן",
+      "gloss": "ha Sebulon-gui"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "oityva"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "taʼýra rehe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "taijohára"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:38.610887617Z",
+  "model": "glm-5.3"
+}

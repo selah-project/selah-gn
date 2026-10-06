@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 8:22",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mburuvicha",
+      "rationale": "מלך ha'e 'mburuvicha' avañe'ẽme; ndojehai 'rey' ni 'rréi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע בקולם",
+      "rationale": "'eñuhã ñe'ẽme' — hebreo ojeporu 'ñe'ẽ' (קול) he'isénte temimoĩã; avañe'ẽme ndaipóri pe ijojaha"
+    }
+  ],
+  "translation": "Ha Jahve he'i Chemuel-pe: Eñuhã irundynderã ñe'ẽme, ha eñohẽ chupekuéra mburuvicha ramo. Ha Chemuel he'i Jisrael ývyporakuérape:hoi peẽpaite, peteĩteĩ i tárape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bd7c3e15f86afe7f7017a8bbbd637753cf1259f5e758313bc0b25c98909cf4db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/8\/22-22.1791266326987.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eñuhã"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "irundynderã ñe'ẽme"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "ha eñohẽ mburuvicha ramo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ývyporakuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hoi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩ"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "i tárape"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:46.988542529Z",
+  "model": "glm-5.3"
+}

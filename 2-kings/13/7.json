@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 13:7",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mbohapo kavaju ári ova'ẽva, pa mba'yruguata, pa su tavayguakuéra",
+      "rationale": "Tuvichavai ñemohenda: ejérsito ojekuaa papapy rupive — mbohapo, pa, pa su."
+    },
+    {
+      "kind": "idiom",
+      "subject": "itakuãrãichagua oñembokapukuaa hag̃ua",
+      "rationale": "כעפר לדש: 'itakuãrãichagua oñembokapukuaa hag̃ua' — ta'angambyre ejérsito ojeipe'aháicha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mburuvicha",
+      "rationale": "מלך 'mburuvicha'; ndojehai 'rey' (castellano ñe'ẽ) Téra rendápe."
+    }
+  ],
+  "translation": "Rupive ndaipóri ojehejáva Yehoahaz-pe tavayguakuéra, upéva rangue añónte mbohapo kavaju ári ova'ẽva, ha pa mba'yruguata, ha pa su tavayguakuéra ovevýva; rupive Aram mburuvicha omongyhyipa chuguakuéra ha ojapo chuguakuéra itakuãrãichagua oñembokapukuaa hag̃ua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9ecd8a39648afffc9e3c91b96d8053b46037abb4ce401c416666803622d5c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/13\/7-7.1791266497930.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ojehejáva"
+    },
+    {
+      "surface": "ליהואחז",
+      "gloss": "Yehoahaz-pe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upéva rangue"
+    },
+    {
+      "surface": "אם",
+      "gloss": "añónte"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mbohapo"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kavaju ári ova'ẽva"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ha pa"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "mba'yruguata"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "ha pa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "tavayguakuéra ovevýva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rupive"
+    },
+    {
+      "surface": "אבדם",
+      "gloss": "omongyhyipa chuguakuéra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "ha ojapo chuguakuéra"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "itakuãrãichagua"
+    },
+    {
+      "surface": "לדש",
+      "gloss": "oñembokapukuaa hag̃ua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:37.932053592Z",
+  "model": "glm-5.3"
+}

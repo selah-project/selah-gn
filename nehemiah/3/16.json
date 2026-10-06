@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 3:16",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ombapo jejopypyrépe",
+      "rationale": "החזיק lit. 'fasten upon\/seize', here idiom for repair-work on the wall"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbaʼekuaaukahára",
+      "rationale": "קברי lit. 'sepulchres\/tombs' of David"
+    },
+    {
+      "kind": "measurement",
+      "subject": "landmarks",
+      "rationale": "verse fixes the repaired stretch by three boundary landmarks: tombs of David, the made pool, house of the mighty"
+    }
+  ],
+  "translation": "Ihague ombaʼapo jejopypyrépe Nehenjia, Azbuk raʼýicha, pe pehẽngue mokõiha ñemohenda pegua Beith-Tsur-gui, pe David mbaʼekuaaukahára róga renondépe, pe ojejapovaʼekue ysykuápe, pe imbareteitévape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "54a1f87dad40d75ec56650e8ad3b5d142d1ee5736b1b24acad44a10813d1df98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nehemiah\/3\/16-16.1791267031761.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "Ihague"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ombaʼapo jejopypyrépe"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nehenjia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "raʼýicha"
+    },
+    {
+      "surface": "עזבוק",
+      "gloss": "Azbuk"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "pehẽngue mokõiha"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ñemohenda pegua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "mbaʼekuaaukahára"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ysykuápe"
+    },
+    {
+      "surface": "העשויה",
+      "gloss": "ojejapovaʼekue"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "róga"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "imbareteitéva"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:31.766675615Z",
+  "model": "glm-5.3"
+}

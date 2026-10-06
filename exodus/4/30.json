@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וידבר\/דבר\/הדברים",
+      "rationale": "Root דבר triple repetition: spoke\/words\/spoke, a sound-play lost in avañe'ẽ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האתת",
+      "rationale": "'Techaukaha' (signs\/omens) renders the Hebrew signal-words; 'milagro' would import later doctrine."
+    },
+    {
+      "kind": "measurement",
+      "subject": "כל",
+      "rationale": "The totality 'opaite' — all the words, none withheld — is a counting frame."
+    }
+  ],
+  "translation": "Ha Aharon oñe'ẽ ⟨את⟩ opaite umi ñe'ẽ Jahve oñe'ẽ va'ekue Mochépe, ha ojapo umi techaukaha tavayguakuéra resa ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8f14dd41c2109d2d6d8d80458dda468b292f1502f19b86005163249ee93f446e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/4\/30-31.1791265955431.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñe'ẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñe'ẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñe'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mochépe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "umi techaukaha"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "resa ári"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:35.432614439Z",
+  "model": "glm-5.3"
+}

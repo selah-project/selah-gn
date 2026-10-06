@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zav",
+      "rationale": "הזב 'pe oguerekóva ñemongu'i' ha ñeʼẽ tekorãrõ oguerekóva héra iñeʼẽme; avañeʼẽme ndaipóri peteĩ ñeʼẽ añoite"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oñembyaíta",
+      "rationale": "טמא ha'e mba'e tekorãrõ ñembyai, ndaha'éi mba'e vai apytuʼũrehegua"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ka'aru meve",
+      "rationale": "aravo ñemohenda: ñembyai paha ojehecha kaʼarúpe"
+    }
+  ],
+  "translation": "Ha pe ojepysóva pire rehe pe oguerekóva ñemongu'i, ojohéi va'erã iao ha oñemongarãi ýpe, ha oñembyaíta ka'aru meve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "552e9defccae975c95cc53da877043451bc9c8a97f25f1ffa0ec1a6a22689a33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/leviticus\/15\/7-8.1791266145155.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "ha pe ojepysóva"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "pire rehe"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "pe oguerekóva ñemongu'i"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ojohéi va'erã iao"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iao"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "oñemongarãi ýpe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "oñembyaíta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ka'aru"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:45.157135431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iñeʼẽ",
+      "rationale": "קול haʼe ‘pytuʼu ndahetái, ñeʼẽ’, koʼápe oñembohasa ‘iñeʼẽ’"
+    },
+    {
+      "kind": "substitution",
+      "subject": "che jejerurevusu",
+      "rationale": "תחנון heʼise ‘jejerure tyaiʼýpe’"
+    }
+  ],
+  "translation": "Jahve oreko ñembojeguaru, haʼeñehaʼãnguémarõ ohendu che jejerurevusu iñeʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/28\/5-8.1791266740946.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "oreko ñembojeguaru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼeñehaʼãnguémarõ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "che jejerurevusu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:40.948708635Z",
+  "model": "glm-5.3"
+}

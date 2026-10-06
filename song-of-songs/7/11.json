@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i-mohaʼãnguera",
+      "rationale": "תשוקה haʼe mbohovái pyʼaguapy vaípe: ehénthe, tesapara — ndahaʼéi 'mohaʼãnguera' añónte"
+    },
+    {
+      "kind": "crux",
+      "subject": "versículo 11–12 ñemoĩ",
+      "rationale": "JPS ombojoaju v11 ha v12 (Hebreo ñeʼẽteē ha KJV iñapañuãi); ko ára KJV raʼanga oreko v11 = 'Che ahína...' ha v12 = 'Eju che rayha...'"
+    }
+  ],
+  "translation": "Che ahína che rayha mbaʼéva, ha i-mohaʼãnguera oĩ che ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c67bc301b9c0a2b22fe5479d565b5594e9a485e0b537917e3e3c5a20973d6cb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/song-of-songs\/7\/11-12.1791266926228.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "che rayha mbaʼéva"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "che ári"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "i-mohaʼãnguera"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:46.231989173Z",
+  "model": "glm-5.3"
+}

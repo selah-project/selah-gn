@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "che",
+      "gloss": "jehaipyre oñembojoapy vaʼerã",
+      "rationale": "construct עזי, מגני oguereko possessive; hebreo ndorekói ‘is’"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבי",
+      "rationale": "‘che korasõ’ ojeja jey mokõive jey, estructura iterativa"
+    }
+  ],
+  "translation": "Jahve che ipuʼakáva ha che moñangarekoha; ichupe che korasõ ojerovia, ha che pytyvõmbyre, upémarõ che korasõ ovyʼaiterei, ha che purorýpe ahaʼãʼã chupe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/28\/5-8.1791266740946.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "che ipuʼakáva"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "che moñangarekoha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ojerovia"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "che pytyvõmbyre"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "che korasõ ovyʼaiterei"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "che korasõ"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "che purorýpe"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ahaʼãʼã chupe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:40.949828842Z",
+  "model": "glm-5.3"
+}

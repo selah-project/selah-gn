@@ -1,0 +1,175 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 5:19",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחא",
+      "rationale": "Aramaic Aphel of חיא 'keep alive' (KJV\/JPS 'kept alive'); Geneva\/Wycliffe read 'he smote' — one verb, two ancient readings."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צבא",
+      "rationale": "Strong's glosses 'to please', but in Biblical Aramaic it marks ipseity: 'he himself willed', rendered oipota."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "fourfold די הוה צבא הוא",
+      "rationale": "Four identical clauses (kill \/ keep alive \/ raise up \/ put down) build stately royal-absolutism rhythm; Aramaic repetition kept structurally in Guaraní."
+    }
+  ],
+  "translation": "Ha pe tuichakue rehe omeʼẽ hague chupe, opaite avakuéra, tetãnguéra ha ñeʼẽnguéra ojejuruja ha oguerovia henondepe; haʼe oipota, haʼe ojuka; ha haʼe oipota, haʼe ombojekuaa; ha haʼe oipota, haʼe ombotuichauka; ha haʼe oipota, haʼe omboguejy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d7cfdf007aecf86cc735aa0dd66172f852687eb2f02b5db8e8eb893cd6a7446f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/5\/19-19.1791267042049.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ha ... rehe"
+    },
+    {
+      "surface": "רבותא",
+      "gloss": "tuichakue"
+    },
+    {
+      "surface": "די",
+      "gloss": "hague"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "ha ñeʼẽnguéra"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "oiko hikuái"
+    },
+    {
+      "surface": "זאעין",
+      "gloss": "ojejuruja"
+    },
+    {
+      "surface": "ודחלין",
+      "gloss": "ha oguerovia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "henondepe"
+    },
+    {
+      "surface": "די",
+      "gloss": "upe"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "קטל",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מחא",
+      "gloss": "ombojekuaa"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ombotuichauka"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "oipota"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "omboguejy"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:42.055072921Z",
+  "model": "glm-5.3"
+}

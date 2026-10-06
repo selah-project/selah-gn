@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 7:14",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הָעַלְמָה",
+      "rationale": "'kuñataĩ okakuaapáva' (young woman, with article = a specific one) vs 'virgen' (LXX parthenos \/ NT Matthew); JPS agrees with 'young woman'."
+    },
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Hebrew lacks article before אוֹת; Guaraní needs 'pe' here, bracketed."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עִמָּנוּ אֵל",
+      "rationale": "The name Imanuel is itself the sentence 'El ñande ndive' (God-with-us); kept as one name with the meaning spelled out."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וְקָרָאת",
+      "rationale": "Feminine singular verb: 'she (the young woman) shall call' — not impersonal; rendered 'ohenóita' with she as subject understood."
+    },
+    {
+      "kind": "you",
+      "subject": "David óga",
+      "rationale": "The sign is addressed to the house of David (v.13 context), 'peinde' = to you (plural)."
+    }
+  ],
+  "translation": "Upéicha rupi, Adonai voi ome'ẽta peinde ⟨pe⟩ je'apa: Ehecha, pe kuñataĩ okakuaapáva oguereko ñembyaty ha rome'ẽta peteĩ taʼyra, ha ohenóita héra Imanuel — he'iséva «El ñande ndive».",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "597cc4d43fb0a9b258cff4a66e22fd317e09289d6802658e3b92164b70c56c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/7\/14-14.1791266511367.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upéicha rupi"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "ome'ẽta"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "peinde"
+    },
+    {
+      "surface": "אוֹת",
+      "gloss": "je'apa"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "הָעַלְמָה",
+      "gloss": "pe kuñataĩ okakuaapáva"
+    },
+    {
+      "surface": "הָרָה",
+      "gloss": "oguereko ñembyaty"
+    },
+    {
+      "surface": "וְיֹלֶדֶת",
+      "gloss": "ha rome'ẽta"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "peteĩ taʼyra"
+    },
+    {
+      "surface": "וְקָרָאת",
+      "gloss": "ha ohenóita"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "héra"
+    },
+    {
+      "surface": "עִמָּנוּ",
+      "gloss": "El ñande ndive (Imanuel)"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:51.368140644Z",
+  "model": "glm-5.3"
+}

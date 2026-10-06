@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 16:42",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mbaʼe takapu mokõiiva",
+      "rationale": "מצלתים haʼe dual — mokõi mbaʼe takapu joja (cimbales), mokõiite heʼi hebreo"
+    },
+    {
+      "kind": "addition",
+      "subject": "oĩ",
+      "rationale": "hebreo ndorekói kópula; avañeʼẽme oñemoĩva'erã"
+    },
+    {
+      "kind": "alternative",
+      "subject": "l\/8085",
+      "rationale": "למשמיעים ikatu 'omoñepyrũ hagua pu' térã 'ohendukavaʼerã hagua' (causative 'ehendu')"
+    },
+    {
+      "kind": "crux",
+      "subject": "okẽme",
+      "rationale": "KJV 'porters' (okẽ ñangarekohára) vs YLT\/JPS 'at the gate' — לשעar只有 'okẽpe'"
+    }
+  ],
+  "translation": "Ha Heman ha Jidutun chuguikuéra ndive, oĩ trompeta kuéra ha mbaʼe takapu mokõiiva omoñepyrũ hagua ⟨pe⟩ pu, ha mbaʼe purahéi Elohim mbaʼéva; ha Jidutun raʼykuéra oĩ okẽme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "55022344d25032b2164ae09d6e302aebf8615a7be235c32723de5bab9a2e758f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/16\/42-42.1791267135333.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "chuguikuéra ndive"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heman"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "ha Jidutun"
+    },
+    {
+      "surface": "חצצרות",
+      "gloss": "trompeta kuéra"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "ha mbaʼe takapu mokõiiva"
+    },
+    {
+      "surface": "למשמיעים",
+      "gloss": "omoñepyrũ hagua ⟨pe⟩ pu"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ha mbaʼe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "purahéi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ha raʼykuéra"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jidutun"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "okẽme"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:15.333953110Z",
+  "model": "glm-5.3"
+}

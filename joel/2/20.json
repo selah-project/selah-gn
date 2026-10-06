@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 2:20",
+  "book": "joel",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצפוני",
+      "rationale": "'yvatepegua' — yvypóra térã tymbachupe guarã? KJV 'northern army', YLT 'the northern'; hebreo año-pe haʼe 'pe yvategua'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי הגדיל לעשות",
+      "rationale": "'ojapo heta mbaʼe' (KJV) térã 'omombaʼeguasu ichupe ojapo hague' (Geneva, haʼeñomi rehe) — mávapa ojapo heta mbaʼe: pe ejérsito térã Jahve."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותעל צחנתו",
+      "rationale": "avañeʼẽme ndaipóri ñeʼẽ jojaháva 'tsahana' rendápe; 'heta tekove ñandu' — pe mbaʼe jaikuaáva haʼe pe ñandu tee oykeo apa rire."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ועלה באשו \/ ותעל צחנתו",
+      "rationale": "mokõi ñeʼẽ ojoavyvaʼekue (beoshi \/ tsahná) — jepivegua ijojaha ñeʼẽpotýpe; ko ápe jajapo mokõi ñeʼẽ jojaʼỹva."
+    }
+  ],
+  "translation": "Ha ⟨הצפוני pegua⟩ — che amombyry ⟨את⟩ pe yvatepegua pende pukúpe, ha ahẽi chupe peteĩ yvy tuja ha oñembyaiígpe: ⟨את⟩ hova kuarahyresẽ paraguápe, ha iñakãrive para pahagotyo; ha osẽta iñaña, ou heta tekove ñandu — haʼe ningo ojapo heta mbaʼe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a3638106cacbc11d773b3f4d36a8ed992744f96b2ebae465d1a440fb04af2d37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joel\/2\/20-20.1791266719082.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvatepegua"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "yvatepegua"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "amombyry"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "pende pukúpe"
+    },
+    {
+      "surface": "והדחתיו",
+      "gloss": "ahẽi chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe gotyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "tuja"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "oñembyaiígpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hova"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe paraguápe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "kuarahyresẽ"
+    },
+    {
+      "surface": "וספו",
+      "gloss": "iñakãrive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upe gotyo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "para"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "pahague"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "osẽta"
+    },
+    {
+      "surface": "באשו",
+      "gloss": "iñaña"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ou"
+    },
+    {
+      "surface": "צחנתו",
+      "gloss": "heta tekove ñandu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼe ningo"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ojapovaʼekue heta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:19.083086719Z",
+  "model": "glm-5.3"
+}

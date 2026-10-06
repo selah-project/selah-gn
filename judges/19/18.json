@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 19:18",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jahve óga",
+      "rationale": "בית יהוה: ko'ág̃a versículo he'i 'Jahve óga' (Bethel térã Chilováivo?); hetã kuatiañemuhápe ohai 'ביתי' ('che óga') — omboyke pe leo."
+    },
+    {
+      "kind": "you",
+      "subject": "ku karai guataháva ñe'ẽ",
+      "rationale": "Ñembohovái karai kakuaává porandúpe; ohechauka moõguipa ou ha moõpa oho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Beit Lejem ñembohasa mokõi jey",
+      "rationale": "Téra ou jey jey haihárape ohechauka hag̃ua tape apo; avañe'ẽme ndaipóri pe jesareko."
+    }
+  ],
+  "translation": "Ha he'i chupe: Ore guatakuéra jupi Beit Lejem Jehuda-gui Efrain yvyty ijyke pukukuépeve; upégui che aháguive, ha aho avei Beit Lejem Jehuda peve; ko'ág̃a ⟨את⟩ Jahve óga che aguata, ha ndaipóri avave omohẽva ⟨את⟩ che ógape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7278b0b7e6ae9c2fb9982bb4ab6256e26bf8375e910e94c7385769eb6ae01ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/19\/17-18.1791266290078.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "guatakuéra"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ore"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Beit Lejem-gui"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lejem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ijyke pukukuépe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrain"
+    },
+    {
+      "surface": "משם",
+      "gloss": "upégui"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ha aho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lejem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "aguata"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "avave"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "omohẽva"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ che",
+      "marks": "ógape"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ógape"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:10.080895848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 41:42",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ses",
+      "rationale": "ש׵שׁ haʼe linjo morotĩ; 'ses' haʼe pe mbaʼe malvavisco-gui oñeguenoʼẽva, ñeʼẽ ojehayhúva pe mbaʼe rehegua"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רבד",
+      "rationale": "Ravíd — kuatiañeʼe ryru pehẽngue año ko ñeʼẽgua ko versículo-pe año"
+    }
+  ],
+  "translation": "Paroh oipeʼa ⟨את⟩ iñairó̃ iñepó árigui, omeʼe ⟨את⟩ chupe Jósef pópe, oahaʼo ⟨את⟩ chupe aopokuéra ses rehegua, ha omoĩ kuarepoti juja iñakã ju ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ef860c7ec0eb5814469042bace0c8109262e56bcdb6ec37e2d48d59052082d51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/41\/42-42.1791265932446.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñairó̃"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "iñairó̃"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "árigui"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iñepó"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "omeʼe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iñairó̃ (chupe)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Jósef pópe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "oahaʼo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Jósef (chupe)"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aopokuéra"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ses rehegua"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "omoĩ"
+    },
+    {
+      "surface": "רבד",
+      "gloss": "juja"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "iñakã ju"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:12.446665553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ha upéva",
+      "rationale": "Hebrew lacks copula and verb; conjunction 'and' rendered as narrative connector"
+    },
+    {
+      "kind": "measurement",
+      "subject": "365 aras",
+      "rationale": "Chronological count of Hanoj's lifespan, part of Genesis 5 genealogy's numerical structure"
+    }
+  ],
+  "translation": "Ha upéva, opavombovue ara paʼũ oiko Hanoj, papaha mbohapysa ipahape ha poha ha paporundysa ara, ha mbohapysa ary.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c7728229e9c3371b5745d7dadd8bd569125a7d2fbce2c76ee726fb8a0a324db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/5\/23-23.1791265911151.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ha upéva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavombovue"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ara paʼũ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoj"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "poha"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ha paporundysa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ha mbohapysa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "paʼũ papaha mbohapy poha ipahape"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ara"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:51.154807098Z",
+  "model": "glm-5.3"
+}

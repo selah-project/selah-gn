@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השקיף \/ הביט",
+      "rationale": "Mokõi jehecha ñe'ẽ joja — šaqaf (ojesape'ã ovetãgui) ha nabaṭ (ohecha apytúpe) ojoykére, pe paha הביט osẽ pe versículo pahápe, ikatúva he'isehína pe arandu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ojesape'ã",
+      "rationale": "השקיף he'ise añetehápe 'ovetãgui ojesape'ã' — pe ta'anga oñembohasa rasa'ỹre avañe'ẽme."
+    }
+  ],
+  "translation": "Upéicha rupi Jahve ojesape'ã imarangatu renda yvateguígui; yvágagui ohesa'ỹ yvýre ohecha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0195ebd74885e8110b51f3ab83f324961fbdf78574a18fc9e02eb282d7b83035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/102\/20-20.1791266774086.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upéicha rupi"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ojesape'ã"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yvateguígui"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "imarangatu renda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "yvágagui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yvýre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ohecha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:14.087104045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,26 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 16:17",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 16,
+  "translation": "Che resakuéra oĩ opaite hikuái rekóre; ndoiñemokañy che renondépe, ha ijavykuéra ndaiñemo'ãi che resakuéra renondépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e2e47f0f5b89186b9748017a1f5354e42657e0a164de668f167f6a1163ebcf21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/16\/17-17.1791266577196.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chas(timer)"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:57.197734382Z",
+  "model": "glm-5.3"
+}

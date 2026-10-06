@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ha",
+      "rationale": "avañeʼẽ oikotevẽ ñeʼẽpehẽ oñepyrũ hag̃ua heʼiha, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "you",
+      "subject": "Moche-pe",
+      "rationale": "Jahve oñeʼẽ Moche rehecha rupive, he'i chupe ejupi ha ehecha"
+    }
+  ],
+  "translation": "Ha Jahve he'i Moche-pe: Ejupi ko Avarim yvyty ári, ha ehecha ⟨את⟩ yvy che ameʼẽva Jisrael membykuérape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "62b665c327a47639e1849eb76b4539f192ff032ae03df3bc554cf85caa28cfb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/27\/12-12.1791266175218.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ejupi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Avarim"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ha ehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che ameʼẽva"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "che ameʼẽva"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "membykuérape"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:15.220697283Z",
+  "model": "glm-5.3"
+}

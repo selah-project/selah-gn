@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 11:13",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "osẽ oho",
+      "rationale": "נסו 'to flit\/vanish, flee' — Guaraní 'osẽ oho' (went out and fled) keeps the motion picture."
+    },
+    {
+      "kind": "elision",
+      "subject": "חלקת השדה",
+      "rationale": "Construct 'parcel-of the field' rendered as one phrase 'yvyraty pe kogaʼa sevoʼi ysapype'; the bound form has no separate Guaraní word."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בפס",
+      "rationale": "Place name Pas-Dammim appears only in this chronicle context (cf. 2 Sam 23:9 Ephes-Dammim); rendered as the proper name."
+    }
+  ],
+  "translation": "Haʼe voi oĩkuri David ndive Pas-Damim-pe, ha upépe pelesitikuéra oñembyaty ñorãirõ hag̃ua, ha oiko yvyraty pe kogaʼa sevoʼi ysapype mborikyu reheguáva; ha téraikuéra osẽ oho pelesitikuéra renondépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7bb577bfc4e350bd8885b2470085ee1156c2b160f55e3080c2e34261ec49135e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/11\/13-13.1791267036242.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Haʼe voi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩkuri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בפס",
+      "gloss": "Pas-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim-pe"
+    },
+    {
+      "surface": "והפלשתים",
+      "gloss": "ha pelesitikuéra"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõ hag̃ua"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "yvyraty pe kogaʼa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sevoʼi ysapype"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mborikyu reheguáva"
+    },
+    {
+      "surface": "שעורים",
+      "gloss": "mborikyu"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ha téraikuéra"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "osẽ oho"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelesitikuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:36.247153011Z",
+  "model": "glm-5.3"
+}

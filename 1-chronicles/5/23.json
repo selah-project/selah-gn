@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 5:23",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "territory",
+      "rationale": "Verse dimensions the tribe's land from Bashan to Baal-Hermon, Senir and Mount Hermon."
+    },
+    {
+      "kind": "crux",
+      "subject": "רבו",
+      "rationale": "'They multiplied' (KJV\/ASV attach 'they increased' to the extent) vs 'they were numerous' (JPS\/BSB); Hebrew clause order allows both."
+    }
+  ],
+  "translation": "Ha Menaché shevet mboypy pegua taʼýra kuéra oiko ku yvýpe, Mivon-gui Baal-Jermon meve, Senir ha Jermon yvyty peve; umíva heta hikuái.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c9d999536b61b4d4c562e8d0bd4fd525914b5c0626fb6212213c6e3a1bf6f2e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/5\/23-23.1791267024345.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ha ... taʼýra kuéra"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mboypy"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "shevet"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaché"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku yvýpe"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Mivon-gui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meve"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Jermon"
+    },
+    {
+      "surface": "ושניר",
+      "gloss": "Senir ha"
+    },
+    {
+      "surface": "והר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Jermon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umíva"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "heta hikuái"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:24.350157266Z",
+  "model": "glm-5.3"
+}

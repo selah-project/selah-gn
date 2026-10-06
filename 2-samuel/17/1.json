@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 17:1",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עשר",
+      "rationale": "Avañe'ẽme 'pakõi' (12) ha peteĩ ñe'ẽ año — 'mokõi-pa' ndaipóri two-ten jehe'a."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נא",
+      "rationale": "'Na'\/'I pray' niko mba'erechaha añetegua; ko'ãga oñemoĩ ohechauka hag̃ua mba'erã."
+    },
+    {
+      "kind": "you",
+      "subject": "to Abchalom",
+      "rationale": "Ajitofel ñe'ẽ ojepyso Abchalom-pe ñomongeta añeteguarã."
+    }
+  ],
+  "translation": "Ha Ajitofel he'i Abchalom-pe: Che aiporavose ko'ãga ⟨pakõi su⟩ kuimba'e, ha ajupi ha aha David hapykuere ñorairõrõ ko pyhare.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "325f55409d690e26785acc1e12f230a75fcfd3b2c6c4cfe9d237a24e069179e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/17\/1-1.1791266348055.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ajitofel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abchalom"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "che aiporavose"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko'ãga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "ajupi"
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "aha ñorairõrõ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hapykuere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ko pyhare"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:08.056284336Z",
+  "model": "glm-5.3"
+}

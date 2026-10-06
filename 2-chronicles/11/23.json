@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 11:23",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ojapo kane'õ'ỹre",
+      "rationale": "ויבן 'understanding\/discerning' rendered as 'dealt wisely'; KJV 'dealt wisely', YLT 'hath understanding'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbaretéva",
+      "rationale": "המצרות is 'bulwarks\/siege-works' (BDB 4694); rendered as 'fortified' like KJV 'fenced'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ojerure hetaiterei kuña",
+      "rationale": "וישאל המון נשים: 'he sought many wives' (for himself, Geneva\/KJV) vs 'for them' (ASV\/JPS\/BSB add 'for them'); Hebrew has no explicit object."
+    },
+    {
+      "kind": "addition",
+      "subject": "kuéra",
+      "rationale": "Avañeʼẽ plural particle added; Hebrew plural endings carry the number."
+    }
+  ],
+  "translation": "Ha ojapo kane'õ'ỹre ha ohesa'ỹijo ⟨את⟩ opaite ita'ýra kuéra, ohupytývo opaite Yehuda ha Binjamin yvy kuérape, opaite táva mbaretévape, ha ome'ẽ chupekuéra hembiguasu opaichagua; ha ojerure hetaiterei kuña.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "cf8026441831445501648def17bcfa48ac8c74ed66bc7d38ae9f72c571d28e13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/11\/23-23.1791267108889.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ojapo kane'õ'ỹre"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "ohesa'ỹijo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ita'ýra kuéra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "yvy kuéra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ha Binjamin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "táva kuéra"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "mbaretéva"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ome'ẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "המזון",
+      "gloss": "hembiguasu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "opaichagua"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "המון",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kuña"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:48.889766915Z",
+  "model": "glm-5.3"
+}

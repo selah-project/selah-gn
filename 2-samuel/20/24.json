@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "haʼe",
+      "rationale": "Hebreo ndoguerekói mbyja ni pronombre; avañeʼẽ oikotevẽ «haʼe» ojoaju hag̃ua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "manduʼára",
+      "rationale": "המזכיר «oñemanduʼáva»: mburuvicha mboʼeha tee, «recorder» castellano-pe; «manduʼára» ohechauka iñeʼẽ ryru."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mbaʼapo mbareté",
+      "rationale": "המס haʼe mbaʼapo reipe ojejapoha tavayguápe, jepeʼa Tee David rekuáipe."
+    }
+  ],
+  "translation": "Ha Adoram ⟨oĩ⟩ ári mbaʼapo mbaretére, ha Yehoshafat, Ajilud ra'y, ⟨haʼe⟩ manduʼára.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f10427c81fdd0ece47256266e58b836c26c64478ac37046c39d3e3b9fac04bad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/20\/23-24.1791266454595.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "Ha Adoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המס",
+      "gloss": "mbaʼapo mbareté"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ha Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'y"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ajilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "manduʼára"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:54.597096597Z",
+  "model": "glm-5.3"
+}

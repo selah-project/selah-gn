@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 21:23",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Avraham",
+      "rationale": "Abimelek oñeʼẽ Avraham-pe directly, ojerure chupe ñemeʼẽ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rembaʼerai",
+      "rationale": "שקר haʼe 'ere ñeʼẽ oikoʼỹva' — 'deal falsely' (KJV) tuichave ñeʼẽhape."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "Tembiguai ñeʼẽ ñemeʼẽme: 'ani...' — hebreo 'im' ndahaʼéi porandu, haʼe juramento forma."
+    },
+    {
+      "kind": "alternative",
+      "subject": "che raʼýpe",
+      "rationale": "ניני ha נכדי — mokõi ñemoñare raʼanga; KJV 'my son, nor my son's son', YLT 'continuator\/successor' — aiporavo raʼýraʼanga."
+    }
+  ],
+  "translation": "Ha upéicharõ, eñemeʼẽ chéve koʼápe Elohim reheve ani rembaʼerai chéve, che raʼýpe, che raʼy raʼýpe; hesedicha ajejapóva ndeve, rejapóta che rehe, ha yvy rehe, nde rekohápe pype.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "586773a0372ab740426281bcdcc190ef76dc0cbc38df7139d1115f7d08466340",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/21\/23-23.1791265924704.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ha upéicharõ"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "eñemeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim reheve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼápe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תשקר",
+      "gloss": "rembaʼerai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chéve"
+    },
+    {
+      "surface": "ולניני",
+      "gloss": "che raʼýpe"
+    },
+    {
+      "surface": "ולנכדי",
+      "gloss": "che raʼy raʼýpe"
+    },
+    {
+      "surface": "כחסד",
+      "gloss": "hesedicha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ajejapóva"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ajejapo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndeve"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde rekohápe"
+    },
+    {
+      "surface": "גרתה",
+      "gloss": "reko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pype"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:04.706164551Z",
+  "model": "glm-5.3"
+}

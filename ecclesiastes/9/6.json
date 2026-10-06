@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ndaijaʼeʼỹ",
+      "rationale": "שנאה — D3 heʼi נאם ndaijaʼéi\/ombojeguaru, ndahaʼéi «ohayhu»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם ... גם",
+      "rationale": "Mbohapyjey ñeʼẽpehẽ upeiguáva — ijete — omyesakã ñeʼẽryru puku."
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד · אשר",
+      "rationale": "Avañeʼẽme ndaipóri ñeʼẽjoaju ojueheguáva koʼã mokõivape g̃uarã."
+    }
+  ],
+  "translation": "Ijetuʼu ichupekuéra rayhu, ijete ichupekuéra ndaijaʼeʼỹ, ijete ichupekuéra mboʼapyre — saʼi oñembyai, ha ndahaʼéima ichupekuéra mbaʼe arakaʼeveve, opa mbaʼe ojehovahape ko kuarahý guapýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "fb08f41213fab74c6f64b9385b65a88c4bbe9099908a077cbff4c59ca0e65e1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ecclesiastes\/9\/6-6.1791266936758.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ijetuʼu"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "ichupekuéra rayhu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ijete"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "ichupekuéra ndaijaʼeʼỹ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ijete"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "ichupekuéra mboʼapyre"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "saʼi"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ha mbaʼe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndahaʼéima"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ichupekuéra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "arakaʼeveve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ojehovahape"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ko ... guapýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahý"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:56.765109946Z",
+  "model": "glm-5.3"
+}

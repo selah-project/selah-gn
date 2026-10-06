@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ברושים",
+      "rationale": "ברוש is a cypress-like tree; avañeʼẽ has no word for it, so it is rendered 'umi yvyra' (the trees) — JPS also reads 'cypresses' vs KJV 'fir trees'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארזי",
+      "rationale": "cedar rendered 'yvyra guasu' (great tree), the closest avañeʼẽ picture."
+    },
+    {
+      "kind": "elision",
+      "subject": "saying",
+      "rationale": "KJV\/BSB add 'saying' to introduce the trees' speech; the Hebrew has no verb and the quote flows directly."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכבת",
+      "rationale": "שכב used of lying down to sleep\/death — mocking euphemism for the tyrant's death, kept as 'rokérire' (since you lay down)."
+    }
+  ],
+  "translation": "Avei umi yvyra ovyʼa nderehe, Levanon yvyra guasuikuéra: arakaʼe guive nde rokérire, ndaipóri ojupíva ohendy ñanderehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3c0e229e97c986ba9ca4648041a6e79689ea5243b6e717db61e137e13eb5cceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/14\/8-8.1791267220658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "umi yvyra"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ovyʼa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nderehe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "yvyra guasuikuéra"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "arakaʼe guive"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "nde rokérire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ojupíva"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "ohendýva"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñanderehe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:13:40.658994506Z",
+  "model": "glm-5.3"
+}

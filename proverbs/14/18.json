@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 14:18",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דעת",
+      "rationale": "דעת haʼe kuaakatu — ñemoñeʼẽ peteĩ mbaʼe añónte ndaipori"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכתרו",
+      "rationale": "כתר: 'to crown' (friendly) térã 'to surround\/besiege' (hostile); koʼápe aiporavo 'ojepyso' (corona)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתאים\/אולת",
+      "rationale": "פתי ha אולת peteĩ ñeʼẽpehẽ guýpe — 'jejavy' ndoguerahái umi ñeʼẽ joavy ko avañeʼẽme"
+    }
+  ],
+  "translation": "Umi pytague ohupyty jejavy, ha umi oikuaáva ojepyso hikuái ⟨daĝua⟩ ikuaakatu rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5f1b19e76f43da8f78f88f6832df0b5a542c987245a5e93df809640f3ed89150",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/14\/18-18.1791266834781.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלו",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "umi pytague"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "jejavy"
+    },
+    {
+      "surface": "וערומים",
+      "gloss": "ha umi oikuaáva"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "ojepyso hikuái"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ikuaakatu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:14.784291213Z",
+  "model": "glm-5.3"
+}

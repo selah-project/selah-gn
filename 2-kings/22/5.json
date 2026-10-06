@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 22:5",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'Rehe pópe' — literal 'pópe' (hand-in) idiom for delivery into someone's care."
+    },
+    {
+      "kind": "crux",
+      "subject": "המפקדים",
+      "rationale": "Appointed overseers vs. KJV 'that have the oversight'; participle of פקד, muster\/appoint."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בדק",
+      "rationale": "'Javorái' (breach\/crack); English versions split between 'repair' and 'breaches' — Hebrew noun, gap in a building."
+    }
+  ],
+  "translation": "Ha omeʼẽvaʼerã ⟨את⟩ pe kuarepoti umi tembiapohára pópe, umíva oñembojaʼava Jahve óga rehe; ha omeʼẽvaʼerã ⟨את⟩ umi tembiapohárape oĩva Jahve ógape, omboypy hag̃ua pe óga javorái.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f8fd4fc1ac5b58bf3c418f66858244f245b68bb7998ddcd9474e11b259566d2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/22\/5-6.1791266536400.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנה",
+      "gloss": "omeʼẽvaʼerã"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "umi tembiapohára"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "tembiaporã"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "oñembojaʼava"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "omeʼẽvaʼerã"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umi tembiapohára"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "tembiapohárape"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "tembiaporã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ógape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "omboypy hag̃ua"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "javorái"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:16.402229599Z",
+  "model": "glm-5.3"
+}

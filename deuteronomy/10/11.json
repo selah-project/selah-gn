@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ojapo hekovia",
+      "rationale": "וירשו he'ise 'ojapo hekovia oipeʼa rire umi oikóva upérupi', ndahaʼéi año 'oreko'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלי",
+      "gloss note omitted": "",
+      "rationale": "ohechauka che rehe heʼi — אלי ('che rehe') ojoaju heʼi rehe, avañeʼẽme peteĩ jeʼe oiko"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "avañeʼẽ oikotevẽ ñeʼẽpehẽ ojoaju hag̃ua אשר, hebreo ndoguerekóiva upéicha"
+    }
+  ],
+  "translation": "Ha upéi Jahve ohechauka che rehe heʼi: Eñemboʼy, eho je’y tetãygua kuéra raʼỹiguasúpe, ohasa hag̃ua hikuái ha ojapo hikuái hekovia yvy pe oñemeʼẽva chupekuéra che amboykekuaaʼỹre tou hag̃ua che amboja hikuái, ⟨pe⟩ yvy che añeʼẽmeʼẽ vaʼekue i-ruvichakuérape che ameʼẽ hag̃ua chupekuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8ad9488cd10bb330773c5ebbd8cd42b95344073a7927c1de297c375e734a853b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/10\/11-11.1791266181394.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ohechauka che rehe heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "קום",
+      "gloss": "eñemboʼy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eho"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "je’y"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "raʼỹiguasúpe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tetãygua kuéra"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ohasa hikuái"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ojapo hikuái hekovia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "che añeʼẽmeʼẽ vaʼekue"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "i-ruvichakuérape"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "che ameʼẽ hag̃ua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:21.396177232Z",
+  "model": "glm-5.3"
+}

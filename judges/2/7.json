@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 2:7",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "omombaʼe",
+      "rationale": "ויעבדו '伺服' — avañeʼẽme omombaʼe (ohechakuaa ha omombaʼe) oñemoĩ porã hag̃ua Jahve-pe g̃uarã"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tuichakuéva",
+      "rationale": "הזקנים tujakuéra\/tuichakuéva — 'umi ikatuáva heterei' tuja rehegua"
+    }
+  ],
+  "translation": "Ha tekovekuéra omombaʼe Jahve-pe Jochua ára pukukuérape, ha umi tuichakuéva ára pukukuérape oikóva Jochua rire, ohecha hikuái ⟨את⟩ Jahve mbaʼe guasu ⟨את⟩ opaichagua ojapoʼakue Jisrael-peguáre.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bddb6df71b0059a3358c43416aa6836e47eef0e956ae9c521274013e7b999b51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/2\/6-7.1791266267434.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "omombaʼe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tekovekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára pukukuérape"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jochua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha umi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára pukukuérape"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "tuichakuéva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rire"
+    },
+    {
+      "surface": "יהושוע",
+      "gloss": "Jochua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohecha hikuái"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼe guasu opaichagua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaichagua"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapoʼakue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael-peguáre"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:47.444584080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 6:13",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפול תפול",
+      "rationale": "Infinitive-absolute doubling, 'falling you shall fall' — rendered as 'añetegua' (surely), the intensifier lost"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזרע היהודים",
+      "rationale": "'of the seed of the Jews': BSB reads it as causal ('since Mordecai is Jewish'), KJV\/JPS keep the conditional 'if'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנפל לפניו \/ נפול תפול לפניו",
+      "rationale": "Threefold repetition of נפל לפניו frames the verse: begun to fall, will surely fall — falling 'before his face' kept literally as he-pe"
+    }
+  ],
+  "translation": "Ha Haman omombe'u Zeresh isambyhy ha opaite iñirũnguérape ⟨את⟩ opaite mba'e ojehova hese. Ha iñarandukuéra ha Zeresh isambyhy he'i chupe: Mardekai oĩramo Jihudiakuéra ra'y apytépe — pe nemombypyréma he-pe — ndereikatumo'ãi ichupe; ojearoirõta añetegua he-pe ne.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d76a8e8cc8a07b0a4c254545b028ae824457ab4fdeb43c261c6f3bcb6840dcd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/esther\/6\/13-13.1791266943103.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "omombe'u"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לזרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isambyhy"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "iñirũnguéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite mba'e ojehova hese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojehova hese"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "ojehova hese"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "חכמיו",
+      "gloss": "iñarandukuéra"
+    },
+    {
+      "surface": "וזרש",
+      "gloss": "ha Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isambyhy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oĩramo"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ra'y apytépe"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jihudiakuéra"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardekai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "nemombypyréma"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ojearoirõ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "he-pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndereikatumo'ãi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ndereikatumo'ãi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichupe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "נפול",
+      "gloss": "ojearoirõ"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ojearoirõta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "he-pe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:09:03.109120874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oñemoĩporã jey",
+      "rationale": "וינחם ha'e 'oipy'ara'ã, ovy'ave iñe'ẽre'ẽ'ỹ'ỹ'ỹ' — 'repent' ndaha'éi añetegua; avañe'ẽme oñemoĩporã jey ojeporu oñembohasa hag̃ua pe ñe'ẽ sangry"
+    },
+    {
+      "kind": "crux",
+      "subject": "על הרעעה",
+      "rationale": "'mba'e vai' ikatu he'ise 'mba'e vai ojaposéva' térã 'as Ungava ojaposéva chupekuéra' — Elohim oñemoĩporã umi mba'e vai rehe, ndaha'éi mba'e vai ojapo guáre"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ha'e upe rire",
+      "rationale": "vav-consecutive ohecha hag̃ua hembikuaa'ỹ avañe'ẽme, oñembojoapy va'erã ñe'ẽ ñepyrũrã"
+    }
+  ],
+  "translation": "Ha'e upe rire, Elohim ohecha ⟨את⟩ umi mba'e ojapovaʼekue, ojevy haguãre iñevoʼĩ tapegui; ha Elohim oñemoĩporã jey umi mbaʼe vai ojeʼírõguare ojapota haguã chupekuéra, ha ndojapói.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1d702ababa0ea56565b5aac5fcf994e3ac0e587999c60f40ea370a26b75df836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jonah\/3\/10-10.1791266692806.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi mba'e ojapovaʼekue"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "umi mba'e ojapovaʼekue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ojevy haguãre"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ojevy"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "iñevoʼĩ tapegui"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "vai"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "oñemoĩporã jey"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "umi rehe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mba'e vai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojeʼírõguare"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ojeʼí"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ojapota haguã"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndojapói"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:52.807404556Z",
+  "model": "glm-5.3"
+}

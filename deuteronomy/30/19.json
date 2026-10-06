@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 30:19",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "eiporavo tekove",
+      "rationale": "Temboguata moñe'ẽhára: 'eiporavo tekove' — ñehenói tuichakue joguerahavaépe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החיים \/ בחיים \/ תחיה",
+      "rationale": "Tekove ñe'ẽjepysogue mbohýpe: tekove oñeme'ẽ, tekove ojeporavo, tekove ojehupyty — mbohape ojojuhu avañe'ẽme 'tekove' jeyjeýpe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kytỹngue",
+      "rationale": "זרע lit. ñemitỹ\/kytỹngue — tekove pahague, 'ñemoñarã' avei ikatu"
+    }
+  ],
+  "translation": "Ajaikuaauka pevépe rehe ko árape ⟨את⟩ yvága ha ⟨את⟩ yvy: tekove ha mano amoĩ nde renondépe, ñe'ẽporã ha ñe'ẽ vai; upévare eiporavo tekove, eikove hag̃ua nde ha ne kytỹngue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e61bc7310bfac70c0d74591db563de73f54527506c35b0a47339f82fac18f0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/30\/17-19.1791266311658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "Ajaikuaauka"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pevépe rehe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko árape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvága"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "והמות",
+      "gloss": "ha mano"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "amoĩ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nde renondépe"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ñe'ẽporã"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "ha ñe'ẽ vai"
+    },
+    {
+      "surface": "ובחרת",
+      "gloss": "upévare eiporavo"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hag̃ua"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "eikove"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ha ne kytỹngue"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:31.661735363Z",
+  "model": "glm-5.3"
+}

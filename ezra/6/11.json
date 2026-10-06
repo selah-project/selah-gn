@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 6:11",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזקיף יתמחא",
+      "rationale": "'oñemboja ha oñemoĩ hese' — iñambuéva ñemoñeʼẽhára apytépe: 'colgado' (KJV) vs 'empalado' (BSB); arameo heʼi mokõi jekupe: oñemboja ha oñemoĩ hese."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נולו",
+      "rationale": "Ñeʼẽ 'kãgue ryepy' — ojehecha koʼãITE Tanaj apytépe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tekojoja",
+      "rationale": "טעם (araméo) heʼiséva 'mandado\/cuartel' — 'tekojoja' haʼe mbaʼe jojaha; D2 moambue."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨peteĩ⟩",
+      "rationale": "Avañeʼẽ oikotevẽ 'peteĩ' yvyra réra mboyve; hebreo ndorekói."
+    }
+  ],
+  "translation": "Che reheve oñemohenda tekojoja: opaite kuimbaʼe omoambuéva ko ñeʼẽ — oñenohẽta ⟨peteĩ⟩ yvyra hóga gui, oñembojáta ha oñemoĩta hese; ha hóga ojejapóta kãgue ryepýpe ko mbaʼére.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "feffb7007ac0cb7e1471286315caba45b0cc93ecd18cb165bcc4b926f614e2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/6\/11-12.1791267060464.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "che reheve"
+    },
+    {
+      "surface": "שים",
+      "gloss": "oñemohenda"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "די",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אנש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהשנא",
+      "gloss": "omoambuéva"
+    },
+    {
+      "surface": "פתגמא",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יתנסח",
+      "gloss": "oñenohẽta"
+    },
+    {
+      "surface": "אע",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hóga"
+    },
+    {
+      "surface": "וזקיף",
+      "gloss": "oñembojáta"
+    },
+    {
+      "surface": "יתמחא",
+      "gloss": "oñemoĩta hese"
+    },
+    {
+      "surface": "עלהי",
+      "gloss": "hese"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ha hóga"
+    },
+    {
+      "surface": "נולו",
+      "gloss": "kãgue ryepy"
+    },
+    {
+      "surface": "יתעבד",
+      "gloss": "ojapóta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ko mbaʼe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:00.469282182Z",
+  "model": "glm-5.3"
+}

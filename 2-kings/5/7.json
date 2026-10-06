@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 5:7",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתאנה",
+      "rationale": "Hitpael de אנה: 'oheka mbaʼe cherehe' (he seeks a pretext against me, KJV\/JPS) vs 'oñemboja cherehe' (presents himself to me, YLT); eñemboja vaʼerã moñeʼẽhára."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרעתו",
+      "rationale": "מצרעת haʼe mbaʼasypararã hetaiterei (lepra hesa'ỹijova'ekue), ndaha'éi hembiapo vái año — avañeʼẽme ndaipóri ñeʼẽteete."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Mokõi כי (token 14 ha 26) ojeheja rei — avañeʼẽme ndaipóri ñeʼẽjoja ipotĩva."
+    },
+    {
+      "kind": "you",
+      "subject": "mburuvichakuéra Jisrael-gua",
+      "rationale": "דעו נא וראו — mburuvicha oñeʼẽ itendaguakuérape, tapiaite 'considerad y ved'."
+    }
+  ],
+  "translation": "Oiko Jisrael mburuvicha omoñeʼẽvo ⟨את⟩ kuatiañeʼẽ, isãi iñaoyguasu, ha heʼi: Che Elohim pa aikóva, amokañy ha amombaʼe jey kolýpe g̃uarã, haʼe omondo cherehe kuimbaʼe oipeʼa hag̃ua hembiapo vaígui? Peikuaa paʼe, pehecha, haʼe oheka mbaʼe cherehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b745670ba7586c05e29b1369021d7a3811211e8553310160a165418dbbe72c3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/5\/7-7.1791266409473.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oiko"
+    },
+    {
+      "surface": "כקרא",
+      "gloss": "omoñeʼẽvo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kuatiañeʼẽ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "isãi"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iñaoyguasu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "amokañy"
+    },
+    {
+      "surface": "ולהחיות",
+      "gloss": "amombaʼe jey kolýpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "g̃uarã"
+    },
+    {
+      "surface": "זה",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "oipeʼa hag̃ua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "hembiapo vái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אך",
+      "gloss": "paʼe"
+    },
+    {
+      "surface": "דעו",
+      "gloss": "peikuaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "paʼe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "pehecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "oheka mbaʼe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cherehe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:09.474296192Z",
+  "model": "glm-5.3"
+}

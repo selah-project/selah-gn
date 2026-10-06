@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ovoja",
+      "rationale": "ויחץ is literally 'he split\/cut in two'; 'ovoja' (divided) is a common rendering but loses the picture of splitting"
+    },
+    {
+      "kind": "measurement",
+      "subject": "four hundred men",
+      "rationale": "count of Esav's armed company"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuñakarai mbokuatiapyre",
+      "rationale": "שפחות is literally 'female slaves of the household', rendered with a descriptive phrase"
+    }
+  ],
+  "translation": "Jaakov ojupi hesy'y jejavy'ỹre hetia'e ha ohecha, ha niko Echav ou, ha ichupe ndive irundy sa kuimba'e; ha ovoja ⟨את⟩ mitãnguéra Lea rehe, Rahel rehe, ha mokõi kuñakarai mbokuatiapyre rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d435f95927e1a19d13129f0547e5e9b12795e44d919f536ec6eb1d996f41db1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/33\/1-1.1791265918915.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ojupi hesy'y jejavy'ỹre hetia'e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hesy'y"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha niko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Echav"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ha ichupe ndive"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimba'e"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "ovoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitãnguéra"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "kuñakarai mbokuatiapyre"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:58.917735367Z",
+  "model": "glm-5.3"
+}

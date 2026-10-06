@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 26:16",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני מות",
+      "rationale": "'tekoveʼỹgua raʼy' (sons of death) literal vs. KJV\/ASV\/JPS 'deserve to die' — idiom for those worthy of death."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חי יהוה",
+      "rationale": "oath formula 'As Jahve lives' rendered literally; the oath binding is the speech-act."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צפחת",
+      "rationale": "flat saucer\/jar for water; 'ýi jahapeʼa' keeps the vessel-for-water picture."
+    },
+    {
+      "kind": "you",
+      "subject": "to Abner",
+      "rationale": "David addresses Abner directly with rebuke and command 'ehecha'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ehecha",
+      "rationale": "Imperative summons to look and see where the spear and water jar are — evidence displayed."
+    }
+  ],
+  "translation": "Ndaipóri iporãva ko mbaʼe rejapovaʼekue. Jahve rekóicha oikove haguáicha, peẽ peẽguápa tekove'ỹgua raʼýicha, ndaipóri rupi peẽ jeheka ndapehekáigui peẽrendávare, Jahve oñeñohẽvaʼekue hiʼári ñandy járare. Koʼag̃a katu ehecha mávapepa oĩ mburuvicha itajýi ha ⟨את⟩ ýi jahapeʼa oguerekóva iñakã gotyo.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c3c1a73c370bb392253d3fcd864dce699568351ae8823c4917b4cd92fd356ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/26\/16-16.1791266343663.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporãva"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rejapovaʼekue"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rejapo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oikove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "peẽguápa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýicha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tekoveʼỹgua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaipóri"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "ndapehekái"
+    },
+    {
+      "surface": "על",
+      "gloss": "peẽrendávare"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "jára"
+    },
+    {
+      "surface": "על",
+      "gloss": "hiʼári"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "oñeñohẽva ñandy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "koʼag̃a katu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mávapepa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "itajýi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ýi jahapeʼa"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "ýi jahapeʼa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ýi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oguerekóva"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "iñakã gotyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:03.664400509Z",
+  "model": "glm-5.3"
+}

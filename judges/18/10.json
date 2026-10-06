@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 18:10",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Avañeʼẽ oikotevẽ artículo-pe; hebreo ndoguerekói"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רחבת ידים",
+      "rationale": "'i-po mokõi poguýpe' — hebreo heʼi 'po kuera ipo rupi', heʼiséva yvy tuicha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iñañetetereíva",
+      "rationale": "בטח heʼi 'iñirũ ha kora' — ylytaha añetegua: tapicha ko yvy ndoguerohorýi jeiko vaípe"
+    },
+    {
+      "kind": "you",
+      "subject": "to Dan-kuéra",
+      "rationale": "ñeʼẽ oñeʼẽva ichupekuéra rehe, mbaʼe oĩha heʼívo"
+    }
+  ],
+  "translation": "Peẽ ou jave, peẽ ehéta peteĩ tavayguápe iñañetetereíva, ha ⟨a⟩ yvy tuicháva i-po mokõi poguýpe, Elohim ombojáramo haguére peẽ po rupive: peteĩ tenda nahiʼareiʼymóiva mbaʼevevéva, opaite mbaʼe oĩva ⟨a⟩ yvy ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "2ddd3f64b62b1e798381749bc2116f74496fb81c7d184b95e34433316d21bd3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/18\/10-10.1791266252919.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבאכם",
+      "gloss": "peẽ ou jave"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "peẽ ehéta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavayguápe"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "iñañetetereíva"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ha ⟨a⟩ yvy"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "tuicháva"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "i-po mokõi poguýpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omoĩmguére"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ombojáramo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "peẽ po rupive"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hiʼarigua"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nahiʼareiʼymóiva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "mbaʼevevéva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨a⟩ yvy ári"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:32.924791801Z",
+  "model": "glm-5.3"
+}

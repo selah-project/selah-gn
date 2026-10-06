@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 33:14",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לרגל",
+      "rationale": "'pytepýpe' rehegua — literal 'ypy peẽ' rehegua, 'rapyko' ojeporu teteguasu rehe; 'pytepýpe' oñemongu'eva'erã opa hendápe toiko joja hag̃ua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "אדני yvypóra rehegua — 'che jára' — avañeʼẽme oiko porã yvypórape g̃uarã, ojavyvy Adonai Tupã reheguágui."
+    },
+    {
+      "kind": "addition",
+      "subject": "hikuái",
+      "rationale": "צאן yvypóra apytépe oĩva — avañeʼẽme oñemombaʼeguasu ojehecha hag̃ua umi mbaʼeapo."
+    },
+    {
+      "kind": "crux",
+      "subject": "לרגל המלאכה",
+      "rationale": "'mbaʼeapo tetiguasu pytepy' — techarã ohóva; KJV 'mbaʼeapo ohóva che renondépe' peteĩĩ je'epyrépe, 'pytepýpe' ojueheguaiterei ojueheguaitereígui."
+    }
+  ],
+  "translation": "Ohasátu ka'aru che jára iñangirĩ tenondegete, ha che ambohasa michĩmichĩngueombo'e ⟨hikuái⟩, umi mbaʼeapo tetiguasu pytepýpe che renondépe rapykoitereípe, ha mitãnguéra pytepýpe avei, amo aha meve che járápe, Cheirãme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1913e30bc455627d91653c399bd070472b8a0e1de97c2e4ab14f22ac3d48e9aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/33\/14-14.1791265907010.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעבר",
+      "gloss": "ohasátu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "katu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tenondegete"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iñangirĩ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ha che"
+    },
+    {
+      "surface": "אתנהלה",
+      "gloss": "ambohasa michĩmichĩ"
+    },
+    {
+      "surface": "לאטי",
+      "gloss": "ngueombo'e"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "rapykoitereípe"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "mbaʼeapo tetiguasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pytepýpe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "che renondépe"
+    },
+    {
+      "surface": "ולרגל",
+      "gloss": "ha ... pytepýpe"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mitãnguéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amo ... meve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "che járápe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "che jára"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Cheirãme"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:47.016281580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 18:11",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "tenupa",
+      "rationale": "תנופה haʼe ñeʼẽ ojeporúva jopói oñemondývo ijyvate gotyo hag̃uáicha; avañeʼẽme ojehecha ñeʼẽ moambuéramo."
+    },
+    {
+      "kind": "addition",
+      "subject": "upe",
+      "rationale": "Avañeʼẽ oikotevẽ mbaʼe rehegua ñeʼẽ 'oʼúta' paha rire; hebreo oiporu אתו sufijo ndive."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iroke jave",
+      "rationale": "אתך koʼápe haʼe preposición 'nde ndive', ndahaʼéi alef-tav mbaʼe rechaukaha."
+    }
+  ],
+  "translation": "Ha kóva nde mbaʼe: ichupekuéra jopói teruma, opaite Jisrael membykuéra tenupa; nde reheve ameʼẽ chupekuéra, ne membykuéra ha ne membykuñakuéra ⟨את⟩ nde ndive, teko meʼẽ opaetéva ramo: opaite marangatu ne óga ryepýpe oʼúta ⟨upe⟩.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a021b1464407c29a2bbe1fe34d2a014ed27c27d51875b5a43a6691e859efaaf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/18\/9-11.1791266137004.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde mbaʼe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "מתנם",
+      "gloss": "ichupekuéra jopói"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "תנופת",
+      "gloss": "tenupa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde reheve"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "ameʼẽ chupekuéra"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ha ne membykuéra"
+    },
+    {
+      "surface": "ולבנתיך",
+      "gloss": "ha ne membykuñakuéra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde ndive"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "teko meʼẽ ramo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opaetéva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marangatuetéva"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ne óga ryepýpe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oʼúta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "upe teruma jopói"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:37.009555116Z",
+  "model": "glm-5.3"
+}

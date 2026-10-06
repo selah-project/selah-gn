@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "Ani rejokaivaʼerã: opy tuichavéva ñeʼẽ ñepyrũrã peteĩ purahéi ojekuaavégui, ndahaʼéi jeʼepy reíva"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "Ñeʼẽporã ñongatupyre: heʼiséva ñeʼẽporã jehaipyre térã kuarepoti ñongatu; ñemoñeʼẽhára iñakãrata ojoavy"
+    },
+    {
+      "kind": "elision",
+      "subject": "וישמרו sujeto",
+      "rationale": "Hebreo ndohe'i mávapa ojepyso; hikuái oñembojoaju chupe"
+    }
+  ],
+  "translation": "Pe maestrape g̃uarã. Ani rejokaivaʼerã. David mbaʼe. Ñeʼẽporã ñongatupyre. Oho jave Chaul omondoáva ha ojepyso hikuái ⟨את⟩ óga ári ojukase haguã chupe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "05f5ae823a8696dcd514cb71ac8f1105cd052acf5c7f79413ba24acd0b670f63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/59\/1-1.1791266737623.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pe maestrape g̃uarã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "rejokaivaʼerã"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David mbaʼe"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Ñeʼẽporã ñongatupyre"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "Oho jave"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaul omondoáva"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ojepyso hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga ári"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ojukase haguã chupe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:37.625491698Z",
+  "model": "glm-5.3"
+}

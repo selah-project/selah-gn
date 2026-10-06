@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Michkan mbaʼekuéra raʼã",
+      "rationale": "Ko ñeʼẽrysýi omoĩmba mbaʼe apopyrã: heta mbaʼe oñemohenda héra rupi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרשיו",
+      "rationale": "קֶרֶשׁ haʼe 'itaba' (tablón) — 'itabakuéra' ohechauka heko tee."
+    }
+  ],
+  "translation": "⟨את⟩ Michkan, ⟨את⟩ iñoti ha ⟨את⟩ iñahooha, ⟨את⟩ itajuvu ha ⟨את⟩ itabakuéra, ⟨את⟩ itasãi ha ⟨את⟩ imbaʼerehaha, ha ⟨את⟩ ipypeguakuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0ec0d1742a38c51c324f3bf4be19187f7cc58b94c7b0ed57e478c3244b404213",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/35\/11-12.1791266035633.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Michkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñoti"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "iñoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "iñahooha"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "iñahooha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itajuvu"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "itajuvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "itabakuéra"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "itabakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itasãi"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "itasãi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaʼerehaha"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "imbaʼerehaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "ipypeguakuéra"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ipypeguakuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:55.633876077Z",
+  "model": "glm-5.3"
+}

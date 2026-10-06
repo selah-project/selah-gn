@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עגלות",
+      "rationale": "'wheeled vehicles\/chariots' (KJV) vs 'shields' (BSB, following a cognate reading); avañeʼẽ follows the wheeled-vehicle sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "root שבת",
+      "rationale": "משבית shares its root with Chabat — Jahve makes war itself cease\/rest; the echo is lost in avañeʼẽ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jukaha-yvyra",
+      "rationale": "קשת (bow) has no single avañeʼẽ word, so a hyphen-joined literal picture is used."
+    }
+  ],
+  "translation": "Omopytuʼu ñorãirõnguéra yvy paha peve; ope jukaha-yvyra, okytĩ jukaha-takua, karetakuéra omoĩ tatápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1e1b700cd10fd81bb3b33eed994cb4f0bff8deb6aadf172a3d02ffc946ae1ef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/46\/9-11.1791266805174.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Omopytuʼu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ñorãirõnguéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jukaha-yvyra"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ope"
+    },
+    {
+      "surface": "ווקצץ",
+      "gloss": "okytĩ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "jukaha-takua"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "karetakuéra"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "omoĩ tatápe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tatápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:45.185297088Z",
+  "model": "glm-5.3"
+}

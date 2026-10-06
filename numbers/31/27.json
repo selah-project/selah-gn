@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 31:27",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañeʼẽ oikotevẽ kongruénte ñeʼẽpehẽ ohechauka hag̃ua mokõi pehẽ ñemoñape'a."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mongarai",
+      "rationale": "המלקוח haʼe 'ñemongarai' — mbaʼe ojehekýiva; ndahaʼéi 'cautivos' añonte."
+    }
+  ],
+  "translation": "Ha emboty mokõi pehẽpe ⟨את⟩ pe mongarai: umi ñorãirõhárávagui osẽva ñorãirõme, ha ⟨pe⟩ opaite aty guasu apytépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f3597f5da66582ae44cbd023db16b8d7e8de5f5b3f8a194a6500235daa6deacb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/31\/27-27.1791266170818.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחצית",
+      "gloss": "ha emboty mokõi pehẽpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mongarai"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "pe mongarai"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "umi ñorãirõháráva"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "osẽva"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ñorãirõme"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha ⟨pe⟩ apytépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty guasu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:10.819715065Z",
+  "model": "glm-5.3"
+}

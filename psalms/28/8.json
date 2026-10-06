@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Machiah-kuéra",
+      "rationale": "KJV ‘his anointed’ (singular, David térã Mashíaj), ynt ‘His anointed is He’ — singular ha plural ojoavy koʼape"
+    }
+  ],
+  "translation": "Jahve haʼe ichupekuéra ipuʼakáva, ha haʼe Machiah-kuéra oñemongakuaapáva mboue ipuʼakáva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/28\/5-8.1791266740946.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "haʼe ipuʼakáva"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ichupekuéra"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "ha haʼe… oñemongakuaapáva"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mboue ipuʼakáva"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Machiah-kuéra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʻe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:40.950384824Z",
+  "model": "glm-5.3"
+}

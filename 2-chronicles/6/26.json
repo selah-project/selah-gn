@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 6:26",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oky",
+      "rationale": "מטר ha'e 'oky' año — avañeʼẽme ndaipóri ñeʼẽ teete 'mboraiyu' reheguáva."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל המקום",
+      "rationale": "'oñemboʼe tendápe' — 'tendápe' ojapo jave 'אל המקום' mokõi ñeʼẽ peteĩpe."
+    },
+    {
+      "kind": "crux",
+      "subject": "תענם",
+      "rationale": "ענה ikatu he'ise 'ombohovái' (ehecha) térã 'omongyhyje' — KJV 'afflict', JPS iporãve 'afflict'; ko'ápe ojeporu 'omongyhyje'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Chelomo ñeʼẽ ñemboʼe aja, oñeʼẽva Jahve-pe."
+    },
+    {
+      "kind": "measurement",
+      "subject": "oky",
+      "rationale": "Yvy rekoha ojehechakuaa oky ndaipóriha rehe — mba'e ojekuaáva yvagagui."
+    }
+  ],
+  "translation": "Yvaga ojejokárõ ha ndaipóri oky, oguerahágui jejavy Nendéve, ha oñemboʼe ko tendápe ha omomba'e ⟨את⟩ ne réra, ojevyvo ijejaýgui, nde ore mongyhyjévagui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b1a8e9a991c2fee98f28720eae084af0fde80ee0d48ec0a174a215182bd35ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/6\/26-26.1791267125696.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהעצר",
+      "gloss": "ojejokárõ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ova⟩"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "oky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oguerahágui"
+    },
+    {
+      "surface": "יחטאו",
+      "gloss": "jejavy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Nendéve"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ko tendápe"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ha omomba'e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne réra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne réra"
+    },
+    {
+      "surface": "מחטאתם",
+      "gloss": "ijejaýgui"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ojevyvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oguerahágui"
+    },
+    {
+      "surface": "תענם",
+      "gloss": "ore mongyhyjévagui"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:05.697775423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "'Visited\/attended\/remembered': 'oñangareko' (attended to) vs JPS 'remembered' — the verb spans friendly visit and covenant-accounting."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ענים",
+      "rationale": "עני is 'depression\/misery'; 'iñembyasy' (their suffering) keeps the physical bent-down sense."
+    },
+    {
+      "kind": "addition",
+      "subject": "rehe",
+      "rationale": "Postposition added after ⟨את⟩-marked object because avañe'ẽ requires a relational marker."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקדו\/וישתחוו",
+      "rationale": "Double prostration verbs — bowed and bowed-low — an intensifying pair kept as two distinct gestures."
+    }
+  ],
+  "translation": "Ha tavayguakuéra ojerovia; ohendúrõ guare Jahve oñangarekoha ⟨את⟩ Jisrael ra'ykuéra rehe, ha ohechaha ⟨את⟩ iñembyasy, oyke'i ha oñemomba'e.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8f14dd41c2109d2d6d8d80458dda468b292f1502f19b86005163249ee93f446e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/4\/30-31.1791265955431.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "ojerovia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ohendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ha"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "oñangareko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael ra'ykuéra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñembyasy"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "iñembyasy"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "oyke'i"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oñemomba'e"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:35.433857089Z",
+  "model": "glm-5.3"
+}

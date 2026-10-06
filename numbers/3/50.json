@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "papaha",
+      "rationale": "Ojehecha papapy raʼãnguéra: 1.365 chekel, ohaʼã hag̃ua raʼãrévape."
+    },
+    {
+      "kind": "substitution",
+      "subject": "raʼãre",
+      "rationale": "בכור haʼe 'memby raʼãre', peteĩ téra tekoitiagua, ndahaʼéi título."
+    },
+    {
+      "kind": "elision",
+      "subject": "הקדש",
+      "rationale": "הקדש ('marangatu') ojehai chekel mboyve, upéicha oheja 'chekel marangatu' peteĩ ñeʼẽme."
+    }
+  ],
+  "translation": "Jisrael membykuéra raʼãréva rehegui ojapyhy ⟨את⟩ kuarepoti — papaha: peteĩ su, mbohapy sa, potei pa ha po — chekel marangatu rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "cef833c78a2bb74a6118011321a0343e561d60694ff54fb62949754700fc466e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/3\/50-51.1791266125723.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ rehegui"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "raʼãre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ojapyhy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuarepoti"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kuarepoti"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "potei pa"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "peteĩ su"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "chekel rehe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:25.725661841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 7:20",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "'yvypóra iñakã rakúpe' על אף 'tiyã' — hebreo חרונ־אף 'vereti' — 'oñemboja' — upéva haʼe juru pytu, ha 'tiyãra' osẽva"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Dirección-partícula אל ningo oñembojoaju המקום ndive, avañeʼẽme ndaipóri moñeʼẽrã añoneteva"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/אדמה",
+      "rationale": "yvypóra (אדם) ha yvy (אדמה) — hebreo ñeʼẽ jojogua, opaite mbaʼe oñemboyke ko'ã mokõíva, avañeʼẽme ndojehechakuaái"
+    }
+  ],
+  "translation": "Upévare upéicha heʼi Adonai Jahve: Jeguáke, che vera ha che muñu oñenohẽ ko tenda ári, yvypóra ári, mymbakuéra ári, kaʼaguy yvyrakuéra ári ha yvy voku ári; oñemboroyhéta ha ndoñemomokõimoi.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "580892fe0235ca90ce1fe6be0bd7e1445e2beebc2f45eeb206e5c400be52934c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/7\/20-20.1791266597670.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Jeguáke"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "che vera"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "ha che muñu"
+    },
+    {
+      "surface": "נתכת",
+      "gloss": "oñenohẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ko tenda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mymbakuéra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "voku"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "ha oñemboroyhéta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndeʼiséi"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ndoñemomokõimoi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:17.671709938Z",
+  "model": "glm-5.3"
+}

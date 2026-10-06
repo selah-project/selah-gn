@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 42:20",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התעתים",
+      "rationale": "'Peñembyasy' (perverse\/deceived) — KJV 'dissembled', YLT 'perverse', BSB 'deceived yourselves'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בנפשותיכם",
+      "gloss_note": "נפש rendered 'ikove' (life-force), not 'ñeʼẽ' or soul."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Relative particle absorbed into 'opa mbaʼe … oheʼítava'."
+    },
+    {
+      "kind": "you",
+      "subject": "to the remnant of Judah",
+      "rationale": "Jeremiah addresses the people directly, quoting their earlier oath."
+    }
+  ],
+  "translation": "Peteĩchape peñembyasy peñeikovekuéra rehe; peñemondo cherehe ⟨את⟩ Jahve, pe Elohim, renondépe, peʼe haguã: Eñemboʼe ore rehe Jahve, ore Elohim, renondépe; ha opa mbaʼe Jahve ore Elohim oheʼítavaichaicha, emomarandu oréve ha jajapóta.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9274dd798f17948bcc4eb90c54b3d880bf4039d91beac09d44a9118055c5ec69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/42\/20-20.1791266594385.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Peteĩchape"
+    },
+    {
+      "surface": "התעתים",
+      "gloss": "peñembyasy"
+    },
+    {
+      "surface": "בנפשותיכם",
+      "gloss": "peñeikovekuéra rehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "peñemondo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "cherehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "peʼe haguã"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "Eñemboʼe"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "ore rehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "ha opa mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oheʼítava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "upéichaicha"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "emomarandu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oréve"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "ha jajapóta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:14.385904699Z",
+  "model": "glm-5.3"
+}

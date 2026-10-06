@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ha",
+      "rationale": "Avañeʼẽ tekomeʼẽ oñembojoaju hagua mokõi téra peteĩ távape: Migdal-Gad"
+    }
+  ],
+  "translation": "Tsenan, Chadasha, ha Migdal-Gad,",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "82525956d80d28bc7818c1e6fb16216d1fd1b1653ed96346e467d48878e2df6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/15\/37-37.1791266226562.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "Tsenan"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "Chadasha"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "ha Migdal"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:06.565180240Z",
+  "model": "glm-5.3"
+}

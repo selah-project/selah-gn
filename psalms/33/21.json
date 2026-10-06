@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבנו",
+      "rationale": "guerovia ayvu — 'roguerovia ayvu' ha'e levy rendápe, pe hebreo ha'e ayvu tekove rapykuaaha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי...כי",
+      "rationale": "mokõi כי ojuehe omyengovia — pe tai joavy ojekopyty"
+    }
+  ],
+  "translation": "Ja pe hese pe ayvu roguerovia, Ja pe ipe marangatu téra rojeroviágui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8fd41461112787d314169f9e447c96a9818f8daf0efbdfe4160c16168faaf029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/33\/21-21.1791266703735.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ja pe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "pe ayvu roguerovia"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "roguerovia ayvu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ja pe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ipe téra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "rojeroviágui"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:03.735646129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 7:16",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קוץ",
+      "rationale": "'chéirei asy' (to be disgusted) — some read 'to dread\/be anxious'; KJV 'abhorrest', BSB 'dread'."
+    },
+    {
+      "kind": "crux",
+      "subject": "האדמה אשר אתה קץ",
+      "rationale": "Does 'you' refer to Ahaz dreading the land (Syria\/Ephraim), or does he loathe it — JPS detaches 'two kings' to modify the land; ASV\/BSB attach them ('land of the two kings you dread')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaíre \/ porãvae",
+      "rationale": "Hebrew ra\/tov are 'evil\/good' in the widest sense; no single avañeʼẽ pair carries both moral and practical senses."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ojehejata",
+      "rationale": "עזב nifal can mean 'be deserted\/laid waste' (BSB) rather than simply 'be abandoned'."
+    }
+  ],
+  "translation": "Umíva rehe, mitã guaʼu kuaa mboyve omondyi vaíre ha oiporavo porãvape, ojehejata yvy Efráim ha Aram mburuvichakuéra mokõivévagui, pe yvy nde chéirei asy vaʼekue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e01dcab6e3def30186d4b0185e3377486b63fed424f4c03468832851601019ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/7\/16-16.1791266507925.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "umíva rehe"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mboyve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mitã guaʼu"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "omondyi vaíre"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "vaíre"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ha oiporavo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "porãvape"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ojehejata"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "chéirei asy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": " reheguiguárõ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "mburuvichakuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:47.926245056Z",
+  "model": "glm-5.3"
+}

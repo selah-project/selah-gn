@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "amonoʼõ",
+      "rationale": "לשיח haʼe ñemonoʼõ ryapu ndive — ñeʼẽ jehechauka paʼũre, hesakãporãve ko árape"
+    },
+    {
+      "kind": "alternative",
+      "subject": "che resaiterei vaʼerã pyaʼe",
+      "rationale": "קדמו ikatu avei heʼise 'ahecha mboyve' — amoñepyrũrã pehẽngue"
+    }
+  ],
+  "translation": "Che jesareko pyaʼe orekóva che resaiterei vaʼerã umi pyhare ñangareko ára, amonoʼõ hag̃ua ne ñeʼẽme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "80af0851d0f595ac6d53059ed2a2f672fc874f4d36e6ade27beda11a67d4985b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/119\/148-148.1791266754341.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קִדְּמ֣וּ",
+      "gloss": "che jesareko pyaʼe orekóva"
+    },
+    {
+      "surface": "עֵ֭ינַי",
+      "gloss": "che resaiterei vaʼerã"
+    },
+    {
+      "surface": "אַשְׁמֻר֑וֹת",
+      "gloss": "umi pyhare ñangareko ára"
+    },
+    {
+      "surface": "לָ֝שִׂ֗יחַ",
+      "gloss": "amonoʼõ hag̃ua"
+    },
+    {
+      "surface": "בְּאִמְרָתֶֽךָ",
+      "gloss": "ne ñeʼẽme"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:54.343956550Z",
+  "model": "glm-5.3"
+}

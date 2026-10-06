@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "Hebrew 64:1 = English 64:2; KJV\/Geneva 'rend the heavens' is Hebrew 63:19b, attached here in some traditions."
+    },
+    {
+      "kind": "crux",
+      "subject": "המסים",
+      "rationale": "hapax-like 'brushwood' vs. reading 'the melting' (הַמַסִים) as in 'melting fire'; JPS takes twigs, KJV context takes melting."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ombotremble",
+      "rationale": "ירגזו is 'tremble\/quiver with fear or anger', broader than trembling alone."
+    },
+    {
+      "kind": "hapax",
+      "subject": "המסים",
+      "rationale": "Dry twigs\/brushwood — word appearing only here related to המס."
+    }
+  ],
+  "translation": "Tatáu omoĩramo hína kaʼaguýre, tatáu omoĩramo hína ýre, ani hag̃ua ne téra ojekuaa ne ñorãirõhárape, nde reíme aja tetãnguéra ombotremble!",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "228404aca698beb5ea807aecc9c2aaa9cd447ccf7a7721b9047a5d576f1fc7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/64\/1-1.1791266572606.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "omoĩramo hína tatáicha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tatáicha"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "kaʼaguýre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ýre"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "ombojypy"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tatáu"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ani hag̃ua ojekuaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne téra"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "ne ñorãirõhárape"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nde reíme aja"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ombotremble"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:52.607521994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 51:25",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המשחית…המשחית",
+      "rationale": "repetition of 'the destroyer' framing Babylon, kept with the repeated ohundíva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tanimbúva",
+      "rationale": "שרפה is 'burning\/cremation'; rendered as 'burnt\/ashen' to fit yvyty"
+    },
+    {
+      "kind": "you",
+      "subject": "to Bavel",
+      "rationale": "direct address of Jahve against Babylon, the destroying mountain"
+    },
+    {
+      "kind": "crux",
+      "subject": "che aguereko nde rehe",
+      "rationale": "הנני אליך literally 'behold I unto you', read by KJV\/ASV as 'I am against you'"
+    }
+  ],
+  "translation": "Machote, che aguereko nde rehe, yvyty ohundíva, heʼi Jahve, pe ohundíva ⟨את⟩ opaite yvy; ha atenondéta ⟨את⟩ che po nde rehe, ha amojeréta nde itakuéra apyre guive, ha ambojáta nde yvyty tanimbúva ramo.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "901174a0d1faf87a9fc4e4c72edaa74add335b8bcadc214f7b81363b5ab1b95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/51\/25-25.1791266669724.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Machote, che aguereko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "ohundíva"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "pe ohundíva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite yvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "ha atenondéta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che po"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "che po"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde rehe"
+    },
+    {
+      "surface": "וגלגלתיך",
+      "gloss": "ha amojeréta nde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "itakuéra apyre"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ha ambojáta nde"
+    },
+    {
+      "surface": "להר",
+      "gloss": "yvyty ramo"
+    },
+    {
+      "surface": "שרפה",
+      "gloss": "tanimbúva"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:29.726105212Z",
+  "model": "glm-5.3"
+}

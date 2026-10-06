@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הֶבֶל is 'breath\/vapor\/smoke' — something transitory; rendered by sound (hevel) instead of a meaning like 'vanity' to keep the word's shape"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים…הבל",
+      "rationale": "Hebrew superlative 'X of Xs' plus fivefold repetition of hevel frames the whole book; the plural hevelkuéra cannot carry the bound-construct superlative fully"
+    },
+    {
+      "kind": "crux",
+      "subject": "Kohelet",
+      "rationale": "קֹהֶלֶת is a feminine participle 'the assembler'; kept as the name Kohelet rather than 'Preacher\/Teacher'"
+    }
+  ],
+  "translation": "Hevel hevelkuéra, heʼi Kohelet, hevel hevelkuéra, opaite mbaʼe hevel.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bad69e9f917903f3ce2142d642f11a31c25359cd0ed83acd3615aefabe9320ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ecclesiastes\/1\/2-2.1791266914525.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hevelkuéra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hevelkuéra"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:34.528731803Z",
+  "model": "glm-5.3"
+}

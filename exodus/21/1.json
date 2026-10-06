@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kuéra",
+      "rationale": "plural marker added for the Hebrew plural ending -ים"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle with no separate rendering in Guarani here"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tekojoja",
+      "rationale": "משפטים is 'verdicts\/judgments'; rendered per discipline as tekojoja (ordered-justice rulings)"
+    }
+  ],
+  "translation": "Ha ko'ã umi tekojoja kuéra embohesa'íta chupe kuéra tenonde.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "eed6271b4b22568def31d0662c26123ec36910f9fd791dcd8fe74568ccb2acd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/21\/1-1.1791266000068.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ha ko'ã umi"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "tekojoja kuéra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשים",
+      "gloss": "embohesa'íta"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "chupe kuéra tenonde"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:20.068810219Z",
+  "model": "glm-5.3"
+}

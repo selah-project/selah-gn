@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 11:25",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ojepyhy",
+      "rationale": "ויער haʼe 'omýi jepeʼe' — 'ojepyhy' ohechauka mbaʼe ojapóva, ndahaʼéi ipuʼakuéra"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחשבו\/מחשבות",
+      "rationale": "Peteĩ tai ryru joavy ñeʼẽ — 'ojapo' ha 'mbaʼe ñembosakoʼi' — avañeʼẽme ndaipóri pe ñeʼẽjoaju"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'tuichaháicha' térã 'upévare' — ko'ápe 'avave ndojoykevéi' -vai"
+    }
+  ],
+  "translation": "Ha ojepyhy ipuʼaka ha iñakãvarã pe ñembygua mburuvicha ári, tetãguy ñorãirõhára aty guasu ndive; ha pe ñembygua mburuvicha ojepyhy ñorãirõ hag̃ua tetãguy ñorãirõhára aty guasu ha ipuʼakapáva heta rupi ndive; ha ndojoykevéi, tuichaháicha ojapo hese mbaʼe ñembosakoʼi kuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5a09cc426a83d33e5d6343333adadb4f4c344a39e6a32081b62171270907dbbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/11\/25-25.1791267017328.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "ojepyhy"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ipuʼaka"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "ha iñakãvarã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ñembygua"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "tetãguy ñorãirõhára aty"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ñembygua"
+    },
+    {
+      "surface": "יתגרה",
+      "gloss": "ojepyhy"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõ hag̃ua"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "tetãguy ñorãirõhára aty"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guasu"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ha ipuʼakapáva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heta rupi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuichaháicha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndo-"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "joykevéi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tuichaháicha"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mbaʼe ñembosakoʼi kuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:17.334051863Z",
+  "model": "glm-5.3"
+}

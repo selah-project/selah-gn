@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמיר עריצים יענה",
+      "rationale": "KJV 'the branch of the terrible ones' (reading זמיר as branch); most read 'the song of the ruthless shall be brought low', and ענה as 'answer\/humble'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בציון",
+      "rationale": "Pointed 'in a dry place' (ציון II); consonants also allow 'in Zion', a wordplay lost in rendering."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב\/כחרב",
+      "rationale": "Heat\/drought word repeated, framing the verse; repetition not fully carried over."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זמיר",
+      "rationale": "Lemma of song-with-instruments; here rare, feeding the branch\/song crux."
+    }
+  ],
+  "translation": "Yvykuʼeã rangue, vyʼaʼỹ hapépe, ejukapa umi pytagua oñemomarandúva; hakuʼe yvyra apeguáicha, opomoʼĩ pe purahéi umi ivaíva apytuʼu ryepýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b6785d2404909cced7d8e006699fad945e5ae47883daa032627feee4c60bf01d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/25\/5-5.1791266510556.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "yvykuʼeã rangue"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "vyʼaʼỹ hapépe"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "oñemomarandúva"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "umi pytagua"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "ejukapa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hakuʼe"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "yvyra apeguáicha"
+    },
+    {
+      "surface": "עב",
+      "gloss": "apytuʼu ryepýpe"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "pe purahéi"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "umi ivaíva"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "opomoʼĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:50.557233453Z",
+  "model": "glm-5.3"
+}

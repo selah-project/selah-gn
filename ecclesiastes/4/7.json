@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Hebreo ndoguerekói ⟨את⟩ ko'ápe; marker oñembojoaju hevel rehe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל he'iséva 'pytu, nandipa'ũva'; oñeñongatu hebreo ipúpe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kuárahy guýpe",
+      "rationale": "'yvóra jára kuarahý guýpe' — Kohelet jehaipyre ñembyaty, tapiaite iñe'ẽryru"
+    }
+  ],
+  "translation": "Ajey che, ha ahecha ⟨את⟩ hevel kuárahy guýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1ebe65364135e87cfc046d62157de32e6f0f311b29b82409f71fdcc841f71bde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ecclesiastes\/4\/7-7.1791266910672.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ajey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ha ahecha"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuárahy"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:30.675163882Z",
+  "model": "glm-5.3"
+}

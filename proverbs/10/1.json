@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mba'éva",
+      "rationale": "Hebrew construct משלי שלמה bound; Guarani needs possessive linker"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaneo",
+      "rationale": "תוגת is depression of spirits, concrete grief; 'kaneo' (sadness) is nearest single word"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן...ובן",
+      "rationale": "antithetical parallelism: wise son \/ foolish son, father \/ mother"
+    }
+  ],
+  "translation": "Shelomo mba'éva umi mishle: pe memẽ ra'ỹi ojapo kyre'ỹ itúvape, ha pe ra'ỹi ndaija'e'ỹva kaneo isýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ea61148e4bfdf6dd2ef1bedfccd65b1cab99bcb401b7b17e299a30e3e82b7fb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/10\/1-3.1791266869602.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "mishle"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ra'ỹi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "memẽ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ojapo kyre'ỹ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ha ra'ỹi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ndaija'e'ỹva"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "kaneo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "isýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:49.606947740Z",
+  "model": "glm-5.3"
+}

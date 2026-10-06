@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 27:19",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "emonguʼê",
+      "rationale": "צוה 'oñemonguʼê' — oñembojopói, oñemboarahara; avañeʼẽme ndaipóri ñeʼẽ jojahuete."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפני\/ולפני",
+      "rationale": "Jejavyjey renondépe mokõi jey — ojuehe ijojaha."
+    }
+  ],
+  "translation": "Embojere chupe ojupívo Elazar pa'i renondépe ha opavave aty renondépe, ha emonguʼê chupe umi hesa ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c31861ca59c2a6a7946ffe94f8c9687705d214b10612a1f6cc70f535817dc463",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/27\/19-19.1791266182409.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "embojere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opavave"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty"
+    },
+    {
+      "surface": "וצויתה",
+      "gloss": "emonguʼê"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "umi hesa ári"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:22.411008310Z",
+  "model": "glm-5.3"
+}

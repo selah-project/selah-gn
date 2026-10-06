@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hete",
+      "rationale": "Hebrew טרף נפשו is third-person 'tears his own soul'; reflexive object supplied in brackets"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iñakãrage",
+      "rationale": "נפש is throat\/breath\/life-force, not a detachable 'soul'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "באפו",
+      "rationale": "literally 'in his nose\/nostrils', idiom for anger; rendered 'in his anger'"
+    },
+    {
+      "kind": "addition",
+      "subject": "pa",
+      "rationale": "Hebrew marks the rhetorical questions only by context; interrogative particle added"
+    }
+  ],
+  "translation": "Ojesoʼo ⟨hete⟩ iñairome; pa yvy ojehejata nde rehehápe, ha ita oñemonguʼita hendaguive?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ca21e43286d5d8fc159e327cd176f967634c95dba4f56d83521f2aca3f2ceee2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/job\/18\/4-4.1791266821516.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טֹרֵף",
+      "gloss": "ojesoʼo"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "iñakãrage"
+    },
+    {
+      "surface": "בְּאַפּוֹ",
+      "gloss": "iñairome"
+    },
+    {
+      "surface": "הַלְמַעַנְךָ",
+      "gloss": "nde rehehápe"
+    },
+    {
+      "surface": "תֵעָזַב",
+      "gloss": "ojehejata"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "וְיֶעְתַּק",
+      "gloss": "oñemonguʼita"
+    },
+    {
+      "surface": "צוּר",
+      "gloss": "ita"
+    },
+    {
+      "surface": "מִמְּקֹמוֹ",
+      "gloss": "hendaguive"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:01.519863790Z",
+  "model": "glm-5.3"
+}

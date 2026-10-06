@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גדרים",
+      "rationale": "From גדר, wall-makers — 'masons' (KJV\/JPS) vs 'wall-builders\/repairers' (YLT); shape is 'those who wall in'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לקנות",
+      "rationale": "'Ojogua hag̃ua' (to buy\/procure); qanah covers both create and purchase — context favors buying materials."
+    }
+  ],
+  "translation": "Umi mboupyrýpe, ñemoĩhárape ha ita oñemoĩhárape, ha ojogua hag̃ua yvyra kuéra ha ita koraʼíva, omboypy hag̃ua ⟨את⟩ pe óga.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f8fd4fc1ac5b58bf3c418f66858244f245b68bb7998ddcd9474e11b259566d2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/22\/5-6.1791266536400.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "mboupyrýpe"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "ñemoĩhárape"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "ita oñemoĩhárape"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ojogua hag̃ua"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yvyra kuéra"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ita"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "koraʼíva"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "omboypy hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe óga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pe óga"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:16.403269412Z",
+  "model": "glm-5.3"
+}

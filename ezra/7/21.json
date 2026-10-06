@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 7:21",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "דתא (dat) haʼe arameo ñeʼẽ 'ñeʼẽmeʼẽ\/tekojoja', koʼápe ojeporu Tora ramo"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Arameo ndorekói kópula ñeʼẽmeʼẽ ryepýpe g̃uarã"
+    },
+    {
+      "kind": "you",
+      "subject": "to peẽme",
+      "rationale": "Artachshasta oñeʼẽ viruñemongaruhárape, ypa kuápe yvategua gotyo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ypa",
+      "rationale": "נהרה ko'ápe haʼe Eufrates; 'ypa año' oheja ambiguity hebreo-guaraní"
+    }
+  ],
+  "translation": "Ha che, che Artachshasta mburuvicha guasu, amboja pe ñeʼẽmeʼẽ opaite viruñemongaruhárape oĩva ypa kuápe yvategua gotyo: mbaʼeve ojerurevaʼekue Ezra, paʼi, Tora ohaihára Eloha yvága mbaʼéva, peẽme, ojejapóta pytuʼuʼỹre.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "40b0cf89f7bb053924f9241196f18a59db294ee54fb058b9d6aba172729ed840",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/7\/21-21.1791267023157.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "Ha che rehe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "che"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshasta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "שים",
+      "gloss": "amboja"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "pe ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "גזבריא",
+      "gloss": "viruñemongaruhára"
+    },
+    {
+      "surface": "די",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kuápe yvategua gotyo"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "ypa"
+    },
+    {
+      "surface": "די",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mbaʼeve"
+    },
+    {
+      "surface": "די",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ישאלנכון",
+      "gloss": "ojerurevaʼekue peẽme"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "paʼi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ohaihára"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "די",
+      "gloss": "mbaʼéva"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "yvága"
+    },
+    {
+      "surface": "אספרנא",
+      "gloss": "pytuʼuʼỹre"
+    },
+    {
+      "surface": "יתעבד",
+      "gloss": "ojejapóta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:23.162073921Z",
+  "model": "glm-5.3"
+}

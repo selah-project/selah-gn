@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צו",
+      "rationale": "ʼenjoin\/commandʼ rendered as eheja-oikuaa (ʼcause to knowʼ); avañeʼẽ lacks a single quotative-command verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העלה",
+      "rationale": "ʼascending-offeringʼ rendered jupirã (ʼthat which goes upʼ) to keep the up-movement picture"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מוקדה",
+      "rationale": "ʼits fuel\/burning-placeʼ; JPS ʼits firewoodʼ — rendered yvyra-tatakuã (firewood)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moche",
+      "rationale": "the verse is an indirect command from Jahve through Moche to Aharon and his sons"
+    }
+  ],
+  "translation": "Eheja oikuaa ⟨את⟩ Aharon ha ⟨את⟩ hemembykuéra, eheja heʼi hikuái: kóva haʼe Tora pe jupirã rehegua: pe jupirã voi — oĩ yvyra-tatakuã ári, mbovachuhape ári — opaite pyhare, koʼẽtī amo peve; ha mbovachuhape tata ojekuera opaitemínte ipype.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8fe77cede36f5f01c09eb30b1506def2f4894f2246805742b2b9938ab4d8ef20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/leviticus\/6\/2-2.1791266024315.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "eheja-oikuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hemembykuéra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hemembykuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "eheja-heʼi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe-jupirã"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe-voi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pe-jupirã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "yvyra-tatakuã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbovachuhape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "koʼẽtī"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ha-tata"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbovachuhape"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ojekuera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:44.316306422Z",
+  "model": "glm-5.3"
+}

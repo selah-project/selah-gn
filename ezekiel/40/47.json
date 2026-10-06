@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hazer",
+      "rationale": "Templo rekoha jehendakue: sa amah irundy dimensión, irundyjoja."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "Avañeʼẽme oguereskata koʼã tendaʼi; hebreo ndoguereko artículo peteĩcha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "amah",
+      "rationale": "אַמָּה — iñepyrũrã heʼi 'sy'; ñemuha raʼãnga (ykepo), jaiporu tembiasakuepe añonte."
+    }
+  ],
+  "translation": "Ha ohenda ⟨את⟩ ⟨pe⟩ hazer: pukukue sa amah, iperekue sa amah, irundyjoja; ha ⟨pe⟩ altar oĩ ⟨pe⟩ hóga renondépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d969290ca76211d244cc3a838a84c005138c7d1754be3538afa7f8dd242fcfd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/40\/47-48.1791266683605.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ohenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨pe⟩ hazer"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨pe⟩ hazer"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pukukue"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amah"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ha iperekue"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amah"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "irundyjoja"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "ha ⟨pe⟩ altar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨pe⟩ hóga"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:43.606237725Z",
+  "model": "glm-5.3"
+}

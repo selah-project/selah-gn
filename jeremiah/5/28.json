@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 5:28",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויצליחו",
+      "rationale": "KJV\/ylt 'and they prosper' (the wicked prosper) vs. JPS\/ASV 'that they (the orphan's cause) might prosper' — a purpose clause attached to the fatherless."
+    },
+    {
+      "kind": "substitution",
+      "subject": "okyryrã \/ oipesaka",
+      "rationale": "שמנו\/עשתו are fatness\/gloss images of the sleek rich; Guaraní 'shiny-sleek' keeps the physical picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דין לא דנו דין",
+      "rationale": "Root דין repeated three times (din lo danu din), a judgment-not-judging-judgment wordplay lost in Guaraní."
+    }
+  ],
+  "translation": "Okyryrã, oipesaka avei, ha ohasapa mbaʼevai apope; hekojojaha ndojapo hikuái: hekojojaha ⟨את⟩ teʼõnguéra ndojapói ha oñemombaʼeguéva; avei imboriahu apytépe g̃uarã tekojoja ndojaposelói.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3e5ef6392f423e700456fc21183fd6ed2cb2eb5613add9f2fab98b3179efea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/5\/28-28.1791266575667.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמנו",
+      "gloss": "okyryrã"
+    },
+    {
+      "surface": "עשתו",
+      "gloss": "oipesaka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ohasapa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "apope"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼevai"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo... hikuái"
+    },
+    {
+      "surface": "דנו",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hekojojaha"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "teʼõnguéra"
+    },
+    {
+      "surface": "ויצליחו",
+      "gloss": "oñemombaʼeguéva"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "tekojoja"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "imboriahu apytépe g̃uarã"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo... selói"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ojapo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:55.668139479Z",
+  "model": "glm-5.3"
+}

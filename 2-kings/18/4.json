@@ -1,0 +1,159 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 18:4",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחש \/ הנחשת \/ נחשתן",
+      "rationale": "Mboí-itaju ha Nejustán: ñeʼẽjoaju mbohapyetéva, iñeʼẽndu joja jaheka vaʼerã: mboí, itaju, Nejustán."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נחשתן",
+      "rationale": "Nejustán — ko ñeʼẽ ojehecha koʼápe año Tanaj apytépe."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקרא לו נחשתן",
+      "rationale": "¿Haʼe ohéra chupe Nejustán, térã ojeherovaʼekue? YLT heʼi 'itaju raʼe' heʼiséva, JPS heʼi ojeherovaʼekue."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האשרה",
+      "rationale": "Ashera: ndahaʼéi kaʼagua (KJV 'groves') — haʼe taʼanga goddess Ashera rehegua."
+    }
+  ],
+  "translation": "Haʼe katu oipeʼo ⟨את⟩ umi yvate renda, ojyva ⟨את⟩ umi ita manduʼarã, okytĩ ⟨את⟩ ⟨la⟩ Ashera, ha ojyva vai pe mboí itaju ojapovaʼekue Moche, piguĩ umi ára upéva peve Jisrael membykuéra okuareʼi hese; ha ombohéra chupe Nejustán.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ada70bd11c6f6895aca0e394983ed326abc4fa4cdc8d6699b79ff0ccc1e4c657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/18\/4-4.1791266535067.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "oipeʼo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi yvate renda"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "umi yvate renda"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ojyva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ita manduʼarã"
+    },
+    {
+      "surface": "המצבת",
+      "gloss": "umi ita manduʼarã"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "okytĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "וכתת",
+      "gloss": "ojyva vai"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mboí"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapovaʼekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "piguĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "umi ára"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "upéva"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oiko hikuái"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מקטרים",
+      "gloss": "okuareʼi hese"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha ombohéra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "נחשתן",
+      "gloss": "Nejustán"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:15.069239029Z",
+  "model": "glm-5.3"
+}

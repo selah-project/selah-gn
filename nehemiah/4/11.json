@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 4:11",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hýĩ",
+      "rationale": "השלח haʼe hýĩ ojehoórõguarã (misil), ndahaʼéi ñeʼẽ.mboguata hypyʼũ"
+    },
+    {
+      "kind": "crux",
+      "subject": "באחת ידו",
+      "rationale": "KJV\/ASV omoñeʼẽ ko versículo norairõ ñeʼẽ ramo ('ojukata ha opa tembiapo'), JPS oheja hebreo oĩháicha; ko jehai oheja mokõive"
+    }
+  ],
+  "translation": "Umi omoĩhóva kuáre ha umi omondyséva jepire, omondýi imbaʼerã, peteĩ pópe ojapo tembiapo ha peteĩ pópe oguereko pyʼýi hýĩ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "18df4a40ad759d659f55f280b9ae898fd7c72f938941d5d23c5f603a8960947c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nehemiah\/4\/11-11.1791267020092.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבונים",
+      "gloss": "umi omoĩhóva"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "kuáre"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "ha umi omondyséva"
+    },
+    {
+      "surface": "בסבל",
+      "gloss": "jepire"
+    },
+    {
+      "surface": "עמשים",
+      "gloss": "omondýi imbaʼerã"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "peteĩ pópe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "tembiapo"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ha peteĩ pópe"
+    },
+    {
+      "surface": "מחזקת",
+      "gloss": "oguereko pyʼýi"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "hýĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:20.095771849Z",
+  "model": "glm-5.3"
+}

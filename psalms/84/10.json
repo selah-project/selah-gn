@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nde",
+      "rationale": "Hebreo ndorekói pronombre peve, avañeʼẽme oñemoĩ ⟨nde⟩ Machiah jahecha hag̃ua mávapa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbareteʼanga",
+      "rationale": "מגן haʼe mbareteʼanga (escudo); ko'ápe Elohim rehegua, ñane moãirũha ramo"
+    },
+    {
+      "kind": "crux",
+      "subject": "Machiah",
+      "rationale": "משיחך: 'nde Machiah' — mburuvicha térã pa'i oñeñohẽva; ndojehaíri 'Mesías' NI 'Cristo'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "Ñeʼẽporãhaípe oñembohetá Jahve-pe, ojerure Elohim-pe ohecha hag̃ua ñane mbareteʼanga"
+    }
+  ],
+  "translation": "Ñane mbareteʼanga, Elohim, ehecha, ha ehecha porã ⟨nde⟩ Machiah resaуme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6dc78d46b409b8bc50775a0f5df043605d269612c778181eb1cc513e027f2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/84\/10-10.1791266767692.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "ñane mbareteʼanga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ehecha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ha ehecha porã"
+    },
+    {
+      "surface": "פני",
+      "gloss": "resay"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "nde Machiah"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:07.693271632Z",
+  "model": "glm-5.3"
+}

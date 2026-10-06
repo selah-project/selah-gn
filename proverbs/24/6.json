@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 24:6",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בתחבלות",
+      "rationale": "Ko ñeʼẽ he'ise 'tymbo jeguereko' — yga tymbo ojesarekóva rehegua; avañeʼẽme 'jeikerã pukukue' (oñembojaovy've va'erã)"
+    },
+    {
+      "kind": "elision",
+      "subject": "יועץ",
+      "rationale": "Hebreo heʼi 'ijepeve pa'ỹguasu ñemoñeʼẽhára' — avañeʼẽme 'ijepeve pa'ỹguasu ijykére'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ndéve g̃uarã",
+      "rationale": "לך oĩ hebreope; ⟨…⟩ ndaipóri — ko ñeʼẽ ojehecha token 4-pe"
+    },
+    {
+      "kind": "you",
+      "subject": "to reader",
+      "rationale": "Versículo oñeʼẽ opaite yvypórape: 'rejapóta' — mbaʼe rejapo raẽ ñorãirõme"
+    }
+  ],
+  "translation": "Mbopy'aguapýpe rejapóta ⟨ndéve g̃uarã⟩ ñorãirõ; ha ñemoñante opyta jepeve pa'ỹguasúpe ijykére.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d455ddf660b671849a4f6e30c8232a5d67a609bab55eb7651cf4e6cf56cf7d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/24\/6-6.1791266843524.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mbopy'aguapýpe"
+    },
+    {
+      "surface": "בתחבלות",
+      "gloss": "jeikerã pukukue"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve g̃uarã"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõ"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "ha ñemoñante"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "jepeve pa'ỹguasúpe"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ijykére"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:23.528591523Z",
+  "model": "glm-5.3"
+}

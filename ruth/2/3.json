@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 2:3",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקר מקרה",
+      "rationale": "ojehu\/ojehúvo: to same raiz, ijojaha'ỹva oñe'ẽvo 'ojehúvo' año"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ojoaju Boas rehe",
+      "rationale": "מקרה (ojehu año) — pe ñe'ẽ iñemihípe he'i naiporãiha voi; moñe'ẽhára oikuaa katuete pe ojehu"
+    }
+  ],
+  "translation": "Ha haʼe ohóvo, og̃uahẽ ha oheka pe kaʼaguyape kosechahára kuera apysape. Ha ojehúvo chupe, pe kaʼaguy vorekue oĩ Boas mbaʼéva, Elimelek joykeʼyguápegui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a1f6306a6e6387309ed5a6c5360eb97ad0fffa19addd862c82aaa82c2f86e5d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ruth\/2\/2-3.1791266953564.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ha ohóvo"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "og̃uahẽ"
+    },
+    {
+      "surface": "ותלקט",
+      "gloss": "oheka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kaʼaguyape"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "apysape"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "kosechahára kuera"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ojehúvo"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "vorekue"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kaʼaguy"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boas mbaʼéva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "joykeʼyguápegui"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelek"
+    }
+  ],
+  "timestamp": "2026-10-06T06:09:13.573571480Z",
+  "model": "glm-5.3"
+}

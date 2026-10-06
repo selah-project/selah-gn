@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "-pe",
+      "rationale": "Guarani locative suffixes supplied for Hebrew bare nouns in prepositional phrases"
+    },
+    {
+      "kind": "substitution",
+      "subject": "trench\/abyss",
+      "rationale": "Hebrew bor (bor) is a cistern\/prison pit; 'yvykuʼe' loses the prison nuance"
+    },
+    {
+      "kind": "substitution",
+      "subject": "deep places",
+      "gloss": "yvy iñuʼũva",
+      "source": "tsulah (deep, sounding depths)"
+    }
+  ],
+  "translation": "Cherã che mohendapyre yvykuʼe iñambuévape, ñeʼẽrangue a ñandypýpe, yvy iñuʼũvape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "cdeeb807f265cb716633fd1fc9168a6ee80862bd6025733aa7f59f330facc825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/88\/7-7.1791266760697.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שַׁתַּנִי",
+      "gloss": "che moinge"
+    },
+    {
+      "surface": "בְּבוֹר",
+      "gloss": "yvykuʼe iñambuéva ryepýpe"
+    },
+    {
+      "surface": "תַּחְתִּיּוֹת",
+      "gloss": "yvy ape iñambuéva",
+      "source": "yvy kuʼe"
+    },
+    {
+      "surface": "בְּמַחֲשַׁכִּים",
+      "gloss": "ñeʼẽrangue a ñandypýpe"
+    },
+    {
+      "surface": "בִּמְצֹלוֹת",
+      "gloss": "yvy iñuʼũva"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:00.701253779Z",
+  "model": "glm-5.3"
+}

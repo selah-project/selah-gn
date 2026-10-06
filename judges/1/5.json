@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "-kuéra",
+      "rationale": "Plural marker added: Hebrew has singular collective forms for the tribes."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדני בזק \/ בבזק",
+      "rationale": "King's name repeats place name — Adoni-Bezek found in Bezek; the echo is kept by the near-identical spelling."
+    }
+  ],
+  "translation": "Ha ojuhu ⟨את⟩ Adoni-Bezek Bezek-pe, ha oñorairõ hese, ha ohundi ⟨את⟩ kanaanita-kuéra ha ⟨את⟩ perisita-kuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a318ca3b4ea50f9851cff4d1901d6efca43c1c595a024b9e974eec91087d30fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/1\/5-6.1791266267199.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "ojuhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezek-pe"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "oñorairõ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ohundi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanita-kuéra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanita-kuéra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "perisita-kuéra"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perisita-kuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:47.204734455Z",
+  "model": "glm-5.3"
+}

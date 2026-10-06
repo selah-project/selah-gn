@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלם",
+      "rationale": "'complete\/full' — rendered as 'opa hag̃ua' (reach its end), since the iniquity has not yet filled up"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fourth generation",
+      "rationale": "counting generations until the return, a temporal measurement"
+    }
+  ],
+  "translation": "Ha upéi, pe irundyha ñemoñare oguerojeta koʼápe, ndaipóriraguā pe Emori rehegua vai opa hag̃ua pe koʼápe gueteri.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1815b5b9aa00d0a322f4294f27423d15b96df7a8541693cc87ef33c7481fbee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/15\/16-16.1791265924963.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "ha upéi, pe ñemoñare"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "irundyha"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "oguerojeta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼápe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndaipóriraguā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda... gueteri"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "opa hag̃ua"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vai"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori rehegua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "koʼápe gueteri"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:04.964433878Z",
+  "model": "glm-5.3"
+}

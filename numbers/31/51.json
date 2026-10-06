@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאתם",
+      "rationale": "Preposition מאת + suffix rendered with ⟨את⟩ marker plus 'chuguikuéra gui' to keep the aleph-tav signpost visible."
+    },
+    {
+      "kind": "addition",
+      "subject": "ku",
+      "rationale": "Hebrew article ה on הזהב rendered as Guarani determiner ku, bracketed where not part of the Hebrew word; supplied as natural determiner."
+    }
+  ],
+  "translation": "Ha Moche ha Elazar pa'i ogueru ⟨את⟩ ku itaju — ⟨את⟩ chuguikuéra gui — opaite mba'e'oka japorõva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "79c11115a1740f9907115b6938903592bdc6fb26a48bbf99fd98a8d7ca4265a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/31\/51-52.1791266206290.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ha Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pa'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku itaju"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ku itaju"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ chuguikuéra gui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mba'e'oka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "japorõva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:46.291631469Z",
+  "model": "glm-5.3"
+}

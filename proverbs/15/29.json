@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oĩ",
+      "rationale": "Hebreo ndoguerekói ñeʼẽpehẽ 'oĩ'; avañeʼẽ oikotevẽ chupe oñeʼẽ hag̃ua mombyrygua"
+    }
+  ],
+  "translation": "Mombyry Jahve oĩ umi vaikuégui, ha ohendu umíva heko jojáva ñeʼẽjerure.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4b8fd5edbee855b4f28eddb7a2412c7a0dd93bc7290a744ac58b04b6ec08e3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/15\/29-30.1791266867338.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Mombyry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "umi vaikuégui"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "ha ñeʼẽjerure"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "umíva heko jojáva"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ohendu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:47.342964436Z",
+  "model": "glm-5.3"
+}

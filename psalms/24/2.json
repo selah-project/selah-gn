@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yvypóra",
+      "rationale": "Hebreo ombohyapu mba'eporãva'ekue — pe 'péina' (הוא) he'iseva'ekue 'Péina ojapo'"
+    }
+  ],
+  "translation": "Ha peichahápe, yvypóra omoĩ yvy y guasu ári ha ojekuaauka y akaru ysyry ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "773daeed88e2f2b2ae8f203b531af256860102ce1ef0e3b9168e9227fae73960",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/24\/1-2.1791266724726.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha peichahápe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "péina"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "y guasu ári"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "omoĩhague"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "akaru ysyri ári"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ojekuaauka"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:24.727703732Z",
+  "model": "glm-5.3"
+}

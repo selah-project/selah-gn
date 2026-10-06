@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 9:16",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשיתם",
+      "rationale": "'peẽ ejapo' repeated three times — the Hebrew drives the rhetorical triple conditional with the same verb."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shechem men",
+      "rationale": "Yotam directly addresses the leaders of Shechem who crowned Avimelej."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ידיו",
+      "rationale": "'iñipo' (his hands): Hebrew 'hands' stands for his deeds, kept literally as body part."
+    }
+  ],
+  "translation": "Ha koʼág̃a, pa añetegua ha hekopotĩ-pe peẽ ejapo peẽ omoĩ mburuvicha ramo ⟨את⟩ Avimelej, ha pa porã peẽ ejapo Jerubaal rehe ha hógua rehe, ha pa iñipo tekomeʼẽ raʼãngápe peẽ ejapo chupe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "39da229f4e8f3fd3eb0825e90877f4bae0565b49fede29d549a63e9c5745f1e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/9\/16-16.1791266241630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ha koʼág̃a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "ובתמים",
+      "gloss": "hekopotĩ-pe"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "peẽ ejapo"
+    },
+    {
+      "surface": "ותמליכו",
+      "gloss": "peẽ omoĩ mburuvicha ramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelej"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelej"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha pa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "porã"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "peẽ ejapo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubaal"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hógua"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha pa"
+    },
+    {
+      "surface": "כגמול",
+      "gloss": "tekomeʼẽ raʼãngápe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iñipo"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "peẽ ejapo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:21.632015495Z",
+  "model": "glm-5.3"
+}

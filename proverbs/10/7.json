@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe\/pe umi",
+      "rationale": "Kopulatibo ha determinantes oñemoĩ avañeʼẽme oĩre hebreope"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oñembyai",
+      "rationale": "ירקב heʼi 'okãi taho ysyrýpe' — oñembohasa 'oñembyai' ichag̃uarã"
+    }
+  ],
+  "translation": "Oñemomorandumby ramo pe marangatu térã oñeʼẽ bendisõicha; ha umi ivaipyréva réra oñembyai.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "90c3289866177a7b9c49ca0304046d5b853754bd94f0c46f170c7bc06486c1b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/10\/7-8.1791266815609.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ñemomanduhápe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "bendisõicha"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ha réra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "umi ivaipyréva"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "oñembyai"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:55.613284432Z",
+  "model": "glm-5.3"
+}

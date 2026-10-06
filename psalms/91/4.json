@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "haʼe",
+      "rationale": "Hebrew nominal clause lacks a copula; Guarani needs ⟨haʼe⟩ for 'his truth IS a shield'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iñeʼẽ añetegua",
+      "rationale": "אמת is stability\/trustworthiness, not merely 'truth'; rendered as true-faithful word"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צנה\/סחרה",
+      "rationale": "two kinds of shield in apposition — large buckler and surrounding shield — the military pair echoes the bird metaphor shift"
+    }
+  ],
+  "translation": "Ituʼũnga rupi ombojaháta nde, ha ipykuéra guýpe eñemoĩta jehekapaʼũme; iñeʼẽ añetegua ⟨haʼe⟩ angaiha ha jehesarekoha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "80835f70e37000ff6029b2d1361f2e9ee6ff3a20a5069d7d91ed07944fc3547b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/91\/3-4.1791266798605.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "ituʼũnga rupi"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ombojaháta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ha ... guýpe"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ipykuéra"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "eñemoĩta jehekapaʼũme"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "angaiha"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ha jehesarekoha"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "iñeʼẽ añetegua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:38.618585650Z",
+  "model": "glm-5.3"
+}

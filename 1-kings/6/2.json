@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "_dimensions of the Temple",
+      "rationale": "Oguegoipa: 60×20×30 ama — pèke, ipypuku ha ijcua tuja tuja."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ama",
+      "rationale": "אמה — ama (hebreo 'amah' ipúpe) — avañeʼẽme ndaipóri ñe'ë tee, ojehecha hebreo ipúpe."
+    }
+  ],
+  "translation": "Ha óga ojapo va'ekue Sholomo mburuvicha Jahve-pe g̃uarã, ipekue ha'e mbohapo pa ama, ipypuku ha'e mokõi po ary amo apa, ha ijcua tuja ha'e pa ama mbohapypa.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d6df1cb382fb5521d048818a05c308988a89cdb9a5bbad6babc17bde0a94fd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/6\/2-2.1791266432772.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ha óga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va'ekue"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sholomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe g̃uarã"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mbohapo pa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mokõi po"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ipypuku"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ijcua tuja"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:32.773348138Z",
+  "model": "glm-5.3"
+}

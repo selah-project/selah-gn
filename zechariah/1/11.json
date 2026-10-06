@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jajere-jere",
+      "rationale": "התהלכנו hitpael 'hoja he'ise heta jeýpe'; avañeʼẽme ojehecha mbohapy jeýpe 'jere-jere'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jave",
+      "rationale": "avañeʼẽ oikotevẽ kámbio heʼisépe g̃uarã, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישבת ושקטת",
+      "rationale": "mokõi ñeʼẽ joaju oĩméva — 'oĩ pyʼaguapýpe ha iñirũ' — emomorandu pyʼaguapy añetegua"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "ההדסים",
+      "rationale": "hadasi (myrtle) haʼe ñeʼẽ rare Sejaría ijerepyrépe; iñeʼẽ hebreo ipúpe ojehai"
+    }
+  ],
+  "translation": "Ha oñembohovái ⟨את⟩ Jahve malajá rehe, oikóva umi hadasi apytépe, ha he'i: Jajere-jere jave yvy ape ári, jahecha opaite yvy oĩ py'aguapýpe ha iñirũ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "de608ddf6bca8efbeea4b273017175d3dff970af470891f0979d451a1a8e33b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/zechariah\/1\/11-11.1791266715754.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "oñembohovái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve malajá"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malajá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בין",
+      "gloss": "apytépe"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "umi hadasi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "jajere-jere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jahecha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oĩ py'aguapýpe"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "iñirũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:15.755564017Z",
+  "model": "glm-5.3"
+}

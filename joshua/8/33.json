@@ -1,0 +1,197 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 8:33",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל מול",
+      "rationale": "Preposition pair rendered by a single 'renondépe'; the second member carries the whole sense 'in front of'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oñemomba'eguasu",
+      "rationale": "לברך is 'to kneel\/bless'; avañe'ẽ lacks a single-word equivalent, so an honorific circumlocution is used."
+    },
+    {
+      "kind": "measurement",
+      "subject": "halves of the assembly",
+      "rationale": "The people are explicitly divided into two halves positioned against two mountains — a counted, spatial arrangement."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Gerizim \/ Eval",
+      "rationale": "The two-antithesis-mountain structure (blessing-side and curse-side of Deut 27) frames the whole verse as a chiasm of place."
+    }
+  ],
+  "translation": "Jisrael opavave — iruvichakuéra, ñangarekoharakuéra ha ihekojojaharakuéra — oĩhína ko yvágape ha ambue yvágape arón pe, pa'ikuéra levitakuéra renondépe, umíva ogueraháva arón Jahve ñe'ẽme'ẽ; jererekovéicha ha ypyguáiicha: ivore Gerizim yvyty renondépe ha ivore Eval yvyty renondépe, Jahve ojerure va'ekueicha Moche, Jahve mba'apohára, oñemomba'eguasu hag̃ua ⟨את⟩ Jisrael avano'õ iñepyrũrãme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a98e5d844b9a87aa7edb81cbc06b6db5424a3f8805d0f841cd5b0b55b5efa592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/8\/33-33.1791266292003.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ha opavave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "iruvichakuéra"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ñangarekoharakuéra"
+    },
+    {
+      "surface": "ושפטיו",
+      "gloss": "ihekojojaharakuéra"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "oĩhína"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko yvágape"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ambue yvágape"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "arón pe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitakuéra"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ogueraháva"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arón"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ñe'ẽme'ẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "jererekovéicha"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "ypyguáiicha"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ivore"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מול",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "והחציו",
+      "gloss": "ha ivore"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מול",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yvyty"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eval"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "va'ekueicha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mba'apohára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "oñemomba'eguasu hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael avano'õ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "avano'õ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "iñepyrũrãme"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:12.005165781Z",
+  "model": "glm-5.3"
+}

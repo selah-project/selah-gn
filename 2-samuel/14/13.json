@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 14:13",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כאשם",
+      "rationale": "'as-one-guilty' (KJV\/ASV) vs 'faulty in that' vs 'as an offender'; the king speaks as though culpable"
+    },
+    {
+      "kind": "you",
+      "subject": "kuñakára ñe'ẽ",
+      "rationale": "the woman of Tekoa directly addresses the king (David), turning the parable against him"
+    },
+    {
+      "kind": "addition",
+      "subject": "guáicha",
+      "rationale": "comparative particle supplied to render the kaph-prefix of כאשם"
+    }
+  ],
+  "translation": "Kuñakára he'i: mba'érépa remoñe'ẽ ko'ãicha Elohim tavaygua rehe? Ha pe mburuvicha oñe'ẽ ko ñe'ẽ oiméva ojavyha ramo guáicha, ani hag̃ua ogueru jey pe mburuvicha ⟨את⟩ pe oñemondóva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ca75c34d635f568b52bd5535f34eb5bcd52b1290d707f05817a157b9d75b7f07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/14\/13-14.1791266378749.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kuñakára"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mba'érépa"
+    },
+    {
+      "surface": "חשבתה",
+      "gloss": "remoñe'ẽ"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ko'ãicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tavaygua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "ha oñe'ẽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñe'ẽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "oiméva ojavyha ramo guáicha"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ani hag̃ua"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ogueru jey"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe oñemondóva"
+    },
+    {
+      "surface": "נדחו",
+      "gloss": "pe oñemondóva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:38.751449696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 8:13",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mbohapy jey arýpe",
+      "rationale": "Poapýmby ojapo ñemohenda: mbohapy ára guasu ary pukukuepe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Chabat",
+      "rationale": "שבתות ojehai Chabat — téra, ndahaʼéi 'pytuʼu ára'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "óga michĩ ára guasu",
+      "rationale": "הסכות heʼiséva ogue'i\/óga michĩ — 'tabernáculos' ndahaʼéi ipu hebreo."
+    }
+  ],
+  "translation": "Ha aravo aravópe ojegueru haʼevaʼerã yvate, Moche ñeʼẽmeʼẽ ryru ichagua, Chabat-kuérape, kuarahy pyahu-kuérape ha aravo ojeapopyrépe — mbohapy jey arýpe: mbujape rykuʼe'ỹ ára guasúpe, arapokõindy ára guasúpe ha óga michĩ ára guasúpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bec00886a18abf2471b3e0b7372bebd7304d4a0446c78e1c340fa704fe7ce2e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/8\/13-13.1791267111280.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Ha aravo aravópe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "aravópe"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ojegueru haʼevaʼerã yvate"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "Moche ñeʼẽmeʼẽ ryru ichagua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "לשבתות",
+      "gloss": "Chabat-kuérape"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "kuarahy pyahu-kuérape"
+    },
+    {
+      "surface": "ולמועדות",
+      "gloss": "aravo ojeapopyrépe"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jey"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "arýpe"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ára guasúpe"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mbujape rykuʼe'ỹ"
+    },
+    {
+      "surface": "ובחג",
+      "gloss": "ára guasúpe"
+    },
+    {
+      "surface": "השבעות",
+      "gloss": "arapokõindy"
+    },
+    {
+      "surface": "ובחג",
+      "gloss": "ára guasúpe"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "óga michĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:51.281490916Z",
+  "model": "glm-5.3"
+}

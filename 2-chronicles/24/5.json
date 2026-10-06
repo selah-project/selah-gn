@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 24:5",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hákatu",
+      "rationale": "Copula\/adversative supplied for the contrastive clause, absent in Hebrew"
+    },
+    {
+      "kind": "measurement",
+      "subject": "araguive aragua",
+      "rationale": "Recurrent yearly collection of kesef — a counting of annual dues"
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests and Levites",
+      "rationale": "Joash's plural imperative summons addressed directly to them"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמהרו \/ מהרו",
+      "rationale": "Root מהר repeated — 'hasten ye' vs 'they hastened not' — irony kept by repetition"
+    }
+  ],
+  "translation": "Ha oñembyaty ⟨את⟩ pa'ikuéra ha ⟨את⟩ levíkuéra, ha he'i chupekuéra: Ese peẽ Juhuda távakuéra-pe, ha eñembyaty Jisrael-gui opaite kuimba'e pegua kesef, omoĩ mbarete hag̃ua ⟨את⟩ peẽ Elohim óga, araguive aragua, ha peẽ emomba'eguasu ko mba'e; hákatu levíkuéra ndojepojairamo.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a8dc9d549a0693eabb69ea7caa3d8f82d1fd574346677f7c10ce6518588a6608",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/24\/5-6.1791267197192.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pa'ikuéra ha levíkuéra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pa'ikuéra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "levíkuéra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Ese peẽ"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "távakuéra-pe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juhuda"
+    },
+    {
+      "surface": "וקבצו",
+      "gloss": "eñembyaty"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite kuimba'e pegua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kesef"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "omoĩ mbarete hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peẽ Elohim óga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "peẽ Elohim"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "araguive"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aragua"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "aragua-pe"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ha peẽ"
+    },
+    {
+      "surface": "תמהרו",
+      "gloss": "emomba'eguasu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ko mba'e"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hákatu ndo-"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ojepojairamo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levíkuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:13:17.193309697Z",
+  "model": "glm-5.3"
+}

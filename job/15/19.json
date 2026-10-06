@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "Avañeʼẽ oikotevẽ kámbio ñeʼẽpehẽ, hebreo ndorekói"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ñembojavyha",
+      "rationale": "זָר ikatúramo 'ivatekuáva, ñembojavyha' — ko'ápe ojeporu 'yvypóra ambue tetãgua' ramo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "yvy",
+      "rationale": "Tenda ñeme'ẽ — Jahve ome'ẽ ⟨pe⟩ yvy chupekuérape añoite"
+    }
+  ],
+  "translation": "Chupekuérape añoite oñeme'ẽ ⟨pe⟩ yvy, ha ndaipóri ñembojavyha ohasáva chupekuéra apytégui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7fddb8682c9848182603d1977d6a8477b60be963acd0994c86b02626afc24a2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/job\/15\/19-19.1791266827713.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "chupekuérape"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "añoite"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "oñeme'ẽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndaipóri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohasáva"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ñembojavyha"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "chupekuéra apytégui"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:07.716112697Z",
+  "model": "glm-5.3"
+}

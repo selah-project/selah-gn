@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tyvyrande",
+      "rationale": "פסת ha'e 'mbaʼe obyʼaita' (abundancia de puñado), KJV heʼi 'handful', JPS 'rich cornfield'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעיר",
+      "rationale": "'táva gui' (out of the city) térã 'michĩva gui' (from men of low degree) — ñemoñeʼẽmbyre iñakotuitéva"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פסת",
+      "rationale": "פסת ojehecha koʼag̃aite Tanaj-pe koVersículope año"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בר\/בארץ\/בראש",
+      "rationale": "Triplemente bet-rra oñepyrũva ñeʼẽ mbohapy — mbeguero ñeʼẽporã avañeʼẽme ndaipóri"
+    }
+  ],
+  "translation": "Ijapóta avatityvyrande yvy ape ári, yvotyty iñakã ári pe; ijyva ojuehéta Levanon-icha; ha umíva táva gui oñanõita yvy kaʼavo-icha ⟨yvy ape ári⟩.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "572e9a6ecbc09fd95abd11e97fd5ac405e76446036ef91a5637f1c7f4c996a79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/72\/16-16.1791266765941.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ijapóta"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "tyvyrande"
+    },
+    {
+      "surface": "בר",
+      "gloss": "avatity"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "iñakã ári pe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yvotyty"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ojuehéta"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Levanon-icha"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ijyva"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "oñanõita"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "táva gui"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kaʼavo-icha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:05.946022358Z",
+  "model": "glm-5.3"
+}

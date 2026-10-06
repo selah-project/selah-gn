@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 29:17",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השערים",
+      "rationale": "From שׁער 'offensive\/rotten': 'vile\/rotten figs' (KJV\/JPS) vs 'so bad they cannot be eaten' (BSB merges the clause)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbaʼeheʼi",
+      "rationale": "חרב is literally 'sword' (from 'drought\/destroying'), rendered as weapon gloss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbaʼeasuka",
+      "rationale": "דבר here is 'pestilence\/plague', not the common word 'word\/matter'."
+    },
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañeʼẽ requires article-like 'pe' where Hebrew has the definite article on each noun."
+    }
+  ],
+  "translation": "Upéicha heʼi Jahve Tsevaot: Ehecha, amondóta chupekuéra rehe ⟨את⟩ pe mbaʼeheʼi, ⟨את⟩ pe vyʼarõʼỹ ha ⟨את⟩ pe mbaʼeasuka; ha ameʼẽta chupekuéra igu vai ramoguáicha, ani ojeʼu hag̃ua, ivairãguare.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3ece15d8c099a6ee578ae0d59254d00de763af3d6e8ebcb8b6b8cbac7ebd5cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/29\/17-17.1791266575140.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ehecha, che aikuaaukáta"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "amondóta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chupekuéra rehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe mbaʼeheʼi"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pe mbaʼeheʼi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe vyʼarõʼỹ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "pe vyʼarõʼỹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "pe mbaʼeasuka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe mbaʼeasuka"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ha ameʼẽta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "igu vai ramoguáicha"
+    },
+    {
+      "surface": "כתאנים",
+      "gloss": "igu ramogua"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo…"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "ojeʼu hag̃ua"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ivairãguare"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:55.142694012Z",
+  "model": "glm-5.3"
+}

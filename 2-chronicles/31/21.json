@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 31:21",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבבו",
+      "rationale": "לבב haʼe ñeʼẽnguéra heʼiháicha ‘korasõ ryepy’, avañeʼẽme ojehecha iñeʼẽ renda (ãngatura) ramo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והצליח",
+      "rationale": "hebreo heʼi ‘omonguerahára tenonde’, avañeʼẽme ‘iporãite oiko hese’"
+    }
+  ],
+  "translation": "Ha upéicha, opa mbaʼe apopyre Hiskia onepyrũ vaʼekue Elohim óga rembiapópe, Tora-pe ha joropaʼãme, oheka hag̃ua ichugui ijojahaʼỹva Elohim-gui, ojapo opaite iñeʼẽ rendápe, ha iporãite oiko hese.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4f9399388430f5665605eb5258930d11e10034053424d14bbb1968977b86f107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/31\/21-21.1791267172684.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ha upéicha, opa mbaʼe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "apopyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "החל",
+      "gloss": "onepyrũ"
+    },
+    {
+      "surface": "בעבודת",
+      "gloss": "rembiapópe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורה",
+      "gloss": "Tora-pe"
+    },
+    {
+      "surface": "ובמצוה",
+      "gloss": "joropaʼãme"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "oheka hag̃ua ichugui"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "iñeʼẽrenda Elohim-gui"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "iñeʼẽ rendápe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ha iporãite oiko hese"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:52.685017841Z",
+  "model": "glm-5.3"
+}

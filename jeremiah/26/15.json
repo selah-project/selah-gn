@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 26:15",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדעו",
+      "rationale": "Infinitivo absoluto + verbo conjugado ('saber sabréis') — énfasis repetido, ojehecha jey guaʼu avañeʼẽme 'eikuaa porã' ndive"
+    },
+    {
+      "kind": "elision",
+      "subject": "אך",
+      "gloss-compensation": "particle 'surely\/only' — 'añetehápe' ojegueru vaʼerã oñembojoaju hag̃ua"
+    },
+    {
+      "kind": "you",
+      "subject": "peikutu",
+      "rationale": "Jeremías oñeʼẽ tenondepeguápe sacerdotes ha profetas peikuápe g̃uarã, Katu indomete Jerusalen-pe"
+    }
+  ],
+  "translation": "Añetehápe, eikuaa porã peikutuha: peikutu ojukáramo che, peikutu omoĩta jepeʼỹre yvypóra ruguy peiku rehe, ko táva rehe ha umi oikóva ipype rehe; Jahve añetegua omondo chépe peikuápe, amoñeʼẽ hag̃ua peikuarupi ⟨את⟩ koʼã ñeʼẽnguéra opaite.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3baa391972996526cd201a4af4ac8c51b7ff6bcdcb3108f5b04e0a3e73d0ad58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/26\/15-15.1791266598893.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "añetehápe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "eikuaa"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "eikuaa porã peikutuha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upeháicha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ojukáramo"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "ojuka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peikutu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "che"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upeháicha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yvypóra ruguy"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "jepeʼỹre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peikutu"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "omoĩta"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peiku rehe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha … rehe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "oikóva ipype"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upeichégui"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "omondo chépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peikuápe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "amoñeʼẽ hag̃ua"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "peikuarupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʼã ñeʼẽnguéra opaite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ñeʼẽnguéra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:18.893947493Z",
+  "model": "glm-5.3"
+}

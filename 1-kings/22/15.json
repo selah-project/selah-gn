@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 22:15",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ehesa'e ha katuete",
+      "rationale": "Mikaiahu's answer echoes the false prophets word-for-word; taken literally (sincere) or as irony (mocking), which the next verse (the king's rebuke) forces the reader to decide."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mburuvicha",
+      "rationale": "המלך ha'e 'rey' (mburuvicha guasu); 'mburuvicha' ojeporu ohechauka hag̃ua iporãva."
+    },
+    {
+      "kind": "elision",
+      "subject": "pe",
+      "rationale": "Hebreo ונתן יהוה ביד המלך no explicit object 'it'; the given ⟨pe⟩ marks the delivered city supplied from context."
+    },
+    {
+      "kind": "you",
+      "subject": "to Micaiah",
+      "rationale": "The king addresses Micaiah by name with a direct question; Micaiah answers with imperatives addressed back to the king."
+    }
+  ],
+  "translation": "Oúvo hikuái ohóvo mburuvicha rendápe, pe mburuvicha he'i chupe: Mikaiahu, jaho pa Ramot Guilad-pe ñorãirõme, térã japyta javy'ápa? Ha Mikaiahu he'i chupe: Ehesa'e ha katuete, ha Jahve ome'ẽta ⟨pe⟩ mburuvicha pópe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "227e8f6904dd16afb8cf0d350109ca61754e3088b07e055a0889c2613a4da2a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/22\/15-15.1791266427072.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mburuvicha rendápe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe mburuvicha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaiahu"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "jaho pa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ramot Guilad-pe"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilad"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ñorãirõme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "térã"
+    },
+    {
+      "surface": "נחדל",
+      "gloss": "japyta javy'ápa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "he'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ehesa'e"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "ha katuete"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ome'ẽta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pópe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:27.073905208Z",
+  "model": "glm-5.3"
+}

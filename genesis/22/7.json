@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 22:7",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Avraham",
+      "rationale": "Jitshak oñeʼẽ irũndýpe itúvape: porandu ojepyʼapýva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבי \/ בני",
+      "rationale": "oñemoĩrupe taʼýra-ru ñeʼẽnguéra, mokõi jeysýi ojojaháicha."
+    }
+  ],
+  "translation": "Ha Jitshak oheʼi Avraham, itúvape: —Che ru. Ha kóva oheʼi: —Che ake, che memby. Ha kóva oheʼi: —Maʼẽ, tata ha yvyraakuéra; maʼépa oĩ pe ovecha oláha g̃uarã?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3daaa420cf4df3559b45cdf1c76c9125e14c3b82e03bb7d005c8c6ec62379125",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/22\/6-8.1791265967629.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "itúva"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "che ru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "che ake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "che memby"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oheʼi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "maʼẽ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tata"
+    },
+    {
+      "surface": "והעצים",
+      "gloss": "yvyraakuéra"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "maʼépa oĩ"
+    },
+    {
+      "surface": "השה",
+      "gloss": "ovecha"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "oláha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:47.630795401Z",
+  "model": "glm-5.3"
+}

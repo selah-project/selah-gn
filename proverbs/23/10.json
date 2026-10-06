@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "avañe'ẽ needs the determiner; Hebrew has none here"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ra'õ",
+      "rationale": "גבול is literally a twisted cord, then a boundary marker; 'ra'õ' keeps only the marker sense"
+    },
+    {
+      "kind": "you",
+      "subject": "imperatives",
+      "rationale": "the verse addresses the reader directly with two negative commands"
+    }
+  ],
+  "translation": "Ani embohasa pe ra'õ ymaguaréva, ani eike umi itía'ỹva kokuépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c4ae1c871971ce584018634829d9d005fdbe3b56d749e76fedebd145a634f91a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/23\/10-11.1791266855576.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "embohasa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ra'õ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ymaguaréva"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "ha … kokuépe"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "itía'ỹva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "eike"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:35.581310881Z",
+  "model": "glm-5.3"
+}

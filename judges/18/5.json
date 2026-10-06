@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 18:5",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ojehekýi pa",
+      "rationale": "התצליח haʼe 'ojesyryrõ opaʼã peve' — 'jehekýi' ñeʼẽ ndaipóri hebreo-pe"
+    },
+    {
+      "kind": "addition",
+      "subject": "kuaveʼẽ",
+      "rationale": "עליה haʻe ñeʼẽpehẽ tenondeguáva, avañeʼẽme oĩvaʼerã rire"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "באלohim ikatu haʼe 'Elohim' térã 'tupãnguéra' — paʼi Mija mbaʼe, Judges 17 rupi"
+    }
+  ],
+  "translation": "Ha heʼi hikuái chupe: Ejerurevete, jakatu, Elohim reheve, ha jaikuaáta, ojehekýi pa ñanderape roikóva hese kuaveʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1a6ef7a4cd53d121cfcd64dd998e42ac283813426179edddc6aab0f44351b87b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/18\/5-5.1791266248762.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi hikuái"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ejerurevete"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jakatu"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim reheve"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ha jaikuaáta"
+    },
+    {
+      "surface": "התצליח",
+      "gloss": "ojehekýi pa"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "ñanderape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rováiva"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "roikóva hese"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuaveʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:28.766974028Z",
+  "model": "glm-5.3"
+}

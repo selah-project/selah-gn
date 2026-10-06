@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 8:11",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Hebrew restrictive pair 'but rather' compressed into one Guarani word; אם elided."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tarova",
+      "rationale": "רעב is hunger\/famine; rendered 'tarova' to keep the physical image."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעב...רעב",
+      "rationale": "Repetition of רעב frames the negation; Guarani repeats 'tarova' to keep the echo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "days",
+      "rationale": "The verse counts coming days, a fixed future span."
+    },
+    {
+      "kind": "mystery",
+      "subject": "famine of hearing",
+      "rationale": "Deliberately inverted image — absence of the word, not of bread — a withheld, opaque oracle."
+    }
+  ],
+  "translation": "Pehecha, ou ára kuéra, heʼi Adonai Jahve, ha amondo che, tarova yvy ape ári; ndahaʼéi tarova kuʼi rehegua, ndahaʼéi pyʼaguapy y rehegua, jaheichaháicha, ohechuaháicha, javerovi, Mondoro, Mondoro — kóva ko'ãĝa teñoiha: che amoingove, Mondoro. Che aju, Mondoro, Mondoro.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "3fb5dd357db5b133995723127c57203d751432bd42a8935d95a8435fc6536730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/8\/11-11.1791266697883.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Pehecha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára kuéra"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "ha amondo"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "tarova"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvy ape ári"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "tarova"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "kuʼi rehegua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndahaʼéi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "pyʼaguapy"
+    },
+    {
+      "surface": "למים",
+      "gloss": "y rehegua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "javoʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ñeʼẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:57.884658529Z",
+  "model": "glm-5.3"
+}

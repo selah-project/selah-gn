@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ohupítýgui heta",
+      "rationale": "כבד 'heavy' literal; ava ñe'ẽme oje'e 'heta' (ive) — oĩramo 'ipohyiete'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "oguahẽ iñambueha",
+      "rationale": "וירד 'ogueraha iñambueha' (descender) — ava ñe'ẽme 'oguahẽ iñambueha' térã 'osẽ oguata iñambuévo'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Oje'eséramo 'ha oiko vaʼerã' — ava ñe'ẽme noikotevĩi kopia."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ñembyahýi heta",
+      "rationale": "Yvypóra ohecha mbaʼéichapa ñembyahýi ohupity yvy pe."
+    }
+  ],
+  "translation": "Ha oiko vaʼerã ñembyahýi yvýpe, ha Avram oguahẽ iñambueha Mitsraim-pe oiko hag̃ua upi, ñembyahýi ohupytýgui heta yvýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "71061259be9dba41d97afbf167e459a4f851d633c8000b3c56b58db61f48ccf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/12\/10-10.1791265907010.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ñembyahýi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oguahẽ iñambueha"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsraim-pe"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "oiko hag̃ua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ohupytýgui"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heta"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ñembyahýi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:47.016281580Z",
+  "model": "glm-5.3"
+}

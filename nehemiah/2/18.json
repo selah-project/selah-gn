@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 2:18",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד אלהי",
+      "rationale": "‘Elohim po’ — hebreo idiom‘power\/favor’, rendered literally as ‘po’ to keep the image."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחזקו ידיהם",
+      "rationale": "literal ‘they strengthened their hands’; avañeʼẽ ‘oñemombyaty ipo’ approximates ‘they braced themselves’."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לטובה",
+      "rationale": "‘for the good (work)’ — could read as ‘for good things’ or ‘for this good purpose’; teviarã chosen."
+    }
+  ],
+  "translation": "Ha amombeʼu chupekuéra ⟨את⟩ che Elohim po, iporãha che rehe, ha avei ⟨את⟩ mburuvicha guasu ñeʼẽ oñeʼẽva che rehe; ha heʼi hikuái: Ñajaupi, ñajapóta. Ha oñemombyaty hikuái ipo teviarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6a84de7804b3ee32050fd2cc47a53e826f9f7e427a4cdfcbce425ab0af26ef2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nehemiah\/2\/18-18.1791267003445.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "ha amombeʼu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che Elohim po"
+    },
+    {
+      "surface": "יד",
+      "gloss": "po"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iporãha"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oñeʼẽva"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi hikuái"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "ñajaupi"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "ñajapóta"
+    },
+    {
+      "surface": "ויחזקו",
+      "gloss": "oñemombyaty hikuái"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "teviarã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:03.449670609Z",
+  "model": "glm-5.3"
+}

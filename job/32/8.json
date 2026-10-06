@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ha'e peteĩ ñeʼẽ mbohapy mbaʼépe g̃uarã; ojehai hebreo ipúpe, ndahasýi 'pytu' año"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pytúmi",
+      "rationale": "נשמת ha'e Chadai pytu; avañeʼẽme ojehai pytumi-pe, jepe hebreo iñambue ruah-gui"
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "rationale": "hebreo he'i 'haʼe' emphátikamente; avañeʼẽme ojuaju mbojeréi rehe"
+    }
+  ],
+  "translation": "Añetehápe, pe ruah oi yvypóra ryepýpe, ha Chadai pytúmi ombojesakuaa chupekuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "fa746f04181c91e6c71411593daee1b44e2f15b830feb1123ca76f83c8621a12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/job\/32\/8-8.1791266905397.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Añetehápe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "היא",
+      "gloss": "oi"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "yvypóra ryepýpe"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ha pytúmi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Chadai"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "ombojesakuaa chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:25.400403648Z",
+  "model": "glm-5.3"
+}

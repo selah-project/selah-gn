@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "irundy pa ary",
+      "rationale": "The verse counts the forty years of wilderness wandering explicitly."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ñu",
+      "rationale": "מדבר is open pasture land turned wilderness; 'ñu' (open field) keeps the picture of open ground rather than sand desert."
+    }
+  ],
+  "translation": "Ha katu Jahve, ne Elohim, ombopoi nende opa ne po mbaʼe apo rehe; oikuaa ne jeju ⟨את⟩ ko ñu tuichavévape, ko irundy pa ary pukukue; Jahve, ne Elohim, oiko ndive nde; arakaʼeve nderekoreimái mbaʼeve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8377f2f421623c02af741809583c3c6b1d6d0a5b69e36f2d26409c7f36ecc4a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/2\/7-8.1791266212957.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha katu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ne Elohim"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ombopoi nende"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa ... rehe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mbaʼe apo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "nde jeju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ñu tuicháva"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ko ñu"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "tuicháva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "irundy pa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ne Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "nderekoreimái"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mbaʼeve"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:52.960182457Z",
+  "model": "glm-5.3"
+}

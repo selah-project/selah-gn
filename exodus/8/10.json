@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חמרם חמרם",
+      "rationale": "Ñeʼẽ ñembojoaju joavy'ypy: 'heaps and heaps' — atyhápe atyhápe oñongatu joaju."
+    },
+    {
+      "kind": "addition",
+      "subject": "hikuái",
+      "rationale": "Avañeʼẽ oikotevẽ mbohasyha heta (plúral 3ª persóna), hebreo ndorekói."
+    },
+    {
+      "kind": "elision",
+      "subject": "ם-",
+      "rationale": "חמרם rekoaukaha -ם ('chuguéra') oñembojoaju ⟨את⟩ marks ndive."
+    }
+  ],
+  "translation": "Ha ombyaty hikuái ⟨את⟩, atyhápe atyhápe, ha yvy oheky.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "eb6a0de27b7aed04915c1480f78a35772848a8e1d8280fa67964b9f0ea115517",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/8\/9-10.1791266040171.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ombyaty hikuái"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "atyhápe atyhápe (umívare)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "atyhápe"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "atyhápe"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "oheky"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:00.172784746Z",
+  "model": "glm-5.3"
+}

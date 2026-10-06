@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "zeret",
+      "rationale": "El peku rehegua oñemohaʼã zeret-pe — kuatia mbovy ape."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבוע…כפול…כפול",
+      "rationale": "Kuatiakuéra ñemohenda: 'irundy tenda' iñepyrũme ha 'mokõi' ijapirepe, ojehecha jey ko ñeʼẽ."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨haʼe⟩",
+      "rationale": "Hebreo ndorekói copula; avañeʼẽme oñemoĩvaʼerã."
+    }
+  ],
+  "translation": "Irundy tendápe oĩ haguéchaicha ⟨haʼe⟩; mokõive ojapojey hikuái ⟨את⟩ hõchen: peteĩ zeret ipekue, ha peteĩ zeret iperekue, mokõive.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "57e274ad9cd43701de080081154345133d66a68137202305bf4623a303c76c2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/39\/9-9.1791266004780.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "irundy tendápe oĩ haguéchaicha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨haʼe⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "mokõive"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ojapojey hikuái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hõchen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hõchen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "peteĩ zeret"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ipekue"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ha peteĩ zeret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "iperekue"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "mokõive"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:24.782044422Z",
+  "model": "glm-5.3"
+}

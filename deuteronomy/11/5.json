@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaʼaguy",
+      "rationale": "מדבר haʼe 'yvy nandi oñeingy hápe vaka' — avañeʼẽme ojeiporu kaʼaguy, ndahaʼéi upéicha añetegua"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Moiche oñeʼẽ Jisrael retãme, omomanduʼa hag̃ua mbaʼeichapa Jahve ojapovaʼekue"
+    }
+  ],
+  "translation": "Ha mbaʼe ojapo peẽnguéra rehe kaʼaguy ryepýpe, peẽ ou peve ko tendápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0a8f398c2c939f74d73cc982ea1b6520b42a2b36a39534dd20979a24ae1a37b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/11\/5-5.1791266173947.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַאֲשֶׁ֥ר",
+      "gloss": "Ha mbaʼe"
+    },
+    {
+      "surface": "עָשָׂ֛ה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "peẽnguéra rehe"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "kaʼaguy ryepýpe"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "בֹּאֲכֶ֖ם",
+      "gloss": "peẽ ou"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "peve ko"
+    },
+    {
+      "surface": "הַמָּק֥וֹם",
+      "gloss": "tendápe"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:13.948375396Z",
+  "model": "glm-5.3"
+}

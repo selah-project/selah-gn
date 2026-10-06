@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 36:20",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חצרה",
+      "rationale": "'Kail' — KJV\/JPS 'into the court', BSB 'courtyard'; avañe'ẽ ombohasa koty'ag̃ua ramo."
+    },
+    {
+      "kind": "crux",
+      "subject": "הפקידו",
+      "rationale": "Tiempo rehegua: YLT\/BSB ohecha mboyveguáicha ('having stored'), KJV\/JPS ojapo rireguáicha ('laid up')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הספר",
+      "rationale": "'Haihára' — hebreo ha'eha kuatia haiháva apoha avei."
+    }
+  ],
+  "translation": "Ha ou kuéra ohóvo mburuvicha rendápe koty'ag̃uahápe, ha ⟨את⟩ kuatiañe'ẽ onohẽ oñemohenda hag̃ua Elichama haihára kotýpe, ha oñemomarandu mburuvicha apysápe ⟨את⟩ opaite umi ñe'ẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "fa0c18288b5574be6e6a5660f8971c4f399601d41434d90d400c690573fbc9c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/36\/20-20.1791266582471.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ou kuéra ohóvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "חצרה",
+      "gloss": "koty'ag̃uahápe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "kuatiañe'ẽ"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "kuatiañe'ẽ"
+    },
+    {
+      "surface": "הפקדו",
+      "gloss": "onohẽ oñemohenda hag̃ua"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "kotýpe"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elichama"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "haihára"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ha oñemomarandu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "apysápe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite umi ñe'ẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñe'ẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:02.472704705Z",
+  "model": "glm-5.3"
+}

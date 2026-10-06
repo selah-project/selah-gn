@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekove",
+      "rationale": "נֶפֶשׁ haʼe 'maavegueguáva tekove' — pytu reko, ndahaʼéi 'ñeʼẽ' (alma) avañeʼẽpeguáicha."
+    },
+    {
+      "kind": "crux",
+      "subject": "yguasu",
+      "rationale": "מַבּוּל haʼe ñeʼẽ año y-osãingo guasu rehegua (Génesis 6–9 año ojeporu); 'yguasu' oiporavo peteĩ va'̃erã ñeʼẽ teete."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כָּל בָּשָׂר",
+      "rationale": "'opaite soʼo' oje'e mokõi jey ko versículo-pe, temimoĩanga jey jey ojehaíva."
+    }
+  ],
+  "translation": "Ha che manduʼáta ⟨את⟩ che ñeʼẽmeʼẽ oĩva che ha peẽ apytépe, ha opaite tekove ikatúva apaite soʼópe; ha ýku ndojapomoʼãi jey yguasu ramo ojahoʼipa hag̃ua opaite soʼo.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "1ea0350f8af6999ab766e11e294ca95ebbfac8f6da3d9600ababcd9775a0492d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/9\/13-16.1791265987307.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ha che manduʼáta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "che ñeʼẽmeʼẽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "che… apytépe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ha peẽ… apytépe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha… apytépe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ikatúva"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite… pépe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "soʼópe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ndojapomoʼãi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ojapomoʼãi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jey"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ýku"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "yguasu ramo"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ojahoʼipa hag̃ua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "soʼo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:07.311313547Z",
+  "model": "glm-5.3"
+}

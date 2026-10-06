@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "marangatu",
+      "rationale": "קדוש rendered as 'marangatu' per D2; 'santo' is banned"
+    },
+    {
+      "kind": "crux",
+      "subject": "Peikóva marangatu",
+      "rationale": "קדשים תהיו: 'be holy' (imperative future) vs 'you are holy' (ylt) — imperative chosen"
+    },
+    {
+      "kind": "invitation",
+      "subject": "eñeʼẽ",
+      "rationale": "Moses is commanded to address the whole congregation — summons to Israel"
+    },
+    {
+      "kind": "you",
+      "subject": "opaite Jisrael membykuéra atýpe",
+      "rationale": "direct address to the whole congregation of Israel"
+    }
+  ],
+  "translation": "Eñeʼẽ opaite Jisrael membykuéra atýpe, ha ehechauka chupekuéra: Peikóva marangatu; che aiko marangatu haguã che Jahve Elohim pehengueva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4468ac5709d41ea4c8f53bf1349b9d4b9608dc7fc7d522c6eef7b5f87fc8a539",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/leviticus\/19\/2-2.1791266091816.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "atýpe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "membykuéra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ehechauka chupekuéra"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "peikóva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haguã"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim pehengueva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:51.816613751Z",
+  "model": "glm-5.3"
+}

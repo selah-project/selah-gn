@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 44:21",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותעלה על לבו",
+      "rationale": "Literal: 'subió sobre su pyʼa (korasõ)'; hebraísmo oheʼíva 'ou iñeʼẽmeʼẽme, ojepy'apy hese' — avañeʼẽme 'oguahẽ hiʼári ipyʼápe'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקטר",
+      "rationale": "'ketur' (timbo jeguerohory): JPS 'ofrecimiento', KJV\/BSB 'incense' — upe ñeʼẽ hebreo haʼe pe kyra timbo ygua oje'óva tupã rangakuéra rehe"
+    },
+    {
+      "kind": "you",
+      "subject": "peẽ",
+      "rationale": "Jeremías oñeʼẽ tapiaite Egipto-pe oikóva hudío kuñataĩ ha kuimbaʼérape, mbaʼe apoha toʼo rire"
+    }
+  ],
+  "translation": "¿Nahaʼeípa upéva ⟨את⟩ pe ketur, pe timbo Jeguerohory peg̃uarã peẽ ojapo hague Yehuda távaguápe ha Jerusalaim kócha guasúpe — peẽ, peẽ ruãkuéra, peẽ mburuvicha guasukuéra, peẽ mburuvicharãkuéra ha yvy retãygua — upévapa Jahve omanduʼa ⟨את⟩ hikuái, ha oguahẽ hiʼári ipyʼápe?",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c07479a771b4513101ad4106fa0e575fe54105f356e57e556a61fa4c05e2d963",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/44\/21-21.1791266619042.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "nahaʼeípa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe ketur"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "pe ketur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hague"
+    },
+    {
+      "surface": "קטרתם",
+      "gloss": "peẽ ojapo hague"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "távaguápe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "ha kócha guasúpe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "ואבותיכם",
+      "gloss": "peẽ ruãkuéra"
+    },
+    {
+      "surface": "מלכיכם",
+      "gloss": "peẽ mburuvicha guasukuéra"
+    },
+    {
+      "surface": "ושריכם",
+      "gloss": "peẽ mburuvicharãkuéra"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha ava"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hikuái (pe ketur jeguerohory)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "omanduʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותעלה",
+      "gloss": "ha oguahẽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "hiʼári"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ipyʼápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:39.043568389Z",
+  "model": "glm-5.3"
+}

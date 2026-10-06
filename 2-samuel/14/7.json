@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 14:7",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "בנפש rendered 'tekove rehe' (for the life) — nefesh is life-force, not 'soul'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם\/שארית",
+      "rationale": "name\/remnant paired — the ember metaphor: extinguishing the last coal erases name and remnant; kept as tataʼĩrã (ember)"
+    },
+    {
+      "kind": "addition",
+      "subject": "che rehe",
+      "rationale": "shifkhatekha (thy handmaid) folded into 'che akãnguata rehe' — the woman's self-reference as handmaid, first-person shift"
+    }
+  ],
+  "translation": "Ha peína, opaite ñemoñare ojuvu che akãnguata rehe, ha heʼi: Emeʼe ⟨את⟩ pe omoñepyrũva ijaykyrã, jaipyso chupe ijaykyrã tekove rehe, pe omanombo vaʼekue, ha jaiñapaete ⟨את⟩ pe yruviahareíva avei; ha upéicha oimboty ⟨את⟩ che tataʼĩrã ojekuaa porãva oiko hag̃ua che réra ha che ñemoñare yvy ári iñepyrũrã haʼeʼỹre che menáme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9a7b7ab55c449f9e8963c5d0e2957e30bf2a910ac2b16c4bf2cfe6637c5d4fc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/14\/7-7.1791266361013.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Ha peína"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ojuvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "ñemoñare"
+    },
+    {
+      "surface": "על",
+      "gloss": "che akãnguata rehe"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "che rehe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Emeʼe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe omoñepyrũva ijaykyrã"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pe omoñepyrũva"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijaykyrã"
+    },
+    {
+      "surface": "ונמתהו",
+      "gloss": "jaipyso chupe"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "tekove rehe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijaykyrã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaʼekue"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "omanombo"
+    },
+    {
+      "surface": "ונשמידה",
+      "gloss": "jaiñapaete"
+    },
+    {
+      "surface": "גם",
+      "gloss": "avei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yruviahareíva"
+    },
+    {
+      "surface": "היורש",
+      "gloss": "pe yruviahareíva"
+    },
+    {
+      "surface": "וכבו",
+      "gloss": "oimboty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che tataʼĩrã"
+    },
+    {
+      "surface": "גחלתי",
+      "gloss": "che tataʼĩrã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojekuaa porãva"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "ojekuaa porã"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "oiko hag̃ua haʼeʼỹre"
+    },
+    {
+      "surface": "שום",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "לאישי",
+      "gloss": "che menáme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "réra"
+    },
+    {
+      "surface": "ושארית",
+      "gloss": "che ñemoñare"
+    },
+    {
+      "surface": "על",
+      "gloss": "yvy ári"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yvy ári iñepyrũrã"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:21.015291851Z",
+  "model": "glm-5.3"
+}

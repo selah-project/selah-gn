@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 6:9",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "Aramaic relative particle with no independent Guaraní equivalent; rendered by word order"
+    },
+    {
+      "kind": "substitution",
+      "subject": "די לא שלו",
+      "rationale": "literally 'that no fault (be)', rendered 'so that nothing bad occurs'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חנטין",
+      "rationale": "Aramaic word for wheat occurring only here in this form in the Tanakh"
+    },
+    {
+      "kind": "measurement",
+      "subject": "יום ביום",
+      "rationale": "daily rationing — supplies measured out day by day"
+    }
+  ],
+  "translation": "Ha mbaʼe oikotevẽva — vaka raʼy, ovecha kuimbaʼe ha ovecha raʼy — oñemeʼẽ hagua tatachépe yvágagua Eloha-pe; trigo, tysýi, kaguyjey ha aceite, pe paʼikuéra Jerusalaim-pe-gua ojeruréicha, ovaʼerã oñemeʼẽ chupekuéra ára ha ára, hag̃ua ani oiko mbaʼe vai.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "144a26b97fad0db576df864bd2ac2fec4d835cb7f256b370e786addc084f8836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/6\/9-9.1791267011963.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Ha mbaʼe"
+    },
+    {
+      "surface": "חשחן",
+      "gloss": "oikotevẽva"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "raʼy"
+    },
+    {
+      "surface": "תורין",
+      "gloss": "vaka raʼy"
+    },
+    {
+      "surface": "ודכרין",
+      "gloss": "ovecha kuimbaʼe"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ovecha raʼy"
+    },
+    {
+      "surface": "לעלון",
+      "gloss": "oñemeʼẽ hagua tatachépe"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "Eloha-pe"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "yvágagua"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "tysýi"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "kaguyjey"
+    },
+    {
+      "surface": "ומשח",
+      "gloss": "ha aceite"
+    },
+    {
+      "surface": "כמאמר",
+      "gloss": "ojeruréicha"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "paʼikuéra"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "ovaʼerã"
+    },
+    {
+      "surface": "מתיהב",
+      "gloss": "oñemeʼẽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára ha ára-pe"
+    },
+    {
+      "surface": "די",
+      "gloss": "hag̃ua ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "mbaʼe vai oiko"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:11.967787227Z",
+  "model": "glm-5.3"
+}

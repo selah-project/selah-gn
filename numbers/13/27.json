@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 13:27",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ojyhýi ryguasu kamby ha eíra rehe",
+      "rationale": "זבת חלב ודבש — pe hebreo he'i tee 'ojyhýi (tunche'ỹ) kamby ha eíra', peteĩ ñe'ẽnga ohechauka hagua opytareínte"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pa'ũ araguasu",
+      "rationale": "pe mombe'u oĩva ko'ã versículo 25–28-pe omoñepyrũ pe 40 ára rekávo rapykuere"
+    }
+  ],
+  "translation": "Ha omombe'úkuri chupe ha he'i hikuái: Rouma hikuái pe yvy remondo haguépe chéve; ha upévako ojyhýi ryguasu kamby ha eíra rehe, ha kóva ko ikatuetýi yva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "085406fd6096a1f720a2588c8a9db05f247eed1f572bfb99831574ab58ebd5d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/13\/26-28.1791266151944.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "omombe'úkuri hikuái"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "he'i hikuái"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "rouma hikuái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שלחתנו",
+      "gloss": "remondo haguépe chéve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha upévako"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ojyhýi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kamby"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ha eíra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ha kóva"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ikatuetýi yva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:51.949460973Z",
+  "model": "glm-5.3"
+}

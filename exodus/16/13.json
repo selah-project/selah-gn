@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "opaite",
+      "rationale": "המחנeh haʼe aty heta, avañeʼẽme oñemoĩ «opaite» heʼi hag̃ua heta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pytũngy",
+      "rationale": "הטל haʼe pytũngy (dew); «pytu» año nahániri, upévare ojejapo mokõi ñeʼẽ ryapu pytũngy"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tetãvore",
+      "rationale": "מחנה ikatu haʼe «kampamento» — oñemboyke castellano ñeʼẽ"
+    }
+  ],
+  "translation": "Ha opyta kaʼaru jave, ha haselavo osẽ ha oñemoĩ ⟨את⟩ opaite tetãvore ári; koʼẽtépe katu oĩ pytũngy ryapu haselavo jerére.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "50ab05e8121c88be52669e2cd367f64eb6ea756fdee9c54a5e7225936d668b77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/16\/13-13.1791266023432.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ha opyta"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kaʼaru jave"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ha osẽ"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "haselavo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ha oñemoĩ opaite ári"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opaite tetãvore"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "opaite tetãvore"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "koʼẽtépe katu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ryapu"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "pytũngy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jerére"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "haselavo rehegua"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:43.434208997Z",
+  "model": "glm-5.3"
+}

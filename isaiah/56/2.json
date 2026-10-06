@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "adam raʼỹi",
+      "rationale": "בן אדם: adam raʼỹi — 'yvypóra raʼỹi' upe guive; ndahaʼéi Téra"
+    },
+    {
+      "kind": "addition",
+      "subject": "ani ojapo",
+      "rationale": "מעשות infinitivo oñembohekóva 'ani' ndive avañeʼẽme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר…ושמר",
+      "rationale": "mokõi יחזיק\/שמר ñembojoaju jeyjeýva, estructura paralela"
+    }
+  ],
+  "translation": "Ivyja pe tapicha ojapóva kóva, ha pe adam raʼỹi ojapyhýva chupe; oñangarekóva Chabat rehe ani hag̃ua oñembyai, ha oñangarekóva ipógui ani ojapo opa mbaʼe vai.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bf89834d1479d9ea5955b731c75b36b5ff30dcf69db7c8b81b36df505b4542f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/56\/1-2.1791266615471.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ivyja"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "pe tapicha"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ojapóva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kóva"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ha pe adam raʼỹi",
+      "marks": ""
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ojapyhýva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "oñangarekóva"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Chabat"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "ani hag̃ua oñembyai"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ha oñangarekóva"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ipógui"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "ani ojapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbaʼe vai"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:35.472649932Z",
+  "model": "glm-5.3"
+}

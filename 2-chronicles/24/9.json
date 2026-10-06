@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 24:9",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויתנו קול",
+      "rationale": "Hebrew 'gave a voice' = made a proclamation; rendered oñembohyapu jehechauka."
+    },
+    {
+      "kind": "crux",
+      "subject": "משאת",
+      "rationale": "'lifting\/tribute' — tax imposed (KJV collection) vs burden; rendered as mbaʼe oñemeʼevaʼerã."
+    },
+    {
+      "kind": "measurement",
+      "subject": "משאת",
+      "rationale": "The verse concerns a levy\/tax collection counted across Judah and Jerusalem."
+    }
+  ],
+  "translation": "Ha oñembohyapu jehechauka Jehuda-pe ha Jerusalaim-pe, ogueru hag̃ua Jahve-pe pe mbaʼe oñemeʼevaʼerã, Moche, Elohim rembiguái omoĩ vaʼekue Jisrael ári kaʼaguy ypyguape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "62867d315200b4f187accbb0c6def7a5e9b1cd9eba4bd10cc1acd1d0c0a39e4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/24\/9-9.1791267171324.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "oñembohyapu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "jehechauka"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehuda-pe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ha Jerusalaim-pe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ogueru hag̃ua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "pe mbaʼe oñemeʼevaʼerã"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rembiguái"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "במדבבר",
+      "gloss": "kaʼaguy ypyguape"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:51.325008781Z",
+  "model": "glm-5.3"
+}

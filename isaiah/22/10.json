@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "korapy",
+      "rationale": "החומה ha'e korapy jeiko'ỹre, 'yvyra'ãnguéra'ỹ'ỹ'; 'korapy' ojeporu oñe'ẽ jave ñe'ãnguéra rehe"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבצר",
+      "rationale": "'ojoko hag̃ua' (ojehecha jey ha ojoko) térã 'ombarete hag̃ua'; tekove'ỹre he'ise 'ojoko'"
+    }
+  ],
+  "translation": "Ha ⟨את⟩ óga Jerusalaim pegua peẽ pehecha jey, ha umi óga peẽ jope ojoko hag̃ua pe korapy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bb75c9363e95395751ea69e6ed4f5ec4e0c5b95d35c1de9883a13cd96bad4446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/22\/10-10.1791266492554.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ha ⟨את⟩",
+      "marks": "óga Jerusalaim pegua"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "óga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "pehecha jey (papa)"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "jope"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "umi óga"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ojoko hag̃ua"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "korapy"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:32.555518227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 6:3",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עגלה חדשה",
+      "rationale": "'mbaʼyruguatu pyahu' jeyjey — paʼũrã mokõi jey, jehaipyre irũha."
+    }
+  ],
+  "translation": "Omombo ⟨את⟩ Elohim mbaʼeryru peteĩ mbaʼyruguatu pyahu ári, ha ogueru Avinadav ógagui, oĩva Givá-pe; ha Uza ha Ajio, Avinadav raʼykuéra, omonguʼa ⟨את⟩ mbaʼyruguatu pyahu.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c835b6b6dcc01f8085429826064188517fe2a58f96872486989cae290036e6cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/6\/2-3.1791266375158.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "omombo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mbaʼeryru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "mbaʼeryru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "mbaʼyruguatu"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "pyahu"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "ogueru"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ógagui"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "Givá-pe"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ha Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ha Ajio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "omonguʼa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaʼyruguatu pyahu"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "mbaʼyruguatu"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "pyahu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:35.160940201Z",
+  "model": "glm-5.3"
+}

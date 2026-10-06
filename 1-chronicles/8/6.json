@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 8:6",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hína",
+      "rationale": "Hebrew omits the copula; avañe'ẽ requires it here"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויגלום",
+      "rationale": "Root גלה means 'uncover\/exile': 'they were exiled' (ASV\/JPS) vs 'they removed them' (KJV) vs 'he removed them' (context v.7)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Verse is a genealogical register naming heads of father-houses"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ojerereraha chupekuéra",
+      "rationale": "Second reading: 'ojeheja chupekuéra oho' — passive 'they were carried away', keeping the exile sense of the root"
+    }
+  ],
+  "translation": "Ha ko'ãva Ejud ra'ỹikuéra: ko'ãva hikuái ⟨hína⟩ iñakãgue itúvakuéra mba'éichapa oikóva Geba-pe, ha ojerereraha chupekuéra Manachat-pe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0fb5d8af17ce5dfb0f95fa2b74443aa26c26ee90a3bb2e0a3716de74dd675834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/8\/6-6.1791267037393.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ha ko'ãva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ra'ỹikuéra"
+    },
+    {
+      "surface": "אחוד",
+      "gloss": "Ejud"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ko'ãva"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iñakãgue"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "itúvakuéra"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "mba'éichapa oikóva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba-pe"
+    },
+    {
+      "surface": "ויגלום",
+      "gloss": "ojerereraha chupekuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "Manachat-pe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:37.397803659Z",
+  "model": "glm-5.3"
+}

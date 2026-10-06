@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 18:3",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "michkan",
+      "rationale": "האהל haʼe 'tenda' (carpa), jepémo michkan ojeporu mbovichapepe raʼãngarã."
+    },
+    {
+      "kind": "crux",
+      "subject": "גם הם גם אתם",
+      "rationale": "'umi avei, peẽ avei' — omano mokõivépa (BSB) térã 'ani omano' (ylt): ולא ohasa rire oiko peteĩ teramoĩ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושמרו\/משמרתך\/ומשמרת",
+      "rationale": "שמר mbohýpe oñembojoaju — ñangareko ñeʼẽ jeyjey, avañeʼẽme ndojehechaukaporãi."
+    }
+  ],
+  "translation": "Ha umi ohaiterõ ne rembiapo ñangareko ha opaite michkan rembiapo; jepémo umi mbaʼe marangatu rehegua ha mbovichapepe jehasaʼỹva, ani omano hikuái, umi avei, peẽ avei.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "85745ec9e945c0663aceb95c2638f5ecd9503ccce988d2e8b320fece47c41f20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/18\/3-3.1791266090499.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ohaiterõ ñangareko"
+    },
+    {
+      "surface": "משמרתך",
+      "gloss": "ne rembiapo"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ha rembiapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "michkan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jepémo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jehasaʼỹva"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu rehegua"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha jehasaʼỹva"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbovichapepe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "oho hiʼupýipe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ani"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "omano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "umi avei"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "גם",
+      "gloss": "peẽ avei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "peẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:54:50.500783563Z",
+  "model": "glm-5.3"
+}

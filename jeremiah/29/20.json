@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Avañeʼẽ no necesita ko'ã relativokuéra ko jehaípe; he'iséva oĩ jahecha hagua ñeʼẽ hendykyrépe"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨koʼág̃a⟩",
+      "rationale": "Hebreo no he'i mba'eve rehegua; oñembojoaju imperativo ndive avañeʼẽme"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגולה",
+      "rationale": "'Kaʼirãme oĩva' — גולה he'ise tapichakuéra ojeheja oho va'ekue tenda ambuépe, ndaha'éi ka'irã añónte"
+    },
+    {
+      "kind": "you",
+      "subject": "to the exiles in Vavel",
+      "rationale": "Jahve oñeʼẽ tapichakuéra Jerusalaim-gui omondo va'ekue Vavel-pe reheguápe"
+    }
+  ],
+  "translation": "Upéicha peẽ, ehendu ⟨koʼág̃a⟩ Jahve ñeʼẽ, opa kaʼirãme oĩva, che amondo Jerusalaim-gui Vavel-pe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "99d57c0b33006bd92b50563d6137cfc236e0b1d1c53e98d10ab2317f8713af6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/29\/20-20.1791266559364.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "kaʼirãme oĩva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ché amondo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusalaim-gui"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Vavel-pe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:39.365288639Z",
+  "model": "glm-5.3"
+}

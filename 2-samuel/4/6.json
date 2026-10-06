@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 4:6",
+  "book": "2-samuel",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החמש",
+      "rationale": "KJV\/ASV: 'quinta costilla' \/ 'kurépe'; JPS: 'iñakãnguʼe'; hay que leer literal: pype — ko ñeʼẽ heʼiséva"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לקחי חטים",
+      "rationale": "'ogueraha hag̃ua aramiháicha' — ikatu avei heʼi oúha ohekávo aramimíramo (no ojapo hague upéicha)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "osẽ kyreʼỹ",
+      "rationale": "נמלטו heʼiséva 'osẽ, ohasa asy' — 'osẽ kyreʼỹ' (ñoapytyvõmemby) ojeporu jepe"
+    }
+  ],
+  "translation": "Ha upéicha oike hikuái ⟨óga⟩ ryepy gotyo, ogueraha hag̃ua aramiháicha, ha oipyso hikuái chupe iñakãnguʼe pehẽnguépe ⟨vaíre⟩, ha Rekhav ha Baana, ijoykeʼy, osẽ kyreʼỹ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "414ca77c79b4146335b778ed806b3bad89b017dfa57feb9b3ad504f97a732000",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/4\/6-6.1791266348198.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ha upéicha"
+    },
+    {
+      "surface": "באו",
+      "gloss": "oke hikuái"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gotyo"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ryepy"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ogueraha hag̃ua"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "aramiháicha"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "oipyso hikuái chupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "iñakãnguʼe pehẽnguépe"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "Rekhav"
+    },
+    {
+      "surface": "ובענה",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ijoykeʼy"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "osẽ kyreʼỹ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:08.199117500Z",
+  "model": "glm-5.3"
+}

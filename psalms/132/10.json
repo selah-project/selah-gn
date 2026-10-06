@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akã",
+      "rationale": "פני he'ise 'tekove recha', avañe'ẽme ojeporu 'akã' ojueheguávo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "echerei akã ári",
+      "rationale": "Hebreo 'תשב פני' (embojevy techa) he'ise 'emboyke, ani erekocharã'; avañe'ẽme 'echerei' ojeporu ojueheguávo."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Ko ñe'ẽ ojerure Jahve-pe David réra pype."
+    }
+  ],
+  "translation": "David nde tembiguaíreípe, aníke echerei nde Machiah akã ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "47a53e2721365007bd7d43ab1ad099728cd3f518b2c7fc7d5bb62ff84c4e7bee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/132\/9-10.1791266807469.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "reípe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nde tembiguái"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aníke"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "echerei"
+    },
+    {
+      "surface": "פני",
+      "gloss": "akã"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "nde Machiah"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:47.479168351Z",
+  "model": "glm-5.3"
+}

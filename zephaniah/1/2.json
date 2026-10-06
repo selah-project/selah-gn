@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסף",
+      "rationale": "Infinitive absolute + finite verb: 'ojukaitepeʼa ojukaitepeʼa' — double construction intensifies; avañeʼẽ rendering compresses it into one word with -ite-"
+    },
+    {
+      "kind": "elision",
+      "subject": "אסף (segunda)",
+      "rationale": "The doubled verb is fused into a single avañeʼẽ intensive form; the repetition is structural, not lexical"
+    }
+  ],
+  "translation": "Ojukaitepe'a opaite mbaʼe yvy ape ygüigupe, heʼi Jahve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ba401209a3f39d690479de78bfff8f6c3a2aa9b90674b6fc5d64f84a1d05abff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/zephaniah\/1\/2-2.1791266691358.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אָסֹף",
+      "gloss": "ojukaitepeʼa"
+    },
+    {
+      "surface": "אָסֵף",
+      "gloss": "ojukaitepeʼa"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "opaite mbaʼe"
+    },
+    {
+      "surface": "מֵעַל",
+      "gloss": "ygüigupe"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "ape"
+    },
+    {
+      "surface": "הָאֲדָמָה",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:51.358874242Z",
+  "model": "glm-5.3"
+}

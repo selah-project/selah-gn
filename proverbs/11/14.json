@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תחבלות",
+      "rationale": "Tajbulot heʼiséva 'tokoro kuʼekavi' — chuʼi ohasáva — upévare 'ñepysyrõ'; pe taʼãngakuéra okañy."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחבלות\/תושיה",
+      "rationale": "Antitesis Salomón-gua: tajbulot rekoʼỹ vs. heta yoets; mokõi vore joavy ojuehe."
+    }
+  ],
+  "translation": "Ñepysyrõ rekoʼỹre, tetãnguéra oñembyai; ha ñemoãguasu oĩ heta ñemoñeʼẽhára apytépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "42ce886c50b7f1e97cb961d267cbe074bcaed5c41f2472fc6e4dff9378fa29d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/11\/13-14.1791266854116.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "rekoʼỹre"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ñepysyrõ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "oñembyai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tetãnguéra"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "ha ñemoãguasu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "heta"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ñemoñeʼẽhára"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:34.123277801Z",
+  "model": "glm-5.3"
+}

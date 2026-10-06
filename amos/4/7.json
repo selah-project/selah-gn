@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מטר repetition",
+      "rationale": "The root מטר (rain) sounds five times in the verse, hammering the drought; avañeʼẽ has no single verb 'to rain' and must vary oky\/mondoi, losing the drumbeat."
+    },
+    {
+      "kind": "crux",
+      "subject": "חלקה",
+      "rationale": "חלקה literally 'smoothness\/allotment', here 'one portion of field'; rendered kokué (field-plot) as the nearest concrete picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "upépe",
+      "rationale": "Hebrew juxtaposes without a connective before תיבש; avañeʼẽ needs a locative linker."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael-pe",
+      "rationale": "Elohim addresses Jisrael directly in the second person (peende), part of the 'yet you did not return' refrain."
+    }
+  ],
+  "translation": "Ha che avei amboyke peende ⟨את⟩ oky hi'ári mbohapy jasy ojuehe rekávo ko'ãga; ha amondo oky peteĩ táva ári, ha ambue táva ári ndamondoi oky; peteĩ kokuépe ojekýi, ha pe kokuépe nemonyhã oky pahápe, upépe omomichĩ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4a587217760d88ed0043376b2cd7a05a4c618f525fde09693e97cd05bd8c2350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/4\/7-7.1791266700902.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "amboyke"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "peende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oky"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "oky"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ojuehe rekávo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "ko'ãva g̃uarã"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "ha amondo oky"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "mondoi oky"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "kokuépe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "ojekýi"
+    },
+    {
+      "surface": "ו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "kokuépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nemonyhã"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "oky"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pahápe"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "omomichĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:00.902670515Z",
+  "model": "glm-5.3"
+}

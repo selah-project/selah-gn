@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הראה",
+      "rationale": "roʼeh: 'ohecháva' (seer) vs abstractamente 'visión' — ko'ága ojeporu 'pe ohecháva'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אי זה",
+      "rationale": "mavegua hebreo 'mamopa ko' — kuri 'mamo oĩ' año."
+    },
+    {
+      "kind": "you",
+      "subject": "Chaúl Chemuel-pe",
+      "rationale": "Chaúl oñeʼẽ tenonde Chemuel rehe, o porandu hague."
+    }
+  ],
+  "translation": "Ha Chaúl oñemboja ⟨את⟩ Chemuel rehe okẽ mbytépe, ha heʼi: Eikuaau kamírã cheve, mamo pa oĩ ko — pe ohecháva hoga.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "30503790f4c065a26aa16103322a63c110cb2bb40699bc68e713c1198f2224d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/9\/18-18.1791266331603.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "oñemboja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mbytépe"
+    },
+    {
+      "surface": "השער",
+      "gloss": "okẽ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "eikuaau"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kamírã"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cheve"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mamo pa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "pe ohecháva"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:51.603944068Z",
+  "model": "glm-5.3"
+}

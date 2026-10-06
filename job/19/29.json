@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 19:29",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב\/חרב",
+      "rationale": "Iñeʼẽjoaju: sword ha drought — mokõi jehaipyre ojoajúva hebreo-pe, avañeʼẽme ndaikatúi ojehecha."
+    },
+    {
+      "kind": "crux",
+      "subject": "שדין",
+      "rationale": "Oĩma juzgo — KJV heʼi 'wrath bringeth the punishments of the sword', araka'eve ndojehai peteĩichagua."
+    },
+    {
+      "kind": "you",
+      "subject": "to Job's friends",
+      "rationale": "Iyvypóra akõintéva heʼi Job orekórõ umi ojokoʼýva chupe."
+    }
+  ],
+  "translation": "Eñemonguerovy pe payuguágui, chemokõi rehegua; upéicha eikuaa hag̃ua oĩha <juzgo> — ñemboajára.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "158e05d715ebc1c1f9740294f8c3a9ca142477322e1d29a3a20529d784197660",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/job\/19\/29-29.1791266847613.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גורו",
+      "gloss": "eñemonguerovy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "peẽ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "payuguágui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chemokõi"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ryguasúpe"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "jejavy"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "payuguápe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "eikuaa"
+    },
+    {
+      "surface": "שדין",
+      "gloss": "juzgo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:27.617245914Z",
+  "model": "glm-5.3"
+}

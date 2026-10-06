@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 15:26",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ovaikue",
+      "rationale": "כטמאת נדתה 'ovaikue' ojehechauka joja'ypy'ãme, avañeʼẽme ndaipóri ñeʼẽ jojagua oĩva'erãva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ovaíva",
+      "rationale": "טמא haʼe tekove reko tekorãguáva, ndahaʼéi ky'a añóteva; 'ovaíva' ojeporu sapy'ápe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "opa ára iñẽingue aja",
+      "rationale": "ara pundykue ojepapa ko árape g̃uarã tekorã oiko hag̃ua"
+    }
+  ],
+  "translation": "Opa karahãi oguerohory hese kuña opa ára iñẽingue aja, ojoguáta chupe inida karahãi; ha opa mbaʼe oguerohory hese ovaíta, ojoguaháicha inida ovaikue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c2e2819f4eb08573bfc4bb0a70541d8d7ad5f4f82fba6f29a4946fb9ca006909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/leviticus\/15\/26-26.1791266113139.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "karahãi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oguerohory hese"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "oje karãi hese"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "זובה",
+      "gloss": "iñẽingue"
+    },
+    {
+      "surface": "כמשכב",
+      "gloss": "ojoguáta karahãi"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "inida"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opa"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "mbaʼe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oguerohory hese"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oguerohory hese ojesēvo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ovaíta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "oikóta"
+    },
+    {
+      "surface": "כטמאת",
+      "gloss": "ojoguaháicha ovaikue"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "inida"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:13.139716711Z",
+  "model": "glm-5.3"
+}

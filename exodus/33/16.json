@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 33:16",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונפלינו",
+      "rationale": "Niph'al de פלה: 'jaikuaa porãta' (jahechauka porã) — KJV 'separated', JPS 'distinguished'."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Conectivo hebreo oñemboheko ñeʼẽ joajúpe, ndaipóri mbaʼeichaitépa avañeʼẽme."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חן בעיניך",
+      "rationale": "Ñeʼẽ joaju hebreo 'gracia en tus ojos' — avañeʼẽme 'che ruguýpe nde resaite peve' ohecha mokõi téra joaju."
+    },
+    {
+      "kind": "you",
+      "subject": "Moche",
+      "rationale": "Moche oñeʼẽ Jahve rehe, jerure añetegua."
+    }
+  ],
+  "translation": "Ha mbaʼe rupi pa ojeikuaáta koʼág̃a ajuhu hague che ruguýpe nde resaite peve — che ha ne retãme? Ndaʼípa ne ikatu rehe che ndive? Upéicharamo jaikuaa porãta che ha ne retã opaite yvypóra apytégui oĩva yvy ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "fe0e603e7bfa03b8d4a632c812120a57cbe6eb3f63cb6d740bb5f8b44a94dbbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/33\/16-16.1791266005039.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמה",
+      "gloss": "Ha mbaʼe rupi pa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ojeikuaáta"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ajuhu hague"
+    },
+    {
+      "surface": "חן",
+      "gloss": "che ruguýpe"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nde resaite peve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ha ne retãme"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ndaʼípa"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "ne ikatu rehe"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "che ndive"
+    },
+    {
+      "surface": "ונפלינו",
+      "gloss": "jaikuaa porãta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ha ne retã"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "opaite ... apytégui"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yvy"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:25.040605507Z",
+  "model": "glm-5.3"
+}

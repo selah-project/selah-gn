@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבלה \/ אמללה",
+      "rationale": "Ñeʼẽmokõi apopyre — נבלה mokõi jey ha אמלל mokõi jey — mbaʼejovy año, ndaipóri ñeʼẽjoavy."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרום עם הארץ",
+      "rationale": "'Yvatevéva pueblo yvygua' (KJV\/jps 'lofty people') térã 'yvategua pueblo yvy apytuʼũme' (ylt 'high place') — ijyvate asukue térã óga yvate."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "Tevy haʼe 'yvy ape yvýicha oikóva' — oñembohasa 'yvy ape' hetaiterei guarã."
+    }
+  ],
+  "translation": "Ojaheo ha oñembyererei yvy, ondyvy ha oñembyererei yvy ape, ondyvy umi ijyvatevéva yvygua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ad4abda2217ba49aac7b8932e54643daa55d99d23e2553b8c548d42b2c31afde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/24\/3-4.1791266545445.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "ojaheo"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "oñembyererei"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ondyvy"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "oñembyererei"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yvy ape"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ondyvy"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ijyvatevéva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvygua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:25.446916986Z",
+  "model": "glm-5.3"
+}

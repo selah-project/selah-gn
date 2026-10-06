@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 23:35",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iñeʼẽ rupive",
+      "rationale": "על פי פרעה 'según la boca de Parao': se rinde 'según su palabra', se pierde la imagen de la boca"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ohupyty",
+      "rationale": "נגש es 'exigir, presionar como a un deudor': 'ohupyty' (obtener) pierde la fuerza de la opresión"
+    },
+    {
+      "kind": "measurement",
+      "subject": "כערכו \/ ojepapa",
+      "rationale": "el verso trata de valoraciones y cobro por persona según su tasación"
+    }
+  ],
+  "translation": "Pe kuarepoti juja ha pe itaju Jehojakim omeʼẽ Parao-pe; upéicharõ ojepapa ⟨את⟩ pe yvy omeʼẽ hag̃ua pe kuarepoti juja Parao iñeʼẽ rupive; peteĩteĩ ijeheguaite, ohupyty ⟨את⟩ pe kuarepoti juja ha ⟨את⟩ pe itaju ⟨את⟩ yvy avakuéra apytégui, omeʼẽ hag̃ua Parao Neko-pe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "879dbfca632fa08793902414d797985e106362ea90b007825a794d4191e41348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/23\/35-35.1791266503534.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכסף",
+      "gloss": "pe kuarepoti juja"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ha pe itaju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parao-pe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "upéicharõ"
+    },
+    {
+      "surface": "העריך",
+      "gloss": "ojepapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "omeʼẽ hag̃ua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuarepoti juja"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pe kuarepoti juja"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iñeʼẽ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "peteĩteĩ"
+    },
+    {
+      "surface": "כערכו",
+      "gloss": "ijeheguaite"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ohupyty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe kuarepoti juja"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pe kuarepoti juja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe itaju"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ha pe itaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy avakuéra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "omeʼẽ hag̃ua"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parao-pe"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Neko"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:43.535226290Z",
+  "model": "glm-5.3"
+}

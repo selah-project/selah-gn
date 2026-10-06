@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "כַּפֹּרֶת: 'iñakãahooha' (tapa) térã 'johayhu renda' (mercy seat) — heta moñeʼẽhára oñembyaty."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפרת\/פרכת",
+      "rationale": "Mokõi ñeʼẽ ojuehe raʼañóva tai apytépe (כ-פ-ר \/ פ-ר-כ), ndojehechaukai avañeʼẽme."
+    }
+  ],
+  "translation": "⟨את⟩ arka ha ⟨את⟩ imbaʼyrakuéra, ⟨את⟩ iñakãahooha ha ⟨את⟩ peho johaʼãha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "0ec0d1742a38c51c324f3bf4be19187f7cc58b94c7b0ed57e478c3244b404213",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/35\/11-12.1791266035633.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "imbaʼyrakuéra"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "imbaʼyrakuéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãahooha"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "iñakãahooha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "peho johaʼha"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "peho johaʼha"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "johaʼha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:53:55.634203241Z",
+  "model": "glm-5.3"
+}

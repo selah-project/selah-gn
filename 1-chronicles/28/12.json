@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 28:12",
+  "book": "1-chronicles",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברוח עמו",
+      "rationale": "'ruah ndive ihendípe' — Espíritu pa térã David iñapytu'ũ roky mba'evegua pa (Geneva 'in his minde', KJV\/ASV 'by the spirit')?."
+    },
+    {
+      "kind": "substitution",
+      "subject": "korapy",
+      "rationale": "חצרות ha'e korapy (óga ijerére yvy ojeipohýva), ndaha'éi 'patio' año."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ta'ãngarã",
+      "rationale": "Opaite róga ha korapy kuéra ra'ãnga measurements rehegua."
+    }
+  ],
+  "translation": "Ha pe ta'ãngarã opaite mba'e oĩva ruah ndive ihendípe: Jahve óga korapy kuéra g̃uarã, opaite te'õ ijerére g̃uarã, Elohim óga mba'erepynga kuéra g̃uarã, ha marangatu mba'e kuéra mba'erepynga g̃uarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "2a1563c2656f14ab7b022b145d3f2eff3dcf29d02714ceac3621794339d1d1af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/28\/11-12.1791267155781.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבנית",
+      "gloss": "ta'ãngarã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ihendípe"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "korapy kuéra g̃uarã"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "te'õ kuéra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerére"
+    },
+    {
+      "surface": "לאצרות",
+      "gloss": "mba'erepynga kuéra g̃uarã"
+    },
+    {
+      "surface": "בית",
+      "gloss": "óga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "ha mba'erepynga"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "marangatu mba'e kuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:35.784254042Z",
+  "model": "glm-5.3"
+}

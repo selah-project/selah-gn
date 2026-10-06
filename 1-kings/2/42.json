@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 2:42",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנה ואנה",
+      "rationale": "Teteva ñeʼẽmbyre: 'koʼẽ ha upépe' — hebreo ojueheguái mokõi 'anáh'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות תמות \/ ידע תדע",
+      "rationale": "Infinitivo absoluto + verbo: ñembojepe — 'remiñoha remanotaha', 'reikuaa reikuaa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המלך",
+      "gloss_note": "",
+      "rationale": "'Mburuvicha' — avañeʼẽme ndaipóri ñeʼẽ 'réi' rehegua tee; 'retã ruvicha' katuete."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shimei",
+      "rationale": "Shelomo oñeʼẽ Pebime-re directly, oñeporandu haguére ichupe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השבעתיך",
+      "rationale": "'Añemoñeʼẽ ndéve' — שבע ou 'pakõi' rehegua; avañeʼẽme ñemoñeʼẽ haʼe jure ojapóva."
+    }
+  ],
+  "translation": "Ha mburuvicha omondo ha omboheno Pebime, ha ohechauka chupe: Nda che añemoñeʼẽi ndéve Jahve reheve, ha che añeʼẽ ndéve heʼívo: Ára rehesaʼỹijóva, ehosekuaa koʼẽ ha upépe, eikuaa porãite reikotaha, remiñoha reikuaa porãite remanotaha. Ha nde eñeʼẽ cherehe: Iporã pe ñeʼẽ che ahenduvaʼekue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "50c2df4024e8952a835b5997108f23f32f19d8eb0aa57455cdb90fe7b4b701b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/2\/42-42.1791266407960.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ha mburuvicha"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "omboheno"
+    },
+    {
+      "surface": "לשמעי",
+      "gloss": "Pebime"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ohechauka chupe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nda che añemoñeʼẽi"
+    },
+    {
+      "surface": "השבעתיך",
+      "gloss": "añemoñeʼẽ ndéve"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve reheve"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "ha che añeʼẽ ndéve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "rehesaʼỹijóva"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ehosekuaa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "koʼẽ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ha upépe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "reikuaa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "reikuaa porãite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "reikotaha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "remiñoha"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "remanotaha"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ha eñeʼẽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cherehe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iporã"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pe ñeʼẽ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "che ahenduvaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-06T06:00:07.961495413Z",
+  "model": "glm-5.3"
+}

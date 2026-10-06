@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 20:6",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rekove'aitépe",
+      "rationale": "כבוד he'ise 'ipohýi, mba'eguasu, terakuã'ỹ'ỹva' — ndaha'éi 'rekove'i' añónte"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kuera⟩",
+      "rationale": "Avañe'ẽme oñeikotevẽ plural marker 'iñakã kuéra' — hebreo oiporu פנים (dual) añoite"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oñembyja hi'ári iñakã",
+      "rationale": "ויפלו על פניהם — 'oyvytu'ypy hikuái iñakã ári' — literal 'ofalling' oñemoambue ojehechauka hag̃ua ojaposéva"
+    }
+  ],
+  "translation": "Upéicha Moche ha Aharon osẽ kuarahápe aty mboyveguápe, ohóvo jejahoja'ape Ohel Moed pegua, ha oñembyja hi'ári iñakã kuera; ha Jahve rekove'aitépe ojekuaauka chupekuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e827be15c9e648c7494d856082bb6f9134e13a0966d4c9c691ff86e2255d6d62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/20\/6-6.1791267218150.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mboyveguápe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty kuarahápe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohóvo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jejahoja'ape"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed pegua"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "oñembyja"
+    },
+    {
+      "surface": "על",
+      "gloss": "hi'ári"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "iñakã kuera"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ojekuaauka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rekove'aitépe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:13:38.151510956Z",
+  "model": "glm-5.3"
+}

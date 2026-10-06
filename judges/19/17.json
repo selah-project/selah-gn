@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "karai kakuaáva ñe'ẽ",
+      "rationale": "Ñe'ẽ ojapo直面-pe ohayhu ku karai guatahávape: mokõi porandu oñondivepa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "táva rapére",
+      "rationale": "רחוב ha'e 'yvytu ojeipyso haguã hendáre' — plaza pytu'urã, ndaha'éi tape año; 'rape' ohasa pe esfera."
+    }
+  ],
+  "translation": "Ha ojepyso ijesa rehe, ohecha ⟨את⟩ pe karai guataháva táva rapére; ha pe karai kakuaáva he'i: «Moõpa reho, ha moõguipa reju?»",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7278b0b7e6ae9c2fb9982bb4ab6256e26bf8375e910e94c7385769eb6ae01ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/19\/17-18.1791266290078.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ojepyso"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ijesa rehe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe karai guataháva"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe karai"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "guataháva"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "táva rapére"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he'i"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "pe karai"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "kakuaáva"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "moõpa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "reho"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "ha moõguipa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "reju"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:10.080126273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 60:17",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדתך",
+      "rationale": "pekudá: 'jeguatarã' (mbaʼerendu\/appointment) vs 'oporopytyvõhára' (task-master) — BSB 'governor' vs KJV 'officers'."
+    },
+    {
+      "kind": "crux",
+      "subject": "צדקה",
+      "rationale": "tsedek oñemonguʼe hebreo ipúpe — 'tekojoja' \/ 'justicia' \/ 'rectitud' oñemosarambi ko'ágã."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "metal mbohasa",
+      "rationale": "Chiastic exchange — kyse→itaju, itakyra→kese, yvyra→kyse, ita→itakyra — materials ascending, avañeʼẽme ndaipóri jehai ijojaha."
+    }
+  ],
+  "translation": "Kyse rangue agueroúta itaju, itakyra rangue agueroúta kese, yvyra rangue kyse, itakuéra rangue itakyra. Ha amoĩta nde jeguatarãrõ pytuʼu ha nde mbaʼerenduhárarõ tsedek.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a198b22d4544b9b871233ab94fc1314cfc40ea9964964709d07c68b3be5eb3d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/60\/17-17.1791266566481.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "rangue"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "agueroúta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "itaju"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ha …rangue"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "itakyra"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "agueroúta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kese"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ha …rangue"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yvyra"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kyse"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ha …rangue"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "itakuéra"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "itakyra"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ha amoĩta"
+    },
+    {
+      "surface": "פקדתך",
+      "gloss": "nde jeguatarã"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pytuʼu"
+    },
+    {
+      "surface": "ונגשיך",
+      "gloss": "ha nde mbaʼerenduhára"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:46.482895927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תחת",
+      "rationale": "Hebrew 'under\/in place of' — rendered as succession: sons in place of fathers."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לשרים",
+      "rationale": "Sarim: 'princes\/governors' — rendered járarã (chiefs); tape-ruvicharã would also fit."
+    }
+  ],
+  "translation": "Nemongueraháramo nde ru-kuérape, nde raʼýkuéra ogueraʼáta: ejapóta chuguikuéra járarã opaite yvýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e42969607e7ddba5a4d631af7455b2e2414870b6697c9b34eb1f82b3b4674463",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/45\/17-17.1791266714040.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "mongueraháramo"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "nde ru-kuéra"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ogueraʼáta"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nde raʼýkuéra"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ejapóta chuguikuéra"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "járarã"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvýpe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:14.041450257Z",
+  "model": "glm-5.3"
+}

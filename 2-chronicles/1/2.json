@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 1:2",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "האלפים והמאות",
+      "rationale": "Umíva oisãmbyhýva «su ha satã» rehe — mburuvicha rera moambue mbytépe ojehecha pe papapy."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האלפים",
+      "gloss": "su",
+      "rationale": "אלף ipu'ũngue 'umi su' ojeporu ñorãirõ aty moañetírõ; 'su' py'ỹi ohekauka peteĩ aty papapyhápe."
+    }
+  ],
+  "translation": "Ha Shelomo oñe’ẽ opaite Jisrael-pe, umi ruvichakuéra oisãmbyhýva su ha satã rehe, umi tekojojahakuérape, ha opaite ruvichaitápe opaite Jisrael mba’éva, umi túvakuéra akã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c88c6a6d4da38bb27d405b0025c323a3c650a4170f8055e8528955c06b314ba8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/1\/2-3.1791267122233.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha oñe’ẽ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite -pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "umi ruvichakuéra -pe"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "su"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ha satã"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "umi tekojojahakuérape"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ha opaite -pe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ruvichaita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akã"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "umi túvakuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:02.233803947Z",
+  "model": "glm-5.3"
+}

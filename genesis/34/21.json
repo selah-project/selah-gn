@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 34:21",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רחבת ידים",
+      "rationale": "hebreo ñeʼẽ tee 'po ijavy' — avañeʼẽme 'ijavy puku' aipo."
+    },
+    {
+      "kind": "addition",
+      "subject": "upépe",
+      "rationale": "ויסחרו upépe — hebreo oheja mbytépe; ojehecha 'ojapo jeipy upépe'-pe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלמים",
+      "rationale": "'pyʼaguapyguáva' — hebreo 'shalem' he'ise 'hete oĩmbáva, jejuhupeguáva'; 'peaceable' añónte nahániri."
+    }
+  ],
+  "translation": "Umi kuimbaʼe koʼãva pyʼaguapyguáva hikuái ⟨את⟩ ore ndive; dakuaa ko yvyýpe ha ojapo jeipy upépe; ha ko yvy — peʼã — ijavy puku hikuái imbaʼerã; ⟨את⟩ iñakãkuñágui rojapyra ñandéve kuñakue ramo, ha ⟨את⟩ ñande ñakãkuña jaheia chupekuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7fd5c3efb393de11db9a2247cc2c619f8061e45e8d4b354c4ff5a643885ecb82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/34\/21-21.1791265920352.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האנשים",
+      "gloss": "umi kuimbaʼe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "koʼãva"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "pyʼaguapyguáva"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ore ndive"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dakuaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ko yvyýpe"
+    },
+    {
+      "surface": "ויסחרו",
+      "gloss": "ojapo jeipy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ko yvy"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ha ko yvy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "peʼã"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "ijavy puku"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "imbaʼerã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iñakãkuña"
+    },
+    {
+      "surface": "בנתם",
+      "gloss": "iñakãkuñágui"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "rojapyra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandéve"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "kuñakue ramo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñande ñakãkuña"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ñande ñakãkuña"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jaheia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chupekuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:00.354641563Z",
+  "model": "glm-5.3"
+}

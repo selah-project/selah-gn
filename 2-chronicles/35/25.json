@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 35:25",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על הקינות",
+      "rationale": "'Ky'ỹnguéra ári' — ¿kuatiañe'ẽ teete (Lamentaciones rógui) térã ¿ky'ỹnguéra apytépe? Tradición oñemboja ko'ág̃agua."
+    },
+    {
+      "kind": "measurement",
+      "subject": "לחק",
+      "rationale": "Ojejapo chupekuéra tekojoja ramo — ky'ỹ oiko jepokuaa tee ramo, ára arapýpe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קינות",
+      "rationale": "Ky'ỹ — ñe'ẽ ky'ỹme ha jepokuaa ñembyasy rehegua; 'lamentaciones' niko ñe'ẽ pytagua."
+    }
+  ],
+  "translation": "Ha Jirmeiaju oñe'ẽ ky'ỹme Jocheiaju rehe, ha opa umi puraheihára kuimba'e ha puraheihára kuña oñe'ẽ iky'ỹnguérape Jocheiaju rehe ko'ág̃a peve, ha omoĩ chupekuéra tekojoja ramo Jisrael ári; ha peicha pe, oĩva'ekue kuatiañe'ẽme umi ky'ỹnguéra ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "22b1af163c5605343cee36693bcb4b9815c38ffa3da89fe72a2ca22f932b23c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/35\/25-27.1791267205283.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקונן",
+      "gloss": "oñe'ẽ ky'ỹme"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmeiaju"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יֹאשִׁיָּהוּ",
+      "gloss": "Jocheiaju"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha oñe'ẽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opa umi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "puraheihára kuimba'e"
+    },
+    {
+      "surface": "והשרות",
+      "gloss": "ha puraheihára kuña"
+    },
+    {
+      "surface": "בקינותיהם",
+      "gloss": "iky'ỹnguérape"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "יֹאשִׁיָּהוּ",
+      "gloss": "Jocheiaju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "ויתנום",
+      "gloss": "ha omoĩ chupekuéra"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "tekojoja ramo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ha peicha pe"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "oĩva'ekue kuatiañe'ẽme"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הקינות",
+      "gloss": "umi ky'ỹnguéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:13:25.286490512Z",
+  "model": "glm-5.3"
+}

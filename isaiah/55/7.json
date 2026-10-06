@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 55:7",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mbaʼeveʼỹréva",
+      "rationale": "און haʼe 'mbaʼeveʼỹ, jejavy' — 'unrighteous' (KJV) haʼe papel añónte, ndahaʼéi hebreo raʼanga"
+    },
+    {
+      "kind": "crux",
+      "subject": "ojapótama hetave hekopeʼẽ",
+      "rationale": "ירבה לסלוח ipu 'ojapo hetave oñekopeʼẽ hag̃ua' — KJV\/ASV 'he will abundantly pardon' (jehai pyahu), YLT hebreo ipúve"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the wicked and the man of און",
+      "rationale": "Isaías 55 ñembohape imanduʼa: jehaipy jaheja ha jey koʼã ñeʼẽme"
+    }
+  ],
+  "translation": "Pe ivaíva oheja itape, ha pe mbaʼeveʼỹréva iñeʼẽ aipapy; oujevy Jahve rendápe, ha ohechaukáva chupe poriahuvereko, ha ñande Elohim rendápe, kýi ojapótama hetave hekopeʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c63663fb89e2c6f7ac9cda49215f3d2f831e01446bfa9f74a58b52d8884cefec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/55\/7-7.1791266567392.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעזב",
+      "gloss": "oheja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe ivaíva"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "itape"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha pe"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaʼeveʼỹréva"
+    },
+    {
+      "surface": "מחשבתיו",
+      "gloss": "iñeʼẽ aipapy"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oujevy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירחמהו",
+      "gloss": "ha ohechaukáva chupe poriahuvereko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha rendápe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ñande Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kýi"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ojapótama hetave"
+    },
+    {
+      "surface": "לסלוח",
+      "gloss": "hekopeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:47.393671204Z",
+  "model": "glm-5.3"
+}

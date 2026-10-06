@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 4:12",
+  "book": "ruth",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Boaz",
+      "rationale": "The people and elders at the gate pronounce this blessing-wish directly over Boaz."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "The verse links Boaz's house to Perez, son of Tamar and Judah, seeding the Davidic line."
+    }
+  ],
+  "translation": "Ha upéicha rejapóke nde róga Pérets rógáicha, mborayhu Tamar omongakuaa Jihudápe, pe kuaña reheve Jahve omeʼẽta ndéve ko mitakuñaña gui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "eefcab14413c8faf7f23a7df606244e08e64e4615946381c30e558778ad93ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ruth\/4\/12-12.1791267216133.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rejapóke"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nde róga"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "rógáicha"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pérets"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mborayhu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "omongakuaa"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jihudápe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "pe kuaña"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "reheve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gui"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ko mitakuñaña"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-06T06:13:36.136375497Z",
+  "model": "glm-5.3"
+}

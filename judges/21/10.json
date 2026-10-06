@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 21:10",
+  "book": "judges",
+  "lang": "gn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Hebreo he'i 'hovyʼỹ juru' — avañeʼẽme 'hovyʼỹ juru renondépe'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "Hebreo ndorekói artículo aty ñepyrũrãme, avañeʼẽme oñembojoapy"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mokõipa po su kuimbaʼe",
+      "rationale": "Ojehai papapy ñorairõhára"
+    }
+  ],
+  "translation": "Ha ⟨pe⟩ aty omondo upépe mokõipa po su kuimbaʼe korapypu memby, ha ohenói ⟨את⟩ chupekuéra heʼívo: Peho ha pejuka ⟨את⟩ Yavech Guilad rekohára hovyʼỹ juru renondépe, umi kuña ha umi mitã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "dd9f304f09242c7ef8a0e7a03292e163a8e9af7e24d04e6b98703ad08f1e14f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/judges\/21\/10-10.1791266348378.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "omondo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨pe⟩ aty"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mokõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuimbaʼe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "memby"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "korapypu"
+    },
+    {
+      "surface": "ויצוו",
+      "gloss": "ohenói"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chupekuéra",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼívo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "peho"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "pejuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yavech Guilad rekohára"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "rekohára"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yavech"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilad"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "juru"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hovyʼỹ"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "umi kuña"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "umi mitã"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:08.379477528Z",
+  "model": "glm-5.3"
+}

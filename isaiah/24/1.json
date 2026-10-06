@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "omonandi",
+      "rationale": "בוקק is 'to pour out\/empty' — omonandi приближается к 'опустошать', теряется образ выливания"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועוה פניה",
+      "rationale": "'искривляет лицо её' — традиция 'переворачивает вверх дном' против буквального 'изгибает её лик'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בוקק\/ובולקה",
+      "rationale": "корень בוק повторён — 'опустошает и разоряет', аллитерация частично сохранена"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "הנה 'вот' — прямое обращение к слушающему"
+    }
+  ],
+  "translation": "Ehechápa: Jahve omonandi ⟨А земля⟩ ha omboyty ipyahúpe, ha ombopaita hiʼári, ha oipesãi umi oikóva koʼápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "d1ceb35a646ec63a7d761072c84d9e97eb6c37e77da48c586ed0ecc0189da96d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/24\/1-1.1791266485771.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ehechápa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "omonandi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "ha omboyty"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ha ombopaita"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "hiʼári"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "ha oipesãi"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "umi oikóva koʼápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:25.771812973Z",
+  "model": "glm-5.3"
+}

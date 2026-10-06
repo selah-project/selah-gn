@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "avañeʼẽ oikotevẽ pehẽngue ohechauka hag̃ua, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaʼavo kikuayo",
+      "rationale": "הקיקיון haʼe kaʼavo réra añetegua, ndoikuaaporãi mbaʼéichagua kaʼavo"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "pehẽngue joajupyre haʼevaʼekue, avañeʼẽme ndoikoporãi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בן לילה",
+      "rationale": "pyhare raʼy — 'peteĩ pyhare pukukue añonte' heʼiséva; ijysaja ñongatuvaʼerã"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קיקיון",
+      "rationale": "ko ñeʼẽ osẽ Jona pehẽngue mokõihápe año, sapyʼa reve katu"
+    }
+  ],
+  "translation": "Ha Jahve heʼi: Nde reñangareko ⟨את⟩ pe kaʼavo kikuayo ári, nde nderejapokói chupe ha nderejupysêrãʼei; pyhare peteĩ raʼy okakuaa ha pyhare peteĩ raʼy omano.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ca0e5af72a49b48390e8943d75b9f32d0e5fa29e07f76e4c0a67fa819f902b95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jonah\/4\/10-10.1791266703786.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ha Jahve heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "reñangareko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "pe kaʼavo kikuayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nde nde-"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "rejapokói"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nde nde-"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "rejupysêrãʼei"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "pyhare raʼy"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "היה",
+      "gloss": "okakuaa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "pyhare raʼy"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "omano"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:03.787335722Z",
+  "model": "glm-5.3"
+}

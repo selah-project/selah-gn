@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כהניך...צדק",
+      "rationale": "Pa'i oñemo'ã tsedek rehe: a'o ñe'ẽnguéra ojeporu tekojoja rapykuere, ohechauka hag̃ua mba'e porã."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Ko ñe'ẽ oñe'ẽva ojerure Jahve-pe, oikuaaukávo imba'apoharakuérape."
+    }
+  ],
+  "translation": "Nde pa'ikuéra oñemo'ã tsedek rehe, ha nde hasidikuéra oje'a vy'ápe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "47a53e2721365007bd7d43ab1ad099728cd3f518b2c7fc7d5bb62ff84c4e7bee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/132\/9-10.1791266807469.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Nde pa'ikuéra"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "oñemo'ã"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ha nde hasidikuéra"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "oje'a vy'ápe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:47.473763379Z",
+  "model": "glm-5.3"
+}

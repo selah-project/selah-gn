@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "che rekópe",
+      "rationale": "לב literally 'pytetúpe' but Hebrew לב is the seat of thought and will, rendered as 'reko' (inner self)"
+    },
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañeʼẽ requires the determiner 'pe'; Hebrew has the article ה on הצדיק and הרשע"
+    },
+    {
+      "kind": "elision",
+      "subject": "וְעַל",
+      "rationale": "the preposition 'over\/every deed' is absorbed into 'opaite mbaʼeapópe g̃uarã'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "g̃uarã",
+      "rationale": "שם 'there' could be rendered 'upépe' (temporal 'then'), matching the time-ecclesiastes theme; 'pérupi' keeps the spatial sense of the place of judgment in v.16"
+    }
+  ],
+  "translation": "Che aheʼi che rekópe: Elohim ojokaʼi ⟨את⟩ pe marangatu ha ⟨את⟩ pe ivaikuéva; pérupi oĩ aravo oimeraẽ mbaʼerãrã ha opaite mbaʼeapópe g̃uarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "e992e3f07de6f8053ee2468535679e84c412785bf24505549fc065595aae4f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ecclesiastes\/3\/17-17.1791266935378.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aheʼi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "che rekópe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe marangatu"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "pe marangatu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pe ivaikuéva"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "pe ivaikuéva"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ojokaʼi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "péicha"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oimeraẽ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mbaʼerãrã"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mbaʼeapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pérupi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:55.383500592Z",
+  "model": "glm-5.3"
+}

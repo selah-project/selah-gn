@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 13:4",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "emondova",
+      "rationale": "המון haʼe pyʼaguapyʼỹ ha aty guasu mokõive; peteĩ ñeʼẽ año avañeʼẽme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צבאות \/ צבא",
+      "rationale": "צבא joavy: Tsevaot réra ha ñorãirõ aty peteñome'i joavyguasu reheve"
+    }
+  ],
+  "translation": "Ñeʼẽ emondova yvytykuéra rehe, tuichagua tapichakuéra raʼanga; ñeʼẽ ñeʼẽrongatu tavakuéra retãnguéra apytegua, oñembyatyva apytepe. Jahve Tsevaot omoĩmba ñorãirõ aty ñorãirõrã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "5f37ec75b3cb696df885893b4eb6e3c2a783a3152e44344dabeeec6ba439c430",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/13\/4-4.1791266498386.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "emondova"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "yvytykuéra rehe"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "raʼanga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tapichakuéra"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tuichagua"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ñeʼẽrongatu"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tavakuéra retãnguéra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "apytegua"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "oñembyatyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "omoĩmba"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ñorãirõ aty"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ñorãirõrã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:01:38.387237934Z",
+  "model": "glm-5.3"
+}

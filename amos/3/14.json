@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 3:14",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד \/ ahesaʼỹijo",
+      "rationale": "פקד has both friendly and hostile 'visit' senses; here hostile — punishment\/inspection, 'ahesaʼỹijo' chosen for that duality."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרנות \/ apuʼa",
+      "rationale": "קרן literally 'horn' — projecting corner of the altar, not merely round shape."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקדי ... ופקדתי",
+      "rationale": "Root פקד repeated — the same verb for Israel's transgressions and the altars, linking punishment to object."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Future particle added; Hebrew uses participial imperfect without explicit future marker."
+    }
+  ],
+  "translation": "Upe árape che ahesaʼỹijo hag̃ua Jisrael jejavy hembiapo, ahesaʼỹijo taʼanga reheve umi Bet-El mbaʼemboʼe róga, ha oñembyai ta umi mbaʼemboʼe róga apuʼa, ha ove ta yvy pe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7972970224e529b6abe11378d4f815ce1e7e22e4aa52ab66ee2239907d89853e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/3\/14-14.1791266696921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "upe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "árape"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "che ahesaʼỹijo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "jejavy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hembiapo rehe"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ahesaʼỹijo"
+    },
+    {
+      "surface": "על",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mbaʼemboʼe róga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "oñembyai ta"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "apuʼa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbaʼemboʼe róga"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ove ta"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yvy pe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:56.922559954Z",
+  "model": "glm-5.3"
+}

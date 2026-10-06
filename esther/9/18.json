@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 9:18",
+  "book": "esther",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ára 13, 14, 15",
+      "rationale": "Ára jepapa mbohapyháicha — Chuchan judíokuéra jepapa iñambue umi ambue távagui (9:17 heʼi 13 ha 14)."
+    },
+    {
+      "kind": "addition",
+      "subject": "chupe",
+      "rationale": "Avañeʼẽ oikotevẽ mbojaʼo ñeʼẽ אתו-pe g̃uarã; hebreo ohai את יום año."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וְנוֹחַ",
+      "rationale": "KJV ha JPS heʼi 'oñepytuʼu' (13-14 rire), YLT katu 'even to rest on the fifteenth' — נוח יvohu voi ojejuhu pe árape."
+    }
+  ],
+  "translation": "Umi judío oĩva Chuchan-pe oñembyaty pa mbohapy ára-pe ha pa irundy ára-pe, ha oñepytuʼu pa po ára-pe, ha ojapo ⟨את⟩ chupe ára mbyteha ha vyʼarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9ad83a5820fcda42da3a595efcd96fc12d393103d9eca8b869fc2582d0a1c9f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/esther\/9\/18-18.1791266926127.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיהודיים",
+      "gloss": "umi judío"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Chuchan-pe"
+    },
+    {
+      "surface": "נקהלו",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "pa mbohapy ára-pe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kóvape"
+    },
+    {
+      "surface": "ובארבעה",
+      "gloss": "ha pa irundy ára-pe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "irundy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kóvape"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "ha oñepytuʼu"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "pa po ára-pe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "po"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kóvape"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ha ojapo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "upe ára"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ára"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mbyteha"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ha vyʼarã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:08:46.132058137Z",
+  "model": "glm-5.3"
+}

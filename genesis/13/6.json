@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "opaʼúva",
+      "rationale": "Hebreo ndoguerekói kopulativa; avañeʼẽ oikotevẽ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשבת יחדו",
+      "rationale": "Pe ñeʼẽjoapy ojehechajey mokõi jey iñapytuʼũ rokẽme, cheñeʼẽme ndojehhechajeýi porã."
+    }
+  ],
+  "translation": "Ha yvy ndaikatumoʼãi ovyʼapami ⟨את⟩ chupekuéra oiko hag̃ua ojojaháicha, hetaiterei rupi imbaʼekuéra ha ndaikatukuri oiko ojojaháicha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "dfeba198eacc3d4da6dd27c3a2e7f113f73f88607f536a0e25c4f77571d2ec97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/13\/6-7.1791265940477.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ovyʼapami"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oiko hag̃ua"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojojaháicha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hetaiterei rupi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨opaʼúva⟩"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "imbaʼekuéra"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hetaiterei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha nahániri"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ndaikatukuri"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oiko"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ojojaháicha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:20.479797380Z",
+  "model": "glm-5.3"
+}

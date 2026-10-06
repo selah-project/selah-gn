@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jehudah",
+      "rationale": "Asa commands the tribe of Judah directly; imperative force in לדרוש\/ולעשות."
+    },
+    {
+      "kind": "substitution",
+      "subject": "eheka",
+      "rationale": "דרש is to seek\/tread after, here rendered 'seek' in the avañeʼẽ sense of diligent searching."
+    },
+    {
+      "kind": "crux",
+      "subject": "המצוה",
+      "rationale": "Singular 'the commandment' — collective for the whole commandment-body vs one specific command."
+    }
+  ],
+  "translation": "Ha heʼi Jehudá-pe: eheka ⟨את⟩ Jahve, Elohim ituva kuéra mbaʼéva, ha ejapo Tora ha ñeʼẽmeʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "a55c9d86c963e9b191e9d7964b50444a6c6f845cea8d3313ef95ed4819ff2dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/14\/3-3.1791267098347.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudá-pe"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "eheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ituva kuéra mbaʼéva"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ha ejapo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ha ñeʼẽmeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:38.347734363Z",
+  "model": "glm-5.3"
+}

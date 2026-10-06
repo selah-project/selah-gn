@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 26:38",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Census clan-list of Benjamin's descendants by families."
+    }
+  ],
+  "translation": "Binjamin raʼykuéra iógayguakuéra reheve: Bela hag̃ua, Belagua ógayguakuéra; Ashbel hag̃ua, Ashbelgua ógayguakuéra; Ajiram hag̃ua, Ajiramgua ógayguakuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "b47430c9cb6410f04668916a80ff13cf3f15de2e3dfb8a55aa8b0fedd7190f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/26\/38-40.1791266202322.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "raʼykuéra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "iógayguakuéra reheve"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Bela hag̃ua"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ógayguakuéra"
+    },
+    {
+      "surface": "הבלעי",
+      "gloss": "Belagua"
+    },
+    {
+      "surface": "לאשבל",
+      "gloss": "Ashbel hag̃ua"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ógayguakuéra"
+    },
+    {
+      "surface": "האשבלי",
+      "gloss": "Ashbelgua"
+    },
+    {
+      "surface": "לאחירם",
+      "gloss": "Ajiram hag̃ua"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ógayguakuéra"
+    },
+    {
+      "surface": "האחירמי",
+      "gloss": "Ajiramgua"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:42.325404577Z",
+  "model": "glm-5.3"
+}

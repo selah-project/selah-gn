@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותרץ",
+      "rationale": "Root ṣMC\/רצה: 'you were pleased with him' (ylt) vs. 'you ran with him' (Geneva\/kjv, reading ותרוץ); Guaraní follows 'pleased'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלקך",
+      "rationale": "חֵלֶק 'portion\/allotment' plays on חָלַק 'smooth (tongue)' from v.17 — portion and smoothness share letters, lost in Guaraní."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbaʼevai rehe",
+      "rationale": "מנאפים literally 'adulterers'; rendered descriptively to keep the picture."
+    }
+  ],
+  "translation": "Ehecha ramo mondahápe, reipota ichuguáicha, ha mbaʼevai rehe nde rekoha oĩ hikuái.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4abd6f399649558ed8cd0230d275b1edb5a69ef6ac2246fcce08d3f2c352405f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/50\/18-18.1791266758645.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mondaha"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "reipota ichuguáicha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ichuguáicha"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ha rehe"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mbaʼevai rehe"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "nde rekoha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:58.649123566Z",
+  "model": "glm-5.3"
+}

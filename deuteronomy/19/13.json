@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דם הנקי",
+      "rationale": "'tuguy imarañóva' — KJV añade 'la culpa' (guilt); YLT\/JPS mantienen solo 'la sangre inocente'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא תחוס עינך",
+      "rationale": "lit. 'tu ojo no se apiadará' — idioma hebreo de no mostrar compasión"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨imarañóva⟩",
+      "rationale": "adjetivo pospuesto requerido por la sintaxis guaraní, la construction hebrea es construct chain דם הנקי"
+    }
+  ],
+  "translation": "Ne resa nanganói chupe, ha embogueta ⟨imarañóva⟩ tuguy Jisrael gui, ha upéi oikóta porã nderehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f2ee6124255adc1ccd82a649129d7a7f0b9f638857786c5c91aee52242fb02bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/19\/13-13.1791266178054.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nanganói"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "emanduʼa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ne resa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ha embogueta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "tuguy"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "imarañóva"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisrael gui"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ha oikóta porã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nderehe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:18.056007800Z",
+  "model": "glm-5.3"
+}

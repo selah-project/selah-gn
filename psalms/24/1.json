@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "la",
+      "rationale": "Avañeʼẽme tekotevē pe joajuháa, hebreo ndoguerekóiva ko'ápe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iñemyatyrrha",
+      "rationale": "מלואה ha'e 'oñemyatyrrava' — opaite mba'e oĩva yvy ryepýpe"
+    }
+  ],
+  "translation": "David mizmore. Jahve-pe oĩ ⟨la⟩ yvy ha iñemyatyrrha, teko yvy ha umi oiko ipype.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "773daeed88e2f2b2ae8f203b531af256860102ce1ef0e3b9168e9227fae73960",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/24\/1-2.1791266724726.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "David-pe g̃uarã"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ha iñemyatyrrha"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "teko yvy"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ha umi oiko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:24.727319224Z",
+  "model": "glm-5.3"
+}

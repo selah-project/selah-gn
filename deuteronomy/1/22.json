@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 1:22",
+  "book": "deuteronomy",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "peteĩ",
+      "rationale": "Hebrew דבר has no numeral; 'peteĩ ñeʼẽ' supplies 'a word' naturally in avañeʼẽ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נעלה…נבא",
+      "rationale": "Ascending (עלה) and entering (בוא) paired in parallel clauses; the pair is kept but the Hebrew root echo is lost."
+    }
+  ],
+  "translation": "Ha peẽpaite oñemboja hikuãi che gotyo, ha peʼe hikuãi: Tañamondo tapicha ñane renondépe, ha oikundaha hikuãi ñandépe g̃uarã ⟨את⟩ pe yvy, ha ombojevy ñandéve ⟨את⟩ peteĩ ñeʼẽ: ⟨את⟩ pe tape ñande jupi hag̃ua hendípe, ha ⟨את⟩ umi táva ñande jaháha pype.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6375fab99e9d4b755e534c1220ecd49584cd7c20f0d793d49003f1251fe49e71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/1\/21-22.1791266218454.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "oñemboja hikuãi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "che gotyo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "peẽpaite"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ha peʼe hikuãi"
+    },
+    {
+      "surface": "נשלחה",
+      "gloss": "Tañamondo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "tapicha"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ñane renondépe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ha oikundaha hikuãi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñandépe g̃uarã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pe yvy"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ha ombojevy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñandéve",
+      "marks": "peteĩ ñeʼẽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peteĩ ñeʼẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tape"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "pe tape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ñande jupi hag̃ua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hendípe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ha ⟨את⟩",
+      "marks": "umi táva"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "umi táva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "ñande jaháha"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "pype"
+    }
+  ],
+  "timestamp": "2026-10-06T05:56:58.461091443Z",
+  "model": "glm-5.3"
+}

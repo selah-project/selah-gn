@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 1:3",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהל מועד",
+      "rationale": "«Juajuha róga» (ohel moed, 'juajuha óga'): KJV «tabernacle of the congregation» vs JPS\/BSB «tent of meeting» — juajuha rekoteeñepyrũ."
+    },
+    {
+      "kind": "crux",
+      "subject": "במה",
+      "rationale": "«Yvate» (bamah): «yvate renda jejarova ha embosarairõ hag̃ua» — moñe’ẽhára he’i «high place» ha’eháicha yvypóra ombotyvyrova’ekue, ko’ápe katu pe Tora ohechakuaa peteĩ renda ojeporúva Jahve rehe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבד",
+      "rationale": "«Mba’apohára» — ebed ha’eva’ekue «mba’apohára» rupi; «tekoiterapeguára» ou hendive'ỹre."
+    }
+  ],
+  "translation": "Ha oho Shelomo ha opaite atyguasu hendive, pe yvate Givon-pe oĩvape, upépe oĩ hague Elohim juajuha róga, ojapova’ekue Moche, Jahve mba’apohára, yvyguasúpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c88c6a6d4da38bb27d405b0025c323a3c650a4170f8055e8528955c06b314ba8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/1\/2-3.1791267122233.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ha oho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "atyguasu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hendive"
+    },
+    {
+      "surface": "לבמה",
+      "gloss": "pe yvate -pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oĩva"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upépe rupi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oĩ hague"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "róga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "juajuha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ojapova’ekue"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mba’apohára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yvyguasúpe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:02.234305030Z",
+  "model": "glm-5.3"
+}

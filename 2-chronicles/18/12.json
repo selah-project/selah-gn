@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 18:12",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moñeʼẽhára",
+      "rationale": "המלאך haʼe maranduʼíhára térã israelíva moñeʼẽhára; koʼápe ojehai israelíva moñeʼẽhára ramo, ángel Nahániri"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פה אחד",
+      "rationale": "Hebreo heʼi 'peteĩ juru' — hebreo ipu añópe; avañeʼẽme oñembojoaju peteĩ juajuha répe"
+    },
+    {
+      "kind": "you",
+      "subject": "to Mikhiahu",
+      "rationale": "Pe moñeʼẽhára oñeʼẽ Mikhiahu rehe, ohenói chupe oñeʼẽ hag̃ua mburuvicha guasu mbaʼe porã"
+    }
+  ],
+  "translation": "Ha pe moñeʼẽhára oho vaekue ohenói hag̃ua Mikhiahu oñeʼẽ chupe heʼivoi: Maẽ, umi nabi ñeʼẽ peteĩ juru añópe oñeʼẽ mbaʼe porã ⟨pe⟩ mburuvicha guasu rehegua; eñembohape, ne ñeʼẽ ojogua hag̃ua peteĩ umívape, ha eñeʼẽ mbaʼe porã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c84b66bf788fa52381c620447d99ae11207adb4743a97ab809017675dc82fe03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/18\/12-12.1791267112936.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלאך",
+      "gloss": "Ha pe moñeʼẽhára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaekue"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oho"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ohenói hag̃ua"
+    },
+    {
+      "surface": "למיכיהו",
+      "gloss": "Mikhiahu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "heʼivoi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Maẽ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñeʼẽ"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "umi nabi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "juru"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rehegua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "eñembohape"
+    },
+    {
+      "surface": "נא",
+      "gloss": "eñembohape"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ne ñeʼẽ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ojogua hag̃ua peteĩ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "umívape"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ha eñeʼẽ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbaʼe porã"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:52.937527566Z",
+  "model": "glm-5.3"
+}

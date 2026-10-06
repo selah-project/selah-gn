@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moche and Aharon",
+      "rationale": "Faraón addresses Moche and Aharon directly with a rebuke and command."
+    },
+    {
+      "kind": "crux",
+      "subject": "תפריעו",
+      "rationale": "'Loose\/let break free' (root פרע, loosen) vs 'distract\/draw away' — JPS keeps 'break loose', BSB 'draw away'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לסבלתיכם",
+      "rationale": "Hebrew siblot is heavy porterage\/forced-labor loads; rendered as karga (burden) losing the forced-labor nuance."
+    }
+  ],
+  "translation": "Ha Mitsraim mburuvicha heʼi chupekuéra: Mbaʼérepa, Moche ha Aharon, peheja ⟨את⟩ tavayguakuéra oheja hag̃ua imbaʼapo gui? Eho peẽnguéra ndeʼe? Eho peẽnguéra ikargaitépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "47381c4a93f8581d1e0ea4f2f73f0c5e8617a6fadb4d0bc298063e0d45d44af8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/5\/4-4.1791265932392.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ha heʼi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mbaʼérepa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ha Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "peheja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavayguakuéra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "imbaʼapo gui"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eho peẽnguéra"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ikargaitépe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:12.392764990Z",
+  "model": "glm-5.3"
+}

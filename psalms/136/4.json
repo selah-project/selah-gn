@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mba'e iporãva",
+      "rationale": "נפלאות — mba'e iñambuéva hekopete, 'maravilla' rehegua"
+    },
+    {
+      "kind": "elision",
+      "subject": "לעלם",
+      "rationale": "'opa henda ári' — hebreo 'ere ko'ẽ meve'"
+    }
+  ],
+  "translation": "Pe ojapóva tuicha mba'e iporãva iñakãme añónte, hesed oiko hague opa henda ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c8d791da031c621f70f085d0f95429bd8c605d2d2d688eed55eee95a3ffb42a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/136\/3-4.1791266779427.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Pe ojapóva"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mba'e iporãva"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tuicha"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "iñakãme añónte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hague"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "opa henda ári"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed oiko"
+    }
+  ],
+  "timestamp": "2026-10-06T06:06:19.427960155Z",
+  "model": "glm-5.3"
+}

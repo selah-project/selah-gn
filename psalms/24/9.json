@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the gates",
+      "rationale": "Imperative summons to the gates and doors to lift their heads — the verse addresses inanimate structures directly."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשא\/ראש",
+      "rationale": "Root-play between 'lift up' (נָשָׂא) and 'your heads' (רֹאשֵׁיכֶם) — same consonants resh-aleph-shin rearranged; lost in Guaraní."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכבוד",
+      "gloss": "kuarahy rehechaukáva tuichavéva",
+      "rationale": "Literally 'the weighty\/heavy one' — figurative splendor; 'heavy' sense lost in any natural-language rendering."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עולם",
+      "rationale": "'Everlasting' vs 'ancient' — both read the vanishing-point metaphor; 'opa ára oikóva hína' leans everlasting."
+    }
+  ],
+  "translation": "Eñemongakuaa, okarahái, pe akãguasu; peñemongakuaa jey, yvága rokẽita oikóva hína opa ára; ha oikéta Ñandejára — Jahve — mburuvicha tuichavéva kuarahy rehechaukáva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "77c9aca6ea46f4842b878811edcc0aa6cb2be326f7f4c9fd459e8602238a407a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/24\/9-9.1791266712423.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "peñemongakuaa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "okaraháí"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "pe akãguasu"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ha peñemongakuaa jey"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "rokẽita"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "opa ára oikóva hína"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ha oikéta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kuarahy rehechaukáva tuichavéva"
+    }
+  ],
+  "timestamp": "2026-10-06T06:05:12.424083567Z",
+  "model": "glm-5.3"
+}

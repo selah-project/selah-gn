@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 49:8",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yvyrarogã itujavéva",
+      "rationale": "נחלות haʼe mbaʼe oñembojaohagyua tíva rehe — 'yvyrarogã itujavéva' ombohasa mbaʼeichaitépa ojehecha ko ñeʼẽ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ñeʼẽmeʼẽ tetãrayhu mbaʼéva",
+      "rationale": "לברית עם: peteĩcha 'tetã ñeʼẽmeʼẽ' (pe ñeʼẽmeʼẽ ojapo tetã ndive) térã 'ñeʼẽmeʼẽ tetãrayhu mbaʼéva' (pe moñeʼẽhára tee haʼe ñeʼẽmeʼẽ) — Isaiah 42:6 rehegua"
+    },
+    {
+      "kind": "you",
+      "subject": "teŝtimoĩhárape (servant-pe)",
+      "rationale": "Jahve oñeʼẽ sérvo ndive, ojapórãme isai 49-pe"
+    }
+  ],
+  "translation": "Upéicha heʼi Jahve: Arõ eguerohorýpe añembohovái ndéve, ha jeiko porã árape aipytyvõ ndéve; amoñeʼẽta ndéve, ha ameʼẽta ndéve tetãrayhu ñeʼẽmeʼẽ ramo, emopyypyjey hag̃ua yvy, ojoguapa hag̃ua umi yvyrarogã itujavéva oñembyai vaʼekue.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7196ad6981f3070feba1de4492a080f4f7c47fb89e76c16fb0b274f035cac301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/49\/8-8.1791266557913.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "arõ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "eguerohorýpe"
+    },
+    {
+      "surface": "עניתיך",
+      "gloss": "añembohovái ndéve"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ha ... árape"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "jeiko porã"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "aipytyvõ ndéve"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "amoñeʼẽta ndéve"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ha ameʼẽta ndéve"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ñeʼẽmeʼẽ ramo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tetãrayhu"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "emopyypyjey hag̃ua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "להנחיל",
+      "gloss": "ojoguapa hag̃ua"
+    },
+    {
+      "surface": "נחלות",
+      "gloss": "yvyrarogã itujavéva"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "oñembyai vaʼekue"
+    }
+  ],
+  "timestamp": "2026-10-06T06:02:37.913992937Z",
+  "model": "glm-5.3"
+}

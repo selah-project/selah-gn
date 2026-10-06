@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 4:23",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pu'aka",
+      "rationale": "באדרע he'iséva ipe (yvypóra ipe) ipu'aka figurativo ramo; avañe'ẽme ojeiporu 'ipu'aka'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Artachshasta",
+      "rationale": "ארתחששתא: hebreo ipúpe 'Artachshasta' vs castellano 'Artajerjes' — Selah oiporu hebreo ipúpe"
+    },
+    {
+      "kind": "addition",
+      "subject": "guive",
+      "rationale": "מן די קרי: arameo-gui 'oñemoñe'ẽ rire guive' araka'eve ndaipóri ñe'ẽ 'guive' avañe'ẽme ojehecha hag̃ua kóva"
+    }
+  ],
+  "translation": "Upémarõ, oñemoñe'ẽ rire pe jejarýre kuatiañe'ẽ Artachshasta mburuvicha guasu pegua Rejum, Chimchay ñe'ẽpapára ha iñirũnguára renondépe, ohói hikuái kyre'ỹme Jerusalaim-pe umi judia-kuéra rendápe, ha hikuái ojoko chuguãkuéra ipu'aka ha imbaretekue rehe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "32a1b943e44f6ed2418d468ee9e3e15a2a5aa5edced5aac81af098c3801c487b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/4\/23-23.1791267013706.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "upémarõ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "guive"
+    },
+    {
+      "surface": "די",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "jejarýre"
+    },
+    {
+      "surface": "נשתונא",
+      "gloss": "kuatiañe'ẽ"
+    },
+    {
+      "surface": "די",
+      "gloss": "pegua"
+    },
+    {
+      "surface": "ארתחששתא",
+      "gloss": "Artachshasta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha guasu"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "oñemoñe'ẽ rire"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "Rejum"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "ha Chimchay"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "ñe'ẽpapára"
+    },
+    {
+      "surface": "וכנותהון",
+      "gloss": "ha iñirũnguára"
+    },
+    {
+      "surface": "אזלו",
+      "gloss": "ohói"
+    },
+    {
+      "surface": "בבהילו",
+      "gloss": "kyre'ỹme"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusalaim-pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "umi… rendápe"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "judia-kuéra"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "ojoko"
+    },
+    {
+      "surface": "המו",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "באדרע",
+      "gloss": "ipu'aka"
+    },
+    {
+      "surface": "וחיל",
+      "gloss": "ha imbaretekue"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:13.711826700Z",
+  "model": "glm-5.3"
+}

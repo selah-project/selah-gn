@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "gn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "tata",
+      "rationale": "Ijypykue guýpe oĩ itaky rehegua — pe 'tata' ikatu ha'e ita ojysýiva yvy guýpe, ndahaʼéi tatepyso añónte."
+    },
+    {
+      "kind": "crux",
+      "subject": "oñemoambue",
+      "rationale": "נהפך: 'oñemoambue' (ikoʼẽjey) térã 'ojere' — ojekuaaporãʼỹva mbaʼépa ojere."
+    },
+    {
+      "kind": "elision",
+      "subject": "ממנה",
+      "rationale": "Pe ñeʼẽpehẽ 'ihyguigua' oñembojoaju 'yvygui' ndive peteĩ ñeʼẽpehẽ aha ramo."
+    }
+  ],
+  "translation": "Yvygui osẽ ⟨את⟩ mbujape, ha iguýpe oñemoambue tahaʼehaʼépe tata.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "473763ee9bf9c31a7cf15ec6d43cfb3db1b91ddabeb13df5e4ba87a3c075eaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/job\/28\/5-6.1791266948588.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yvygui"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ihyguigua"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbujape"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "ha iguýpe"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "oñemoambue"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tahaʼehaʼépe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tata"
+    }
+  ],
+  "timestamp": "2026-10-06T06:09:08.591492205Z",
+  "model": "glm-5.3"
+}

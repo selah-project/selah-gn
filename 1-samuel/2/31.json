@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "gn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "po",
+      "rationale": "זרוע ha'e po apysa oñemoasãiva — avaÑe'ẽme 'po' ojeporu po ha py'a joajúpe"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ani hag̃ua oĩ",
+      "rationale": "מהיות זקן literal: 'oikógui karai' — hebreo he'i 'no longer being an old man', ndaha'éi mboʼepy año"
+    },
+    {
+      "kind": "you",
+      "subject": "to Eli",
+      "rationale": "Jahve ñeʼẽ ojapo chupe Eli-pe, ofendíva paʼirape"
+    }
+  ],
+  "translation": "Pe, ára og̃uahẽta ha che aikytỹta ⟨את⟩ ne po ha ⟨את⟩ ne ru roga po, ani hag̃ua oĩ karai nde rógape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "36b9d2dc1078e3a8401ad6857257acd9b9413788a79162b74394dc5899fa5d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/2\/31-32.1791266381104.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "באים",
+      "gloss": "og̃uahẽta"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ha che aikytỹta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne po"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ne po"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ru roga po"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "po"
+    },
+    {
+      "surface": "בית",
+      "gloss": "roga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ne ru"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ani hag̃ua oĩ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "karai"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nde rógape"
+    }
+  ],
+  "timestamp": "2026-10-06T05:59:41.107086102Z",
+  "model": "glm-5.3"
+}

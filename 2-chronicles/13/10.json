@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨haʼe⟩",
+      "rationale": "Hebreo ndoguerekói kópla; avañeʼẽ oikotevẽ 'haʼe' 'Jahve Elohim ⟨haʼe⟩ ñande rayhuhára' peháicha"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jeroboam and northern Israel",
+      "rationale": "Avia réi oñeʼẽ Jeroboam rehe ha Jisrael yvate gotyo ñorãirõ haguére"
+    },
+    {
+      "kind": "substitution",
+      "subject": "raʼykuéra",
+      "rationale": "בני 'kuimbaʼe raʼýkuéra' — hebreo ojeporu teramoĩ guarã 'Aharon raʼýkuéra'"
+    }
+  ],
+  "translation": "Ha ñañánte, Jahve Elohim ⟨haʼe⟩ ñande rayhuhára, ha ñandererehejái chupe; ha umi paʼi ombaʼapóva Jahve rehe haʼehína Aharon raʼýkuéra, ha umi Leví-kuéra ombaʼapo imbaʼeapópe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f13237028f9f811b65ebbdaf266cec587134d8cd31d3d4917b1e62b81cc40f36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/13\/10-10.1791267117712.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ha ñañánte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ñande rayhuhára"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ñane... rai"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "ñandererehejái chupe"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "ha umi paʼi"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "ombaʼapóva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve rehe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raʼýkuéra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ha umi Leví-kuéra"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "imbaʼeapópe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:11:57.712765742Z",
+  "model": "glm-5.3"
+}

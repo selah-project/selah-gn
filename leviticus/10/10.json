@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "gn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "marangatu",
+      "rationale": "הקדש (kadash raʼãnga) haʼe «marangatu» tekorãrupi, «santo» ndahaʼéi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "avañeʼẽme tekohañemi oñehaʼã hag̃ua ha hebreo ijaʼỹre"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הטמא\/הטהור",
+      "rationale": "Hebreo ombojoaju ñeʼẽ jojáva tame\/tahor — mokõi ñeʼẽ ojueheguáva, ipu joavy opa avañeʼẽme"
+    }
+  ],
+  "translation": "Ha ikatu hag̃uáicha peẽ peñembojaovy marangatu ha ⟨pe⟩ ndamarangatuíva vaʼerã, ha peñembojaovy ⟨pe⟩ ojeporu vaʼerã moñepyrũʼỹre ha ⟨pe⟩ ojeporu vaʼerã kirirĩme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9b6febe9e4820c71b049997ef0d1a820bf84dfc84f3f1227f15972e2d1c45582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/leviticus\/10\/10-10.1791266100252.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ha ikatu hag̃uáicha peẽ peñembojaovy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "peñembojaovy"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "marangatu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha peñembojaovy"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ndamarangatuíva"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha peñembojaovy"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ojeporu vaʼerã moñepyrũʼỹre"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ha peñembojaovy"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ojeporu vaʼerã kirirĩme"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:00.252857897Z",
+  "model": "glm-5.3"
+}

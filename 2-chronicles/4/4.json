@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 4:4",
+  "book": "2-chronicles",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ógape",
+      "rationale": "ביתה literally 'toward the house'; here 'inward, toward the center' — the oxen's hindquarters faced the basin's center."
+    },
+    {
+      "kind": "substitution",
+      "subject": "para",
+      "rationale": "ים 'sea' is the name of the molten basin, not a literal sea; kept as 'para' following the Hebrew shape."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pakõi vaka",
+      "rationale": "Twelve oxen, three per direction — a count of the four cardinal quarters, 3 × 4."
+    }
+  ],
+  "translation": "Opy pakõi vaka ári: mbohýpa ojere yvate gotyo, mbohýpa kuarahyreike gotyo, mbohýpa ñemby gotyo, ha mbohýpa kuarahyresẽ gotyo; ha pe para opy umívára ári, yvategui, ha opaite irireguapekuéra ógape.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7eb7c0d71d5df10a63af05a222dc6753742df3d015d0023fd3ec547e4a2d8781",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/4\/4-4.1791267135085.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עומד",
+      "gloss": "opy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pakõi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohýpa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "yvate gotyo"
+    },
+    {
+      "surface": "ושלושה",
+      "gloss": "ha mbohýpa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "kuarahyreike gotyo"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ha mbohýpa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ñemby gotyo"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ha mbohýpa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojere"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "kuarahyresẽ gotyo"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ha pe para"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "umívára ári"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yvategui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "irireguapekuéra"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ógape"
+    }
+  ],
+  "timestamp": "2026-10-06T06:12:15.085682740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aherei",
+      "rationale": "Hebreo ndoguerekói prepuesto revolve rehegua; avañeʼẽ oikotevẽ 'aherei' ojehero hag̃ua táva"
+    },
+    {
+      "kind": "measurement",
+      "subject": "poteĩ ára",
+      "rationale": "Ára ha jey ñemohenda: peteĩ jey ára rehénte, upéi poteĩ ára"
+    },
+    {
+      "kind": "you",
+      "subject": "peẽ \/ re-",
+      "rationale": "Jahve ñeʼẽ Yehochúape g̃uarã, jeiko haimetévo plúral ha singular mokõivéva"
+    }
+  ],
+  "translation": "Ha peẽ ojereréta ⟨aherei⟩ ⟨את⟩ táva, opaite ñorãirõhára kuéra, ojere ⟨aherei⟩ ⟨את⟩ táva peteĩ jey. Upéicha rejapóta poteĩ ára.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "c6c845b92c200e7f64132eb856e53f59ba0c3b8352606e3937cee5ccdf88998e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/6\/3-4.1791266287674.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "ojereréta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kuéra"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ñorãirõhára"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "ojere ⟨aherei⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "jey"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "rejapóta"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "poteĩ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ára"
+    }
+  ],
+  "timestamp": "2026-10-06T05:58:07.675693316Z",
+  "model": "glm-5.3"
+}

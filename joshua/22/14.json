@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 22:14",
+  "book": "joshua",
+  "lang": "gn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשיא אחד נשיא אחד",
+      "rationale": "Hebrew repeats 'one prince, one prince' for distribution; the doubling is flattened in the rendering."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מטות",
+      "rationale": "Hebrew 'staff\/branch' used figuratively for 'tribe'; rendered as 'téra' (tribe)."
+    },
+    {
+      "kind": "addition",
+      "subject": "Ha upéi",
+      "rationale": "Conjunction vav rendered as sentence connector not present as separate word."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pa ... peteĩ ... peteĩ",
+      "rationale": "The verse counts the delegation: ten leaders, one per father's house per tribe."
+    }
+  ],
+  "translation": "Ha upéi pa tenondeguáva hese, peteĩ tenondeguáva, peteĩ tenondeguáva ogayguápe g̃uarã, Jisrael opaite téra reheguávape g̃uarã; ha umíva haʼe tavayguakuéra ñepyrũhára hikuái, Jisrael su ituichaitépe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "9d239a3839d011efef55bf15c745b8ae6c89f25b70cab16a273d05f41493d2eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/22\/14-14.1791266229415.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשרה",
+      "gloss": "Ha upéi pa"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "tenondeguáva"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hese"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "peteĩ tenondeguáva"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "peteĩ tenondeguáva"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ogayguápe g̃uarã"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ogaygua"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite ... reheguávape g̃uarã"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "téra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ha umíva"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ñepyrũhára"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tavayguakuéra"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "hikuái"
+    },
+    {
+      "surface": "המה",
+      "gloss": "haʼe ... hikuái"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "su ituichaitépe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T05:57:09.420116836Z",
+  "model": "glm-5.3"
+}

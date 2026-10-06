@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 12:6",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ramo",
+      "rationale": "Hebrew has no 'as'; added to mark מופת as a role, bracketed context supplied in Guarani"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbaʼerechauka",
+      "rationale": "מופת is miracle\/omen\/token, not merely a 'sign'"
+    },
+    {
+      "kind": "crux",
+      "subject": "pyhare pytuʼũ ñembyasýpe",
+      "rationale": "בעלטה dusk\/darkness: KJV 'twilight' vs JPS 'darkness'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yejequiel",
+      "rationale": "Second-person imperatives addressed to Ezekiel as sign to the house of Israel"
+    }
+  ],
+  "translation": "Ichuguapekuéra renondépe, teĩngue ári emonguata, pyhare pytuʼũ ñembyasýpe monguera, nde reñoiʼã embohyru, ani rehecha ⟨את⟩ yvy; che ameʼẽ ndeve mbaʼerechauka ramo Jisrael órape g̃uarã.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "bdc7dcee67d574025f054e7811214d92ab8de2ad3e1406831ee6dd68e59d4070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/12\/6-6.1791266639504.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "ichuguapekuéra renondépe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "teĩngue"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "emonguata"
+    },
+    {
+      "surface": "בעלטה",
+      "gloss": "pyhare pytuʼũ ñembyasýpe"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "monguera"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nde reñoiʼã"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "embohyru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "rehecha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yvy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "mbaʼerechauka"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ameʼẽ ndeve"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "órape g̃uarã"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:59.505218219Z",
+  "model": "glm-5.3"
+}

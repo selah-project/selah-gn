@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oĩvae",
+      "rationale": "רש haʼe 'oĩvaʼerere' — mbaʼevaietegua; avañeʼẽme oiko 'oĩvae' rupive"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזות",
+      "rationale": "'hatã' térã 'teraiterei' — tradúsiату 'roughly', 'impudently', 'fierce things'"
+    }
+  ],
+  "translation": "Ñemboʼe iñirũme oñeʼẽ ⟨ועשיר ndahaʼéi⟩ — oĩvae okakuaapáva katu oñembohovái hatãme.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ddda8fec11b79c35ca91e75e521433b30b3af07d435bc0cd77b04afc4fdfbebc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/18\/23-23.1791266821445.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "ñemboʼe iñirũme"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "oñeʼẽ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "oĩvae"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "okakuaapáva"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "oñembohovái"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "hatãme"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:01.449006082Z",
+  "model": "glm-5.3"
+}

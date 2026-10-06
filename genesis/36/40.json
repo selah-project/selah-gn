@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ñemoñare ruvicha",
+      "rationale": "אלוף ha'e 'jehayhu jojahuha ñemoñare pegua' — peteĩ ñe'ẽ jojahu, 'duque' (avañe'ẽme) ndaha'éi iñe'ẽ tee."
+    },
+    {
+      "kind": "measurement",
+      "subject": "téra rysýi",
+      "rationale": "Kóva ha'e peteĩ téra rysýi — Timna, Alva, Jetet — Edom ñemoñare ruvichakuéra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלוף x3",
+      "rationale": "Mbohapy jey ojehechajey אלוף — peteĩ ñe'ẽryru mbohasarã."
+    }
+  ],
+  "translation": "Ha ko'ãva ha'e téra ñemoñare ruvicha Esaivugua, ijojavypaite térava: ñemoñare ruvicha Timna, ñemoñare ruvicha Alva, ñemoñare ruvicha Jetet.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "151c249e81cc2212c54d6055c50556a28e65cc0daeb9a5b1f4acb0aa6c82b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/36\/40-40.1791265913906.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ha ko'ãva"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "téra"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ñemoñare ruvicha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaivugua"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "imoñarejoja"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "itenda rire"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "ipytépaite"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ñemoñare ruvicha"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ñemoñare ruvicha"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ñemoñare ruvicha"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Jetet"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:53.910057103Z",
+  "model": "glm-5.3"
+}

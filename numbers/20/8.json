@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 20:8",
+  "book": "numbers",
+  "lang": "gn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akãronguápe",
+      "rationale": "לעיניהם literalmente 'sus ojos' (akãronguápe, joajuha rapykuére); avañeʼẽme ojeiporu 'hikuái akãronguápe'"
+    },
+    {
+      "kind": "crux",
+      "subject": "takuapu",
+      "rationale": "המטה: 'takuapu' (vara) — oje'e avei 'itaju'? Jahve ojerure Moichépe oñeʼẽ itáre, ndojukapái; upéva vore 20:11-pe oiko"
+    },
+    {
+      "kind": "you",
+      "subject": "Moiche ha Aharon",
+      "rationale": "Jahve ñeʼẽ ojapóva mbaʼerã Moichépe ha Aharon-pe, imperativo rehegua"
+    },
+    {
+      "kind": "invitation",
+      "subject": "embojoaju, eñeʼẽ",
+      "rationale": "Imperativo rapykuére — Jahve mbaʼerã Moichépe"
+    }
+  ],
+  "translation": "Eg̃eraha ⟨את⟩ takuapu ha embojoaju ⟨את⟩ aty reero, nde ha ne irũ Aharon; eñeʼẽ pe ita rendápe hikuái akãronguápe, ha omeʼẽta hikuái ýpe. Ha ehóita chuguikuéra y pe itágui, ha emongaruʼu ⟨את⟩ aty reero ha ⟨את⟩ ñandéva mymbakuéra.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "27a7215e4e37d48b862708e2c5216ac5420ea14a6e81f49ef723a19d5a8f52f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/20\/8-9.1791266115488.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "eg̃eraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takuapu"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "takuapu"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "embojoaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aty reero"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty reero"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ne irũ"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rendápe"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ita"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "hikuái akãronguápe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "omeʼẽta"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ýpe"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "ehóita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chuguikuéra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-gui"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ita"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "emongaruʼu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aty reero"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aty reero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñandéva mymbakuéra"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ñandéva mymbakuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:55:15.489304785Z",
+  "model": "glm-5.3"
+}

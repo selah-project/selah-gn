@@ -1,0 +1,177 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 14:4",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taʼanga",
+      "rationale": "גלולים haʼe 'kapiʼi yvyra apuʼa' hebreome — 'taʼanga' oheja pe mbaʼeraʼanga raʼe."
+    },
+    {
+      "kind": "crux",
+      "subject": "upépe (בה)",
+      "rationale": "Crux: 'upépe' ('in it' — pe jejapópe) térã 'upévare' ('according to it') — KJV ha JPS ojoavy ko'ápe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "yvypóra, yvypóra (אישׁ אישׁ)",
+      "rationale": "Emombeʼu joavygua mokõi jey — 'peteĩnte, peteĩnte' — oñembohasa joajupyre.'"
+    }
+  ],
+  "translation": "Upévare eñeʼẽ ⟨את⟩ chupekuéra ha ere chupekuéra: Péicha heʼi Adonai Jahve: yvypóra, yvypóra, Jisrael óga gui, ombojupi ⟨את⟩ i-taʼanga kuéra i korasõ peve, ha tetarã i-mbaʼevai omoĩta i-resĩ renondépe, ha ou pe nabi — che Jahve ambohováita chupe upépe i-taʼanga hetaiterei rupi.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "2ceac76a23309950593bca3a810729bd92955880cf9ee3dcbbe1101bbfb72de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/14\/4-4.1791266678172.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Upévare"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eñeʼẽ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chupekuéra"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha ere"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "chupekuéra"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Péicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yvypóra"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "óga gui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ombojupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-taʼanga kuéra"
+    },
+    {
+      "surface": "גלוליו",
+      "gloss": "i-taʼanga kuéra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peve"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "i korasõ"
+    },
+    {
+      "surface": "ומכשול",
+      "gloss": "ha tetarã"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "i-mbaʼevai"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "omoĩta"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "i-resĩ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ha ou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעניתי",
+      "gloss": "ambohováita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chupe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "upépe"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "hetaiterei rupi"
+    },
+    {
+      "surface": "גלוליו",
+      "gloss": "i-taʼanga kuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:04:38.173611459Z",
+  "model": "glm-5.3"
+}

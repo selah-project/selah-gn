@@ -1,0 +1,181 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 6:11",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iñpykuéra",
+      "rationale": "ברכוהי 'his knees' rendered 'his legs'; avañeʼẽ has no distinct everyday word for knee apart from py constructions"
+    },
+    {
+      "kind": "elision",
+      "subject": "לה",
+      "rationale": "pronominal suffix on פתיחן folded into 'oipeʼapyva', gloss carried only as bracketed possessive"
+    },
+    {
+      "kind": "crux",
+      "subject": "ojehaija",
+      "rationale": "רשים 'was signed' vs 'was prescribed\/enacted'; aramaim word means to inscribe a decree"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mbohapy jey ára pukukue",
+      "rationale": "counting: three times a day, a fixed rhythm of prayer"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך \/ ברכוהי",
+      "rationale": "kneel (ברך) and knee (ברך) share the root — same consonants, lost in avañeʼẽ"
+    }
+  ],
+  "translation": "Ha Daniel, oikuaávo ojehaijaha pe kuatia, ohókuri hógape, ha irogape oipeʼapyva ióga yvateguápe, Jerusalaim renondépe; ha mbohapy jey ára pukukue oinupã iñpykuéra ári, oñemboʼe ha oguerovia Eloha renondépe, koʼẽ mboyve ojapo hagueicha.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7a654c7a2f4b75beec1908d2b5fb55a4040e483d2eb590e00447ab2de8f6ae0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/6\/11-11.1791267034295.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "Ha Daniel"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "די",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ojehaija"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "pe kuatia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohókuri"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "hógape"
+    },
+    {
+      "surface": "וכוין",
+      "gloss": "ha irogape"
+    },
+    {
+      "surface": "פתיחן",
+      "gloss": "oipeʼapyva"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨iñ-⟩"
+    },
+    {
+      "surface": "בעליתה",
+      "gloss": "ióga yvateguápe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaim"
+    },
+    {
+      "surface": "וזמנין",
+      "gloss": "ha mbohapy jey"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "ביומא",
+      "gloss": "ára pukukue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "oinupã"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "ברכוהי",
+      "gloss": "iñpykuéra"
+    },
+    {
+      "surface": "ומצלא",
+      "gloss": "oñemboʼe"
+    },
+    {
+      "surface": "ומודא",
+      "gloss": "ha oguerovia"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "אלהה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "upéicha"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "rehe"
+    },
+    {
+      "surface": "די",
+      "gloss": "haʼeha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ojapo hague"
+    },
+    {
+      "surface": "מן",
+      "gloss": "koʼẽ mboyve"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "mboyveguáicha"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "koʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:10:34.299768775Z",
+  "model": "glm-5.3"
+}

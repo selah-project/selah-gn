@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 47:2",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañeʼẽme tekomeʼẽ oñehaʼãmbáva, hebreo ndoguerekóiva עיר-pe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוטף\/וישטפו",
+      "rationale": "Peteĩ ñeʼẽ jeysyry: pe ysyry «jehejareíva» «ojohéi» yvy — mokõi jey héra avei"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yvate gotyo mbytépe",
+      "rationale": "מצפון heʼisénte «yvate mbytépe» (yhãngue kyʼa); «yvate gotyo» ohechauka mbaʼeichapa oúva"
+    }
+  ],
+  "translation": "Upéicha heʼi Jahve: Pe, y ojupi yvate gotyo mbytépe, ha oiko jehejareíva ysyry ramo, ha ojohéi ⟨את⟩ yvy ha ⟨את⟩ imbaʼekuéra, tavavo ha umi oiko ipype; ha ojekuaa yvyporakuéra, ha ojapysyso opaite oikóva ⟨pe⟩ yvy ape ári.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "ca69a4d10b3d984c7710d569c0c789832690f933ba899ea26ffa93f12ab8da8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/47\/2-2.1791266598237.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Upéicha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heʼi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "ojupi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "yvate gotyo mbytépe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha oiko"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ysyry ramo"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "jehejareíva"
+    },
+    {
+      "surface": "וישטפו",
+      "gloss": "ha ojohéi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ha ⟨pe⟩ imbaʼekuéra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tavavo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ha umi oiko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ipype"
+    },
+    {
+      "surface": "וזעקו",
+      "gloss": "ha ojekuaa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yvyporakuéra"
+    },
+    {
+      "surface": "והילל",
+      "gloss": "ha ojapysyso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy ape ári"
+    }
+  ],
+  "timestamp": "2026-10-06T06:03:18.239075208Z",
+  "model": "glm-5.3"
+}

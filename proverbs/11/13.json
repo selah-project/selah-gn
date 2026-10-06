@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "gn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Pe verso oñeʼẽ mbaʼe kañymby — sod — rehe, pe ñemiguasu oñemoañeteʼỹva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רכיל",
+      "rationale": "Rajil haʼe pe oikundaháva távare oñemosarambi hag̃ua ñeʼẽ vai; 'oigua' iñapytũngue avañeʼẽme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "Davar haʼe ñeʼẽ ha mbaʼe mokõive; avañeʼẽme 'ñeʼẽ' añónte ojeiporu koʼápe."
+    }
+  ],
+  "translation": "Pe ñeʼẽ joguaháva oipeʼa ⟨את⟩ pe mbaʼe kañymby; ha pe ruah jeroviapýva opysýva ⟨את⟩ pe ñeʼẽ.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "42ce886c50b7f1e97cb961d267cbe074bcaed5c41f2472fc6e4dff9378fa29d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/11\/13-14.1791266854116.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "oguatáva"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "ñeʼẽ joguaháva"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "oipeʼa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "mbaʼe kañymby"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "ha jeroviapýva"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "opysýva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ñeʼẽ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:07:34.120322085Z",
+  "model": "glm-5.3"
+}

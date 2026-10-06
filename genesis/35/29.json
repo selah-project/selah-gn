@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 35:29",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "oñembyaty ojoaju hag̃ua itavayguakuéra ndive",
+      "rationale": "Hebreo 'oñembyaty oñemoĩ hag̃ua iñemoñare apytépe' — ñeʼẽte tekoiterape, heʼiséva omano ha oho iñarandýpe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oiñemonda pytu",
+      "rationale": "ויגוע heʼiséva 'opytu osẽ' — omano raẽ ñeʼẽ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "henyhẽva",
+      "rationale": "ושבע heʼiséva 'ojuehe па' — 'henyhẽva ara' ñeʼẽte heʼiséva arakaʼe oikove pahápe."
+    }
+  ],
+  "translation": "Jitshak oiñemonda pytu, omano, ha oñembyaty ojoaju hag̃ua itavayguakuéra ndive, okakuaapaitéva ha ara henyhẽva; Esav ha Jaakov, imembykuéra, ohundy ⟨את⟩ chupe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7d2bcb42c179822f6ec0bd6b95030e0f072c77b09387fddeaff58abc50b66a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/35\/29-29.1791265905796.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "oiñemonda pytu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "omano"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "oñembyaty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ojoaju hag̃ua"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "itavayguakuéra ndive"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "okakuaapaitéva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "henyhẽva"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ohundy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chupe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "imembykuéra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:45.814381692Z",
+  "model": "glm-5.3"
+}

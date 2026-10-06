@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "genesis 41:46",
+  "book": "genesis",
+  "lang": "gn",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mbohapypa ary",
+      "rationale": "Yosef ary papapy oje'e; mombyryguái pumbyry oha'ãkuaa hagua iñembojasakue."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "'ijypykue renondépe' (oĩva hendyrõ) — avañe'ẽme 'renondépe' — he'ise oĩha ijapytépe, mburuvichára ñemoñare."
+    },
+    {
+      "kind": "addition",
+      "subject": "oguerekóvo",
+      "rationale": "'בן שלשים שנה' — 'mbohapypa ary mitã' — avañe'ẽme oñeikotevẽ 'oguerekóvo' ary."
+    }
+  ],
+  "translation": "Ha Yosef, mbohapypa ary oguerekóvo oikévo Paroh — Mitsraim mburuvicha — renondépe, ha Yosef osẽ Paroh renondégui ha ohasaopa Mitsraim yvy.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f6f5e28fa1c1560153f0926fef22bac2981f529a28f7ce69727645b2cfab9d34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/41\/45-46.1791265950616.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "Ha Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "orekóvo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mbohapypa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "בעמדו",
+      "gloss": "oikévo... renondépe oĩvo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "renondégui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ohasaopa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:52:30.617756559Z",
+  "model": "glm-5.3"
+}
