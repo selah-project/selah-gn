@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 18:19",
+  "book": "exodus",
+  "lang": "gn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ha'Ehova — Jahve ra'ãnga",
+      "rationale": "Jetro (Midian-gua, pagano rekópe) he'i 'Elohim' — 'Ehova' — Jahve-gua pe ñe'ẽ hendape, 'Jahve' gua'u guarani; avañe'ẽme ndaipori 'Dios' ñe'ẽ, 'Ehova' ('Dios') ojeporu tuichakue rehegua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oĩva'erã ndive",
+      "rationale": "ויהי אלהים עמך — jussivo: 'to be God with you' — avañe'ẽme ndaipori mba'eichagua ojuehegua, upévare ojejapo 'oĩva'erã ndive' (he'i va'erã)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ñe'ẽ — mba'e",
+      "rationale": "הדברים — 'ko'ã mba'e\/kuaa'ã' — 'ñe'ẽ' (ñe'ẽngatu) ojeporu 'mba'e' pype guarani; oĩ heta opción."
+    },
+    {
+      "kind": "you",
+      "subject": "Jetro oñe'ẽ Moichépe",
+      "rationale": "Tuichakue jehai: Jetro (Moiché sogro) oñe'ẽ chugui mokõiha añetépe."
+    }
+  ],
+  "translation": "Koʼág̃a ehendu che ñeʼẽ: ambovyʼarõ ndéve, ha Jahve oĩvaʼerã ndive. Eime nde ⟨ete⟩ avanoʼõ Ehova renondépe, ha ere ⟨ete⟩ ⟨את⟩ umi ñeʼẽ Jahve pe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "eb031636b0f02425189e29e9a5062aae402142fba02db4fc8f6300ef9328edab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/exodus\/18\/19-19.1791272350089.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ko'ág̃a"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ehendu"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "che ñeʼẽ"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ambovyʼarõ ndéve"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha oĩvaʼerã"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "היה",
+      "gloss": "eime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "avanoʼõ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "renondépe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ehova"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi ñeʼẽ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "umi ñeʼẽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ehova"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:10.091882996Z",
+  "model": "glm-5.3"
+}

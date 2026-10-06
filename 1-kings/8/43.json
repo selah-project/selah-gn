@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 8:43",
+  "book": "1-kings",
+  "lang": "gn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "אֹתְךָ here is the pronoun 'you' (object of fear), not the aleph-tav direct-object marker; rendered 'nde rehe', unbracketed."
+    },
+    {
+      "kind": "crux",
+      "subject": "נקרא על הבית",
+      "rationale": "Hebrew literally 'your name is called upon this house'; KJV\/ASV reword as 'called by thy name', the gn keeps 'oñembohera hague ko óga ári'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jahy'o",
+      "rationale": "יראה covers fear and reverence; avañeʼẽ 'jahyʼo' (fear) chosen, losing the reverence nuance."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא \/ נקרא",
+      "rationale": "Same verb קרא opens (the foreigner calls) and closes (your name is called) the verse; not visible in gn."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Solomon's prayer addresses Jahve directly in second person throughout."
+    }
+  ],
+  "translation": "Nde rejahua ⟨yvágape⟩, nde moñeno'i rendápe, ha rejapóta opaite mbaʼe pe hyãigua ojerure ndéve, ikatu hag̃uáicha opaite yvy retãygakuéra oikuaa ⟨את⟩ ne Téra, jahy'o hag̃ua ⟨את⟩ nde rehe, nde retãygakuéra Jisraelicha, ha oikuaa hag̃ua ne Téra oñembohera hague ko óga ári, ko amboapóva.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "8b5f087a71b0d041f1a59be278b941f6514bc1e69b0dc1d736b55c8e821f579d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/8\/43-43.1791272382045.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rejahua"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yvágape"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "moñeno'i renda"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "nde rekohápe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ha rejapóta"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaite mbaʼe pe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ojerure"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "hyãigua"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ikatu hag̃uáicha"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "oikuaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "retãygakuéra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Téra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne Téra"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "jahy'o hag̃ua"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nde rehe"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "nde retãygakuéraicha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ha oikuaa hag̃ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ne Téra"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "oñembohera hague"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ko óga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "amboapóva"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:42.047688587Z",
+  "model": "glm-5.3"
+}

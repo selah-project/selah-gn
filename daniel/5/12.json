@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 5:12",
+  "book": "daniel",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ruah ojehai hebreo ipúpe, ndahaʼéi pytuhápe año"
+    },
+    {
+      "kind": "idiom",
+      "subject": "קטרין",
+      "rationale": "arameo 'kuã' — taʼãngusu jahavo; literal 'kuã jepopeʼo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחידן",
+      "rationale": "'apytuʼũrendy \/ ñeʼẽ pyporã' — KJV 'hard sentences', JPS 'riddles'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "taʼãngasu ñemoañete",
+      "rationale": "pe versículo oñeʼẽ mbaʼe kañymbygua jehechaukaha rehe"
+    }
+  ],
+  "translation": "Upe mbaʼére peteĩ ruah ijojahaʼỹva, kuaa, ñemoarandu, taʼãngasu ñemoañete, apytuʼũrendy jehechauka ha kuã jepopeʼo ojejuhu Daniel-pe, péicha pe mburuvicha ojapo héra Beltshatsar; koʼág̃a Daniel ojehero tapitépe ha ñemoañete ohechaukáta.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "839410c89990d9ce13f38c81dc16aa4fca0b059f9083a3ae75f9dd2e25ecc6fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/5\/12-12.1791272350786.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "opa"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "upe mbaʼére"
+    },
+    {
+      "surface": "די",
+      "gloss": "pe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יתירה",
+      "gloss": "ijojahaʼỹva"
+    },
+    {
+      "surface": "ומנדע",
+      "gloss": "kuaa"
+    },
+    {
+      "surface": "ושכלתנו",
+      "gloss": "ñemoarandu"
+    },
+    {
+      "surface": "מפשר",
+      "gloss": "ñemoañete"
+    },
+    {
+      "surface": "חלמין",
+      "gloss": "taʼãngasu"
+    },
+    {
+      "surface": "ואחוית",
+      "gloss": "jehechauka"
+    },
+    {
+      "surface": "אחידן",
+      "gloss": "apytuʼũrendy"
+    },
+    {
+      "surface": "ומשרא",
+      "gloss": "jepopeʼo"
+    },
+    {
+      "surface": "קטרין",
+      "gloss": "kuã"
+    },
+    {
+      "surface": "השתכחת",
+      "gloss": "ojejuhu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hese"
+    },
+    {
+      "surface": "בדניאל",
+      "gloss": "Daniel-pe"
+    },
+    {
+      "surface": "די",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mburuvicha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ojapo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "héra"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltshatsar"
+    },
+    {
+      "surface": "כען",
+      "gloss": "koʼág̃a"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "יתקרי",
+      "gloss": "ojehero tapitépe"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "ñemoañete"
+    },
+    {
+      "surface": "יהחוה",
+      "gloss": "ohechaukáta"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:10.788670128Z",
+  "model": "glm-5.3"
+}

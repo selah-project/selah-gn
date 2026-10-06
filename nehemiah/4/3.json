@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaʼe jey ñaneñeʼẽ",
+      "rationale": "פלל is closer to 'to judge'; prayer is intercession — avañeʼẽ 'jaʼe jey ñaneñeʼẽ' captures only the petition sense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ñangarekohára",
+      "rationale": "משמר is guard\/watch — 'ñangarekohára' renders the man, not the post"
+    }
+  ],
+  "translation": "Ha roĝuéicha, ñande jaʼe jey ñaneñeʼẽ Elohim-pe, ha ñamohenda ñangarekohára hikuái ári, ara ha pyhare, hikuái rehegua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "6b6de05961a94caec3035bf3504cc2b1017484c02a8aec9831c818cd13f5f34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/nehemiah\/4\/3-3.1791272356329.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "ñande jaʼe jey ñaneñeʼẽ Elohim-pe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim-pe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וונעמיד",
+      "gloss": "ñamohenda"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ñangarekohára"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hikuái ári"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ara ha"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "pyhare"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "hikuái rehegua"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:16.330547350Z",
+  "model": "glm-5.3"
+}

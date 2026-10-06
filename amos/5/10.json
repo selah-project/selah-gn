@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pe",
+      "rationale": "Avañe'ẽ oikotevẽ determinante ohechauka hagua mba'épa ojekopyry, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "óga guasúpe",
+      "rationale": "שער haʼe táva okẽ, umi tuja kuñanguéra ojapo hague tekotevẽ hendápe; avañe'ẽme ndaipóri ñe'ẽ ojueheguáva"
+    }
+  ],
+  "translation": "Ojopy pe oñembohapeha'ãva óga guasúpe, ha pe oñe'ẽva añetegua rehe oipy'ãi chugui.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "36e9f63622f83bda48351561ae01ebe9bddc5f0a631a57da6379864d3a0a4bc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/5\/10-10.1791272377248.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "ojopy"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "óga guasúpe"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "pe oñembohapeha'ãva"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ha pe oñe'ẽva"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "añetegua"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "oipy'ãi chugui"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:37.249910036Z",
+  "model": "glm-5.3"
+}

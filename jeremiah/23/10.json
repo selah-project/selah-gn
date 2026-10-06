@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 23:10",
+  "book": "jeremiah",
+  "lang": "gn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלה",
+      "rationale": "'tapiaguaita (curse, imprecation)' ko'ápe; YLT omoñe'ẽ 'these' — kuã rehegua, oheja vaí."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הארץ",
+      "rationale": "Yvy ñe'ẽ ojejuhu mokõi jey mokõi cláusula mbytépe — repetición retórica, nomañãiva avañe'ẽme."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מנאפים",
+      "rationale": "Ikatu he'iséva tapicha oheja vaíva Tupãre — jerovia rekochýramo, kaygua ñe'ẽ año."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו נאות מדבר",
+      "rationale": "Kokuéry manóva ñemoha'ãnga ojuehe tapiaguaita rehe — mba'e vai omanomba yvype."
+    }
+  ],
+  "translation": "Kayguakuéra rupi yvy oñemyenyhẽ, tapiaguaita rugua yvy oñemandu'a, ka'aguýgui kokuéry omanóma yvyguy'ŷ; ha ipyguatakue vaínte, ha ipu'aka noĩporãi.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "f9d3a77637cbd16499a4ca16caa799451fe9b794d711662d1a8935dd3db1cc3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/jeremiah\/23\/10-10.1791272332715.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upeicha rupi"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "kayguakuéra"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "oñemyenyhẽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapiaguaita rugua"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rugua"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tapiaguaita"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "oñemandu'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yvy"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "omanóma yvyguy'ŷ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "kokuéry"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ka'aguýgui"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מרוצתם",
+      "gloss": "ipyguatakue"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vaínte"
+    },
+    {
+      "surface": "וגבורתם",
+      "gloss": "ha ipu'aka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ĩporãi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:52.715897427Z",
+  "model": "glm-5.3"
+}

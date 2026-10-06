@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 9:9",
+  "book": "ecclesiastes",
+  "lang": "gn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ehecha tekove",
+      "rationale": "ראה חיים 'see life' — ylt literal 'see life'; most versions 'enjoy\/live joyfully with'; avañeʼẽ oiporu ⟨tekove vyʼa⟩ bracket-pe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ne mbaʼevai",
+      "rationale": "הבל haʼe pytuvérante — 'vapor\/soplo'; 'mbaʼevai' (vanidad) haʼe jehaipyre ojeiporu heta jave Kohelet-pe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמל \/ עמל",
+      "rationale": "Ñeʼẽ jojopy: ובעמלך (ñemohenda) ha עָמֵל (japo) — peteĩ ñeʼẽ root mokõi jey, avañeʼẽme ojejapo 'mbaʼapo asy' \/ 'rembaʼapo asy'."
+    },
+    {
+      "kind": "addition",
+      "subject": "haʼe",
+      "rationale": "כי הוא — 'haʼehápe' ohechauka mbaʼejaʼo, haʼe peteĩ estructura jehaípe."
+    }
+  ],
+  "translation": "Ehecha ⟨tekove vyʼa⟩ kuñáme nde rayhu, opaite ára ne rekovéipe ne mbaʼevai réguape, omeʼẽva ndéve kuarahy guýpe, opaite ne mbaʼevai ára; haʼehápe ne vete tekovéipe, ha ne mbaʼapo asýpe, remoĩva kuarahy guýpe.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "7a997480e99a7ed3267cd897e1c021fb20e12f3eed1701069395af78acf38ea7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ecclesiastes\/9\/9-9.1791272379458.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ehecha"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tekove"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kuñáme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde rayhu"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "reayhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rekovéipe"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "ne mbaʼevai réguape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omeʼẽva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeʼẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndéve"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ára"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "ne mbaʼevai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haʼehápe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "haʼe"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ne vete"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "tekovéipe"
+    },
+    {
+      "surface": "ובעמלך",
+      "gloss": "ne mbaʼapo asýpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "remoĩva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "rembaʼapo asy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "guýpe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kuarahy"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:39.459927541Z",
+  "model": "glm-5.3"
+}

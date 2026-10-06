@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "gn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pe⟩",
+      "rationale": "Avañeʼẽme oikotevẽ artículo; hebreo ndorekói artículo ko ñeʼẽme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטר repetición",
+      "rationale": "Mbohapy jey ojejava ñeʼẽ 'ambohéri\/okyhýi' — táva ha vore mokõive — Israel ehémporã rehegua"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Ñeʼẽ joajuhára ojejapo peteĩ ñeʼẽteñoi joapyrãme"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Jahve ñeʼẽ oñeʼẽva Jisrael-pe, ombyaikóvo"
+    }
+  ],
+  "translation": "Ha che avei amboyke ndeheguipe ⟨את⟩ ⟨pe⟩ ky, oiko gueterívo mbohapy jasy kogue ñemongarai mboyve; ha ambohéra ky peteĩ táva ári, ha ambue táva ári nahániri ambohéri; peteĩ vore okyhýi, ha pe vore nomenandóiva ky hendápe hakypa.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "4a587217760d88ed0043376b2cd7a05a4c618f525fde09693e97cd05bd8c2350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/4\/7-7.1791272332509.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ha avei"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "amboyke"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ndeheguipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ky"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ky"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "oiko gueterívo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mbohapy"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jasy"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "kogue ñemongarai mboyve"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "ha ambohéra ky"
+    },
+    {
+      "surface": "על",
+      "gloss": "ári"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "peteĩ táva"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ha ári"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ambue táva"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ambue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "ambohéri"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "vore"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "okyhýi"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "ha pe vore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menandóiva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nahániri"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "nomenandói ky"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hendápe"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "hakypa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:52.510613211Z",
+  "model": "glm-5.3"
+}

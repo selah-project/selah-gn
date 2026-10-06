@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "gn",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "Pe oñehaʼã ha oñemoĩ poteĩpa ama pilárkuéra rehe."
+    },
+    {
+      "kind": "crux",
+      "subject": "איל",
+      "rationale": "'Pilár\/osãimbaba' (oñemohenda) térã 'py' — jasaja apopyre rehegua; tradisión iñapañuãi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "Mokõi jey ojeʼejey 'ijerere ijerere', ojehecha jey oñemboarete hag̃ua okẽ jeréreva."
+    },
+    {
+      "kind": "addition",
+      "subject": "peve",
+      "rationale": "Guarani oikotevẽ 'peve' ohechauka hag̃ua ואל suddírã."
+    }
+  ],
+  "translation": "Ojapo ⟨את⟩ umi pilár, poteĩpa ama ipukukue, ha ⟨peve⟩ korapy pilár peve, pe okẽ ijerere ijerere.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "eb5ae90f5c62f18c754b17ed78380e10d1be9e5d0c8dbf69533e216c35a2c949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/40\/14-14.1791272334559.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ojapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umi pilár"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "umi pilár"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "poteĩpa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha peve"
+    },
+    {
+      "surface": "איל",
+      "gloss": "pilár"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "korapy"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pe okẽ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerere"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ijerere"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:54.560097468Z",
+  "model": "glm-5.3"
+}

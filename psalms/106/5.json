@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "gn",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ko⟩",
+      "rationale": "Avañeʼẽ oikotevẽ peteĩ techaukaha, hebreo ndoguerekóiva"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחיריך",
+      "rationale": "Techaukarã ojehaíva jehaipyre ʼeʼýrõ: 'ndeiporavopyréva' (jehaipyre peteĩnte) raʼarõ ambuéva ndahaʼéi oike"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחלתך",
+      "rationale": "הañete heʼi 'jehayhu ypy guive éva ñembyaty'; gueroĩ 'rekovia' — mbaʼe oñemombaʼeguasúva ha oñemoherakuãva"
+    }
+  ],
+  "translation": "Ehecha hag̃ua temiporã rehechauka ⟨ko⟩ ndeiporavopyréva rehegua, vyʼa hag̃ua nde tetãnguéra vyʼápe, ha odero hag̃ua nde rekovia ndive.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "782aa0c195e13704f001ad181b4c0d659afbd24904fe1a0d3d2b7228516e29ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/106\/5-5.1791272326971.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "ehecha hag̃ua"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "temiporã rehechauka"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "ndeiporavopyréva rehegua"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "vyʼa hag̃ua"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "vyʼápe"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "nde tetãnguéra"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "odero hag̃ua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndive"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "nde rekovia"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:46.972848612Z",
+  "model": "glm-5.3"
+}

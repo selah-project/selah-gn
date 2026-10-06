@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 7:13",
+  "book": "2-kings",
+  "lang": "gn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשאר\/הנשארים\/נשארו",
+      "rationale": "The root שׁאר 'remain' is pounded five times in one breath — the servant hammers the theme of what is left; the repetition is softened in Guaraní."
+    },
+    {
+      "kind": "crux",
+      "subject": "doubled clause",
+      "rationale": "The clause 'behold, they are as all the multitude of Israel...' appears twice with slight variation (ההמון\/המון), likely scribal doubling; both occurrences are kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "peichahína",
+      "rationale": "הנם 'behold them' is rendered as a comparative particle since the idiom 'lo, they are as...' has no literal Guaraní equivalent."
+    }
+  ],
+  "translation": "Peteĩ imba’aporãhára ombohovái ha he’i: Pegueru na po umi kavaju ohasáva távape — peichahína opaite Jisrael aty guasu oikóva hyepýpe, peichahína opaite Jisrael aty guasu omanóma — ha jañemondo jahecha hag̃ua.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "83b1d4bf4dc661f1ca9d800bd9d069f83ae9228a30af41dcb8c08c48660e29c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/7\/13-13.1791272341373.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ombohovái"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "peteĩ"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "imba’aporãhára"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ha he’i"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "pegueru"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "po"
+    },
+    {
+      "surface": "מן",
+      "gloss": "umi apytégui"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kavaju"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "oíva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "ohasáva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "távape"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "peichahína"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaichagua"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "aty guasu"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "oikóva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hyepýpe"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "peichahína"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "opaichagua"
+    },
+    {
+      "surface": "המון",
+      "gloss": "aty guasu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "omanóma"
+    },
+    {
+      "surface": "ו נשלחה",
+      "gloss": "jañemondo"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "jahecha"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:01.374094665Z",
+  "model": "glm-5.3"
+}

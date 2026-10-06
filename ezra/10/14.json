@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 10:14",
+  "book": "ezra",
+  "lang": "gn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rayhápE",
+      "rationale": "hebreo ndorekóiva ñeʼẽpehẽ ohechauka hag̃ua mbaʼépa rupi oñemoĩvaʼerã"
+    },
+    {
+      "kind": "substitution",
+      "subject": "raserãi akuiturã",
+      "rationale": "חרון אף heʼiséva kuaraʼiʼỹ hague tĩ pehẽngue, hebreo mbaʼeraʼãnguéra"
+    },
+    {
+      "kind": "crux",
+      "subject": "ko mbaʼe peve",
+      "rationale": "עד לדבר הזה: KJV\/ASV 'ko mbaʼe oñemoñepyrũ peve' vs JPS 'ko mbaʼe rehegua'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "táva ha táva",
+      "rationale": "עיר ועיר mbohasa raʼãnga 'táva ha táva' — peteĩ taʼãngakuéra ojehecha hague opaite táva"
+    }
+  ],
+  "translation": "Kamé, ore ruvichakuéra oñemoĩvaʼerã opaite ⟨aty guasu⟩ rayhápE, ha opaite umi ore távape oĩva ojareko kuñanguéra ambue-tetãguagua, ouvaʼerã aravo oñemohendáva árape, ha ikundahakuéra ndive umi itujavéva táva ha táva, ha imbojakohakuéra, peve oñembojevy hag̃ua ore Elohim raserãi akuiturã ore rehegui, ko mbaʼe peve.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "df38d7c5207c9c1494df1b004ffd5ff499a8543ecf183e3a685c30e169bb8416",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezra\/10\/14-14.1791272349674.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעמדו",
+      "gloss": "oñemoĩvaʼerã"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kamé"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "ore ruvichakuéra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "opaite"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aty guasu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ha opaite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umi"
+    },
+    {
+      "surface": "בערינו",
+      "gloss": "ore távape"
+    },
+    {
+      "surface": "ההשיב",
+      "gloss": "ojareko"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kuñanguéra"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ambue-tetãguagua"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ouvaʼerã"
+    },
+    {
+      "surface": "לעתים",
+      "gloss": "aravo"
+    },
+    {
+      "surface": "מזמנים",
+      "gloss": "oñemohendáva"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ha ikundahakuéra ndive"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "umi itujavéva"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "táva"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ha táva"
+    },
+    {
+      "surface": "ושפטיה",
+      "gloss": "ha imbojakohakuéra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "oñembojevy hag̃ua"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "raserãi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akuiturã"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ore Elohim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ore rehegui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peve"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ko mbaʼe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:09.676712638Z",
+  "model": "glm-5.3"
+}

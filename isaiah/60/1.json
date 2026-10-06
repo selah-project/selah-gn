@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "gn",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "resã",
+      "rationale": "אורך ndahaʼéi «kuarahy» año — haʼe mbaʼe rerahápe g̃uarã, tesã, sãmeʼẽ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אורי \/ אורך",
+      "rationale": "Mokõi ñeʼẽ ojueheguáva («eñakãrapuʼã» \/ «nde resã») — mbaʼe jeʼojogua hebreo-pe ndojehaívo avañeʼẽme."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nde⟩",
+      "rationale": "Hebreo-pe naipóri tenda ñeʼẽ; avañeʼẽme oñeikotevẽ ojehecha hag̃ua mávapa oñeʼẽhína."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Jerusalen-pe",
+      "rationale": "Mokõi ñeʼẽpoty mboʼesy — «Eñemongueté, eñakãrapuʼã» — oñemboʼero tetãme g̃uarã."
+    }
+  ],
+  "translation": "Eñemongueté, eñakãrapuʼã ⟨nde⟩ resãmeʼẽ haguã, nde mbaʼetépe, ndajuaréi radi Jahve nde ári osẽ haguãre.",
+  "provenance": {
+    "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
+    "user-sha256": "db04c2bdf18b5cc5172521fb1174e830cd2c202c67682d8bf4a0c9c8397a9878",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/60\/1-2.1791272372422.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Eñemongueté"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "eñakãrapuʼã ⟨nde⟩ resãmeʼẽ haguã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde mbaʼetépe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "osẽ"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "resã"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "radi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nde ári"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "osẽ haguãre"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:32.425150073Z",
+  "model": "glm-5.3"
+}
