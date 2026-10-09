@@ -22,11 +22,11 @@
       "rationale": "אשמה heʼise 'carai ñemiTechaukaha, mbaʼe vai' — jehaipyre hebreo ipúpe oñeñongatu"
     }
   ],
-  "translation": "Ha Joav he'i: Jahve omoĩve itavaygua hikuái ári sa jey. Che jára, mburuvicha guasu, ¿ndahaʼéipa opavavete che jára mba'e, tembiguái ramo? Mbaʼérepa che jára oheka koʼãva? Mbaʼérepa oikóta Jisrael-pe g̃uarã ashma ramo?",
+  "translation": "Ha Joav heʼi: Jahve omoĩve itavaygua hikuái ári sa jey. Che jára, mburuvicha guasu, ¿ndahaʼéipa opavavete che jára mbaʼe, tembiguái ramo? Mbaʼérepa che jára oheka koʼãva? Mbaʼérepa oikóta Jisrael-pe g̃uarã ashma ramo?",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "be6501672fe14db863f70171b63a9892d46543dcb9a3be5f2ef1eb6bc09ccc9f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-chronicles\/21\/2-4.1791267164069.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/1-chronicles/21/2-4.1791267164069.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "he'i"
+      "gloss": "heʼi"
     },
     {
       "surface": "יואב",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "לאדני",
-      "gloss": "che jára mba'e"
+      "gloss": "che jára mbaʼe"
     },
     {
       "surface": "לעבדים",

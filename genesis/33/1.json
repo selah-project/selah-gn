@@ -9,7 +9,7 @@
     {
       "kind": "substitution",
       "subject": "ovoja",
-      "rationale": "ויחץ is literally 'he split\/cut in two'; 'ovoja' (divided) is a common rendering but loses the picture of splitting"
+      "rationale": "ויחץ is literally 'he split/cut in two'; 'ovoja' (divided) is a common rendering but loses the picture of splitting"
     },
     {
       "kind": "measurement",
@@ -22,11 +22,11 @@
       "rationale": "שפחות is literally 'female slaves of the household', rendered with a descriptive phrase"
     }
   ],
-  "translation": "Jaakov ojupi hesy'y jejavy'ỹre hetia'e ha ohecha, ha niko Echav ou, ha ichupe ndive irundy sa kuimba'e; ha ovoja ⟨את⟩ mitãnguéra Lea rehe, Rahel rehe, ha mokõi kuñakarai mbokuatiapyre rehe.",
+  "translation": "Jaakov ojupi hesyʼy jejavyʼỹre hetiaʼe ha ohecha, ha niko Echav ou, ha ichupe ndive irundy sa kuimbaʼe; ha ovoja ⟨את⟩ mitãnguéra Lea rehe, Rahel rehe, ha mokõi kuñakarai mbokuatiapyre rehe.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "d435f95927e1a19d13129f0547e5e9b12795e44d919f536ec6eb1d996f41db1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/33\/1-1.1791265918915.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/genesis/33/1-1.1791265918915.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "ojupi hesy'y jejavy'ỹre hetia'e"
+      "gloss": "ojupi hesyʼy jejavyʼỹre hetiaʼe"
     },
     {
       "surface": "יעקב",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "עיניו",
-      "gloss": "hesy'y"
+      "gloss": "hesyʼy"
     },
     {
       "surface": "וירא",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "kuimba'e"
+      "gloss": "kuimbaʼe"
     },
     {
       "surface": "ויחץ",

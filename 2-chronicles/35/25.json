@@ -22,11 +22,11 @@
       "rationale": "Ky'ỹ — ñe'ẽ ky'ỹme ha jepokuaa ñembyasy rehegua; 'lamentaciones' niko ñe'ẽ pytagua."
     }
   ],
-  "translation": "Ha Jirmeiaju oñe'ẽ ky'ỹme Jocheiaju rehe, ha opa umi puraheihára kuimba'e ha puraheihára kuña oñe'ẽ iky'ỹnguérape Jocheiaju rehe ko'ág̃a peve, ha omoĩ chupekuéra tekojoja ramo Jisrael ári; ha peicha pe, oĩva'ekue kuatiañe'ẽme umi ky'ỹnguéra ári.",
+  "translation": "Ha Jirmeiaju oñeʼẽ kyʼỹme Jocheiaju rehe, ha opa umi puraheihára kuimbaʼe ha puraheihára kuña oñeʼẽ ikyʼỹnguérape Jocheiaju rehe koʼág̃a peve, ha omoĩ chupekuéra tekojoja ramo Jisrael ári; ha peicha pe, oĩvaʼekue kuatiañeʼẽme umi kyʼỹnguéra ári.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "22b1af163c5605343cee36693bcb4b9815c38ffa3da89fe72a2ca22f932b23c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/35\/25-27.1791267205283.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-chronicles/35/25-27.1791267205283.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויקונן",
-      "gloss": "oñe'ẽ ky'ỹme"
+      "gloss": "oñeʼẽ kyʼỹme"
     },
     {
       "surface": "ירמיהו",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ha oñe'ẽ"
+      "gloss": "ha oñeʼẽ"
     },
     {
       "surface": "כל",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "השרים",
-      "gloss": "puraheihára kuimba'e"
+      "gloss": "puraheihára kuimbaʼe"
     },
     {
       "surface": "והשרות",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "בקינותיהם",
-      "gloss": "iky'ỹnguérape"
+      "gloss": "ikyʼỹnguérape"
     },
     {
       "surface": "על",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "ko'ág̃a"
+      "gloss": "koʼág̃a"
     },
     {
       "surface": "ויתנום",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "oĩva'ekue kuatiañe'ẽme"
+      "gloss": "oĩvaʼekue kuatiañeʼẽme"
     },
     {
       "surface": "על",
@@ -115,7 +115,7 @@
     },
     {
       "surface": "הקינות",
-      "gloss": "umi ky'ỹnguéra"
+      "gloss": "umi kyʼỹnguéra"
     }
   ],
   "timestamp": "2026-10-06T06:13:25.286490512Z",

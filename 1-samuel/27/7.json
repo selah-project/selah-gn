@@ -9,7 +9,7 @@
     {
       "kind": "crux",
       "subject": "ימים וארבעה חדשים",
-      "rationale": "Pe hebreo he'i 'ára ha irundy jasy'; KJV\/JPS omoĩ 'peteĩ ary ha irundy jasy' oñemoañetívo pe ára papapy."
+      "rationale": "Pe hebreo he'i 'ára ha irundy jasy'; KJV/JPS omoĩ 'peteĩ ary ha irundy jasy' oñemoañetívo pe ára papapy."
     },
     {
       "kind": "substitution",
@@ -23,11 +23,11 @@
       "rationale": "Ko versículo oha'ã ára ha jasy David oiko rire Pelishtikuéra apytépe."
     }
   ],
-  "translation": "Ha oiko pe papapy umi ára pegua David oiko va'ekue Pelishtikuéra yvýpe: ára ha irundy jasy.",
+  "translation": "Ha oiko pe papapy umi ára pegua David oiko vaʼekue Pelishtikuéra yvýpe: ára ha irundy jasy.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "a93e7eaf2428f19702fd9536d214e187211401961c7e8e19a34157672a224164",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/27\/7-7.1791266328938.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/1-samuel/27/7-7.1791266328938.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "oiko va'ekue"
+      "gloss": "oiko vaʼekue"
     },
     {
       "surface": "דוד",

@@ -14,19 +14,19 @@
     {
       "kind": "crux",
       "subject": "מזרע היהודים",
-      "rationale": "'of the seed of the Jews': BSB reads it as causal ('since Mordecai is Jewish'), KJV\/JPS keep the conditional 'if'"
+      "rationale": "'of the seed of the Jews': BSB reads it as causal ('since Mordecai is Jewish'), KJV/JPS keep the conditional 'if'"
     },
     {
       "kind": "wordplay",
-      "subject": "לנפל לפניו \/ נפול תפול לפניו",
+      "subject": "לנפל לפניו / נפול תפול לפניו",
       "rationale": "Threefold repetition of נפל לפניו frames the verse: begun to fall, will surely fall — falling 'before his face' kept literally as he-pe"
     }
   ],
-  "translation": "Ha Haman omombe'u Zeresh isambyhy ha opaite iñirũnguérape ⟨את⟩ opaite mba'e ojehova hese. Ha iñarandukuéra ha Zeresh isambyhy he'i chupe: Mardekai oĩramo Jihudiakuéra ra'y apytépe — pe nemombypyréma he-pe — ndereikatumo'ãi ichupe; ojearoirõta añetegua he-pe ne.",
+  "translation": "Ha Haman omombeʼu Zeresh isambyhy ha opaite iñirũnguérape ⟨את⟩ opaite mbaʼe ojehova hese. Ha iñarandukuéra ha Zeresh isambyhy heʼi chupe: Mardekai oĩramo Jihudiakuéra raʼy apytépe — pe nemombypyréma he-pe — ndereikatumoʼãi ichupe; ojearoirõta añetegua he-pe ne.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "d76a8e8cc8a07b0a4c254545b028ae824457ab4fdeb43c261c6f3bcb6840dcd9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/esther\/6\/13-13.1791266943103.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/esther/6/13-13.1791266943103.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויספר",
-      "gloss": "omombe'u"
+      "gloss": "omombeʼu"
     },
     {
       "surface": "המן",
@@ -60,7 +60,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "opaite mba'e ojehova hese"
+      "marks": "opaite mbaʼe ojehova hese"
     },
     {
       "surface": "כל",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "he'i"
+      "gloss": "heʼi"
     },
     {
       "surface": "לו",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "מזרע",
-      "gloss": "ra'y apytépe"
+      "gloss": "raʼy apytépe"
     },
     {
       "surface": "היהודים",
@@ -128,11 +128,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ndereikatumo'ãi"
+      "gloss": "ndereikatumoʼãi"
     },
     {
       "surface": "תוכל",
-      "gloss": "ndereikatumo'ãi"
+      "gloss": "ndereikatumoʼãi"
     },
     {
       "surface": "לו",

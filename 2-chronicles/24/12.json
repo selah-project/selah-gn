@@ -13,20 +13,20 @@
     },
     {
       "kind": "substitution",
-      "subject": "itaju kuaaráva \/ kuarepoti apoháva",
+      "subject": "itaju kuaaráva / kuarepoti apoháva",
       "rationale": "חצבים ha 'itaju kuaaráva' (hewers of stone), חרשים ha 'kuarepoti apoháva' (craftsmen of any material) — no role-word like 'mason'."
     },
     {
       "kind": "measurement",
-      "subject": "omer \/ efa \/ chekel",
+      "subject": "omer / efa / chekel",
       "rationale": "Versículo oñeʼẽ virúre (tembiaporã rehegua) ha umípe oñemeʼẽ hagua — no ko'ã ñemohenda ko'ápe; oñembojoaju tembiapo apóre."
     }
   ],
-  "translation": "Ha mburuvicha guasu ha Jehoiada ohoro ⟨את⟩ umípe ojapóva tembiapo Jahve óga mba'aporã, ha oñemboguapy hikuái itajukuaarahávai kuarepoti apohápe oñemoñepyrahápe Jahve óga; avei kuarepoti rogue jehai ha yvypóra apohápe, oñemoheñói hag̃ua ⟨את⟩ Jahve óga.",
+  "translation": "Ha mburuvicha guasu ha Jehoiada ohoro ⟨את⟩ umípe ojapóva tembiapo Jahve óga mbaʼaporã, ha oñemboguapy hikuái itajukuaarahávai kuarepoti apohápe oñemoñepyrahápe Jahve óga; avei kuarepoti rogue jehai ha yvypóra apohápe, oñemoheñói hag̃ua ⟨את⟩ Jahve óga.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "295d961e0bcb2c53352c7c1caa9d58db46ba1ea80d4ce88fabbfe5041a3d831c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/24\/12-12.1791267176116.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-chronicles/24/12-12.1791267176116.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "עבודת",
-      "gloss": "mba'aporã"
+      "gloss": "mbaʼaporã"
     },
     {
       "surface": "בית",

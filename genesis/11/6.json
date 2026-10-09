@@ -14,7 +14,7 @@
     {
       "kind": "crux",
       "subject": "noñembotykýimo'ãi",
-      "rationale": "יבצר: 'oñembotykýta chuguikuéra' (ASV\/JPS) térã 'noipukui mo'ãi' (BSB), he'iséva ndaipóri ojokoítava"
+      "rationale": "יבצר: 'oñembotykýta chuguikuéra' (ASV/JPS) térã 'noipukui mo'ãi' (BSB), he'iséva ndaipóri ojokoítava"
     },
     {
       "kind": "mystery",
@@ -22,11 +22,11 @@
       "rationale": "Jahve ñe'ẽ ohechauka mba'e oñemíva ojapótava — he'ise'ỹ mba'épa hikuái ojapóta"
     }
   ],
-  "translation": "Ha Jahve he'i: Eñandu, peteĩ aty ñemoñare ha peteĩ ñe'ẽ oimépe g̃uarã, ha ko'ãva oñepyrũ hikuái ojapo; ha ko'ág̃a, mba'eve noñembotykýimo'ãi chuguikuéra, oimeraẽ ojaposéva hikuái.",
+  "translation": "Ha Jahve heʼi: Eñandu, peteĩ aty ñemoñare ha peteĩ ñeʼẽ oimépe g̃uarã, ha koʼãva oñepyrũ hikuái ojapo; ha koʼág̃a, mbaʼeve noñembotykýimoʼãi chuguikuéra, oimeraẽ ojaposéva hikuái.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "63d8ed5c80832176dea1eb32778e96e64e6983a54fb882b70d5c2f8db7a2f466",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/11\/6-6.1791265926847.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/genesis/11/6-6.1791265926847.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ha he'i"
+      "gloss": "ha heʼi"
     },
     {
       "surface": "יהוה",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ושפה",
-      "gloss": "ha peteĩ ñe'ẽ"
+      "gloss": "ha peteĩ ñeʼẽ"
     },
     {
       "surface": "אחת",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "ha ko'ãva"
+      "gloss": "ha koʼãva"
     },
     {
       "surface": "החלם",
@@ -79,15 +79,15 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "ha ko'ág̃a"
+      "gloss": "ha koʼág̃a"
     },
     {
       "surface": "לא",
-      "gloss": "no...mo'ãi"
+      "gloss": "no...moʼãi"
     },
     {
       "surface": "יבצר",
-      "gloss": "noñembotykýimo'ãi"
+      "gloss": "noñembotykýimoʼãi"
     },
     {
       "surface": "מהם",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "mba'eve"
+      "gloss": "mbaʼeve"
     },
     {
       "surface": "אשר",

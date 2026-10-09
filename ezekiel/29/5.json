@@ -14,19 +14,19 @@
     {
       "kind": "substitution",
       "subject": "לאכלה",
-      "rationale": "Hebrew 'food\/eating' noun rendered as purpose phrase karu'ãrã ('to be eaten')."
+      "rationale": "Hebrew 'food/eating' noun rendered as purpose phrase karu'ãrã ('to be eaten')."
     },
     {
       "kind": "substitution",
       "subject": "המדברה",
-      "rationale": "Hebrew 'wilderness\/desert' noun rendered as locative ka'irũme ('in the wilderness')."
+      "rationale": "Hebrew 'wilderness/desert' noun rendered as locative ka'irũme ('in the wilderness')."
     }
   ],
-  "translation": "Ha amboyke nde ka'irũme, ⟨את⟩ ⟨nde⟩ ha ⟨את⟩ opaite mbiriguini je'apegua: yvyra'ỹre ári eguera'ãta, ndojepysoitéi nde, ndojuejúi nde; mymba juehegua yvypegua ha guyra yvágape g̃uarã ame'ẽ nde karu'ãrã.",
+  "translation": "Ha amboyke nde kaʼirũme, ⟨את⟩ ⟨nde⟩ ha ⟨את⟩ opaite mbiriguini jeʼapegua: yvyraʼỹre ári egueraʼãta, ndojepysoitéi nde, ndojuejúi nde; mymba juehegua yvypegua ha guyra yvágape g̃uarã ameʼẽ nde karuʼãrã.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "a55ee52c1b688ae284a1cb2521fda2c91479ed5877e21480d16b4ff3e4a695f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/29\/5-5.1791266636208.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/ezekiel/29/5-5.1791266636208.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "המדברה",
-      "gloss": "ka'irũme"
+      "gloss": "kaʼirũme"
     },
     {
       "surface": "אותך",
@@ -48,7 +48,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "opaite mbiriguini je'apegua"
+      "marks": "opaite mbiriguini jeʼapegua"
     },
     {
       "surface": "כל",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "יאריך",
-      "gloss": "je'apegua"
+      "gloss": "jeʼapegua"
     },
     {
       "surface": "על",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "השדה",
-      "gloss": "yvyra'ỹre"
+      "gloss": "yvyraʼỹre"
     },
     {
       "surface": "תפול",
-      "gloss": "eguera'ãta"
+      "gloss": "egueraʼãta"
     },
     {
       "surface": "לא",
@@ -112,11 +112,11 @@
     },
     {
       "surface": "נתתיך",
-      "gloss": "ame'ẽ nde"
+      "gloss": "ameʼẽ nde"
     },
     {
       "surface": "לאכלה",
-      "gloss": "karu'ãrã"
+      "gloss": "karuʼãrã"
     }
   ],
   "timestamp": "2026-10-06T06:03:56.208806464Z",

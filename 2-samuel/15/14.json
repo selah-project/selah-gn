@@ -8,7 +8,7 @@
   "notes": [
     {
       "kind": "wordplay",
-      "subject": "מהרו\/ימהר",
+      "subject": "מהרו/ימהר",
       "rationale": "Same root twice: 'hurry... lest he hurry' — David's urgency mirrors Avchalom's, lost in versions that render the second verb 'overtake'."
     },
     {
@@ -27,11 +27,11 @@
       "rationale": "Verbless final clause: 'he strike the city with the mouth of the sword' — avañeʼẽ requires a transitive verb, supplied by ojukapa."
     }
   ],
-  "translation": "David ohe'i opaite umi omba'eapóva ⟨את⟩ hendive Jerusalaim-pe: Peñembyasy, jañemondo, ndaipóri tavague ñandéve g̃uarã Avchalom renondépe; epya'a ho'ono, nerũ va'erãi ohupyty ñanderehe, omonguera ñanderehe ⟨את⟩ mba'e vai ha ojukapa táva herbí pay.",
+  "translation": "David oheʼi opaite umi ombaʼeapóva ⟨את⟩ hendive Jerusalaim-pe: Peñembyasy, jañemondo, ndaipóri tavague ñandéve g̃uarã Avchalom renondépe; epyaʼa hoʼono, nerũ vaʼerãi ohupyty ñanderehe, omonguera ñanderehe ⟨את⟩ mbaʼe vai ha ojukapa táva herbí pay.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "a9f2697d52d1d893475aba0db288ed92b3fe0df5aced34881a21e0f7d5cc94aa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/15\/14-14.1791266385827.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-samuel/15/14-14.1791266385827.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,7 +40,7 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ohe'i"
+      "gloss": "oheʼi"
     },
     {
       "surface": "דוד",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "omba'eapóvakuéra"
+      "gloss": "ombaʼeapóvakuéra"
     },
     {
       "surface": "אשר",
@@ -104,11 +104,11 @@
     },
     {
       "surface": "מהרו",
-      "gloss": "epya'a"
+      "gloss": "epyaʼa"
     },
     {
       "surface": "ללכת",
-      "gloss": "ho'ono"
+      "gloss": "hoʼono"
     },
     {
       "surface": "פן",
@@ -133,11 +133,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mba'e vai"
+      "marks": "mbaʼe vai"
     },
     {
       "surface": "הרעה",
-      "gloss": "mba'e vai"
+      "gloss": "mbaʼe vai"
     },
     {
       "surface": "והכה",

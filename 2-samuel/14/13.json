@@ -9,7 +9,7 @@
     {
       "kind": "crux",
       "subject": "כאשם",
-      "rationale": "'as-one-guilty' (KJV\/ASV) vs 'faulty in that' vs 'as an offender'; the king speaks as though culpable"
+      "rationale": "'as-one-guilty' (KJV/ASV) vs 'faulty in that' vs 'as an offender'; the king speaks as though culpable"
     },
     {
       "kind": "you",
@@ -22,11 +22,11 @@
       "rationale": "comparative particle supplied to render the kaph-prefix of כאשם"
     }
   ],
-  "translation": "Kuñakára he'i: mba'érépa remoñe'ẽ ko'ãicha Elohim tavaygua rehe? Ha pe mburuvicha oñe'ẽ ko ñe'ẽ oiméva ojavyha ramo guáicha, ani hag̃ua ogueru jey pe mburuvicha ⟨את⟩ pe oñemondóva.",
+  "translation": "Kuñakára heʼi: mbaʼérépa remoñeʼẽ koʼãicha Elohim tavaygua rehe? Ha pe mburuvicha oñeʼẽ ko ñeʼẽ oiméva ojavyha ramo guáicha, ani hag̃ua ogueru jey pe mburuvicha ⟨את⟩ pe oñemondóva.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "ca75c34d635f568b52bd5535f34eb5bcd52b1290d707f05817a157b9d75b7f07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/14\/13-14.1791266378749.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-samuel/14/13-14.1791266378749.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "he'i"
+      "gloss": "heʼi"
     },
     {
       "surface": "האשה",
@@ -43,15 +43,15 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "mba'érépa"
+      "gloss": "mbaʼérépa"
     },
     {
       "surface": "חשבתה",
-      "gloss": "remoñe'ẽ"
+      "gloss": "remoñeʼẽ"
     },
     {
       "surface": "כזאת",
-      "gloss": "ko'ãicha"
+      "gloss": "koʼãicha"
     },
     {
       "surface": "על",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ומדבר",
-      "gloss": "ha oñe'ẽ"
+      "gloss": "ha oñeʼẽ"
     },
     {
       "surface": "המלך",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "ñe'ẽ"
+      "gloss": "ñeʼẽ"
     },
     {
       "surface": "הזה",

@@ -9,17 +9,17 @@
     {
       "kind": "substitution",
       "subject": "ojapo kane'õ'ỹre",
-      "rationale": "ויבן 'understanding\/discerning' rendered as 'dealt wisely'; KJV 'dealt wisely', YLT 'hath understanding'."
+      "rationale": "ויבן 'understanding/discerning' rendered as 'dealt wisely'; KJV 'dealt wisely', YLT 'hath understanding'."
     },
     {
       "kind": "substitution",
       "subject": "mbaretéva",
-      "rationale": "המצרות is 'bulwarks\/siege-works' (BDB 4694); rendered as 'fortified' like KJV 'fenced'."
+      "rationale": "המצרות is 'bulwarks/siege-works' (BDB 4694); rendered as 'fortified' like KJV 'fenced'."
     },
     {
       "kind": "crux",
       "subject": "ojerure hetaiterei kuña",
-      "rationale": "וישאל המון נשים: 'he sought many wives' (for himself, Geneva\/KJV) vs 'for them' (ASV\/JPS\/BSB add 'for them'); Hebrew has no explicit object."
+      "rationale": "וישאל המון נשים: 'he sought many wives' (for himself, Geneva/KJV) vs 'for them' (ASV/JPS/BSB add 'for them'); Hebrew has no explicit object."
     },
     {
       "kind": "addition",
@@ -27,11 +27,11 @@
       "rationale": "Avañeʼẽ plural particle added; Hebrew plural endings carry the number."
     }
   ],
-  "translation": "Ha ojapo kane'õ'ỹre ha ohesa'ỹijo ⟨את⟩ opaite ita'ýra kuéra, ohupytývo opaite Yehuda ha Binjamin yvy kuérape, opaite táva mbaretévape, ha ome'ẽ chupekuéra hembiguasu opaichagua; ha ojerure hetaiterei kuña.",
+  "translation": "Ha ojapo kaneʼõʼỹre ha ohesaʼỹijo ⟨את⟩ opaite itaʼýra kuéra, ohupytývo opaite Yehuda ha Binjamin yvy kuérape, opaite táva mbaretévape, ha omeʼẽ chupekuéra hembiguasu opaichagua; ha ojerure hetaiterei kuña.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "cf8026441831445501648def17bcfa48ac8c74ed66bc7d38ae9f72c571d28e13",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/11\/23-23.1791267108889.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-chronicles/11/23-23.1791267108889.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,11 +40,11 @@
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "ojapo kane'õ'ỹre"
+      "gloss": "ojapo kaneʼõʼỹre"
     },
     {
       "surface": "ויפרץ",
-      "gloss": "ohesa'ỹijo"
+      "gloss": "ohesaʼỹijo"
     },
     {
       "surface": "מכל",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "בניו",
-      "gloss": "ita'ýra kuéra"
+      "gloss": "itaʼýra kuéra"
     },
     {
       "surface": "לכל",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ome'ẽ"
+      "gloss": "omeʼẽ"
     },
     {
       "surface": "להם",

@@ -23,15 +23,15 @@
     },
     {
       "kind": "wordplay",
-      "subject": "בקע \/ נד",
+      "subject": "בקע / נד",
       "rationale": "clue-verb ha mound-noun: y ojuehe oipe'a ha ojepyso — verb picture"
     }
   ],
-  "translation": "Oipe'a joaju yvype pe yguasu ha ohasa jeýcha chupekuéra; ha opytu'u are opyte y pe tesapemichĩva: chupekuéra ohasa jeýcha y vore vorýpe, y ojepyso ojuehe ndaipóri hikuái pe y para apyte — upéicha ojapo chupekuéra pe y oikuaaveʼỹva hikuái ohasa haguãicha, y ojejoko ha oñemonguʼi peteĩ yvykuʼi guasu raʼangáicha. Pe tesapemichĩva: Jahve oipe'a joaju ⟨pe⟩ yguasu ha ohasa ⟨hikuái⟩ Israel-pe; ha ojepyso ⟨pe⟩ y oiko haguã peteĩ yvytuʼã raʼangáicha.",
+  "translation": "Oipeʼa joaju yvype pe yguasu ha ohasa jeýcha chupekuéra; ha opytuʼu are opyte y pe tesapemichĩva: chupekuéra ohasa jeýcha y vore vorýpe, y ojepyso ojuehe ndaipóri hikuái pe y para apyte — upéicha ojapo chupekuéra pe y oikuaaveʼỹva hikuái ohasa haguãicha, y ojejoko ha oñemonguʼi peteĩ yvykuʼi guasu raʼangáicha. Pe tesapemichĩva: Jahve oipeʼa joaju ⟨pe⟩ yguasu ha ohasa ⟨hikuái⟩ Israel-pe; ha ojepyso ⟨pe⟩ y oiko haguã peteĩ yvytuʼã raʼangáicha.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "d56a2a08f313a0631b08ec60f394015752fe43969daf578105a3f90111d1a712",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/78\/13-13.1791266747781.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/psalms/78/13-13.1791266747781.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,7 +40,7 @@
   "tokens": [
     {
       "surface": "בקע",
-      "gloss": "oipe'a joaju yvype"
+      "gloss": "oipeʼa joaju yvype"
     },
     {
       "surface": "ים",

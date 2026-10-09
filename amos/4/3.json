@@ -14,7 +14,7 @@
     {
       "kind": "crux",
       "subject": "kuñataĩ",
-      "rationale": "אשה: 'kuñataĩ' añetegua (KJV ohecha 'vaka') térã 'peteĩteĩ' (JPS\/ASV: yvypóra kuñataĩ ra'anga'ỹre)"
+      "rationale": "אשה: 'kuñataĩ' añetegua (KJV ohecha 'vaka') térã 'peteĩteĩ' (JPS/ASV: yvypóra kuñataĩ ra'anga'ỹre)"
     },
     {
       "kind": "alternative",
@@ -22,11 +22,11 @@
       "rationale": "ופרצים 'rokẽ ky'a' ikatu avei 'mbaʼe ky'a riregue' — umi ojeheja va'erãava"
     }
   ],
-  "translation": "Ha rokẽ ky'a rupive oñemosẽta, kuñataĩ peteĩteĩ iméva hiʼáriva, ha oñemoĩta Haremona-pe, heʼi Jahve.",
+  "translation": "Ha rokẽ kyʼa rupive oñemosẽta, kuñataĩ peteĩteĩ iméva hiʼáriva, ha oñemoĩta Haremona-pe, heʼi Jahve.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "7d21175ee55053c421bb989a29d0a17b88ef8bf72c6aa625b4c8cd2521b798a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/amos\/4\/3-3.1791266700942.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/amos/4/3-3.1791266700942.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ופרצים",
-      "gloss": "rokẽ ky'a rupive"
+      "gloss": "rokẽ kyʼa rupive"
     },
     {
       "surface": "תצאנה",

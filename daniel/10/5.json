@@ -22,11 +22,11 @@
       "gloss": "hebreo mba'e'u ñembohasáramo guarã ('ha'ehe'), ndaipóri avañe'ẽ ñe'ẽ ojueheguáva."
     }
   ],
-  "translation": "Che rajy'a ha'amíme cherecha, ha'ehe ha kuaa: chehecha peteĩ kuimba'e ojuehe'apyre linso a'o reheve, ha iñakãnguéra henyhẽ haguã ojuehe'apyre ita kóva Ofaz-gua.",
+  "translation": "Che rajyʼa haʼamíme cherecha, haʼehe ha kuaa: chehecha peteĩ kuimbaʼe ojueheʼapyre linso aʼo reheve, ha iñakãnguéra henyhẽ haguã ojueheʼapyre ita kóva Ofaz-gua.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "49c1878e408b5814472b1fc2c584f59130cbb831493103075a580a57d7ad41de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/daniel\/10\/5-5.1791266992197.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/daniel/10/5-5.1791266992197.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,16 +35,16 @@
   "tokens": [
     {
       "surface": "וָאֶשָּׂא",
-      "gloss": "che rajy'a ha'amíme"
+      "gloss": "che rajyʼa haʼamíme"
     },
     {
       "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "che rajy'a"
+      "marks": "che rajyʼa"
     },
     {
       "surface": "עֵינַי",
-      "gloss": "che rajy'a"
+      "gloss": "che rajyʼa"
     },
     {
       "surface": "וָאֵרֶא",
@@ -52,11 +52,11 @@
     },
     {
       "surface": "וְהִנֵּה",
-      "gloss": "ha'ehe"
+      "gloss": "haʼehe"
     },
     {
       "surface": "אִישׁ",
-      "gloss": "peteĩ kuimba'e"
+      "gloss": "peteĩ kuimbaʼe"
     },
     {
       "surface": "אֶחָד",
@@ -64,11 +64,11 @@
     },
     {
       "surface": "לָבוּשׁ",
-      "gloss": "ojuehe'apyre"
+      "gloss": "ojueheʼapyre"
     },
     {
       "surface": "בַּדִּים",
-      "gloss": "linso a'o"
+      "gloss": "linso aʼo"
     },
     {
       "surface": "וּמָתְנָיו",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "חֲגֻרִים",
-      "gloss": "henyhẽ haguã ojuehe'apyre"
+      "gloss": "henyhẽ haguã ojueheʼapyre"
     },
     {
       "surface": "בְּכֶתֶם",

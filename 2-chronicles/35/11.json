@@ -9,7 +9,7 @@
     {
       "kind": "crux",
       "subject": "מידם",
-      "rationale": "'from their hand' (KJV) vs 'which they received of their hand' (ASV\/JPS): whether the priests sprinkle from their own hands or receive from the Levites' hands."
+      "rationale": "'from their hand' (KJV) vs 'which they received of their hand' (ASV/JPS): whether the priests sprinkle from their own hands or receive from the Levites' hands."
     },
     {
       "kind": "substitution",
@@ -17,11 +17,11 @@
       "rationale": "הפסח is the Passover lamb kept in Hebrew form; 'Pésaj' preserved rather than a descriptive phrase."
     }
   ],
-  "translation": "Ha ojukapa pe Pésaj, ha umi pa'i ombosa'yaku po ruguive, ha umi Levi ñemoñare oñemongu'i hikuái.",
+  "translation": "Ha ojukapa pe Pésaj, ha umi paʼi ombosaʼyaku po ruguive, ha umi Levi ñemoñare oñemonguʼi hikuái.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "83133e786cac1aa624bad23d493f6c8616e012e5b346f459d4a632539a32700f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/35\/11-12.1791267196902.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-chronicles/35/11-12.1791267196902.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ויזרקו",
-      "gloss": "ombosa'yaku"
+      "gloss": "ombosaʼyaku"
     },
     {
       "surface": "הכהנים",
-      "gloss": "umi pa'i"
+      "gloss": "umi paʼi"
     },
     {
       "surface": "מידם",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מפשיטים",
-      "gloss": "oñemongu'i hikuái"
+      "gloss": "oñemonguʼi hikuái"
     }
   ],
   "timestamp": "2026-10-06T06:13:16.902964120Z",

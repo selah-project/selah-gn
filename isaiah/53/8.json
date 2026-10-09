@@ -14,12 +14,12 @@
     {
       "kind": "crux",
       "subject": "ichupe (למו)",
-      "rationale": "למו ikatu 'ichupe' (pe povõ ojehu chupe) térã 'chupépe guarã' (pe povõ oikova'erã chupe, KJV\/ASVicha)."
+      "rationale": "למו ikatu 'ichupe' (pe povõ ojehu chupe) térã 'chupépe guarã' (pe povõ oikova'erã chupe, KJV/ASVicha)."
     },
     {
       "kind": "alternative",
       "subject": "jokópe (מעצר)",
-      "rationale": "מעצר ikatu 'joko' (tembiguái rendágui ojeheja, LXX) térã 'jepy'apy' (YSK\/ASV: 'mba'epochýpe')."
+      "rationale": "מעצר ikatu 'joko' (tembiguái rendágui ojeheja, LXX) térã 'jepy'apy' (YSK/ASV: 'mba'epochýpe')."
     },
     {
       "kind": "mystery",
@@ -27,11 +27,11 @@
       "rationale": "Porandu ijukyháva: ninguém ikatu oñe'ẽ iñemoñare rehe — pe versículo ohero opaite porandu'ỹme."
     }
   ],
-  "translation": "Jokópe ha tekojoja guí oñemongu'i, ha ⟨את⟩ iñemoñare — mávapa oñe'ẽta hese? Upévare ojeipe'a yvy oporomanu'ãvagui; che retã jekoñaígui povõ ichupe.",
+  "translation": "Jokópe ha tekojoja guí oñemonguʼi, ha ⟨את⟩ iñemoñare — mávapa oñeʼẽta hese? Upévare ojeipeʼa yvy oporomanuʼãvagui; che retã jekoñaígui povõ ichupe.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "ce0c91c857c2e47b1e23660b349b87e49ebc5d4d7cdf3e0dd57d341be31385bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/53\/8-8.1791266590184.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/isaiah/53/8-8.1791266590184.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "oñemongu'i"
+      "gloss": "oñemonguʼi"
     },
     {
       "surface": "ואת",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ישוחח",
-      "gloss": "oñe'ẽta hese"
+      "gloss": "oñeʼẽta hese"
     },
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "נגזר",
-      "gloss": "ojeipe'a"
+      "gloss": "ojeipeʼa"
     },
     {
       "surface": "מארץ",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "חיים",
-      "gloss": "oporomanu'ãva"
+      "gloss": "oporomanuʼãva"
     },
     {
       "surface": "מפשע",

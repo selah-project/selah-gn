@@ -14,12 +14,12 @@
     {
       "kind": "substitution",
       "subject": "mba'eryru",
-      "rationale": "ארון is 'box\/chest'; avañe'ẽ has no single word for covenant-ark, so plain 'container' keeps the shape."
+      "rationale": "ארון is 'box/chest'; avañe'ẽ has no single word for covenant-ark, so plain 'container' keeps the shape."
     },
     {
       "kind": "substitution",
       "subject": "ñemosãso",
-      "rationale": "תשועה is 'rescue\/deliverance'; 'salvación' castellano ñe'ẽ nahániri ojeporu."
+      "rationale": "תשועה is 'rescue/deliverance'; 'salvación' castellano ñe'ẽ nahániri ojeporu."
     },
     {
       "kind": "invitation",
@@ -27,11 +27,11 @@
       "rationale": "Solomon's prayer directly addresses Jahve Elohim with imperative 'eñembojáke' (arise)."
     }
   ],
-  "translation": "Ko'ág̃a katu, Jahve Elohim, eñembojáke nde pytu'ópe, nde ha nde ipu'akapáva mba'eryru; nde pa'ikuéra, Jahve Elohim, oñemboroko ñemosãso rehe, ha nde hasidikuéra ovy'apaite iporãvape.",
+  "translation": "Koʼág̃a katu, Jahve Elohim, eñembojáke nde pytuʼópe, nde ha nde ipuʼakapáva mbaʼeryru; nde paʼikuéra, Jahve Elohim, oñemboroko ñemosãso rehe, ha nde hasidikuéra ovyʼapaite iporãvape.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "89a293d01abd940db7c58cf9b9c8db40c865afaa5d43a1fe9c5c8d4ca44ac748",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/6\/41-41.1791267112480.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-chronicles/6/41-41.1791267112480.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,7 +40,7 @@
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "ko'ág̃a katu"
+      "gloss": "koʼág̃a katu"
     },
     {
       "surface": "קומה",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "לנוחך",
-      "gloss": "nde pytu'ópe"
+      "gloss": "nde pytuʼópe"
     },
     {
       "surface": "אתה",
@@ -64,15 +64,15 @@
     },
     {
       "surface": "וארון",
-      "gloss": "ha ⟨nde⟩ mba'eryru"
+      "gloss": "ha ⟨nde⟩ mbaʼeryru"
     },
     {
       "surface": "עזך",
-      "gloss": "nde ipu'akapáva"
+      "gloss": "nde ipuʼakapáva"
     },
     {
       "surface": "כהניך",
-      "gloss": "nde pa'ikuéra"
+      "gloss": "nde paʼikuéra"
     },
     {
       "surface": "יהוה",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "ישמחו",
-      "gloss": "ovy'apaite"
+      "gloss": "ovyʼapaite"
     },
     {
       "surface": "בטוב",

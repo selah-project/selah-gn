@@ -9,19 +9,19 @@
     {
       "kind": "addition",
       "subject": "ha",
-      "rationale": "Avañeʼẽ requires demonstrative\/article-like particles absent in Hebrew"
+      "rationale": "Avañeʼẽ requires demonstrative/article-like particles absent in Hebrew"
     },
     {
       "kind": "substitution",
-      "subject": "ha'ãngóva \/ hecháva",
-      "rationale": "Hebrew active participles 'hearing\/seeing' rendered as relative constructions 'the-one-who-hears \/ the-one-who-sees'"
+      "subject": "ha'ãngóva / hecháva",
+      "rationale": "Hebrew active participles 'hearing/seeing' rendered as relative constructions 'the-one-who-hears / the-one-who-sees'"
     }
   ],
-  "translation": "Tendy'uha ha'ãngóva ha hesa hecháva, Jahve ojapo umía mokõive.",
+  "translation": "Tendyʼuha haʼãngóva ha hesa hecháva, Jahve ojapo umía mokõive.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "dd9f68c5e68d0bb47d78e9c59444d44fb6643d51fcfe693f8c94802c06270dc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/proverbs\/20\/12-12.1791266840357.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/proverbs/20/12-12.1791266840357.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,11 +30,11 @@
   "tokens": [
     {
       "surface": "אזן",
-      "gloss": "tendy'u"
+      "gloss": "tendyʼu"
     },
     {
       "surface": "שמעת",
-      "gloss": "ha'ãngóva"
+      "gloss": "haʼãngóva"
     },
     {
       "surface": "ועין",

@@ -22,11 +22,11 @@
       "rationale": "Moche ñe'ẽ ojapo Jisrael retã rehe, Deuteronomio 5 apytépe."
     }
   ],
-  "translation": "Pe tape oha'ãhápe Jahve Elohim peẽnguéra oñeñohẽ ⟨את⟩ peẽmba'e, upéicha peẽ ehohátante; ekyma, ekane'õ'ỹre, ha iporã hag̃ua peẽme g̃uarã, ha peẽrekuaa hag̃ua are yvy peẽrekokuaáva rehe, heta ára peẽ ehayhuháicha.",
+  "translation": "Pe tape ohaʼãhápe Jahve Elohim peẽnguéra oñeñohẽ ⟨את⟩ peẽmbaʼe, upéicha peẽ ehohátante; ekyma, ekaneʼõʼỹre, ha iporã hag̃ua peẽme g̃uarã, ha peẽrekuaa hag̃ua are yvy peẽrekokuaáva rehe, heta ára peẽ ehayhuháicha.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "34f0c670934a57f4504d6821e7ea6cd01cf0be12d13089e1068b9f3a44fc6cdf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/deuteronomy\/5\/33-33.1791266174319.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/deuteronomy/5/33-33.1791266174319.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "בכל",
-      "gloss": "oha'ãhápe"
+      "gloss": "ohaʼãhápe"
     },
     {
       "surface": "הדרך",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mba'e"
+      "gloss": "mbaʼe"
     },
     {
       "surface": "צוה",
@@ -60,7 +60,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "peẽmba'e"
+      "marks": "peẽmbaʼe"
     },
     {
       "surface": "תלכו",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "תחיון",
-      "gloss": "ekane'õ'ỹre"
+      "gloss": "ekaneʼõʼỹre"
     },
     {
       "surface": "וטוב",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mba'e"
+      "gloss": "mbaʼe"
     },
     {
       "surface": "תירשון",

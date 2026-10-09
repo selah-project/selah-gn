@@ -14,7 +14,7 @@
     {
       "kind": "substitution",
       "subject": "ombokatupyry",
-      "rationale": "וישמע 'he made hear\/summoned' rendered as 'summoned\/gathered'; literal is 'caused to hear'."
+      "rationale": "וישמע 'he made hear/summoned' rendered as 'summoned/gathered'; literal is 'caused to hear'."
     },
     {
       "kind": "crux",
@@ -22,11 +22,11 @@
       "rationale": "בטלאים read as place-name Telaim; some read 'as lambs' (טלאים), but place-name is standard."
     }
   ],
-  "translation": "Ha upéi Chaul ombokatupyry ⟨את⟩ tavayguakuéra, ha omohenda chupekuéra Telaim-pe, mokõisá su tavachachi kavara ha pa su ⟨את⟩ kuimba'e Jihuda-gua.",
+  "translation": "Ha upéi Chaul ombokatupyry ⟨את⟩ tavayguakuéra, ha omohenda chupekuéra Telaim-pe, mokõisá su tavachachi kavara ha pa su ⟨את⟩ kuimbaʼe Jihuda-gua.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "ffed6d8f13a92566cec70cb6bc2724ce077825396d20444064cf574ff575ac1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/15\/4-5.1791266362094.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/1-samuel/15/4-5.1791266362094.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -81,11 +81,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuimba'e Jihuda-gua"
+      "marks": "kuimbaʼe Jihuda-gua"
     },
     {
       "surface": "איש",
-      "gloss": "kuimba'e"
+      "gloss": "kuimbaʼe"
     },
     {
       "surface": "יהודה",

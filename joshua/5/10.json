@@ -13,15 +13,15 @@
     },
     {
       "kind": "wordplay",
-      "subject": "בערב \/ בערבות",
+      "subject": "בערב / בערבות",
       "rationale": "Doble sentido: 'en el atardecer' y 'en las llanuras' comparten la misma raíz audible en hebreo"
     }
   ],
-  "translation": "Ha umímbo ko'ẽngue ijavy'a hína umi Jisrael raʼypykuéra Guilgal-pe, ha ojapu ⟨את⟩ Pésaj jehaipy arakae pa四 pa pokõi ára jave ko'ẽngue-pe, Jeriko renda yvyguy naimboriahúivape.",
+  "translation": "Ha umímbo koʼẽngue ijavyʼa hína umi Jisrael raʼypykuéra Guilgal-pe, ha ojapu ⟨את⟩ Pésaj jehaipy arakae pa四 pa pokõi ára jave koʼẽngue-pe, Jeriko renda yvyguy naimboriahúivape.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "d9d7ba9334f2317870ed48fc523647682208885bb38b5e88d6138761a9de52d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/joshua\/5\/10-10.1791266259036.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/joshua/5/10-10.1791266259036.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויחנו",
-      "gloss": "Ha umímbo ko'ẽngue ijavy'a hína"
+      "gloss": "Ha umímbo koʼẽngue ijavyʼa hína"
     },
     {
       "surface": "בני",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "ko'ẽngue-pe"
+      "gloss": "koʼẽngue-pe"
     },
     {
       "surface": "בערבות",

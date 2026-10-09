@@ -17,11 +17,11 @@
       "rationale": "מאות is plural 'hundreds' but functions as a fixed multiplicative after the number; rendered singular."
     }
   ],
-  "translation": "Ko'ãva umi mitã'ỹra Aser-pegua ñemoñare rehegua, oñemoĩ hag̃ua hikuái: mbohapy ha paporundy su aravo poha ±pa ary'ỹ. Mbohapy ha paporundy su ha evo poha pa(pahape),",
+  "translation": "Koʼãva umi mitãʼỹra Aser-pegua ñemoñare rehegua, oñemoĩ hag̃ua hikuái: mbohapy ha paporundy su aravo poha ±pa aryʼỹ. Mbohapy ha paporundy su ha evo poha pa(pahape),",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "12ed80651f27314b212f2d079da892f39303d375eca956ddabacef5dc6fa348a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/numbers\/26\/47-48.1791266190098.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/numbers/26/47-48.1791266190098.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ko'ãva"
+      "gloss": "koʼãva"
     },
     {
       "surface": "משפחת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "mitã'ỹra"
+      "gloss": "mitãʼỹra"
     },
     {
       "surface": "אשר",

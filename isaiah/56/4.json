@@ -22,11 +22,11 @@
       "rationale": "Hebrew construct בבריתי is bound directly; Guarani needs the postposition 'rehe' (upon)"
     }
   ],
-  "translation": "Upéicha he'i Jahve umi sarisimakuéra pe, umi oñangarekóva ⟨את⟩ che Chabatkuéra rehe, oiporavóva che rekoayhu va'ekue, ha ojupysyryóva che ñeʼẽmeʼẽ rehe.",
+  "translation": "Upéicha heʼi Jahve umi sarisimakuéra pe, umi oñangarekóva ⟨את⟩ che Chabatkuéra rehe, oiporavóva che rekoayhu vaʼekue, ha ojupysyryóva che ñeʼẽmeʼẽ rehe.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "be1be53fd61f47725c0cb08c00ea3a313d7ecf0f9da32b6e2ddaac1b5cd0d04d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/56\/4-4.1791266544210.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/isaiah/56/4-4.1791266544210.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "he'i"
+      "gloss": "heʼi"
     },
     {
       "surface": "יהוה",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "באשר",
-      "gloss": "va'ekue"
+      "gloss": "vaʼekue"
     },
     {
       "surface": "חפצתי",

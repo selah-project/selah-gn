@@ -9,19 +9,19 @@
     {
       "kind": "substitution",
       "subject": "yvýpe",
-      "rationale": "בנחל is 'in the wadi\/valley (winter stream)'; rendered as 'in the valley'."
+      "rationale": "בנחל is 'in the wadi/valley (winter stream)'; rendered as 'in the valley'."
     },
     {
       "kind": "crux",
       "subject": "וירב",
-      "rationale": "'laid wait\/ambushed' vs LXX-influenced 'set watch'; Hebrew root suggests grappling or wrangling, idiom of ambush."
+      "rationale": "'laid wait/ambushed' vs LXX-influenced 'set watch'; Hebrew root suggests grappling or wrangling, idiom of ambush."
     }
   ],
-  "translation": "Ha Chaul ou Amalek táva peve, ha oñemonga'u yvýpe.",
+  "translation": "Ha Chaul ou Amalek táva peve, ha oñemongaʼu yvýpe.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "ffed6d8f13a92566cec70cb6bc2724ce077825396d20444064cf574ff575ac1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-samuel\/15\/4-5.1791266362094.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/1-samuel/15/4-5.1791266362094.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "וירב",
-      "gloss": "oñemonga'u"
+      "gloss": "oñemongaʼu"
     },
     {
       "surface": "בנחל",

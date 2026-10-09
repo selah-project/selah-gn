@@ -9,7 +9,7 @@
     {
       "kind": "addition",
       "subject": "hákatu",
-      "rationale": "Copula\/adversative supplied for the contrastive clause, absent in Hebrew"
+      "rationale": "Copula/adversative supplied for the contrastive clause, absent in Hebrew"
     },
     {
       "kind": "measurement",
@@ -23,15 +23,15 @@
     },
     {
       "kind": "wordplay",
-      "subject": "תמהרו \/ מהרו",
+      "subject": "תמהרו / מהרו",
       "rationale": "Root מהר repeated — 'hasten ye' vs 'they hastened not' — irony kept by repetition"
     }
   ],
-  "translation": "Ha oñembyaty ⟨את⟩ pa'ikuéra ha ⟨את⟩ levíkuéra, ha he'i chupekuéra: Ese peẽ Juhuda távakuéra-pe, ha eñembyaty Jisrael-gui opaite kuimba'e pegua kesef, omoĩ mbarete hag̃ua ⟨את⟩ peẽ Elohim óga, araguive aragua, ha peẽ emomba'eguasu ko mba'e; hákatu levíkuéra ndojepojairamo.",
+  "translation": "Ha oñembyaty ⟨את⟩ paʼikuéra ha ⟨את⟩ levíkuéra, ha heʼi chupekuéra: Ese peẽ Juhuda távakuéra-pe, ha eñembyaty Jisrael-gui opaite kuimbaʼe pegua kesef, omoĩ mbarete hag̃ua ⟨את⟩ peẽ Elohim óga, araguive aragua, ha peẽ emombaʼeguasu ko mbaʼe; hákatu levíkuéra ndojepojairamo.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "a8dc9d549a0693eabb69ea7caa3d8f82d1fd574346677f7c10ce6518588a6608",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-chronicles\/24\/5-6.1791267197192.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-chronicles/24/5-6.1791267197192.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -45,11 +45,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pa'ikuéra ha levíkuéra"
+      "marks": "paʼikuéra ha levíkuéra"
     },
     {
       "surface": "הכהנים",
-      "gloss": "pa'ikuéra"
+      "gloss": "paʼikuéra"
     },
     {
       "surface": "והלוים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ha he'i"
+      "gloss": "ha heʼi"
     },
     {
       "surface": "להם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "opaite kuimba'e pegua"
+      "gloss": "opaite kuimbaʼe pegua"
     },
     {
       "surface": "ישראל",
@@ -126,11 +126,11 @@
     },
     {
       "surface": "תמהרו",
-      "gloss": "emomba'eguasu"
+      "gloss": "emombaʼeguasu"
     },
     {
       "surface": "לדבר",
-      "gloss": "ko mba'e"
+      "gloss": "ko mbaʼe"
     },
     {
       "surface": "ולא",

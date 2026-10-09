@@ -14,7 +14,7 @@
     {
       "kind": "substitution",
       "subject": "נא",
-      "rationale": "'Na'\/'I pray' niko mba'erechaha añetegua; ko'ãga oñemoĩ ohechauka hag̃ua mba'erã."
+      "rationale": "'Na'/'I pray' niko mba'erechaha añetegua; ko'ãga oñemoĩ ohechauka hag̃ua mba'erã."
     },
     {
       "kind": "you",
@@ -22,11 +22,11 @@
       "rationale": "Ajitofel ñe'ẽ ojepyso Abchalom-pe ñomongeta añeteguarã."
     }
   ],
-  "translation": "Ha Ajitofel he'i Abchalom-pe: Che aiporavose ko'ãga ⟨pakõi su⟩ kuimba'e, ha ajupi ha aha David hapykuere ñorairõrõ ko pyhare.",
+  "translation": "Ha Ajitofel heʼi Abchalom-pe: Che aiporavose koʼãga ⟨pakõi su⟩ kuimbaʼe, ha ajupi ha aha David hapykuere ñorairõrõ ko pyhare.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "325f55409d690e26785acc1e12f230a75fcfd3b2c6c4cfe9d237a24e069179e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-samuel\/17\/1-1.1791266348055.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-samuel/17/1-1.1791266348055.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "ko'ãga"
+      "gloss": "koʼãga"
     },
     {
       "surface": "שנים",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "kuimba'e"
+      "gloss": "kuimbaʼe"
     },
     {
       "surface": "ואקומה",

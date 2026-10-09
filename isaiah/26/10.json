@@ -14,7 +14,7 @@
     {
       "kind": "crux",
       "subject": "ru'ã",
-      "rationale": "גאות: 'majesty\/excellency' of Jahve here, but the same word means 'pride' elsewhere."
+      "rationale": "גאות: 'majesty/excellency' of Jahve here, but the same word means 'pride' elsewhere."
     },
     {
       "kind": "hapax",
@@ -23,15 +23,15 @@
     },
     {
       "kind": "wordplay",
-      "subject": "tsedek \/ joja pegua \/ ojapo vai",
+      "subject": "tsedek / joja pegua / ojapo vai",
       "rationale": "Verse pivots on צדק vs עוול — righteousness against perversion — repeated from v. 9."
     }
   ],
-  "translation": "Ojehayhu javy'áramo jepe pe rekohái, ha'e ndojapomo'ãi tsedek; yvy joja pegua ojapo vai, ha ndahechamo'ãi Jahve ru'ã.",
+  "translation": "Ojehayhu javyʼáramo jepe pe rekohái, haʼe ndojapomoʼãi tsedek; yvy joja pegua ojapo vai, ha ndahechamoʼãi Jahve ruʼã.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "b45f78fab42a474762df15ef1188e5ac2d53340af0c2bbe69486886be54b0fdc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/26\/9-10.1791266558699.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/isaiah/26/9-10.1791266558699.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,7 +40,7 @@
   "tokens": [
     {
       "surface": "יחן",
-      "gloss": "ojehayhu javy'áramo"
+      "gloss": "ojehayhu javyʼáramo"
     },
     {
       "surface": "רשע",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "למד",
-      "gloss": "ojapomo'ãi"
+      "gloss": "ojapomoʼãi"
     },
     {
       "surface": "צדק",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "יראה",
-      "gloss": "hechamo'ãi"
+      "gloss": "hechamoʼãi"
     },
     {
       "surface": "גאות",
-      "gloss": "ru'ã"
+      "gloss": "ruʼã"
     },
     {
       "surface": "יהוה",

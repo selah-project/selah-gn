@@ -13,8 +13,8 @@
     },
     {
       "kind": "wordplay",
-      "subject": "למבוא\/מוצאי",
-      "rationale": "Hebrew pairs entrance (מבוא) with goings-forth (מוצאי), a going-in\/going-out chiasm rendered as jeike\/osẽha."
+      "subject": "למבוא/מוצאי",
+      "rationale": "Hebrew pairs entrance (מבוא) with goings-forth (מוצאי), a going-in/going-out chiasm rendered as jeike/osẽha."
     },
     {
       "kind": "substitution",
@@ -22,11 +22,11 @@
       "rationale": "לב is heart-mind-will; korasõ renders the inner seat of attention."
     }
   ],
-  "translation": "Jahve ohe'i chéve: yvypóra ra'ý, emoĩ nde korasõ, ehecha nde resa ndive, ha nde apysápe eñehendu ⟨את⟩ opaite mba'e che añe'ẽva ⟨את⟩ nde rehe, opaite Jahve róga rekóre ha opaite iTora rehegua; ha emoĩ nde korasõ oñemombahápe Jahve róga jeike, opaite osẽha marangatu rógagui.",
+  "translation": "Jahve oheʼi chéve: yvypóra raʼý, emoĩ nde korasõ, ehecha nde resa ndive, ha nde apysápe eñehendu ⟨את⟩ opaite mbaʼe che añeʼẽva ⟨את⟩ nde rehe, opaite Jahve róga rekóre ha opaite iTora rehegua; ha emoĩ nde korasõ oñemombahápe Jahve róga jeike, opaite osẽha marangatu rógagui.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "7e2a86305dff80826204dfb538c110f48729de5b1a250854f0a92b8ffdb6e371",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/ezekiel\/44\/5-5.1791266647426.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/ezekiel/44/5-5.1791266647426.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ohe'i"
+      "gloss": "oheʼi"
     },
     {
       "surface": "אלי",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "ra'ý"
+      "gloss": "raʼý"
     },
     {
       "surface": "אדם",
@@ -80,7 +80,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "opaite mba'e"
+      "marks": "opaite mbaʼe"
     },
     {
       "surface": "כל",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mba'e"
+      "gloss": "mbaʼe"
     },
     {
       "surface": "אני",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "añe'ẽva"
+      "gloss": "añeʼẽva"
     },
     {
       "surface": "אתך",

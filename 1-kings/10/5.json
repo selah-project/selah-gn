@@ -9,12 +9,12 @@
     {
       "kind": "crux",
       "subject": "hiꞌaotupy (עלתו)",
-      "rationale": "Crux recognized: עלתו is read as either 'his burnt offering' (YLTL JPS) or 'his ascent\/stairs' (KJV ASV); the reading as burnt offering is followed."
+      "rationale": "Crux recognized: עלתו is read as either 'his burnt offering' (YLTL JPS) or 'his ascent/stairs' (KJV ASV); the reading as burnt offering is followed."
     },
     {
       "kind": "idiom",
       "subject": "ndaipuꞌakvéima chupe pytu",
-      "rationale": "Hebrew idiom 'there was no more רוח in her' — breath\/spirit — rendered as 'his breath left him'."
+      "rationale": "Hebrew idiom 'there was no more רוח in her' — breath/spirit — rendered as 'his breath left him'."
     },
     {
       "kind": "wordplay",
@@ -22,11 +22,11 @@
       "rationale": "The words for table and food are taken together: the food on his table."
     }
   ],
-  "translation": "ha ⟨את⟩ hemi'urã i一动kaꞌaguýpe, ha ⟨את⟩ iñemohenda renda imbaꞌapohárape, ha ⟨את⟩ ijepyharete iñangirũmeꞌẽháranguéra, ha ⟨את⟩ i'aotechakuéra, ha ⟨את⟩ ikaru mbosaráihára kuimbaꞌekuéra, ha ⟨את⟩ hiꞌaotupy Jehova roga pytépe ohupytýva; ha ndaipuꞌakvéima chupe pytu.",
+  "translation": "ha ⟨את⟩ hemiʼurã i一动kaꞌaguýpe, ha ⟨את⟩ iñemohenda renda imbaꞌapohárape, ha ⟨את⟩ ijepyharete iñangirũmeꞌẽháranguéra, ha ⟨את⟩ iʼaotechakuéra, ha ⟨את⟩ ikaru mbosaráihára kuimbaꞌekuéra, ha ⟨את⟩ hiꞌaotupy Jehova roga pytépe ohupytýva; ha ndaipuꞌakvéima chupe pytu.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "96303e994eb2afad4b487270b177298fd27904a7d38cc73b7a08b916f447fd4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/1-kings\/10\/5-5.1791266439747.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/1-kings/10/5-5.1791266439747.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ומאכל",
-      "gloss": "ha ⟨את⟩ hemi'urã"
+      "gloss": "ha ⟨את⟩ hemiʼurã"
     },
     {
       "surface": "שלחנו",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ומלבשיהם",
-      "gloss": "ha ⟨את⟩ i'aotechakuéra"
+      "gloss": "ha ⟨את⟩ iʼaotechakuéra"
     },
     {
       "surface": "ומשקיו",

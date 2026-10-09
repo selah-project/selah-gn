@@ -9,12 +9,12 @@
     {
       "kind": "crux",
       "subject": "פחים",
-      "rationale": "'japepa' (red net) per KJV\/ASV, vs 'carvão pytu'u' (coals) per JPS\/BSB — the same consonants pun on פחם (coal)"
+      "rationale": "'japepa' (red net) per KJV/ASV, vs 'carvão pytu'u' (coals) per JPS/BSB — the same consonants pun on פחם (coal)"
     },
     {
       "kind": "substitution",
       "subject": "haku",
-      "rationale": "זלעפות is a glow\/scorching (of wind or anger), here rendered simply 'haku'"
+      "rationale": "זלעפות is a glow/scorching (of wind or anger), here rendered simply 'haku'"
     },
     {
       "kind": "wordplay",
@@ -22,11 +22,11 @@
       "rationale": "God 'rains' the punishment — same verb as the storm of verse 6, inverted as curse instead of blessing"
     }
   ],
-  "translation": "Oambyasy va'erã umi ivaíva ári: japepakuéra, tata ha itaju kã, ha yvytu haku — pe mbojaovy oguerekóva ⟨ku⟩ guampa ryepýpe.",
+  "translation": "Oambyasy vaʼerã umi ivaíva ári: japepakuéra, tata ha itaju kã, ha yvytu haku — pe mbojaovy oguerekóva ⟨ku⟩ guampa ryepýpe.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "bf1321847f19fa7e21a56aa31b487e9d566e04f1691799d495954ef9d4168238",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/psalms\/11\/6-7.1791266737645.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/psalms/11/6-7.1791266737645.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ימטר",
-      "gloss": "oambyasy va'erã"
+      "gloss": "oambyasy vaʼerã"
     },
     {
       "surface": "על",

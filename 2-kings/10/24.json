@@ -9,7 +9,7 @@
     {
       "kind": "crux",
       "subject": "ימלט",
-      "rationale": "Hiphil 'oheja okañy' (oheja vaʼerã — KJV\/BSB: ojaposéva okañy hag̃ua) vs Hophal 'okañy' (JPS: okañýramo); mokõi jeityrãguápa oĩ."
+      "rationale": "Hiphil 'oheja okañy' (oheja vaʼerã — KJV/BSB: ojaposéva okañy hag̃ua) vs Hophal 'okañy' (JPS: okañýramo); mokõi jeityrãguápa oĩ."
     },
     {
       "kind": "wordplay",
@@ -19,7 +19,7 @@
     {
       "kind": "substitution",
       "subject": "נפש",
-      "rationale": "נפש py'aguapýpe 'pytu\/jaikove' — avañeʼẽme 'iñeikove', ndahaʼéi 'añete' (alma) he'iséva."
+      "rationale": "נפש py'aguapýpe 'pytu/jaikove' — avañeʼẽme 'iñeikove', ndahaʼéi 'añete' (alma) he'iséva."
     },
     {
       "kind": "measurement",
@@ -27,11 +27,11 @@
       "rationale": "Ojepapa mokõi su'ỹre pohãi — papapy tee oĩ haʼeháicha."
     }
   ],
-  "translation": "Oike hikuái ojapo hag̃ua jepe'akuéra ha jepoi'ahakuéra; ha Jehú omoĩ ijapytepe okápe poapy pokõi (80) ñorairõhára, ha heʼi: Yvypóra oheja vaʼerã okañýramo peteĩva umi kuimbaʼe apytégui che amoĩta chupekuéra pe po rupive, iñeikove haʼéta iñeikove rangue.",
+  "translation": "Oike hikuái ojapo hag̃ua jepeʼakuéra ha jepoiʼahakuéra; ha Jehú omoĩ ijapytepe okápe poapy pokõi (80) ñorairõhára, ha heʼi: Yvypóra oheja vaʼerã okañýramo peteĩva umi kuimbaʼe apytégui che amoĩta chupekuéra pe po rupive, iñeikove haʼéta iñeikove rangue.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "a541e4155e08887dbca8ba44199ac822de982995b5c8b898e20ae44a67d5bafd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/2-kings\/10\/24-24.1791266454783.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/2-kings/10/24-24.1791266454783.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -48,11 +48,11 @@
     },
     {
       "surface": "זבחים",
-      "gloss": "jepe'akuéra"
+      "gloss": "jepeʼakuéra"
     },
     {
       "surface": "ועלות",
-      "gloss": "jepoi'ahakuéra"
+      "gloss": "jepoiʼahakuéra"
     },
     {
       "surface": "ויהוא",

@@ -13,7 +13,7 @@
     },
     {
       "kind": "wordplay",
-      "subject": "שפך\/ישפך",
+      "subject": "שפך/ישפך",
       "rationale": "Infinitive ohosyrýva and passive ohasyrýta repeat the same verb — measure-for-measure, preserved via same root in Guaraní."
     },
     {
@@ -24,14 +24,14 @@
     {
       "kind": "substitution",
       "subject": "צלם",
-      "rationale": "ra'anga is 'image\/likeness'; the Hebrew tselem is a carved or representative figure."
+      "rationale": "ra'anga is 'image/likeness'; the Hebrew tselem is a carved or representative figure."
     }
   ],
-  "translation": "Pe ohosyrýva yvypóra tujy, yvypóra rupi ohasyrýta itujy; ra'angápe Elohim ojapo ⟨את⟩ yvypóra.",
+  "translation": "Pe ohosyrýva yvypóra tujy, yvypóra rupi ohasyrýta itujy; raʼangápe Elohim ojapo ⟨את⟩ yvypóra.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "833e19034190a2b7b5214f85a4c691a4ae2ee212d659fef1a2c82562b125e986",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/genesis\/9\/6-6.1791272364174.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/genesis/9/6-6.1791272364174.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "בְּצֶלֶם",
-      "gloss": "ra'angápe"
+      "gloss": "raʼangápe"
     },
     {
       "surface": "אֱלֹהִים",

@@ -18,15 +18,15 @@
     },
     {
       "kind": "elision",
-      "subject": "אנכי\/אני",
+      "subject": "אנכי/אני",
       "rationale": "Mokõi je'eporã che rehegua oĩ ko versículo-pe — oñembohasa 'che' año-pe, ñe'ẽ jehai ijojaha'ỹva."
     }
   ],
-  "translation": "Che, che ajapo yvy ha yvypóra oĩva hese; che ajapo hesakãporãpe; che, che po ndaipohýi oipe'a yvaga, ha umi iporavohára opavavéva che amboja mopya'e.",
+  "translation": "Che, che ajapo yvy ha yvypóra oĩva hese; che ajapo hesakãporãpe; che, che po ndaipohýi oipeʼa yvaga, ha umi iporavohára opavavéva che amboja mopyaʼe.",
   "provenance": {
     "system-sha256": "e4c0f56f9a36dde05517ceb4f0df2b5d324b3b9c51415b930792bdcb0ccd4eb0",
     "user-sha256": "4cfc883fe0529dda33b319cb8193a42a2e715e03b0d7cc6d69266ff5e7a483a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/gn\/isaiah\/45\/12-12.1791266556100.json",
+    "prompt-file": ".selah/sources/translations/prompts/gn/isaiah/45/12-12.1791266556100.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "נטו",
-      "gloss": "ndaipohýi oipe'a"
+      "gloss": "ndaipohýi oipeʼa"
     },
     {
       "surface": "שמים",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "che amboja mopya'e"
+      "gloss": "che amboja mopyaʼe"
     }
   ],
   "timestamp": "2026-10-06T06:02:36.101999258Z",
