@@ -19,7 +19,7 @@ BY-SA 4.0)** ñemoneĩ reheve.
 ## Ko tekorã reheve
 
 - **Ere mávapa ojapo** — emombeʼu porã **Selah** rembiapo
-  (<https://selahproject.com>), emoĩ ñemoneĩ rape, ha ere mbaʼépa
+  (<https://s33k3r.com>), emoĩ ñemoneĩ rape, ha ere mbaʼépa
   remoambue.
 - **Emoasãi upéicha avei** — rejapóramo mbaʼe pyahu ko tembiapo ári,
   emoasãi peteĩchagua ñemoneĩ reheve.

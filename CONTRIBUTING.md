@@ -14,7 +14,7 @@ remoambue mboyve.
 - Eipeʼa peteĩ **Issue** ñongatuhápe:
   <https://github.com/selah-project/selah-gn>
 - Térã, ikatúramo nde ae remyatyrõ, eipeʼa peteĩ **Pull request**.
-- Térã ehai orendéve: <support@selahproject.com>
+- Térã ehai orendéve: <https://s33k3r.com/learn/support>
 
 ## Mbaʼépa oĩ vaʼerã nde jehaípe
 

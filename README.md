@@ -180,13 +180,13 @@ Selah rembiapo.
 
 ## Epytyvõ Selah-pe
 
-<https://selahproject.com>
+<https://s33k3r.com>
 
 ## Selah
 
 - Selah ñeʼẽnguéra — peteĩteĩ ñeʼẽ, héra ha mbaʼéichapa oĩ:
-  https://selahproject.com/learn/languages/index.md
+  https://s33k3r.com/learn/languages/index
 - Mbaʼéichapa ojejapo ñeʼẽpoepy — tape, tekorã ha kuatia rechaukaha:
-  https://selahproject.com/learn/data-sources/selah-renderings.md
+  https://s33k3r.com/learn/data-sources/selah-renderings
 - Hebreo jehaipyre — OSHB / WLC 4.20, opa ñeʼẽpoepy pyenda:
-  https://selahproject.com/learn/data-sources/oshb-wlc.md
+  https://s33k3r.com/learn/data-sources/oshb-wlc
